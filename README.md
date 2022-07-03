@@ -9,7 +9,7 @@ Can be taken from the project exposé. Deviations are listed here later.
 BUCKET_NAMES = ["corpus-iwo-internet-archive-wide00001"]
 AWS_ACCESS_KEY_ID = RVVS0V6VXYYSXS7PFJ25
 AWS_SECRET = XoqNg1RdrTsRxEoKQWs7vjao7S9b745uUcmte4ab
-ENDPOINT_URL = https://s3.dw.webis.de/ <http://s3.dw.webis.de:7480/>
+ENDPOINT_URL = http://s3.dw.webis.de:7480/
 
 [pyspark]
 SPARK_INSTANCES = 5
