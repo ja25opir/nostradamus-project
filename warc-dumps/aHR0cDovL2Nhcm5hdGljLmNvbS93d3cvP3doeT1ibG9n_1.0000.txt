@@ -1,0 +1,230 @@
+Top > blog (?why=blog) (Sort (http://www.carnatic.com/www/indexneu.php?tag=blog) )
+
+carnatic.com (/) > World Wide Wisdom (/www/) < Namaste Netizen. Login (/account/login.php) | Sign-up (/account/register.php) | About (?content_id=34) | Donate (http://www.carnatic.com/donate.php) > Search (wwwsearch.php)
+Prefs: Display: title (?display=1) /+ content/+ tags (?display=3) | Sort: Changed (?sort=changed) /Added/Prio (?sort=prio) | Tags: All (?filter=1) /Strict (?filter=2) /Directory (?filter=3) /4 (?filter=4) /5 | Tag sort: Count/Alpha (?conttypsort=descasc) | Hit/pg: 50/100 (?limit=100)
+Hierarchy
+
+essential (?why=blog-essential)
+
+100 (?why=blog-100)
+
+
+No of displayed entries: 50 / 149
+
+Om (http://www.carnatic.com)    
+
+1 (?content_id=1291) ) Dave Winer (http://www.scripting.com/) :
+
+0 comments (?why=...obj1291...)
+
+2 (?content_id=1287) ) How Much Is a Blog Post Worth? (http://www.stevepavlina.com/blog/2006/09/how-much-is-a-blog-post-worth-would-you-believe-2400-dollars-each/) : ..Ultimately I believe the #1 factor in determining what a blog post is truly worth is the intention of the person who wrote it..
+
+0 comments (?why=...obj1287...)
+
+3 (?content_id=1001) ) NooSphere WikiWeblog  (http://openspirit.homelinux.net/noowiki/floriankonnertz/JOurnal) : A wiki freak on his daily aberration through cyberspace.
+
+0 comments (?why=...obj1001...)
+
+4 (?content_id=968) ) Oracle to move software development to India from California, Sydney, Dublin (http://www.siliconvalley.com/mld/siliconvalley/news/editorial/4578225.htm) : "The benefit of moving work from our other international centers to India is not only in terms of cost but also because of the superior quality of services we get," the paper quoted Keith Budge [ Oracle's regional managing director for South Asia ] as saying.
+
+0 comments (?why=...obj968...)
+
+5 (?content_id=964) ) India to become global hub for mission critical work: Gates (http://economictimes.indiatimes.com/cms.dll/html/comp/articleshow?artid=28152838) : BANGALORE: Microsoft chief Bill Gates said on Wednesday that India was on course to become a global hub for 'mission critical activity' in software as it was increasingly earning a reputation for its quality work and delivery on time.
+
+0 comments (?why=...obj964...)
+
+6 (?content_id=963) ) IBM'S Gerstner Says Company Was Close to Buying SAP - in 1996 (http://quote.bloomberg.com/fgcgi.cgi?mnu=news&ptitle=Technology%20UK&tp=ad_uknews&T=news_storypage99.ht&ad=uktechnology&s=APdC0ixVeSUJNJ1Mg) : International Business Machines Corp. came close to buying Germany's SAP AG, the biggest maker of business software, in 1996, the Financial Times reported, citing IBM Chairman Lou Gerstner's book "Who Says Elephants Can't Dance?" ... IBM had recently acquired Lotus Development Corp., another business software company, and was poised to buy SAP when Gerstner, who was then chief executive officer, vetoed the transaction and instead took IBM out of the business software business, the newspaper said.
+
+0 comments (?why=...obj963...)
+
+7 (?content_id=961) ) Methods GET and POST in HTML forms - what's the difference? (http://www.cs.tut.fi/~jkorpela/forms/methods.html) : In HTML, one can specify two different submission methods for a form. The method is specified inside a FORM element, using the METHOD attribute. The difference between METHOD="GET" (the default) and METHOD="POST" is primarily defined in terms of form data encoding. The official recommendations say that "GET" should be used if and only if the form processing is idempotent, which typically means a pure query form. Generally it is advisable to do so. There are, however, problems related to long URLs and non-ASCII character repertoires which can make it necessary to use "POST" even for idempotent processing.
+
+0 comments (?why=...obj961...)
+
+8 (?content_id=960) ) Adjusting your monitor (http://www.dcdoctor.com/pages/rightpages_wellnesscenter/ergomonics/ergo_monitor.html) : ...Monitor Height - The proper monitor height is vital in preventing gradual neck and upper back strain. The most effective way to determine correct monitor height is to sit correctly in your chair or where ever you view your monitor. Next, close your eyes and position your body and head in a neutral and comfortable position - your spine should be straight and head centered over your shoulders. Then, open your eyes and note at which point your eyes are initially focused on. This area should correlate to the center of your monitors screen or the part of the screen you view most frequently...
+
+0 comments (?why=...obj960...)
+
+9 (?content_id=959) ) Spiritualist Basics (http://www.geocities.com/Athens/Cyprus/5927/sbaseNF.htm) : There is a quality of the universe called vibration. Every thing and every one vibrates. Vibration can be thought of as being on a scale from low (and slow) to high (and fast). Your vibration is low when you are depressed because you have lost your job or have turmoil in your family. You walk into a room where two people have just had a violent argument and you can "cut the tension with a knife" the vibration is low also. When you get up in the morning, it's a beautiful day and you have that feeling that "everything is perfect" or you are feeling love for someone, the vibration is high.
+
+0 comments (?why=...obj959...)
+
+10 (?content_id=958) ) WayPath (http://www.waypath.com) : The Waypath Project is "an attempt to network the weblog community, connecting weblogs that share common themes, ideas, and topics."
+
+0 comments (?why=...obj958...)
+
+11 (?content_id=956) ) Using Amazon Web Services With PHP And SOAP (http://www.devshed.com/Server_Side/PHP/AmazonAPI) : ...It's the coolest store on the Web - and now, its databases are accessible to you. Welcome to Amazon Web Services, an XML-based API that allows you to quickly build an online store that leverages off Amazon.com's massive databases...
+
+0 comments (?why=...obj956...)
+
+12 (?content_id=954) ) SAP Press (http://www.sap-press.com/) : ...
+
+0 comments (?why=...obj954...)
+
+13 (?content_id=953) ) Ways to win, lose at SAP game (http://searchsap.techtarget.com/originalContent/0,289142,sid21_gci861726,00.html) : ...No SAP user expects to be able to go live, and thrive, without mistakes. More often than not, it's the fault of an IT team, and not the SAP software, when projects go awry, according to many experts...
+
+0 comments (?why=...obj953...)
+
+14 (?content_id=917) ) CNN.com - Delhi hit by diesel-free chaos - April 8, 2002 (http://www.cnn.com/2002/WORLD/asiapcf/south/04/08/india.chaos/index.html) : ...The Supreme Court says its decision to allow only CNG-run buses could inconvenience Delhi's commuters for a while, but in the long run it could save them from all sorts of health problems by giving them cleaner air...
+
+0 comments (?why=...obj917...)
+
+15 (?content_id=916) ) BBC News | BUSINESS | Group hugs increase profits (http://news.bbc.co.uk/hi/english/business/newsid_1912000/1912766.stm) : Giving your colleagues a hug first thing in the morning really can boost profits, judging by the experiences of one company. Workers at Farrelly Facilities and Engineering begin and end the day with an embrace. It's produced a happier workforce. Since they started this routine, at the end of 1999, profits at the heating and air conditioning business have more than doubled. One of the directors, John Farrelly, told BBC News Online that none of the 50 workers was forced to cuddle.
+
+0 comments (?why=...obj916...)
+
+16 (?content_id=915) ) Dawn of a new database (http://ww1.infoworld.com/cgi-bin/fixup.pl?story=http://www.infoworld.com/articles/op/xml/02/03/18/020318opwireless.xml&dctag=businessnews) : Oracle makes an OK database. Microsoft's SQL Server and IBM's DB2 aren't bad either. But as data gets collected over wireless and the demand for a warp-speed response increases, all of these well- established - dare I say, old-time - companies may soon get a rude awakening. You see, transactional databases are coming into their own. Think about it. In the old days, only employees had access to a company database, typically used to collect and analyze data and issue reports. Now, anybody with a cell phone can access a database, and it must respond to not hundreds but hundreds of thousands of users, says Paul Grabscheid, VP of strategic planning at InterSystems.
+
+0 comments (?why=...obj915...)
+
+17 (?content_id=914) ) Lenasia's Black Hindu Priest Breaks Myths (http://www.newsindia-times.com/2002/03/29/intl-sa.html) : He used to be a devout Christian until curiosity took him to a Hindu temple in Lenasia town, 25 miles south of this South African city. Four years later, Meshack Jantjies, 35, is South Africa's first black African Hindu priest. Not only does the deputy resident priest at the Siva Gnana Sabay temple have a large following, but with tremendous effort he is also mastering the Tamil language. Initially, Jantjies joined activities at the temple while working as a cleaner there. When his family joined him to live on the premises, he found more time to engage in deeper studies. "The resident priest then made me a tape which I listened to over and over. I learned to recite prayers from the "Thevaram" (collections of Tamil devotion songs) by doing that. I also joined the adult Tamil classes at the temple." Two years ago, Jantjies was appointed the deputy resident priest. He has been fully accepted by the devotees. "When I stand before the people here and lead the prayers, I feel that I am with my own family," said Jantjies. He goes to great pains to emphasize that he was not recruited or converted by anyone. "I was like a wild animal before joining the temple, and now I have found peace with myself. Jantjies now plans to make it his mission to break prevailing myths among other communities about worship at Hindu temples.
+
+0 comments (?why=...obj914...)
+
+18 (?content_id=912) ) SAP has the last laugh - Tech News - CNET.com (http://news.com.com/2100-1017-873796.html) : As SAP, Europe's biggest software maker, marks its 30th anniversary this week, its combative chief executive has cause for a certain satisfaction. Throughout the rise of the New Economy bubble in late 1999 and 2000, CEO Hasso Plattner had to battle charges that SAP was a dinosaur left behind in the explosive growth of the Internet. The company, which Plattner created with four colleagues from IBM, had made its name with big corporate planning systems that were a byword for technical excellence and user unfriendliness, requiring armies of consultants and months of preparation to make them work.
+
+0 comments (?why=...obj912...)
+
+19 (?content_id=906) ) Cauvery In A Puddle (http://www.outlookindia.com/full.asp?fodname=20020121&fname=Chennai+Festival+%28F%29&sid=1) : The 3 page article starts "The total hijack of the South's rich classical arts into airless, Brahmins-only monopolies is stifling genuine growth" and ends "Perhaps only a realisation that monopoly runs counter to the grain of art. For now, they're caught in a dark warp, waiting for light."
+
+Interesting read...
+
+Do not miss the Rants and Raves (http://www.outlookindia.com/rantsmag.asp?
+fodname=20020121&fname=Chennai+Festival+%28F%29&sid=1) for this article too !
+
+If you are a Tamil Brahmin... donot get offended... someone is expressing his point of view... Any criticism is good for growth... Let us look for ways to improve the situation...
+
+If you have not watched tamil film 'Nandanaar'... please do watch it :-)
+
+0 comments (?why=...obj906...)
+
+20 (?content_id=901) ) New Oroville (http://www.catalyticsoftware.com/neworoville.htm) : Catalytic is developing a completely self-contained company community near Hyderabad, called New Oroville. Employees will enjoy modern housing, offices, retail and recreational facilities, as well as religious and civic centers to accommodate their needs without having to travel outside the community.
+
+0 comments (?why=...obj901...)
+
+21 (?content_id=900) ) Targeted Serendipity (http://www.fastcompany.com/feature/02/blood.html) : Weblogs aren't just glorified pages of links and rambling personal sites; they are an antidote to mass media. According to the author of "The Weblog Handbook," Rebecca Blood, they are also bringing creative expression to everyday people when they need it most.
+
+0 comments (?why=...obj900...)
+
+22 (?content_id=882) ) ERP II SAP/Oracle Escalation Wake-up Call (http://www3.gartner.com/DisplayDocument?doc_cd=104511) : Some enterprises with large-scale SAP/Oracle systems have experienced an Oracle DBMS bug, which has exposed problems with the vendors' support escalation processes. In the complex world of ERP II, enterprises with large-scale implementations are likely to experience difficulties that expose flaws in vendors' support and quality assurance processes. Therefore, enterprises should become more proactive with respect to their system support and management. The critical support and escalation issues illustrated by the Oracle DBMS bug will have major ramifications on the credibility of the ERP II Unix market to support large-scale business operations.
+
+0 comments (?why=...obj882...)
+
+23 (?content_id=881) ) SAP’s Application Server Move Will Be "Massively Unsuccessful" (http://www.infoconomy.com/pages/collaborate-instances/group49760.adp#story3) : Speaking at Information Age's Collaborative Commerce conference in London (Jan. 31 - Feb. 1, 2002), Fred Meyer (chief product strategist at application integration vendor Tibco) outlined the role of packaged applications such as SAP's enterprise resource planning (ERP) suite, mySAP.com, in the future of Web services. "There will still be a role for packaged applications behind the firewall," says Meyer, "but the complexity of these systems makes it impossible to build exhaustive integration across applications. The SAP mindset is that "we own this world so you can't touch this," which is why [the move into application development] will be massively unsuccessful."
+
+0 comments (?why=...obj881...)
+
+24 (?content_id=875) ) Carnatic music should reach masses (http://www.hinduonnet.com/thehindu/2001/12/21/stories/2001122102060500.htm) : CHENNAI, INDIA, December 20, 2001: Carnatic music in its pristine form should reach the masses, Mr. M. Karpagavinayagam, judge, Madras High Court told The Hindu newspaper. Lighting the traditional lamp to mark the inaugural of the Rasika Ranjani Sabha's annual music festival 2001- 2002, he said flawless music gained prominence only when it reached the common man. He called upon music organizations to motivate and draw the younger generation into their fold by propagating the joy of carnatic music. Mr. A. R. Santhanakrishnan, sabha president, said efforts were on to revive the sabha's sastriya sangeetha school of music. The auditorium renovation would be carried out with the assistance of sponsors, rasikas, and well wishers.
+
+0 comments (?why=...obj875...)
+
+25 (?content_id=872) ) BizReport : Brits Do Their E-Shopping & E-Banking At Work (http://www.bizreport.com/article.php?art_id=2648&width=1280) : Internet usage figures published this morning show that the average Brit seems to do a lot more than simply work at their place of employment. Many, the NetValue analysis says, seem do a sizeable amount of online shopping and banking during their working hours. The October figures from the Internet research firm, which have just been expanded to cover work and university Internet access, show that 7.8 million Brits - 25% of the workforce - now access the Net from their place of employment. The problem, the research firm says, is that many also access the Net during their normal working hours - i.e., when they should be working.
+
+0 comments (?why=...obj872...)
+
+26 (?content_id=868) ) Muslim Life in America - Office of International Information Programs, U.S. Department of State (http://usinfo.state.gov/products/pubs/muslimlife/) : Islam is considered one of the fastest-growing religions in the United States today.
+
+0 comments (?why=...obj868...)
+
+27 (?content_id=867) ) vnunet.com: SAP will back .Net (http://www.computing.vnunet.com/News/1126597) : German software giant SAP AG said it would back both Microsoft's .Net strategy and rival Sun Microsystems' Java technology, rebutting reports this week that SAP would give its full backing to the Sun platform.SAP North American spokesperson Bill Wohl said a lot of interest had been created by the inaccurate and incomplete newspaper story. "We've spent the last 24 hours trying to balance it." According to Wohl, the UK's Financial Times got the story wrong; they relied on the wrong sources.
+
+0 comments (?why=...obj867...)
+
+28 (?content_id=865) ) what is life all about ? (?content_id=865) : You are up and you are happy. You are down and you are sad. All ups and downs help you to find a balance in your being. This is what life is all about. Once balanced, no more ups and downs, but bliss and joy and silence and gratitude. --- Tishan
+
+0 comments (?why=...obj865...)
+
+29 (?content_id=864) ) You Can't Create a Leader in a Classroom. (http://www.fastcompany.com/online/40/wf_mintzberg.html) : "The MBA trains the wrong people in the wrong way for the wrong reasons." -- Henry Mintzberg, author and professor at McGill University
+
+0 comments (?why=...obj864...)
+
+30 (?content_id=863) ) The Wellsprings of Horror in the Cradle (http://www.nospank.org/miller17.htm) : Alice Miller, a 1986 recipient of the Janusz Korczak Literary Award by the Anti-Defamation League, has sought to find answers to the tragedy of terrorism and the people who perpetrate it. She believes, "On the basis of the research I have done into the childhood histories of the most ruthless dictators, like Hitler, Stalin, Mao or Ceaucescu, terrorism in general and the recent horrifying attacks on the United States are a macabre but precise demonstration of what happens to millions and millions of children the world over in the name of good parenting." She adds that "nobody comes to the world with the wish to destroy. Every newborn, independently from the culture, religion or ethnic origins needs to love, be loved, protected, and respected. This is his biological design. If he is maltreated by the cruel upbringing he will develop the very strong wish to take revenge. He will be driven to destroy others or himself but only by his history and never by inborn genes. The suppression and subsequent denial of early rage that often ends up in hatred with an endless number of ideologies." Miller resides in Switzerland and hosts a website www.alice-miller.com where her readers can share their experiences with others.
+
+
+0 comments (?why=...obj863...)
+
+31 (?content_id=862) ) hibakusha (http://whatsnextonline.com/wno/current.html) : On September 11, I became a modern version of a hibakusha. That’s what Japanese people who lived through the Hiroshima atomic bombings in World War II called themselves. This translates to "explosion- affected persons." They were careful not to refer to themselves as "survivors" because that word’s emphasis on being alive could slight the sacred dead.
+
+0 comments (?why=...obj862...)
+
+32 (?content_id=861) ) Line56.com: SAP Denies FT Report on .Net  (http://www.line56.com/articles/default.asp?NewsID=3088) : SAP denied a report in today's edition of The Financial Times that CEO Hasso Plattner will announce that his company will choose Sun's J2EE architecture over rival Microsoft's .Net platform. "The Financial Times coverage was just wrong," says Bill Wohl, North American spokesman at SAP. "For the last eight months, Mr. Plattner has talked about SAP's strategy of openness. And next Tuesday, we'll announce our next generation technology architecture... that will support .Net, J2EE and much more."
+
+0 comments (?why=...obj861...)
+
+33 (?content_id=860) ) Magician Loses Its Sparkling Touch (http://news.ft.com/ft/gx.cgi/ftc?pagename=View&c=Article&cid=FT34XVQOETC&live=true&query=SAP) : SAP, Europe's largest software maker, had been doing so well this year that it was starting to look more like the work of black magic than skilful management. That, at least, was the impression until recently when it became the last sizeable player in its devastated sector to issue a profit warning. No longer under the spell, analysts are now wondering whether the warning was a blip or the prelude to more serious problems for the German group. At the very least, they say, the episode has pointed to serious weaknesses that must be addressed quickly. One of them lies in SAP's handling of its last results announcement, which not only irritated investors but also fanned fears the group may have lost "visibility" on developments in its market...As Mr Ashton puts it: "You can have the biggest firework in the world, it is no good if you do not have the audience."
+
+0 comments (?why=...obj860...)
+
+34 (?content_id=859) ) SAP Chooses Sun Micro Platform Over Microsoft  (http://news.ft.com/ft/gx.cgi/ftc?pagename=View&c=Article&cid=FT3RGFNNETC&live=true&useoverridetemplate=ZZZ3XDHE90C&tagid=ZZZA31PK20C) : SAP, Europe's biggest software group, has decided not to use Microsoft's .Net software platform and is instead backing a competing offering from Sun Microsystems. Hasso Plattner, SAP chief executive, will announce next week that the German group is to adopt Sun's J2EE architecture, a development platform for enterprise software based on the Java programming language, to run SAP software. SAP's move is likely to be a blow to Microsoft, as the German group has one of the largest customer bases of any business software developer.
+
+0 comments (?why=...obj859...)
+
+35 (?content_id=858) ) BBC News | HEALTH | Is yoga good for you? (http://news.bbc.co.uk/hi/english/health/newsid_1620000/1620548.stm) : People who sit at a desk all day and the only exercise they get is walking to their car, need to do more vigorous exercise than yoga
+
+0 comments (?why=...obj858...)
+
+36 (?content_id=857) ) MOFGA - the MOF&G:2001 - Dr. Vandana Shiva (http://www.mofga.org/mofgd01v.html) : When Dr. Vandana Shiva attended the Maine Organic Farmers and Gardeners Association and the Common Ground Country Fair in September, she brought with her a stirring message. Honored as an international leader in her promotion of organic farming, she flew from her home in Doon Valley, India, on a flight after the terrorist attacks. With courage and fortitude, she has advocated organic methods of farming as the core and essence of a peaceful society. When plants are able to grow by natural means in rich soil untouched by the violence of chemicals, the result is peaceful farmers and families. Dr. Vandana herself has seen the results of chemically ravaged land farmed by huge corporations in the Punjab. Local farmers, unable to make a living for their families, have lost their dignity and respect. After praising the MOFGA for their work in endorsing organic farming, Dr. Vandana drew parallels in this area with her own organic farm in the foothills of the Himalayas
+
+0 comments (?why=...obj857...)
+
+37 (?content_id=856) ) United States Response to CBW Terrorism and Domestic Preparedness (http://www.cns.miis.edu/research/cbw/domestic.htm) : A cartoonist couldn't have done that deliberately.
+
+0 comments (?why=...obj856...)
+
+38 (?content_id=855) ) India may dominate global economy, says Marc Faber (The Financial Express: Investor) (http://www.financialexpress.com/fe20011019/invest2.html) : India and the other emerging markets have a bright future and may eventually dominate the global economy, if Dr Marc Faber is to be believed. The Hong Kong-based investment advisor has predicted the rise of emerging economies vis-a-vis the US. He also hinted that the next boom may not be lead by the much hyped technology sector
+
+0 comments (?why=...obj855...)
+
+39 (?content_id=854) ) BBC News | SOUTH ASIA | Top award for Indian film singer (http://news.bbc.co.uk/hi/english/world/south_asia/newsid_1608000/1608889.stm) : "If your thoughts remain simple, your face remains young, and your voice, youthful." - WOW
+
+0 comments (?why=...obj854...)
+
+40 (?content_id=853) ) My Mission-Critical Software (http://scriptingnews.userland.com/stories/storyReader$984) : So here's a list of the software that I use, including a rough frequency of use, and whether or not it is open source
+
+0 comments (?why=...obj853...)
+
+41 (?content_id=852) ) Novel Security Measures (http://www.citypaper.net/articles/101801/news.godfrey.shtml) : By carrying the novel Hayduke Lives!, Neil Godfrey set off a bizarre turn of events that prevented him from flying.
+
+0 comments (?why=...obj852...)
+
+42 (?content_id=850) ) SAP lowers revenue target - Oct. 18, 2001 (http://money.cnn.com/2001/10/18/international/sap/) : SAP, the world's biggest business software publisher, lowered its 2001 revenue target on Thursday and said it would cut more jobs.
+
+0 comments (?why=...obj850...)
+
+43 (?content_id=849) ) Who\'s Fast 2002 (http://www.fastcompany.com/online/52/wf_intro.html) : This year's Who's Fast celebration presents 11 unsung heroes and rising stars -- high-impact figures from all walks of life and from all kinds of companies and organizations. These are neither the most famous people in business nor the richest. These are people who matter because of the reach of their ideas and the depth of their impact -- people who are shaping the future of strategy, competition, work, and change.
+
+0 comments (?why=...obj849...)
+
+44 (?content_id=848) ) Tech-visa workers feel heat (http://www.usatoday.com/money/covers/2001-10-17-bcovwed.htm) : "The mood at work turned from cordial to antagonistic," Prasad says. Because of Sept. 11 and the ensuing assaults on Indians, his mother, who still lives in India, has urged him to move to India because she fears for his safety.
+
+0 comments (?why=...obj848...)
+
+45 (?content_id=847) ) America Attacked 9 1 1 (http://www.powforum.org/wtc/) : Dedicated to the men, women and children who lost their lives; all those who sacrificed their lives; And to all the Heroes that responded to the emergency 11 September 2001
+
+0 comments (?why=...obj847...)
+
+46 (?content_id=846) ) Prayer and Pregnancy 10/17/01 (http://www.mercola.com/2001/oct/17/prayer_pregnancy.htm) : Researchers at Columbia University, expressing surprise at their own findings, are reporting that women at an in vitro fertilization clinic in Korea had a higher pregnancy rate when, unknown to the patients, total strangers were asked to pray for their success.
+
+0 comments (?why=...obj846...)
+
+47 (?content_id=843) ) Work Together, Stay in Place (http://www.fastcompany.com/invent/invent_feature/virtualteams.html) : Learn how some smart organizations and quick learners are working virtually, efficiently, and seamlessly around the globe today
+
+0 comments (?why=...obj843...)
+
+48 (?content_id=842) ) V.S. Naipaul Awarded 2001 Nobel Prize for Literature (http://www.nytimes.com/reuters/world/international/nobel-literature.html) :
+
+0 comments (?why=...obj842...)
+
+49 (?content_id=841) ) Navigating isn\'t fun (http://www.cooper.com/newsletters/2001_10/navigating_isnt_fun.htm) : To the user, each successive screen is the equivalent of a new window or dialog in conventional software. My axiom is: "A window is another room. Have a good reason to go there." If the user is working on information on one screen, don't send her to another screen to work on that same information.
+
+0 comments (?why=...obj841...)
+
+50 (?content_id=840) ) India helped FBI trace ISI-terrorist links (http://www.timesofindia.com/articleshow.asp?art_ID=1454238160) : A direct link between the ISI and the WTC attack could have enormous repercussions
+
+0 comments (?why=...obj840...)
+
+1 (?why=blog&offset=0) 2 (?why=blog&offset=50) 3 (?why=blog&offset=100) NEXT (?why=blog&offset=50)
+
+
+Display entries of users: kishore (?user_n=kishore) mokshore (?user_n=mokshore) sushma (?user_n=sushma) kishore1 (?user_n=kishore1) chandramouli (?user_n=chandramouli) dannychamp (?user_n=dannychamp) groovehunter (?user_n=groovehunter) ramsk (?user_n=ramsk) jeevav (?user_n=jeevav) steven3001 (?user_n=steven3001) kavitha (?user_n=kavitha) poorninmk (?user_n=poorninmk) manjularamv (?user_n=manjularamv) patriziioo (?user_n=patriziioo) btd108 (?user_n=btd108) jeeva (?user_n=jeeva) saravan (?user_n=saravan) sugantha1 (?user_n=sugantha1) nrityamnj (?user_n=nrityamnj) sudhakar_ks (?user_n=sudhakar_ks) gnanananda (?user_n=gnanananda) srilakrishna (?user_n=srilakrishna) sowmyatk (?user_n=sowmyatk) venky3179 (?user_n=venky3179) meh2490 (?user_n=meh2490) jaysree (?user_n=jaysree) abhijit (?user_n=abhijit) mvparamesh (?user_n=mvparamesh) jpadm (?user_n=jpadm) tetonmama (?user_n=tetonmama) mocherla (?user_n=mocherla) sowmya (?user_n=sowmya) sirisha (?user_n=sirisha) shivakripa (?user_n=shivakripa) ramachandrudu (?user_n=ramachandrudu) sreenaths (?user_n=sreenaths) vijay2525 (?user_n=vijay2525) rkishore9 (?user_n=rkishore9) byblos (?user_n=byblos) anuradharengan (?user_n=anuradharengan) creativesplash (?user_n=creativesplash) chithraram (?user_n=chithraram) rvpsarma (?user_n=rvpsarma) nandinianant (?user_n=nandinianant) ronmathews (?user_n=ronmathews) violinmurali (?user_n=violinmurali) kalyaniveena (?user_n=kalyaniveena) janulatha (?user_n=janulatha) blackunicorn010 (?user_n=blackunicorn010) sudha (?user_n=sudha) kshi75 (?user_n=kshi75) ananta35 (?user_n=ananta35) natraj18 (?user_n=natraj18) prabha (?user_n=prabha) aparnad (?user_n=aparnad) tinny (?user_n=tinny) promise (?user_n=promise) leela (?user_n=leela) raghuramr (?user_n=raghuramr) nairnair (?user_n=nairnair) kv2000 (?user_n=kv2000) valluvan (?user_n=valluvan) shivaa (?user_n=shivaa) rramesh (?user_n=rramesh) aaronsw (?user_n=aaronsw) kamakshi (?user_n=kamakshi) vilabhi (?user_n=vilabhi) epnampoothiri (?user_n=epnampoothiri) shoba1976 (?user_n=shoba1976) giyer (?user_n=giyer) aaaaaaaa (?user_n=aaaaaaaa) sgopal (?user_n=sgopal) bharathi (?user_n=bharathi) dmani (?user_n=dmani) kalarpana (?user_n=kalarpana) nanda (?user_n=nanda) priyasunder (?user_n=priyasunder) jsiyer (?user_n=jsiyer) rajeshwari (?user_n=rajeshwari) lakshmijagadish (?user_n=lakshmijagadish) bhuvanak (?user_n=bhuvanak) sivasweb (?user_n=sivasweb) manju (?user_n=manju) govind (?user_n=govind) ragaman (?user_n=ragaman) ljveena (?user_n=ljveena) ursilaj (?user_n=ursilaj) metabaron (?user_n=metabaron)
+carnatic.com (http://www.carnatic.com/) > world wide wisdom (http://www.carnatic.com/www/) > [ statistics (http://www.carnatic.com/www/statistics.php) / About (http://www.carnatic.com/www/index.php?content_id=34) / donate (http://www.carnatic.com/donate.php) / Contact (http://www.carnatic.com/contact/) for feedback & suggestions.. ]
