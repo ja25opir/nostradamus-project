@@ -6,11 +6,11 @@ import time
 
 import resiliparse.parse.lang
 
-from pipelines.text_pipeline import TextPipeline
+from candidate_extraction.candidate_pipeline import CandidatePipeline
 from pipelines.tools.passthrough_model import PassthroughModelPipeline
 
 
-class RegexCounterPipeline(PassthroughModelPipeline, TextPipeline):
+class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
     """
     This pipeline allows to search for regex occurrences within the texts from the text pipeline.
     The texts are discarded; only the count is reported.
