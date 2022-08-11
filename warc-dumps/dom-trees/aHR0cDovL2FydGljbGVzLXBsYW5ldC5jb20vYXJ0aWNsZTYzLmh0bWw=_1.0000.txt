@@ -1,0 +1,287 @@
+<!DOCTYPE html><html><head>
+<title>Free Article Directory-Free Content-Submit Articles immediate Approval</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="google-site-verification" content="vBSr3TVwdW2TRRmsjQ91MFcJ6AaXMUEkSbKKC982exg">
+<link href="images/class.css" rel="stylesheet" type="text/css">
+</head>
+
+<body leftmargin="0" topmargin="0">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td height="89" background="images/topbg.gif"><table width="778" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="89" valign="bottom" background="images/top.gif" style="background-repeat:no-repeat; padding-bottom:5"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+             <tbody><tr>
+                <td width="74%" rowspan="3" style="padding-left:20"><a href="index.php"><img src="images/trans.gif" width="443" height="65" border="0" alt=""></a></td>
+                <td class="bodylinks" style="padding-left:3">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="26%" class="bodylinks" style="padding-left:3"><a href="index.php" class="bodylinks"><strong>Home</strong></a> 
+                  | <a href="index.php?pagedb=aboutus" class="bodylinks"><strong>About Us</strong></a> 
+                  |<a href="index.php?pagedb=contactus" class="bodylinks"> <strong>Contact Us</strong></a></td>
+              </tr>
+			   <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                    <tbody><tr>
+                      <td width="94%" align="right"><form action="index.php" name="searchform" method="GET">
+                          <input name="q" type="text" class="textbox" size="18">
+						  <input name="page" type="hidden" class="textbox" size="18" value="search">
+                      </form></td>
+                      <td width="6%" align="right"><input type="image" name="search" src="images/go.gif" width="25" height="24" border="0"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>              
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="20" align="center" background="images/linksbg.gif" class="bodylinks1"><a href="index.php?page=submitarticle" class="bodylinks1"><strong>Submit 
+      Articles</strong></a><strong> | <a href="index.php?page=login" class="bodylinks1">Member Login</a> 
+      | <a href="index.php?page=topauthor" class="bodylinks1">Top Authors</a> | <a href="index.php?page=mostpopulararticles" class="bodylinks1">Most 
+      Popular Articles</a> | <a href="index.php?pagedb=Submission Guildlines" class="bodylinks1">Submission Guidelines</a> 
+      | <a href="index.php?page=allcategory" class="bodylinks1">Categories</a> | <a href="index.php?pagedb=rss" class="bodylinks1">RSS 
+      Feeds <img src="images/rss.jpg" border="0" alt="See As RSS"></a></strong></td>
+  </tr>
+  <tr> 
+    <td height="21" background="images/stripbg.gif">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="17%" valign="top" background="images/newsletterbg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			              <tbody><tr> 
+                <td><img src="images/memberlogin.gif" width="177" height="28" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="images/loginhere.gif" width="177" height="44" alt=""></td>
+              </tr>
+              <tr> 
+                <td background="images/loginbg.gif"><table width="95%" border="0" align="right" cellpadding="0" cellspacing="1">
+                    <tbody><tr class="text"> <form action="" name="login" method="post"></form>
+                      <td width="46%"><img src="images/username.gif" width="60" height="11"></td>
+                      <td width="54%"><input name="user_name" autocomplete="off" type="text" class="textbox" size="12"></td>
+                    </tr>
+                    <tr class="text"> 
+                      <td><img src="images/password.gif" width="60" height="11"></td>
+                      <td><input name="password" type="password" class="textbox" size="12"></td>
+                    </tr>
+                    <tr class="text"> 
+                      <td>&nbsp;</td><input type="hidden" value="1" name="submitlogin">
+                      <td><input type="image" src="images/submit.gif" width="72" height="25" border="0" name="submit"></td>
+                    </tr>
+                    <tr class="text"> 
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr class="text"> 
+                      <td colspan="2"><span class="bodylinks1"><a href="index.php?page=forgetpassword" class="bodylinks1"><u>Forgot 
+                        Password?</u></a></span> &nbsp;&nbsp;&nbsp;<span class="bodylinks1"><a href="index.php?page=register" class="bodylinks1"><u>New 
+                        User?</u></a></span></td>
+                    </tr>
+
+                  </tbody></table></td>
+              </tr>
+			                <tr> 
+                <td><img src="images/loginbot.gif" width="177" height="20" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="images/categories.gif" width="177" height="45" alt=""></td>
+              </tr>
+              <tr> 
+                <td background="images/loginbg.gif" style="padding-left:10; padding-right:5; padding-top:5"><table width="100%" border="0" cellspacing="1" cellpadding="0">
+				                    <tbody><tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category114.html" class="mainlink">Home Improvement</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category4.html" class="mainlink">Business</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category55.html" class="mainlink">Data Recovery</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category82.html" class="mainlink">Real Estate</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category2.html" class="mainlink">Arts &amp; Entertainment</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category138.html" class="mainlink">Site Promotion</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category72.html" class="mainlink">Currency Trading</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category56.html" class="mainlink">Games</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category137.html" class="mainlink">SEO</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category44.html" class="mainlink">Travel &amp; Leisure</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category79.html" class="mainlink">Mortgage</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category45.html" class="mainlink">Vehicles</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category90.html" class="mainlink">Acne</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category196.html" class="mainlink">Cars</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7" alt=""></td>
+                      <td width="92%"><a href="category33.html" class="mainlink">Finance</a></td>
+                    </tr>
+                                     </tbody></table></td>
+              </tr>
+              <tr> 
+                <td height="20" background="images/loginbot.gif" class="bodylinks" style="padding-left:10; padding-top:3"><img src="images/arrow.gif" width="10" height="9" alt=""> 
+                  <a href="index.php?page=allcategory" class="bodylinks"><strong>View all Categories</strong></a></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#FFFFFF"><img src="images/trans.gif" width="1" height="5" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="images/newslettertop.gif" width="177" height="24" alt=""></td>
+              </tr>
+              <tr>
+                <td background="images/newsletterbg.gif" style="padding-left:10"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+                    <tbody><tr> <form action="index.php?page=register" name="searchform" method="POST"></form>
+                      <td><input name="email" type="text" class="textbox" autocomplete="off" size="25"></td>
+                    </tr>
+                    <tr> 
+                      <td><input type="image" name="subscribe" src="images/subscribe.gif" width="98" height="16" border="0">
+					 </td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+			<td width="83%" align="left" valign="top" style="padding-left:10"> <table width="100%" border="0" cellspacing="0" cellpadding="5">
+	  <tbody><tr>
+		<td class="text"><span class="heading">Welcome to Free Article Directory-Immediate Approval!</span><br>
+		  <br>
+		  <span class="headingsmall"><a href="index.php" class="bodylinks">Articles</a> » <a href="category36.html" class="bodylinks">Home-&amp;-Family</a> » <a href="category114.html" class="bodylinks">Home-Improvement</a> &gt;&gt; View Article</span><br><br>
+		  <a href="http://www.my.wjunk.com/aff.php?aff=003"> <img src="http://lh4.ggpht.com/_Q0y04XdGpZs/TBrYOJ1ZipI/AAAAAAAAAE4/4hzA5qSk3zY/s400/234x60.png"> </a>		  
+		  </td>
+	  </tr>
+	  
+	  <tr>
+		<td>
+
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+		
+			<tbody><tr> 
+			  <td><img src="images/boxlefttp.gif" width="15" height="21"></td>
+			  <td width="100%" background="images/boxtopbg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+				  <tbody><tr>
+					<td class="heading"><font color="#FFFFFF"></font></td>
+					
+				  </tr>
+				</tbody></table></td>
+			  <td align="right"><img src="images/boxrighttp.gif" width="12" height="21"></td>
+			</tr>
+			
+			<tr> 
+			  <td colspan="3"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="EDDBDB" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><strong>Granite Countertops slate</strong></td>
+						  <td width="35%" align="right" class="heading"><em><font color="#333333">By: 
+							Amit Jain</font></em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="F4E9E9" class="text" style="padding-left:15; padding-right:10">Home remodelers and builders have contributed to a boom in the demand for granite work tops in kitchens and bathrooms. The beauty and warmth of granite makes it an ideal material for aesthetic in home design, and the durability and easy care of granite worktops keep it a favorite for homeowners who are in the future. Though adding granite worktops for every kitchen can be very costly, they remain the premiere choice in upscale homes, as they retain their value better than most other improvements. <br>
+<br>
+Granite, like marble and other popular stones are as old as the Earth. Granite is all over the world. As a preferred material, granite was in the construction of temples and other public buildings in ancient societies. In the recent past many builders continued to use granite for pillars and exterior finishes. Stone suppliers do not begin experimenting with polished granite to 1831. The preference for polished granite began in 1851, when a finished piece of granite was in London at the Great Exhibition of Industry of all Nations. <br>
+<br>
+Granite is an excellent medium for job boards, because it is the lasting of all stones. The hardness of granite is to compete only by the hardness of diamonds. The durability and versatility of granite work surfaces makes it a favorite of professional and home cooks. Granite holds the placement of a hot pot and serves as an excellent surface for handling doughs and confectionery. The natural beauty of granite work surfaces complement any tone of wood or style of housing, from French country to sleek modern styles. Granite is an attractive stone, bringing color and warmth to any room. <br>
+<br>
+A popular choice of designers for decades, granite worktops have become popular with the public. There are literately hundreds of colors of granite, from variations of white through brown, red, green, blue and black. Brown and beige tones are the most popular because they are good with most any kitchen color scheme, the greater flexibility in the renovation over the years. Some of the granite colors Exhibition "movement", "" or the project that in the natural colors. Movement from large patterns can be the eye quickly over the surface of the worktop, while small patterns have a sedate appearance. The combination of color and movement means that no two boards are working exactly the same. <br>
+<br>
+While granite worktops are a popular choice because of its beauty and durability, they are not impervious to damage. Regular care includes proper cleaning and use of sealers to prevent staining. Although granite is very hard, it can easily be chipped. A qualified professional can perform repairs, which are almost invisible. <br>
+<br>
+Granite work tops can cost more than other materials worktops, with prices starting at $ 60 per square foot installed. The majority of costs are not included in the stone, but in the quarry work, cutting, transportation, polishing and installations. It is not recommended that the do-it-yourself homeowner, which in this project. Despite the strength of granite, the oversized slab sheets must be precisely cut to the counter, and are very delicate when transported. Particular care needs to the base housing, and the slab must be perfectly level. Failure to properly comply with a granite worktop could cause it to during normal use. <br>
+<br>
+When a homeowner desires the utility of worktops in granite, but is unable or unwilling to pay a higher price to pay off for granite worktops can be a good choice. Dealer groups or levels of the stone based on popularity of color and movement. Lower tiered cuts of stone, the line features in the granite is known, but in the shade of a color can vary with current fashion trends. <br>
+<br>
+Granite work tops continue to be a favorite of homeowners, architects and interior designers. The timeless beauty and durability of granite makes it a home improvement treasure to last a lifetime. <br>
+<a href="http://marble.stoneworthindia.com/" target="_blank">http://marble.stoneworthindia.com/</a><br>
+<a href="http://sandstone.stoneworthindia.com/" target="_blank">http://sandstone.stoneworthindia.com/</a><br>
+<a href="http://www.stoneworthindia.com/" target="_blank">http://www.stoneworthindia.com/</a></td>
+				  </tr>
+				   <tr> 
+					<td bgcolor="EDDBDB" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><u>Total Views : 49</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Word Count Appx. : 646</u></td>
+						  <td width="35%" align="right" class="heading"><a href="index.php?page=author&amp;author_name=Amit Jain" class="bodylinks"><strong>See All articles From Author</strong></a></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+			
+			 <tr> 
+			  <td align="left" background="images/boxbotbg.gif"><img src="images/boxbotleft.gif" width="13" height="6"></td>
+			  <td background="images/boxbotbg.gif"><img src="images/boxbotbg.gif" width="4" height="6"></td>
+			  <td><img src="images/boxbotright.gif" width="11" height="6"></td>
+			</tr>	
+		 <tr> 
+			  <td colspan="2"><img src="images/trans.gif" width="4" height="9"></td>
+		</tr>
+		  </tbody></table>
+		  <hr color="D6D6D6">
+			
+
+		  </td></tr></tbody></table> 
+		 
+
+		    <a href="http://www.my.wjunk.com/aff.php?aff=003">webhosting @ 1.99 Only </a>		  
+		</td>
+		
+	  </tr>
+	</tbody></table></td>
+</tr>
+</tbody></table>
+	
+  
+
+<table width="100%">
+<tbody><tr>
+    <td height="107" align="center" valign="top" background="images/btbg.gif" class="botlinks" style="padding-top:30">© 
+      2009Free Article Directory-Immediate Approval. All Rights Reserved. Use of our service is protected 
+      by our <span class="bodylinks"><a href="index.php?pagedb=privacy" class="bodylinks"><strong><u>Privacy 
+      Policy</u></strong></a></span> and <span class="bodylinks"><a href="index.php?pagedb=tos" class="bodylinks"><strong><u>Terms 
+      of Service</u></strong></a></span><br></td>
+  </tr>
+  </tbody></table>
+<br>
+
+<script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('32o300nwm450')</script>
+
+
+</body></html>

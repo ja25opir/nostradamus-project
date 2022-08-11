@@ -1,0 +1,80 @@
+<!DOCTYPE html><html lang="en"><head>
+<title>Information Technology Jobs in Badakhshan, Afghanistan - All Afghanistan Jobs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css" media="screen">
+@import url(/core/afghanistan/css.php);
+</style>
+</head>
+<body>
+<div id="mainbox"><div id="indexlogo"></div>	
+
+<form method="get" action="search_results.php" class="searchform"><div id="topSearch"><div class="searchtitle">Search Jobs</div>
+<input type="hidden" name="type" value="quick">
+<select name="loc"><option value="0">All Locations</option><option value="52749" selected>Badakhshan</option><option value="52750">Badghis</option><option value="52751">Baghlan</option><option value="52752">Balkh</option><option value="52753">Bamiyan</option><option value="52754">Daykundi</option><option value="52755">Farah</option><option value="52756">Faryab</option><option value="52757">Ghazni</option><option value="52758">Ghor</option><option value="52759">Helmand</option><option value="52760">Herat</option><option value="52761">Jowzjan</option><option value="52762">Kabul</option><option value="52763">Kandahar</option><option value="52764">Kapisa</option><option value="52765">Khost</option><option value="52766">Kunar</option><option value="52767">Kunduz</option><option value="52768">Laghman</option><option value="52769">Lowgar</option><option value="52770">Nangarhar</option><option value="52771">Nimruz</option><option value="52772">Nuristan</option><option value="52773">Oruzgan</option><option value="52774">Paktia</option><option value="52775">Panjshir</option><option value="52776">Parwan</option><option value="52777">Samangan</option><option value="52778">Sar-e Pol</option><option value="52779">Takhar</option><option value="52780">Wardak</option><option value="52781">Zabul</option></select><select id="topjobtype" name="jobtype"><option value="0">All Job Types</option><option value="847">Administration</option><option value="1011">Advertising/Marketing/Public Relations Roles</option><option value="1022">Bilingual/Translation</option><option value="932">Catering Roles</option><option value="1037">Creative Roles</option><option value="893">Customer Service</option><option value="1077">Domestic Help &amp; Care</option><option value="1026">Driver/Crew</option><option value="915">Education Roles</option><option value="854">Engineer</option><option value="960">Entertainment Roles</option><option value="832">Financial and Accounting roles</option><option value="1017">Funeral Service Roles</option><option value="955">Hair &amp; Beauty Roles</option><option value="991">HR/Personnel Department Roles</option><option value="972">IT</option><option value="1061">Law Enforcement/Security</option><option value="907">Lawyer/Legal Roles</option><option value="873">Management Roles</option><option value="1047">Medical &amp; Healthcare</option><option value="1082">Pet and Animal Welfare Roles</option><option value="1044">Publishing/Printing Roles</option><option value="897">Purchaser/Buyer Roles</option><option value="925">Realtor/Estate Agent</option><option value="866">Sales</option><option value="941">Scientist</option><option value="903">Secretary/PA/Receptionist roles</option><option value="999">Skilled Trade Roles</option><option value="883">Student / Summer Jobs</option><option value="1069">Travel Roles</option></select><select id="topsector" name="sec"><option value="0">All Sectors</option><option value="545">Accountancy</option><option value="594">Administrative and Support Services</option><option value="547">Advertising/Marketing/Public Relations</option><option value="548">Aerospace/Aviation/Defense</option><option value="549">Agriculture, Forestry, &amp; Fishing</option><option value="550">Airlines</option><option value="546">Apparel, Textiles</option><option value="551">Architectural Services</option><option value="552">Arts, Entertainment, and Media</option><option value="553">Automotive/Motor Vehicle/Parts</option><option value="554">Banking</option><option value="555">Biotechnology and Pharmaceutical</option><option value="556">Building and Grounds Maintenance</option><option value="557">Business Opportunity/Investment Required</option><option value="558">Consulting Services</option><option value="559">Customer Service and Call Center</option><option value="560">Education, Training</option><option value="561">Electronics</option><option value="562">Engineering</option><option value="563">Environmental Services</option><option value="564">Financial Services</option><option value="565">Government and Policy</option><option value="580">Hair and Beauty</option><option value="567">Hospitality/Tourism</option><option value="568">Human Resources/Recruiting</option><option value="569" selected>Information Technology</option><option value="570">Installation, Maintenance, and Repair</option><option value="571">Insurance</option><option value="572">Law Enforcement / Security Services</option><option value="573">Legal</option><option value="574">Manufacturing and Production</option><option value="566">Medical and Healthcare</option><option value="575">Military</option><option value="576">Nonprofit / NGO / Charity / Aid Organization</option><option value="577">Oil, Gas, Utilities</option><option value="578">Pets &amp; Animal Welfare</option><option value="581">Publishing/Printing</option><option value="582">Purchasing</option><option value="583">Real Estate/Mortgage</option><option value="584">Research &amp; Development</option><option value="585">Restaurant and Food Service</option><option value="586">Retail/Wholesale</option><option value="587">Sales</option><option value="588">Science</option><option value="589">Skilled Trades, Construction &amp; Mining</option><option value="590">Sports and Recreation/Fitness</option><option value="591">Supply Chain/Logistics</option><option value="592">Telecommunications</option><option value="593">Transportation and Warehousing</option></select><input name="keywords" type="text" style="width: 160px;" value="Keywords" onclick="if(this.value=='Keywords') this.value='';"><input name="search" type="submit" value="Search" class="searchbutton"></div></form><div id="sideMenu">
+<ul>
+<li>Job Seekers</li>
+<li><a href="/">Home</a></li>
+<li><a href="/login.php">Candidate Login</a></li>
+<li><a href="/register.php">Candidate Register</a></li>
+
+<li>Employers</li>
+<li><a href="/employer_login.php">Employers Login</a></li>
+<li><a href="/employer_register.php">Employers Register</a></li>	
+<li>Search</li>
+
+<li><a href="/advanced_search.php">Advanced Search</a></li>
+<li><a href="/search_sector.php">Search by Sector</a></li><li><a href="/search_jobtype.php">Search by Job Type</a></li>
+<li><a href="/search_location.php">Search by Location</a></li><li><a href="/directory_employer.php">Employer Directory</a></li>
+<li><a href="/directory_recruiter.php">Recruiter Directory</a></li>
+<li>About Us</li>
+<li><a href="/about.php">About Us</a></li>
+<li><a href="/terms.php">Terms &amp; Conditions</a></li>
+<li><a href="/privacy.php">Privacy Policy</a></li>
+<li><a href="/advertise.php">How to Advertise</a></li>
+<li><a href="/useful.php">Useful Links</a></li>
+<li><a href="/contact.php">Contact Us</a></li>
+</ul>
+
+<!-- SiteSearch Google -->
+<form method="get" action="/gsearch.php" target="_top">
+<table border="0" bgcolor="#ffffff" width="100%">
+<tbody><tr>
+<td nowrap="nowrap" align="center">
+<label for="sbi" style="display: none">Enter your search terms</label>
+<input type="text" name="q" size="12" maxlength="255" value="" id="sbi">
+</td></tr>
+<tr>
+<td nowrap="nowrap" align="center">
+<label for="sbb" style="display: none">Submit search form</label>
+<input type="submit" name="sa" value="Google Search" id="sbb">
+<input type="hidden" name="client" value="pub-0785189350474661">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="safe" value="active">
+<input type="hidden" name="cof" value="GALT:#E9382F;GL:1;DIV:#CCCCCC;VLC:7E3939;AH:center;BGC:FFFFFF;LBGC:FF3333;ALC:E9382F;LC:E9382F;T:000000;GFNT:7E3939;GIMP:7E3939;FORID:11">
+<input type="hidden" name="hl" value="en">
+</td></tr></tbody></table>
+</form>
+<!-- SiteSearch Google -->
+</div><div id="middle"><h1>Information Technology Jobs in Badakhshan, Afghanistan</h1>Want to find out more? <a href="register.php">Register for free - click here</a> to
+			get full access to these and other jobs. <br><br><b>Sorry!</b> There are no matching jobs for this search at the moment.<div class="loccontent"><h2>Information Technology Employment Opportunities in Badakhshan, Afghanistan</h2>All of our Badakhshan, Afghanistan Information Technology job listings are shown on this page. To keep informed about all the Badakhshan, Afghanistan job adverts on alljobsinafghanistan.com as they are listed, bookmark this page and return regularly.<br><br>If none of the Information Technology jobs above are right, you can register by <a href="/register.php">clicking here</a> to make sure we keep you informed of new postings of jobs in Badakhshan, Afghanistan in the future.<br><br>Do you need Information Technology staff for your business in Badakhshan, Afghanistan? Are you a recruitment agency? Whether you're a multinational or a one-man business, when you need new staff you can advertise your job vacancy requirements on this website entirely free of charge. We're here to make the recruiting process fair for everyone. Get your job advertisments online today - <a href="/employer_register.php">click here</a> to sign up for a free job posting account.<br><br></div></div><div id="adBar">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0785189350474661";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "617870";
+google_color_bg = "FFFFFF";
+google_color_link = "26428b";
+google_color_text = "000000";
+google_color_url = "f9bea9";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div id="footer">Part of the <img src="/core/images/smallawj.gif" align="absmiddle"> AllWorldJobs.com Group &nbsp;&nbsp;© 2006-2010 All Rights Reserved&nbsp;&nbsp;&nbsp; All World Jobs Ltd.</div><div class="footerlinks">See our other regional sites for: <a href="http://www.topindiajobs.com">Jobs in India</a> | <a href="http://www.allqatarjobs.com">Jobs in Qatar</a> | <a href="http://www.alluaejobs.com">Jobs in the UAE</a> | <a href="http://www.allsaudiarabiajobs.com">Jobs in Saudi Arabia</a>
+</div>
+</div></body></html>

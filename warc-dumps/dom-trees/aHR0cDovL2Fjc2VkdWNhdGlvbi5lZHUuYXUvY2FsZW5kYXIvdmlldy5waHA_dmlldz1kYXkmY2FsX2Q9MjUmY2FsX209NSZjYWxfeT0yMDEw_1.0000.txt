@@ -1,0 +1,295 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="http://acseducation.edu.au/theme/standard/styles.php">
+<link rel="stylesheet" type="text/css" href="http://acseducation.edu.au/theme/moodle_ACS_2/styles.php">
+<script type="text/javascript" src="http://acseducation.edu.au/lib/yui/yahoo/yahoo-min.js"></script><script type="text/javascript" src="http://acseducation.edu.au/lib/yui/event/event-min.js"></script><script type="text/javascript" src="http://acseducation.edu.au/lib/yui/connection/connection-min.js"></script><script type="text/javascript" src="http://acseducation.edu.au/lib/swfobject/swfobject.js"></script><script type="text/javascript">
+//<![CDATA[
+  var flashversion = swfobject.getFlashPlayerVersion();
+  YAHOO.util.Connect.asyncRequest('GET','http://acseducation.edu.au/login/environment.php?sesskey=h2VD61yDrl&flashversion='+flashversion.major+'.'+flashversion.minor+'.'+flashversion.release);
+//]]>
+</script>
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="http://acseducation.edu.au/theme/standard/styles_ie7.css" />
+<![endif]-->
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://acseducation.edu.au/theme/standard/styles_ie6.css" />
+<![endif]-->
+
+
+    <meta name="keywords" content="moodle, ACS: Calendar: Day View ">
+    <title>ACS: Calendar: Day View</title>
+    <link rel="shortcut icon" href="http://acseducation.edu.au/theme/moodle_ACS_2/favicon.ico">
+    <script type="text/javascript" src="http://acseducation.edu.au/lib/speller/spellChecker.js"></script>
+<!--<style type="text/css">/*<![CDATA[*/ body{behavior:url(http://acseducation.edu.au/lib/csshover.htc);} /*]]>*/</style>-->
+
+<script type="text/javascript" src="http://acseducation.edu.au/lib/javascript-static.js"></script>
+<script type="text/javascript" src="http://acseducation.edu.au/lib/javascript-mod.php"></script>
+<script type="text/javascript" src="http://acseducation.edu.au/lib/overlib/overlib.js"></script>
+<script type="text/javascript" src="http://acseducation.edu.au/lib/overlib/overlib_cssstyle.js"></script>
+<script type="text/javascript" src="http://acseducation.edu.au/lib/cookies.js"></script>
+<script type="text/javascript" src="http://acseducation.edu.au/lib/ufo.js"></script>
+<script type="text/javascript" src="http://acseducation.edu.au/lib/dropdown.js"></script>  
+
+<script type="text/javascript" defer="defer">
+//<![CDATA[
+setTimeout('fix_column_widths()', 20);
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function openpopup(url, name, options, fullscreen) {
+    var fullurl = "http://acseducation.edu.au" + url;
+    var windowobj = window.open(fullurl, name, options);
+    if (!windowobj) {
+        return true;
+    }
+    if (fullscreen) {
+        windowobj.moveTo(0, 0);
+        windowobj.resizeTo(screen.availWidth, screen.availHeight);
+    }
+    windowobj.focus();
+    return false;
+}
+
+function uncheckall() {
+    var inputs = document.getElementsByTagName('input');
+    for(var i = 0; i < inputs.length; i++) {
+        inputs[i].checked = false;
+    }
+}
+
+function checkall() {
+    var inputs = document.getElementsByTagName('input');
+    for(var i = 0; i < inputs.length; i++) {
+        inputs[i].checked = true;
+    }
+}
+
+function inserttext(text) {
+  text = ' ' + text + ' ';
+  if ( opener.document.forms['theform'].message.createTextRange && opener.document.forms['theform'].message.caretPos) {
+    var caretPos = opener.document.forms['theform'].message.caretPos;
+    caretPos.text = caretPos.text.charAt(caretPos.text.length - 1) == ' ' ? text + ' ' : text;
+  } else {
+    opener.document.forms['theform'].message.value  += text;
+  }
+  opener.document.forms['theform'].message.focus();
+}
+
+function getElementsByClassName(oElm, strTagName, oClassNames){
+	var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+	var arrReturnElements = new Array();
+	var arrRegExpClassNames = new Array();
+	if(typeof oClassNames == "object"){
+		for(var i=0; i<oClassNames.length; i++){
+			arrRegExpClassNames.push(new RegExp("(^|\\s)" + oClassNames[i].replace(/\-/g, "\\-") + "(\\s|$)"));
+		}
+	}
+	else{
+		arrRegExpClassNames.push(new RegExp("(^|\\s)" + oClassNames.replace(/\-/g, "\\-") + "(\\s|$)"));
+	}
+	var oElement;
+	var bMatchesAll;
+	for(var j=0; j<arrElements.length; j++){
+		oElement = arrElements[j];
+		bMatchesAll = true;
+		for(var k=0; k<arrRegExpClassNames.length; k++){
+			if(!arrRegExpClassNames[k].test(oElement.className)){
+				bMatchesAll = false;
+				break;
+			}
+		}
+		if(bMatchesAll){
+			arrReturnElements.push(oElement);
+		}
+	}
+	return (arrReturnElements)
+}
+//]]>
+</script>
+</head>
+
+<body class="calendar course-1 dir-ltr lang-en_utf8" id="calendar-view">
+
+<div id="page">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+  <tbody><tr>
+ <td width="90px" background="http://acseducation.edu.au/theme/moodle_ACS_2/pix/grad/bg_left.jpg"></td>
+    <td>
+    <div id="header" class=" clearfix">        <h1 class="headermain"><img alt="Moodle" src="http://acseducation.edu.au/theme/moodle_ACS_2/mACS_logo_small.jpg"></h1>
+        <div class="headermenu"><div class="logininfo">You are currently using guest access (<a href="http://acseducation.edu.au/login/index.php">Login</a>)</div></div>
+    </div>    <div class="navbar clearfix">
+        <div class="breadcrumb"><h2 class="accesshide ">You are here</h2> <ul>
+<li class="first"><a onclick="this.target='_top'" href="http://acseducation.edu.au/">ACS</a></li><li> <span class="accesshide ">/&nbsp;</span><span class="arrow sep">►</span> <a onclick="this.target='_top'" href="http://acseducation.edu.au/calendar/view.php?view=upcoming&amp;course=0&amp;cal_d=18&amp;cal_m=09&amp;cal_y=2010">Calendar</a></li><li> <span class="accesshide ">/&nbsp;</span><span class="arrow sep">►</span>  25 May 2010</li></ul></div>
+        <div class="navbutton">&nbsp;</div>
+    </div>
+    <!-- END OF HEADER -->
+    <div id="content"><div id="overDiv" style="position: absolute; visibility: hidden; z-index:1000;"></div><script type="text/javascript" src="http://acseducation.edu.au/calendar/overlib.cfg.php"></script><table id="calendar" style="height:100%;"><tbody><tr><td class="maincalendar"><div class="heightcontainer"><div class="header"><label for="cal_course_flt_jump">Day View:</label></div><div class="controls">
+<div class="calendar-controls"><a class="previous" href="view.php?view=day&amp;cal_d=24&amp;cal_m=05&amp;cal_y=2010" title="Monday"><span class="arrow ">◄</span>&nbsp;Monday</a><span class="hide"> | </span><span class="current">Tuesday,  25 May 2010</span><span class="hide"> | </span><a class="next" href="view.php?view=day&amp;cal_d=26&amp;cal_m=05&amp;cal_y=2010" title="Wednesday">Wednesday&nbsp;<span class="arrow ">►</span></a><span class="clearer"><!-- --></span></div>
+</div><div class="eventlist"><h3>Events underway:</h3><a name="event_531"></a><table class="event" cellspacing="0"><tbody><tr><td class="picture"><img height="16" width="16" src="http://acseducation.edu.au/pix/c/site.gif" alt="Global event" style="vertical-align: middle;"></td><td class="topic"><div class="name">STUDY PERIOD 3 ENROLMENTS CLOSED</div><span class="date"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=04&amp;cal_m=06&amp;cal_y=2009">Thursday, 4 June, </a>12:10 PM <strong>»</strong> <a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=16&amp;cal_m=01&amp;cal_y=2011">Sunday,  16 January, </a>11:55 PM</span></td></tr><tr><td class="side">&nbsp;</td><td class="description event_global"><span class="906371023-31052009"><span class="187503501-02062009">
+<div><span class="906371023-31052009"><font face="Arial"><strong><span class="187503501-02062009"></span></strong></font></span></div>
+<div><font face="Arial">Now is the time to think about study for 2011 and our next study period runs from 23 January to 23 April 2011. Charges will not be made until mid January, so enrol early and secure your place. Enrolments close 16 January 2011. </font></div>
+<div><font face="Arial"></font></div>
+<div><font face="Arial">Details will be available soon.</font></div>
+<div><font face="Arial"></font></div>
+<div><font face="Arial"></font></div></span></span></td></tr></tbody></table><a name="event_1448"></a><table class="event" cellspacing="0"><tbody><tr><td class="picture"><img height="16" width="16" src="http://acseducation.edu.au/pix/c/site.gif" alt="Global event" style="vertical-align: middle;"></td><td class="topic"><div class="name">What type of Learner are you?  Try this learning style survey to find out!</div><span class="date"><span class="dimmed_text"><a class="dimmed" href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=27&amp;cal_m=04&amp;cal_y=2010">Tuesday,  27 April, </a>09:50 AM <strong>»</strong> <a class="dimmed" href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=01&amp;cal_m=07&amp;cal_y=2010">Thursday, 1 July, </a>09:50 AM</span></span></td></tr><tr><td class="side">&nbsp;</td><td class="description event_global"><p>Here is a link for&nbsp;a learning style profile test which is fun and&nbsp;interesting to do.&nbsp; Find out what type of learner you are and also how you can adapt your learning style:</p>
+<p><a href="http://www.engr.ncsu.edu/learningstyles/ilsweb.html">http://www.engr.ncsu.edu/learningstyles/ilsweb.html </a></p>
+<p>Survey is free&nbsp;with no hidden catches!&nbsp;</p>
+<p>Pam Barnes, Registrar, ACSEducation</p></td></tr></tbody></table><a name="event_1468"></a><table class="event" cellspacing="0"><tbody><tr><td class="picture"><img height="16" width="16" src="http://acseducation.edu.au/pix/c/site.gif" alt="Global event" style="vertical-align: middle;"></td><td class="topic"><div class="name">Enterprise Architecture - Great book deal with Amazon!</div><span class="date"><span class="dimmed_text"><a class="dimmed" href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=05&amp;cal_m=05&amp;cal_y=2010">Wednesday, 5 May, </a>11:35 AM <strong>»</strong> <a class="dimmed" href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=31&amp;cal_m=08&amp;cal_y=2010">Tuesday,  31 August, </a>11:35 AM</span></span></td></tr><tr><td class="side">&nbsp;</td><td class="description event_global"><p>If you are interested in studying Enterprise Architecture in the future, Amazon has a great 3 book deal in this discipline:</p>
+<p><span id="bxgy_x_title">1. Enterprise Architecture As Strategy: Creating a Foundation for Business Execution&nbsp;by Jeanne W. Ross </span></p>
+<div class="bxgyInfoBlock" id="xInfoWrapper"> 
+  <p class="bxgySellerInfo"><span id="bxgy_y_title">2. <a href="http://www.amazon.com/Governance-Performers-Decision-Superior-Results/dp/1591392535/ref=pd_bxgy_b_text_b"><font color="#003399">IT Governance: How Top Performers Manage IT Decision Rights for Superior Results</font></a>&nbsp;by Peter Weill</span> </p></div>
+<p class="bxgyInfoBlock" id="yInfoWrapper"></p>
+<p class="bxgySellerInfo"><span id="bxgy_z_title">3. <a href="http://www.amazon.com/Savvy-What-Executives-Must-Know/dp/1422181014/ref=pd_bxgy_b_text_c"><font color="#003399">IT Savvy: What Top Executives Must Know to Go from Pain to Gain</font></a>&nbsp;by Peter Weill</span> </p>
+<p class="bxgySellerInfo"><span class="bxgy-avail">Visit <a href="http://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution/dp/1591398398">http://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution/dp/1591398398</a>&nbsp;for more info and to purchase online.</span></p>
+<p class="bxgySellerInfo"><span class="bxgy-avail">Pam Barnes, Registrar, ACSEducation</span></p></td></tr></tbody></table><a name="event_1554"></a><table class="event" cellspacing="0"><tbody><tr><td class="picture"><img height="16" width="16" src="http://acseducation.edu.au/pix/c/site.gif" alt="Global event" style="vertical-align: middle;"></td><td class="topic"><div class="name">ATTENTION:  PROFESSIONAL YEAR STUDENTS</div><span class="date"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=21&amp;cal_m=05&amp;cal_y=2010">Friday,  21 May, </a>11:45 AM <strong>»</strong> <a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=31&amp;cal_m=12&amp;cal_y=2010">Friday,  31 December, </a>11:45 AM</span></td></tr><tr><td class="side">&nbsp;</td><td class="description event_global"><p>Regrettably it has been brought to our attention that PY students are leaving ACS events before the finishing time.&nbsp; This behaviour is&nbsp;unprofessional and discourteous to the event organisers. </p>
+<p>If you leave a presentation or seminar&nbsp;early, it will not count towards your required three attendances at ACS events for PY graduation.&nbsp;</p>
+<p>Please ensure you stay for the duration of an event you are registered in.&nbsp; Also, if you find you cannot attend an event you have registered in, you must notify the&nbsp;organiser prior to the date of the event.&nbsp; </p>
+<p>Asheley Jones, Academic Lead, Professional Year Program </p></td></tr></tbody></table></div><div class="bottom"><div class="singlebutton"><form action="export.php" method="get"><div><input type="hidden" name="course" value="0"><input type="submit" value="Export calendar"></div></form></div><a href="export_execute.php?preset_what=all&amp;preset_time=recentupcoming&amp;username=guest&amp;authtoken=e113d24515595669f662c43bbead4ab76c6d81cf"><img src="http://acseducation.edu.au/pix/i/ical.gif" height="14" width="36" alt="iCal" title="Quick download / subscribe to calendar"></a></div></div></td><td class="sidecalendar"><div class="sideblock"><div class="header"><h2>Events Key</h2></div><div class="filters"><table><tbody><tr><td class="eventskey event_global" style="width: 11px;"><img src="http://acseducation.edu.au/pix/t/hide.gif" class="iconsmall" alt="Hide" title="Global events are shown (click to hide)" style="cursor:pointer" onclick="location.href='http://acseducation.edu.au/calendar/set.php?var=showglobal&amp;from=day&amp;id=0&amp;cal_d=25&amp;cal_m=5&amp;cal_y=2010'"></td><td><a href="http://acseducation.edu.au/calendar/set.php?var=showglobal&amp;from=day&amp;id=0&amp;cal_d=25&amp;cal_m=5&amp;cal_y=2010" title="Global events are shown (click to hide)">Global</a></td>
+<td style="width: 11px;"><img src="http://acseducation.edu.au/pix/t/show.gif" class="iconsmall" alt="Hide" title="Course events are hidden (click to show)" style="cursor:pointer" onclick="location.href='http://acseducation.edu.au/calendar/set.php?var=showcourses&amp;from=day&amp;id=0&amp;cal_d=25&amp;cal_m=5&amp;cal_y=2010'"></td><td><a href="http://acseducation.edu.au/calendar/set.php?var=showcourses&amp;from=day&amp;id=0&amp;cal_d=25&amp;cal_m=5&amp;cal_y=2010" title="Course events are hidden (click to show)">Course</a></td>
+</tr>
+</tbody></table>
+</div></div><div class="sideblock"><div class="header"><h2>Monthly View</h2></div><div class="minicalendarblock minicalendartop"><div style="text-align: center;"><a href="http://acseducation.edu.au/calendar/view.php?view=month&amp;cal_d=1&amp;cal_m=04&amp;cal_y=2010">April 2010</a></div>
+<table class="minicalendar" summary="Data table, April 2010 Calendar"><tbody><tr class="weekdays"><th scope="col"><abbr title="Sunday">Sun</abbr></th>
+<th scope="col"><abbr title="Monday">Mon</abbr></th>
+<th scope="col"><abbr title="Tuesday">Tue</abbr></th>
+<th scope="col"><abbr title="Wednesday">Wed</abbr></th>
+<th scope="col"><abbr title="Thursday">Thu</abbr></th>
+<th scope="col"><abbr title="Friday">Fri</abbr></th>
+<th scope="col"><abbr title="Saturday">Sat</abbr></th>
+</tr><tr><td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="day duration_global">1</td>
+<td class="day duration_global">2</td>
+<td class="weekend day duration_global">3</td>
+</tr><tr><td class="weekend day duration_global">4</td>
+<td class="day duration_global">5</td>
+<td class="day duration_global">6</td>
+<td class="day duration_global">7</td>
+<td class="day duration_global">8</td>
+<td class="day duration_global">9</td>
+<td class="weekend day duration_global">10</td>
+</tr><tr><td class="weekend day duration_global">11</td>
+<td class="day duration_global">12</td>
+<td class="day duration_global">13</td>
+<td class="day duration_global">14</td>
+<td class="day duration_global">15</td>
+<td class="day duration_global">16</td>
+<td class="weekend day duration_global">17</td>
+</tr><tr><td class="weekend day duration_global">18</td>
+<td class="day duration_global">19</td>
+<td class="day duration_global">20</td>
+<td class="day event_global duration_global event_global"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=21&amp;cal_m=4&amp;cal_y=2010" onmouseover="return overlib('<div><img class=&quot;icon&quot; src=&quot;http://acseducation.edu.au/pix/c/site.gif&quot; alt=&quot;&quot; /><a href=&quot;http://acseducation.edu.au/calendar/view.php?view=day&amp;amp;cal_d=21&amp;amp;cal_m=4&amp;amp;cal_y=2010#event_1446&quot;>Website security upgrade 5.30am EST Monday 26 April</a></div>', CAPTION, 'Wednesday,  21 April events');" onmouseout="return nd();">21</a></td>
+<td class="day duration_global">22</td>
+<td class="day duration_global">23</td>
+<td class="weekend day duration_global">24</td>
+</tr><tr><td class="weekend day duration_global">25</td>
+<td class="day duration_global">26</td>
+<td class="day event_global duration_global event_global"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=27&amp;cal_m=4&amp;cal_y=2010" onmouseover="return overlib('<div><img class=&quot;icon&quot; src=&quot;http://acseducation.edu.au/pix/c/site.gif&quot; alt=&quot;&quot; /><a href=&quot;http://acseducation.edu.au/calendar/view.php?view=day&amp;amp;cal_d=27&amp;amp;cal_m=4&amp;amp;cal_y=2010#event_1448&quot;>What type of Learner are you?  Try this learning style survey to find out!</a></div><div><img class=&quot;icon&quot; src=&quot;http://acseducation.edu.au/pix/c/site.gif&quot; alt=&quot;&quot; /><a href=&quot;http://acseducation.edu.au/calendar/view.php?view=day&amp;amp;cal_d=27&amp;amp;cal_m=4&amp;amp;cal_y=2010#event_1449&quot;>Short Disruption to Website Wednesday 28 April</a></div>', CAPTION, 'Tuesday,  27 April events');" onmouseout="return nd();">27</a></td>
+<td class="day duration_global">28</td>
+<td class="day duration_global">29</td>
+<td class="day duration_global">30</td>
+<td class="dayblank">&nbsp;</td></tr></tbody></table></div><div class="minicalendarblock"><div style="text-align: center;"><a href="http://acseducation.edu.au/calendar/view.php?view=month&amp;cal_d=1&amp;cal_m=05&amp;cal_y=2010">May 2010</a></div>
+<table class="minicalendar" summary="Data table, May 2010 Calendar"><tbody><tr class="weekdays"><th scope="col"><abbr title="Sunday">Sun</abbr></th>
+<th scope="col"><abbr title="Monday">Mon</abbr></th>
+<th scope="col"><abbr title="Tuesday">Tue</abbr></th>
+<th scope="col"><abbr title="Wednesday">Wed</abbr></th>
+<th scope="col"><abbr title="Thursday">Thu</abbr></th>
+<th scope="col"><abbr title="Friday">Fri</abbr></th>
+<th scope="col"><abbr title="Saturday">Sat</abbr></th>
+</tr><tr><td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="weekend day duration_global">1</td>
+</tr><tr><td class="weekend day duration_global">2</td>
+<td class="day duration_global">3</td>
+<td class="day duration_global">4</td>
+<td class="day event_global duration_global event_global"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=5&amp;cal_m=5&amp;cal_y=2010" onmouseover="return overlib('<div><img class=&quot;icon&quot; src=&quot;http://acseducation.edu.au/pix/c/site.gif&quot; alt=&quot;&quot; /><a href=&quot;http://acseducation.edu.au/calendar/view.php?view=day&amp;amp;cal_d=5&amp;amp;cal_m=5&amp;amp;cal_y=2010#event_1468&quot;>Enterprise Architecture - Great book deal with Amazon!</a></div>', CAPTION, 'Wednesday, 5 May events');" onmouseout="return nd();">5</a></td>
+<td class="day duration_global">6</td>
+<td class="day duration_global">7</td>
+<td class="weekend day duration_global">8</td>
+</tr><tr><td class="weekend day duration_global">9</td>
+<td class="day duration_global">10</td>
+<td class="day duration_global">11</td>
+<td class="day duration_global">12</td>
+<td class="day duration_global">13</td>
+<td class="day duration_global">14</td>
+<td class="weekend day duration_global">15</td>
+</tr><tr><td class="weekend day duration_global">16</td>
+<td class="day duration_global">17</td>
+<td class="day duration_global">18</td>
+<td class="day duration_global">19</td>
+<td class="day duration_global">20</td>
+<td class="day event_global duration_global event_global"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=21&amp;cal_m=5&amp;cal_y=2010" onmouseover="return overlib('<div><img class=&quot;icon&quot; src=&quot;http://acseducation.edu.au/pix/c/site.gif&quot; alt=&quot;&quot; /><a href=&quot;http://acseducation.edu.au/calendar/view.php?view=day&amp;amp;cal_d=21&amp;amp;cal_m=5&amp;amp;cal_y=2010#event_1554&quot;>ATTENTION:  PROFESSIONAL YEAR STUDENTS</a></div>', CAPTION, 'Friday,  21 May events');" onmouseout="return nd();">21</a></td>
+<td class="weekend day duration_global">22</td>
+</tr><tr><td class="weekend day duration_global">23</td>
+<td class="day duration_global">24</td>
+<td class="day duration_global">25</td>
+<td class="day duration_global">26</td>
+<td class="day duration_global">27</td>
+<td class="day duration_global">28</td>
+<td class="weekend day duration_global">29</td>
+</tr><tr><td class="weekend day duration_global">30</td>
+<td class="day duration_global">31</td>
+<td class="dayblank">&nbsp;</td><td class="dayblank">&nbsp;</td><td class="dayblank">&nbsp;</td><td class="dayblank">&nbsp;</td><td class="dayblank">&nbsp;</td></tr></tbody></table></div><div class="minicalendarblock"><div style="text-align: center;"><a href="http://acseducation.edu.au/calendar/view.php?view=month&amp;cal_d=1&amp;cal_m=06&amp;cal_y=2010">June 2010</a></div>
+<table class="minicalendar" summary="Data table, June 2010 Calendar"><tbody><tr class="weekdays"><th scope="col"><abbr title="Sunday">Sun</abbr></th>
+<th scope="col"><abbr title="Monday">Mon</abbr></th>
+<th scope="col"><abbr title="Tuesday">Tue</abbr></th>
+<th scope="col"><abbr title="Wednesday">Wed</abbr></th>
+<th scope="col"><abbr title="Thursday">Thu</abbr></th>
+<th scope="col"><abbr title="Friday">Fri</abbr></th>
+<th scope="col"><abbr title="Saturday">Sat</abbr></th>
+</tr><tr><td class="dayblank">&nbsp;</td>
+<td class="dayblank">&nbsp;</td>
+<td class="day duration_global">1</td>
+<td class="day duration_global">2</td>
+<td class="day duration_global">3</td>
+<td class="day duration_global">4</td>
+<td class="weekend day duration_global">5</td>
+</tr><tr><td class="weekend day duration_global">6</td>
+<td class="day duration_global">7</td>
+<td class="day duration_global">8</td>
+<td class="day duration_global">9</td>
+<td class="day duration_global">10</td>
+<td class="day duration_global">11</td>
+<td class="weekend day duration_global">12</td>
+</tr><tr><td class="weekend day duration_global">13</td>
+<td class="day duration_global">14</td>
+<td class="day duration_global">15</td>
+<td class="day duration_global">16</td>
+<td class="day duration_global">17</td>
+<td class="day duration_global">18</td>
+<td class="weekend day duration_global">19</td>
+</tr><tr><td class="weekend day duration_global">20</td>
+<td class="day duration_global">21</td>
+<td class="day duration_global">22</td>
+<td class="day duration_global">23</td>
+<td class="day duration_global">24</td>
+<td class="day duration_global">25</td>
+<td class="weekend day duration_global">26</td>
+</tr><tr><td class="weekend day duration_global">27</td>
+<td class="day event_global duration_global event_global"><a href="http://acseducation.edu.au/calendar/view.php?view=day&amp;cal_d=28&amp;cal_m=6&amp;cal_y=2010" onmouseover="return overlib('<div><img class=&quot;icon&quot; src=&quot;http://acseducation.edu.au/pix/c/site.gif&quot; alt=&quot;&quot; /><a href=&quot;http://acseducation.edu.au/calendar/view.php?view=day&amp;amp;cal_d=28&amp;amp;cal_m=6&amp;amp;cal_y=2010#event_1618&quot;>Come to our Information Evening - ACS Vic Branch 4 August 2010</a></div>', CAPTION, 'Monday,  28 June events');" onmouseout="return nd();">28</a></td>
+<td class="day duration_global">29</td>
+<td class="day duration_global">30</td>
+<td class="dayblank">&nbsp;</td><td class="dayblank">&nbsp;</td><td class="dayblank">&nbsp;</td></tr></tbody></table></div></div></td></tr></tbody></table></div><div id="footer"><p class="helplink"></p><div align="center"><div class="homelink"><a href="http://acseducation.edu.au/">Home</a></div></div></div></td>
+<td width="90px" background="http://acseducation.edu.au/theme/moodle_ACS_2/pix/grad/bg_right.jpg"></td>
+</tr>
+</tbody></table><table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6654133-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</table></div></body></html>

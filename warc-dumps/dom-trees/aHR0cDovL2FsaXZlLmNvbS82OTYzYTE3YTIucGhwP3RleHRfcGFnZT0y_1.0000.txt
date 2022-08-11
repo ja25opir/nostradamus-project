@@ -1,0 +1,826 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=" iso-8859-1">
+<title>The Sandwich Generation :: Healthy Lifestyles and Natural Weight Loss Information | Fitness and Food Nutrition at Alive.com</title>
+<meta name="verify-v1" content="Sa39g66+bjzYe50Ki74B1pMOAkTedoYW9OtvLSN8p+k=">
+<meta name="description" content="Information on beauty tips, fitness, healthy lifestyles, natural weight loss and more!  Learn all you need to know about natural health, holistic healing, and nutritional food. Health tips, and healthy recipes.">
+<meta name="keywords" content="health, food, weight loss, fitness, beauty, diets, nutrition,exercise, diet, diet pills, alternative medicine, food recipes, vitamins, herbs, Atkins diet, zone diet">
+<meta http-equiv="CONTENT-LANGUAGE" content="English">
+<meta name="RATING" content="General">
+<meta name="distribution" content="global">
+<meta name="copyright" content="2010, Alive Publishing Group Inc.">
+<meta name="robots" content="index,follow">
+<meta http-equiv="Expires" content="0">
+<meta name="revisit-after" content="2 weeks">
+<link rel="icon" href="http://www.alive.com/alive_a.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="http://www.alive.com/alive_a.ico" type="image/x-icon"> 
+<!-- Coding of front-end and back-end as well as database design done by VADYM ZYABKIN -->
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="css/indexsearch.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="js/common.js"></script>
+<script language="javascript" src="js/inside.js"></script>
+<script language="javascript" src="js/ypSlideOutMenusC.js"></script>
+<script language="javascript" src="js/lib.js"></script>
+<script language="javascript">
+								/* left, down, width, height(5-65) */
+	new ypSlideOutMenu("menu4", "right", 192, 255, 280, 125)
+	new ypSlideOutMenu("menu5", "right", 192, 375, 160, 25)
+
+	ypSlideOutMenu.writeCSS();
+</script>
+</head>
+<body id="indexsearchpage">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td height="130" colspan="3">
+	<div id="ad"><script type="text/javascript" language="JavaScript">
+
+  aj_server = 'http://rotator.adjuggler.com/servlet/ajrotator/'; aj_tagver = '1.0';
+
+  aj_zone = 'alive'; aj_adspot = '144842'; aj_page = '0'; aj_dim ='144607'; aj_ch = ''; aj_ct = ''; aj_kw = '';
+
+  aj_pv = true; aj_click = '';
+
+</script><script type="text/javascript" language="JavaScript" src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script>
+</div>
+	<!-- <table border="0" cellpadding="0" cellspacing="0" id="searchHomeTop">
+	<form method="post" name="top_sitesearch" action="search_result.php">
+	<input type="hidden" name="content_part" value="1">
+	<input type="hidden" name="s_start" value="1">
+	<input type="hidden" name="search_logic" value="2">
+	<tr>
+		<td><img src="images/spacer.gif" width="50" height="3" border="0"><br><a href="search.php" id="b">ADVANCED</a><a href="browse_subjects.php">BROWSE SUBJECTS </a></td>
+		<td align="left"><input name="key_word" type="text" value="enter a search term" hspace="0" size="1" style="width:120px;" /></td>
+		<td><A href="javascript:topNameCheck()"><img src="images/b_go_up.gif" border="0" alt="Search Site" /></a></td>
+	</tr>
+	</form> 
+	</table>
+	<table border="0" cellpadding="0" cellspacing="0" id="searchHomeTop">
+	<form method="get" name="top_sitesearch" action="http://www.google.ca/custom" target="google_window">
+	<input type="hidden" name="domains" value="www.alive.com">
+	<input type="hidden" name="sitesearch" value="www.alive.com">
+	<tr>
+		<td><img src="images/spacer.gif" width="50" height="3" border="0"><br><a href="search.php" id="b">ADVANCED</a><a href="browse_subjects.php">BROWSE SUBJECTS </a></td>
+		<td align="left"><input name="q" type="text" value="enter a search term" hspace="0" size="30" maxlength="255" style="width:120px;" onfocus="clearBox()" /></td>
+		<td><input type="image" src="images/b_go_up.gif" border="0" name="sa" ALT="search alive.com"></td>
+	</tr>
+	<input type="hidden" name="client" value="pub-2933728866498928">
+	<input type="hidden" name="forid" value="1">
+	<input type="hidden" name="ie" value="ISO-8859-1">
+	<input type="hidden" name="oe" value="ISO-8859-1">
+	<input type="hidden" name="cof" value="GALT:#006699;GL:1;DIV:#FFFFFF;VLC:006699;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:FFFFFF;LC:FFFFFF;T:504D46;GFNT:006699;GIMP:006699;LH:50;LW:137;L:http://www.alive.com/images/alive_logo_red.jpg;S:http://;FORID:1;">
+	<input type="hidden" name="hl" value="en">
+	</form> 
+	</table>	 -->
+	<table border="0" cellpadding="0" cellspacing="0" id="searchHomeTop">
+	<form method="get" name="top_sitesearch" action="search_result3.php"></form>
+	<tbody><tr>
+		<td><img src="images/spacer.gif" width="50" height="3" border="0"><br><a href="search.php" id="b">ADVANCED</a><a href="browse_subjects.php">BROWSE SUBJECTS </a></td>
+		<td align="left"><input name="q" type="text" value="enter a search term" hspace="0" size="1" style="width:120px;" onfocus="clearBox()"></td>
+		<td><input type="image" src="images/b_go_up.gif" border="0" name="sa" alt="search alive.com"></td>
+	</tr>
+	 
+	</tbody></table>	
+	</td>
+</tr>
+<tr>
+<td height="50" colspan="3" valign="bottom" align="right">
+	<table width="750" border="0" cellpadding="0" cellspacing="0" id="nav">
+	<tbody><tr>
+		<td width="194"><img src="images/spacer.gif" border="0" width="194" height="1"></td>
+			<td class="home" nowrap><a href="index.php" id="home">HOME</a></td>	
+			<td class="beauty" nowrap><a href="3a32a6.php" id="beauty">BEAUTY</a></td>	
+			<td class="environment" nowrap><a href="4a33a6.php" id="environment">ENVIRONMENT</a></td>	
+			<td class="fitness" nowrap><a href="5a34a6.php" id="fitness">FITNESS</a></td>	
+			<td class="food" nowrap><a href="6a35a6.php" id="food">FOOD + NUTRITION</a></td>	
+			<td class="holistic" nowrap><a href="7a36a6.php" id="holistic">HOLISTIC HEALING</a></td>	
+			<td class="recipes" nowrap><a href="recipe.php" id="recipes">RECIPES</a></td>	
+	
+		</tr>
+		</tbody></table>
+	</td>
+</tr><tr>
+<td rowspan="2" valign="top" class="leftColumn"><div id="column1"><table width="150" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+	<td><img src="images/line_blank2.gif" alt="" name="line01" id="line01" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="https://ca.alive.com" onmouseover="imageSwitch('o_store2',o_store2_down,'line01',line_yellow,'line02',line_yellow);" onmouseout="imageSwitch('o_store2',o_store2_up,'line01',line_blank2,'line02',line_grey);"><img src="images/b_store2.gif" alt="" name="o_store2" id="o_store2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line02" id="line02" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="http://www.aliveacademy.com" onmouseover="imageSwitch('academy2',academy2_down,'line02',line_yellow,'line13',line_yellow);" onmouseout="imageSwitch('academy2',academy2_up,'line02',line_grey,'line13',line_grey);" target="_blank"><img src="images/b_academy2.gif" alt="alive Academy" name="academy2" id="academy2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line13" id="line13" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="forum/viewforum12.php" onmouseover="imageSwitch('readers_stories2',readers_stories2_down,'line13',line_yellow,'line03',line_yellow);showMessage('forummessage');" onmouseout="imageSwitch('readers_stories2',readers_stories2_up,'line13',line_grey,'line03',line_grey);hideMessage('forummessage');"><img src="images/b_readers_stories2.gif" alt="" name="readers_stories2" id="readers_stories2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line03" id="line03" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="survey.php" onmouseover="imageSwitch('contests2',contests2_down,'line03',line_yellow,'line04',line_yellow);" onmouseout="imageSwitch('contests2',contests2_up,'line03',line_grey,'line04',line_grey);"><img src="images/b_contests2.gif" alt="" name="contests2" id="contests2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line04" id="line04" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="quizzes_tests.php" onmouseover="imageSwitch('quizzes2',quizzes2_down,'line04',line_yellow,'line05',line_yellow);ypSlideOutMenu.showMenu('menu4');" onmouseout="imageSwitch('quizzes2',quizzes2_up,'line04',line_grey,'line05',line_grey);ypSlideOutMenu.hideMenu('menu4');"><img src="images/b_quizzes2.gif" alt="" name="quizzes2" id="quizzes2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line05" id="line05" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="forum/" onmouseover="imageSwitch('discussion2',discussion2_down,'line05',line_yellow,'line06',line_yellow);showMessage('forummessage');" onmouseout="imageSwitch('discussion2',discussion2_up,'line05',line_grey,'line06',line_grey);hideMessage('forummessage');"><img src="images/b_discussion2.gif" alt="Alive Forum" name="discussion2" id="discussion2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line06" id="line06" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="community_page.php" onmouseover="imageSwitch('healthy_community2',healthy_community2_down,'line06',line_yellow,'line07',line_yellow);" onmouseout="imageSwitch('healthy_community2',healthy_community2_up,'line06',line_grey,'line07',line_grey);"><img src="images/b_healthy_community2.gif" alt="" name="healthy_community2" id="healthy_community2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line07" id="line07" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="calendar.php" onmouseover="imageSwitch('events_calendar2',events_calendar2_down,'line07',line_yellow,'line08',line_yellow);" onmouseout="imageSwitch('events_calendar2',events_calendar2_up,'line07',line_grey,'line08',line_grey);"><img src="images/b_events_calendar2.gif" alt="Event Calendar" name="events_calendar2" id="events_calendar2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line08" id="line08" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="retailer_search.php" onmouseover="imageSwitch('retailers_search2',retailers_search2_down,'line08',line_yellow,'line09',line_yellow);" onmouseout="imageSwitch('retailers_search2',retailers_search2_up,'line08',line_grey,'line09',line_grey);"><img src="images/b_retailers_search2.gif" alt="Health Retailer Search" name="retailers_search2" id="retailers_search2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line09" id="line09" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="call_for_entry.php" onmouseover="imageSwitch('alive_awards2',alive_awards2_down,'line09',line_yellow,'line10',line_yellow);ypSlideOutMenu.showMenu('menu5');" onmouseout="imageSwitch('alive_awards2',alive_awards2_up,'line09',line_grey,'line10',line_grey);ypSlideOutMenu.hideMenu('menu5');"><img src="images/b_alive_awards2.gif" alt="Alive Awards" name="alive_awards2" id="alive_awards2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line10" id="line10" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="web_exclusives.php" onmouseover="imageSwitch('web_exclusive2',web_exclusive2_down,'line10',line_yellow,'line11',line_yellow);" onmouseout="imageSwitch('web_exclusive2',web_exclusive2_up,'line10',line_grey,'line11',line_grey);"><img src="images/b_web_exclusive2.gif" alt="Alive Web Exclusives" name="web_exclusive2" id="web_exclusive2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line11" id="line11" width="150" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><a href="alive_australia.php" onmouseover="imageSwitch('alive_australia2',alive_australia2_down,'line11',line_yellow,'line12',line_yellow);" onmouseout="imageSwitch('alive_australia2',alive_australia2_up,'line11',line_grey,'line12',line_grey);"><img src="images/b_alive_australia2.gif" alt="Alive Australia" name="alive_australia2" id="alive_australia2" width="150" height="19" border="0"></a></td>
+</tr>
+<tr>
+	<td><img src="images/line_grey.gif" alt="" name="line12" id="line12" width="150" height="1" border="0"></td>
+</tr>
+<!-- <tr>
+	<td><img src="images/spacer.gif" width="150" height="20" border="0"></td>
+</tr> -->
+</tbody></table>
+<div class="section1Home">
+	<p><iframe width="160" height="140" noresize scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://rotator.adjuggler.com/servlet/ajrotator/144839/0/vh?z=alive&amp;dim=144650"><script language=JavaScript src="http://rotator.adjuggler.com/servlet/ajrotator/144839/0/vj?z=alive&dim=144650&abr=$scriptiniframe"></script><noscript><a href="http://rotator.adjuggler.com/servlet/ajrotator/144839/0/cc?z=alive" onMouseOver="window.status='Advertising';return true"><img src="http://rotator.adjuggler.com/servlet/ajrotator/144839/0/vc?z=alive&dim=144650&abr=$imginiframe" width="160" height="140" border="0"></a></noscript></iframe>
+</p>
+</div>
+<div class="section2Home">
+	<p><iframe width="160" height="140" noresize scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://rotator.adjuggler.com/servlet/ajrotator/144853/0/vh?z=alive&amp;dim=144650"><script language=JavaScript src="http://rotator.adjuggler.com/servlet/ajrotator/144853/0/vj?z=alive&dim=144650&abr=$scriptiniframe"></script><noscript><a href="http://rotator.adjuggler.com/servlet/ajrotator/144853/0/cc?z=alive"><img src="http://rotator.adjuggler.com/servlet/ajrotator/144853/0/vc?z=alive&dim=144650&abr=$imginiframe" width="160" height="140" border="0"></a></noscript></iframe>
+</p> 
+</div>
+<br>
+<table border="0" align="center" cellpadding="4" cellspacing="0">
+<tbody><tr>
+	<td><a href="javascript:MM_openBrWindow('http://www.alive.com/print_version.php?chosen_topic_id=4685','print','status=yes,scrollbars=yes,resizable=yes,width=560,height=450')"><img src="images/apex2008.jpg" alt="APEX Awards 2008" width="110" height="114" hspace="10" border="0"></a></td>
+</tr>
+</tbody></table>
+<br>
+<div class="leftSearchHome">
+	<table border="0" align="center" cellpadding="4" cellspacing="0">
+	<form method="post" action="retailer_search.php"></form>
+	<tbody><tr>
+		<td align="right"><img src="images/head_find_store.gif" alt="Find a store" width="92" height="12"></td>
+	</tr>
+	<tr>
+		<td align="right"><input name="postal_code" type="text" value="your postal code" size="14"></td>
+	</tr>
+	<tr>
+		<td align="right"><input type="image" src="images/b_submit_up.gif" alt="Find a store"></td>
+	</tr>
+	
+	</tbody></table>
+</div>
+<!-- <br>
+<div class="leftSearchHome">
+	<table border="0" align="center" cellpadding="4" cellspacing="0">
+	<tr>
+		<td align="center"><img src="images/head_subscribe.gif" alt="Subscribe to our newsletter" width="146" height="28" /></td>
+	</tr>
+	<tr>
+		<td><input name="email" type="text" value="enter your email address" style="width:145px " /></td>
+	</tr>
+	<tr>
+		<td><input type="image" src="images/b_submit_up.gif" alt="Subscribe" /></td>
+	</tr>
+	</table>
+</div> -->
+<!-- Newsletter Subscribe End -->
+</div></td>
+<td height="15"></td>
+<td rowspan="2" valign="top" class="rightColumn"><div id="column3">
+	<!-- <a href="http://www.alive.com/award_form.php"><img src="images/alive_awards_button.jpg" alt="The alive Awards of Excellence Entry Form" vspace="4" border="0" class="shopAlive" /></a> -->
+<!-- 	<a href="http://www.aliveonair.com" target="_blank"><img src="images/aliveonair.jpg" alt="LISTEN NOW" vspace="4" border="0" class="shopAlive" /></a> -->
+	<a href="http://www.alive.com/newsletter_subscribe.php"><img src="images/sign_up_alive.jpg" alt="Subscribe to our Free Newsletter!" vspace="4" border="0" class="shopAlive"></a>
+
+	<!-- <a href="javascript:MM_openBrWindow('http://www.alive.com/award_ballot.php','print','status=yes,scrollbars=yes,resizable=yes,width=860,height=800')"><img src="images/button_votenow2.jpg" alt="VOTE NOW" vspace="4" border="0" class="shopAlive" /></a> -->
+	<!-- <a href="https://store.alive.com/alive/product.php?productid=16218&cat=107&page=1"><img src="images/alive_awards_button.jpg" alt="The alive Awards of Excellence" vspace="4" border="0" class="shopAlive" /></a> -->
+
+ 	<!-- <a href="https://store.alive.com/alive/home.php"><img src="images/shop_alive.jpg" alt="Shop Alive" vspace="4" border="0" class="shopAlive" /></a> -->
+	<p class="section3">
+<iframe width="125" height="600" noresize scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://rotator.adjuggler.com/servlet/ajrotator/144854/0/vh?z=alive&amp;dim=144850"><script language=JavaScript src="http://rotator.adjuggler.com/servlet/ajrotator/144854/0/vj?z=alive&dim=144850&abr=$scriptiniframe"></script><noscript><a href="http://rotator.adjuggler.com/servlet/ajrotator/144854/0/cc?z=alive"><img src="http://rotator.adjuggler.com/servlet/ajrotator/144854/0/vc?z=alive&dim=144850&abr=$imginiframe" width="125" height="600" border="0"></a></noscript></iframe>
+</p>
+</div>
+<!-- <table border="0" align="center" cellpadding="4" cellspacing="0">
+<form method="post" action="retailer_search.php">
+<tr>
+	<td align="right"><img src="images/head_find_store.gif" alt="Find a store" width="92" height="12" /></td>
+</tr>
+<tr>
+	<td align="right"><input name="postal_code" type="text" value="your postal code" size="14" /></td>
+</tr>
+<tr>
+	<td align="right"><input type="image" src="images/b_submit_up.gif" alt="Find a store" /></td>
+</tr>
+</form>
+</table> -->
+
+</td>
+</tr>
+<tr>
+<td width="398" valign="top" class="borderRight"><div id="column2">
+	<map name="topic_action">
+<area alt="Enlarge Font" coords="0,16,81,2" href="javascript:onclick=MM_openBrWindow('print_version.php?chosen_topic_id=6963&amp;site_id=17','print','status=yes,scrollbars=yes,resizable=yes,width=560,height=450')">
+<area alt="Printer Version" coords="0,38,85,21" href="javascript:onclick=MM_openBrWindow('print_version.php?chosen_topic_id=6963&amp;site_id=17','print','status=yes,scrollbars=yes,resizable=yes,width=560,height=450')">
+<area alt="Email It to a Friend" coords="0,55,95,42" href="email_to_friend.php?file_send=6963a17a2&amp;email_cramb1=&amp;email_cramb2=">
+</map><table width="367" border="0" cellspacing="0" cellpadding="0" class="break">
+	<tbody><tr>
+		<td>
+	
+		
+		</td>
+		<td align="right"><img src="images/b_pr_an_em.gif" border="0" usemap="#topic_action"></td>
+	</tr>
+	
+	</tbody></table>
+	<span class="articleTitle">The Sandwich Generation</span><br>
+	
+	
+	<span class="articleSubTitle">by author Gail Johnson</span><br>
+<p>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">
+addthis_pub = 'evila';
+addthis_options  = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', 'http://www.alive.com//6963a17a2.php', 'The Sandwich Generation, Gail Johnson')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</p>
+			
+    <p></p><p>At work this results in absenteeism, costing the Canadian economy over $1 billion per year, according to Duxbury. Plus to keep up with caregiving demands, 15 percent of sandwiched workers have reduced their work hours, while 10 percent have experienced a reduction in income.</p>
+<p><b>Preparing for Caregiving</b></p>
+<p>Deravian notes that she, her husband, and her extended family have had frank discussions about how they will accommodate her mom in the future–discussions that her mom has also participated in.</p>
+<p>“We need to have these conversations now, not five years from now, not in the middle of a crisis,” she says. “People don’t think straight when they’re in crisis mode.”</p>
+<p>If she doesn’t have all the answers, at least Deravian isn’t ignoring her circumstances. According to Ontario psychologist Peter Marshall, although many people recognize that their parents will one day need help, many remain woefully unprepared.</p>
+<p>“Given the inevitability of the situation, it seems odd that we pay so little attention to how we might prepare ourselves for changes in our family lives.” In <i>Two Jobs, No Life: Learning How to Balance Work and Home</i> (Key Porter Books, 2001), Marshall writes, “We often seem to wait until problems arise … those entering the sandwich generation will find themselves in unfamiliar territory.”</p>
+<p>Part of what makes multigenerational caregiving so tough, Marshall explains, is that it stirs complex emotions. “Raising children almost always takes place in an atmosphere of optimism and hope,” he writes. “We watch them grow and applaud their achievements. The hard times and rough periods rarely go on forever. Watching our parents deteriorate, we cannot help but be aware of how much they have lost … the future often seems both uncertain and bleak.”</p>
+<p><b>Coping With Caregiving</b></p>
+<p>Fortunately there are many ways members of the sandwich generation can cope. Find out exactly what kind of assistance elderly parents need. They’ll likely require help with everyday tasks such as shopping, banking, going to doctor’s appointments, taking medication, cleaning, cooking, and doing home repairs. They might need a hand with personal, financial, and legal affairs, including establishing power of attorney. It’s important to find out parents’ wishes regarding funerals and life support, Marshall says, and to know the location of their wills.</p>
+<p>Also divide the work among family members. “I recommend being quite specific,” Marshall advises. “Just securing a commitment that a family member will help may not actually lead to any action. It can be much more productive to have a family meeting in which each person is given a list of what needs to be done.”</p>
+<p>Ontario’s Family Services Employee Assistance Programs Thames Valley (FSTV), which provides support and counselling, points out that caregivers also need to take care of themselves. FSTV suggests that people let go of any guilt they might feel about taking necessary time to relax, exercise, see friends, and nurture important relationships. The organization also recommends that caregivers monitor themselves for signs of burnout or depression, and speak with a doctor or a counsellor if necessary.</p>
+<p>Susan Pilgrim, author of <i>Living InSync–Creating Your Life with Balance and Purpose</i> (Health Communications, 1995), says one way of dealing with so many conflicting demands is to simplify your life. “Look at what is extraneous,” she says. “Eliminate what you really don’t want to do or don’t have the time to do anymore.”</p>
+<p>Pilgrim also urges people to encourage as much independence in their parents as possible. “Refrain from doing for others what they can do for themselves,” she writes.</p>
+<p>Some caregivers may seek solace in friends or church groups. Others may find help from organizations such as the Alzheimer Society of Canada (<i>alzheimer.ca</i>) or the Family Caregivers Network Society (<i>fcns-caregiving.org</i>), which offer support groups. Many employee assistance programs also offer free or inexpensive counselling.</p>
+<p><b>Finding the Rewards</b></p>
+<p>Clearly, minding two generations can be overwhelming. But it also has its rewards: about 95 percent of those in the sandwich generation report feeling satisfied with life in general, according to Statistics Canada. More than 60 percent of caregivers in the sandwich generation have said that they feel they are involved in giving back some of what their elderly charges had previously given to them. </p>
+<p>Additionally, 70 percent feel that their relationship with mom or dad has been strengthened through administering care. While caregiving is clearly difficult to integrate with life’s many other obligations, just 5 percent of people found it to be an extreme burden.</p><p></p>
+	
+<div class="doubleBreak"><span class="level3Heading">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td width="30%">
+	
+	<a href="/6963a17a2.php?text_page=1" target="_self" class="link9">&lt;&lt;&lt; Previous Page</a>
+		</td>
+		<td width="40%" align="center">
+<a href="/6963a17a2.php?text_page=1" target="_self">1</a>&nbsp;&nbsp;
+2&nbsp;&nbsp;<a href="/6963a17a2.php?text_page=3" target="_self">3</a>&nbsp;&nbsp;
+		</td>
+		<td width="30%" align="right">
+	
+<a href="/6963a17a2.php?text_page=3" target="_self" class="link9">Next Page &gt;&gt;&gt;</a>
+	
+		</td>
+	</tr>
+</tbody></table>
+			</span></div>	
+	
+
+	<p><em>Gail Johnson is a Vancouver-based writer.</em></p>
+	
+	<p>Source: <em>alive</em> #312, October 2008</p>
+			
+	<p class="right"><a href="#top"><img src="images/b_backtotop.gif" alt="Back to top" border="0"></a></p>
+		<div class="break"><img src="top_menu/head_index_relatedcontent.gif" alt="See Related Content" width="178" height="18"></div>	
+        <div class="relatedBlue"><a href="5a1a2.php?subject_bread_cramb=3">Stress-Busting Herbs</a><br>
+		Strengthen your adrenal glands. It's the key to dealing with whatever life throws your way. The person who claims not to be affected by stress is either dead, living an illusion, or lying.</div>
+        <div class="relatedBlue"><a href="7a1a2.php?subject_bread_cramb=3">Working Well</a><br>
+		We spend most of our lives at work. We make friends, network with colleagues and plan our retirement years based on our active lives in the workplace.</div>
+        <div class="relatedBlue"><a href="200a1a2.php?subject_bread_cramb=3">Looking, Feeling and Performing Your Best</a><br>
+		Do you remember how you felt when you were really young? The reason everything seemed to work so well back then was because your body invested a lot of time and energy on repairs. It was as if you had a full-time mechanic on the premises.</div>
+        <div class="relatedBlue"><a href="215a1a2.php?subject_bread_cramb=3">Surviving Stress</a><br>
+		Have you ever pushed yourself for so long that you feel as though your resources are depleted and there is little or nothing left to draw on?
+
+When stress becomes as much a part of everyday life as breathing and eat.</div>
+        <div class="relatedBlue"><a href="316a1a2.php?subject_bread_cramb=3">Get Physical With Blended Drinks</a><br>
+		Getting old does not necessarily mean getting sick. Obesity, diabetes and high blood pressure are not a function of chronological age. In fact they have more to do with lifestyle than genes--although both play a role..</div>
+        <div class="relatedBlue"><a href="356a1a2.php?subject_bread_cramb=3">Three Steps for Lifelong Health</a><br>
+		Exercise, a whole foods diet and supplements are what you need to avoid spending your retirement in the doctor's office.
+
+They say there are only two certainties in life: death and taxes.</div>
+        <div class="relatedBlue"><a href="362a1a2.php?subject_bread_cramb=3">Ankylosing Spondylitis</a><br>
+		Ankylosing spondylitis is an illness that took my whole lifetime to mature and five years to battle into submission. The symptoms and causes, like almost all so-called incurable diseases, piled up, stone upon stone, beginning to create my tombstone.</div>
+        <div class="relatedBlue"><a href="363a1a2.php?subject_bread_cramb=3">Lasting Longevity</a><br>
+		Until recently, most people believed growing old and dying was unavoidable. However, it now appears the assumption many of us held as children, that "I will never grow old and die," was not quite as absurd as our parents thought.
+
+Different cultures have varied definitions of aging.</div>
+        <div class="relatedBlue"><a href="366a1a2.php?subject_bread_cramb=3">Age-Less Exercise</a><br>
+		If there is an anti-aging pill, it has to be exercise--age-less exercise. Proper exercise has been shown to slow aging through reduced cholesterol, high blood pressure, stress levels, insulin levels and osteoporosis risk..</div>
+        <div class="relatedBlue"><a href="392a1a2.php?subject_bread_cramb=3">Put the Ho Ho Ho Back into Your Holidays</a><br>
+		Depression is sometimes a component of the Christmas season for a variety of reasons. Typical responses to the emotional overload of the holiday rush are overeating, overdrinking and generally overdoing.</div>
+        <div class="relatedBlue"><a href="398a1a2.php?subject_bread_cramb=3">Timely Tips for Seasonal Stress</a><br>
+		Christmas, Hanukkah, New Year. The winter holiday season is an intense time. Children become over excited from anticipation and then from sugary seasonal treats.</div>
+        <div class="relatedBlue"><a href="547a2a2.php?subject_bread_cramb=3">Age With Vitality</a><br>
+		There's truth in the old saw "we dig our graves with our teeth."
+
+Heart disease, stroke, many cancers, kidney disease, diabetes and other disorders emerge from the way we live. Particularly what we eat.
+
+Nature has genetically programmed  humans with a potential 120 years of life,  yet most succumb long before..</div>
+        <div class="relatedBlue"><a href="559a2a2.php?subject_bread_cramb=3">Get a Handle on Stress</a><br>
+		O Excellent, I love long life better than figs. --William Shakespeare Stress is like the card that finally tips the balance on the house of cards, bringing everything crashing down. An immune system that is in top operating order will only be minimally affected by small stressors.</div>
+        <div class="relatedBlue"><a href="583a2a2.php?subject_bread_cramb=3">Age-Defying Exercise</a><br>
+		I'm amazed by the number of people who blame genetics for developing disease and disability or for premature death. Natural health supplements can oppose the degradation of lean mass, improve response to exercise and support muscle function, growth and development.</div>
+        <div class="relatedBlue"><a href="649a2a2.php?subject_bread_cramb=3">Stress Management</a><br>
+		We've all felt our "fight or flight" response go into action--a sudden increase in blood pressure, heart rate, breathing, metabolism and blood sugar that helps us react quickly to stressful situations. When the danger is over our parasympathetic nervous system takes over with a compensating period of relaxation.</div>
+        <div class="relatedBlue"><a href="707a2a2.php?subject_bread_cramb=3">Keep Workplace Stress in Check</a><br>
+		We've all been there--stress-filled days at work, mounting chores at home and endless tasks on our to-do lis.</div>
+        <div class="relatedBlue"><a href="747a2a2.php?subject_bread_cramb=3">The Browning Effect</a><br>
+		Imagine if you will the intricate network that makes up the human body. Think of the organs and tissues, the numerous hormones, neurotransmitters, peptides and amino acid.</div>
+        <div class="relatedBlue"><a href="907a3a2.php?subject_bread_cramb=3">Herbs for Hectic Times</a><br>
+		Famous author and personality Deepak Chopra likes to tell a story about a medical doctor who had not had a check-up for 25 years. When the doctor finally was compelled to get a physical for life insurance requirements, a large dark spot was found on his lung. It was diagnosed as inoperable cancer. A couple of months later, the doctor was dead. 
+</div>
+        <div class="relatedBlue"><a href="946a3a2.php?subject_bread_cramb=3">The Meaning of Emotion</a><br>
+		You walk past a woman, hair askew, muttering to herself. A man looks at the woman fearfully, steps out of her way. The woman's muttering becomes louder. You too look away. You'd think by the way we act that mental illness is contagious..</div>
+        <div class="relatedBlue"><a href="3522a5a2.php?subject_bread_cramb=3">Taking Care of Our Men</a><br>
+		He pays close attention to the size of his bankbook, ensures his car gets a regular checkup, and cleans his stereo system meticulously. Yet, when it comes to taking action on his own health, he is notorious for ignoring health complaints, and takes preventive steps only as a last resort. </div>
+        <div class="relatedBlue"><a href="1011a3a2.php?subject_bread_cramb=3">Are You Emotionally Fit?</a><br>
+		Our society is obsessed with physical fitness. We crave information and feedback about the latest diets and exercise regimes. We work hard to sculpt our bodies in what are often futile attempts to mirror those seen on movie screens and magazine covers.</div>
+        <div class="relatedBlue"><a href="1035a3a2.php?subject_bread_cramb=3">Homeopathic Help for Teenage Troubles</a><br>
+		The vulnerable teenage years can be an especially difficult time. Today's teens face the pressures of juggling school work, extracurricular activities, a social life and perhaps even a part-time job.</div>
+        <div class="relatedBlue"><a href="1063a3a2.php?subject_bread_cramb=3">The Emotional Piece Of The Health Puzzle</a><br>
+		What was once speculation has now been firmly established as fact: A healthy body cannot be divorced from a healthy mind or a healthy spirit. Emotional health, it can be said with certainty, is an integral part of our overall wellness.</div>
+        <div class="relatedBlue"><a href="1095a3a2.php?subject_bread_cramb=3">Longevity</a><br>
+		Probably no one understands baby boomers as well as David Foo.</div>
+        <div class="relatedBlue"><a href="1096a3a2.php?subject_bread_cramb=3">Aging, Longevity and Anti-Aging Medicine</a><br>
+		How many times have you heard someone make a birthday toast with the wish, "Live long and prosper?" You've probably thought of this as nothing more than a good-humoured gesture.</div>
+        <div class="relatedBlue"><a href="1102a3a2.php?subject_bread_cramb=3">Celebrate Life</a><br>
+		"Life is a great adventure, or it is nothing."--Helen Keller "One of the wonderful things about being alive is that it is never too late.</div>
+        <div class="relatedBlue"><a href="1103a3a2.php?subject_bread_cramb=3">Herbs for Longevity</a><br>
+		We're all aging all the time. As we grow older, our metabolism--the body's chemical and physical changes from producing energy from food and oxygen in cells--becomes less efficient.</div>
+        <div class="relatedBlue"><a href="1104a3a2.php?subject_bread_cramb=3">Successful Aging</a><br>
+		Life expectancy has increased dramatically over the past century, from 47 years in 1900 to approaching 80 years today.</div>
+        <div class="relatedBlue"><a href="1126a3a2.php?subject_bread_cramb=3">Life Acts, I React</a><br>
+		Stress is a much-talked-about issue today. Current literature points to the impact it has on emotional, mental and physical health. I get very concerned when researchers tell me that stress is a main contributor in the development of both emotion- and age-related illnessess, including the dreaded cancer.</div>
+        <div class="relatedBlue"><a href="1143a3a2.php?subject_bread_cramb=3">The Gift Of Self-Health</a><br>
+		How common is this scenario? It's late December and a large number of gifts have yet to be bought and wrappe.</div>
+        <div class="relatedBlue"><a href="1148a3a2.php?subject_bread_cramb=3">Holiday Stress Soooothers</a><br>
+		Christmas holidays are supposed to be festive and a time of relaxation. Yet for many, this season is the most stressful time of the year. Planning meals, vacations, buying presents, and everything else can wear the mind and body down.</div>
+        <div class="relatedBlue"><a href="1183a4a2.php?subject_bread_cramb=3">The Emotional Piece Of The Health Puzzle</a><br>
+		Attitudes toward emotions have changed over the centuries and a lack of emotional awareness plays itself out in different behaviours.</div>
+        <div class="relatedBlue"><a href="1201a4a2.php?subject_bread_cramb=3">Anti-Aging: Immortality or Bunk?</a><br>
+		The concept of anti-aging is cropping up all over the place. Popular books, high-profile doctors and purveyors of drugs and nutritional supplements all claim to have the inside track on anti-aging. But what does it really mean? To kick off this new column, let's take a look at what anti-aging is-and isn't..</div>
+        <div class="relatedBlue"><a href="1261a4a2.php?subject_bread_cramb=3">Avoiding Adrenal Exhaustion</a><br>
+		Driven to be superwoman at home and on the job, you can overtax your hormones and eventually suffer burnout. But there is hope and hel.</div>
+        <div class="relatedBlue"><a href="1287a4a2.php?subject_bread_cramb=3">How is Your Mental Muscle?</a><br>
+		Certain conditions also greatly accelerate this aging, while hyperten.</div>
+        <div class="relatedBlue"><a href="1321a4a2.php?subject_bread_cramb=3">Diet, Exercise And Supplements Help Keep Your Heart Young</a><br>
+		In most industrialized countries, the incidence of cardiovascular disease goes up with age. Canada is no exeption-heart disease is the number-one cause of death in this country. However, this may have more to do with lifestyle factors such as diet, inactivity and stress than with aging.</div>
+        <div class="relatedBlue"><a href="3589a6a2.php?subject_bread_cramb=3">Preventing Medication Mishaps in Seniors</a><br>
+		People are living longer than ever before. For example, a Canadian born in 1960 can expect to live 20 years longer than one who was born in 1900. </div>
+        <div class="relatedBlue"><a href="1359a4a2.php?subject_bread_cramb=3">Fast Food Fiction: The Devil Made Me Do It!</a><br>
+		My 15-year-old granddaughter Katrina is a bookworm. She loves John Grishamand must have read most of his books, her favourites being The Testament andThe Brethren.</div>
+        <div class="relatedBlue"><a href="1362a4a2.php?subject_bread_cramb=3">Clear Vision, Sharp Hearing: Sense the Differences</a><br>
+		Although memory loss heads the list of concerns among aging Canadians, vision and hearing loss are far more likely to afflict us as we get older. These common changes can impair your ability to drive, read and enjoy simple pleasures.</div>
+        <div class="relatedBlue"><a href="1367a4a2.php?subject_bread_cramb=3">Men as Nurturers</a><br>
+		Men are discovering that taking care of their families is much more than bringing home a paycheque-it takes emotional and spiritual strength, too.</div>
+        <div class="relatedBlue"><a href="1394a4a2.php?subject_bread_cramb=3">Movement</a><br>
+		If we could bottle the benefits of physical exercise, we would have one of the most powerful anti-aging remedies known. Physical activity rejuvenates virtually every organ in your body, adding energy to your days and years to your life. </div>
+        <div class="relatedBlue"><a href="1428a4a2.php?subject_bread_cramb=3">Developing Your Personal Nutrient Plan</a><br>
+		Each of us would do well to become more educated about our body and then develop a personalized vitamin-mineral program to suit.</div>
+        <div class="relatedBlue"><a href="1431a4a2.php?subject_bread_cramb=3">The Source of Your Stress</a><br>
+		Occupational noise is annoying, distracting and inhibits productivity, essentially impacting the bottom lin.</div>
+        <div class="relatedBlue"><a href="1432a4a2.php?subject_bread_cramb=3">Ode to Silence</a><br>
+		"How much farther do we have to go?" my friend asked. "It's not far now," I replie.</div>
+        <div class="relatedBlue"><a href="1450a4a2.php?subject_bread_cramb=3">How to Slow Cellular Aging-Fast!</a><br>
+		Did you know your body's cells host visitors from another time and place? The mitochondria, energy-producing factories in every one of your cells, are descendants of independent, free-living organisms. Mitochondria have unique DNA, separate and distinct from cellular DNA.</div>
+        <div class="relatedBlue"><a href="1453a4a2.php?subject_bread_cramb=3">Are You Mal-Illuminated?</a><br>
+		Overfed and undernourished-we call this malnutrition. Recently a new term has been coined: "mal-illumination. This is not used when one doesn't get to see light, or when things remain dark. Not at all. Mal-illumination is a condition we all seem to suffer from in one way or another when we do not get enough exposure to sunlight..</div>
+        <div class="relatedBlue"><a href="1457a4a2.php?subject_bread_cramb=3">Young and Stressed</a><br>
+		Often unnoticed and untreated, stress is a huge factor in the health of Canadian children.</div>
+        <div class="relatedBlue"><a href="1471a4a2.php?subject_bread_cramb=3">Undress Your Stress</a><br>
+		Do you ever find yourself saying, "I'm so stressed"? Well, what does this mean exactly? Stress is a very broad and often misunderstood concept.</div>
+        <div class="relatedBlue"><a href="1502a4a2.php?subject_bread_cramb=3">The Sad State of Mental Health in Canada</a><br>
+		Mental illness is definitely on the rise.</div>
+        <div class="relatedBlue"><a href="1535a4a2.php?subject_bread_cramb=3">The Family Meal is Nourishing Beyond Nutrition</a><br>
+		When was the last time you had a special meal at home? Was it Easter, a birthday or even as far back as Christmas? Many of us grew up in homes where family meals were the nor.</div>
+        <div class="relatedBlue"><a href="1549a4a2.php?subject_bread_cramb=3">Retirement: The First Year</a><br>
+		I had overestimated my need to retire and underestimated my need to be significant. 
+We planned our retirement 10 years in advance and updated the plan annually.</div>
+        <div class="relatedBlue"><a href="1560a4a2.php?subject_bread_cramb=3">Foods for Longevity</a><br>
+		Eating a nutritious diet high in raw organic produce, whole grains, and clean water can slow the aging process and fight degenerative disease. Here we show how to combine foods to create a diet that targets the body systems most susceptible to aging and disease-reproductive, circulatory, musculo-skeletal, and digestive.</div>
+        <div class="relatedBlue"><a href="1612a4a2.php?subject_bread_cramb=3">Breathe the Breath of Life</a><br>
+		Breathing is life. When we're startled, we gasp; when we're stressed or afraid, our breath is shallow and rapid. Contentment or relief is accompanied by a deep sigh. Sadness and grief often result in limited breathing. 
+
+
+</div>
+        <div class="relatedBlue"><a href="1652a5a2.php?subject_bread_cramb=3">Head, Heart, and Health - Healing Toxic Emotions</a><br>
+		A traditional Chinese approach - one that sees ultimate health as a consideration of the mind and body as a balanced whole - can help us determine the physical costs of poor emotional healt.</div>
+        <div class="relatedBlue"><a href="1694a5a2.php?subject_bread_cramb=3">Stories We Live By</a><br>
+		For many people, the word "trauma" triggers images of terrible events afflicting the innocent: abuse, the death of loved ones, war, or natural disasters. The consequences of trauma on emotional health are well known and include mild to severe depression, anxiety, and panic attacks to post-traumatic stress disorder (PTSD).</div>
+        <div class="relatedBlue"><a href="1696a5a2.php?subject_bread_cramb=3">Muscle Mass Mastery</a><br>
+		If we're not careful, by retirement, we could lose one-third to one-half of our muscle tissue. This debilitating condition, called sarcopenia, is now considered one of the top biomarkers of aging: its specific physical traits are used to measure the progress of aging.</div>
+        <div class="relatedBlue"><a href="3590a6a2.php?subject_bread_cramb=3">Spring Into Your Autumn Years</a><br>
+		People with a positive attitude toward aging can adjust very well when individual circumstances change. Their positive outlook allows them to adapt to the inevitable physical and biochemical changes of the body that are associated with the natural processes of aging. With a healthy outlook on the golden years, even unpredictable setbacks and disabilities can be managed successfully.</div>
+        <div class="relatedBlue"><a href="1806a5a2.php?subject_bread_cramb=3">Hiding Our Feelings Can Impact Our Health and Longevity</a><br>
+		Many of us hope for lives that imitate beer commercials, all happiness and fu.</div>
+        <div class="relatedBlue"><a href="1810a5a2.php?subject_bread_cramb=3">Not Now, Grim Reaper ... Another Time, Perhaps</a><br>
+		Woody Allen said, "I'm not afraid to die. I just don't want to be there when it happens. <p></p>
+Thanks to tremendous gains in life expectancy - at an all-time high average of 79.</div>
+        <div class="relatedBlue"><a href="1851a5a2.php?subject_bread_cramb=3">Comfort Lies</a><br>
+		
+One of the most profound "Aha's! of my entire life happened when I was in my early twenties and struggling with both my relationships and my professional career.</div>
+        <div class="relatedBlue"><a href="1888a5a2.php?subject_bread_cramb=3">Practice Mental Calisthenics</a><br>
+		I asked my friend Dennis why he's so optimistic about life and physically active at age 79. He regularly walks, hikes, exercises, and swim.</div>
+        <div class="relatedBlue"><a href="1945a5a2.php?subject_bread_cramb=3">Don't "Waist" Time!</a><br>
+		Most people these days will tell you that they are stressed. Chronic stress has been linked to North America's five leading causes of death: heart disease, cancer, lung disease, accidents and cirrhosis of the live.</div>
+        <div class="relatedBlue"><a href="2020a5a2.php?subject_bread_cramb=3">The Fountain of Youth</a><br>
+		The fountain of youth is at our fingertips. Fruits and vegetables contain antioxidants, little free-radical scavengers that just may be our fountain of youth. Antioxidants exert many positive effects on the body.</div>
+        <div class="relatedBlue"><a href="2040a5a2.php?subject_bread_cramb=3">The Science of Mood Foods</a><br>
+		Why is it that the majority of diets seem to go down in a hail of cookies and ice cream? The answer usually lies in our inherited biochemistry. Back in the good old days (a few thousand years ago), food was not as plentiful as it is today.</div>
+        <div class="relatedBlue"><a href="2987a4a2.php?subject_bread_cramb=3">Clear Vision, Sharp Hearing: Sense the Differences</a><br>
+		Although memory loss heads the list of concerns among agingCanadians, vision and hearing loss are far more likely to afflict us as weget older.These common changes can impair your ability to drive, read and enjoy simplepleasures. Fortunately, you can do several things to preserve your eyesightand hearing..</div>
+        <div class="relatedBlue"><a href="2060a5a2.php?subject_bread_cramb=3">Holiday Stress</a><br>
+		Ho, ho, hold the stress. The coming holiday season is supposed to be full of laughter but many find it full of stress. It has been estimated that about three-quarters of all visits to primary care physicians are for stress-related problems..</div>
+        <div class="relatedBlue"><a href="2082a5a2.php?subject_bread_cramb=3">The Stress and Diabetes Link</a><br>
+		Diabetes is a disease of civilization. It is a disease of unhealthy eating patterns, low levels of physical activity, and chronic emotional stress. Canada's aboriginal people provide a dramatic example. A few decades ago, diabetes was virtually unknown among the Cree nation of northwestern Ontario.</div>
+        <div class="relatedBlue"><a href="2115a5a2.php?subject_bread_cramb=3">Beating Christmas Stress</a><br>
+		In an infamous experiment in the 1960s, lab researchers wanted to examine effects of stress on rats. First, they took an individual rat, isolated it, then injected it with increasing doses of amphetamines until, in the name of science, the poor rat died. Next, researchers did the same to a group of rats in a confined area..</div>
+        <div class="relatedBlue"><a href="2117a5a2.php?subject_bread_cramb=3">Stress Busters</a><br>
+		Children often feel our stress at this time of year, so what can we do to lessen its effects? We don't want stressed-out children to bottle up their emotions, creating emotional and physical effects. You can help your children develop skills to express and release their feelings to maintain good emotional health..</div>
+        <div class="relatedBlue"><a href="3084a6a2.php?subject_bread_cramb=3">Overcoming Divorce</a><br>
+		The climb was going well. We were physically ready, working well as a team, and all was going to plan. The peak was in sight. Suddenly the storm clouds appeared. We tried to ignore the warning signals: high winds, fast moving clouds, and poor visibility..</div>
+        <div class="relatedBlue"><a href="3111a6a2.php?subject_bread_cramb=3">Taking Care of the Caregiver</a><br>
+		In our worry about very ill patients we often forget to care for those who look after them. Caregiver spouses are at risk of becoming sick themselves unless they take special effort to stay healthy and happy.</div>
+        <div class="relatedBlue"><a href="3121a6a2.php?subject_bread_cramb=3">Stressed Out</a><br>
+		If you're like so many other people, you're stressed from the moment you wake up until you hit the sack some 16 hours late.</div>
+        <div class="relatedBlue"><a href="3122a6a2.php?subject_bread_cramb=3">Is Your Marriage Ripe for an Affair?</a><br>
+		Quick, answer this question with the first thing that comes to mind: If you were worried that your spouse might stray, how would you prevent it? Maybe your knee-jerk response is "I would lose 20 pounds and upgrade my wardrobe or "I would shower my spouse with e.</div>
+        <div class="relatedBlue"><a href="3182a6a2.php?subject_bread_cramb=3">Rationalizing Unhealthy Food Choices</a><br>
+		In our fast-paced lives, food quality and quantity often suffer.</div>
+        <div class="relatedBlue"><a href="3136a6a2.php?subject_bread_cramb=3">Finding Fulfillment</a><br>
+		Recently I rented a canoe at a popular lake. The rental agency was extremely busy and people had to jostle with one another to get their canoes into the water. Just as I was about to embark, I spotted a father struggling with his three children and their canoe. </div>
+        <div class="relatedBlue"><a href="3138a6a2.php?subject_bread_cramb=3">Metabolic Aging</a><br>
+		Everybody wants to live a long and healthy life. If you carry excess body fat on your frame, though, you may be setting yourself up for a shorter lifespan than the one you were aiming for. </div>
+        <div class="relatedBlue"><a href="3141a6a2.php?subject_bread_cramb=3">Forever Young</a><br>
+		All of us want to have longer and healthier lives, and while some of us are dealt a better hand than others in life's genetic lottery, there are many ways we can maximize the potential we are born with.</div>
+        <div class="relatedBlue"><a href="3142a6a2.php?subject_bread_cramb=3">Stress Less</a><br>
+		The alarm goes off at 7 am. You manage to drag your body out of bed. Once you've been jolted awake by that large cup of coffee, the mental list begins in your head. Before you realize it, tension mounts and you've worked yourself up into a frenzy..</div>
+        <div class="relatedBlue"><a href="3150a6a2.php?subject_bread_cramb=3">Suffer Less From Stress</a><br>
+		Do you feel stressed a lot of the time? Maybe you're convinced that nothing can be done, except moving to a remote island and throwing away your cell phone. Wait a minute, though.</div>
+        <div class="relatedBlue"><a href="3154a6a2.php?subject_bread_cramb=3">Locus of Control</a><br>
+		We consider many of life's experiences as good, bad, or somewhere in between. We credit our accomplishments in life to luck or personal effort or, again, somewhere in between.</div>
+        <div class="relatedBlue"><a href="3217a6a2.php?subject_bread_cramb=3">Stress and Your Health</a><br>
+		Burnout has been defined as a state of mental and/or physical exhaustion caused by excessive and prolonged stress. The physical toll of burnout can be very high, yet it is often overlooked as a key influence on health.</div>
+        <div class="relatedBlue"><a href="3258a6a2.php?subject_bread_cramb=3">Eating to Feel</a><br>
+		Not long ago, a friend confided that her daughter was having weight problems because of her tendency to "binge eat when experiencing stress, sadness, or just plain boredom.</div>
+        <div class="relatedBlue"><a href="3284a6a2.php?subject_bread_cramb=3">Integrative Medicine</a><br>
+		Recently, I had the pleasure of speaking with Dr. Andrew Weil, a pioneer and world-renowned leader in the field of integrative medicine. After teaching and writing about natural and preventive medicine for over 35 years, Dr. Weil provides a unique approach to health care, which encompasses body, mind, and spirit.</div>
+        <div class="relatedBlue"><a href="3295a6a2.php?subject_bread_cramb=3">Perfectionism Poison</a><br>
+		Children and pets rush through the kitchen spreading mud in their wake. Mom just laughs at their youthful enthusiasm. She pulls out the wonder mop and in no time her kitchen looks perfect.</div>
+        <div class="relatedBlue"><a href="3584a6a2.php?subject_bread_cramb=3">Does Obesity Really Affect How We Age?</a><br>
+		As we age, we tend to notice a loss of muscle mass, strength, bone mass, and energy potential. Meanwhile, body fat increases, skin wrinkles, mood changes occur, and immunity declines. New scientific research is shedding light on why we age and how we may be able to slow the process.</div>
+        <div class="relatedBlue"><a href="3595a6a2.php?subject_bread_cramb=3">Working Well</a><br>
+		You're sitting at your desk, slouching at the end of a tiring day, stressed about deadlines and staring at a computer screen, but focusing instead on your headache, stiff neck, sore hands, or aching back.</div>
+        <div class="relatedBlue"><a href="3808a1a2.php?subject_bread_cramb=3">Age Gracefully in the Garden of Eden</a><br>
+		</div>
+        <div class="relatedBlue"><a href="4174a6a2.php?subject_bread_cramb=3">De-Stressing Our Children This Holiday Season</a><br>
+		When we think of the holiday season, weconjure up images of beautifully wrappedpresents, out-of-town relatives, and delicious food. Yet, even though the holidayseason can be filled with joy and abundance, this time of year can also bequite stressful for adults and children.</div>
+        <div class="relatedBlue"><a href="4212a12a2.php?subject_bread_cramb=3">Rough Day?</a><br>
+		Time to relax and rejuvenate. Right? So why are we still feeling stressed? Medical science now knows that stress is a contributing factor in virtually all disease.</div>
+        <div class="relatedBlue"><a href="4266a12a2.php?subject_bread_cramb=3">Triumph Over Stress</a><br>
+		Nicole stumbled into my examination room clutching her stomach. She'd had severe abdominal cramps for over two weeks. Tense and anxious, Nicole was convinced that she had developed some terrible disease like cancer.</div>
+        <div class="relatedBlue"><a href="4270a12a2.php?subject_bread_cramb=3">One Century and Counting</a><br>
+		On August 14, alongside a room full of friends at the Azure nightclub in Vancouver, Doug McIntyre marked his centurion year with dancing, cake, and a heartfelt speech.</div>
+        <div class="relatedBlue"><a href="4320a12a2.php?subject_bread_cramb=3">Stress and Your Metabolism</a><br>
+		Is everyone stressed these days? According to Kenneth Pelletier, PhD, author of Mind as Healer, Mind as Slayer (Stanford University Press, 2002), between 80 and 90 percent of all illnesses are linked to stress, and 75 to 90 percent of all visits to the doctor are for stress and anxiety-related concerns.</div>
+        <div class="relatedBlue"><a href="4391a12a2.php?subject_bread_cramb=3">Relaxation Response</a><br>
+		Fifty-one percent of Canadians are overweight and 59 percent report feeling moderately stressed. Coincidence? Nutritional psychologist Marc David doesn't think so. In his book The Slow Down Diet (Healing Arts, 2005), David suggests that if we want to burn calories at maximum levels, we may need to calm our stress levels.</div>
+        <div class="relatedBlue"><a href="4480a12a2.php?subject_bread_cramb=3">Rest Assured</a><br>
+		Many of us have become so driven and overwhelmed by the demands of work and life that we tend to place a low priority on taking a regular time out to self-heal and regenerate.</div>
+        <div class="relatedBlue"><a href="4527a12a2.php?subject_bread_cramb=3">Glad to be SAHD</a><br>
+		There's a quiet revolution taking place in Canadian households-one that we don't hear a lot of discussion about. With more and more women in the workplace making equal or larger salaries than their mates, many men are trading briefcases for diaper bags. More than 100,000 fathers act as the primary caregiver for their children in Canada, and that number has jumped by a quarter in only a few years.</div>
+        <div class="relatedBlue"><a href="4534a12a2.php?subject_bread_cramb=3">Conception's Catch-22</a><br>
+		We've all heard of couples who spend years undergoing all manner of tests, procedures, and infertility treatments in trying to conceive their first child. Many achieve their miracle through adoption-and then successfully conceive. Researchers have been studying the stress/fertility paradox and some are now suggesting a link.</div>
+        <div class="relatedBlue"><a href="7245a19a2.php?subject_bread_cramb=3">Got Guilt?</a><br>
+		You know guilt: it’s that uneasy feeling you get when you think you’ve done something wrong. But did you know that guilt can be either positive or positively toxic? Many people who suffer from toxic guilt don’t have a clue that guilt is the problem. Could you be one of them?</div>
+        <div class="relatedBlue"><a href="4702a12a2.php?subject_bread_cramb=3">The Role of Reflexology in Wellness</a><br>
+		Reflexology is an effective way to relieve stress. Ask anyone who has experienced reflexology; they will describe how it relaxed them, and they often go on to describe the benefits that resulted.</div>
+        <div class="relatedBlue"><a href="4713a12a2.php?subject_bread_cramb=3">Five Steps from Fine to Fabulous</a><br>
+		We all have the power to influence our health and well-being through the choices we make every day.</div>
+        <div class="relatedBlue"><a href="4817a12a2.php?subject_bread_cramb=3">Let them Eat Cake</a><br>
+		Several years ago, I attended a birthday party for the toddling offspring of some work friends. A very active young couple, they were keen on healthy eating and clean living, and applied these principles to their parenting. I had always admired their resolve.</div>
+        <div class="relatedBlue"><a href="4837a12a2.php?subject_bread_cramb=3">Food and Mood</a><br>
+		The relationship between food and mood is mediated by both psychological and physiological factors. It is clear that food can influence mood while mood can influence food choices. It is a complex relationship and based on taste, experience, expectations, culture, stressors, and nutritional status.</div>
+        <div class="relatedBlue"><a href="4883a12a2.php?subject_bread_cramb=3">Antiaging or Healthy Aging?</a><br>
+		With the growing number of baby boomers entering their golden years, interest in antiaging is at an all-time high. Although we may not be able to stop the aging process, healthy aging can help minimize the effects of time by optimizing our health along the way.</div>
+        <div class="relatedBlue"><a href="4888a12a2.php?subject_bread_cramb=3">Move It or Lose It</a><br>
+		Aging is inevitable. It is possible, however, to curb many of the effects of aging with regular physical activity. We all want to maintain quality of life and good health as we age, and exercise is essential to maintaining good health. The less we move, the more susceptible we are to various conditions and diseases, and thus the vicious cycle of inactivity begins.</div>
+        <div class="relatedBlue"><a href="4905a12a2.php?subject_bread_cramb=3">A Fine Balance</a><br>
+		There are signs not a result of normal aging that indicate an elderly person may be experiencing problems with drugs or alcohol. Such signs can include loss of appetite, confusion, anxiety, falling, sleepiness, sadness, irritability, unexplained chronic pain, and bruises.</div>
+        <div class="relatedBlue"><a href="4939a12a2.php?subject_bread_cramb=3">Supplementing the 50+</a><br>
+		While entering the realm of seniorhood, our risk of many age-related health problems, such as macular degeneration, osteoarthritis, and mental deterioration increases. Here are several supplements that nutritional scientists are advising we include in our daily health programs to enhance the quality and quantity of our elder years.</div>
+        <div class="relatedBlue"><a href="4966a12a2.php?subject_bread_cramb=3">Natural Stress Reduction</a><br>
+		Casein hydrolysate and magnolia bark, two supplements with a sedative effect, may help decrease the release of the body's stress hormones and fight the battle against belly fat. Fat cells in the belly have three times the number of stress hormone receptors and therefore attract three times the amount of stored fat to the region.</div>
+        <div class="relatedBlue"><a href="5039a15a2.php?subject_bread_cramb=3">It's the New Year</a><br>
+		New Year: The double capitals just make it sound so permanent. So daunting. No wonder many of us feel more than a little intimidated when this so-called "holiday comes around!</div>
+        <div class="relatedBlue"><a href="5042a15a2.php?subject_bread_cramb=3">New Year's Humbug</a><br>
+		January again, huh? While everyone else is starting the New Year with a fresh, positive attitude, embarking on a healthier lifestyle, you'll find me hiding under a rock somewhere, eating leftover fruitcake in denial and muttering some very crabby things not to be printed here.</div>
+        <div class="relatedBlue"><a href="5377a16a2.php?subject_bread_cramb=3">Health Coaching for Men</a><br>
+		<p></p>
+Its coaches have a wealth of experience in men's issues, while the convenience and confidentiality of the weekly online phone sessions all.</div>
+        <div class="relatedBlue"><a href="5526a16a2.php?subject_bread_cramb=3">Fish oil reduces disease risk in animal offspring</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5527a16a2.php?subject_bread_cramb=3">Stress management for diabetes control</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5543a16a2.php?subject_bread_cramb=3">Good health times four</a><br>
+		Your ability to love and care for self-physically, psychologically, emotionally, and spiritually-is your assurance of a long and healthy life. Longevity is worthwhile only when it comes with the following types of good health:Good physical health-you know when your body needs exercise, rest, or nourishment.</div>
+        <div class="relatedBlue"><a href="5592a16a2.php?subject_bread_cramb=3">Forever strong</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5593a16a2.php?subject_bread_cramb=3">Add longer walks to your exercise routine</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5599a16a2.php?subject_bread_cramb=3">Mid-life mindsavers</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5600a16a2.php?subject_bread_cramb=3">Realistic relationships</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5601a16a2.php?subject_bread_cramb=3">Hysterical medicine</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5647a16a2.php?subject_bread_cramb=3">Exercise and Youth</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5648a16a2.php?subject_bread_cramb=3">Gym Safety Tip for Senior Citizens</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5649a16a2.php?subject_bread_cramb=3">Healthy Aging</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5694a16a2.php?subject_bread_cramb=3">Broken Heart Syndrome</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5695a16a2.php?subject_bread_cramb=3">Say It with Organic Flowers</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5703a16a2.php?subject_bread_cramb=3">How Do You Get to Work?</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5704a16a2.php?subject_bread_cramb=3">Change is Good</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5714a16a2.php?subject_bread_cramb=3">Holistic Healing Groups</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5715a16a2.php?subject_bread_cramb=3">Watch Your Mouth</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5740a16a2.php?subject_bread_cramb=3">Move Your Mood</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5741a16a2.php?subject_bread_cramb=3">Active Healing</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5761a16a2.php?subject_bread_cramb=3">Teenage Irony</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5762a16a2.php?subject_bread_cramb=3">Live Leaner, Live Longer?</a><br>
+		</div>
+        <div class="relatedBlue"><a href="5784a16a2.php?subject_bread_cramb=3">Soak Up the Relaxation</a><br>
+		Long-term emotional or environmental stresses can be hard on the body, mind, and emotions. Quality essential oils have powerful yet subtle effects on emotions and can help relieve stress and anxiety when used in baths, massages, or in aromatherapy diffusers.</div>
+        <div class="relatedBlue"><a href="5873a15a2.php?subject_bread_cramb=3">10 Healthy Ways to Restore Inner Balance and Calm</a><br>
+		The children are getting on your nerves, nothing's going right at work, and it looks like it's going to stay that way until your holiday. You're feeling stressed, like nearly half of Canadians (45 percent) who told Ipsos Reid in a 2006 survey that their stress levels are out of control.</div>
+        <div class="relatedBlue"><a href="5898a15a2.php?subject_bread_cramb=3">Avoid the Surgeon's Knife</a><br>
+		Lattes in hand, my friend Natalie and I were at an urban coffee bar catching up. A pretty woman in her thirties with two kids and a flashy but stressful job, Natalie confessed she felt saggy and tired and was longing to regain her youthful spark.</div>
+        <div class="relatedBlue"><a href="5942a15a2.php?subject_bread_cramb=3">Mindfulness in Action</a><br>
+		Often we end up advocating to others what we need to do ourselves. Mindfulness fits squarely in that 
+category for me. I encourage my coaching clients, friends, and family to practise mindfulness, but regrettably I don't practise it often enough myself. Time to make amends!</div>
+        <div class="relatedBlue"><a href="5955a15a2.php?subject_bread_cramb=3">Food and Mood</a><br>
+		Food affects mood, influencing the production of neurotransmitters in the brain. Our moods, in turn, affect our desires for certain foods. </div>
+        <div class="relatedBlue"><a href="5975a15a2.php?subject_bread_cramb=3">Employees Unplugged</a><br>
+		I recently returned from a mini-holiday as the guest of my fiancé, who was attending a conference. The seminar was held in a tropical locale, so we booked ourselves some extra time to just hang out.</div>
+        <div class="relatedBlue"><a href="6122a15a2.php?subject_bread_cramb=3">The Sounds of Silence</a><br>
+		In a world that inhales technology and exhales anxiety, we spend a good portion of our days in an endless, unrestrained orgy of noise. From cell phones bleeping in concert halls to music blasting from our neighbours' windows and machines buzzing across verdant lawns, noise assaults us from every conceivable direction. Natural silence, it seems, has become an exceedingly rare and increasingly endangered commodity.</div>
+        <div class="relatedBlue"><a href="6145a15a2.php?subject_bread_cramb=3">Healthy at 100</a><br>
+		If you're reading this magazine, you're already on a path to better health. Sometimes, by reminding ourselves of where we've come from, we realize just how much progress we've made. </div>
+        <div class="relatedBlue"><a href="6162a15a2.php?subject_bread_cramb=3">L-theanine</a><br>
+		Job pressures, family responsibilities, financial 
+pressures, traffic, and time management are just a few of the stressors most of us face on a daily basis. Prescriptions for drugs that are supposed to improve anxiety, mood, and sleep are at an all-time high.</div>
+        <div class="relatedBlue"><a href="6202a15a2.php?subject_bread_cramb=3">Slow Down and Just Smell the Coffee</a><br>
+		The majority of people today unwittingly exacerbate their stress response by consuming too many caffeinated beverages-especially coffee.</div>
+        <div class="relatedBlue"><a href="6205a15a2.php?subject_bread_cramb=3">If We Took a Holiday...</a><br>
+		There's something about being able to greet the day with a yawn, pull on your favourite summertime playwear, and just let your instincts carry you through the day...but then you remember-work.</div>
+        <div class="relatedBlue"><a href="6209a15a2.php?subject_bread_cramb=3">Adapting to Stress </a><br>
+		What is stress, exactly? Simply put, it is any change to our normal physiology  that can be brought on by a stressor-anything from sudden, traumatic experiences to smaller, ongoing pressures that seem ncontrollable. Even joyous occasions are associated with a degree of stress.</div>
+        <div class="relatedBlue"><a href="6211a15a2.php?subject_bread_cramb=3">A Day in the Life...</a><br>
+		She jumps out of bed; rushes to the bath; notices her belly, avoids the scales; dashes to the kitchen, no time for breakfast, then out the door; grabs a coffee on her way to work; up the elevator; straight to her desk, face like flint, no time for hello, too much to do.</div>
+        <div class="relatedBlue"><a href="6285a15a2.php?subject_bread_cramb=3">Yes, You can Care too Much...</a><br>
+		A family caregiver, according to the Caregivers Association of BC (caregiverbc.ca), is anyone who provides unpaid care and support to an adult friend or family member who is disabled, chronically ill, frail, or elderly.</div>
+        <div class="relatedBlue"><a href="6323a15a2.php?subject_bread_cramb=3">Fabulous Over 50</a><br>
+		Earlier this year, the Toronto Star ran an article about the perfect baby boomer couple who lives such a well-balanced life, complete with daily urine dehydration checks, that you're awed - until you get to the end of the article and discover the kicker: the whole story's a joke.</div>
+        <div class="relatedBlue"><a href="6337a15a2.php?subject_bread_cramb=3">It's Your Life to Live</a><br>
+		From crackberries to virtual reality, North Americans are addicted to speed, technology, distraction, achieving, and packing as much as possible into each day. While this lifestyle offers excitement, it does not leave much room for fulfillment, contentment, or health on any meaningful level. </div>
+        <div class="relatedBlue"><a href="6366a15a2.php?subject_bread_cramb=3">As Young as You Feel?</a><br>
+		Sometimes it's easy to forget I'm getting older. I look in the mirror and there I am, same as always. I mention something about my teenager and people say that they can't believe I'm old enough to be the mother of a 13-year-old.</div>
+        <div class="relatedBlue"><a href="6426a15a2.php?subject_bread_cramb=3">A Season of Stress</a><br>
+		It was the Hungarian-born researcher Hans Selye who first began piecing together the puzzle of human stress in the 1930s.</div>
+        <div class="relatedBlue"><a href="6447a15a2.php?subject_bread_cramb=3">Planning to Ward Off Post-Season Blahs </a><br>
+		No one could ever accuse me of being a grinch-the weeks and days leading up to December 25th are a flurry of shopping, baking, and planning. The day itself is always a good time, too-though seldom exactly how I had envisioned it. But then it's over...</div>
+        <div class="relatedBlue"><a href="6449a15a2.php?subject_bread_cramb=3">Playing Santa </a><br>
+		It starts just after Halloween. Children are bombarded with messages about the latest and greatest presents to put on their lists for the holidays. It is normal for children to be excited about holiday presents, but how can we teach them that giving is just as much fun as receiving?
+</div>
+        <div class="relatedBlue"><a href="6551a17a2.php?subject_bread_cramb=3">A Good Place to Work</a><br>
+		Money matters-but it's not the only thing we care about. To ensure employee retention and satisfaction, enlightened employers know the value of developing a healthy workplace culture.</div>
+        <div class="relatedBlue"><a href="6590a17a2.php?subject_bread_cramb=3">Healing the Stigma of Schizophrenia </a><br>
+		When you think of someone with a tattoo, a woman like Jean Macdonald doesn't come to mind. She is a nurse, mother, and grandmother.</div>
+        <div class="relatedBlue"><a href="6601a17a2.php?subject_bread_cramb=3">Loving Libraries</a><br>
+		Mister B., our public school librarian, was a dorky yet lovable guy. My friend Elise and I used to tease him, making up little stories about his adventures in the library and creating his likeness on Elise's brand new Amiga computer.</div>
+        <div class="relatedBlue"><a href="6610a17a2.php?subject_bread_cramb=3">You May Be Physically Fit...But  Are You Financially Fit?</a><br>
+		Sue and Mark and their two children live an active, healthy lifestyle. Yet Sue suffers from insomnia and tension headaches and she's had a series of colds over the past year. Sue visited the doctor recently. The diagnosis? Stress. Seems that anxiety about the family's finances is making her sick.
+</div>
+        <div class="relatedBlue"><a href="6655a17a2.php?subject_bread_cramb=3">Unsung Heroes</a><br>
+		Every year, millions of Canadians volunteer their time and energy to worthy causes at home and abroad. Some do it to contribute to their community, others for personal growth. I talked to four extraordinary volunteers about their experiences and found out why helping others is so rewarding.</div>
+        <div class="relatedBlue"><a href="6682a17a2.php?subject_bread_cramb=3">The Trager Approach</a><br>
+		Softness, freedom,spaciousness, lightness, ease: these are some of the feelings you can expect from an experience with the Trager approach.</div>
+        <div class="relatedBlue"><a href="6716a17a2.php?subject_bread_cramb=3">Relax</a><br>
+		As a working mom trying to balance all of my responsibilities, tension can feel overwhelming at times. That's when these five stress-busting exercises can really help. After 10 minutes invested in any one of these exercises, I usually feel relaxed and ready for anything. Try these quick, easy ways to combat stress and anxiety. You'll find they fit easily into even the busiest day.</div>
+        <div class="relatedBlue"><a href="6736a17a2.php?subject_bread_cramb=3">Take a Deep Breath</a><br>
+		Stress is pervasive in our frenzied lives, but how many of us know how to truly relax? To find the answer 
+to this question, I talked to stress management guru 
+Eli Bay and discovered that you don't have to be lying 
+on a beach in the Bahamas to unwind.</div>
+        <div class="relatedBlue"><a href="6767a17a2.php?subject_bread_cramb=3">Daily Spiritual Rituals</a><br>
+		We've all known people who, despite the challenges and stresses they face in their daily lives, manage to project calmness and serenity that belie the surrounding maelstrom. Have you ever wondered how they achieve such tranquility?</div>
+        <div class="relatedBlue"><a href="6813a17a2.php?subject_bread_cramb=3">Worrying Ourselves to Death </a><br>
+		Have you ever tried counting your worries? While drafting this article I managed to squeeze in worries about my gobbled-down breakfast, my half-baked plans for the rest of the day, and what I can do to ease pain in various aching body parts-to name but a few ever-nagging worries.</div>
+        <div class="relatedBlue"><a href="6814a17a2.php?subject_bread_cramb=3">The Shyness Solution</a><br>
+		If you are one of the many people who describe themselves as shy, socializing can be a nerve-racking experience. While many, including shy people themselves, consider shyness to be a negative trait, being the silent type does have its upsides.</div>
+        <div class="relatedBlue"><a href="6839a17a2.php?subject_bread_cramb=3">Feist Fuelled by Curiosity</a><br>
+		As she stands under a highway overpass in Tulsa, Oklahoma, our telephone connection dies. When we re-establish contact, Leslie Feist is laughing. It's just one of those unpredictable glitches that happen on the road. Although she calls touring a "steamroller, Feist admits her curiosity keeps her going.</div>
+        <div class="relatedBlue"><a href="6860a17a2.php?subject_bread_cramb=3">Embrace Love</a><br>
+		The decline of passion and erotic energy in many committed relationships impacts the overall health of the individuals. Now, more than ever, we are being called to reclaim our innate erotic nature as an essential feature of a healthy intimate relationship. </div>
+        <div class="relatedBlue"><a href="6894a17a2.php?subject_bread_cramb=3">Truth and Consequences</a><br>
+		Whistle-blowers simply tell the truth, which,strangely, can be a high stakes endeavour.</div>
+        <div class="relatedBlue"><a href="6906a17a2.php?subject_bread_cramb=3">Hitting a High Note</a><br>
+		Exercise. Eat right. Get plenty of sleep. Join a choir. The first three are typical prescriptions for healthy living. But join a choir? Most people who join a choral group do so because they like to sing. However, many choristers soon discover the health benefits of following their passion for song. </div>
+        <div class="relatedBlue"><a href="6912a17a2.php?subject_bread_cramb=3">The Gift of Gabrielle</a><br>
+		In the nearly four years since Gabrielle Miller's last interview with alive, the award-winning actor has maintained a frenetic and hectic acting and promotional schedule.
+ 
+Not only has she juggled filming two television series, CTV's Corner Gas and Robson Arms, but Miller has also appeared in several movies, including a starring role in Love and Other Dilemmas, which was released in 2006.
+
+"It's been a busy few years since I last spoke to you, admits Miller, who is talking to me from Regina during a break in the filming of Corner Gas. As if being one of Canada's hardest-working actors wasn't enough, Miller has also found the time and energy to work with a variety of charitable organizations, including Vela Microboard and World Vision Canada.
+</div>
+        <div class="relatedBlue"><a href="6920a17a2.php?subject_bread_cramb=3">Mind Games</a><br>
+		Everyone loves her husband. He's charming, handsome, polite, and intelligent. Then why is she so miserable in this marriage? This is a common theme in relationships where emotional abuse occurs.</div>
+        <div class="relatedBlue"><a href="6958a17a2.php?subject_bread_cramb=3">Four Regular Guys (in Tuxedos)</a><br>
+		A taxi pulls into the gravel parking lot of Calgary's Edworthy Park on a hot June afternoon. As children spin on the roundabout, four handsome young men in tuxedos wait to get into the cab. Although they're overdressed for this casual setting, Giorgio Armani would agree that his formal wear looks good anywhere. </div>
+        <div class="relatedBlue"><a href="6961a17a2.php?subject_bread_cramb=3">Building a Health Reserve</a><br>
+		Hoping to be a healthy elder? Then stock your health bank as faithfully as your financial one. Healthy aging requires preparation. This month's Research Watch discusses what you need to know to build up your health reserves for a long and healthy life.</div>
+        <div class="relatedBlue"><a href="6962a17a2.php?subject_bread_cramb=3">Elder Care in Canada</a><br>
+		The lobby at the New Vista Care Home in Burnaby, British Columbia, is alive with chatter and laughter. A comfortable lounge area invites visitors to sit, but I wait my turn by checking out the sign that spells out the home's mission. </div>
+        <div class="relatedBlue"><a href="6964a17a2.php?subject_bread_cramb=3">Eat Well-Age Well</a><br>
+		Getting older isn't what it used to be. Seniors are staying active well into their golden years, people are retiring later, and 60 is the new 40. The latest generation of retirees is more active and health-conscious-and living the motto "a rolling stone gathers no moss.</div>
+        <div class="relatedBlue"><a href="6980a17a2.php?subject_bread_cramb=3">Are You Lonesome Tonight?</a><br>
+		Loneliness can be overwhelming, and most of us have experienced it at some time in our lives. But there is hope. The tips below will not only improve your well-being, but they'll also help you avoid the risks associated with feeling lonely.</div>
+        <div class="relatedBlue"><a href="6996a17a2.php?subject_bread_cramb=3">Healthy Aging</a><br>
+		Eat less, exercise more, get enough sleep, and avoid stress. Even after all this advice, our arsenal against aging isn't necessarily complete without longevity-boosting nutritional supplements.</div>
+        <div class="relatedBlue"><a href="7001a17a2.php?subject_bread_cramb=3">Happiness Is an Inside Job</a><br>
+		Readers who seek happiness and those who already reside on the fringes of contentment should take a deeper look at Happiness is an Inside Job. But as with all books (and especially those on spiritual teaching), it is the degree of the readers' open-mindedness that will determine its value and success.</div>
+        <div class="relatedBlue"><a href="7010a18a2.php?subject_bread_cramb=3">Stand Up to Back Pain</a><br>
+		Most back and neck pain is not the result of an isolated injury but of ongoing stress. Our spines and back muscles work together to hold us up, but we must care for them to avoid strains, sprains, and soreness. Here are five strategies for banishing back pain, safely and naturally.</div>
+        <div class="relatedBlue"><a href="7018a17a2.php?subject_bread_cramb=3">Seniors on the Go</a><br>
+		A couple of noon hours a week, George Martin can be found at a downtown Vancouver fitness class, balancing on top of a big, bright stability ball or doing multiple sets of bicep curls with heavy weights. At 78 Martin keeps up with the best of them. </div>
+        <div class="relatedBlue"><a href="7032a17a2.php?subject_bread_cramb=3">Awakening Your Intuition</a><br>
+		Intuition is knowing something instantly without reasoning. The word "intuition comes from the Latin word intueri, which means to look within. Your own answers are continuously being revealed to you from inside yourself. Are you hearing the wise guidance that is yours to receive? </div>
+        <div class="relatedBlue"><a href="7052a17a2.php?subject_bread_cramb=3">The Spectrum</a><br>
+		Dean Ornish is a high-profile name where alternative medicine is concerned. A 30-year veteran of North America's controversial diet wars, Ornish is consistently lauded by the scientific community for his work in reversing heart disease and other illnesses through dietary and lifestyle changes.</div>
+        <div class="relatedBlue"><a href="7053a17a2.php?subject_bread_cramb=3">Best Friends Forever</a><br>
+		My daughter went to summer camp this year, and of course she had a terrific time and made lots of new pals. Talking with her about it took me back to my own childhood; I recalled the wonderful feeling I had then: that I could never make too many friends. </div>
+        <div class="relatedBlue"><a href="7072a17a2.php?subject_bread_cramb=3">Seasonal Stress-Busting</a><br>
+		The holiday season can be a time of comfort and joy, but it can also be a time of stress as we cope with overeating, overspending, traffic jams, holiday travel, office parties, and family dramas. </div>
+        <div class="relatedBlue"><a href="7170a19a2.php?subject_bread_cramb=3">Lacking Libido</a><br>
+		A healthy libido or sex drive is a normal part of being human. While it is not uncommon to go through periods when sexual desire declines or wanes, libido problems become self-evident when these low periods recur and lead to personal stress and interpersonal problems.</div>
+        <div class="relatedBlue"><a href="7222a19a2.php?subject_bread_cramb=3">Caregiver's Thrive Guide</a><br>
+		Relieving stress helps you stay healthy as a caregiver—because if you’re not taking good care of yourself, you can’t take good care of others. </div>
+        <div class="relatedBlue"><a href="7248a19a2.php?subject_bread_cramb=3">Stress Less</a><br>
+		Many Canadians suffer from stress. It’s the root cause of numerous health challenges we experience. Finding ways to reduce stress is essential to improve our health and our quality of life.</div>
+        <div class="relatedBlue"><a href="7411a19a2.php?subject_bread_cramb=3">Long Live Healthy Aging</a><br>
+		Read the news, though, and instead of a positive spin on longevity you might catch yet another tale about how the aging of the baby boomers is doing nothing but straining publicly funded services.</div>
+        <div class="relatedBlue"><a href="7566a20a2.php?subject_bread_cramb=3">Listening For Quiet</a><br>
+		Urbanization is a fact of Canadian life. A full 80 percent of Canadians live in cities and metropolitan areas—up from 67 percent just 50 years ago. If this trend persists our sprawling cities will continue to eat up our valleys and forests and, with it, our quiet spaces.</div>
+        <div class="relatedBlue"><a href="7708a20a2.php?subject_bread_cramb=3">Mother’s Day on less than $20</a><br>
+		This year, do better than just a “thanks,” and show your mother you appreciate her by giving her the most eco-and wallet-friendly gift of all—your time.</div>
+        <div class="relatedBlue"><a href="7788a20a2.php?subject_bread_cramb=3">Quit Your Way to Wellness</a><br>
+		When was the last time you met someone under the age of 60 whose plan for achieving wellness involved quitting work? For some individuals, quitting work commitments—or at least trading them in for more desirable pursuits—has greatly contributed to their overall health and happiness.</div>
+        <div class="relatedBlue"><a href="7813a20a2.php?subject_bread_cramb=3">Keep meditation top of mind</a><br>
+		The cell phone starts to vibrate beside you on the night table. It’s 6:55 am. You get out of bed. Take a shower. Get dressed. Eat breakfast. Then head off to work, facing the barrage of streetcar squeals and car honks that go along with 
+the morning commute.</div>
+        <div class="relatedBlue"><a href="7859a20a2.php?subject_bread_cramb=3">Marketing to Kids</a><br>
+		When today’s parents were growing up, we weren’t courted by countless commercials. Grocery stores didn’t stock food packages covered in cartoon characters at kid’s-eye level. Actors in our favourite TV shows didn’t snack on recognizable brands of junk food.</div>
+        <div class="relatedBlue"><a href="7860a20a2.php?subject_bread_cramb=3">Kids need sleep</a><br>
+		If school-aged children don’t get adequate shut-eye, the consequences can be far more dire than the mere annoyance of their frustrated parents. </div>
+        <div class="relatedBlue"><a href="7866a20a2.php?subject_bread_cramb=3">Stress busting support</a><br>
+		Stress is impossible to avoid. It is a natural result of the body adapting to new or challenging circumstances. While many people associate it with a negative source or event, it can even stem from something positive, such as a promotion 
+at work. How do we deal with it?</div>
+	
+	<p class="right"><a href="#top"><img src="images/b_backtotop.gif" alt="Back to top" border="0"></a></p>
+		
+</div>
+</td>
+</tr>
+</tbody></table>
+<div id="menu5Container">
+  <div id="menu5Content" class="menu">
+    <!-- <a href="http://www.alive.com/award.php">2009 Winners</a><br> -->
+	<!-- <a href="javascript:MM_openBrWindow('http://www.alive.com/award_ballot.php','print','status=yes,scrollbars=yes,resizable=yes,width=860,height=800')">Vote Now</a><br> -->
+    <!-- <a href="http://www.alive.com/award_form.php" target="_blank">Entry Form</a><br> -->
+    <a href="http://www.alive.com/2009a0a7.php">Previous Winners</a><!-- <br> -->
+    <!-- <a href="http://www.alive.com/award_medals.php">alive Award Medal Images</a> -->
+  </div>
+</div>
+<div id="menu4Container">
+  <div id="menu4Content" class="menu">
+	
+	<a href="http://www.alive.com/quiz7.php">Workplace wellness</a><br>
+	
+	<a href="http://www.alive.com/quiz6.php">How Active Are You?</a><br>
+	
+	<a href="http://www.alive.com/quiz5.php">Are You an Optimist?</a><br>
+	
+	<a href="http://www.alive.com/quiz4.php">Could You Go Vegan?</a><br>
+	
+	<a href="http://www.alive.com/quiz3.php">Edible Flowers</a><br>
+	
+	<a href="http://www.alive.com/quiz2.php">Test Your Knowledge of Vitamins and Minerals</a><br>
+	
+	<a href="http://www.alive.com/quiz1.php">Do You Get Enough Sleep?</a><br>
+  
+  </div>
+</div>
+<div id="forummessage" name="forummessage" style="position:absolute; left: 192px; top: 180px; visibility: hidden;"> 
+<img src="http://www.alive.com/images/forum_1000_icon.jpg">
+</div>
+<div id="footer">
+  <table align="left" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td colspan="3"><img src="http://www.alive.com/images/spacer.gif" width="168" height="6"></td>
+      <td align="left">
+		  <table border="0" cellpadding="0" cellspacing="0">
+		    <tbody><tr>
+		      <td class="footerLinks"><a href="http://www.alive.com/index.php" onmouseover="imageSwitchFooter('foot_home',foot_home_down);" onmouseout="imageSwitchFooter('foot_home',foot_home_up);"><img src="http://www.alive.com/images/footer_home_up.gif" alt="Home" name="foot_home" id="foot_home" width="24" height="6" border="0"></a> | <a href="http://www.alive.com/about_us.php" onmouseover="imageSwitchFooter('foot_about',foot_about_down);" onmouseout="imageSwitchFooter('foot_about',foot_about_up);"><img src="http://www.alive.com/images/footer_about_up.gif" alt="About Us" name="foot_about" id="foot_about" width="41" height="6" border="0"></a> | <a href="http://www.alive.com/contact.php" onmouseover="imageSwitchFooter('foot_contact',foot_contact_down);" onmouseout="imageSwitchFooter('foot_contact',foot_contact_up);"><img src="http://www.alive.com/images/footer_contact_up.gif" alt="Contact" name="foot_contact" id="foot_contact" width="39" height="6" border="0"></a> | <a href="https://store.alive.com/home.php?cat=77" onmouseover="imageSwitchFooter('foot_subscribe',foot_subscribe_down);" onmouseout="imageSwitchFooter('foot_subscribe',foot_subscribe_up);"><img src="http://www.alive.com/images/footer_subscribe_up.gif" name="foot_subscribe" id="foot_subscribe" alt="Subscribe to Alive Magazine" height="6" border="0"></a> | <a href="http://www.alive.com/advertise/index.php" target="_blank" onmouseover="imageSwitchFooter('foot_advertise',foot_advertise_down);" onmouseout="imageSwitchFooter('foot_advertise',foot_advertise_up);"><img src="http://www.alive.com/images/footer_advertise_up.gif" alt="Advertise" name="foot_advertise" id="foot_advertise" width="46" height="6" border="0"></a> | <a href="javascript:MM_openBrWindow('http://www.alive.com/print_version.php?chosen_topic_id=3336','print','status=yes,scrollbars=yes,resizable=yes,width=560,height=450')" onmouseover="imageSwitchFooter('foot_privacy',foot_privacy_down);" onmouseout="imageSwitchFooter('foot_privacy',foot_privacy_up);"><img src="http://www.alive.com/images/footer_privacy_up.gif" alt="Privacy Policy" name="foot_privacy" id="foot_privacy" width="67" height="6" border="0"></a> | <a href="https://ca.alive.com" onmouseover="imageSwitchFooter('foot_terms',foot_terms_down);" onmouseout="imageSwitchFooter('foot_terms',foot_terms_up);"><img src="http://www.alive.com/images/footer_terms_up.gif" alt="Shop for Health" name="foot_terms" id="foot_terms" height="6" border="0"></a> | <a href="http://www.alive.com/site_map.php" onmouseover="imageSwitchFooter('foot_map',foot_map_down);" onmouseout="imageSwitchFooter('foot_map',foot_map_up);"><img src="http://www.alive.com/images/footer_sitemap_up.gif" alt="Site Map" name="foot_map" id="foot_map" width="36" height="6" border="0"></a> | <a href="http://www.alive.com/useful_resources.php" onmouseover="imageSwitchFooter('foot_links',foot_links_down);" onmouseout="imageSwitchFooter('foot_links',foot_links_up);"><img src="http://www.alive.com/images/footer_links_up.gif" alt="Helpful Links" name="foot_links" id="foot_links" height="6" border="0"></a></td>
+		    </tr>	
+		</tbody></table>  
+	  </td>
+    </tr>
+    <tr>
+      <td colspan="4"><img src="http://www.alive.com/images/spacer.gif" width="10" height="6"></td>
+    </tr>
+    <tr>
+      <td width="10"><img src="http://www.alive.com/images/spacer.gif" width="10" height="6"></td>
+      <td width="138"><img src="http://www.alive.com/images/footer_copyright.gif" alt="Copyright 2005 Alive Publishing Group" width="138" height="6"></td>
+      <td width="20"><img src="http://www.alive.com/images/spacer.gif" width="20" height="6"></td>
+      <td width="580"><img src="http://www.alive.com/images/spacer.gif" width="580" height="6"></td>
+    </tr>
+    <tr>
+      <td colspan="4"><img src="http://www.alive.com/images/spacer.gif" width="10" height="6"></td>
+    </tr>
+    <tr>
+      <td><img src="http://www.alive.com/images/spacer.gif" width="10" height="6"></td>
+      <td colspan="3"><script language="javascript" src="http://www.alive.com/js/disclamer.js"></script></td>
+    </tr>
+  </tbody></table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct="UA-1167548-2";
+urchinTracker();
+</script>
+
+
+
+</body></html>

@@ -1,0 +1,369 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><!-- #BeginTemplate "/Templates/employer.dwt" --><!-- DW6 --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- #BeginEditable "doctitle" -->
+<title>Anywork Anywhere Customer Testimonials</title>
+<link rel="stylesheet" href="fonts.css" type="text/css">
+<!-- #EndEditable -->
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+<style type="text/css">
+<!--
+body {background-color: #660066;}
+-->
+</style>
+<link href="fonts.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+a:link {
+	color: #660066;
+}
+a:visited {
+	color: #660000;
+}
+a:hover {
+	color: #000000;
+}
+a:active {
+	color: #660033;
+}
+-->
+</style></head>
+<body onload="MM_preloadImages('button/nbhomedn.gif','button/nbguidesdn.gif','button/ne_adinfo_dn.gif')">
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="111" rowspan="2" valign="top"><p align="center"><img src="button/awawlogotop.gif" width="100" height="88" border="0"></p>
+      <div align="center"><!-- #BeginLibraryItem "/Library/MainNav.lbi" -->
+<script type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<table width="100" border="0" align="center" cellpadding="4" cellspacing="0">
+  <tbody><tr>
+    <td height="47"><table width="100" border="0" align="center" cellspacing="0">
+      <tbody><tr>
+        <td width="124"><div align="left"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','button/nbhomedn.gif',1)"><img src="button/nbhomeup.gif" alt="Anywork Anywhere Home Page" name="home" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="jobslist.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('JobsSearch','','button/nbjsearchdn.gif',0)"><img src="button/nbjsearchup.gif" alt="Search For Jobs" name="JobsSearch" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="voluntary.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('volunteer','','button/nbvoldn.gif',0)"><img src="button/nbvolup.gif" alt="Volunteering Worldwide" name="volunteer" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="jobguides.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('guides','','button/nbguidesdn.gif',1)"><img src="button/nbguidesup.gif" alt="Job Guide Pages" name="guides" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="training.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training','','button/nbtraindn.gif',0)"><img src="button/nbtrainup.gif" alt="Training and Courses" name="Training" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="usefullinks.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Resources','','button/nbresdn.gif',0)"><img src="button/nbresup.gif" alt="Useful Resources &amp; Links" name="Resources" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="visainfo.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('VisaInfo','','button/nbvisainfodn.gif',0)"><img src="button/nbvisainfoup.gif" alt="Visa &amp; Migration information" name="VisaInfo" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="embassies.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('embassy','','button/nbembassydn.gif',0)"><img src="button/nbembassyup.gif" alt="Search For An Embassy or Consulate" name="embassy" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="travelinsurance.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Insurance','','button/nbinsuredn.gif',0)"><img src="button/nbinsureup.gif" alt="Travel Insurance Etc." name="Insurance" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="taxrefunds.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tax','','button/nbtaxdn.gif',0)"><img src="button/nbtaxup.gif" alt="Tax Refunds Worldwide" name="tax" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="accommodation.html" target="_blank" onmouseover="MM_swapImage('Accommodation','','button/nbaccommdn.gif',0)" onmouseout="MM_swapImgRestore()"><img src="button/nbaccommup.gif" alt="Find Accommodation" name="Accommodation" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="jslogin.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','button/nbjmaildn.gif',0)"><img src="button/nbjmailup.gif" alt="Jobs To Your EMail" name="Image11" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="left"><a href="contactus.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','button/nbcontactdn.gif',0)"><img src="button/nbcontactup.gif" alt="Contact Us" name="Image13" width="100" height="29" border="0"></a></div></td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<!-- #EndLibraryItem --></div></td>
+   
+    <td width="445" height="50" valign="bottom"><img src="button/awawtitle.gif" width="320" height="40" border="0"></td>
+    
+    <td width="100" valign="bottom"><a href="employers.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('advertising','','button/advinfodn.gif',0)"><img src="button/advinfoup.gif" alt="Anywork Anywhere Advertising Information" name="advertising" width="100" height="50" border="0" id="advertising"></a></td>
+   
+    <td width="108" align="center" valign="bottom"><!-- AddThis Button BEGIN -->   <script type="text/javascript">var addthis_disable_flash = true;var addthis_pub="www.anyworkanywhere.com"; addthis_logo='../button/shareanyworkanywhere.gif'; addthis_brand = '<B>Anywork Anywhere</B>';</script>
+      <a href="http://www.addthis.com/bookmark.php?v=20" onclick="return addthis_sendto()"><img src="button/bookm2up.gif" alt="Bookmark and Share" width="100" height="50" border="0" style="border:0"></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"> </script> <!-- AddThis Button END --></td>
+
+    <td width="108" align="center" valign="bottom"><a href="jobslist.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('JobSearch','','button/jobsearch_dn.gif',0)"><img src="button/jobsearch_up.gif" alt="Search For Jobs Worldwide" name="JobSearch" width="100" height="50" border="0" id="JobSearch"></a></td>
+    <td width="108" valign="middle">
+      <div class="date">
+        <div align="center">
+          <script type="text/javascript">
+var d=new Date()
+var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write(weekday[d.getDay()] + " ")
+document.write(d.getDate() + " ")
+document.write(monthname[d.getMonth()] + " ")
+document.write(d.getFullYear())</script>
+</div></div></td></tr>
+  
+  <tr>
+    <td height="476" colspan="4" align="center" valign="top" bgcolor="#FF9900"><table width="90%" height="386" border="0" cellpadding="10" cellspacing="0">
+      <tbody><tr>
+        <td height="325" align="center" valign="top"><div align="center"><!-- #BeginEditable "main" --> 
+            <div align="center">
+              <p class="font_4">Anywork Anywhere Customer Comments</p>
+              <p class="font_3">We received fifty eight   applications in the three weeks the ad ran and most were pretty much   what we were after (though about 5% of them were quite clearly nutters! )We whittled the list down to five shortlisted candidates from   whom we selected a mother and daughter team. They will be working with us for   the duration.</p>
+              <p class="font_3">Â&nbsp;Thank you very much for your assistance, the ease of   communication and the simplicity of setting up the ad. Iâ€™ve been delighted with   the response, especially so since the job was offered on a voluntary basis.</p>
+              <p class="font_links_light">Jim, Dordogne Breaks, France</p>
+              <p class="font_3">I have filled my positions very quickly. You have   an extremely good audience out there it was good to be able to interview them   face to face before they started</p>
+              <p class="font_links_light">Martin, Otterfalls, Devon </p>
+              <p class="font_4"><span class="font_3">Anywork Anywhere has certainly
+                  been one of the best recruitment resources we have used for
+                  serious job
+                applicants.</span><br>
+                <br>
+                <span class="font_links_light">Julie HB Leisure</span></p>
+              <p class="font_3">We got the three employees we needed, loads of
+                people applied and we ended up with South African, German and
+                English staff. Our page with Anywork Anywhere was the only source
+                of staff this year and it worked out well. As well as filling
+                our positions, this has been a great fall-back to have. To be
+                honest, without which I
+                think we would be quite lost."<br>
+                <span class="font_links_light"><br>
+                Gerri Irvine - The Summer Isles
+                Hotel, Scotland</span></p>
+              <p class="font_3">Just popped on to the site to check that we were
+                up and running with the Haven Europe details and wanted to say
+                that I think it's looking great. Thanks for doing a cracking
+                job, rolling it out on time and your professionalism to date.
+                For cost and sheer exposure it certainly represents good value</p>
+              <p class="font_links_light"> Joel Metcalfe - Haven Europe, Bourne
+                Leisure</p>
+              <p class="font_3">Just a note to say "Thanks" for all
+                your help over the last 18 months. Your site still gives us the
+                best response for our positions, so cheers to that continuing
+                this year.</p>
+              <p class="font_links_light"> Gill Knight - Tresco Estates, Scilly
+                Isles</p>
+              <p class="font_3">Good morning from Corfu. Thank you so much for
+                your help. I really would like you to come and stay with us so
+                I can pay you back for all the nice staff I get through your
+                website. I hope to meet you someday. You have a wonderful website
+                and its helping tons of people every day. Also I would like to
+                thank you for advertising the Pink Palace in your hostel section.</p>
+              <p class="font_links_light">Magdalena Grammenou - The Pink Palace
+                Hostel, Corfu</p>
+              <p class="font_3">It's great because within 24 hours of our page
+                going online the applicants are coming in covering us for those
+                unfortunate situations where people leave us in the lurch. Someone
+                started yesterday and another in a week or two, really happy
+                and have decided to use it year round</p>
+              <p class="font_links_light">Dave Bailey - Woolpack Inn, Cumbria</p>
+              <p class="font_3">Our page has been very handy and we will continue
+                to use it.</p>
+              <p class="font_links_light">Claire Jordaan - New Ocean Hotel Weston
+                Supermare</p>
+              <p class="font_3">Had over 250 applicants of which we have taken
+                on all of our staff, sooo happy that your service has seriously
+                cosmopolitanised our work force. Where we used to have only one
+                nationality of staff, we now have over 6 nationalities working
+                at any one time. Many thanks, this site is far too effective
+                at getting good candidates !!</p>
+              <p class="font_links_light">Jonathon Watson Whitehouse Hotel Herm
+                Island (Channel Isles)</p>
+              <p class="font_3">Our page with Anywork Anywhere has gone very
+                well, we have had a great response from it, it has been an all
+                round brilliant service with a steady flow of applicants generated
+                at least 3 or 4 a day. If you ever need a reference it would
+                be no problem.</p>
+              <p class="font_links_light">Paul Sadler - Calcot Manor Hotel, Gloucestershire.</p>
+              <p class="font_3">We’ve had an excellent response and have
+                employed good workers through anyworkanywhere, we’ve currently
+                got two South Africans lined up for interview and the Eastern
+                Europeans we recruited are good. Very Happy with our page</p>
+              <p class="font_links_light">Moira Carr - Stoke By Nailand Club
+                (Best Western) Essex</p>
+              <p class="font_3">Very Happy with the service, it worked very well
+                for us and we will definitely renew</p>
+              <p class="font_links_light">Maricel Villota - White’s Hotel
+                Group Ireland</p>
+              <p><span class="font_3">We have been Inundated with response and
+                        it was quality people who were prepared to make an effort
+                      and submit a CV of relevance, it’s gone phenomenally
+                      well, absolutely spot-on, got applicants from the UK, Italy
+                      and the
+                        new EU member states.</span></p>
+              <p class="font_links_light">Wayne McIntosh - Seaview International
+                Holiday Park, St Austell Cornwall</p>
+              <p class="font_3">"Very pleased with your service, I
+                      get around half a dozen enquiries a day or so and I'm very
+                    glad I did it."</p>
+              <p class="font_links_light">Robert Smith - Brudolff Hotels, Shetland Isles</p>
+              <p class="font_3">"I have checked my statistics regarding
+                  how many applicants I get from the recruitment sites that I
+                  use and I definitely
+                get most referrals from you. I am very very pleased"</p>
+              <p><span class="font_links_light">Peter Henry -
+                Origin Care Recruitment</span></p>
+              <p><span class="font_3">" I'm really pleased with your service, l have not found such a
+                good uptake or quality of employable staff anywhere else" </span></p>
+              <p><span class="font_links_light">                  Angus Douglas
+                Hamilton - The Philpot Group, Hampshire</span></p>
+              <p><span class="font_3">" I have never had such a good response to staff advertising, nearly
+                      all my staff this year came from your web site, it's the
+  best money we've ever spent"</span></p>
+              <p><span class="font_links_light">                  Helen Eagle
+                  Lanzetta - Leicester Children’s
+                Holiday Centre</span></p>
+              <p class="font_3">" This is the best response I've had in
+                a long time, far more effective than other sources of advertising
+                I have tried "</p>
+              <p><span class="font_links_light">                  Gary Marshall - Country Market, Hampshire</span></p>
+              <p><span class="font_3">" I have employed many applicants from the anyworkanywhere.com
+                                  web site. I am very glad to have this resource
+    of seasonal staff."</span></p>
+              <p class="font_3"><span class="font_links_light">Lisa Martin - Pontins Wall Park, Devon</span></p>
+              <p class="font_3">                  Since registering with your site in March 2001 I have had an
+                    amazing response of labour contacting me. I feel that this
+                    way of advertising for seasonal workers is the way to go
+                    for future labour recruitment. It allows me to select suitable
+                    candidates, who I want to contact back, without the hassle
+                    of answering the telephone all day. This is a great way of
+                  solving, my farms seasonal labour problems "</p>
+              <p class="font_3">                  <span class="font_links_light">Ron Bainbridge - Vitacress Salads Ltd, Hampshire</span></p>
+              <p class="font_3">" Thanks for the excellent web site it is now the only place we
+                      have advertised our vacancies and it has really helped
+us get staff throughout the past year, we have employed many hard
+    working and interesting couples from Australia and New Zealand from your
+                  site and I will continue to recommend your service to others"</p>
+              <p class="font_links_light">                  Roy and Gill Wilson - The New Dungeon Ghyll, The Lake District</p>
+              <p class="font_3">" I am very happy with the number
+                  and quality of response I had from my page with you. People
+                  were even turning up on the
+                doorstep!"</p>
+              <p class="font_links_light">Rod Adlington - Turkey Talk, Coventry</p>
+              <p class="font_3">" This is the second year I have advertised my seasonal vacancies
+                  on your site and I have say that I think your site is quite simply
+                  brilliant !</p>
+              <p class="font_links_light">Tim Bircham - Burnbake Campsite, Dorset</p>
+              <p class="font_3">&nbsp;</p>
+              <p class="font_3">&nbsp;</p>
+              <p class="font_3">&nbsp;</p>
+              <p class="font_3">&nbsp;</p>
+              <p class="font_3">&nbsp;</p>
+              <p>&nbsp;</p>
+              </div>
+            <!-- #EndEditable --></div>
+          </td>
+      </tr>
+    </tbody></table>
+      <p>&nbsp;</p>
+      <table width="90%" border="0" cellspacing="0" cellpadding="4" align="center" height="55">
+        <tbody><tr>
+          <td width="120" height="5" class="font_links_light"><div align="center"><a href="aboutus.html">About Us</a></div></td>
+          <td width="120" height="5" class="font_links_light"><div align="center"><a href="index.html">Home
+            Page</a> </div></td>
+          <td width="120" height="5" class="font_links_light"><div align="center"><a href="disclaimer.html">Disclaimer</a> </div></td>
+          <td width="120" height="5" class="font_links_light"><div align="center"><a href="privacy.html">Privacy Policy </a></div></td>
+          <td width="120" height="5" class="font_links_light"><div align="center"><a href="sitemap.html">Site Map</a></div></td>
+        </tr>
+        <tr>
+          <td colspan="5" height="18"><div align="center"><a href="disclaimer.html"><span class="copyright">Copyright</span></a> <span class="copyright">© 2010 Anywhere Travel Ltd. All Rights Reserved</span></div></td>
+        </tr>
+      </tbody></table>      </td>
+    <td width="108" align="center" valign="top"><table width="100" border="0" cellspacing="0" cellpadding="4">
+      <tbody><tr>
+        <td valign="top"><div align="center"><!-- #BeginEditable "right" --> <!-- #EndEditable --></div></td>
+      </tr>
+    </tbody></table>
+      <!-- #BeginLibraryItem "/Library/emp_nav.lbi" -->
+<link rel="stylesheet" href="fonts.css" type="text/css">
+
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+
+<table width="100" border="0" cellspacing="0" cellpadding="0" align="center" height="200">
+  
+<tbody><tr><td height="40" valign="middle"><a href="employers.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('advinfo_rt','','button/ne_adinfo_dn.gif',1)"><img src="button/ne_adinfo_up.gif" alt="Anywork Anywhere Advertising Information" name="advinfo_rt" width="100" height="40" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="empupdate.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','button/ne_upd_dn.gif',0)"><img src="button/ne_upd_up.gif" alt="Current Advertiser Page Update Form" name="Image3" width="100" height="20" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="empreg.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','button/ne_reg_dn.gif',0)"><img src="button/ne_reg_up.gif" alt="Register Your Advertising" name="Image5" width="100" height="20" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="emprates.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','button/ne_rates_dn.gif',0)"><img src="button/ne_rates_up.gif" alt="Advertising Rates" name="Image8" width="100" height="20" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="empterms.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','button/ne_terms_dn.gif',0)"><img src="button/ne_terms_up.gif" alt="Advertising Terms &amp; Conditions" name="Image9" width="100" height="20" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="emptes.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','button/ne_testim_dn.gif',0)"><img src="button/ne_testim_up.gif" alt="Customer Feedback &amp; Testimonials" name="Image4" width="100" height="20" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="empvisstats.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','button/ne_visprof_dn.gif',0)"><img src="button/ne_visprof_up.gif" alt="Visitor Demographic, Statistics &amp; Profile" name="Image2" width="100" height="20" border="0"></a></td></tr>
+  
+  <tr><td height="20" valign="middle"><a href="usefullinks.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','button/ne_links_dn.gif',0)"><img src="button/ne_links_up.gif" alt="Recruitment Resources, Links &amp; Info" name="Image7" width="100" height="20" border="0"></a></td></tr>
+    
+  <tr><td height="20" valign="middle"><a href="empfaq.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','button/ne_faq_dn.gif',0)"><img src="button/ne_faq_up.gif" alt="Frequently Asked Questions" name="Image6" width="100" height="20" border="0"></a></td></tr>
+    
+</tbody></table>
+<!-- #EndLibraryItem --></td>
+  </tr>
+  <tr>
+    <td colspan="6"><div align="right"><img src="button/webtitle.gif" width="350" height="40" border="0"><img src="button/awawlogosmall.gif" width="57" height="50" border="0"></div></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1718375-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body><!-- #EndTemplate --></html>

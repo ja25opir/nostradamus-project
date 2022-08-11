@@ -1,0 +1,641 @@
+<!DOCTYPE html><html><head> <meta name="keywords" content="Kurdistan World, Kurdish World News, WorldNews Mideast, WN Network, Baghda, Iraqi, Gulf, Oil, Energy, terrorism, Kurdistan, Kurdish, Karbala, Baghdad, UN, debt, Iraqi business, politics, sport, photos, headlines, radio, fm, sport, energy, health, Arabian markets, environment, current events, Broadcasts, WN Network Iraq, news archive"> <meta name="description" content="Kurdistan World provides latest Kurdish World News from the most comprehensive global news network and archive on the internet. News and analysis on Baghdad and international current events, India business, finance, politics, economy, sports and more. Searchable news in 44 languages from WN Network Mideast."> <title>Kurdistan World_old</title> <link href="http://rss.wn.com/English/keyword/Kurdistan World_old" rel="alternate" type="application/rss+xml" title="Kurdistan World_old"> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <link rel="SHORTCUT ICON" href="http://cdn3.wn.com/st/favicon.ico" type="image/x-icon"> <script language="JavaScript1.2" type="text/javascript" src="http://cdn8.wn.com/st/shared/active_photos/active_photos3.js"></script> <script language="JavaScript" type="text/javascript"><!--
+function mOvrTAB(src)
+	{
+	if(!src.contains(event.fromElement))
+		src.style.backgroundColor='#003399';
+	}
+function mOutTAB(src)
+	{
+	if(!src.contains(event.toElement))
+		src.style.backgroundColor='';
+	}
+function mClkTAB(src) { if(event.srcElement.tagName=='TD'){src.children.tags('A')[0].click();} }
+//-->
+</script> <style type="text/css"><!--
+/*this field contains settings for HTML tags and some other rarely changed classes */
+BODY
+{
+background-image : url(http://cdn1.wn.com/st/templates/kurdistanworld/bgr.gif);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+TABLE
+{
+font-size:12px;
+}
+TD
+{
+vertical-align : top;
+}
+TH
+{
+vertical-align : top;
+}
+A
+{
+text-decoration: none;
+color: #000000;
+}
+A:Hover, a.a_toplinks:hover,  a.a_bottomlinks:hover
+{
+color: #FF0000;
+}
+a.a_bodymainheadline:hover, a.a_searchresultstitle:hover, a.a_bottomsectionmore:hover 
+{
+
+color: #000066;
+}
+a.a_bottomsectionmore
+{
+color: #990000;
+}
+a.a_leftlinkheader
+{
+color: #ffffff;
+}
+a.a_leftlinkheader:hover
+{
+color: #990000;
+}
+.a_keyword_link {
+color:blue;
+}
+.a_keyword_link:hover{
+text-decoration:underline;
+}
+
+td.td_radiodb1{
+  background-color: #DBE7FF; 
+  padding-top: 2px;
+  padding-left: 3px;
+  color: #000066;
+  font-familly: verdana;
+  font-size: 11px;
+}
+td.td_radiodb2{
+  background-color: #0C2E73; 
+}
+table.table_radiodb1 th a{
+color:white;
+}
+
+table.table_topsectiontable
+{
+background-color: #FFFFFF;
+border: 0px;
+
+}
+td.td_topsectiontable
+{
+border: 0px;
+
+}
+#table_toplinks
+{
+background-color: #ffcc66;
+border: 0px;
+}
+td.td_toplinks
+{
+text-align: center;
+border: 0px;
+
+}
+a.a_toplinks
+{
+font-size: 10px;
+color: #000000;
+}
+
+#table_mainformatting
+{
+background-color: #FBFBFB;
+border: 1px solid #000000;
+}
+td.td_mainformatting
+{
+border: 0px;
+
+}
+#td_leftlinkformatting
+{
+/* leftlink section background controlled here*/
+background-color: #8F0000;
+vertical-align:top;
+border: 0px;
+
+}
+#td_headmainformatting
+{
+/* headmain section background controlled here*/
+background-color: #8F0000;
+border: 0px;
+
+
+}
+#td_rightlinksformatting
+{
+/* rightlinks section background controlled here*/
+background-color: #FBFBFB;
+text-align: center;
+vertical-align:top;border: 0px;
+
+}
+#table_leftlink
+{
+border: 0px;
+
+}
+th.th_leftlink1
+{
+color: #ffffff;
+border: 0px;
+
+}
+td.td_leftlink2
+{
+font-size: 11px;
+color: #ffffff;
+border: 0px;
+
+}
+th.th_leftlink2
+{
+color: #ffffff;
+text-align: left;
+}
+a.a_leftlink
+{
+color: #ffffff;
+
+}
+a.a_leftlink:hover
+{
+color: #ffcc66;
+}
+#table_headmain
+{
+color: #ffffff;
+font-weight : bold;
+background-color: #8F0000;
+border: 0px;
+
+
+
+}
+th.th_headmain
+{
+text-align: left;
+padding: 2px 8px 2px 2px;
+}
+#td_headmaintime
+{
+text-align: right;
+padding: 2px 8px 2px 2px;
+}
+#table_bodymain
+{
+border: 0px;
+padding: 4px;
+
+}
+td.td_bodymain
+{
+border-left: 0px;
+border-top: 0px;
+border-right: 0px;
+border-bottom: 1px solid #8F0000;
+padding: 10px;
+}
+a.a_bodymainheadline
+{
+font-size:18px;
+color: #333333;
+text-decoration : none;
+}
+a.a_bodymainheadline:hover{
+color: #990000;
+text-decoration : underline;
+}
+.bodymainnewstext
+{
+/* format text of articles here */
+}
+.bodymainphotocredit
+{
+background: #dddddd;
+font-size:10px;
+line-height: 20px;
+}
+.bodymainchoicestext
+{
+font-size: 12px;
+font-weight: bold;
+}
+.bodymainchoices
+{
+font-size: 11px;
+}
+th.th_bodymainheader
+{
+background-color: #ffcc66;
+color: #000000;
+text-align: left;
+padding: 2px 2px 2px 8px;
+border-bottom: 1px solid #000000;
+border-right: 1px solid #000000;
+border-left: 1px solid #000000;
+border-top: 0px;
+}
+table.table_rightlinks
+{
+ 
+}
+td.td_rightlinks
+{
+vertical-align: top;
+text-align: left;
+}
+th.th_rightlinks
+{
+color: #000000; 
+background-color: #ffcc66;
+text-align: left;
+padding: 2px 2px 2px 8px;
+border: 1px solid #000000;
+}
+a.a_rightlinks
+{
+color: #000000;
+}
+.a_rsmore
+{
+font-size:10px;
+text-align: right;
+color: #ff0000;
+}
+a.a_rslinks
+{
+ 
+}
+th.th_bottomsection
+{
+background-color: #B2B1B1;
+text-align: left;
+padding: 2px 2px 2px 8px;
+border-left: 1px solid #8F0000;
+border-top: 1px solid #8F0000;
+border-bottom: 1px solid #8F0000;
+border-right: 0px;
+}
+td.td_bottomsection
+{
+font-size: 11px;
+vertical-align: middle;
+background-color: #E8E8E8;
+border-left: 1px solid #8F0000;
+border-top: 0px;
+border-bottom: 0px;
+border-right: 0px;
+}
+a.a_bottomsectionheading
+{
+color: #000000;
+}
+a.a_bottomsectionmore
+{
+color: #990000;
+}
+a.a_bottomsectioncaption
+{
+font-size: 11px;
+}
+td.td_bottomlinks
+{
+background-color: #8F0000;
+text-align: center;
+vertical-align: middle;
+padding:5px;
+border: 0px;
+}
+a.a_bottomlinks
+{
+font-size: 11px; 
+color: #ffffff;
+}
+a.a_searchresultstitle
+{
+font-size:15px;
+color: #333333;
+text-decoration : none;
+}
+a.a_searchresultstitle:hover{
+color: #990000;
+text-decoration : underline;
+}
+.searchresultslanguage
+{
+font-size: 10px;
+}
+.searchresultsbody
+{
+font-size: 11px;
+}
+--> </style> <style type="text/css" media="print"> .non-print{ display:none; } #top_table{ width:100%; } </style> </head> <body style="margin:0px;padding:0px"> <table align="center"><tbody><tr><td> <table width="790" cellpadding="0" cellspacing="0" border="0"> <tbody><tr> <td align="center"><script type="text/javascript"><!--//<![CDATA[
+var m3_u = (location.protocol=="https:"?"https://phpadsnew.wn.com/www/delivery/ajs.php":"http://phpadsnew.wn.com/www/delivery/ajs.php");
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ",";
+document.write ("<scr"+"ipt type="+String.fromCharCode(39)+"text/javascript"+String.fromCharCode(39)+" src="+String.fromCharCode(39)+""+m3_u);
+document.write ("?zoneid=401&amp;block=1&amp;source=_middleeast_,_industry_");
+document.write ("&amp;cb=" + m3_r);
+if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write (""+String.fromCharCode(39)+"></scr"+"ipt>");
+//]]>--></script><noscript><a href="http://phpadsnew.wn.com/www/delivery/ck.php?n=ae4239a2&amp;cb=3423424" target="_blank"><img src="http://phpadsnew.wn.com/www/delivery/avw.php?zoneid=401&amp;source=_middleeast_,_industry_&amp;n=ae4239a2" border="0" alt=""></a></noscript> </td> </tr> </tbody></table>  <map name="wnnetwork"> <area alt="WN Network" coords="114,49,239,72" href="http://www.wnnetwork.com/"> <area alt="Kurdistan World" coords="2,48,242,0" href="http://www.kurdistanworld.com/"> </map> <table width="790" align="center" cellspacing="0" cellpadding="0" style="border: 1px solid #000000;" height="70"> <tbody><tr> <td width="120" align="center" background="http://cdn7.wn.com/vp/i/85/aa6bde0916b49c.gif" valign="middle"><script><!--
+ //NN equalizer: document.all
+ if (!document.all) {
+ 	Node.prototype.__defineGetter__("all", function() {
+ 		if (document.getElementsByTagName("*").length) {
+ 			switch (this.nodeType) {
+ 				case 9:
+ 					return document.getElementsByTagName("*")
+ 					break
+ 				case 1:
+ 					return this.getElementsByTagName("*")
+ 					break
+ 			}
+ 		}
+ 		return ""
+ 	})
+ 	Node.prototype.__defineSetter__("all", function() {})
+ }
+ 	function Phototop(imgSrc,articleId,caption)
+ 	{
+ 		imgSrc=new String(imgSrc);
+ 		imgSrc=imgSrc.slice(imgSrc.indexOf(">")+1);
+ 		this.img=new Image();
+ 		this.img.src=imgSrc;
+ 		this.url="http://cgi.wn.com/?t=worldnews/onephoto.txt&action=display&article="+articleId;
+ 		this.caption=caption;
+ 		if (this.caption.length>70)
+ 			this.caption=this.caption.slice(0,67)+"...";
+ 	}
+
+ 	Phototop.prototype.setImageAndDest=function()
+ 	{
+ 		desttop=this.url;
+ 		document.images["Phototop"].src=this.img.src;
+ 		document.images["Phototop"].title=this.caption;
+ 	}
+
+ 	Phototop.prototype.getAnchor=function()
+ 	{
+ 		return "<a href='"+this.url+"' target='blank'>"+this.caption+"</a>";
+ 	}
+
+ 	if((navigator.appName.indexOf("Netscape") != -1) && (parseInt(navigator.appVersion)<=4))
+ 	{
+ 		Phototop.prototype.set=function()
+ 		{
+ 			this.setImageAndDest();
+ 			display=window.document.layers["photoboxtop"];
+ 			temp=this.getAnchor();
+ //			display.src="javascript:echo();";
+ 		}
+ 	}
+ 	else if(navigator.appName.indexOf("Microsoft") != -1 || (navigator.appName.indexOf("Netscape") != -1 && parseInt(navigator.appVersion)>4))
+ 	{
+ 		Phototop.prototype.set=function()
+ 		{
+ 			this.setImageAndDest();
+
+ 		}
+ 	}
+
+ 	var desttop="";
+ 	function redirecttop()
+ 	{
+ 		window.open(desttop);
+ 	}
+ 	
+ 	var datatop=new Array();
+ 	var currenttop=0;
+
+ 	function nextPhototop()
+ 	{
+ 		currenttop=(currenttop+1)%datatop.length;
+ 		datatop[currenttop].set();
+ 		setTimeout("nextPhototop()",5000);
+ 	}	
+
+ 	function loadImagestop()
+ 	{
+ 	datatop[1]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548833" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/8a/f0/8fa5863b224e52d2cd0353102483-medium.jpg','105548833','Israel-Palestine talks marred by violence');
+
+datatop[2]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105517309" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/46/60/88b1053d730447802d8d91b0a401-medium.jpg','105517309','U.S. sees progress in Mideast peace talks');
+
+datatop[3]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105519408" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/1e/9c/56e144e7827c75438f6037578b70-medium.jpg','105519408','Huge Saudi arms deal aimed at Iran, Yemen troubles');
+
+datatop[4]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105519394" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/b7/b5/1f6cab86f908452602c7ab3b84cb-medium.jpg','105519394','925 million in chronic hunger worldwide - report');
+
+datatop[5]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105519401" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/24/6d/4a2162991a437e3503815b0e09c5-medium.jpg','105519401','First female captain for UAE&#39;s Etihad Airways takes flight');
+
+datatop[6]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105515539" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/94/62/50da237765e078a0f2fb7811d213-medium.jpg','105515539','Superbug fears in UAE shooed off');
+
+datatop[7]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573636" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/e8/14/10d735b195fe774f913de6be2765-medium.jpg','105573636','EU sees trade deal with South Korea as step to &#39;bond&#39; with Asia');
+
+datatop[8]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105540542" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/95/94/08e98113a61f48536978d0c0b9ba-medium.jpg','105540542','Israel: Weapons sites in Gaza hit');
+
+datatop[9]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105517307" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/cb/78/6365fa02d0616143dfbca0adbef7-medium.jpg','105517307','EU to call on Israel to extend settlement halt - draft');
+
+datatop[10]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105519392" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/f2/80/b4bb7613a5c194f86c47982ace12-medium.jpg','105519392','UAE gasoline price hikes boost fuel flows from Oman');
+
+datatop[11]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105561706" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/dc/62/3dcc7b4b835e5a6bd6e04db19005-medium.jpg','105561706','Arabs to target Israel at U.N. atom body, resist West');
+
+datatop[12]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573635" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/c8/7a/a2e45af1122f51a70adf7bcf10ea-medium.jpg','105573635','Argentina sells prized cattle DNA as world demands more beef');
+
+datatop[13]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548847" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/cb/a1/7ce5f40f2bc4fb7679047f02d5f5-medium.jpg','105548847','Non-Aligned Movement backs Iran');
+
+datatop[14]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105516475" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/db/ae/8029cc3728e5f43feaa4657511a2-medium.jpg','105516475','Iraqi soldiers killed by bomb; US-Iraq raid kills 7');
+
+datatop[15]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105540433" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/f2/7a/95184aed4228503f71d6c50d56f0-medium.jpg','105540433','Iran president rejects pressure on nuclear front');
+
+datatop[16]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105519405" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/a7/86/16276b7fc2ee2daf2b1f4770a944-medium.jpg','105519405','Japan intervenes to drag down yen, warns of more measures');
+
+datatop[17]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105519411" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/d2/bd/87a81a73d4f3afa45a1b5cb14ebf-medium.jpg','105519411','West hits out at Iran over ban on atomic inspectors');
+
+datatop[18]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573640" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/02/65/d890ce5798399f37f0b16ede6fac-medium.jpg','105573640','Clinton says Middle East peace &#39;within reach&#39;');
+
+datatop[19]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548842" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/d9/a6/d4fa0d14a0f93df6dff8b41da3e3-medium.jpg','105548842','Don&#39;t mess with my burqa, monsieur');
+
+datatop[20]=new Phototop('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105516474" TIMESTAMP="4c9206c0">http://cdn.wn.com/o25/ph/img/56/86/5e6d02f0c99546cc136eeb91d281-medium.jpg','105516474','Shares of Egyptian developer dive on court ruling');
+
+
+ 		
+ 		if((navigator.appName.indexOf("Netscape") != -1) && (parseInt(navigator.appVersion)<=4))
+ 		{
+ 			display=window.document.layers["photoboxtop"];
+ 			display.moveToAbsolute(locater.pageX,locater.pageY);
+ 		}
+ 		if (datatop.length>0)
+ 		{
+ 			datatop[0]=datatop[1];
+ 			datatop[0].set();
+ 			setTimeout("nextPhototop()",5000);
+ 		}
+ 		else
+ 		{
+ 			datatop[0]=new Phototop("http://cdn3.wn.com/st/logos/wnnetwork.gif",0,"WN Network");
+ 			datatop[0].url="http://www.wnnetwork.com";
+ 			datatop[0].set();
+ 		}
+ 	}
+ 	var temptop=null;
+ 	function echotop()
+ 	{
+ 		return temptop;
+ 	}//
+
+ //-->
+ </script><a href="javascript:redirecttop()" id="photolinktop"><img name="Phototop" width="90" height="70" border="0"></a><script><!--
+ loadImagestop();
+ //-->
+ </script></td> <td width="380" valign="middle" align="left"><img src="http://cdn1.wn.com/vp/i/4b/d379ab391e5679.gif" height="70" width="380" usemap="#wnnetwork" alt="Kurdistan World" border="0"></td> <td width="290" style="align:right; vertical-align:middle;" background="http://cdn8.wn.com/vp/i/4c/a6b23fcc3df84e.gif"><table align="right" cellspacing="0" cellpadging="0"> <tbody><tr> <th colspan="3"><span style="font-size:13px; text-align:center; font-weight:bold; font-family: Arial, Helvetica, sans-serif; color: #ffffff;">Search the <a style="font-family:Arial, Helvetica, sans-serif;font-size: 13px; color: #FFCC66;" href="http://www.wn.com">World News</a> Network</span></th> </tr> <tr> <td><form action="http://cgi.wn.com/" style="margin: 0px;" method="GET"><input name="SearchString" value="" size="14" maxlength="8192" style="font-family: Arial, Helvetica, sans-serif;font-size:12px;border: 1px solid #000000; margin-top:0px;width:90px;"></form></td> <td><input type="submit" style="border: outset 2px #666666; font-family: Arial, Helvetica, sans-serif; margin: 2px; width: 50px; color: #000000; background-color: #FFCC66; font-size: 10px; font-weight: bold;" value="Search"></td> <td><select name="language" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px;"><option value="15">Afrikaans</option> <option value="26">Albanian</option> <option value="38">Arabic</option> <option value="44">Azerbaijani</option> <option value="42">Bengali</option> <option value="27">Bosnian</option> <option value="36">Chinese</option> <option value="30">Creole</option> <option value="24">Croatian</option> <option value="8">Czech</option> <option value="16">Danish</option> <option value="18">Dutch</option> <option value="1" selected="selected">English</option> <option value="12">Finnish</option> <option value="39">Flemish</option> <option value="5">French</option> <option value="6">German</option> <option value="34">Greek</option> <option value="41">Gujarati</option> <option value="22">Hausa</option> <option value="48">Hebrew</option> <option value="29">Hindi</option> <option value="13">Hungarian</option> <option value="20">Indonesian</option> <option value="2">Italian</option> <option value="45">Japanese</option> <option value="52">Kannada</option> <option value="32">Korean</option> <option value="7">Malay</option> <option value="49">Marathi</option> <option value="43">Nepali</option> <option value="9">Norwegian</option> <option value="54">Pashto</option> <option value="47">Persian</option> <option value="10">Polish</option> <option value="3">Portuguese</option> <option value="50">Punjabi</option> <option value="19">Romanian</option> <option value="33">Russian</option> <option value="25">Serbian</option> <option value="17">Slovak</option> <option value="40">Somali</option> <option value="4">Spanish</option> <option value="21">Swahili</option> <option value="14">Swedish</option> <option value="23">Tagalog</option> <option value="31">Tamil</option> <option value="51">Telugu</option> <option value="37">Thai</option> <option value="11">Turkish</option> <option value="46">Urdu</option> <option value="53">Visayan</option> <option value="56">Zulu</option></select></td> </tr> <tr> <td colspan="3" align="right"><a style="font-family:Arial, Helvetica, sans-serif;font-size: 9px; color: #ffffff;" href="/s/worldnews/adv_search.html">Advanced Search</a><input name="template" type="hidden" value="kurdistanworld_old/index.txt"><input name="action" type="hidden" value="search"><input name="first" type="hidden" value="0"></td> </tr> </tbody></table></td> </tr> </tbody></table>  <table width="790" id="table_toplinks"> <tbody><tr> <td width="11%" class="td_toplinks"><a href="http://www.arabworldnews.com/" class="a_toplinks">Arab News</a></td> <td width="11%" class="td_toplinks"><a href="http://www.arabbusinessdaily.com/" class="a_toplinks">Arab Business</a></td> <td width="11%" class="td_toplinks"><a href="http://www.baghdad.com/" class="a_toplinks">Baghdad</a></td> <td width="11%" class="td_toplinks"><a href="http://www.arabiaeconomy.com/" class="a_toplinks">Economies</a></td> <td width="11%" class="td_toplinks"><a href="http://www.kuwaitdaily.com/" class="a_toplinks">Kuwait</a></td> <td width="11%" class="td_toplinks"><a href="http://www.saudipost.com/" class="a_toplinks">Saudi Arabia</a></td> <td width="11%" class="td_toplinks"><a href="http://www.wn.com/sitemap" class="a_toplinks">Site Map</a></td> <td width="11%" class="td_toplinks"><a href="http://archive.wn.com/kurdistanworld_old/" class="a_toplinks">News Archive</a></td> <td width="*" class="td_toplinks"><a href="http://www.wn.com/feedback" class="a_toplinks">Feedback</a></td> </tr> </tbody></table>     <table width="790" id="table_mainformatting" border="1" cellspacing="0" cellpadding="0"> <tbody><tr> <td width="120" id="td_leftlinkformatting" rowspan="14"> <div class="non-print">  <table cellpadding="3" cellspacing="1" id="table_leftlink"> <tbody><tr> <td align="left" valign="middle"><img src="http://cdn6.wn.com/vp/i/39/aafedfeac888b9.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2"><a href="http://www.wn.com/" class="a_leftlinkheader">WN Related</a></th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://www.ankarabusiness.com/" class="a_leftlink" target="_blank">Ankara Business<br> </a><a href="http://www.arabworldfm.com/" class="a_leftlink" target="_blank">Arab World FM<br> </a><a href="http://www.arabworldnews.com/" class="a_leftlink" target="_blank">Arab World News<br> </a><a href="http://www.baghdad.com/" class="a_leftlink" target="_blank">Baghdad<br> </a><a href="http://www.baghdadradio.com/" class="a_leftlink" target="_blank">Baghdad Radio<br> </a><a href="http://www.iraqagency.com" class="a_leftlink" target="_blank">Iraq Agency<br> </a><a href="http://www.iraqeconomy.com" class="a_leftlink" target="_blank">Iraq Economy<br> </a><a href="http://www.iraqenergy.com/" class="a_leftlink" target="_blank">Iraq Energy<br> </a><a href="http://www.iraqfm.com" class="a_leftlink" target="_blank">Iraq FM<br> </a><a href="http://www.iraqhello.com" class="a_leftlink" target="_blank">Iraq Hello<br> </a><a href="http://www.iraqphotos.com/" class="a_leftlink" target="_blank">Iraq Photos<br> </a><a href="http://www.iraqtvnews.com/" class="a_leftlink" target="_blank">Iraq TV News<br> </a><a href="http://www.iraqilife.com/" class="a_leftlink" target="_blank">Iraqi Life<br> </a><a href="http://www.istanbulnews.com/" class="a_leftlink" target="_blank">Istanbul News<br> </a><a href="http://www.istanbulsun.com/" class="a_leftlink" target="_blank">Istanbul Sun<br> </a><a href="http://www.kurdishinc.com/" class="a_leftlink" target="_blank">Kurdish Inc<br> </a><a href="http://www.middleastworld.com/" class="a_leftlink" target="_blank">Middle East Daily<br> </a><a href="http://www.newsiraq.com/" class="a_leftlink" target="_blank">News Iraq<br> </a><a href="http://www.radioturkey.com/" class="a_leftlink" target="_blank">Radio Turkey<br> </a><a href="http://www.turkeymaritime.com" class="a_leftlink" target="_blank">Turkey Maritime<br> </a><a href="http://www.turkeyobserver.com/" class="a_leftlink" target="_blank">Turkey Observer<br> </a><a href="/s/turkeytimes_old1/" class="a_leftlink" target="_blank">Turkey Times<br> </a><a href="http://www.wneurope.com/" class="a_leftlink" target="_blank">WN Europe<br> </a><a href="http://www.worldnewsasia.com/" class="a_leftlink" target="_blank">World News Asia<br> </a></td></tr></tbody></table> <table cellpadding="3" cellspacing="1" id="table_leftlink"> <tbody><tr> <td valign="middle" width="5"></td> <td class="td_leftlink"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;mode=bool&amp;sortby=Date_Newest&amp;SearchString=topic:iraq1 or topic:kurds1" class="a_leftlink">Headlines</a><br> <a href="http://archive.wn.com/kurdistanworld_old/" class="a_leftlink">News Archive</a><br> <a href="http://weather.wn.com/" class="a_leftlink">Weather in Mosul</a><br> <a href="http://cgi.wn.com/?template=worldphotos%2Findexsearchvera.txt&amp;action=search&amp;first=0&amp;SearchString=topic:iraq1 or topic:kurds1&amp;mode=bool&amp;x=14&amp;y=7" class="a_leftlink">Photos</a><br> <form action="http://slideshow.wn.com/search/v4/" style="margin:0px;padding:0px" target="slideshow_popup" method="post" name="slideshow_form"> <input type="hidden" name="q" value="topic:iraq1 or topic:kurds1"></form> <script language="JavaScript1.2" type="text/javascript">
+function slideShow(){
+	window.open("http://slideshow.wn.com/search/v4/","slideshow_popup","height=540,width=905,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,toolbar=no");
+	document.slideshow_form.submit();
+}
+</script> <a href="javascript:slideShow()" class="a_leftlink">Slideshow</a><br> <a href="http://wnsitemap.com/" target="_blank" class="a_leftlink">Sitemap</a> </td> </tr> </tbody></table> <table border="0" align="center" cellpadding="3" cellspacing="1" id="table_leftlink"> <tbody><tr> <th valign="top" colspan="2" class="th_leftlink1"> <a href="http://wnnetwork.com"><img src="http://cdn8.wn.com/vp/i/da/b87b58459df639.gif" align="center" height="20" border="0" width="100"></a> </th> </tr> <tr> <td colspan="2" align="left"> </td> </tr> <tr> <td align="left" valign="middle"><img src="http://cdn6.wn.com/vp/i/39/aafedfeac888b9.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2">REGIONAL</th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://wnafrica.com/" target="_top" class="a_leftlink">WN Africa</a><br> <a href="http://wnnasia.com/" target="_top" class="a_leftlink">WN Asia</a><br> <a href="http://wnaustralia.com/" target="_top" class="a_leftlink">WN Australasia</a><br> <a href="http://wncaribbean.com/" target="_top" class="a_leftlink">WN Caribbean</a><br> <a href="http://wneurope.com/" target="_top" class="a_leftlink">WN Europe</a><br> <a href="http://wnmideast.com/" target="_top" class="a_leftlink">WN Mideast</a><br> <a href="http://wncentralamerica.com/" target="_top" class="a_leftlink">WN C. America</a><br> <a href="http://wnamerica.com/" target="_top" class="a_leftlink">WN N. America</a><br> <a href="http://wnpacific.com/" target="_top" class="a_leftlink">WN Pacific</a><br> <a href="http://wnsouthamerica.com/" target="_top" class="a_leftlink">WN S. America</a><br> <a href="http://wn.com/s/anything/" target="_top" class="a_leftlink">World Wide</a><br> <a href="http://asp.wn.com/worldweather/index.asp" target="_top" class="a_leftlink">Weather</a><br> </td> </tr> <tr> <td align="left" valign="middle"><img src="http://cdn3.wn.com/vp/i/12/2c5cc9b4bde079.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2"><a href="http://wnsport.com/" class="a_leftlinkheader" target="_top">SPORT</a></th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://cricketpremier.com/" target="_top" class="a_leftlink">CricketPremier</a><br> <a href="http://uefachampions.com/" target="_top" class="a_leftlink">Euro 2004</a><br> <a href="http://eurosportsnews.com/" target="_top" class="a_leftlink">EurosportsNews</a><br> <a href="http://footballpremier.com/" target="_top" class="a_leftlink">FootballPremier</a><br> <a href="http://sportsnews.com/" target="_top" class="a_leftlink">Sports News</a><br> <a href="http://tennischampion.com/" target="_top" class="a_leftlink">TennisChampion</a><br> </td> </tr> <tr> <td align="left" valign="middle"><img src="http://cdn7.wn.com/vp/i/d8/87322feedb5b27.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2"> <a href="http://wnbusiness.com/" class="a_leftlinkheader" target="_top">BUSINESS</a></th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://businessdaily.com" target="_top" class="a_leftlink">Business Daily</a><br> <a href="http://wneconomy.com/" target="_top" class="a_leftlink">WN Economy</a><br> <a href="http://wnenergy.com/" target="_top" class="a_leftlink">WN Energy</a><br> <a href="http://wnindustry.com/" target="_top" class="a_leftlink">WN Industry</a><br> <a href="http://wnmoney.com/" target="_top" class="a_leftlink">WN Money</a><br> <a href="http://wn.com/currency" target="_top" class="a_leftlink">WN Currency</a> <a href="http://wn.com/forex" target="_top" class="a_leftlink">Forex</a><br> </td> </tr> <tr> <td valign="middle" align="left"><img src="http://cdn3.wn.com/vp/i/12/2c5cc9b4bde079.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2"><a href="http://wnentertainment.com/" class="a_leftlinkheader" target="_top">ENTERTAINMENT</a></th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://mediaconference.com/" target="_top" class="a_leftlink">Media</a><br> <a href="http://musikfm.com/" target="_top" class="a_leftlink">Music</a><br> <a href="http://wnbroadcast.com/" target="_top" class="a_leftlink">WN Broadcast</a><br> <a href="http://wnart.com/" target="_top" class="a_leftlink">WN Arts &amp; Music</a><br> <a href="http://wnkids.com/" target="_top" class="a_leftlink">WN Kids</a><br> <a href="http://gamesquarter.com/" target="_top" class="a_leftlink">WN Gaming</a></td> </tr> <tr> <td align="left" valign="middle"><img src="http://cdn7.wn.com/vp/i/2f/7a963a488c2eb9.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2"><a href="http://wnsociety.com" class="a_leftlinkheader">SOCIETY</a></th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://wnreligion.com/" target="_top" class="a_leftlink">WN Religion</a><br> <a href="http://wnissues.com/" target="_top" class="a_leftlink">WN Issues</a><br> <a href="http://wnpolitics.com/" target="_top" class="a_leftlink">WN Politics</a> </td> </tr> <tr> <td align="left" valign="middle"><img src="http://cdn5.wn.com/vp/i/65/559118e775590c.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2">LANGUAGE</th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://wn.com/languages" target="_top" class="a_leftlink">WN Languages</a> </td> </tr> <tr> <td align="left" valign="middle"><img src="http://cdn6.wn.com/vp/i/39/aafedfeac888b9.jpg" align="center" height="9" border="0" width="5"></td> <th class="th_leftlink2"><a href="http://worldscientist.com/" class="a_leftlinkheader" target="_top">SCIENCE</a></th> </tr> <tr> <td valign="middle"></td> <td class="td_leftlink"> <a href="http://wneducation.com/" target="_top" class="a_leftlink">WN Education</a><br> <a href="http://wnenvironment.com/" target="_top" class="a_leftlink">WN Environment</a><br> <a href="http://wnscience.com/" target="_top" class="a_leftlink">WN Science</a><br> <a href="http://cgi.wntechnology.com/" target="_top" class="a_leftlink">WN Technology</a><br> <br> <a href="http://wn.com/advertising" target="_top" class="a_leftlink">Advertising</a><br> <a href="http://wn.com/aboutus" target="_top" class="a_leftlink">Company</a><br> <a href="http://wn.com/contacts" target="_top" class="a_leftlink">Contact</a><br> <a href="http://asp.wn.com/feedback/employmentform.asp" target="_top" class="a_leftlink">Employment</a><br> <a href="http://wnnmedia.com" target="_top" class="a_leftlink">Media Kit</a><br> <a href="http://wn.com/wnlinks" target="_top" class="a_leftlink">WN Links</a><br> <a href="http://wntoolbar.com/" target="_top" class="a_leftlink">WN Toolbar</a><br> </td> </tr> </tbody></table> <br>&nbsp;<br> <table><tbody><tr><th style="background-color: #AB0034; color: white;">NEWS SITES</th></tr> <tr><td class="td_leftlink"> <a href="http://www.4kurdistan.com/" class="a_leftlink" target="_blank">4Kurdistan.com</a></td></tr> <tr><td class="td_leftlink"> <a href="http://electroniciraq.net/" class="a_leftlink" target="_blank">Electronic Iraq</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.infoshop.org/kurdistan.html" class="a_leftlink" target="_blank">Infoshop.org Focus on Kurdistan</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.iraq-today.com/" class="a_leftlink" target="_blank">Iraq Today</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.khrw.com/newslinks.html" class="a_leftlink" target="_blank">KHRW - News Headlines about Kurdistan</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.kurdistanobserver.com/" class="a_leftlink" target="_blank">Kurdistan Observer</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.kurdland.com/" class="a_leftlink" target="_blank">Kurdland.com</a></td></tr> </tbody></table> <table><tbody><tr><th style="background-color: #AB0034; color: white;">RELATED SITES</th></tr> <tr><td class="td_leftlink"> <a href="http://www.akakurdistan.com/" class="a_leftlink" target="_blank">aka KURDISTAN</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.kurdistan.org/" class="a_leftlink" target="_blank">American Kurdish Information Network</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.back-to-iraq.com/" class="a_leftlink" target="_blank">Back to Iraq</a></td></tr> <tr><td class="td_leftlink"> <a href="http://costofwar.com/" class="a_leftlink" target="_blank">Cost of War</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.endthewar.org/" class="a_leftlink" target="_blank">End The War</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.ccny.cuny.edu/library/Divisions/Government/Iraqbib.html" class="a_leftlink" target="_blank">Government Views of Iraq</a></td></tr> <tr><td class="td_leftlink"> <a href="http://healingiraq.blogspot.com/" class="a_leftlink" target="_blank">Healing Iraq</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.iranonline.com/iran/kurdistan/images/" class="a_leftlink" target="_blank">Images of Kurdestan</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.nonviolence.org/iraq/" class="a_leftlink" target="_blank">Iraq Antiwar and Post-War</a></td></tr> <tr><td class="td_leftlink"> <a href="http://www.iraqbodycount.org/" class="a_leftlink" target="_blank">Iraq Body Count</a></td></tr> </tbody></table> <script language="JavaScript" type="text/javascript"><!--
+function bookmark(){
+	if ((navigator.appName=='Microsoft Internet Explorer') && (parseInt(navigator.appVersion)>=4)){
+		if (window.external.AddFavorite(location.href, document.title)){
+			alert ('Thank you for bookmarking this page!');
+		}
+	} else {
+		alert ("Your browser doesn't support this feature. Please close this alert-window and press [CTRL] + [D] to bookmark this page.");
+	}
+}
+function homepage(homelink){
+	if ((navigator.appName=='Microsoft Internet Explorer') && (parseInt(navigator.appVersion)>=4)){
+		homelink.style.behavior='url(#default#homepage)';
+		homelink.setHomePage(location.href);
+	} else {
+		alert (" Your browser doesn't support this feature. You can change your Home Page manually in your browser's 'Preferences'.");
+	}
+}
+//-->
+</script> <table width="100%"> <tbody><tr><th style="background-color:#666666; border: 1px solid #000000;"><a style="font-size:10px; color:#ffffff;font-family:Arial;text-decoration:none;" href="javascript:bookmark()">BOOKMARK THIS PAGE!</a></th></tr> <tr><td style="padding:2px;"></td></tr> <tr><th style="background-color:#666666; border: 1px solid #000000;"><a style="font-size:10px; color:#ffffff;font-family:Arial;text-decoration:none;" onclick="javascript:homepage(this)" onmouseover="this.style.cursor='hand'">MAKE THIS PAGE YOUR HOMEPAGE!</a></th></tr> <tr><td style="padding:2px;"></td></tr> <tr><th style="background-color:#666666; border: 1px solid #000000;"><a style="font-size:10px; color:#ffffff;font-family:Arial;text-decoration:none;" href="http://wntoolbar.com/">WN TOOLBAR!</a></th></tr> </tbody></table>   </div> </td> <td width="675" colspan="2" id="td_headmainformatting">  <table width="100%" id="table_headmain" cellspacing="0" cellpadding="0"> <tbody><tr> <th class="th_headmain">Breaking News</th> <td id="td_headmaintime"><span class="time"><b>Fri,&nbsp;17&nbsp;Sep&nbsp;2010</b></span></td> </tr> </tbody></table>  </td> </tr> <tr> <td colspan="2">  <table width="100%"> <tbody><tr> <td id="td_mainformatting" width="*">   <noscript><a href="http://phpadsnew.wn.com/www/delivery/ck.php?n=ae4239a2&amp;cb=3423424" target="_blank"><img src="http://phpadsnew.wn.com/www/delivery/avw.php?zoneid=399&amp;source=_middleeast_,_industry_&amp;n=ae4239a2" border="0" alt=""></a></noscript><table id="table_bodymain" width="100%" border="1" cellspacing="0" cellpadding="3"> <tbody><tr><td align="center" colspan="2"></td></tr> <tr><td align="center" colspan="2"></td></tr>  <tr> <td class="td_bodymain" colspan="2"> <table width="100%" cellpadding="0" cellspacing="0" border="0"> <tbody><tr> <td align="center"><wnphotodate version="2" timezone="UTC" articleid="105556003" timestamp="4c935840"><a href="http://article.wn.com/view/2010/09/16/Opec_needs_to_present_a_united_front/" target="_blank"><img src="http://cdn4.wn.com/vp/i/9f/47503e518c83f3.jpg" hspace="5" height="202" width="300" alt="President of the OPEC conference and Minister of Energy and Mines Chakib Khelil from Algeria gestures as he speaks to journalists prior to the start of the OPEC meeting at their headquarters in Vienna, Austria, Tuesday Sept. 9" border="0"></a><br><span class="bodymainchoices"><a href="http://wn.com/anniversary" target="_blank">Anniversary</a> &nbsp; <a href="http://wn.com/creation" target="_blank">Creation</a> &nbsp; <a href="http://wn.com/opec" target="_blank">Opec</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Opec+Anniversary&amp;language_id=1&amp;results_num=10&amp;photo_size=small&amp;sort_type=nwf&amp;corpus=current&amp;search_type=head_all&amp;x=23&amp;y=10" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/present" target="_blank">Present</a> &nbsp; </span></wnphotodate></td> <td> <span class="bodymainphotocredit">&nbsp;Gulf News&nbsp;</span><br> <a href="http://article.wn.com/view/2010/09/16/Opec_needs_to_present_a_united_front/" class="a_bodymainheadline" target="_blank">Opec needs to present a united front</a><br> <span class="bodymainnewstext">| Last week, the Organisation of Petroleum Exporting Countries (Opec) celebrated the 50th anniversary of its creation. In September 1960, representatives from five oil producers — Iran, Iraq, Sa... (photo: AP / Ronald Zak)</span> </td> </tr> </tbody></table> </td> </tr> <tr> <td class="td_bodymain" colspan="2"> <table width="100%" cellpadding="0" cellspacing="0" border="0"> <tbody><tr> <td align="center"><wnphotodate version="2" timezone="UTC" articleid="105548770" timestamp="4c935840"><a href="http://article.wn.com/view/2010/09/16/Putin_looks_sour_loser_on_Nabucco/" target="_blank"><img src="http://cdn5.wn.com/vp/i/dd/c1e2bd983c9e13.jpg" hspace="5" height="187" width="300" alt="FILE - In this Jan. 11, 2007 file photo, Belarusian workers are seen at a pump station on the &quot;Druzhba&quot; pipeline near the village Bobovichi, some 330 km (206 miles) southeast of Minsk, Belarus. At a meeting in Prague on May 8, 2009 the EU urged Azerbaijan, Georgia, Turkey, Uzbekistan, Kazakhstan, Egypt and Iraq to commit to expanding a web of half a dozen east-west gas pipelines. The EU's preference is to build the euro 10 billion Nabucco pipeline which bypasses Russia." border="0"></a><br><span class="bodymainchoices"><a href="http://wn.com/europe" target="_blank">Europe</a> &nbsp; <a href="http://wn.com/gas" target="_blank">Gas</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Russia+and+NABUCCO&amp;language_id=1&amp;x=0&amp;y=0&amp;results_num=10&amp;photo_size=small&amp;sort_type=nwf&amp;corpus=current&amp;search_type=head_all" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/russia" target="_blank">Russia</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Nabucco_pipeline" target="_blank">Wikipedia: Nabucco pipeline</a> &nbsp; </span></wnphotodate></td> <td> <span class="bodymainphotocredit">&nbsp;Asia Times&nbsp;</span><br> <a href="http://article.wn.com/view/2010/09/16/Putin_looks_sour_loser_on_Nabucco/" class="a_bodymainheadline" target="_blank">Putin looks sour loser on Nabucco</a><br> <span class="bodymainnewstext">| &nbsp;&nbsp;&nbsp;&nbsp; Sep 17, 2010 Putin looks sour loser on Nabucco | By Vladimir Socor | Russia seems to have lost its lobbying battle in Europe for its South Stream pipeline carrying gas and a... (photo: AP / Sergei Grits, File)</span> </td> </tr> </tbody></table> </td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105519406" timestamp="4c9206c0"><a href="http://article.wn.com/view/2010/09/15/US_renews_call_for_release_of_hikers_detained_in_Tehran/" target="_blank"><img src="http://cdn2.wn.com/vp/i/6f/a28f0bd8389901.jpg" hspace="5" align="left" height="100" width="150" alt="American hikers Shane Bauer, left, Josh Fattal, center, and Sarah Shourd stand prior to meeting with their mothers at the Esteghlal hotel in Tehran, Friday, May 21, 2010." border="0"></a> <span class="bodymainphotocredit">&nbsp;Daily Star Lebanon&nbsp;</span><br> <a href="http://article.wn.com/view/2010/09/15/US_renews_call_for_release_of_hikers_detained_in_Tehran/" target="_blank" class="a_bodymainheadline">US renews call for release of hikers detained in Tehran</a><br> <span class="bodymainnewstext">| By Agence France Presse (AFP) | Compiled by Daily Star staff | Thursday, September 16, 2010 | - Powered by | --&gt; | The United States on Wednesday issued a new call on Iran to immediately release two... (photo: AP / Press TV)</span><br> <span class="bodymainchoices"><a href="http://wn.com/espionage" target="_blank">Espionage</a> &nbsp; <a href="http://wn.com/iran" target="_blank">Iran</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=US+and+hikers+and+Iran&amp;language_id=1&amp;photo_size=small&amp;x=19&amp;y=16&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/us" target="_blank">US</a> &nbsp; <a href="http://en.wikipedia.org/wiki/2009%E2%80%932010_detention_of_American_hikers_by_Iran" target="_blank">Wikipedia: 20092010 detention of American hikers by Iran</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105516475" timestamp="4c9206c0"><a href="http://article.wn.com/view/2010/09/15/Iraqi_soldiers_killed_by_bomb_USIraq_raid_kills_7_7/" target="_blank"><img src="http://cdn6.wn.com/vp/i/94/ff6f4871764011.jpg" hspace="5" align="left" height="103" width="150" alt="U.S. Army soldiers secure the scene of a roadside bomb attack in Basra, Iraq's second-largest city, 550 kilometers (340 miles) southeast of Baghdad, Iraq, Wednesday, Sept. 15, 2010." border="0"></a> <span class="bodymainphotocredit">&nbsp;The Jordan Times&nbsp;</span><br> <a href="http://article.wn.com/view/2010/09/15/Iraqi_soldiers_killed_by_bomb_USIraq_raid_kills_7_7/" target="_blank" class="a_bodymainheadline">Iraqi soldiers killed by bomb; US-Iraq raid kills 7</a><br> <span class="bodymainnewstext">| - Nine Iraqi soldiers were killed on Wednesday when a roadside bomb destroyed a bus in the volatile north and at least seven people were killed in a US-Iraqi raid in western Iraq, security sources s... (photo: AP / Nabil al-Jurani)</span><br> <span class="bodymainchoices"><a href="http://wn.com/insurgency" target="_blank">Insurgency</a> &nbsp; <a href="http://wn.com/iraq" target="_blank">Iraq</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Iraq+and+violence&amp;language_id=1&amp;photo_size=small&amp;x=39&amp;y=17&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/violence" target="_blank">Violence</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Iraqi_insurgency" target="_blank">Wikipedia: Iraqi insurgency</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td colspan="2"> <script type="text/javascript"><!--
+google_ad_client = "pub-5659397380679582";
+google_ad_width = 468;
+google_ad_height = 15;
+google_ad_format = "468x15_0ads_al";
+google_ad_channel ="7928159951";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "333333";
+google_color_text = "000000";
+//--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </td> </tr>  <tr> <th class="th_bodymainheader"><a href="/s/kurdistanworld_old/tsindex.html" class="a_bottomsectionheading">Top Stories</a></th><th class="th_bodymainheader" align="right"><div align="right" "><a style="color:#ff0000;font-weight : normal;" href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;mode=bool&amp;sortby=Date_Newest&amp;SearchString=topic:iraq1 or topic:kurds1">more</a> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;mode=bool&amp;sortby=Date_Newest&amp;SearchString=topic:iraq1 or topic:kurds1" class="a_bottomsectionheading">Headlines</a></div></th> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105472976" timestamp="4c90b540"><a href="http://article.wn.com/view/2010/09/15/Freed_US_hiker_vows_to_help_friends_still_held_by_Iran/" target="_blank"><img src="http://cdn4.wn.com/vp/i/55/313e52272ee8dc.jpg" border="0" align="left" height="72" width="100" alt="Sarah Shourd, 32, of the U.S., right, embraces her mother Nora Shourd, left, as an unidentified man stands behind, on Sarah Shourd's  arrival at the royal airport in Muscat, Oman, Tuesday, Sept. 14, 2010, after leaving Tehran, Iran. The American woman released by Iran on Tuesday after more than a year in prison said she was grateful to Iran's president for her freedom shortly before she boarded a flight to the Gulf sultanate of Oman where her mother greeted her with a warm embrace." hspace="5"></a> <span class="bodymainphotocredit">BBC News</span><br> <a href="http://article.wn.com/view/2010/09/15/Freed_US_hiker_vows_to_help_friends_still_held_by_Iran/" target="_blank" class="a_bodymainheadline">Freed US hiker vows to help friends still held by Iran</a><br> <span class="bodymainnewstext">A US hiker, freed after spending more than a year in jail in Iran, has promised to lobby for the release of the two men she was arrested with. | Sarah Shourd, who was flo... (photo: AP / Sultan al-Hasani)</span><br> <span class="bodymainchoices"><a href="http://wn.com/espionage" target="_blank">Espionage</a> &nbsp; <a href="http://wn.com/iran" target="_blank">Iran</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Iran+and+US+and+hikers&amp;language_id=1&amp;photo_size=small&amp;x=12&amp;y=5&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/us" target="_blank">US</a> &nbsp; <a href="http://en.wikipedia.org/wiki/2009_detention_of_American_hikers_by_Iran" target="_blank">Wikipedia: 2009 detention of American hikers by Iran</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105472371" timestamp="4c90b540"><a href="http://article.wn.com/view/2010/09/15/US_contractors_face_murder_charges/" target="_blank"><img src="http://cdn9.wn.com/vp/i/8a/1e0391709595a9.jpg" border="0" align="left" height="66" width="100" alt="In this Thursday, Sept. 25, 2007 file photo, an Iraqi traffic policeman inspects a car destroyed by a Blackwater security detail in al-Nisoor Square in Baghdad, Iraq." hspace="5"></a> <span class="bodymainphotocredit">Al Jazeera</span><br> <a href="http://article.wn.com/view/2010/09/15/US_contractors_face_murder_charges/" target="_blank" class="a_bodymainheadline">US contractors face murder charges</a><br> <span class="bodymainnewstext">| Jury selection is scheduled to begin in Virginia in the trial of two former defence contractors charged with the deaths of two Afghan nationals. | The trial of Justin C... (photo: AP / Khalid Mohammed, File)</span><br> <span class="bodymainchoices"><a href="http://wn.com/afghanistan" target="_blank">Afghanistan</a> &nbsp; <a href="http://wn.com/defence" target="_blank">Defence</a> &nbsp; <a href="http://wn.com/law" target="_blank">Law</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Afghanistan+and+defence+and+contractors&amp;language_id=1&amp;photo_size=small&amp;x=0&amp;y=0&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Blackwater_Worldwide" target="_blank">Wikipedia: Blackwater Worldwide</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105441770" timestamp="4c90b540"><a href="http://article.wn.com/view/2010/09/14/Iran_Orders_Release_of_American_Hiker/" target="_blank"><img src="http://cdn6.wn.com/vp/i/be/6725e628bf3d7d.jpg" border="0" align="left" height="67" width="100" alt="Sarah Shourd, left, talks to her mother Nora Shourd, right, as Shane Bauer, second left, hugs his mother Cindy Hickey, during their meeting at the Esteghlal hotel in Tehran, Friday, May 21, 2010. The mothers of three Americans jailed in Iran for 10 months had more time with their children on Friday after an emotional reunion a day earlier in a Tehran hotel overlooking Evin prison, where the three have been held since their arrest in July along the Iran-Iraq border." hspace="5"></a> <span class="bodymainphotocredit">The New York Times</span><br> <a href="http://article.wn.com/view/2010/09/14/Iran_Orders_Release_of_American_Hiker/" target="_blank" class="a_bodymainheadline">Iran Orders Release of American Hiker</a><br> <span class="bodymainnewstext">| LONDON — In what seemed a surprise twist to a tangled tale, Iranian authorities ordered the release on Tuesday of one of three American hikers who had been held o... (photo: AP / Press TV)</span><br> <span class="bodymainchoices"><a href="http://wn.com/espionage" target="_blank">Espionage</a> &nbsp; <a href="http://wn.com/iran" target="_blank">Iran</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Iran+and+American+and+Hiker&amp;language_id=1&amp;x=47&amp;y=14&amp;results_num=10&amp;photo_size=small&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/us" target="_blank">US</a> &nbsp; <a href="http://en.wikipedia.org/wiki/2009_detention_of_American_hikers_by_Iran" target="_blank">Wikipedia: 2009 detention of American hikers by Iran</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105424330" timestamp="4c90003a"><a href="http://article.wn.com/view/2010/09/14/White_and_Green_Collar_Serial_Killers/" target="_blank"><img src="http://cdn8.wn.com/vp/i/3b/c2a2c5aff19264.jpg" border="0" align="left" height="67" width="100" alt="Secretary of Defense Donald Rumsfeld shares a laugh with President George W. Bush and Vice President Dick Cheney during his farewell parade at the Pentagon." hspace="5"></a> <span class="bodymainphotocredit">WorldNews.com</span><br> <a href="http://article.wn.com/view/2010/09/14/White_and_Green_Collar_Serial_Killers/" target="_blank" class="a_bodymainheadline">White and Green Collar Serial Killers</a><br> <span class="bodymainnewstext">Article by WorldNews.com Correspondent Dallas Darling. | "To understand the phenomenon of serial murder in America, it is first necessary to have some information about m... (photo: US DoD / Cherie A. Thurlby)</span><br> <span class="bodymainchoices"><a href="http://wn.com/crime" target="_blank">Crime</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=keywords%3Acrime+or+keywords%3Awar&amp;language_id=1&amp;photo_size=small&amp;x=13&amp;y=12&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/us" target="_blank">US</a> &nbsp; <a href="http://wn.com/war" target="_blank">War</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Iraq_War" target="_blank">Wikipedia: Iraq War</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105430344" timestamp="4c8f63c0"><a href="http://article.wn.com/view/2010/09/14/TV_Today_s/" target="_blank"><img src="http://cdn8.wn.com/vp/i/2a/50acd77b7f86c2.jpg" border="0" align="left" height="82" width="100" alt="Ellen  DeGeneres" hspace="5"></a> <span class="bodymainphotocredit">Philadelphia Daily News</span><br> <a href="http://article.wn.com/view/2010/09/14/TV_Today_s/" target="_blank" class="a_bodymainheadline">TV Today</a><br> <span class="bodymainnewstext">| The Ellen DeGeneres Show (3 p.m., NBC10) - Lauren Graham; the cast of . | The Oprah Winfrey Show (4 p.m., 6ABC) - Wynonna Judd. | Minute to Win It (8 p.m., NBC10) - Two... (photo: AP / Mark Davis/Hope for Haiti Now)</span><br> <span class="bodymainchoices"><a href="http://wn.com/degeneres" target="_blank">DeGeneres</a> &nbsp; <a href="http://wn.com/injured" target="_blank">Injured</a> &nbsp; <a href="http://wn.com/iraq" target="_blank">Iraq</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=DeGeneres+Radio&amp;language_id=1&amp;results_num=10&amp;photo_size=small&amp;sort_type=nwf&amp;corpus=current&amp;search_type=head_all&amp;x=16&amp;y=11" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/radio" target="_blank">Radio</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105421249" timestamp="4c8f63c0"><a href="http://article.wn.com/view/2010/09/14/Muslims_celebrate_Eid_alFitr/" target="_blank"><img src="http://cdn1.wn.com/vp/i/de/36d346894b6df5.jpg" border="0" align="left" height="67" width="100" alt="Muslims celebrate Eid al-Fitr after prayers" hspace="5"></a> <span class="bodymainphotocredit">The Examiner</span><br> <a href="http://article.wn.com/view/2010/09/14/Muslims_celebrate_Eid_alFitr/" target="_blank" class="a_bodymainheadline">Muslims celebrate Eid al-Fitr</a><br> <span class="bodymainnewstext">| At sundown Thursday, the three days of Eid al-Fitr began. Eid al-Fitr (â€œFestival of the Fast-Breakingâ€) marks the end of the holy month of Ramadan, when believers f... (photo: WN / Imran Nissar)</span><br> <span class="bodymainchoices"><a href="http://wn.com/festival" target="_blank">Festival</a> &nbsp; <a href="http://wn.com/muslims" target="_blank">Muslims</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=eid+alFitr&amp;language_id=1&amp;photo_size=small&amp;x=45&amp;y=14&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=head_any" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/ramadan" target="_blank">Ramadan</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Muslims" target="_blank">Wikipedia: Muslims</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105416920" timestamp="4c8f63c0"><a href="http://article.wn.com/view/2010/09/14/Liberty_medal_awarded_to_Tony_Blair/" target="_blank"><img src="http://cdn3.wn.com/vp/i/ce/49be20d5672a96.jpg" border="0" align="left" height="78" width="100" alt="Former British Prime Minister Tony Blair makes remarks after receiving 2010 Liberty Medal to at the National Constitution Center in Philadelphia, Monday, Sept. 13, 2010." hspace="5"></a> <span class="bodymainphotocredit">The Guardian</span><br> <a href="http://article.wn.com/view/2010/09/14/Liberty_medal_awarded_to_Tony_Blair/" target="_blank" class="a_bodymainheadline">Liberty medal awarded to Tony Blair</a><br> <span class="bodymainnewstext">| Former British prime minister honoured in Philadelphia for role in conflict resolution, in particular Northern Ireland's Good Friday agreement | Tony Blair received the... (photo: AP / Matt Rourke)</span><br> <span class="bodymainchoices"><a href="http://wn.com/award" target="_blank">Award</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=Blair+and+Liberty+and+Medal&amp;language_id=1&amp;photo_size=small&amp;x=0&amp;y=0&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/tonyblair" target="_blank">Tony Blair</a> &nbsp; <a href="http://wn.com/us" target="_blank">US</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Philadelphia_Liberty_Medal" target="_blank">Wikipedia: Philadelphia Liberty Medal</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105390034" timestamp="4c8e1240"><a href="http://article.wn.com/view/2010/09/13/INTERVIEW_OPEC_chief_says_members_need_to_look_beyond_oil/" target="_blank"><img src="http://cdn5.wn.com/vp/i/59/e717c5bff479ec.jpg" border="0" align="left" height="67" width="100" alt="Brussels - June 28th, 2010 Press conference by Gnther Oettinger, Member of the EC in charge of Energy on the 7th EU-OPEC Ministerial meeting, which will discuss the most recent energy policies and oil market developments in the EU and OPEC and prepare the ground for future joint activities. Commissioner Oettinger will highlight the initiatives that the EC took in cooperation with the industry and Member States to maximise safety in offshore oil and gas installations. Amongst others Energy Commissioner Gnther Oettinger, Abdalla Salem El-Badri, Secretary General of the OPEC and Pedro Luis Marin Uribe, President of the EU Energy Council and State Secretary Ministry for Industry, Tourism and Trade of Spain will attend the meeting. Crdit E.U. / Benot Bourgeois" hspace="5"></a> <span class="bodymainphotocredit">m&amp;c</span><br> <a href="http://article.wn.com/view/2010/09/13/INTERVIEW_OPEC_chief_says_members_need_to_look_beyond_oil/" target="_blank" class="a_bodymainheadline">INTERVIEW: OPEC chief says members need to look beyond oil</a><br> <span class="bodymainnewstext">| Vienna - Members of the Organization of the Petroleum Exporting Countries need to wean themselves from oil revenues in the future, OPEC chief Abdalla el-Badri said Mond... (photo: EC / EU)</span><br> <span class="bodymainchoices"><a href="http://wn.com/economy" target="_blank">Economy</a> &nbsp; <a href="http://wn.com/opec" target="_blank">Opec</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=opec+oil&amp;language_id=1&amp;photo_size=small&amp;x=18&amp;y=3&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=head_any" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/vienna" target="_blank">Vienna</a> &nbsp; <a href="http://en.wikipedia.org/wiki/OPEC" target="_blank">Wikipedia: OPEC</a> &nbsp; </span></wnphotodate></td> </tr> <tr> <td class="td_bodymain" colspan="2"><wnphotodate version="2" timezone="UTC" articleid="105375672" timestamp="4c8e1240"><a href="http://article.wn.com/view/2010/09/13/Inside_Iraqs_torture_dungeons/" target="_blank"><img src="http://cdn8.wn.com/vp/i/2c/c2b066d9bf4a6b.jpg" border="0" align="left" height="67" width="100" alt="An Iraqi guard moves a group of prisoners through the Iraqi government-controlled section of the Abu Ghraib prison on the outskirts of Baghdad, Iraq Saturday, July 10, 2004. The infamous prison, which contains some 1,200 inmates suspected or convicted of criminal activity, was delivered into Iraqi hands in June as part of the transfer of sovereignty to the new Iraqi government. Adjacent to the prison but within the same Abu Ghraib compound, American soldiers have constructed a tent city housing thousands more detainees accused of insurgent activity.(js1)" hspace="5"></a> <span class="bodymainphotocredit">Al Jazeera</span><br> <a href="http://article.wn.com/view/2010/09/13/Inside_Iraqs_torture_dungeons/" target="_blank" class="a_bodymainheadline">Inside Iraq's torture dungeons</a><br> <span class="bodymainnewstext">| On a dull December day in 2009, Rabiha al Qassab, a 63-year-old Iraqi refugee living in a quiet residential area of north&nbsp;London, received a telephone call that ma... (photo: AP / John Moore)</span><br> <span class="bodymainchoices"><a href="http://wn.com/detention" target="_blank">Detaintion</a> &nbsp; <a href="http://wn.com/iraq" target="_blank">Iraq</a> &nbsp; <a href="http://upge.wn.com/?action=search&amp;template=cheetah-worldphotos%2Findex.txt&amp;search_string=keywords%3Airaq+and+prison&amp;language_id=1&amp;photo_size=small&amp;x=28&amp;y=10&amp;results_num=10&amp;sort_type=nwf&amp;corpus=current&amp;search_type=boolean" target="_blank">Photos</a> &nbsp; <a href="http://wn.com/torture" target="_blank">Torture</a> &nbsp; <a href="http://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse" target="_blank">Wikipedia: Abu Ghraib torture and prisoner abuse</a> &nbsp; </span></wnphotodate></td> </tr> <script type="text/javascript"><!--//<![CDATA[
+var m3_u = (location.protocol=="https:"?"https://phpadsnew.wn.com/www/delivery/ajs.php":"http://phpadsnew.wn.com/www/delivery/ajs.php");
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ",";
+document.write ("<scr"+"ipt type="+String.fromCharCode(39)+"text/javascript"+String.fromCharCode(39)+" src="+String.fromCharCode(39)+""+m3_u);
+document.write ("?zoneid=399&amp;block=1&amp;source=_middleeast_,_industry_");
+document.write ("&amp;cb=" + m3_r);
+if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write (""+String.fromCharCode(39)+"></scr"+"ipt>");
+//]]>--></script> </tbody></table>   </td> <td id="td_rightlinksformatting" width="160"> <div class="non-print">  <table width="160" cellspacing="0" class="table_rightlinks">  <tbody><tr><td align="center"><a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;mode=bool&amp;sortby=Date_Newest&amp;SearchString=topic:iraq1 or topic:kurds1&amp;searchsize=30"><img src="http://cdn2.wn.com/vp/i/d1/ce90600c2bca02.gif" height="18" border="0" width="160"></a></td></tr> <tr><td class="td_rightlinks"> <div id="newsletter_box"><style type="text/css">#newsletter_box{width:160px;padding:0px;margin:3px 0px 3px 0px;}#newsletter_box form{padding:0px;margin:0px;}#newsletter_graph{width:160px;height:17px;background-color: #155b95;text-align:center;padding:2px 0px 1px 0px;margin:0px 0px 2px 0px;}#newsletter_submit, #newsletter_email{height:18px;border: 1px solid #000000;margin:0px;padding:1px;margin-top:1px;}#newsletter_submit{font-size:9px;font-family:verdana;background-color: #c6c5c5;width:60px;}#newsletter_email{font-size:11px;font-family: verdana;background-color: #ffffff;width:98px;}</style><form action="http://newsletter.wn.com/account.asp" method="post"><table cellpadding="0" cellspacing="0"> <tbody><tr><td colspan="2"><div id="newsletter_graph"><img src="http://cdn5.wn.com/vp/i/5d/de15e2aba18b5a.gif" alt="Get News Updates by Email" title="Get News Updates by Email" width="154" height="15"></div></td></tr> <tr> <td><input name="strEmail" type="text" size="11" maxlength="100" onfocus="this.value=''" value="Enter Email" id="newsletter_email"></td> <td><input type="submit" value="subscribe" id="newsletter_submit"></td> </tr></tbody></table><input type="hidden" name="strAction" value="newaccount"></form></div> </td></tr> <tr><td align="center"><script language="JavaScript" type="text/javascript" src="http://phpadsnew.wn.com/adx.js"></script> <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://phpadsnew.wn.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:48");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="http://phpadsnew.wn.com/adclick.php?n=a581e9cd" target="_blank"><img src="http://phpadsnew.wn.com/adview.php?what=zone:48&amp;n=a581e9cd" border="0" alt=""></a></noscript> </td></tr> <tr> <td class="td_rightlinks" align="center"><br> <script type="text/javascript" language="JavaScript1.2"><!--
+data[1]=new Array(new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573639" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/ce/93/4f3ae92f7dafac62495b52ef498f-medium.jpg','105573639','US envoy: Time may come for special nuclear probe of Syria'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548847" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/cb/a1/7ce5f40f2bc4fb7679047f02d5f5-medium.jpg','105548847','Non-Aligned Movement backs Iran'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105577778" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/38/e0/7257fd08d72780d93991b166dead-medium.jpg','105577778','UK extremists are travelling to Somalia to train, says MI5 chief'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105556003" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/d4/7e/ce6ba24de434615229898c3c6820-medium.jpg','105556003','Opec needs to present a united front'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548866" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/53/57/334bec35d3e5d45d42274214088b-medium.jpg','105548866','New light shed on US&#39;s night raids'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573892" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/85/4d/727e7bddb49f5e4069703dbf189c-medium.jpg','105573892','Palestinian refugee agency presses Arabs for funds'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548770" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/fd/55/7f450db8899afffa6ef36e61ce05-medium.jpg','105548770','Putin looks sour loser on Nabucco'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548833" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/8a/f0/8fa5863b224e52d2cd0353102483-medium.jpg','105548833','Israel-Palestine talks marred by violence'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573638" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/5d/dd/5618a6e16e1dcaf9dff19af44ef3-medium.jpg','105573638','Hundreds of Syrians begin visit from occupied Golan'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105579666" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/25/ec/eaa81bd3669aabd26098d9d09766-medium.jpg','105579666','Abbas welcomes Clinton&#39;s proposal on building freeze'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573641" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/be/69/e9747a27832fca73b7d73898b793-medium.jpg','105573641','Mitchell: US wants Syrian-Israeli accord'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548864" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/0c/7f/a9006b2a37114faf79405d493679-medium.jpg','105548864','Loaves, not bombs, pose significant threat'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573634" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/c4/a2/8e1c0a8c4a87c934e7b4a9db0a54-medium.jpg','105573634','Boeing: Airlines in dire need of pilots, crew'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105548842" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/d9/a6/d4fa0d14a0f93df6dff8b41da3e3-medium.jpg','105548842','Don&#39;t mess with my burqa, monsieur'),new Photo('<WNPHOTODATE VERSION="2" TIMEZONE="UTC" ARTICLEID="105573640" TIMESTAMP="4c935840">http://cdn.wn.com/o25/ph/img/02/65/d890ce5798399f37f0b16ede6fac-medium.jpg','105573640','Clinton says Middle East peace &#39;within reach&#39;'),'dummy');
+data[1].pop();
+initialiseBox(1, true , true, 'classic', true);
+//-->
+</script>&nbsp;<br> </td> </tr> <tr><td align="center"> <style> #weatherbox{ text-size:18px; font-family:Arial, Verdana, sans-serif; margin:0px; border: 1px solid black; width: 160px; } #weathertable{ width: 160px; font-size:12px; background-color: #ffffff; } #weather_city{ color:black; text-decoration:none; } #weather_city:hover{ color:#990000; text-decoration:none; } td.cityname{ background-color: #dddddd; } .templow{ color:blue; } .temphigh{ color:red; } </style> <div id="weatherbox"> <a href="/s/cheetah-weather/index_c8f597f06105bcdfdd375d6555554850.html"><img src="http://cdn1.wn.com/vp/i/b3/4733a043f615ec.gif" title="WORLD WEATHER" height="27" width="160" alt="WORLD WEATHER" border="0"></a> <table id="weathertable"> <tbody><tr> <td class="cityname" colspan="2"><a href="/s/cheetah-weather/index_c8f597f06105bcdfdd375d6555554850.html" id="weather_city">Mosul, Iraq</a><br> 2009.02.25</td> </tr> <tr> <td colspan="2" align="center">sunny.</td> </tr> <tr> <td class="text" align="center"> <img src="http://cdn5.wn.com/vp/i/47/a00cc6377fa2aa.gif" height="50" width="65"> </td> <td><span class="templow">Min:<br>8°C/46°F</span><br><span class="temphigh">Max:<br>17°C/63°F</span></td> </tr> </tbody></table></div> </td></tr> <tr><td align="center"></td></tr> <tr> <th class="th_rightlinks"><a href="http://www.kurdishdaily.com/" class="a_rightlinks">Kurdistan Headlines</a></th> </tr> <tr> <td class="td_rightlinks"><img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNAT47DBB6F459C7A583B7259A339C3B13F4?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Turkey: Roadside bomb kills nine on minibus</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNATD4986DD05728515D5EDDAC9BCC099F1F?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Landmine kills 10 aboard minibus in Turkey</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNATE8CD8CC67F4E6AFE425EB5C374FA2825?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Ten die in minibus blast in southeast Turkey</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNATAFE0E75998C96A5E6C8540A522F8BAF8?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Abdul Rahman Al Bazzaz's advocacy for unity</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNAT6E2EF684C8F39CA8A35CF1E6D2FC89EA?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Kurds blamed for blast that killed nine</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNAT54D8E82A3D156274E97F07B49059E93F?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Kurds blamed for blast that killed nine</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNAT0AE5904A9FAA9C9127BD2A2DC6A09DB8?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Advocacy for unity</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNATD45898AB5F55989303A730E2611FBB84?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Putin looks sour loser on Nabucco</a><br> <img src="http://cdn6.wn.com/vp/i/bf/5d6fefcfda9e06.gif" border="0" height="8" width="6" alt="Full Story" hspace="4"><a href="http://article.wn.com/link/WNATAB4F093C2BB2DDBE5C3E5C8F4E162E14?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" class="a_rslinks" target="_blank">Roadside bomb kills 9 aboard minibus in Turkey</a><br> <div class="a_rsmore"><a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=title%3AKurdistan%20%20or%20title%3AKurd%20or%20title%3Akurdish%20or%20keywords%3Akurds%20or%20keywords%3Akurdistan%20%20or%20%28Kurdistan%20%20and%20kurdish%29%20or%20%28kurd%20and%20kurdish%29&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_rsmore">more</a></div> </td> </tr>  <tr> <td align="center" valign="middle"> <div id="logos"><style>#logos .node{margin-top:2px;}#logo_search, #logo_search FORM{margin:0px;padding:0px;width:145px;height:35px;background-image: url(http://cdn4.wn.com/st/shared/graph/logo_search.gif);text-align:center;}#logo_search .strSearch{font-size:9px;width:140px;margin:0px;border:1px solid #cc9966;margin-top:2px;}#logo_search .submit_button{margin-top:1px;margin-left:86px;}</style><div class="node"><div id="logo_search"><form action="http://www.wnsitemap.com/default.asp" target="_blank" method="post" id="logo_search_form"><input type="text" width="45" maxlength="250" value="" name="strSearch" class="strSearch"><br><input src="http://cdn7.wn.com/vp/i/f6/b7da7ee5a9e5fe.gif" height="14" width="50" onclick="javascript:document.logo_search_form.submit()" type="Image" class="submit_button"></form></div></div> <div class="node"><a href="http://www.alqaedatoday.com/"><img src="http://cdn2.wn.com/vp/i/8e/582247007cc854.gif" title="Al Qaeda Today" height="70" width="145" alt="Al Qaeda Today" border="0"></a><br></div> <div class="node"><a href="http://www.arabbusinesspost.com/"><img src="http://cdn4.wn.com/vp/i/15/0cf6a21e64ea5e.gif" title="Arab Business Post" height="70" width="145" alt="Arab Business Post" border="0"></a><br></div> <div class="node"><a href="http://www.ArabWorldNews.com/"><img src="http://cdn4.wn.com/vp/i/c1/1dd9bf08afd56f.gif" title="Arab World News" height="70" width="145" alt="Arab World News" border="0"></a><br></div> <div class="node"><a href="http://www.wn.com/arabiafm"><img src="http://cdn2.wn.com/vp/i/3f/3b754d6ee47622.gif" title="arabia fm" height="70" width="145" alt="arabia fm" border="0"></a><br></div> <div class="node"><a href="http://www.arabianradio.com/"><img src="http://cdn1.wn.com/vp/i/2c/aa9edc763dcb8e.gif" title="Arabian Radio" height="70" width="145" alt="Arabian Radio" border="0"></a><br></div> <div class="node"><a href="http://www.baghdad.com/"><img src="http://cdn6.wn.com/vp/i/35/5b97db33068e66.gif" title="Baghdad.com" height="70" width="145" alt="Baghdad.com" border="0"></a><br></div> <div class="node"><a href="http://www.bahraintimes.com/"><img src="http://cdn9.wn.com/vp/i/61/65cf5fd99e2588.gif" title="Bahrain Times" height="70" width="145" alt="Bahrain Times" border="0"></a><br></div> <div class="node"><a href="http://www.CreativeArabia.com/"><img src="http://cdn8.wn.com/vp/i/7a/b720f30cc60ed1.gif" title="Creative Arabia" height="70" width="145" alt="Creative Arabia" border="0"></a><br></div> <div class="node"><a href="http://www.iranrepublic.com/"><img src="http://cdn4.wn.com/vp/i/81/1e7874ea2c524b.gif" title="iran republic" height="70" width="145" alt="iran republic" border="0"></a><br></div> <div class="node"><a href="http://www.iraqdaily.com/"><img src="http://cdn7.wn.com/vp/i/25/e58a6af3ae5d12.gif" title="Iraq Daily" height="70" width="145" alt="Iraq Daily" border="0"></a><br></div> <div class="node"><a href="http://www.iraqoffshore.com/"><img src="http://cdn1.wn.com/vp/i/87/857d3d07128f13.gif" title="Iraq Offshore" height="70" width="145" alt="Iraq Offshore" border="0"></a><br></div> <div class="node"><a href="http://www.kurdishpost.com/"><img src="http://cdn8.wn.com/vp/i/a9/74fe2d92547dba.gif" title="Kurdish Post" height="70" width="145" alt="Kurdish Post" border="0"></a><br></div> <div class="node"><a href="http://middleeastpost.com/"><img src="http://cdn7.wn.com/vp/i/c7/dc8a8ebdcee00a.gif" title="Middle East Post" height="70" width="145" alt="Middle East Post" border="0"></a><br></div> <div class="node"><a href="http://www.worldrefugee.com/"><img src="http://cdn3.wn.com/vp/i/55/4cea9981aebd43.gif" title="refugees" height="70" width="145" alt="refugees" border="0"></a><br></div> <div class="node"><a href="http://www.syriaradio.com/"><img src="http://cdn1.wn.com/vp/i/a5/2c5b668e20d4a5.gif" title="Syria Radio" height="70" width="145" alt="Syria Radio" border="0"></a><br></div> <div class="node"><a href="http://www.terrorismworld.com/"><img src="http://cdn7.wn.com/vp/i/0f/4969e5e6005d3f.gif" title="Terrorism World" height="70" width="145" alt="Terrorism World" border="0"></a><br></div> </div> </td> </tr> </tbody></table>  </div> </td> </tr> </tbody></table>  </td> </tr> <tr><td colspan="2" align="center"><script type="text/javascript"><!--//<![CDATA[
+var m3_u = (location.protocol=="https:"?"https://phpadsnew.wn.com/www/delivery/ajs.php":"http://phpadsnew.wn.com/www/delivery/ajs.php");
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ",";
+document.write ("<scr"+"ipt type="+String.fromCharCode(39)+"text/javascript"+String.fromCharCode(39)+" src="+String.fromCharCode(39)+""+m3_u);
+document.write ("?zoneid=399&amp;block=1&amp;source=_middleeast_,_industry_");
+document.write ("&amp;cb=" + m3_r);
+if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write (""+String.fromCharCode(39)+"></scr"+"ipt>");
+//]]>--></script><noscript><a href="http://phpadsnew.wn.com/www/delivery/ck.php?n=ae4239a2&amp;cb=3423424" target="_blank"><img src="http://phpadsnew.wn.com/www/delivery/avw.php?zoneid=399&amp;source=_middleeast_,_industry_&amp;n=ae4239a2" border="0" alt=""></a></noscript> </td></tr>  <tr> <th width="50%" class="th_bottomsection"><a href="http://www.iraqdaily.com/" target="_blank" class="a_bottomsectionheading">Iraq Reconstruction</a></th> <th width="50%" class="th_bottomsection"><a href="http://www.unitednationsnews.com/" target="_blank" class="a_bottomsectionheading">UN</a></th> </tr> <tr> <td valign="top" class="td_bottomsection"> <table width="100%" border="0" align="center" style="height:100%"> <tbody><tr> <td valign="top"> <table> <tbody><tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT9AB329F55C741B00D153D3D4A4C66D36?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">OPEC is stabilising factor for world economy: UAE</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT51CC2B01E80BE7C9A18685A5C712C436?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">After 50 years of OPEC, it's time to wean the U.S. econo</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT5A2DBA0D1B410A1522DE984BD9B7011A?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Obama starts week with meeting on Iraq, Afghanistan; talks w</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT4197563841583DE24DACEF9F9D092ECE?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Fidel Castro says Cuba's economy is broken</a></td> </tr> </tbody></table> </td> <td valign="top"> <table width="100" border="1" cellspacing="0" cellpadding="2"> <tbody><tr> <td><wnphotodate version="2" timezone="UTC" articleid="104989654" timestamp="4c8234c0"><a href="http://article.wn.com/view/2010/09/04/Obama_gets_thumbs_up_on_Iraq_down_on_economy_Poll/" target="_blank"><img src="http://cdn8.wn.com/vp/i/f8/6961fd5e18bec0.jpg" alt="President Barack Obama speaks at a White House Music Series event saluting Broadway in the East Room of the White House, Monday, July 19, 2010, in Washington." height="74" title="President Barack Obama speaks at a White House Music Series event saluting Broadway in the East Room of the White House, Monday, July 19, 2010, in Washington." width="100"></a></wnphotodate></td> </tr> <tr> <td align="center"><a href="http://article.wn.com/view/2010/09/04/Obama_gets_thumbs_up_on_Iraq_down_on_economy_Poll/" target="_blank" class="a_bottomsectioncaption">Obama gets thumbs up on Iraq, down on economy: Poll</a></td> </tr> </tbody></table> </td> </tr> <tr> <td valign="bottom" align="right" colspan="2"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=%28topic%3Airaq1%20or%20topic%3Akurds1%29%20%20and%20%28title%3AReconstruction%20%20or%20keywords%3AReconstruction%20%20or%20%20title%3Arebuilding%20or%20title%3Aeconomy%20or%20title%3Arebuild%29&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_bottomsectionmore">more</a> </td> </tr> </tbody></table> </td> <td valign="top" class="td_bottomsection"> <table width="100%" border="0" align="center" style="height:100%"> <tbody><tr> <td valign="top"> <table> <tbody><tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT92D5AA96628730F32E8B441C40EE0A23?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">US says time may soon come for special UN nuke probe of Syri</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT848304859E548BF95C4D6E1C5BD34327?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">UN experts rap US over private security firms</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT535CF8033CB02586FE83305B326F866D?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Nearly a quarter of Iraqi women are illiterate, says UN</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT31003BBAB01FBA96A7BEAF9291C04BA3?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Senior UN official speaks out against murder of Iraqi televi</a></td> </tr> </tbody></table> </td> <td valign="top"> <table width="100" border="1" cellspacing="0" cellpadding="2"> <tbody><tr> <td><wnphotodate version="2" timezone="UTC" articleid="105189933" timestamp="4c88cc40"><a href="http://article.wn.com/view/2010/09/08/Florida_pastor_not_backing_down_on_Koranburning/" target="_blank"><img src="http://cdn0.wn.com/vp/i/f8/88feef6ea504b4.jpg" alt="Rev. Terry Jones at the Dove World Outreach Center in Gainesville, Fla., Monday, Aug. 30, 2010. Jones  plans to burn copies of the Quran on church grounds to mark the Sept. 11, 2001, terrorist attacks on the United States that provoked the Afghan war." height="71" title="Rev. Terry Jones at the Dove World Outreach Center in Gainesville, Fla., Monday, Aug. 30, 2010. Jones  plans to burn copies of the Quran on church grounds to mark the Sept. 11, 2001, terrorist attacks on the United States that provoked the Afghan war." width="100"></a></wnphotodate></td> </tr> <tr> <td align="center"><a href="http://article.wn.com/view/2010/09/08/Florida_pastor_not_backing_down_on_Koranburning/" target="_blank" class="a_bottomsectioncaption">Florida pastor not backing down on Koran-burning</a></td> </tr> </tbody></table> </td> </tr> <tr> <td valign="bottom" align="right" colspan="2"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=%28topic%3Airaq1%20or%20topic%3Akurds1%29%20%20and%20%28title%3Aun%20or%20keywords%3Aun%29&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_bottomsectionmore">more</a> </td> </tr> </tbody></table> </td> </tr> <tr> <th width="50%" class="th_bottomsection"><a href="http://www.terrorwire.com/" target="_blank" class="a_bottomsectionheading">Terrorism</a></th> <th width="50%" class="th_bottomsection"><a href="http://www.humanrightstoday.com/" target="_blank" class="a_bottomsectionheading">Human Rights</a></th> </tr> <tr> <td valign="top" class="td_bottomsection"> <table width="100%" border="0" align="center" style="height:100%"> <tbody><tr> <td valign="top"> <table> <tbody><tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATC05BA8A4406C04BA05344FDB0DFE83F2?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">A Question and Challenge for Osama bin Laden</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATF46736C708CDB8B82D27AD3A7E5DE88D?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Koran-burning plan is an attack on Islam - Arab media</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATEFF3DEF00183D072ED87601C3A0108CA?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Terrorism's New Frontier</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT77254346EC85EC8376A2E8922E347AD2?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Florida pastor not backing down on Koran-burning</a></td> </tr> </tbody></table> </td> <td valign="top"> <table width="100" border="1" cellspacing="0" cellpadding="2"> <tbody><tr> <td><wnphotodate version="2" timezone="UTC" articleid="105317634" timestamp="4c8c9e45"><a href="http://article.wn.com/view/2010/09/11/A_Question_and_Challenge_for_Osama_bin_Laden/" target="_blank"><img src="http://cdn5.wn.com/vp/i/a0/8955f906f4b19d.jpg" alt=" Exiled al Qaida leader Osama bin Laden is shown in Afghanistan in this April 1998 photo. Four followers of bin Laden were convicted Tuesday, May 29, 2001, in New York, of charges in the nearly simultaneous 1998 bombings of two U.S. embassies in Africa th" height="79" title=" Exiled al Qaida leader Osama bin Laden is shown in Afghanistan in this April 1998 photo. Four followers of bin Laden were convicted Tuesday, May 29, 2001, in New York, of charges in the nearly simultaneous 1998 bombings of two U.S. embassies in Africa th" width="100"></a></wnphotodate></td> </tr> <tr> <td align="center"><a href="http://article.wn.com/view/2010/09/11/A_Question_and_Challenge_for_Osama_bin_Laden/" target="_blank" class="a_bottomsectioncaption">A Question and Challenge for Osama bin Laden</a></td> </tr> </tbody></table> </td> </tr> <tr> <td valign="bottom" align="right" colspan="2"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=%28topic%3Airaq1%20or%20topic%3Akurds1%29%20and%20%28title%3ATerrorism%20or%20keywords%3ATerrorism%20or%20title%3Aterror%20or%20keywords%3Aterrorism%29&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_bottomsectionmore">more</a> </td> </tr> </tbody></table> </td> <td valign="top" class="td_bottomsection"> <table width="100%" border="0" align="center" style="height:100%"> <tbody><tr> <td valign="top"> <table> <tbody><tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATDB0708E9D655E33B211EFC0A0D8BD3A6?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Identities in a state of flux</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT9EBD669839E4EC8E5F309F87C475EB7F?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">France's explusions of Gypsies dominates EU summit</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATE2130F7FAE0B79A93940FB5EAA6193CF?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Terry Jones, asymmetrical warrior</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT9F1BA2380F8F37A65B29DBD0EE211CCA?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Torture and abuse rife in Iraq jails, Amnesty report says</a></td> </tr> </tbody></table> </td> <td valign="top"> <table width="100" border="1" cellspacing="0" cellpadding="2"> <tbody><tr> <td><wnphotodate version="2" timezone="UTC" articleid="105375667" timestamp="4c8e1240"><a href="http://article.wn.com/view/2010/09/13/Report_rampant_abuse_in_Iraq_jails/" target="_blank"><img src="http://cdn2.wn.com/vp/i/df/f8036a241201b3.jpg" alt="Prison of terrorists in Ramadia- Iraq,  Herded in small rooms where they eat, sleep and entertain themselves" height="67" title="Prison of terrorists in Ramadia- Iraq,  Herded in small rooms where they eat, sleep and entertain themselves" width="100"></a></wnphotodate></td> </tr> <tr> <td align="center"><a href="http://article.wn.com/view/2010/09/13/Report_rampant_abuse_in_Iraq_jails/" target="_blank" class="a_bottomsectioncaption">Report: rampant abuse in Iraq jails</a></td> </tr> </tbody></table> </td> </tr> <tr> <td valign="bottom" align="right" colspan="2"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=topic%3Akurds1%20and%20topic%3Ahumanrights1&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_bottomsectionmore">more</a> </td> </tr> </tbody></table> </td> </tr> <tr> <th width="50%" class="th_bottomsection"><a href="http://www.worldrefugee.com/" target="_blank" class="a_bottomsectionheading">Refugees</a></th> <th width="50%" class="th_bottomsection"><a href="http://www.humanrightstoday.com/" target="_blank" class="a_bottomsectionheading">Arabic Headlines</a></th> </tr> <tr> <td valign="top" class="td_bottomsection"> <table width="100%" border="0" align="center" style="height:100%"> <tbody><tr> <td valign="top"> <table> <tbody><tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATCFC2C73FB561AD87BDC299F12896B2D5?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Identities in a state of flux</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT951C85E6268D0CBFC56F4BEFB0E69E67?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Deadly blast hits southeast Turkey</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT3283F292F64F7C453D2B9BDF9968D7FD?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Signs of thaw between Syria’s Assad and Iraqi PM Maliki</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATDEA66CAD2DEE8C89BDD52DA8C9F117BC?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Signs of thaw between Syria and Iraqi PM Maliki</a></td> </tr> </tbody></table> </td> <td valign="top"> <table width="100" border="1" cellspacing="0" cellpadding="2"> <tbody><tr> <td><wnphotodate version="2" timezone="UTC" articleid="104075607" timestamp="4c67d6c0"><a href="http://article.wn.com/view/2010/08/15/Lebanese_Army_kills_two_Al_Qaedalinked_militants/" target="_blank"><img src="http://cdn6.wn.com/vp/i/2e/8aa4c8a2221c47.jpg" alt=" Wounded soldiers, injured in southern Lebanon, are taken into a military helicopter to be (tmg1) " height="67" title=" Wounded soldiers, injured in southern Lebanon, are taken into a military helicopter to be (tmg1) " width="100"></a></wnphotodate></td> </tr> <tr> <td align="center"><a href="http://article.wn.com/view/2010/08/15/Lebanese_Army_kills_two_Al_Qaedalinked_militants/" target="_blank" class="a_bottomsectioncaption">Lebanese Army kills two Al Qaeda-linked militants</a></td> </tr> </tbody></table> </td> </tr> <tr> <td valign="bottom" align="right" colspan="2"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=topic%3Akurds1%20and%20%28keywords%3Arefugees%20or%20title%3Arefugee%20or%20refugees%29&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_bottomsectionmore">more</a> </td> </tr> </tbody></table> </td> <td valign="top" class="td_bottomsection"> <table width="100%" border="0" align="center" style="height:100%"> <tbody><tr> <td valign="top"> <table> <tbody><tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT9C2FC02CEFB9FA853B53A6F539425837?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Talks no use if settlements built: Arab League</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATF91CAE636CDB603115FA5529E2B9BA1B?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Arab states&nbsp;back Palestinian stance over settlement iss</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNATD91A4EFBD587853469230B848C420B8A?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Arabs to target Israel at UN atom body</a></td> </tr> <tr> <td><img src="http://cdn5.wn.com/vp/i/76/115b600635fcfc.gif" alt="-" height="8" width="6"></td> <td><a href="http://article.wn.com/link/WNAT54FE2FDE28663C1B74B9EA80814510B9?source=templategenerator&amp;template=kurdistanworld_old/onephoto.txt" target="_blank">Palestinian refugee agency presses Arabs for funds</a></td> </tr> </tbody></table> </td> <td valign="top"> <table width="100" border="1" cellspacing="0" cellpadding="2"> <tbody><tr> <td><wnphotodate version="2" timezone="UTC" articleid="105573892" timestamp="4c935840"><a href="http://article.wn.com/view/2010/09/16/Palestinian_refugee_agency_presses_Arabs_for_funds/" target="_blank"><img src="http://cdn4.wn.com/vp/i/79/974fca0a1f0e4b.jpg" alt="Palestinian children enjoy rides during of Eid al-Fitr which marks the end of the Muslim fasting month of Ramadan, in Gaza City on September 13, 2010, one of the most important holidays in the Muslim world, is marked with prayers, family reunions and other festivities. (Photo By Ahmed Deeb/wn)" height="67" title="Palestinian children enjoy rides during of Eid al-Fitr which marks the end of the Muslim fasting month of Ramadan, in Gaza City on September 13, 2010, one of the most important holidays in the Muslim world, is marked with prayers, family reunions and other festivities. (Photo By Ahmed Deeb/wn)" width="100"></a></wnphotodate></td> </tr> <tr> <td align="center"><a href="http://article.wn.com/view/2010/09/16/Palestinian_refugee_agency_presses_Arabs_for_funds/" target="_blank" class="a_bottomsectioncaption">Palestinian refugee agency presses Arabs for funds</a></td> </tr> </tbody></table> </td> </tr> <tr> <td valign="bottom" align="right" colspan="2"> <a href="http://cgi.wn.com/?template=kurdistanworld_old/index.txt&amp;action=search&amp;first=0&amp;SearchString=title%3Aarab%20or%20title%3Aarabs%20or%20title%3Aarabic&amp;Language=Any+Language&amp;mode=bool&amp;SortBy=Date_Newest&amp;SearchSize=20" class="a_bottomsectionmore">more</a> </td> </tr> </tbody></table> </td> </tr>  <tr><td colspan="2" align="center"></td></tr>  <tr> <td class="td_bottomlinks" colspan="2"><table width="100%"><tbody><tr> <td align="center"> <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=sunday" class="a_bottomlinks">Sunday</a>&nbsp;&nbsp;&nbsp; <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=monday" class="a_bottomlinks">Monday</a>&nbsp;&nbsp;&nbsp; <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=tuesday" class="a_bottomlinks">Tuesday</a>&nbsp;&nbsp;&nbsp; <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=wednesday" class="a_bottomlinks">Wednesday</a>&nbsp;&nbsp;&nbsp; <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=thursday" class="a_bottomlinks">Thursday</a>&nbsp;&nbsp;&nbsp; <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=friday" class="a_bottomlinks">Friday</a>&nbsp;&nbsp;&nbsp; <a href="http://archivelinks.wn.com/?aid=kurdistanworld_old/index.txt&amp;day=saturday" class="a_bottomlinks">Saturday</a>&nbsp;&nbsp;&nbsp; </td> </tr></tbody></table></td> </tr> <tr> <td colspan="2" class="td_bottomlinks"> <a href="http://wnnmedia.com" class="a_bottomlinks">Media Kit</a> | <a href="http://wntoolbar.com/" class="a_bottomlinks">WN Toolbar</a> | <a href="http://wn.com/languages" class="a_bottomlinks">Languages</a> | <a href="http://wn.com/wnlinks" class="a_bottomlinks">WN Links</a> | <a href="http://wnnmedia.com/advertising.html" class="a_bottomlinks">Advertise</a> | <a href="http://wn.com" class="a_bottomlinks"> © 2010 WN Network</a> <form action="http://upge.wn.com/" accept-charset="utf-8" style="margin: 0pxpx; padding: 0px; display: inline; margin-left: 10px;" id="form-search" method="GET"> <input type="text" name="query" value="" maxlength="8192" style="font-size:10px;font-family: Arial, Helvetica, sans-serif;background-color: #ffffff;border: 1px solid #000000;"> <input type="hidden" name="version" value="1"> <input type="hidden" name="template" value="cheetah-search/index.txt"> <input type="submit" value="Search" style="font-size:10px;font-family: Arial, Helvetica, sans-serif;background-color:  #f0f0f0;border: 1px solid #000000;"> </form> <br> <a href="http://forms.wn.com/form/advertising-enquiry/" class="a_bottomlinks">Contact our Advertising team for Advertising or Sponsorship on World News Network</a> </td> </tr>  </tbody></table> </td><td><script type="text/javascript"><!--//<![CDATA[
+var m3_u = (location.protocol=="https:"?"https://phpadsnew.wn.com/www/delivery/ajs.php":"http://phpadsnew.wn.com/www/delivery/ajs.php");
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ",";
+document.write ("<scr"+"ipt type="+String.fromCharCode(39)+"text/javascript"+String.fromCharCode(39)+" src="+String.fromCharCode(39)+""+m3_u);
+document.write ("?zoneid=402&amp;block=1&amp;source=_middleeast_,_industry_");
+document.write ("&amp;cb=" + m3_r);
+if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write (""+String.fromCharCode(39)+"></scr"+"ipt>");
+//]]>--></script><noscript><a href="http://phpadsnew.wn.com/www/delivery/ck.php?n=ae4239a2&amp;cb=3423424" target="_blank"><img src="http://phpadsnew.wn.com/www/delivery/avw.php?zoneid=402&amp;source=_middleeast_,_industry_&amp;n=ae4239a2" border="0" alt=""></a></noscript> </td></tr></tbody></table> <img src="http://gallup.wn.com/1x1.gif"> <center><table width="100%" align="center"><tbody><tr><td align="center"> <script language="JavaScript" type="text/javascript" src="http://phpadsnew.wn.com/adx.js"></script> <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://phpadsnew.wn.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:43");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="http://phpadsnew.wn.com/adclick.php?n=a430dda9" target="_blank"><img src="http://phpadsnew.wn.com/adview.php?what=zone:43&amp;n=a430dda9" border="0" alt=""></a></noscript> </td></tr> <tr><td align="center" style="background-color: #ffffff; padding: 10px 0px 5px 0px;"><script type="text/javascript"><!--
+google_ad_client = "pub-5659397380679582";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="8427964410";
+google_color_border = "FFFFFF";
+google_color_bg = "ffffff";
+google_color_link = "336699";
+google_color_url = "333333";
+google_color_text = "000000";
+//--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr></tbody></table> </center> <!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+        qacct:"p-69LMgINxZpq8g"
+        };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-69LMgINxZpq8g.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast">
+</noscript>
+<!-- End Quantcast tag -->
+   
+</body></html><!-- Vacuum Packed (uncompressed form) at 2010-09-17 05:21:52 GMT. 105010 to 102888 bytes. Fetch 0.72s, pack 3.62s -->

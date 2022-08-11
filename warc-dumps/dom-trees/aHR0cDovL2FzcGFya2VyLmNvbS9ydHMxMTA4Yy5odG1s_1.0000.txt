@@ -1,0 +1,176 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- #BeginTemplate "/Templates/newcss.dwt" --><!-- DW6 --><head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="stylesheet" type="text/css" href="revstyle.css">
+<!-- #BeginEditable "doctitle" --> 
+<title>Career Success - Be a standout!</title>
+<!-- #EndEditable --> <!-- #BeginEditable "head" -->
+<meta name="Description" content="Everyday we hear about more layoffs. It is important to be proactive by starting a job search before the layoff happens. While it is a smart move, you must be careful. If your current boss gets wind of it you might be the first to be laid off. Of course if you have already successfully lined up a job, it won't matter much! ">
+<!-- #EndEditable -->
+</head>
+<body>
+
+<div id="header"><form id="subscribe" method="post" action="http://www.aweber.com/scripts/addlead.pl">
+      <input type="hidden" name="meta_web_form_id" value="760894631">
+      <input type="hidden" name="meta_split_id" value="">
+      <input type="hidden" name="unit" value="lawyers">
+      <input type="hidden" name="redirect" value="http://www.aweber.com/form/thankyou_vo.html" id="redirect">
+      <input type="hidden" name="meta_redirect_onlist" value="">
+      <input type="hidden" name="meta_adtracking" value="">
+      <input type="hidden" name="meta_message" value="1">
+      <input type="hidden" name="meta_required" value="from">
+      <input type="hidden" name="meta_forward_vars" value="0">
+      
+    <div id="email"> 
+      <label for="email-field" class="overlabel">Email</label>
+      <input id="email-field" type="text" name="from" title="Email" value="" tabindex="1">
+    </div>
+      
+    <div id="name"> 
+      <label for="name-field" class="overlabel">Name</label>
+      <input id="name-field" type="name" name="name" title="Name" value="" tabindex="2">
+    </div>
+      
+    <div id="choose"> 
+      <legend><span><em>Choose One:</em></span></legend>
+      <input id="lawyers" type="radio" name="custom unit" value="Lawyers" class="text" tabindex="3">
+      <label for="lawyers">Lawyers</label>
+      <input id="career" type="radio" name="custom unit" value="Career Changers" class="text" tabindex="4">
+      <label for="career">Career Changers</label>
+    </div>
+      <div> 
+        <input type="submit" name="submit" value="Submit" tabindex="5">
+      </div>
+    </form> 
+  <h1><img src="subscribe.gif" alt="Parker Associates Practice Advisor and Career Coach" width="190" height="107"></h1><div id="center"><img src="titlehighlight.gif" alt="receive tips and articles in your inbox every month and plan for your success" width="340" height="107"> </div>
+  
+</div>
+<div id="container">
+<div id="leftcolumn"> 
+    <div id="navbar"> 
+      <ul>
+        <!-- #BeginEditable "navbar" --> 
+        <li><a href="index.html">Home</a></li>
+        <li><a href="attorneys.html">Attorneys</a></li>
+        <li><a href="attorneyoffer.html">Offers for Attorneys</a></li>
+        <li><a href="career.html">Career Changers</a></li>
+        <li><a href="careeroffer.html">Offers for Career Changers</a></li>
+        <li><a href="samples.html">Newsletters</a></li>
+        <li><a href="archives.html">Articles</a></li>
+        <li><a href="offers.html">Special Offer</a></li>
+        <li><a href="books.html">Books</a></li>
+        <li><a href="links.html">Web Resources</a></li>
+        <li><a href="parkerbio.html">About Parker Associates</a></li>
+        <li><a href="guestform.html">Contact Parker Associates</a></li>
+        <!-- #EndEditable -->
+      </ul>
+    </div>
+  <h2>Success Stories</h2>
+  <p><strong>Lawyer learns way to be her best self while launching her own law 
+    practice.</strong><br>
+      <a href="casestudy2.html">read about Faith's success</a></p>
+  <p><strong>Project Manager discovers the work environment that allows her to 
+    thrive.</strong><br>
+      <a href="casestudy4.html">read about Beth's success</a></p>
+	
+    <h3>Subscribe Today</h3>
+    <p><a href="samples.html">Join my mailing list today</a> to receive <em><strong>Road 
+      to Success</strong></em>, a newsletter and <em><strong>Parkerâ€™s Points</strong></em>, 
+      a top ten tips list, and tomorrow you will receive my gift to you - The 
+      TruValues Program, an assessment, that helps you to identify your values. 
+    </p>
+	
+  </div>
+<div id="page_title">
+    <h1><!-- #BeginEditable "pgtitle" -->Newsletter Articles<!-- #EndEditable --></h1>
+  </div>
+  <div id="maincontent"> <!-- #BeginEditable "body" --><b><i>The Road To Success<br>
+    November 2008</i></b> 
+    <h2>Career Success - Be a standout!</h2>
+    <p>Everyday we hear about more layoffs. It is important to be proactive by 
+      starting a job search before the layoff happens. While it is a smart move, 
+      you must be careful. If your current boss gets wind of it you might be the 
+      first to be laid off. Of course if you have already successfully lined up 
+      a job, it won't matter much! </p>
+    <p>There are going to be lots of people looking for jobs now. How do you distinguish 
+      yourself from the others? This is a really important question. The good 
+      news is that you can save months of job searching by simply using one or 
+      two of these ideas. </p>
+    <p>When there are lots of people looking for work how do you get noticed? 
+      You must stand out from the crowd. How do you do that? Having a unique skill 
+      is one way. You'll need to highlight it on your resume. At an interview 
+      you will want to back it up with success stories about how the skill has 
+      solved problems for your past employers. </p>
+    <p>Another way to be memorable is to tell a compelling story. I recall years 
+      ago hearing that someone always told the story of how he was on a plane 
+      that was high jacked. People always referred to him as "the fellow 
+      who was high jacked". He stood out! Of course you'll want to link something 
+      like that back to one of the job requirements so it makes sense in the context 
+      of your job candidacy. </p>
+    <p>Another way to stand out is to take a risk. We are usually encouraged to 
+      follow all the rules when applying for a job. Don't rock the boat so to 
+      speak. Following all those rules makes us all alike! </p>
+    <p>I loved the story I heard recently at an event where Shirley Singleton 
+      co-founder of Edgewater Technology was the keynote speaker. In the early 
+      80s after being laid off as a teacher she signed up for and completed a 
+      computer programming class. </p>
+    <p>After sending out hundreds of resumes for entry level programing jobs and 
+      getting no response, she answered a help wanted ad in the newspaper only 
+      to learn they had already filled the job. In desperation she begged them 
+      on the telephone to just interview her even though she knew they had no 
+      opening for her. She just wanted to know what it was like to be interviewed! 
+      They agreed to help her. </p>
+    <p>When she returned home from the "interview" there was a message 
+      on her answering machine saying they were creating a job for her! Out of 
+      frustration she had taken a risk and as a result she was hired. </p>
+    <p>Lots of times clients tell me they are perfect for a particular job and 
+      can't understand why they were not hired. One job candidate who was really 
+      upset when she was turned down for a job sent a gift of candy to that hiring 
+      manager telling her how much she had enjoyed meeting with the team. Several 
+      months later the hiring manager called her about another job. The gift had 
+      made an impression that lasted. </p>
+    <p>It is important never to burn any bridges and to stay connected to those 
+      you meet even the ones who turn you down. You never know who will eventually 
+      help you find that perfect job! </p>
+    <p>So whether you are already laid off or just think you might be, now is 
+      the time to think about how you will make yourself memorable to those you 
+      meet, what kind of risk you are willing to take to get a great job, and 
+      how you can stay connected to those who have the potential to help you in 
+      the future. Now is the time to make yourself a standout! </p>
+    <p>Take Action </p>
+    <ol>
+      <li>What kinds of attributes do you have that make you memorable? Is it 
+        a skill, a talent, a hobby, an experience?</li>
+      <li>How does it fit into your career goals? </li>
+      <li>What risk would you be willing to take to get yourself noticed? What 
+        is the upside? What is the downside? How do you make the decision to follow 
+        through? </li>
+      <li>Who have you met recently that has the necessary connections to help 
+        you with your job search? How do you stay connected with him/her? </li>
+    </ol>
+    <!-- #EndEditable --></div>
+
+</div>
+<div id="footer"><span class="bottomnav"> <a href="attorneys.html">Attorneys</a> 
+  | <a href="attorneyoffer.html">Offers for Attorneys</a> | <a href="career.html">Career 
+  Changers</a> | <a href="careeroffer.html">Offers for Career Changers</a> 
+  | <a href="samples.html">Newsletters</a> | <a href="archives.html">Articles</a><br>
+  <a href="offers.html">Special Offer</a> | <a href="books.html">Books</a> | <a href="links.html">Web 
+  Resources</a> | <a href="parkerbio.html">About Parker Associates</a></span> 
+  | <a href="guestform.html">Contact Parker Associates</a><br>
+  <a href="index.html">Parker Associates</a> copyright © 1999-2009, all 
+  rights reserved<br>
+  <strong>Alvah Parker PO Box 562 Swampscott, MA 01907 &nbsp;781-598-0388</strong><br>
+  <a href="privacy.html">Privacy Statement</a><br>
+  <a href="http://www.menagerieweb.com">MenagerieWeb </a>
+  </div>
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-871069-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body><!-- #EndTemplate --></html>
