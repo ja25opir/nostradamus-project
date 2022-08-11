@@ -1,0 +1,223 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_ctl00_Head1"><meta name="description" content="The other way you can do this is to have a command in an logon script that writes out to a text file on a network share. For exampleecho Logon %username%, %computername%, %date% , %time%. &nbsp;\\servershare\foldershare\login.csvThat way when they login, "><meta name="keywords" content="HOw,to,tell,when,someone,logged,into,their,profile."> <meta name="GENERATOR" content="http://allfaq.org"><link rel="alternate" type="application/rss+xml" title="Forums RSS (RSS 2.0)" href="http://allfaq.org/forums/aggregaterss.aspx?Mode=0"><link rel="alternate" type="application/rss+xml" title="Other (RSS 2.0)" href="http://allfaq.org/forums/rss.aspx?ForumID=146&amp;Mode=0"> <link rel="alternate" type="application/rss+xml" title="HOw to tell when someone logged into their profile. (RSS 2.0)" href="http://allfaq.org/forums/rss.aspx?ForumID=146&amp;PostID=356286"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <style type="text/css"> body { font-size: 84%; } </style><link rel="stylesheet" href="/themes/default/style/Common.css" type="text/css" media="screen"><link rel="stylesheet" href="/themes/default/style/common_print.css" type="text/css" media="print"><link rel="stylesheet" href="/Themes/default/style/forum.css" type="text/css" media="screen"><link rel="stylesheet" href="/Themes/default/style/forum_print.css" type="text/css " media="print"><link rel="stylesheet" href="/themes/default/style/DynamicStyle.aspx" type="text/css" media="screen"><title>
+	HOw to tell when someone logged into their profile. - Questions and answers to issues related to Microsoft: OS, Applications, Development, Hardware, Server, Internet Protocols, Database, Exchange .
+</title></head>
+	<body>
+		<form name="aspnetForm" method="post" action="/forums/p/177900/356286.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMzQyNzM1MTVkZKOBhsf8+J5kSPu1awFLhmPkn3lx">
+</div>
+
+
+<script src="/WebResource.axd?d=SroPX7EXktDbkCjZaPmgvtHnciWwMgleeyFsehfrERfX8sGfQQxkVU1TLDoSY2Gd6nL1YjldqcJehpZtDIa5EELKAX5FwxZMwtV6XU3bGTc1&amp;t=633296188240000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=SroPX7EXktDbkCjZaPmgvtHnciWwMgleeyFsehfrERfX8sGfQQxkVU1TLDoSY2GdPGCiGg5IEGM-h6392XvwsILZXVr9wmgbUiLfoBxe5A81&amp;t=633296188240000000" type="text/javascript"></script>
+			
+	
+			
+
+		    
+  <table width="100%"><tbody><tr><td align="left">
+
+
+
+
+			</td></tr></tbody></table>
+                <div id="CommonNavigation">
+                    <div class="Common">
+                        <ul>
+                                <li><a class="Selected" href="http://allfaq.org">Microsoft</a></li>
+                                
+                            
+                                
+                                <li><a href="http://allfaq.org/policy.htm">Policy</a></li>
+                            </ul>
+
+
+
+                         
+                     </div>
+                </div>
+
+                <div id="CommonNavigationShadow">
+                    
+    
+    <div class="CommonBreadCrumbArea"><div class="Common"><a href="/forums/">Questions and answers to issues related to Microsoft: Windows, Applications, Development, Hardware, Server, Internet Protocols, Database, Exchange .</a> » <a href="/forums/default.aspx?GroupID=16">Progamming</a> » <a href="/forums/146.aspx">Project Management</a> » <a href="/forums/t/177900.aspx">HOw to tell when someone logged into their profile.</a></div></div>
+
+
+                </div>
+		    
+
+<script type="text/javascript">
+// <![CDATA[
+Telligent_Modal.Configure('/utility/loading.htm',['CommonModal','CommonModal1','CommonModal2','CommonModal3','CommonModal4','CommonModal5'],['CommonModalTitle'],['CommonModalClose'],['CommonModalContent'],['CommonModalFooter'],['CommonModalResize'],['CommonModalMask'],100);
+// ]]>
+</script></form>
+
+<form action="http://allfaq.org/search/SearchResults.aspx" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-8381584251020778:w04yiiuacxu">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="70">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<form id="Form2">
+             <div class="Common">
+			    <div id="CommonSidebarRight">
+    
+</div>	
+			    <div id="CommonSidebarLeft"></div>
+			    <div id="CommonContent"><div id="CommonContentInner">
+    
+    
+
+<div class="CommonContentArea">
+ 
+<h1><div id="ctl00_ctl00_bcr_bcr_ctl00_Title2" cssclass="CommonTitle">HOw to tell when someone logged into their profile.</div></h1>		
+	<div class="CommonContent">
+	
+	   
+    
+        <div class="CommonFormArea">
+
+	    
+		</div>
+        <table width="100%" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td valign="top">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" style="table-layout: fixed;">
+        
+		 <tbody><tr><td style="border: solid 1px #E1E1E1;border-right-width: 1px;border-left-width: 1px;color: #000; ">
+   									
+          <div id="ctl00_ctl00_bcr_bcr_ctl00_question" style="font-family:Arial;font-size:12px;text-align: left;padding: 8px;margin-bottom: 20px;"> <span class="value">
+<span class="questionBody">
+   We are running a Windows 2003 server environment and our agents have windows xp on their stations with roaming profiles. &nbsp;The Managers want to be able to check and see when an agent logged into their profile. &nbsp;I don't know how to check this or how to set it up so that we can check this in the future.<br><br>Any ideas?</span>
+</span>
+</div>
+        </td></tr>
+
+<tr><td height="2px"></td></tr>
+
+     
+
+         <tr><td height="5px"></td></tr>
+          <tr valign="top">
+           <td class="ForumPostContentArea">
+								    <div class="ForumPostTitleArea">
+									    <h4 class="ForumPostTitle">									        
+										  <div id="ctl00_ctl00_bcr_bcr_ctl00_Title_cache">Solution:   HOw to tell when someone logged into their profile.</div>
+									    </h4>
+									    </div>
+									    </td></tr>
+        <tr style="background-color:#f4f4f4;border: solid 1px #E1E1E1;border-right-width: 1px;border-left-width: 1px;color: #000; ">
+	<td style="background-color:#f4f4f4;border: solid 1px #E1E1E1;border-right-width: 1px;border-left-width: 1px;color: #000; ">
+	<div id="ctl00_ctl00_bcr_bcr_ctl00_answer" style="font-family:Arial;font-size:12px;text-align:left;padding: 8px;margin-bottom: 20px;">
+<div class="richText">
+The other way you can do this is to have a command in an logon script that writes out to a text file on a network share. For example<br><br>echo Logon %username%, %computername%, %date% , %time%. &gt;&gt;&nbsp;\\servershare\foldershare\<wbr>login.csv<br><br>That way when they login, it automatically sets up an entry into the login.txt file. <br>Saves reading event logs.<br>You can also extend this with a log off script, which could be setup to do the same.<br><br>I have acutally gone even further and setup a logon and logoff script that updates a database table, which can then be viewed in a asp page, listing the user's logon habbits etc.<br><br>The cool thing about this is the information is always there and won't get overwritten.<br><br>Regards<br><br><br></div> <!-- richText -->
+                      
+</div>
+        </td></tr>
+<tr><td>
+
+</td></tr>
+<tr><td valign="top"> 
+
+
+
+</td></tr>
+        </tbody></table>
+        </td>
+        <td width="5px">
+</td>
+      
+        </tr>
+        </tbody></table>
+
+        
+        <a href="/forums/rss.aspx?ForumID=146&amp;PostID=356286"><img id="ctl00_ctl00_bcr_bcr_ctl00_ThreadData1_ctl01_Image1" src="/utility/images/rss.gif" alt="" style="border-width:0px;"></a>	
+      
+		
+	
+
+
+
+                <div class="CommonSidebarArea">
+	                <div class="CommonSidebarRoundTop"><div class="r1"></div><div class="r2"></div><div class="r3"></div><div class="r4"></div></div>
+	                <div class="CommonSidebarInnerArea">
+                        <h4 class="CommonSidebarHeader">Popular Tags</h4>
+                        <div class="CommonSidebarContent">
+            <ul class="CommonSidebarTagCloud">
+<li class="CommonTag1"><a href="/tags/_3C00_span+class_3D002200_name_22003E00_Tags_3A00_/default.aspx" rel="tag"><span class="name">Tags:</span></a></li>
+<li class="CommonTag3"><a href="/tags/2003/default.aspx" rel="tag">2003</a></li>
+<li class="CommonTag6"><a href="/tags/Active+directory/default.aspx" rel="tag">Active directory</a></li>
+<li class="CommonTag4"><a href="/tags/Apache/default.aspx" rel="tag">Apache</a></li>
+<li class="CommonTag6"><a href="/tags/asp.net/default.aspx" rel="tag">asp.net</a></li>
+<li class="CommonTag4"><a href="/tags/BSOD/default.aspx" rel="tag">BSOD</a></li>
+<li class="CommonTag4"><a href="/tags/c_2300_/default.aspx" rel="tag">c#</a></li>
+<li class="CommonTag2"><a href="/tags/CVS/default.aspx" rel="tag">CVS</a></li>
+<li class="CommonTag2"><a href="/tags/deploy/default.aspx" rel="tag">deploy</a></li>
+<li class="CommonTag1"><a href="/tags/Deployment/default.aspx" rel="tag">Deployment</a></li>
+<li class="CommonTag6"><a href="/tags/file/default.aspx" rel="tag">file</a></li>
+<li class="CommonTag5"><a href="/tags/Group+Policy/default.aspx" rel="tag">Group Policy</a></li>
+<li class="CommonTag5"><a href="/tags/java/default.aspx" rel="tag">java</a></li>
+<li class="CommonTag3"><a href="/tags/linux/default.aspx" rel="tag">linux</a></li>
+<li class="CommonTag3"><a href="/tags/MDT/default.aspx" rel="tag">MDT</a></li>
+<li class="CommonTag4"><a href="/tags/MDT+2010/default.aspx" rel="tag">MDT 2010</a></li>
+<li class="CommonTag1"><a href="/tags/Microsoft/default.aspx" rel="tag">Microsoft</a></li>
+<li class="CommonTag4"><a href="/tags/project/default.aspx" rel="tag">project</a></li>
+<li class="CommonTag6"><a href="/tags/security/default.aspx" rel="tag">security</a></li>
+<li class="CommonTag5"><a href="/tags/software/default.aspx" rel="tag">software</a></li>
+<li class="CommonTag1"><a href="/tags/subversion/default.aspx" rel="tag">subversion</a></li>
+<li class="CommonTag1"><a href="/tags/svn/default.aspx" rel="tag">svn</a></li>
+<li class="CommonTag4"><a href="/tags/Team+Foundation+Server/default.aspx" rel="tag">Team Foundation Server</a></li>
+<li class="CommonTag5"><a href="/tags/TFS/default.aspx" rel="tag">TFS</a></li>
+<li class="CommonTag6"><a href="/tags/Visual+Source+Safe/default.aspx" rel="tag">Visual Source Safe</a></li>
+<li class="CommonTag3"><a href="/tags/WDS/default.aspx" rel="tag">WDS</a></li>
+<li class="CommonTag2"><a href="/tags/windows/default.aspx" rel="tag">windows</a></li>
+<li class="CommonTag5"><a href="/tags/Windows+7/default.aspx" rel="tag">Windows 7</a></li>
+<li class="CommonTag4"><a href="/tags/Windows+XP/default.aspx" rel="tag">Windows XP</a></li>
+<li class="CommonTag2"><a href="/tags/XP/default.aspx" rel="tag">XP</a></li>
+</ul>
+
+                        </div>
+                        <div class="CommonSidebarFooter"><a href="/tags/default.aspx">Browse All Tags</a></div>
+                    </div>
+	                <div class="CommonSidebarRoundBottom"><div class="r1"></div><div class="r2"></div><div class="r3"></div><div class="r4"></div></div>
+                </div>
+            
+
+		        
+	    <table width="100%"><tbody><tr align="center">
+<td>
+
+
+</td></tr></tbody></table>
+
+
+</div>
+
+</div></div>
+            </div>               
+                
+		
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9344138-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+	
+
+
+
+
+</div></form></body></html>

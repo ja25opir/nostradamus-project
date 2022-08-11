@@ -1,0 +1,1061 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+  <base href="http://622208.com/index.php">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="billy,joe, van graan, travel, adventure, expedition, cycle, bicycle touring, mountain">
+  <meta name="description" content="Billy-Joe van Graan's personal, travel and adventure blog.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>622208 - Billy van Graan</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+  <link href="/templates/yoo_waybeyond/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://622208.com/plugins/content/yoo_gallery/gallery.css.php" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/plugins/content/yoo_gallery/lib/slideshow/slideshow.css" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/media/myjosctemplates/mydefault-emotop/css/css.css" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
+  <link rel="stylesheet" href="/templates/yoo_waybeyond/css/template.css" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/modules/mod_yoo_search/mod_yoo_search.css.php" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/modules/mod_yoo_login/mod_yoo_login.css.php" type="text/css">
+  <style type="text/css">
+    <!--
+div.wrapper { width: 900px; }
+    -->
+  </style>
+  <script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/mootools/mootools-release-1.11.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://622208.com/plugins/content/yoo_gallery/lib/slideshow/slideshow_packed.js"></script>
+  <script type="text/javascript" src="http://622208.com/modules/mod_yoo_search/mod_yoo_search.js"></script>
+  <script type="text/javascript">
+var YtSettings = { tplurl: '/templates/yoo_waybeyond', color: 'default', itemColor: 'red', layout: 'left' };
+  </script>
+  <style type="text/css">@import url(http://622208.com/plugins/system/blueflame/bfCombine.php?type=css/tag/bffront_css,front_css);</style>
+  <script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://622208.com//index.php";
+xajax.config.statusMessages = true;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://622208.com//plugins/system/blueflame/xajax/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: http://622208.com//plugins/system/blueflame/xajax/xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+xajax_bf_com_bftag_Handler = function() { return xajax.request( { xjxfun: 'bf_com_bftag_Handler' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+  <script src="http://622208.com/plugins/system/blueflame/bfCombine.php?type=js&amp;amp;c=tag&amp;amp;f=jquery,bffront_js,front_js" type="text/javascript"></script>
+  <script type="text/javascript">var YOOeffects = { url: 'http://622208.com/plugins/system/yoo_effects/lightbox/' };</script>
+<script type="text/javascript" src="http://622208.com/plugins/system/yoo_effects/yoo_effects.js.php?lb=1&amp;re=1&amp;sl=1"></script>
+  <script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/addons/base.js"></script>
+<script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/addons/accordionmenu.js"></script>
+<script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/addons/fancymenu.js"></script>
+<script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/addons/dropdownmenu.js"></script>
+<script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/yoo_tools.js"></script>
+
+<link rel="apple-touch-icon" href="/templates/yoo_waybeyond/apple_touch_icon.png">
+</head>
+
+<body id="page" class="yoopage left  red ">
+
+		<div id="absolute">
+		
+	</div>
+	
+	<div id="page-body">
+		<div class="wrapper floatholder">
+
+			<div id="header">
+					
+				<div id="toolbar">
+					<div class="floatbox ie_fix_floats">
+					
+												<div id="date">
+							Friday, 17 September 2010						</div>
+							
+						
+									<div class="mod-blank">
+				<div class="module deepest">
+				
+										<img class="correct-png" src="/images/saflag.png" border="0" alt="Languages" vspace="2" align="right">					
+				</div>
+			</div>
+			
+	
+					</div>
+				</div>
+
+				<div id="headerbar">
+					<div class="floatbox ie_fix_floats">
+									<div class="mod-roundedtrans-header">
+				<div class="module">
+				
+															
+					<div class="box-1">
+						<div class="box-2">
+							<div class="box-3 deepest">
+																
+<form action="/index.php" method="post" name="login">
+
+<span class="niftyquick" style="display: block;">
+	<span class="yoo-login">
+	
+				
+				
+		<span class="login">
+		
+						
+			<span class="username">
+			
+				<input type="text" name="username" size="18" alt="Username" value="Username" onblur="if(this.value=='') this.value='Username';" onfocus="if(this.value=='Username') this.value='';">
+				
+			</span>
+			
+			<span class="password">
+			
+				<input type="password" name="passwd" size="10" alt="Password" value="Password" onblur="if(this.value=='') this.value='Password';" onfocus="if(this.value=='Password') this.value='';">
+				
+			</span>
+
+						<input type="hidden" name="remember" value="yes">
+						
+			<span class="login-button">
+				<button value="Login" name="Submit" type="submit" title="Login">Login</button>
+			</span>
+			
+						<span class="lostpassword">
+				<a href="/component/user/reset" title="Forgot your password?"></a>
+			</span>
+						
+						<span class="lostusername">
+				<a href="/component/user/remind" title="Forgot your username?"></a>
+			</span>
+						
+						<span class="registration">
+				<a href="/component/user/?task=register" title="Create an account"></a>
+			</span>
+						
+						
+			<input type="hidden" name="option" value="com_user">
+			<input type="hidden" name="task" value="login">
+			<input type="hidden" name="return" value="">
+			<input type="hidden" name="5005767084acb441f54d5da6404aefc7" value="1">
+		</span>
+		
+				
+	</span>
+</span>
+</form>							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+					</div>
+				</div>
+
+				<div id="menubar">
+					<div class="menubar-2">
+						<div class="menubar-3"></div>
+					</div>
+				</div>
+
+								<div id="menu">
+					<ul class="menu"><li class="level1 item1 red first active current"><a href="http://622208.com/" class="level1 item1 red first active current"><span>Home</span></a></li><li class="level1 item2 green parent"><a href="/item2" class="level1 item2 green parent"><span>Articles</span></a><ul class="level2"><li class="level2 item1 first last"><a href="/item2/articles-general" class="level2 item1 first last"><span>General</span></a></li></ul></li><li class="level1 item3 blue parent"><a href="/expeditions" class="level1 item3 blue parent"><span>Expeditions / Trips</span></a><ul class="level2"><li class="level2 item1 first parent"><a href="/expeditions/makgadikgadi-pan" class="level2 item1 first parent"><span>Makgadikgadi Pans</span></a><ul class="level3"><li class="level3 item1 first"><a href="/expeditions/makgadikgadi-pan/summary" class="level3 item1 first"><span>Summary</span></a></li><li class="level3 item2 last"><a href="/expeditions/makgadikgadi-pan/diary-updates" class="level3 item2 last"><span>Diary / Updates</span></a></li></ul></li><li class="level2 item2 parent"><a href="/expeditions/cape-2-cape" class="level2 item2 parent"><span>Cape 2 Cape</span></a><ul class="level3"><li class="level3 item1 first"><a href="/expeditions/cape-2-cape/summary" class="level3 item1 first"><span>Summary</span></a></li><li class="level3 item2 last"><a href="/expeditions/cape-2-cape/diary-updates" class="level3 item2 last"><span>Diary / Updates</span></a></li></ul></li><li class="level2 item3 parent"><a href="/expeditions/the-dragons-backbone" class="level2 item3 parent"><span>Dragon's Backbone</span></a><ul class="level3"><li class="level3 item1 first"><a href="/expeditions/the-dragons-backbone/the-dragons-backbone-summary" class="level3 item1 first"><span>Summary</span></a></li><li class="level3 item2"><a href="/expeditions/the-dragons-backbone/the-dragons-backbone-diary" class="level3 item2"><span>Diary / Updates</span></a></li><li class="level3 item3"><a href="/expeditions/the-dragons-backbone/gallery" class="level3 item3"><span>Photo Gallery</span></a></li><li class="level3 item4 last"><a href="/expeditions/the-dragons-backbone/the-dragons-backbone-gear-list" class="level3 item4 last"><span>Gear List</span></a></li></ul></li><li class="level2 item4 parent"><a href="/expeditions/triple-d" class="level2 item4 parent"><span>Triple D</span></a><ul class="level3"><li class="level3 item1 first"><a href="/expeditions/triple-d/triple-d-summary" class="level3 item1 first"><span>Summary</span></a></li><li class="level3 item2"><a href="/expeditions/triple-d/triple-d-diary-updates" class="level3 item2"><span>Dairy / Updates</span></a></li><li class="level3 item3 last"><a href="/expeditions/triple-d/photo-gallery" class="level3 item3 last"><span>Photo Gallery</span></a></li></ul></li><li class="level2 item5 parent"><a href="/expeditions/naminbia-2008" class="level2 item5 parent"><span>Namibia &amp; Botswana</span></a><ul class="level3"><li class="level3 item1 first"><a href="/expeditions/naminbia-2008/naminbia-2008-summary" class="level3 item1 first"><span>Summary</span></a></li><li class="level3 item2 last"><a href="/expeditions/naminbia-2008/namibia-2008-diary--updates" class="level3 item2 last"><span>Diary / Updates</span></a></li></ul></li><li class="level2 item6 parent"><a href="/expeditions/amstercow" class="level2 item6 parent"><span>Amstercow</span></a><ul class="level3"><li class="level3 item1 first"><a href="/expeditions/amstercow/amstercow-summary" class="level3 item1 first"><span>Summary</span></a></li><li class="level3 item2"><a href="/expeditions/amstercow/amstercow-diary-updates" class="level3 item2"><span>Diary / Updates</span></a></li><li class="level3 item3 last"><a href="/expeditions/amstercow/photo-gallery" class="level3 item3 last"><span>Photo Gallery</span></a></li></ul></li><li class="level2 item7 last parent"><a href="/expeditions/kazrat" class="level2 item7 last parent"><span>Kazrat</span></a><ul class="level3"><li class="level3 item1 first last"><a href="/expeditions/kazrat/kazrat-summary" class="level3 item1 first last"><span>Summary</span></a></li></ul></li></ul></li><li class="level1 item4 yellow parent"><a href="/countries" class="level1 item4 yellow parent"><span>Countries</span></a><ul class="level2"><li class="level2 item1 first parent toggler"><span class="separator level2 item1 first parent"><span>Africa</span></span><ul class="accordion level3"><li class="level3 item1 first"><a href="/component/tag/Botswana" class="level3 item1 first"><span style="background-image: url(http://622208.com/images/stories/f_botswana.png);">Botswana</span></a></li><li class="level3 item2"><a href="/component/tag/Lesotho" class="level3 item2"><span style="background-image: url(http://622208.com/images/stories/f_lesotho.png);">Lesotho</span></a></li><li class="level3 item3"><a href="/component/tag/Mozambique" class="level3 item3"><span style="background-image: url(http://622208.com/images/stories/f_mozambique.png);">Mozambique</span></a></li><li class="level3 item4"><a href="/component/tag/Namibia" class="level3 item4"><span style="background-image: url(http://622208.com/images/stories/f_namibia.png);">Namibia</span></a></li><li class="level3 item5"><a href="/component/tag/south_africa" class="level3 item5"><span style="background-image: url(http://622208.com/images/stories/f_southafrica.png);">South Africa</span></a></li><li class="level3 item6 last"><a href="/component/tag/Swaziland" class="level3 item6 last"><span style="background-image: url(http://622208.com/images/stories/f_swaziland.png);">Swaziland</span></a></li></ul></li><li class="level2 item2 parent toggler"><span class="separator level2 item2 parent"><span>Asia</span></span><ul class="accordion level3"><li class="level3 item1 first"><a href="/component/tag/Armenia" class="level3 item1 first"><span style="background-image: url(http://622208.com/images/stories/f_armenia.png);">Armenia</span></a></li><li class="level3 item2"><a href="/component/tag/China" class="level3 item2"><span style="background-image: url(http://622208.com/images/stories/f_china.png);">China</span></a></li><li class="level3 item3"><a href="/component/tag/Georgia" class="level3 item3"><span style="background-image: url(http://622208.com/images/stories/f_georgia.png);">Georgia</span></a></li><li class="level3 item4 last"><a href="/component/tag/India" class="level3 item4 last"><span style="background-image: url(http://622208.com/images/stories/f_india.png);">India</span></a></li></ul></li><li class="level2 item3 last parent toggler"><span class="separator level2 item3 last parent"><span>Europe</span></span><ul class="accordion level3"><li class="level3 item1 first"><a href="/component/tag/Estonia" class="level3 item1 first"><span style="background-image: url(http://622208.com/images/stories/f_estonia.png);">Estonia</span></a></li><li class="level3 item2"><a href="/component/tag/Germany" class="level3 item2"><span style="background-image: url(http://622208.com/images/stories/f_germany.png);">Germany</span></a></li><li class="level3 item3"><a href="/component/tag/Latvia" class="level3 item3"><span style="background-image: url(http://622208.com/images/stories/f_latvia.png);">Latvia</span></a></li><li class="level3 item4"><a href="/component/tag/Lithuania" class="level3 item4"><span style="background-image: url(http://622208.com/images/stories/f_lithuania.png);">Lithuania</span></a></li><li class="level3 item5"><a href="/component/tag/Netherlands" class="level3 item5"><span style="background-image: url(http://622208.com/images/stories/f_netherlands.png);">Netherlands</span></a></li><li class="level3 item6"><a href="/component/tag/Poland" class="level3 item6"><span style="background-image: url(http://622208.com/images/stories/f_poland.png);">Poland</span></a></li><li class="level3 item7"><a href="/component/tag/Russia" class="level3 item7"><span style="background-image: url(http://622208.com/images/stories/f_russia.png);">Russia</span></a></li><li class="level3 item8 last"><a href="/component/tag/Turkey" class="level3 item8 last"><span style="background-image: url(http://622208.com/images/stories/f_turkey.png);">Turkey</span></a></li></ul></li></ul></li><li class="level1 item5 lilac"><a href="/type" class="level1 item5 lilac"><span>Type</span></a></li><li class="level1 item6 turquoise last"><a href="/aboutme" class="level1 item6 turquoise last"><span>About Me</span></a></li></ul>
+				</div>
+					
+						
+				<div id="logo">
+					<a href="/index.php" title="Home"><img class="correct-png" src="/images/yootheme/logo.png" border="0" alt="Logo" hspace="20" vspace="0" width="400" height="90"></a>
+				</div>
+					
+								<div id="search" class="yootools-black">
+					<div class="default">
+	<div id="yoo-search-1" class="yoo-search">
+	
+		<form action="index.php" method="post">
+			<div class="searchbox" style="">
+				<button class="search-magnifier" type="submit" value="Search"></button>
+				<input class="searchfield" type="text" onfocus="if(this.value=='search...') this.value='';" onblur="if(this.value=='') this.value='search...';" value="search..." size="20" alt="search..." maxlength="20" name="searchword">
+				<button class="search-close" type="reset" value="Reset"></button>
+			</div>	
+			<input type="hidden" name="task" value="search">
+			<input type="hidden" name="option" value="com_search">
+		</form>		
+
+		<div class="resultbox" style="width: 400px;"></div>
+
+	</div>
+</div><script type="text/javascript">
+// <!--
+window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': 'http://622208.com/index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all&Itemid=53', 'fieldText': 'search...', 'msgResults': 'Search results', 'msgCategories': 'Search categories', 'msgNoResults': 'No results found', 'msgMoreResults': 'More results' }); });
+// -->
+</script>
+
+				</div>
+					
+				
+			</div>
+			<!-- header end -->
+			
+					
+			<div id="middle">
+				<div class="background">
+		
+										<div id="left">
+						<div id="left_container" class="clearfix">
+										<div class="mod-polaroid">
+				<div class="module">
+				
+										<div class="badge-tape"></div>						
+					<div class="box-1">
+						<div class="box-2 deepest">
+							<div class="box-3">
+								<p><img src="/images/yootheme/hand.jpg" border="0" width="159" height="98"></p><p>I'm Billy van Graan, a South African web developer and a person that like doing adventurous things. This site contains articles and updates of my expeditions and other things I might feel interested to write about. What’s written on this site isn’t necessarily the way things are or happened but rather the way I see and experience them.</p>							</div>
+						</div>
+						
+													<h3 class="header"><span class="header-2"><span class="header-3">Snapshot</span></span></h3>
+												
+					</div>
+						
+					<div class="box-b1">
+						<div class="box-b2">
+							<div class="box-b3"></div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+						<div class="mod-postit">
+				<div class="module">
+				
+															
+					<div class="box-1 deepest">
+						<div class="box-2">
+															<h3 class="header"><span class="header-2"><span class="header-3">Who's<span class="color"> Online</span></span></span></h3>
+														 We have&nbsp;5 guests&nbsp;online						</div>
+					</div>
+						
+					<div class="box-b1">
+						<div class="box-b2">
+							<div class="box-b3"></div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+						<div class="mod-rounded">
+				<div class="module">
+					
+														
+					<div class="box-t1">
+						<div class="box-t2">
+							<div class="box-t3"></div>
+						</div>
+					</div>
+
+					<div class="box-1 deepest">
+												<h3 class="header"><span class="header-2"><span class="header-3">Current<span class="color"> Location</span></span></span></h3>
+												<p align="center"><img src="/images/location/south_africa.png" border="0" alt="South Africa" title="South Africa" width="160" height="160"></p><h4 align="center"><strong>South Africa</strong><br> </h4>					</div>
+
+					<div class="box-b1">
+						<div class="box-b2">
+							<div class="box-b3"></div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+						<div class="mod-rounded">
+				<div class="module">
+					
+														
+					<div class="box-t1">
+						<div class="box-t2">
+							<div class="box-t3"></div>
+						</div>
+					</div>
+
+					<div class="box-1 deepest">
+												<h3 class="header"><span class="header-2"><span class="header-3">Currently<span class="color"> Reading</span></span></span></h3>
+												<p align="center"><img src="/images/reading/bones.jpg" border="0" alt="Bones of the Hills" title="Bones of the Hills" width="160" height="258"></p>					</div>
+
+					<div class="box-b1">
+						<div class="box-b2">
+							<div class="box-b3"></div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+						</div>
+					</div>
+					<!-- left end -->
+							
+					<div id="main">
+						<div id="main_container" class="clearfix">
+						
+							<div class="main-tl">
+								<div class="main-tr">
+									<div class="main-t"></div>
+								</div>
+							</div>
+		
+							<div class="main-m">
+		
+											
+								<div id="mainmiddle" class="floatbox">
+			
+														
+									<div id="content">
+										<div id="content_container" class="clearfix">
+			
+														
+																						<div id="breadcrumbs">
+												<span class="breadcrumbs">
+Home</span>
+											</div>
+																
+											<div class="floatbox">
+												
+												
+<div class="joomla ">
+	<div class="blog">
+
+		
+				<div class="leadingarticles">
+										
+<div class="item ">
+	<div class="item-bg">
+	
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/expeditions/cape-2-cape/diary-updates/206-into-zambia-livingstone">Into Zambia, Livingstone</a>
+							</h1>
+					
+					
+						<span class="icon email">
+				<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovLzYyMjIwOC5jb20vZXhwZWRpdGlvbnMvY2FwZS0yLWNhcGUvZGlhcnktdXBkYXRlcy8yMDYtaW50by16YW1iaWEtbGl2aW5nc3RvbmU%3D" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/yoo_waybeyond/images/emailButton.png" alt="E-mail"></a>			</span>
+					
+						<span class="icon print">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=206:into-zambia-livingstone&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/printButton.png" alt="Print"></a>			</span>
+					
+						<span class="icon pdf">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=206:into-zambia-livingstone&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/pdf_button.png" alt="PDF"></a>			</span>
+						
+		</div>
+			
+				
+			
+			
+		<p class="articleinfo">
+	
+						<span class="created">
+				Thursday, 12 November 2009 00:00			</span>
+				
+						<span class="modified">
+				Last Updated on Friday, 13 November 2009 19:44			</span>
+					
+						<span class="author">
+				Written by Billy van Graan			</span>
+				
+				
+		</p>
+	
+				
+		<p>Total Distance: 5747km<br><br>The Katima campsite was so nice that we ended up leaving rather late, only at 9:30. We spent our last Namibian dollar change at the Pick 'n Pay and then we were on our way to the Zambian <br>border.<br><br>Everything went smoothly at the border, except that the whole process cost us a lot of money. R100 for stamping the carnet, R300 for insurance and R25 for road tax. Luckily, in Lusaka, we can buy a yellow card, which will include the insurance and road tax for the rest of the countries in Africa. In Zambia, petrol is more expensive (R12 per liter), so you could see a lot of vehicles with cans of petrol in their boots crossing from Namibia to sell it in Zambia.&nbsp; <br><br>To Livingstone, the scenery was again green bushveld, with little villages of straw huts here and there. We arrived at the campsite Billy put in the GPS at about 3 o'clock and by that time I was very hungry. The campsite was again next to the Zambezi river, but a bit more expensive than Katima's campsite and almost full. I suggested to Billy that we check the Lonely Planet (we copied Lonely Planet Southern Africa ebooks from Rashid) to see if we can't find anything cheaper. Well, my mistake, we didn't find anything cheaper that was next to the river and by the time we returned to the first campsite, it was fully booked.&nbsp; <br><br>Our only option being left was the Backpacker's in town, we pitched our tent in their garden (much cheaper, but minus the beautiful river view).<br><br></p><div class="slideshow cut">
+	<div id="yoo-gallery-1" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-1-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/zam/1/1._entering_zambia.JPG" title="1. Entering Zambia" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/zam/1/thumbs/thumb_1._entering_zambia.JPG" alt="1. Entering Zambia" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/zam/1/2._zambezi_river.JPG" title="2. Zambezi River" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/zam/1/thumbs/thumb_2._zambezi_river.JPG" alt="2. Zambezi River" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/zam/1/3._victoria_falls.JPG" title="3. Victoria Falls" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/zam/1/thumbs/thumb_3._victoria_falls.JPG" alt="3. Victoria Falls" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-1-con', 'yoo-gallery-1-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script><br><br>The next morning we took the Backpacker's free van to the Victoria Falls. It is dry season now, so from the Zambian side the falls were impressive, but not as big as you usually see on photos. We saw a photo once in a bookshop of a guy sitting in a pool on the fall's edge and then decided we really have to do that. The name of that pool is Devil's pool, it's a natural pool in the rocks where the water does not flow as strong as the rest of the river. It was expensive to go there (about R200 each), but this time I did not fight for the cheaper option again and we definately got our money's worth. The "package" included free drinks and a guide that took you to the pool and another guy that takes photos with your camera. We jumped in from the rocks and then sat on the edge of the top of the Vic falls! The view was amazing, the only thing that was not so nice were little fish in the water that kept nibbling on our legs and toes.<br><br><div class="slideshow cut">
+	<div id="yoo-gallery-2" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-2-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/zam/2/1._claudine_leaps_into_devils_pool.JPG" title="1. Claudine Leaps Into Devils Pool" class="yoo-gallery-2-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/zam/2/thumbs/thumb_1._claudine_leaps_into_devils_pool.JPG" alt="1. Claudine Leaps Into Devils Pool" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/zam/2/2._sitting_on_the_edge_of_the_victoria_falls.JPG" title="2. Sitting On The Edge Of The Victoria Falls" class="yoo-gallery-2-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/zam/2/thumbs/thumb_2._sitting_on_the_edge_of_the_victoria_falls.JPG" alt="2. Sitting On The Edge Of The Victoria Falls" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/zam/2/3._billy_leaps_into_devils_pool.JPG" title="3. Billy Leaps Into Devils Pool" class="yoo-gallery-2-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/zam/2/thumbs/thumb_3._billy_leaps_into_devils_pool.JPG" alt="3. Billy Leaps Into Devils Pool" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-2-con', 'yoo-gallery-2-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script><br><br>We also met an interesting guy from Brazil, who was there because he won a plane ticket to South Africa in a lucky draw at a supermarket.<p></p><p>&nbsp;</p><!-- START of joscomment -->
+	<div class="write_comment">
+		<a href="http://622208.com/expeditions/cape-2-cape/diary-updates/206-into-zambia-livingstone#JOSC_TOP" class="readon">Write comment (1 Comment)</a>
+	</div>
+	
+<!-- END of joscomment -->	
+			
+		
+	</div>
+</div>				</div>
+		
+		<div class="teaserarticles"><div class=" float-left width100">
+<div class="item ">
+	<div class="item-bg">
+	
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/expeditions/cape-2-cape/diary-updates/205-rundu-to-katima">Rundu to Katima</a>
+							</h1>
+					
+					
+						<span class="icon email">
+				<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovLzYyMjIwOC5jb20vZXhwZWRpdGlvbnMvY2FwZS0yLWNhcGUvZGlhcnktdXBkYXRlcy8yMDUtcnVuZHUtdG8ta2F0aW1h" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/yoo_waybeyond/images/emailButton.png" alt="E-mail"></a>			</span>
+					
+						<span class="icon print">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=205:rundu-to-katima&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/printButton.png" alt="Print"></a>			</span>
+					
+						<span class="icon pdf">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=205:rundu-to-katima&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/pdf_button.png" alt="PDF"></a>			</span>
+						
+		</div>
+			
+				
+			
+			
+		<p class="articleinfo">
+	
+						<span class="created">
+				Tuesday, 10 November 2009 00:00			</span>
+				
+						<span class="modified">
+				Last Updated on Thursday, 12 November 2009 21:54			</span>
+					
+						<span class="author">
+				Written by Billy van Graan			</span>
+				
+				
+		</p>
+	
+				
+		<p>The previous night we spent with our couchsurfing hosts in Rundu, Ben and Kerry. They are also part of the Peace Corps from the USA, and know Rashid and Jen from Keetmanshoop. Ben is a man of many talents, the first one is that he is a great chef and he proved this by cooking us a delicious chicken curry. He is also a musician and played us some songs he recorded with only his laptop, a guitar, some cymbals and his voice. It was impressively good music, so if you ever in the future hear a song from Ben Selgrin over the radio - we know him! <br><br>We left quite early in the morning, but nevertheless, the 500km ride to Katima took us a long time and we only arrived there at 16:30. It was interesting to see how the landscape keeps changing, from semi desert and dusty, dry roads, to typical savannah and bushveld and now even greener with more trees. We passed through the Kaprivi wild reserve and were very hopeful to see some elephants, because everyone had told us there are plenty in that region. Warning signs along the road also told us this, but we were unlucky and only saw a herd of buffalo.<br><br></p><div class="slideshow cut">
+	<div id="yoo-gallery-3" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-3-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/8/1._poor_kid_near_caprivi.JPG" title="1. Poor Kid Near Caprivi" class="yoo-gallery-3-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/8/thumbs/thumb_1._poor_kid_near_caprivi.JPG" alt="1. Poor Kid Near Caprivi" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/8/2._okovango.JPG" title="2. Okovango" class="yoo-gallery-3-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/8/thumbs/thumb_2._okovango.JPG" alt="2. Okovango" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/8/3._caprivi_road.JPG" title="3. Caprivi Road" class="yoo-gallery-3-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/8/thumbs/thumb_3._caprivi_road.JPG" alt="3. Caprivi Road" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-3-con', 'yoo-gallery-3-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script><br><br>The road was long, hot and humid and the heat was only broken in the afternoon by a nice rain shower. We were really happy with the campsite at Katima, it was well kept, with green grass everywhere and we could pitch our tent right next to the Zambezi river.&nbsp; &nbsp;<br><br><div class="slideshow cut">
+	<div id="yoo-gallery-4" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-4-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/9/1._view_from_katima_campsite.JPG" title="1. View From Katima Campsite" class="yoo-gallery-4-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/9/thumbs/thumb_1._view_from_katima_campsite.JPG" alt="1. View From Katima Campsite" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/9/2._no_swimming_at_katima_campsite.JPG" title="2. No Swimming At Katima Campsite" class="yoo-gallery-4-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/9/thumbs/thumb_2._no_swimming_at_katima_campsite.JPG" alt="2. No Swimming At Katima Campsite" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/9/3._sunset_over_the_zambizi.JPG" title="3. Sunset Over The Zambizi" class="yoo-gallery-4-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/9/thumbs/thumb_3._sunset_over_the_zambizi.JPG" alt="3. Sunset Over The Zambizi" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-4-con', 'yoo-gallery-4-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script> <p></p><!-- START of joscomment -->
+	<div class="write_comment">
+		<a href="http://622208.com/expeditions/cape-2-cape/diary-updates/205-rundu-to-katima#JOSC_TOP" class="readon">Write comment (0 Comments)</a>
+	</div>
+	
+<!-- END of joscomment -->	
+			
+		
+	</div>
+</div>
+<div class="item ">
+	<div class="item-bg">
+	
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/expeditions/cape-2-cape/diary-updates/204-grootfontuin-to-rundu">Grootfontuin to Rundu</a>
+							</h1>
+					
+					
+						<span class="icon email">
+				<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovLzYyMjIwOC5jb20vZXhwZWRpdGlvbnMvY2FwZS0yLWNhcGUvZGlhcnktdXBkYXRlcy8yMDQtZ3Jvb3Rmb250dWluLXRvLXJ1bmR1" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/yoo_waybeyond/images/emailButton.png" alt="E-mail"></a>			</span>
+					
+						<span class="icon print">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=204:grootfontuin-to-rundu&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/printButton.png" alt="Print"></a>			</span>
+					
+						<span class="icon pdf">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=204:grootfontuin-to-rundu&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/pdf_button.png" alt="PDF"></a>			</span>
+						
+		</div>
+			
+				
+			
+			
+		<p class="articleinfo">
+	
+						<span class="created">
+				Monday, 09 November 2009 00:00			</span>
+				
+						<span class="modified">
+				Last Updated on Thursday, 12 November 2009 21:50			</span>
+					
+						<span class="author">
+				Written by Billy van Graan			</span>
+				
+				
+		</p>
+	
+				
+		Took Yuki this morning to a bike shop to get him fitted with a new set of tyres and to get his oil changed. I organized with the owner of the shop long before to have the tyres for me when I arrived. The only problem was the size was thinner than the previous tyre I had at the back. The front he had was identical.<br><br>He phoned his supplier to see if he can get the same size but the didn't have so we got the thinner tyre fitted. They changed the oil and also cleaned and re-lubed the chain. They were very nice guys and took special care with what they where doing with Yuki.<br><br>The owner of the shop confirmed that my bike has no catalyst and leaded petrol should work fine on the bike. Alexi came back to me and told me when they put anything in their Vstrom on their way down through Africa from Russia and had no problems. So that settles that issue. Hopefully.<br><br>After the work on Yuki was done we tackled the very straight 300km stretch to Rundu. Once we got in Rundu we stopped at an internet cafe I knew existed from last year when me and Jesse went through Rundu. The internet cafe used prepaid vouchers to top up there internet. The problem was that they never turned off their automatic updates and you only get 8MB for R10 (yup they also get screwed like South Africans by their telecommunications companies). 3x R10 vouchers where quickly finished and the internet stopped working before I could even get a second day's update done. <br><br><div class="slideshow cut">
+	<div id="yoo-gallery-5" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-5-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/7/1._bens_house_in_rundu.JPG" title="1. Bens House In Rundu" class="yoo-gallery-5-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/7/thumbs/thumb_1._bens_house_in_rundu.JPG" alt="1. Bens House In Rundu" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/7/2._ben_and_house_mate.JPG" title="2. Ben And House Mate" class="yoo-gallery-5-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/7/thumbs/thumb_2._ben_and_house_mate.JPG" alt="2. Ben And House Mate" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/7/3._rundu_club.JPG" title="3. Rundu Club" class="yoo-gallery-5-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/7/thumbs/thumb_3._rundu_club.JPG" alt="3. Rundu Club" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-5-con', 'yoo-gallery-5-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script> <br><br>I needed to contact our host in Rundu to let him know we were coming, but for some reason I couldn't phone with my cellphone. I walked a across the street to find a pay phone. The coin phone was out of order. I went into the shop to buy a card for the card phone. Then when I tried it the buttons didn't work. WIth the internet included I just spent R50 and got pretty much nothing for it. Obviously I was just a little bit upset. <br><br>This made me realize. I need to think differently on this trip. This if Africa. You need to think like this: Expect things NOT to work. That way you won't be disappointed when they - like most of the time - don't, and if they do you will be pleasantly surprised. &nbsp;<!-- START of joscomment -->
+	<div class="write_comment">
+		<a href="http://622208.com/expeditions/cape-2-cape/diary-updates/204-grootfontuin-to-rundu#JOSC_TOP" class="readon">Write comment (1 Comment)</a>
+	</div>
+	
+<!-- END of joscomment -->	
+			
+		
+	</div>
+</div>
+<div class="item ">
+	<div class="item-bg">
+	
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/expeditions/cape-2-cape/diary-updates/203-spitzkoppe">Spitzkoppe</a>
+							</h1>
+					
+					
+						<span class="icon email">
+				<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovLzYyMjIwOC5jb20vZXhwZWRpdGlvbnMvY2FwZS0yLWNhcGUvZGlhcnktdXBkYXRlcy8yMDMtc3BpdHprb3BwZQ%3D%3D" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/yoo_waybeyond/images/emailButton.png" alt="E-mail"></a>			</span>
+					
+						<span class="icon print">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=203:spitzkoppe&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/printButton.png" alt="Print"></a>			</span>
+					
+						<span class="icon pdf">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=203:spitzkoppe&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/pdf_button.png" alt="PDF"></a>			</span>
+						
+		</div>
+			
+				
+			
+			
+		<p class="articleinfo">
+	
+						<span class="created">
+				Friday, 06 November 2009 00:00			</span>
+				
+					
+						<span class="author">
+				Written by Claudine du Plessis			</span>
+				
+				
+		</p>
+	
+				
+		<strong>Total Distance: 4153</strong><br><br>Today we rode from Windhoek to the Spitzkoppen. It was not a very pleasant road, as they were busy fixing its numerous potholes and closed off the one lane.&nbsp; This meant that there were queues waiting for oncoming traffic which caused some delays. There was nowhere to stop, so we covered the first 150kms in one go.<br><br>On our way to the halfway town of Karibib, we passed a girl cyclist on a heavily loaded bicycle struggling her way in the Namibian heat and wind.&nbsp; We remarked that she is carrying more luggage than the both of us together.&nbsp; After shopping and ice cream at the Karibib OK, we covered the rest of the way.<br><br>30km from the Spitzkoppen, you turn onto a dirt road towards the campsite.&nbsp; Although the road was in good condition, it was a bit scary to feel how unstable it is with all the extra load. The Spitzkoppe are these enormous rocks that just rise out of the flat Namibian savannah, really a breathtaking sight.&nbsp; The campsite is basically the whole area between the rocks, you just camp where you want, preferably not too far from a long drop.<br><br><div class="slideshow cut">
+	<div id="yoo-gallery-6" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-6-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/4/1._having_a_beer_in_the_local_bar.jpg" title="1. Having A Beer In The Local Bar" class="yoo-gallery-6-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/4/thumbs/thumb_1._having_a_beer_in_the_local_bar.jpg" alt="1. Having A Beer In The Local Bar" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/4/2._mmm_tasty_snack.jpg" title="2. Mmm Tasty Snack" class="yoo-gallery-6-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/4/thumbs/thumb_2._mmm_tasty_snack.jpg" alt="2. Mmm Tasty Snack" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/4/3._donkeys_on_the_rocks.jpg" title="3. Donkeys On The Rocks" class="yoo-gallery-6-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/4/thumbs/thumb_3._donkeys_on_the_rocks.jpg" alt="3. Donkeys On The Rocks" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-6-con', 'yoo-gallery-6-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script> <br><br>We pitched our tent with a nice view of the rocks and then took a walk around towards the bar.&nbsp; While drinking our Windhoeks we chatted to a couple from Belgium who hitchiked all the way. The girl lived in the north of Namibia with a Herero tribe for three months. The purpose of this was for her thesis in Anthropology. She had some interesting stories about them. The guy volunteered in a Botswana wild reserve. &nbsp;<br><br>After watching a spectacular sunset, we had a dinner of spaghetti and soy mince which was not so spectacular. We were also amazed at how bright and clear the stars are out here. Later at night,our sleep was rudely interrupted by a donkey. At first I thought someone was sneaking around our campsite but when we started talking the donkey got startled and starting running around. The rest of the night it sounded like a herd of donkeys were having a party outside our tent and the next morning the Belgians told us they had the same experience.<br><br>The next day we got up early and went for a hike, climbing some rocks and looking at the Bushman paintings. Then we walked to the little village in search of bread, but only got some interesting company in a local shebeen. <br><br><div class="slideshow cut">
+	<div id="yoo-gallery-7" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-7-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/5/1._romance.jpg" title="1. Romance" class="yoo-gallery-7-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/5/thumbs/thumb_1._romance.jpg" alt="1. Romance" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/5/2._walking_on_huge_boulders_at_spitzkoppe.jpg" title="2. Walking On Huge Boulders At Spitzkoppe" class="yoo-gallery-7-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/5/thumbs/thumb_2._walking_on_huge_boulders_at_spitzkoppe.jpg" alt="2. Walking On Huge Boulders At Spitzkoppe" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/5/3._spitzkoppe.jpg" title="3. Spitzkoppe" class="yoo-gallery-7-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/5/thumbs/thumb_3._spitzkoppe.jpg" alt="3. Spitzkoppe" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-7-con', 'yoo-gallery-7-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script> <br><br>When we were back at the campsite, having lunch, we met the girl that we saw cycling on the way here.&nbsp; Her name is Jana from Germany and she has been cycling from the east of Botswana. Crazy German! Funny enough she also remarked that she saw us on the motorbike and thought that she had twice as much luggage as we did.&nbsp; &nbsp;<br><br>The afternoon we hiked some more and chased around some donkeys to get them back for last night. We ended the evening having beers with our neighbors and telling them all about our trip and getting tips about Norway etc. They where Germans doing and off road bike tour around the area.<!-- START of joscomment -->
+	<div class="write_comment">
+		<a href="http://622208.com/expeditions/cape-2-cape/diary-updates/203-spitzkoppe#JOSC_TOP" class="readon">Write comment (3 Comments)</a>
+	</div>
+	
+<!-- END of joscomment -->	
+			
+		
+	</div>
+</div>
+<div class="item ">
+	<div class="item-bg">
+	
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/expeditions/cape-2-cape/diary-updates/202-windhoek">Windhoek</a>
+							</h1>
+					
+					
+						<span class="icon email">
+				<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovLzYyMjIwOC5jb20vZXhwZWRpdGlvbnMvY2FwZS0yLWNhcGUvZGlhcnktdXBkYXRlcy8yMDItd2luZGhvZWs%3D" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/yoo_waybeyond/images/emailButton.png" alt="E-mail"></a>			</span>
+					
+						<span class="icon print">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=202:windhoek&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/printButton.png" alt="Print"></a>			</span>
+					
+						<span class="icon pdf">
+				<a href="/index.php?view=article&amp;catid=64:cape-2-cape-diary--updates&amp;id=202:windhoek&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_waybeyond/images/pdf_button.png" alt="PDF"></a>			</span>
+						
+		</div>
+			
+				
+			
+			
+		<p class="articleinfo">
+	
+						<span class="created">
+				Thursday, 05 November 2009 00:00			</span>
+				
+						<span class="modified">
+				Last Updated on Thursday, 05 November 2009 17:16			</span>
+					
+						<span class="author">
+				Written by Billy van Graan			</span>
+				
+				
+		</p>
+	
+				
+		<p><strong>Total Distance: 3853</strong><br><br>Rode from Keetmanshoop yesterday to Windhoek where we are staying with my cousin. When we left Keetmans I thought we had enough petrol to make it to the next petrol station and we indeed did. The only problem was that it closed down so we continued to the next town. The empty started flickering with 70km to go so I slowed down to 90km/h. We made the petrol station but just. I think it is a good think it happened now so that I know the distance it can go on a single tank.<br><br></p><div class="slideshow cut">
+	<div id="yoo-gallery-8" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-8-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/2/1._typical_namibian_river.JPG" title="1. Typical Namibian River" class="yoo-gallery-8-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/2/thumbs/thumb_1._typical_namibian_river.JPG" alt="1. Typical Namibian River" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/2/2._read_the_sign.JPG" title="2. Read The Sign" class="yoo-gallery-8-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/2/thumbs/thumb_2._read_the_sign.JPG" alt="2. Read The Sign" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/c2c/gallery/nam/2/3._road_near_windhoek.JPG" title="3. Road Near Windhoek" class="yoo-gallery-8-thumb">
+			<img src="http://622208.com/images/stories/c2c/gallery/nam/2/thumbs/thumb_3._road_near_windhoek.JPG" alt="3. Road Near Windhoek" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-8-con', 'yoo-gallery-8-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script><br><br>We passed a sign for The Tropic of Capricorn and pulled off for some photos. While taking them the wind blew my camera of the rock it was balanced on and the camera fell with the lens in the sand and because of this the lens cover didn't want to open or close anymore. I then started up the MP3 player which kept stoning because we had unsupported file types on it. I tried resetting it by pressing the tiny reset button with a piece of straw and it broke of inside the unit. I got on the bike and left as quick as possible before breaking anything else.<br><br>When we arrived in Windhoek we went for dinner at my aunt.<br><br>My bike says "Unleaded Fuel Only" on the tank but I read on the internet people running on leaded fuel without a problem. I went to Suzuki Windhoek today and asked them about this and they say it is fine I can run leaded fuel without any modifications to the bike like removing the catalyst. Not convinced I phoned around Suzuki shops in South Africa. The first guy said I needed to make a change to the bike but gave me the main technician phone number of Suzuki South Africa. I phoned him and he said nothing needs to be changed. Just to make even more sure I phoned the guys that serviced the bike the last time and they also said no changes is needed. I mailed Alexi who stayed with me last year about this because the guy who rode with him was on the same bike.<br><br>Tomorrow we will head to Spitzkoppe for 2 nights and then on to Grootfontein where I will get the tyres and oil changed.<br><br>Packing space is becoming a problem so I rearranged everything to see if I can't figure something out and while I was doing this I noticed Claudine has seven shirts packed in. Very soon we will have some happy locals.<p></p><p>&nbsp;</p><p>&nbsp;</p><!-- START of joscomment -->
+	<div class="write_comment">
+		<a href="http://622208.com/expeditions/cape-2-cape/diary-updates/202-windhoek#JOSC_TOP" class="readon">Write comment (3 Comments)</a>
+	</div>
+	
+<!-- END of joscomment -->	
+			
+		
+	</div>
+</div></div></div>
+				<div class="morearticles">
+			
+<h3>
+	More Articles...</h3>
+
+<ul>
+		<li>
+		<a href="/expeditions/cape-2-cape/diary-updates/201-into-namibia">Into Namibia</a>
+	</li>
+		<li>
+		<a href="/expeditions/cape-2-cape/diary-updates/200-to-springbok">To Springbok</a>
+	</li>
+		<li>
+		<a href="/expeditions/cape-2-cape/diary-updates/197-to-cape-agulhas">To Cape Agulhas</a>
+	</li>
+		<li>
+		<a href="/expeditions/cape-2-cape/diary-updates/199-cape-town">Cape Town</a>
+	</li>
+		<li>
+		<a href="/expeditions/cape-2-cape/diary-updates/198-to-vincent-in-cape-town">To Vincent in Cape Town</a>
+	</li>
+	</ul>		</div>
+		
+				<div class="pagination">
+						<p class="results">
+				Page 18 of 27			</p>
+						&lt;&lt; <a title="Start" href="/index.php" class="pagenav">Start</a> &lt; <a title="Prev" href="/index.php?start=80" class="pagenav">Prev</a> <a title="11" href="/index.php?start=50" class="pagenav">11</a> <a title="12" href="/index.php?start=55" class="pagenav">12</a> <a title="13" href="/index.php?start=60" class="pagenav">13</a> <a title="14" href="/index.php?start=65" class="pagenav">14</a> <a title="15" href="/index.php?start=70" class="pagenav">15</a> <a title="16" href="/index.php?start=75" class="pagenav">16</a> <a title="17" href="/index.php?start=80" class="pagenav">17</a> <span class="pagenav">18</span> <a title="19" href="/index.php?start=90" class="pagenav">19</a> <a title="20" href="/index.php?start=95" class="pagenav">20</a> <a title="Next" href="/index.php?start=90" class="pagenav">Next</a> &gt; <a title="End" href="/index.php?start=130" class="pagenav">End</a> &gt;&gt;		</div>
+		
+	</div>
+</div>
+											</div>
+			
+														
+										</div>
+									</div>
+									<!-- content end -->
+			
+								</div>
+								<!-- mainmiddle end -->
+			
+										
+							</div>
+		
+							<div class="main-bl">
+								<div class="main-br">
+									<div class="main-b"></div>
+								</div>
+							</div>
+		
+						</div>
+					</div>
+					<!-- main end -->
+		
+				</div>
+			</div>
+			<!-- middle end -->
+			
+			
+			<div id="footer">
+				<div class="floatbox"><a class="anchor" href="#page"></a></div>
+				Validates to <a href="http://validator.w3.org/check?uri=http://demo.yootheme.com/jan09" target="_blank">XHTML 1.0</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://demo.yootheme.com/jan09" target="_blank">CSS 2.1</a><br> Copyright © 2009 Billy-Joe van Graan
+				
+			</div>
+			<!-- footer end -->
+			
+		</div>
+	</div>
+
+
+</body></html>

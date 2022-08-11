@@ -1,0 +1,542 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Technology &amp; Internet | Advanced American Media Project - Part 2</title>
+		<style type="text/css" media="screen">@import url( http://aamproject.org/wp-content/themes/Advanced-Newspaper142/style.css );</style>
+	<link rel="stylesheet" href="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/styles/default.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/styles/custom.css" type="text/css" media="screen">
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://aamproject.org/feed">	
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://aamproject.org/feed/rss">	
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://aamproject.org/feed/atom">	
+	<link rel="pingback" href="http://aamproject.org/xmlrpc.php">	
+		<link rel="archives" title="September 2010" href="http://aamproject.org/date/2010/09">
+	<link rel="archives" title="August 2010" href="http://aamproject.org/date/2010/08">
+	<link rel="archives" title="July 2010" href="http://aamproject.org/date/2010/07">
+	<link rel="archives" title="June 2010" href="http://aamproject.org/date/2010/06">
+	<link rel="archives" title="May 2010" href="http://aamproject.org/date/2010/05">
+	<link rel="archives" title="April 2010" href="http://aamproject.org/date/2010/04">
+	<link rel="alternate" type="application/rss+xml" title="Advanced American Media Project » Technology &amp; Internet Category Feed" href="http://aamproject.org/category/technology-internet/feed">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="http://aamproject.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="http://aamproject.org/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/contentslider.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/jqueryslidemenu.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/jCarouselLite.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/tabber.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/flowplayer-3.1.4.min.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/cufon-yui.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/includes/js/aller.js?ver=3.0.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aamproject.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aamproject.org/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Advanced American Media Project" href="http://aamproject.org">
+<meta name="generator" content="WordPress 3.0.1, fitted with the WordPress Mobile Pack 1.2.3">
+
+<link rel="stylesheet" type="text/css" href="http://aamproject.org/wp-content/plugins/Viva-ThumbZoom/lib/v-zoom/viva-zoom.css">
+
+				<script type="text/javascript" src="http://aamproject.org/wp-content/plugins/Viva-ThumbZoom/lib/v-zoom/viva-zoom-mini.js"></script>
+            
+				<script type="text/javascript">
+               // 26f2c0bd88ed1fe0be78a57439b97490
+	 			vz.graphicsDir = 'http://aamproject.org/wp-content/plugins/Viva-ThumbZoom/lib/v-zoom/graphics/';
+
+	    		vz.outlineType = 'rounded-white';
+
+			</script>
+<!--[if IE]>
+<style type="text/css">
+ul.addtoany_list a img{filter:alpha(opacity=70)}
+ul.addtoany_list a:hover img,ul.addtoany_list a.addtoany_share_save img{filter:alpha(opacity=100)}
+</style>
+<![endif]-->
+
+<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[301,379] -->
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="http://aamproject.org/category/technology-internet/page/2/">
+<!-- /all in one seo pack -->
+
+<link rel="stylesheet" href="http://aamproject.org/wp-content/plugins/dd-formmailer/dd-formmailer.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="http://aamproject.org/wp-content/plugins/dd-formmailer/date_chooser.js"></script>
+<link rel="stylesheet" type="text/css" href="http://aamproject.org/wp-content/plugins/social-media-widget/social_widget.css">
+
+			<link rel="stylesheet" type="text/css" href="http://aamproject.org/index.php?ak_action=aktt_css&amp;v=2.4">
+			<script type="text/javascript" src="http://aamproject.org/index.php?ak_action=aktt_js&amp;v=2.4"></script>
+				<!-- Meta Manager Start -->
+		<meta name="google-site-verification" content="Cyy8RXCV4F14ro_0v44bZ78iocgwBy4iFybJIzu36Fs">
+		<!-- Meta Manager End -->
+		
+	</head>
+
+<body>
+
+
+<div id="wrapper">
+
+	<div id="masthead">
+								<ul>
+					<li><a href="#">Stay Connected</a>
+						<ul>
+							<li><a class="gab_rss" href="http://aamproject.org/feed" rel="nofollow" title="Subscribe to latest posts in RSS">Latest Posts in RSS</a>
+								<ul>
+									<li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/business-finance/feed">Business &amp; Finance</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/featured/feed">Featured</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/health/feed">Health</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/political-news/feed">Political News</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/press-releases/feed">Press Releases</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/sports-news/feed">Sports News</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/technology-internet/feed">Technology &amp; Internet</a></li><li><a class="gab_rss" rel="nofollow" href="http://aamproject.org/category/tv-movies/feed">TV &amp; Movies</a></li>				
+								</ul>
+							</li>
+							<li><a class="gab_rss" href="http://aamproject.org/comments/feed" rel="nofollow" title="Subscribe to latest comments in RSS">Latest Comments in RSS</a></li>
+																											</ul>
+					</li>
+					<li> / <script type="text/javascript">
+							var mydate=new Date()
+							var year=mydate.getYear()
+							if (year < 1000)
+							year+=1900
+							var day=mydate.getDay()
+							var month=mydate.getMonth()
+							var daym=mydate.getDate()
+							if (daym<10)
+							daym="0"+daym
+							var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+							var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+							document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
+						</script>
+					</li>
+				</ul>
+							<div id="search"><form id="searchform" action="http://aamproject.org">
+	<fieldset>
+		<input type="text" id="s" name="s" value="Search in site..." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+		<input type="image" id="searchsubmit" src="http://aamproject.org/wp-content/themes/Advanced-Newspaper142/images/button_go.gif" alt="Search in site..." value=""> 
+	</fieldset>
+</form></div>
+		<div class="clear"></div>
+	</div><!-- enf od Masthead -->
+	<!-- #Header -->
+	<div id="header">
+	<!-- If image is activated to be displayed as logo -->
+	
+	<!-- If text is activated to be displayed as logo -->
+		<div id="sitename">
+		<a href="http://aamproject.org" class="name">
+			<span id="name1stRow">AAMP News</span>
+			<span id="name2ndRow">Daily News Source</span>
+		</a>
+	</div>
+	
+	<div id="ad468x60">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-8097953943416291";
+/* 468x60, created 8/8/10 */
+google_ad_slot = "0172638789";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>
+	<div class="clear"></div>
+</div>	<!-- // header -->
+	
+	<div class="clear"></div>		
+	
+	<div id="navcats">
+										<ul>
+						<li><a href="http://aamproject.org" title="">Home</a></li>
+							<li class="cat-item cat-item-3"><a href="http://aamproject.org/category/business-finance" title="View all posts filed under Business &amp; Finance">Business &amp; Finance</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://aamproject.org/category/health" title="View all posts filed under Health">Health</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://aamproject.org/category/political-news" title="View all posts filed under Political News">Political News</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://aamproject.org/category/press-releases" title="View all posts filed under Press Releases">Press Releases</a>
+</li>
+	<li class="cat-item cat-item-9 current-cat"><a href="http://aamproject.org/category/technology-internet" title="View all posts filed under Technology &amp; Internet">Technology &amp; Internet</a>
+</li>
+					</ul>
+			 				<div class="clear"></div>
+	</div>
+	
+	<div id="navpages">
+										<ul>
+						<li class="page_item page-item-60"><a href="http://aamproject.org/writers" title="Writers">Writers</a></li>
+<li class="page_item page-item-2"><a href="http://aamproject.org/about" title="About">About</a></li>
+<li class="page_item page-item-5"><a href="http://aamproject.org/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li class="page_item page-item-6"><a href="http://aamproject.org/contact-us" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-1224"><a href="http://aamproject.org/submit-your-press-release-to-us" title="Submit Your Press Release To Us">Submit Your Press Release To Us</a></li>
+					</ul>
+			 				<div class="clear"></div>
+	</div>
+	
+<div class="clear"></div>	
+
+<div id="innerContent">
+	
+	<div id="innerLeft">
+		
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/india-develops-35-tablet/659" title="India Develops $35 Tablet" rel="bookmark">India Develops $35 Tablet</a></h2>
+
+		
+			<a href="http://aamproject.org/india-develops-35-tablet/659"><img width="50" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/cheapest-computer.jpg" class="alignleft wp-post-image" alt="cheapest computer" title="cheapest computer"></a><p>Released on Thursday, July 22, 2010, India’s Human Resource Development Minister Kapil Sibal introduced the world to the cheapest tablet pc.&nbsp; At just $35, including everything from the display, processor, memory and all components, the device is aimed at students in India.&nbsp; Sibal hopes that they will be able to begin production on the computer [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+var a2a_config = a2a_config || {};
+a2a_config.linkname="India Develops $35 Tablet";
+a2a_config.linkurl="http://aamproject.org/india-develops-35-tablet/659";
+//--></script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 23 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/india-develops-35-tablet/659" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/iphone-on-t-mobile-internet-rumor/652" title="iPhone on T-Mobile – Internet Rumor" rel="bookmark">iPhone on T-Mobile – Internet Rumor</a></h2>
+
+		
+			<a href="http://aamproject.org/iphone-on-t-mobile-internet-rumor/652"><img width="65" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/iphone_3g.jpg" class="alignleft wp-post-image" alt="iphone_3g" title="iphone_3g"></a><p>It’s possible that the iPhone may be making it’s way over to T-Mobile sometime in the future.&nbsp; What’s just speculation now looks as though it’s a much more reasonable proposition than seeing the phone on the Verizon network.&nbsp; Because of major compatibility issues between Verizon and AT&amp;T, T-Mobile would be a much better fit for [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="iPhone on T-Mobile &#8211; Internet Rumor";
+a2a_config.linkurl="http://aamproject.org/iphone-on-t-mobile-internet-rumor/652";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 22 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/iphone-on-t-mobile-internet-rumor/652" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/kid-swaps-cell-phone-for-porsche/620" title="Kid Swaps Cell Phone For Porsche" rel="bookmark">Kid Swaps Cell Phone For Porsche</a></h2>
+
+		
+			<a href="http://aamproject.org/kid-swaps-cell-phone-for-porsche/620"><img width="86" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/2000-porsche-boxster.jpg" class="alignleft wp-post-image" alt="2000 porsche boxster" title="2000 porsche boxster"></a><p>Steven Ortiz recently made an interesting swap on Craigslist: a free cell phone given to him by a friend for a 2000 Porsche Boxster.&nbsp; Well, it didn’t go down exactly like that.&nbsp; Over the past two years, Ortiz has been trading up items, starting with a free cell phone his friend gave him, finding people [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="Kid Swaps Cell Phone For Porsche";
+a2a_config.linkurl="http://aamproject.org/kid-swaps-cell-phone-for-porsche/620";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 21 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/kid-swaps-cell-phone-for-porsche/620" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/dell-streak-debuting-in-one-week/606" title="Dell Streak Debuting In One Week" rel="bookmark">Dell Streak Debuting In One Week</a></h2>
+
+		
+			<a href="http://aamproject.org/dell-streak-debuting-in-one-week/606"><img width="90" height="63" src="http://aamproject.org/wp-content/uploads/2010/07/dell-streak.jpg" class="alignleft wp-post-image" alt="dell streak" title="dell streak"></a><p>The latest addition to the family of Android powered devices is the Dell Streak, a lightweight portable tablet PC.&nbsp; The streak is just slightly larger than the recently released Motorola Droid X, at 5 inches, and features a similar 1Ghz Snapdragon processor.&nbsp; With both WiFi as well as built in GSM capabilities, the Dell streak [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="Dell Streak Debuting In One Week";
+a2a_config.linkurl="http://aamproject.org/dell-streak-debuting-in-one-week/606";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 20 2010 | Posted in <a href="http://aamproject.org/category/featured" title="View all posts in Featured" rel="category tag">Featured</a>,<a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/dell-streak-debuting-in-one-week/606" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/windows-phone-may-be-too-restrictive/590" title="Windows Phone May Be Too Restrictive" rel="bookmark">Windows Phone May Be Too Restrictive</a></h2>
+
+		
+			<a href="http://aamproject.org/windows-phone-may-be-too-restrictive/590"><img width="70" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/windows-phone-7.jpg" class="alignleft wp-post-image" alt="windows phone 7" title="windows phone 7"></a><p>Windows Phone 7, which will be available on smartphones by this holiday season, has several strict requirements imposed by Microsoft on the phone manufacturers.&nbsp; Features such as the Bing button, as well as the approval of apps and a proprietary app store much like Apple seem to be the reason that Apple and RIM have [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="Windows Phone May Be Too Restrictive";
+a2a_config.linkurl="http://aamproject.org/windows-phone-may-be-too-restrictive/590";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 19 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/windows-phone-may-be-too-restrictive/590" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/smartphone-manufacturers-respond-to-jobs-accusations/586" title="Smartphone Manufacturers Respond To Jobs’ Accusations" rel="bookmark">Smartphone Manufacturers Respond To Jobs’ Accusations</a></h2>
+
+		
+			<a href="http://aamproject.org/smartphone-manufacturers-respond-to-jobs-accusations/586"><img width="79" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/steve-jobs.jpg" class="alignleft wp-post-image" alt="steve jobs" title="steve jobs"></a><p>In the press conference held Friday, July 16, Steve Jobs mentioned that models made by Motorola, RIM, Samsung and HTC all had similar signal problems and “weak spots” on various models produced by these manufacturers.&nbsp; Today, all of the cell phone makers have responded, saying there are no such problems with their devices.&nbsp; All of [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="Smartphone Manufacturers Respond To Jobs&#8217; Accusations";
+a2a_config.linkurl="http://aamproject.org/smartphone-manufacturers-respond-to-jobs-accusations/586";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 19 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/smartphone-manufacturers-respond-to-jobs-accusations/586" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/steve-jobs-at-apple-press-conference/561" title="Steve Jobs At Apple Press Conference" rel="bookmark">Steve Jobs At Apple Press Conference</a></h2>
+
+		
+			<a href="http://aamproject.org/steve-jobs-at-apple-press-conference/561"><img width="90" height="55" src="http://aamproject.org/wp-content/uploads/2010/07/iphone-4-press-conference.jpg" class="alignleft wp-post-image" alt="iphone 4 press conference" title="iphone 4 press conference"></a><p>Steve Jobs addressed members of the press Friday, July 16, with some interesting news about the iPhone and it’s touted antenna problem.&nbsp; The CEO admitted during the conference that “it’s fun to have a story,” but that it’s not so much fun “being on the other side,” of that story.&nbsp; The press conference was a [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="Steve Jobs At Apple Press Conference";
+a2a_config.linkurl="http://aamproject.org/steve-jobs-at-apple-press-conference/561";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 17 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/steve-jobs-at-apple-press-conference/561" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/firefox-home-released-for-the-iphone/524" title="FireFox Home Released For The iPhone" rel="bookmark">FireFox Home Released For The iPhone</a></h2>
+
+		
+			<a href="http://aamproject.org/firefox-home-released-for-the-iphone/524"><img width="67" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/firefox-home.jpg" class="alignleft wp-post-image" alt="firefox home" title="firefox home"></a><p>The announcement of FireFox Home for the iPhone was announced in May, 2010, and it’s finally here for users to enjoy.&nbsp; Unfortunately, for those who are looking for a complete replacement of their Mobile Safari browser, this is not it.&nbsp; In fact, there will never be an officially sponsored browser replacement through the app store.&nbsp; [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="FireFox Home Released For The iPhone";
+a2a_config.linkurl="http://aamproject.org/firefox-home-released-for-the-iphone/524";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 16 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/firefox-home-released-for-the-iphone/524" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/iphone-4-ios-4-0-1-update-what-it-does-and-doesnt-do/520" title="iPhone 4 iOS 4.0.1 Update – What It Does And Doesn’t Do" rel="bookmark">iPhone 4 iOS 4.0.1 Update – What It Does And Doesn’t Do</a></h2>
+
+		
+			<a href="http://aamproject.org/iphone-4-ios-4-0-1-update-what-it-does-and-doesnt-do/520"><img width="43" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/ios-4.0.1.jpg" class="alignleft wp-post-image" alt="ios 4.0.1" title="ios 4.0.1"></a><p>iPhone 4 users have been waiting anxiously for the newest version of iOS 4, 4.0.1.&nbsp; Users who have been plagued by the bad reception and hardware issue resulting in loss of signal have been hoping that the new software would ease the problem, or make it go away completely.&nbsp; Unfortunately, for those who are having [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="iPhone 4 iOS 4.0.1 Update &#8211; What It Does And Doesn&#8217;t Do";
+a2a_config.linkurl="http://aamproject.org/iphone-4-ios-4-0-1-update-what-it-does-and-doesnt-do/520";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 16 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/iphone-4-ios-4-0-1-update-what-it-does-and-doesnt-do/520" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+
+	<div class="post">
+		<h2 class="archiveTitle"><a href="http://aamproject.org/motorola-droid-x-now-available/503" title="Motorola Droid X Now Available" rel="bookmark">Motorola Droid X Now Available</a></h2>
+
+		
+			<a href="http://aamproject.org/motorola-droid-x-now-available/503"><img width="65" height="65" src="http://aamproject.org/wp-content/uploads/2010/07/motorola-droid-x.jpg" class="alignleft wp-post-image" alt="motorola droid x" title="motorola droid x"></a><p>If you’ve been waiting to get your hands on one of the new Motorola Droid X smartphone from Verizon, today is the day to act.&nbsp; The phones went on sale this morning at 9am when Verizon stores opened, as well as at Best Buy.&nbsp; The cost of ownership is $199 after $100 mail in rebate.&nbsp; [...]</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://aamproject.org/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+a2a_config.linkname="Motorola Droid X Now Available";
+a2a_config.linkurl="http://aamproject.org/motorola-droid-x-now-available/503";
+a2a.init('page');
+//--></script>
+
+</div>				
+		<div class="postinfo">
+			Jul 15 2010 | Posted in <a href="http://aamproject.org/category/technology-internet" title="View all posts in Technology &amp; Internet" rel="category tag">Technology &amp; Internet</a> | <a href="http://aamproject.org/motorola-droid-x-now-available/503" rel="bookmark">Read More »</a>
+		</div>
+	</div>
+			
+		<div class="navigation">
+			<a href="http://aamproject.org/category/technology-internet/">« Previous Page</a> — <a href="http://aamproject.org/category/technology-internet/page/3">Next Page »</a>		</div>
+	</div>
+	
+	<div id="wideSidebar">
+	<script type="text/javascript"><!--
+google_ad_client = "pub-8097953943416291";
+/* 300x250, created 8/8/10 */
+google_ad_slot = "5771055998";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>					
+					
+				
+		<div class="widget wideSidebarWidget">
+			<h3 class="widgetbgTitle">Recent Entries</h3>
+			<ul>
+					<li><a href="http://aamproject.org/consumers-wanting-to-buy-organic-chicken-in-virginia-turn-to-natures-choice-farms/2209" title="Consumers Wanting To Buy Organic Chicken In Virginia Turn to Nature’s Choice Farms">Consumers Wanting To Buy Organic Chicken In Virginia Turn to Nature’s Choice Farms</a></li>
+	<li><a href="http://aamproject.org/traffic-siphon-huge-bonus-package-review/2203" title="Traffic Siphon – Huge Bonus Package  &amp; Review">Traffic Siphon – Huge Bonus Package  &amp; Review</a></li>
+	<li><a href="http://aamproject.org/jackie-evancho-a-heavenly-voice/2194" title="Jackie Evancho, A Heavenly Voice">Jackie Evancho, A Heavenly Voice</a></li>
+	<li><a href="http://aamproject.org/her-dream-diamond%e2%80%9d-to-give-away-free-pair-of-diamond-earrings/2189" title="“Her Dream Diamond” to Give Away Free Pair of Diamond Earrings">“Her Dream Diamond” to Give Away Free Pair of Diamond Earrings</a></li>
+	<li><a href="http://aamproject.org/biometric-gun-safe-site-released/2182" title="Biometric Gun Safe Site Released">Biometric Gun Safe Site Released</a></li>
+	<li><a href="http://aamproject.org/formstack-makes-creating-wordpress-online-forms-simple/2176" title="FormStack Makes Creating WordPress Online Forms Simple">FormStack Makes Creating WordPress Online Forms Simple</a></li>
+	<li><a href="http://aamproject.org/back-pain-can-be-treated-economically-with-inversion-therapy/2169" title="Back Pain Can Be Treated Economically With Inversion Therapy">Back Pain Can Be Treated Economically With Inversion Therapy</a></li>
+	<li><a href="http://aamproject.org/traffic-siphon-mega-bonus-package-review-dont-buy-until-you-see-my-bonus-package/2163" title="Traffic Siphon – Mega Bonus Package &amp; Review – Don’t Buy Until You See My Bonus Package">Traffic Siphon – Mega Bonus Package &amp; Review – Don’t Buy Until You See My Bonus Package</a></li>
+	<li><a href="http://aamproject.org/announcing-the-eco-friendly-coffee-tips-widget-to-raise-awareness-about-coffee-and-environmental-sustainability/2156" title="Announcing the “Eco Friendly Coffee Tips” Widget to Raise Awareness About Coffee and Environmental Sustainability">Announcing the “Eco Friendly Coffee Tips” Widget to Raise Awareness About Coffee and Environmental Sustainability</a></li>
+	<li><a href="http://aamproject.org/petaluma-ca-company-recognized-as-one-of-nations-top-replacement-window-contractors-by-remodeling-magazine/2140" title="Petaluma, CA Company Recognized As One Of Nation’s Top Replacement Window Contractors By Remodeling Magazine">Petaluma, CA Company Recognized As One Of Nation’s Top Replacement Window Contractors By Remodeling Magazine</a></li>
+			</ul>
+		</div>
+				
+				
+				<div class="widget wideSidebarWidget">
+			<h3 class="widgetbgTitle">Search Archive</h3>
+			<span>Search by Date</span>
+			<form id="archiveform" action="http://aamproject.org" method="get"> 
+				<select name="archive_chrono" onchange="window.location = (document.forms.archiveform.archive_chrono[document.forms.archiveform.archive_chrono.selectedIndex].value);">
+				<option value="">Select Month</option>
+					<option value="http://aamproject.org/date/2010/09"> September 2010 </option>
+	<option value="http://aamproject.org/date/2010/08"> August 2010 </option>
+	<option value="http://aamproject.org/date/2010/07"> July 2010 </option>
+	<option value="http://aamproject.org/date/2010/06"> June 2010 </option>
+	<option value="http://aamproject.org/date/2010/05"> May 2010 </option>
+	<option value="http://aamproject.org/date/2010/04"> April 2010 </option>
+				</select>
+			</form>
+		
+			<span>Search by Category</span>
+			<form id="searchCat" action="http://aamproject.org" method="get"> 
+				<select name="cat" id="cat" class="postform">
+	<option class="level-0" value="3">Business &amp; Finance&nbsp;&nbsp;(58)</option>
+	<option class="level-0" value="1">Featured&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="5">Health&nbsp;&nbsp;(42)</option>
+	<option class="level-0" value="6">Political News&nbsp;&nbsp;(39)</option>
+	<option class="level-0" value="7">Press Releases&nbsp;&nbsp;(81)</option>
+	<option class="level-0" value="8">Sports News&nbsp;&nbsp;(31)</option>
+	<option class="level-0" value="9" selected="selected">Technology &amp; Internet&nbsp;&nbsp;(44)</option>
+	<option class="level-0" value="4">TV &amp; Movies&nbsp;&nbsp;(36)</option>
+</select>
+			</form>
+			
+			<script type="text/javascript"><!--
+				var dropdown = document.getElementById("cat");
+				function onCatChange() {
+					if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+						location.href = "http://aamproject.org/?cat="+dropdown.options[dropdown.selectedIndex].value;
+					}
+				}
+				dropdown.onchange = onCatChange;
+			--></script>
+					
+			<span>Search with Google</span>
+			<form method="get" action="http://www.google.com/search">
+				<input name="q" maxlength="255" value="Write keyword and hit return" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" id="googlequery"> 
+				<input type="hidden" name="sitesearch" value="http://aamproject.org">
+			</form>
+		</div>
+				
+		
+</div>
+	<div class="clear"></div>
+</div><!-- Enf of innerContent -->
+
+<div id="narrowSidebar">
+	<div id="text-12" class="widget narrowSidebarWidget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-8097953943416291";
+/* 120x600, created 8/8/10 */
+google_ad_slot = "1315926493";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div>	
+		
+		
+	<script type="text/javascript"><!--
+google_ad_client = "pub-8097953943416291";
+/* 120x600, created 8/8/10 */
+google_ad_slot = "1315926493";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	
+
+</div>
+
+<div class="clear"></div>
+
+<div id="footerCatBar">
+		
+						<ul>
+						<li class="cat-item cat-item-3"><a href="http://aamproject.org/category/business-finance" title="View all posts filed under Business &amp; Finance">Business &amp; Finance</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://aamproject.org/category/health" title="View all posts filed under Health">Health</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://aamproject.org/category/political-news" title="View all posts filed under Political News">Political News</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://aamproject.org/category/press-releases" title="View all posts filed under Press Releases">Press Releases</a>
+</li>
+	<li class="cat-item cat-item-9 current-cat"><a href="http://aamproject.org/category/technology-internet" title="View all posts filed under Technology &amp; Internet">Technology &amp; Internet</a>
+</li>
+				</ul>
+		 	</div>
+
+<div id="footerPages">
+					<ul>
+				<li class="page_item page-item-60"><a href="http://aamproject.org/writers" title="Writers">Writers</a></li>
+<li class="page_item page-item-2"><a href="http://aamproject.org/about" title="About">About</a></li>
+<li class="page_item page-item-5"><a href="http://aamproject.org/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li class="page_item page-item-6"><a href="http://aamproject.org/contact-us" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-1224"><a href="http://aamproject.org/submit-your-press-release-to-us" title="Submit Your Press Release To Us">Submit Your Press Release To Us</a></li>
+				<li><a href="http://aamproject.org/feed">RSS</a></li>
+			</ul>
+			<span id="themeInfo">
+			
+		<a href="http://aamproject.org/wp-login.php">Log in</a>		 | Designed by <a href="http://www.gabfirethemes.com/">Gabfire themes</a>
+				
+<!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-17230861-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+		<!-- Advertising Manager v3.4.19 (0.678 seconds.) -->
+	</span>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17230861-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6100927; 
+var sc_invisible=1; 
+var sc_security="ceb45209"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="joomla statistics" href="http://www.statcounter.com/joomla/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/6100927/0/ceb45209/1/" alt="joomla statistics"></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+<script type="text/javascript"> Cufon.now(); </script>
+
+</div><!-- enf od wrapper -->
+
+
+</body></html>

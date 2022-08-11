@@ -1,0 +1,274 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Electronic Announcement Detail | American Astronomical Society</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/files/logos/AAS_Star_Logo_85_black.png" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fckeditor/fckeditor.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/switchtheme/switchtheme.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/print/css/printlinks.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/files/color/pixture-be1423fd/style.css?T">
+  <script type="text/javascript" src="/misc/jquery.js?T"></script>
+<script type="text/javascript" src="/misc/drupal.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?T"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/themes/pixture/fix-ie.css";</style>
+    <![endif]-->
+    <style type="text/css" media="all">@import "/files/styles/style_custom_ids_and_classes.css";</style>
+    <style type="text/css" media="all">@import "/files/styles/style_custom_tags.css";</style>
+  <script type="text/javascript"></script>
+</head>
+
+<body>
+
+<div id="wrapper" style="width: 95%;">
+
+<div id="container">
+
+<table border="0" cellpadding="0" cellspacing="0" id="header">
+<tbody><tr>
+    <td id="logo" valign="top" rowspan="2">
+      <a href="/" title="Home"><img src="/files/logos/AAS_Star_Logo_85_white_border.png" alt="Home"></a>  </td>
+  <td id="site_name">
+      <h1 class="site-name"><a href="/" title="Home">American Astronomical Society</a></h1>      <div class="site-slogan">Advocates for science since 1899</div>    </td>
+    <td id="site_search">
+      <form action="/publications/exploder_detail.php?ExploderID=206" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-0c56502d2891bde29741cab4bd9d4086" value="form-0c56502d2891bde29741cab4bd9d4086">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+  </td>
+</tr>
+<tr>
+    <td id="menu" colspan="2">
+            <ul class="links" id="navlist"><li class="menu-977 first"><a href="https://members.aas.org/contributions/" title="">Donate</a></li>
+<li class="menu-211"><a href="http://members.aas.org/JobReg/" title="">Job Register</a></li>
+<li class="menu-209"><a href="http://members.aas.org/directory/" title="">Member Directory</a></li>
+<li class="menu-210"><a href="http://members.aas.org/" title="">Member Pages</a></li>
+<li class="menu-772"><a href="/contact" title="">Contact Us</a></li>
+<li class="menu-537"><a href="/calendar" title="AAS Calendar Online">Calendar</a></li>
+<li class="menu-208"><a href="/journals" title="">Journals Home</a></li>
+<li class="menu-282 last"><a href="/help_about/faq.php" title="Frequently Asked Questions">FAQ</a></li>
+</ul>    </td>
+</tr>
+<tr>
+    <td colspan="3"><div></div></td>
+</tr>
+</tbody></table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" id="content">
+  <tbody><tr>
+
+    <td id="sidebar-left" class="sidebar">
+    <table id="block-menu-secondary-links" class="clear-block block block-menu">
+<tbody><tr>
+  <td class="block-tl"></td>
+  <td class="block-tc">
+          <h2>Main Menu</h2>
+      </td>
+  <td class="block-tr"></td>
+</tr>
+<tr>
+  <td class="block-bl"></td>
+  <td class="block-bc">
+    <div class="content"><ul class="menu"><li class="collapsed first"><a href="/staff" title="About AAS Executive Office">About AAS</a></li>
+<li class="collapsed"><a href="/career" title="Career Services">Career Services</a></li>
+<li class="leaf"><a href="/comms" title="Committees, Boards, Working Groups, Editors">Committees</a></li>
+<li class="collapsed"><a href="/contact" title="AAS Contacts">Contact AAS</a></li>
+<li class="collapsed"><a href="/divisions" title="AAS Divisions">Divisions</a></li>
+<li class="collapsed"><a href="/education" title="Education Services">Education Services</a></li>
+<li class="collapsed"><a href="/governance" title="Governance">Governance and Council</a></li>
+<li class="collapsed"><a href="/grants" title="Grouped Grants, Prizes, and Awards">Grants/Prizes</a></li>
+<li class="leaf"><a href="/journals" title="AAS Journals">Journals</a></li>
+<li class="collapsed"><a href="/donation" title="Book/Journal/Equipment Donation Materials Forum">Materials Donation</a></li>
+<li class="collapsed"><a href="/meetings" title="Meeting Services">Meeting Services</a></li>
+<li class="collapsed"><a href="/membership" title="Membership Services">Membership Services</a></li>
+<li class="collapsed"><a href="/policy" title="Public Policy">Public Policy</a></li>
+<li class="leaf"><a href="/press" title="AAS Press Services">Press Services</a></li>
+<li class="collapsed"><a href="/publications" title="Journals and Publications">Publications</a></li>
+<li class="collapsed last"><a href="/legal_and_policy_information" title="Legal and Policy Information">Legal &amp; Policy Information</a></li>
+</ul></div>
+  </td>
+  <td class="block-br"></td>
+</tr>
+</tbody></table>
+  </td>
+  
+  <td valign="top">
+      <div id="main">
+    <div class="breadcrumb"><a href="/">Home</a></div>          <div id="cr8"></div>
+        <div class="tabs"></div>
+            <table class="node"> 
+  
+  <tbody><tr>
+  <td class="node-tl"></td>
+  <td class="node-tc"></td>
+  <td class="node-tr"></td>
+  </tr><tr>
+
+  </tr><tr>
+  <td class="node-ml"></td>
+  <td class="node-mc">
+
+    <table>
+    <tbody><tr>
+      <td>
+        <h2 class="title"><a href="/publications/exploder_detail.php">Electronic Announcement Detail</a></h2>
+        <span class="submitted"></span>
+        <span class="taxonomy">Page Tags: <ul class="links inline"><li class="taxonomy_term_14 first last"><a href="/taxonomy/term/14" rel="tag" title="AAS publications">Publications</a></li>
+</ul></span>
+      </td>
+    </tr>
+    </tbody></table>
+        <div class="content">	
+
+<h1>House of Representatives has passed NASA Authorization Bill</h1>
+<h2>Informational Emails #2005-16</h2>
+
+<p><strong>Date Emailed:</strong> July 26th, 2005 12:00 am</p>
+
+<p>AAS Informational Email 2005-16</p>
+<p><br>
+Kevin B. Marvel, Deputy Executive Officer</p>
+<p>Summary</p>
+<p>The House of Representatives has passed a NASA Authorization Bill, which contains mainly good news for Astronomy. The Senate must still pass companion legislation before a final NASA Authorization can be enacted.</p>
+<p>Details from House Science Committee Press Release (analysis to follow later)</p>
+<p>On July 22, 2005 just shortly after midnight, the House of Representatives overwhelmingly passed the NASA Authorization Act of 2005. Companion legislation must now be passed by the Senate.</p>
+<p>H.R. 3070 endorses the President’s Vision for Space Exploration; endorses the return of humans to the Moon by 2020; ensures NASA’s missions in space science, Earth science and aeronautics remain healthy and robust; endorses a Shuttle servicing mission for the Hubble Space Telescope;</p>
+<p>establishes an awards program to encourage the private sector to develop creative solutions to NASA’s technical challenges; allows NASA to proceed with its plan to retire the Space Shuttle fleet by the end of 2010; and encourages NASA to launch the Crew Exploration Vehicle (the Shuttle’s replacement) as close to 2010 as possible.</p>
+<p>Chairman Boehlert said, “H.R. 3070 is built on four central principles that will give clear direction to NASA. First, it endorses the President’s Vision for Space Exploration, specifically calling for the development of a new Crew Exploration Vehicle and the return of humans to the Moon by 2020. Second, it ensures that NASA’s missions in space science, Earth science and aeronautics are well funded and have robust programs. Third, it requires additional information from NASA to ensure that Congress has the information it needs to make policy decisions in the years ahead. And the fourth principle is that NASA has to try new ways of doing business if it is to remain innovative, so the bill establishes a prize program to help encourage the private sector and space entrepreneurs to help solve NASA’s challenges.”</p>
+<p>“As we enter the Second Space Age, we must give NASA the rules and tools it needs to succeed,” said Chairman Calvert. “NASA is an agency is transition. This bill gives the agency direction as it plans the next steps in space exploration, aeronautics, and other science programs. For the first time, today’s vote gave Congressional approval to the President’s Vision, which was announced in January 2004.</p>
+<p>“Other nations are actively pursuing human spaceflight and exploration. China alone graduates almost as many engineers in a month as we do in a year. India too graduates five times as many engineers per year as we do. NASA, with its excellent reputation in exploration, science and aeronautics is the one national agency which can focus and inspire America’s youth to take up the challenging work of math and science careers.”&nbsp; Chairman Calvert added, “I want to thank Chairman Boehlert and Ranking Members Gordon and Udall for their work on this bill. Space exploration, aeronautics, and the sciences have always been bipartisan and I am pleased that tradition continued today.”</p>
+<p>The full text of the legislation is available through the AAS website at the following link:</p>
+<p>http://www.aas.org/policy/hr_3070.pdf</p>
+<p>The vote approving H.R. 3070 was 383 for and 15 against. Three amendments were agreed to, one was offered and withdrawn, and one was defeated:</p>
+<p>A manager’s amendment offered by Chairman Boehlert was agreed to by voice vote. In addition to making technical and clarifying changes, the amendment:</p>
+<p>·    Increases the amount of funding authorized to be appropriated for NASA to support the President’s budget request for exploration for fiscal years 2006 and 2007;</p>
+<p>·    Expresses the Sense of the Congress that NASA should return the Space Shuttle to flight as soon as the Administrator determines that it can be accomplished with an acceptable level of safety;</p>
+<p>·    Allows the Administrator to complete the International Space Station in such a configuration as to support fewer than six persons, but only after transmitting a report to Congress explaining why a six-person requirement should not be met;</p>
+<p>·    Requires NASA to report information to Congress regarding minority participation in NASA’s education programs; and</p>
+<p>·    Raises the threshold for major programs that require additional reporting to Congress to $150 million from $100 million.</p>
+<p>By voice vote, the House approved an amendment by Representative Nydia Velazquez (D-NY) that requires the NASA Administrator to submit a quarterly report to Congress detailing the agency’s outreach activities in the Office of Small and Disadvantaged Business Utilization.</p>
+<p>The House also approved by voice vote an amendment by Representative Sheila Jackson Lee (D-TX) that requires the NASA Administrator to transmit to Congress a plan describing steps NASA will take to protect employees who raise concerns about a potentially catastrophic risk to health or safety.</p>
+<p>Representative Jackson Lee offered and withdrew an amendment that would have specified funding for Historically Black Colleges and universities under NASA education programs to the FY04 funding level of $69.2 million for FY06 and $71.2 million for FY07.</p>
+<p>By a vote of 192 to 206, the House defeated an amendment by Representative Velazquez that would have established a four-year pilot grant program to “develop buildings” on minority campuses that would be turned over to industry.</p>
+<p>H.R. 3070 was approved by the Subcommittee on Space and Aeronautics on June 29 and unanimously passed the full Science Committee by a vote of 36 to 0 on July 14.</p></div>
+    <div class="links"><ul class="links inline"><li class="print_html first last"><a href="/print/publications/exploder_detail.php?ExploderID=206" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow">Printer-friendly version</a></li>
+</ul></div>
+  </td>
+  <td class="node-mr"></td>
+  </tr>
+
+  <tr>
+  <td class="node-bl"></td>
+  <td class="node-bc"></td>
+  <td class="node-br"></td>
+  </tr><tr>
+</tr></tbody></table>
+        </div>
+  </td>
+
+  
+  </tr>
+</tbody></table>
+
+</div><!-- end of div#container -->
+
+<div id="footer"><p>© 2010, American Astronomical Society</p><table id="block-switchtheme-0" class="clear-block block block-switchtheme">
+<tbody><tr>
+  <td class="block-tl"></td>
+  <td class="block-tc">
+          <h2>Theme</h2>
+      </td>
+  <td class="block-tr"></td>
+</tr>
+<tr>
+  <td class="block-bl"></td>
+  <td class="block-bc">
+    <div class="content"><form action="/publications/exploder_detail.php?ExploderID=206" accept-charset="UTF-8" method="post" id="switchtheme-switch-form">
+<div><div class="form-item" id="edit-theme-wrapper">
+ <select name="theme" title="Change the way this site looks." class="form-select" id="edit-theme"><option value="pixture">pixture (Default)</option></select>
+</div>
+<input type="submit" name="op" id="switchtheme-submit" value="Switch" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-4247b96822d654065f497902e56df31a" value="form-4247b96822d654065f497902e56df31a">
+<input type="hidden" name="form_id" id="edit-switchtheme-switch-form" value="switchtheme_switch_form">
+
+</div></form>
+</div>
+  </td>
+  <td class="block-br"></td>
+</tr>
+</tbody></table>
+<table id="block-block-4" class="clear-block block block-block">
+<tbody><tr>
+  <td class="block-tl"></td>
+  <td class="block-tc">
+      </td>
+  <td class="block-tr"></td>
+</tr>
+<tr>
+  <td class="block-bl"></td>
+  <td class="block-bc">
+    <div class="content"><p><a href="/help_about">Contact Us and Help</a> <a href="http://fusion.google.com/add?source=atgs&amp;feedurl=http%3A//aas.org/rss.xml"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google"></a></p>
+</div>
+  </td>
+  <td class="block-br"></td>
+</tr>
+</tbody></table>
+</div><script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?T"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-7341249-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "CToolsAJAX": { "scripts": { "/misc/jquery.js?T": true, "/misc/drupal.js?T": true, "/sites/all/modules/panels/js/panels.js?T": true, "/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?T": true, "/sites/all/modules/google_analytics/googleanalytics.js?T": true }, "css": { "/modules/aggregator/aggregator.css?T": true, "/modules/node/node.css?T": true, "/modules/poll/poll.css?T": true, "/modules/system/defaults.css?T": true, "/modules/system/system.css?T": true, "/modules/system/system-menus.css?T": true, "/modules/user/user.css?T": true, "/sites/all/modules/cck/theme/content-module.css?T": true, "/sites/all/modules/ctools/css/ctools.css?T": true, "/sites/all/modules/date/date.css?T": true, "/sites/all/modules/date/date_popup/themes/datepicker.css?T": true, "/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?T": true, "/sites/all/modules/fckeditor/fckeditor.css?T": true, "/sites/all/modules/filefield/filefield.css?T": true, "/sites/all/modules/panels/css/panels.css?T": true, "/sites/all/modules/switchtheme/switchtheme.css?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?T": true, "/modules/forum/forum.css?T": true, "/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?T": true, "/sites/all/modules/views/css/views.css?T": true, "/sites/all/modules/print/css/printlinks.css?T": true, "/files/color/pixture-be1423fd/style.css?T": true } } });
+//--><!]]>
+</script>
+
+
+</div><!-- end of div#wrapper -->
+
+
+
+</body></html>

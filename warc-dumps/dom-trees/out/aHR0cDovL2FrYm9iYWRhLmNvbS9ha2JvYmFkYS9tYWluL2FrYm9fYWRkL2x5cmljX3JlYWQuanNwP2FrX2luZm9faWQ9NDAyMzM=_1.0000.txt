@@ -1,0 +1,156 @@
+<html><head>
+<title>가사보기</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<link href="/akbobada/main/css/style.css" rel="stylesheet" type="text/css">
+
+<!--파비콘 추가 20090804-->
+<link rel="SHORTCUT ICON" href="/akbobada/main/img/favicon.ico">
+
+<script language="javascript">
+function close_go(){
+	opener.location="/servlet/akbobada.main.servlet.AkboServlet?command=detailView&akboInfoId=40233";
+	window.close();
+ }
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><em><img src="/akbobada/main/img/score/word_01.jpg" width="420" height="36"></em></td>
+  </tr>
+  <tr>
+    <td height="433" align="center" bgcolor="5A8CCE"><table width="382" height="424" border="5" cellpadding="0" cellspacing="0" bordercolor="B2CCF3">
+        <tbody><tr>
+          <td width="382" align="center" valign="top" bgcolor="#FFFFFF" style="padding:10 10 10 10"><table width="357" height="273" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td width="357" align="center"><table width="350" height="60" border="0" cellpadding="3" cellspacing="0">
+                    <tbody><tr> 
+                      <td width="6" align="center"><img src="/akbobada/main/img/score/word_02.jpg" width="3" height="3"></td>
+                      <td width="53" class="small_gray2"><strong><font color="#006699">곡명</font></strong></td>
+                      <td width="6" align="center"><font color="388BBF">|</font></td>
+                      <td width="261">If I Were A Boy</td>
+                    </tr>
+                    <tr> 
+                      <td align="center"><img src="/akbobada/main/img/score/word_02.jpg" width="3" height="3"></td>
+                      <td class="small_gray2"><strong><font color="#006699">아티스트</font></strong></td>
+                      <td align="center"><font color="388BBF">|</font></td>
+                      <td>Beyonce</td>
+                    </tr>
+                    <tr> 
+                      <td align="center"><img src="/akbobada/main/img/score/word_02.jpg" width="3" height="3"></td>
+                      <td class="small_gray2"><strong><font color="#006699">가사</font></strong></td>
+                      <td align="center"><font color="388BBF">|</font></td>
+                      <td align="right"><table width="75" border="0" cellspacing="0" cellpadding="2">
+                          <tbody><tr> 
+                            <td><a href="javascript:void(window.open('/akbobada/main/akbo_add/lyric_print.jsp?ak_info_id=40233','_PrintLyrics', 'scrollbars=yes,status=no,toolbar=no,resizable=0,location=no,menu=no,width=437,height=510'))">
+							<img src="/akbobada/main/img/score/bu_05.jpg" width="87" height="21" border="0"></a></td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr> 
+                <td align="left" style="padding:0 0 10 0"><table width="350" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr> 
+                      <td width="356" height="1" bgcolor="92BFDD"></td>
+                    </tr>
+                    <tr> 
+                      <td width="356" height="5"></td>
+                    </tr>
+                  </tbody></table>
+
+									<div style="height:310px; width=100%; overflow: auto;">
+									<br>If I were a boy
+<br>Even just for a day
+<br>I’d roll outta bed in the morning
+<br>And throw on what I wanted then go
+<br>Drink beer with the guys
+<br>And chase after girls
+<br>I’d kick it with who I wated
+<br>And I’d never get confronted for it.
+<br>Cause they’d stick up for me.
+<br>
+<br>[Chorus]
+<br>If I were a boy
+<br>I think I could understand
+<br>How it feels to love a girl
+<br>I swear I’d be a better man.
+<br>I’d listen to her
+<br>Cause I know how it hurts
+<br>When you lose the one you wanted
+<br>Cause he’s taken you for granted
+<br>And everything you had got destroyed
+<br>
+<br>If I were a boy
+<br>I could turn off my phone
+<br>Tell everyone it’s broken
+<br>So they’d think that I was sleepin’ alone
+<br>I’d put myself first
+<br>And make the rules as I go
+<br>Cause I know that she’d be faithful
+<br>Waitin’ for me to come home (to come home)
+<br>
+<br>(Chorus)
+<br>
+<br>It’s a little too late for you to come back
+<br>Say its just a mistake
+<br>Think I’d forgive you like that
+<br>If you thought I would wait for you
+<br>You thought wrong
+<br>
+<br>(Chorus)
+<br>
+<br>But you’re just a boy
+<br>You don’t understand
+<br>Yeah you don’t understand
+<br>How it feels to love a girl someday
+<br>You wish you were a better man
+<br>You don’t listen to her
+<br>You don’t care how it hurts
+<br>Until you lose the one you wanted
+<br>Cause you’ve taken her for granted
+<br>And everything you have got destroyed
+<br>But you’re just a boy
+<br><br></div>
+
+				</td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="35" align="center" valign="top" bgcolor="5A8CCE"><table width="382" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td height="12" bgcolor="5A8CCE"></td></tr><tr>
+        </tr><tr align="center"> 
+          <td height="24" colspan="2">
+<font color="#FFFFFF"><strong>akbobada</strong>
+님이 올려주신 가사입니다</font>
+			</td>
+          <td align="right"><a href="javascript:window.close();">
+		  <img src="/akbobada/main/img/score/but_19.jpg" width="54" height="21" border="0"></a>
+		  
+		  <a href="lyric_update_form.jsp?ak_info_id=40233">
+		  <img src="/akbobada/main/img/score/bu_06.jpg" width="95" height="21" border="0">
+		  </a></td>
+        </tr>
+		  <tr><td height="12" bgcolor="5A8CCE"></td></tr><tr>
+      </tr></tbody></table></td>
+  </tr>
+
+  <tr> 
+    <td height="41" align="center" bgcolor="5A8CCE"><table width="392" height="34" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td align="right"><font color="#FFFFFF">ⓜusic ⊂┃ㅈ┗ο┃Ｌ┓악/보/바/다</font></td>
+        </tr>
+        <tr>
+          <td align="right"><font color="#FFFFFF">www.akbobada.com</font></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</body></html>

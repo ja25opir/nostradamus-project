@@ -1,0 +1,245 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>
+Agency Access | Success Stories | Davis
+</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="Copyright Agency Access. All rights reserved.">
+
+
+<meta name="description" content="Agency Access Success Story for Harold Davis, full version">
+<meta name="keywords" content="Agency Access, agencyaccess, ad agency lists, photographers lists, ad base, langerman lists, ad base lists, adbase, art buyer, art buyer mailing lists, art buyers lists, photography promotion, art directors, commercial photographers, creative directors, creative list, fresh lists, langerman, magazine photo editors, photo advertising, photographer promotions, photographers mailing lists, photographers mailing services, adbase lists, list, mailing list, advertising agency list, ad agency, direct marketing">
+    
+
+<link rel="shortcut icon" type="image/ico" href="images/favicon.ico">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="includes/styles/screen.css?v=2.2">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="includes/styles/screen2.css?v=2.2">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="includes/styles/addtl.css">
+<link rel="stylesheet" type="text/css" media="print, handheld" href="includes/styles/print.css">
+<!--	sIFR 3 code	-->
+<link rel="stylesheet" href="includes/styles/sifr.css" type="text/css">
+
+
+
+
+
+<!--[if lt ie 7.0]>
+<link rel="stylesheet" media="screen" type="text/css" href="includes/styles/ie.css" />
+<![endif]-->
+<!--[if ie]>
+<link rel="stylesheet" media="screen" type="text/css" href="includes/styles/ieall.css" />
+<![endif]-->
+
+<!--	sIFR 3 code	-->
+<script src="includes/scripts/sifr_3.js" type="text/javascript"></script>
+<script src="includes/scripts/sifr-config.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="includes/scripts/mootools.1.11.js"></script>
+<script type="text/javascript" src="includes/scripts/globalmain.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function () {
+	var slideAndFade = new Fx.SlideAndFade('login', 35, {duration: 400}).set({'height': 0, 'opacity': 0});
+	$('login').setStyle('display', 'block');
+	
+	$$('#subLogin a').addEvent('click', function (e) {
+		e = new Event(e).stop();
+		slideAndFade.toggle();
+	});
+});
+</script>
+
+
+</head>
+
+
+<body id="bd-choose">
+  
+    <div id="top">&nbsp;</div>
+    
+    <div id="login">
+        <div id="loginInner">
+            <p><a href="index.cfm?go=login.ForgotPW" title="Forgot your account info?" rel="nofollow">Forgot User ID/Password</a></p>
+            <form action="https://www.agencyaccess.com/index.cfm" method="post">
+                <p>
+                    <label for="userid">Username:</label>
+                    <input type="text" name="login" id="userid" tabindex="1">
+                </p>
+                <p>
+                    <label for="password">Password:</label>
+                    <input type="password" name="loginpw" id="password" tabindex="2">
+                </p>
+                <p>
+                    <label for="remember">Remember Me</label>
+                    <input type="checkbox" name="remember" id="remember" tabindex="3">
+                </p>
+                <p>
+                    <input type="submit" value="Sign In" class="logbtn" title="Click to log into your account" tabindex="4">
+                </p>
+                <p>
+                    <input type="hidden" name="go" value="login.Authenticate">
+                </p>
+            </form>
+        </div>
+    </div>
+    <!-- end #login -->
+    
+    <div id="container">
+        <div id="header">
+        
+            <h1 id="logo"><a href="index.cfm" title="Return to the homepage">Agency Access</a></h1>
+
+            <ul id="subNavs">
+	
+                <li id="subLogin">
+                    <a id="subLoginLink" href="#" title="Sign in here" rel="nofollow"><small>Account Login</small></a>
+                </li>
+	
+                <li id="subSignup">
+                    <a href="index.cfm?go=login.Register" title="Get Access" rel="nofollow"><small>Sign Up</small></a>
+                </li>
+                <li id="subGetintouch"><a href="index.cfm?go=home.Contact" title="Contact Us"><small>Get in Touch</small></a>
+                </li>
+            </ul>
+
+        
+            <ul id="navBar">
+                <li id="nav1">
+                    <a href="index.cfm?go=home.Choose" title="Why Agency Access?" class="selected">Why Choose Us?</a>
+                </li>
+                <li id="nav2">
+                    <a href="index.cfm?go=home.Offer" title="Our Services">What We Offer</a>
+                </li>
+                <li id="nav3">
+                    <a href="index.cfm?go=home.Data" title="Our Data">Our Data</a>
+                </li>
+                <li id="nav4">
+                    <a href="index.cfm?go=home.Pricing" title="Pricing">Pricing</a>
+                </li>
+                <li id="nav5">
+                    <a href="index.cfm?go=home.About" title="About Agency Access">About Us</a>
+                </li>
+            </ul>
+            
+        </div>
+      	<!-- end #header -->
+      
+
+            <a href="index.cfm?go=home.Success" title="Success Stories">
+                
+                <img src="images/mastheads/teal/liam_sharp-teal.jpg" alt="Why Choose Us - Agency Access"> 
+            </a>
+		
+        
+		<div id="content">
+        <h2>Success Stories</h2>
+<h5>Harold Davis</h5>
+
+<p class="success-note">Photographer</p>
+<p><a onclick="window.open(this.href,'newwindow','width=578,height=387,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=yes');return false;" href="images/stories/full-davis.jpg" title="View full size of sample; new window"><img src="images/stories/sample-davis.jpg" alt="Sample of work" style="float: right; margin: 0 0 10px 10px; padding: 3px; border: 1px solid #ccc;"></a>Known as  an eclectic photographer who covers a wide variety of scenic, nature,  architectural, and night subjects; and as a well-known author who has more than  20 books to his name, Harold Davis really needs no introduction.</p>
+
+<p>His  photographs have been widely published, exhibited, and collected. Many of his  fine art photography posters are well known, including some recent  alternatively processed digital flower images published by New York Graphic  Society.</p>
+
+<p>In the  past several years he also has become seriously interested in digital  photo-composition with his most recent photography technique book, "Light &amp;  Exposure for Digital Photographers," (published by O'Reilly Digital Media)  being hailed by Rick Smolan, photojournalist and creator of the "Day in the  Life Series" as an "instant classic."</p>
+
+<p>However, being a seasoned professional photographer, Davis also realized the  time had come to be more systematic about advertising and increasing his  sources of new business, and not relying quite so much on his customers finding  him-thus he turned to Agency Access.</p>
+
+<blockquote>
+<p>"Due to my  successes in book publishing, and in selling fine art prints of my photography,  I've had both assignment and licensing clients find me by word of mouth, and  more commonly, by finding my images on the Web," says Davis. "However, in a piece of good timing,  just as I decided to embark on a serious campaign to extend my client base, I  received both an e-mail and a promotional card from Agency Access."</p>
+</blockquote>
+
+<p>Davis then  used Agency Access' database and e-mail list services in a general effort to  become better known among photo buyers at agencies and publishers.</p>
+
+<blockquote>
+<p>"Denis  Kane helped me understand how best to choose database slices and was amazingly helpful.  I can't recommend Agency Access' customer service enough," says Davis. "The  ability to 'self-help' with database and contact selections is really a great  feature."</p>
+
+<p>"The  e-mail service is also very helpful because you don't have to think about issues  such as being considered  spam, and managing opting in and out," adds Davis. "It also has a very  professional feel when you receive an e-mail from Agency Access, and you know  the recipients that reply are very serious about considering your work."</p>
+</blockquote>
+
+<p>Davis, who  just one day after he launched his first e-mail campaign, licensed an image as  a cover to a high-profile division of Macmillan, has seen nothing but results.  "Each e-mail I've done has resulted in significant licensing sales, as well as  contact with photo buyers, art directors, and designers that I wouldn't have  had otherwise."</p>
+<p>He and his  business partner have been so impressed that during a recent strategizing  session, they realized that the European market had as much potential for them  as the North American market.</p>
+
+<blockquote>
+<p>"Agency  Access' European database combined with e-mail blasts provides a cost-effective  way of targeting this market, with almost immediate results that justified the  approach," Davis states.</p>
+</blockquote>
+
+<p>The  versatility of Agency Access also has proved helpful. Since Davis is proficient  in both marketing and design, he has not had to make use of Agency Access' deep  design pool or direct mailings; however, these are services he says may be  useful in the future.</p>
+
+<p>Therefore, with an eye on the present, as well as toward the future, Davis sees  a happy partnership with Agency Access. "I am continually amazed to essentially  make back my costs with each e-mail blast I have sent out through Agency  Access," he says. "Long term, I see Agency Access as an essential part of my  evolving business plan."</p>
+
+
+  <ul>
+    <li><a href="index.cfm?go=home.SuccessDingmanFull" title="Next story">Next Success Story</a></li>
+  </ul>
+
+        </div>
+        <!-- end #content -->
+        
+		<div id="sidebar">
+       
+        
+    <h4 id="more">MORE IN THIS SECTION</h4>
+    <ul id="ul-more">
+        <li><a href="index.cfm?go=home.Success">Success Stories</a></li>
+
+        <li><a href="index.cfm?go=home.Features">Features</a></li>
+        <li><a href="index.cfm?go=home.Inspirations">Inspirations</a></li>                     
+    </ul>
+	
+			<h4 id="start">GET ACCESS</h4>
+			<ul id="ul-quickstart">
+				<li><a href="index.cfm?go=login.Register">Sign Up Now</a></li>
+				<li><a href="index.cfm?go=home.Trial">Free Trial</a></li>
+				<li><a href="index.cfm?go=home.Tour">Take the Tour</a></li>
+				<li><a href="index.cfm?go=home.FAQ">FAQs</a></li>
+		
+				<li><a href="index.cfm?go=home.Pricing">Pricing</a></li>
+		
+			</ul>
+	
+		</div>
+        <!-- end #sidebar -->
+    
+		<ul id="footer">
+			<li class="copy">© 1996-2010 Agency Access
+            
+            
+			</li>
+            
+			<li><a href="index.cfm?go=home.Choose">Why Us?</a> | </li>
+			<li><a href="index.cfm?go=home.Offer">What We Offer</a> | </li>
+			<li><a href="index.cfm?go=home.Data">Our Data</a> | </li>
+			<li><a href="index.cfm?go=home.Pricing">Pricing</a> | </li>
+			<li><a href="index.cfm?go=home.Guarantee">Guarantee</a> | </li>
+			<li><a href="index.cfm?go=home.About">About Us</a> | </li>
+            <li><a href="index.cfm?go=home.Privacy">Privacy</a> | </li>
+            <li><a href="index.cfm?go=home.Terms">Terms &amp; Agreement</a> | </li>
+	
+			<li><a href="index.cfm?go=login.Login" rel="nofollow">Login | </a></li>
+			<li><a href="index.cfm?go=login.Register" rel="nofollow">Sign Up | </a></li>
+	
+			<li><a href="index.cfm?go=home.Contact">Get in Touch</a></li>
+		</ul>
+
+    </div>
+    <!-- end #container -->
+ 
+
+
+
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-2973680-1");
+	pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+
+
+
+ </body></html>

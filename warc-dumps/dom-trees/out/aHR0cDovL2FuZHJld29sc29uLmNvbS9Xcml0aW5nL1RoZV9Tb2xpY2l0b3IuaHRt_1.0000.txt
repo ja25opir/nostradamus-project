@@ -1,0 +1,388 @@
+<html><!-- #BeginTemplate "../andyo2-thirdlevel.dwt" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- #BeginEditable "doctitle" -->
+<title>The Solicitor</title>
+<!-- #EndEditable -->
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+
+<table valign="top" width="775" id="table1" name="fulltable" border="0" cellpadding="0" cellspacing="0" align="left" bordercolor="384B97">
+
+<!--- header row begins --->
+
+<tbody><tr height="88" valign="top">
+	<td>
+		<table width="100%" valign="top" border="0" cellpadding="0" cellspacing="0" align="center" background="../images/headerbg.gif" id="table2" height="95">
+			<tbody><tr valign="top" height="88">
+				<td width="100%" align="left" valign="top" class="SEARCHBOX" height="95">
+					<table width="100%" valign="top" border="0" cellpadding="0" cellspacing="0" align="center" id="table3" height="45">
+						<tbody><tr>
+							<td width="232" align="left" valign="top">
+								<img border="0" src="../andyo24.jpg"></td>
+							<td align="center" valign="middle"></td>
+						</tr>
+					</tbody></table>
+					</td>
+				<td width="250" align="right" valign="top" class="searchbox" height="95">
+					</td>
+			</tr>
+								
+		</tbody></table>
+	</td>
+</tr>
+
+<!--- body row begins --->
+
+<tr height="100%" id="bodyrow">
+	<td>
+		<table width="775" id="table4" valign="top" border="0" cellpadding="0" cellspacing="0" align="left" height="409">
+			<!-- MSTableType="layout" -->
+			<tbody><tr>
+				<td align="left" valign="top" bgcolor="#C4C4C4">
+					&nbsp;</td>
+				<td align="center" valign="top" bgcolor="white">
+
+<!-- #BeginEditable "Ad" --><p align="left"><script type="text/javascript"><!--
+google_ad_client = "pub-8689138758470072";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+//2007-03-02: AndyO_content
+google_ad_channel = "3951186458";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+<p align="left">&nbsp;<!-- #EndEditable --></p></td>
+<td bgcolor="#384B97" height="57"></td>
+			</tr>
+			<tr>
+				<td width="1" align="left" valign="top" bgcolor="#C4C4C4"></td>
+				<td width="767" align="center" valign="top" bgcolor="white">
+
+<!--- main content window begins --->
+
+	<p align="right">
+		
+	</p>
+		<table height="100%" cellspacing="0" cellpadding="1" width="100%" border="0" valign="top" id="table5">
+
+<!-- MSTableType="nolayout" -->
+
+<tbody><tr valign="top">
+<td width="10%">
+<a target="_parent" href="../index.htm">
+<img border="0" id="img37" src="../images/button34.jpg" height="20" width="100" alt="Home" onmouseover="FP_swapImg(1,0,/*id*/'img37',/*url*/'../images/button35.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img37',/*url*/'../images/button34.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img37',/*url*/'../images/button36.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img37',/*url*/'../images/button35.jpg')" fp-style="fp-btn: Border Left 1" fp-title="Home"></a><p>
+<a href="../Travel/Travel_home.htm">
+<img border="0" id="img39" src="../button4.jpg" height="20" width="100" alt="Travel" onmouseover="FP_swapImg(1,0,/*id*/'img39',/*url*/'../button5.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img39',/*url*/'../button4.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img39',/*url*/'../button6.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img39',/*url*/'../button5.jpg')" fp-style="fp-btn: Border Left 1" fp-title="Travel"></a></p>
+<p>
+<a href="Writing_home.htm">
+<img border="0" id="img40" src="../buttonE.jpg" height="20" width="100" alt="Writing" onmouseover="FP_swapImg(1,0,/*id*/'img40',/*url*/'../buttonF.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img40',/*url*/'../buttonE.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img40',/*url*/'../button13.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img40',/*url*/'../buttonF.jpg')" fp-style="fp-btn: Border Left 1" fp-title="Writing"></a></p>
+<p>
+<a target="_parent" href="../Music/Music_home.htm">
+<img border="0" id="img30" src="../images/button46.jpg" height="20" width="100" alt="Music" onmouseover="FP_swapImg(1,0,/*id*/'img30',/*url*/'../images/button47.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img30',/*url*/'../images/button46.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img30',/*url*/'../images/button48.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img30',/*url*/'../images/button47.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Music"></a></p>
+<p>
+<a target="_parent" href="../Film/Film_home.htm">
+<img border="0" id="img31" src="../images/button49.jpg" height="20" width="100" alt="Film" onmouseover="FP_swapImg(1,0,/*id*/'img31',/*url*/'../images/button4A.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img31',/*url*/'../images/button49.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img31',/*url*/'../images/button4B.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img31',/*url*/'../images/button4A.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Film"></a></p>
+<p>
+<a target="_parent" href="../Pictures/Pictures_home.htm">
+<img border="0" id="img33" src="../images/button4F.jpg" height="20" width="100" alt="Pictures" onmouseover="FP_swapImg(1,0,/*id*/'img33',/*url*/'../images/button50.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img33',/*url*/'../images/button4F.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img33',/*url*/'../images/button51.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img33',/*url*/'../images/button50.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Pictures"></a></p>
+<p>
+<a target="_parent" href="../Links/links.htm">
+<img border="0" id="img34" src="../images/button52.jpg" height="20" width="100" alt="Links" onmouseover="FP_swapImg(1,0,/*id*/'img34',/*url*/'../images/button53.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img34',/*url*/'../images/button52.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img34',/*url*/'../images/button54.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img34',/*url*/'../images/button53.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Links"></a></p><p>
+<a target="_parent" href="../Lists/Lists_home.htm">
+<img border="0" id="img36" src="../images/button25.jpg" height="20" width="100" alt="Lists" onmouseover="FP_swapImg(1,0,/*id*/'img36',/*url*/'../images/button20.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img36',/*url*/'../images/button25.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img36',/*url*/'../images/button21.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img36',/*url*/'../images/button20.jpg')" fp-style="fp-btn: Brick Column 1; fp-orig: 0" fp-title="Lists"></a></p><p>
+<a target="_parent" href="../Neil_Peart/neil_peart.htm">
+<img border="0" id="img38" src="../images/button68.jpg" height="20" width="100" alt="Neil Peart" onmouseover="FP_swapImg(1,0,/*id*/'img38',/*url*/'../images/button69.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img38',/*url*/'../images/button68.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img38',/*url*/'../images/button6A.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img38',/*url*/'../images/button69.jpg')" fp-style="fp-btn: Border Left 1" fp-title="Neil Peart"></a></p></td>
+<td width="48%">
+<!-- #BeginEditable "Middle" -->
+<p class="MsoNormal" align="center" style="text-align: center; margin-right: -.25in">
+<span style="font-family: Arial; font-weight: 700"><font size="4">"The 
+Solicitor"</font></span></p>
+<p class="MsoNormal" align="center" style="margin-right:-.25in;text-align:center">
+<span style="font-size:10.0pt;font-family:Arial">by</span></p>
+<p class="MsoNormal" align="center" style="margin-right:-.25in;text-align:center">
+<span style="font-size:10.0pt;font-family:Arial">Andrew Olson</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">When I call, it’s usually after 
+5:00 p.m.—but never later than 7:00. I always ask for the person I’m calling for 
+by the first name. Is Jill there? Is Mark there? And then, if they’re still on 
+the line, I talk to them about what I’m selling. Oh, don’t be mistaken—most 
+people hang up on me. Probably seventy-five percent. Another five percent listen 
+for 30 seconds, and then hang up. Another ten percent listen for a minute, and 
+nine percent for a minute and a half. A measly one percent make it to the end. 
+That’s when I lay it on them, when they find out this call isn’t like any 
+ordinary solicitor calling.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reason most 
+people I hang up, I think, is they don’t believe me. If I was on the other end 
+of the line, I'd certainly question what I was saying. </span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The one person out 
+of a 100 who stays on the line usually thanks me from the bottom of his heart. 
+It’s not uncommon for their families to send me cards. This makes perfect sense, 
+because the families are the ones who benefit the most from my calls.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then there’s the 
+occasional person who doesn’t believe me. Like the other day. The man I called 
+wanted to toy with me, like I was someone asking for money. </span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Hello, is this 
+Steven?” I asked him.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “No, it’s Joe Bob. 
+Who the hell is calling?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “My name is Stanley 
+Morgan, from Morgan Associates—”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Oh shit, another 
+solicitor. Oh, Christ, you’re the fifth to call me tonight!”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “I want you to 
+listen very carefully to what I have to say, Steven. I’m only going to say this 
+once. Are you listening?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Oh, I’m listening 
+like you can’t believe, Stanley Morgan.” And he laughed.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “This isn’t a 
+joke.” I cleared my throat. This is always the hardest part. “Steven, you’re 
+going to die tomorrow. I know this is difficult, but this is your last chance to 
+help out your family. This is your last chance to buy life insurance, to take 
+care of your wife, Nancy, and daughter Eva.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Silence on the line.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Steven are you 
+there?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “This is the 
+funniest thing I’ve heard all day—no, funniest thing all year. Do you wait till 
+the holidays to call people like me?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “As I’ve already 
+told you, this isn’t a joke.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “You keep telling 
+that, but what kind of credentials do you got? Are you God or something?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Hardly, Steven. 
+I’m just trying to help you out.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Well, even if I 
+did believe you, what the hell are you gonna do now? If I’m dying tomorrow, how 
+am I going to sign up for some friggin’ insurance policy?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Have you got 
+today’s mail, Steven?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “The mail? Sure, I 
+got it. It came with a stack of bills as high as my knee. I don’t look through 
+that shit till the middle of the month.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “I want you to go 
+to your stack of mail. You should see a letter from Morgan Associates.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I heard Steven drop 
+the phone and go look for the letter. I could hear him grumbling as he looked 
+around. He managed to insult the cat, the dog, even his daughter—and finally 
+came back to the phone.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Yeah, I got it. 
+What do you want me to do with this?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Open it up. You’ll 
+see two pieces of paper. In order to qualify for&nbsp; $1 million of Life Insurance for 
+your family, just check the box on the first piece of paper.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “What box?” Steven 
+asked.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I realized I was 
+dealing with someone who probably couldn’t read.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “There’s only one 
+box, Steven.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Hey, don’t get all 
+condescending with me!?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Just check the box 
+and sign it. Use the return envelop to send the first piece of paper back to me. 
+Have you checked the box and signed the piece of paper, Steven?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Look, I don’t know 
+what this is. I mean, you could be asking me to sign away my life.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Steven, it’s very 
+important you do this. It’s the difference between your family being comfortable 
+in the next few years—and having serious financial problems.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “I don’t think I 
+want to sign it, Mr. Morgan. Something smells fishy here.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “What do you have 
+to lose, Steven? And even if you like, go ahead and read through the document. 
+I’ll wait. It’s written in plain English. Go ahead. I’ll be right here.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steven read the 
+document. It was only 12 words long, and the box was very simple:</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;</span></p>
+<blockquote>
+	<ul type="circle">
+		<li>
+		<p class="MsoBlockText">
+		<span style="font-size:10.0pt;font-family:Arial">Check here to receive 
+		$1 million life insurance. Guaranteed. No questions 
+	asked.</span></p></li>
+	</ul>
+</blockquote>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Look, why don’t I 
+call you back, Mr. Morgan.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “There’s no time 
+for that, Steven. You either sign and send off that document tonight, or your 
+family has a lot of problems.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “You sound like 
+you’re threatening me now. Doesn’t make me really want to sign anything.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Look, Steven, it 
+goes like this: I could call 1000 people tonight, but I’ve only got time and 
+resources to call five people. You’re one of the lucky five.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Or unlucky,” he 
+said.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “The point is, you 
+have this tremendous opportunity to give your family the security they need. You 
+can give them the life they deserve. Isn’t that what you want?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Well, of course it 
+is.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Then please sign 
+the form and put it in the mail.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Is this some kind 
+of practical joke?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “I wish it were, 
+Steven.”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “How do I know?”</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Well, if it is a 
+practical joke, everything will be OK tomorrow—and you’ll have life insurance 
+for $1 million, guaranteed.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steven did put his 
+form in the mail—and he died the next day while crossing the street to the bus 
+stop. A pickup truck hit him. </span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; People have often 
+asked me how I come across this information, about when people are going to die.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The truth is, I 
+don’t know.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The names, phone 
+numbers, causes, dates, and times all come to me. They just appear, like little 
+movies in my head. And I write them down.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Before I did this, 
+I really did sell insurance at a big company that will remain nameless.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I suppose it’s a 
+blessing and a curse. I make a good living, but for those who take advantage 
+of my services, they and their families will have piece of mind. And someday, 
+I’ll probably see my own death; it’ll come to me the same way. Of course, I'm 
+prepared for that and have life insurance. Until then, I’m just doing the job I 
+was sent here to do.</span></p>
+<p class="MsoNormal" style="line-height: 24.0pt"><font size="2">
+<span style="font-family: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+So, if you receive mail from Morgan Associates and then receive a phone call 
+from me, I'd advise you not to hang up. </span></font></p>
+<p class="MsoNormal" style="margin-right:-.25in">
+<span style="font-size:10.0pt;
+font-family:Arial">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-right:-.25in">
+<span style="font-size:10.0pt;
+font-family:Arial">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-right:-.25in;line-height:24.0pt">
+<span style="font-size:10.0pt;font-family:Arial">&nbsp;</span></p>
+<p class="MsoNormal" align="center" style="text-align: left; margin-right: -.25in">
+&nbsp;</p><!-- #EndEditable --></td>
+</tr></tbody></table>
+		<!--- main content window ends --->
+
+				</td>
+<td width="1" bgcolor="#384B97" height="352"></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+
+<!--- footer row begins --->
+
+<tr height="42" valign="top">
+	<td width="775" bgcolor="#384B97" align="center" valign="top" class="footer">
+		<table height="42" width="773" align="center" cols="1" cellpadding="0" cellspacing="0" background="../images/footerbg.gif" id="table11">
+		<tbody><tr valign="top">
+		<td width="773" valign="top" align="center">
+			<img src="../mysite1/images/clear.gif" width="1" height="3" border="0"><br>
+			<font size="2" face="Arial">© 2004-2009 by
+			<a href="mailto:AC_Olson@hotmail.com">Andrew C. Olson</a> </font> </td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6851113-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body><!-- #EndTemplate --></html>

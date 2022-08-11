@@ -1,0 +1,58 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="slim.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="photo/lightbox.css" type="text/css" media="screen">
+<script type="text/javascript" src="photo/lightbox.js"></script>
+<title>. Carlos Slim Helú .</title>
+</head>
+
+<body>
+<div id="container"><a name="up"></a><div id="version"><a href="responsabilidad_fideicomiso.html"><img src="images/ver_esp.gif" width="64" height="17"></a></div>
+  <div id="top"><img src="images/imagen_resp_ing.jpg" alt="" width="760" height="155" border="0" usemap="#Map">
+    <map name="Map" id="Map3">
+      <area shape="rect" coords="11,11,375,46" href="biografia_ing.html">
+    </map>
+   
+    
+  </div>
+
+<div id="bgmenu">
+	<ul class="menuing">
+	   <li id="bioing"><a href="biografia_ing.html">Biografia</a></li>
+		<li id="empresaing"><a href="act_empresarial_ing.html">Actividad Empresarial</a></li>
+	  <li id="socialing"><a href="responsabilidad_ing.html">Actividad Social</a></li>
+	  <li id="pensing"><a href="desde_ing.html">De su pensamiento</a></li>
+      <li><img src="images/on_06_ing.gif"></li>
+	  <li id="comenting"><a href="contactanos_ing.html">De su pensamiento</a></li>
+	</ul>
+</div>
+<div id="titulogr"><a href="preg_resp_ing.html"><img src="images/titulo_pregresp2_ing.gif" width="350" height="37"></a><a href="responsabilidad_ing.html"></a></div>
+<div id="contenido">
+  <p><strong>Eng. Carlos Slim participated in the opening ceremony of the event <em>Fideicomiso para el Impulso de la Ingeniería</em> organized by the <em>Colegio de Ingenieros  Civiles de México</em> (Civil Engineers College) in which the new web site  iNGENET was introduced,&nbsp; created and  sponsored by TELMEX.<br>
+  </strong>Mexico City, November 20th, 2008. 
+  
+  </p><p>During his presentation, Eng. Slim expressed that “the best way to cope  with poverty is employment, health and education. The better education, the  better opportunities of jobs in the future”.</p>
+  <p>And added “it must be a priority to invest in order to urge the  employment; it is more important to think how we can generate more employment  than be focused in the economic growth, we need to set in motion small and  medium-size business, attend the agricultural sector, create infrastructure and  concentrate in housing projects”.</p>
+  <p>Furthermore, Eng. Slim stated that it is necessary to reactivate credits  around the world and affirmed that one of the biggest problems to prevent is  the worldwide credit restriction.</p>
+  <p>The <em>Fideicomiso para el Impulso de  la Ingeniería</em> is trying to support the infrastructure of the country, it will cost 200  million pesos in which 51% of this resources will be a contribution of&nbsp; Mexican construction firms and the other 49  percent will be donated by the <em>Fondo  Nacional de Infraestructura</em> (Infrastructure National Fund) of the  government of Mexico.</p>
+  <p>iNGENET (<a href="http://www.ingenet.com.mx">www.ingenet.com.mx</a>) is  a web site developed by TELMEX and it is focused to promote de Engineer sector,  as well as the infrastructure.&nbsp; It’s a  non-profit program for engineers, students, firms and all the ones interested  in this sector.&nbsp; It will include  infrastructure and engineer themes with the collaboration of Private  Institutions, the Public Sector, Academic Institutions and professional  Colleges.<br>
+  </p>
+  <div align="center"><img src="images/foto_slim_fideicomiso02.jpg" width="506" height="395"><br>
+      <br>
+  </div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td><a href="preg_resp_ing.html">&lt;&lt; back</a> </td>
+    </tr>
+  </tbody></table>
+  <div id="arriba"><a href="#up"><img src="images/btn_arriba_ing.gif" width="49" height="14"></a>&nbsp;</div>
+  </div> 
+
+
+
+<div id="pie">Official Site. Copyright © 2007</div>
+
+</div> 
+
+
+</body></html>

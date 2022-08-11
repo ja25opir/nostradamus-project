@@ -1,0 +1,562 @@
+<html><head>
+<title>Age of Empires programs</title>
+</head>
+<body bgcolor="#000000" link="#FF0000" vlink="#B00000" alink="#FF0000" text="#e0e0e0">
+<a name="top"></a>
+<br>
+<center>
+<h1>
+<font color="#ffff00">
+DRS Resource Builder/Extractor Utility
+</font>
+</h1>
+<blockquote>
+<h2>
+<a href="drsbld11.zip">Download it</a> (41 K)</h2>
+</blockquote></center>
+<p>
+</p><h3>
+Note that this is a command line utility, so you have read the description in order to use it!
+</h3>
+This is the content of the readme file:
+<h2>
+<font color="#ffb000">DRSBUILD UTILITY DOCUMENTATION</font></h2>
+<p>
+DRSBUILD Version 1.0 - MS AoE DRS Resource Builder/Extractor Utility
+</p><p>
+Copyright (C) 1997 Stoyan Ratchev. All rights reserved.
+</p><p>
+Written by Stoyan Ratchev, sratchev@mail.techno-link.com
+</p><pre>Posted to: AoE Heaven, http://age.gamestats.com/age/
+           Empire of Ages, http://www.mordor.ch/user/cartho/age/
+</pre>
+This program is freeware.
+Please e-mail me for bug-reports, suggestions and comments.
+<p>
+Age of Empires a game by Microsoft &amp; Ensemble Studios.
+All trademarks are property of their respective owners.
+
+</p><h2>
+<font color="#ffb000">
+Contents
+</font>
+</h2>
+<a href="#int">
+Introduction
+<br>
+</a><a href="#ins">
+Installation</a>
+<br>
+<a href="#usa">
+Usage</a> - Examples
+<br>
+<a href="#pra">
+Practice</a>
+- Creating Modpacks with DRSBUILD
+- Installing Modpacks with DRSBUILD
+- Dangerous commands
+<br>
+<a href="#cha">
+Changes</a>
+- Version 1.0 - Version 1.1
+<br>
+<a href="#bug">
+Bugs &amp; Limitations</a>
+<br>
+<a href="#fut">
+Future Upgrades</a>
+<br>
+<a href="#fee">
+Feedback and Support</a>
+<br>
+<a href="#cre">
+Credits</a>
+<br>
+<a name="int"></a>
+<h3>
+<font color="#ffb000">
+Introduction</font>
+</h3>
+DRSBUILD is a command-line utility for building MS Age of Empires 
+data resource (.DRS) files from wave sound (.WAV) files, shape graphics
+(.SLP, .SHP) files and various binary (.BIN) files. It supports such
+actions as: adding/replacing files in data resource files, deleting
+files from data resource files, extracting files from data resource
+files and listing files contained in data resource files. The 
+command-line interface of DRSBUILD features full wildcards support, 
+which means that all actions can be performed on multiple sound, 
+graphics and binary files, and target data resource files, and will 
+affect only the files matching the specified wildcard arguments.
+<p>
+The primary goal of DRSBUILD is to make possible the creation and use
+of AoE modpacks. A "modpack" (modification package) is a set of 
+modified graphics, sounds and rules that should replace the standard 
+ones and make a game to look and feel differently, while retaining the 
+same game engine. Modpacks are available for many of the most popular
+games - Civ2, Warcraft, DOOM, Quake, etc. Anybody who has played a good 
+modpack knows that by editing the game resources the best game can be 
+made even better! I've played many Civ2 modpacks that I loved more than 
+the original game, so I feel that the same thing for AoE is a must. 
+That's why I decided to write a builder/extractor utility for the AoE 
+data resource files. This utility can be used by modpack developers and 
+modpack users to achieve an unexpected AoE experience.
+</p><p>
+Since the graphics &amp; sounds of AoE are packed in data resource (.DRS) 
+files, their direct replacement is not possible. Furthermore even if 
+somebody invents a way to modify the data resource files by replacing 
+some of the files contained within them with other files, he couldn't 
+share his work with others without great difficulty, since the data 
+resource files of AoE are very large (total size 46.4 MB). Here is where 
+comes the need of such an utility like DRSBUILD - with it the extraction, 
+modification and replacement of the files embedded in the .DRS files is 
+an easy and straightforward task. Modpack developers can experiment with 
+every one of the 683 graphics and 144 sounds, as well as with the user 
+interface of 24 dialogs, 108 graphics and 17 sounds, by modifying or 
+replacing some of them to make specific scenario or campaign more 
+attractive or just to let people have fun. After finishing their work, 
+they can provide to others only the files they have modified, not the 
+whole 45MB resource set. Modpack users on the other hand can put the 
+modified files into the data resource files with a single command-line 
+invocation of DRSBUILD, or even better by running an install script 
+(.BAT file) which makes backup copies of the original .DRS files, 
+installs the modpack by invoking DRSBUILD and finally tells the people 
+to enjoy and how to restore everything as it was. A sample modpack 
+installation script is provided in the file MINSTALL.BAT.
+</p><p>
+If you are still in doubt if all this can be possible, you can stop
+reading for a while, surf to AoE Heaven and download from there
+"First Age of Empires Modpack" made with DRSBUILD. This sample modpack
+contains 2 new files - 1 graphic for the Egyptian wonder and 1 sound for
+the wonder selection. There are also installation/deinstallation scripts
+and a sample scenario to test the modpack. After installing it and 
+successfully defending your new differently looking and sounding wonder
+in the sample scenario, you can continue reading this and other documents
+that come with DRSBUILD to see how it was created and how you can create 
+your own modpacks, much better than this, or use modpacks created by others.
+</p><p>
+Here we come to the bad news. You can't edit the graphics files 
+(.SLP and .SHP) even extracted from the .DRS files - their format is 
+proprietary to ES and is too complicated to be dug out by hackers. There 
+are no utilities for editing and converting this format and will never be, 
+unless ES supplies them. However, according to Matt Pritchard, the ES
+graphics engine specialist, there is a high probability for that. So you
+should wait for it to edit the graphics, and me to remove this sad 
+paragraph from this text. As for the new Egyptian wonder graphic I used in
+the "First Age of Empires Modpack", I took it from the data resource files
+of the game - it was there, #30 in GRAPHICS.DRS, not used and unseen by 
+nobody. There are several other like it that you could use for the same
+purpose, but of course the possibilities are limited.
+</p><p>
+To do whatever customization you want, you need to know what to modify.
+The files embedded in the .DRS files are identified by their type - 
+.BIN, .SLP, .SHP or .WAV, and by integer numbers (file identifiers).
+These numbers are of course not very descriptive by themselves. I'm currently
+preparing a table containing the descriptions of most files from 
+SOUNDS.DRS and GRAPHICS.DRS and some from INTERFAC.DRS. It will soon be 
+available for download on the AoE Heaven and Telcontar's AoE sites, and 
+will probably be included in the future DRSBUILD versions packages. 
+</p><p>
+The history of DRSBUILD is interesting. I didn't discovered the .DRS 
+files format myself. I found a somewhat incomplete (and slightly incorrect)
+description in the Telcontar's AoE site, written by Cyrille Artho and
+Steve Chen. I was grabbed by the idea, so I filled the blanks in their 
+description of the DRS format and wrote the first version of DRSBUILD. It 
+contained a detailed description of the .DRS files format as I understood
+it. It was pretty full except for a single mysterious byte. After that an 
+email from Matt Pritchard (ES) clarified it all. His description is of 
+course the most adequate one, but at least for now is considered a document 
+to be used only by AoE utility developers. Since I had already written my 
+own description, I simply slightly corrected it to make it full. It is 
+provided in the file DRSFMT.TXT.
+</p><p>
+Please note that this software is comes with ABSOLUTELY NO
+WARRANTY of any kind, so use it at your own risk. 
+</p><p>
+Microsoft (MS) and Age of Empires (AoE) are trademarks of Microsoft
+Corporation. All other trademarks are property of their respective owners.
+
+<a name="ins"></a>
+</p><h3>
+<font color="#ffb000">
+Installation
+</font>
+</h3>
+It's very simple. The original package is a ZIP archive called
+DRSBLD11.ZIP, which contains the following files:
+<pre>DRSBUILD.EXE 		- executable
+DRSBUILD.TXT		- the file you are currently reading
+MINSTALL.BAT		- sample modpack installation script
+DRSFMT.TXT			- description of .DRS files format
+</pre>
+After unzipping the archive, copy the executable to a location somewhere
+in your PATH, so you can use it without specifying its full name.
+<a name="usa"></a>
+<h3>
+<font color="#ffb000">
+Usage</font>
+</h3>
+
+DRSBUILD is a command-line (console) utility. This means it's intended
+to be run from a MS-DOS prompt, and with correct arguments. Don't try
+to click it in the Windows Explorer - nothing will happen. Read the
+description that follows to learn about the DRS operation modes and
+command-line switches.
+<pre>Usage: DRSBUILD {/a | /r | /d | /e | /l | /h} &lt;drs_file&gt;[.DRS]
+                [&lt;file&gt; ...] [/o &lt;out_dir&gt;] [/s]
+
+Commands:
+    /a  Add/replace files in &lt;drs_file&gt;
+    /r  Replace files in &lt;drs_file&gt;
+    /d  Delete files from &lt;drs_file&gt;
+    /e  Extract files from &lt;drs_file&gt;
+    /l  List files in &lt;drs_file&gt;
+    /h  Print a help screen
+
+Switches:
+    /o  Extract files to &lt;out_dir&gt; folder, default is current folder
+    /s  Silent mode
+</pre>
+All commands (except "/h") work on one or more .DRS files which
+must follow the command. This is the &lt;drs_file&gt;
+ argument. It must be a
+valid file specification for the Windows 95 operating system and can
+contain "wildcards". These are the characters "*" or "?", where "?"
+stands for "any character" and "*" stands for "zero or more any characters".
+If &lt;drs_file&gt; is a filename (no wildcards) the .DRS extension can be
+omitted, and the file is not required to exist if the "/a" command is
+given - in this case a new .DRS file with the specified name is created.
+If &lt;drs_file&gt; contains wildcards (e. g. "*.drs") then it should be
+possible to be expanded to one or more existing .DRS files, even
+if the "/a" command is given - in this case all commands work on all existing
+.DRS files matching the specified wildcard argument.
+<p>
+Besides the command and the .DRS file(s), you can specify any number
+of file specifications for the files which the command should process.
+These are the &lt;drs_file&gt;
+ arguments. They can also contain wildcards
+(e. g. "*.wav"). If "/a" or "/r" commands are given, the &lt;drs_file&gt;
+ arguments
+are assumed to be existing external files which should be added to or 
+replaced in the specified .DRS file(s). Otherwise, they are assumed to be 
+"internal" files, i. e. contained within the specified .DRS file(s), which 
+should be deleted, extracted or listed. If there are no &lt;drs_file&gt;
+arguments given,
+they assumed to be "*.*", i. e. all files in the current folder. If you 
+don't know the filenames of the internal files, use DRSBUILD with the "/l" 
+command to see them.
+</p><p>
+Examples:
+</p><p>
+To extract all files from the DRS file INTERFAC.DRS, located in the
+folder \GAMES\MSAOE\DATA type:
+</p><pre>  DRSBUILD /e \games\MSAoE\data\interfac.drs
+</pre>
+To build the DRS file INTERFAC.DRS in the current folder from the all files in the
+folder INTERFAC\ type:
+<pre>  DRSBUILD /a interfac.drs interfac\*.*
+</pre>
+
+To delete all .SHP files from the .DRS file INTERFAC.DRS in the current folder 
+type - don't try the game with this version of INTERFAC.DRS :-) :
+<pre>  DRSBUILD /d interfac.drs *.shp
+</pre>
+To replace only the existing files in all .DRS files in the folder
+\GAMES\MSAOE\DATA with the corresponding (matching file identifiers) files 
+in the MY_MODPACK\ folder without adding new files type:
+<pre>  DRSBUILD /r \games\MSAoE\data\*.drs my_modpack\*.*
+</pre>
+To list all files in the DRS file INTERFAC.DRS, located in the current
+folder, type:
+<pre>  DRSBUILD /l interfac.drs
+</pre>
+Wildcards are supported when specifying the files to be included.
+<p>
+NOTE: If your files have long names with spaces, you should place them in "".
+</p><p>
+NOTE: In the older versions of DRSBUILD, the "Add/replace" command was
+called "Build" command and the switch was "/b". It's still there and
+works in the same manner as the "/a" switch. It is provided for
+backward compatibility only.
+</p><p>
+The filenames of the files contained within a .DRS file can't be determined
+from the .DRS file format. Each file is identified by an unique integer
+number, which serves as an identifier for the file. When extracting or
+listing, the filenames are constructed according to standard namespace 
+rules in the following manner: the name contains 8 symbols, the first 3 of them 
+being the same as the first three symbols of the .DRS filename, the next 5 
+containing the file identifier, padded with zeros from the left if less than 
+10000; the extension of course is ".BIN", ".SLP", ".SHP" and ".WAV" according
+to the file type. For example, the wave file numbered 5148 from SOUNDS.DRS is 
+named SOU05148.WAV. When adding an external file to a DRS file, DRSBUILD expects 
+the file identifier in the last 5 symbols of the filename and the type in the 
+extension, the first 3 letters being not important. That is you can replace
+#5148 in SOUNDS.DRS with AOE05148.WAV or WAV05148.WAV, but not with SOU5148.WAV
+or WHATEVER.WAV. If a non-compliant external filename is encountered, it's error. 
+This is made on purpose, to prevent as much as possible the building of 
+corrupted DRS files that could crash the game and hang the OS.
+</p><p>
+During the work of DRSBUILD, you'll see messages on the screen about the 
+operation currently in progress. If an error occurs, a message is displayed 
+and the program execution is stopped. Possible errors include failures to open, 
+read from or write to some of the files that were specified, wrong usage, or 
+attempt to use invalid input files or non-DRS files as targets. The type of the 
+DRS files is determined from their extension and from their header. 
+The extension of the DRS files must be always ".DRS".
+</p><p>
+No matter the command, the .DRS files are not required to reside in the AoE 
+DATA\ folder. The output files are created in the current folder, unless 
+otherwise specified in the &lt;drs_file&gt; argument and the "/o" switch. To use 
+the .DRS files with AoE, you must copy them by hand to the DATA folder
+where the game was installed. After doing so, simply start the game and
+enjoy.
+</p><p>
+<a name="pra"></a>
+</p><h3>
+<font color="#ffb000">
+Practice</font>
+</h3>
+
+How you should practically use DRSBUILD to create or install modpacks?
+These are two completely different tasks, the creation being a major
+trouble for modpack developers, and the installation for modpack
+users (or modpack developers when writing installation scripts for their
+modpacks). I have therefore divided this section into two parts for these 
+two tasks. Don't skip it, reading it can save you lots of trouble.
+<p>
+<b>CREATING MODPACKS WITH DRSBUILD:
+</b></p><p>
+First of all, you need to determine what files you should change. You need 
+to know the file identifier of each file in order to do this. Refer to the file 
+DRSFILES.TXT (will be available in a few days for download) or some other 
+description of the .DRS files contents to learn them. Each identifier corresponds 
+to a given object or event, for example the Egyptian wonder graphic is #33 in 
+GRAPHICS.DRS and the wonder selection event sound is #5148 in SOUNDS.DRS. If you 
+replace some of the files in the .DRS files with files in the same format that 
+the game expects for each particular file, that is .SLP for the graphics and .WAV 
+for the sounds, the game will use the modified ones. In fact this is your chance 
+to create modpacks.
+</p><p>
+If you want to take some of the standard files as a base for creating your own,
+you must extract them from the .DRS files of the game first. Use DRSBUILD with 
+the "/e" switch to do it. For example to extract all embedded files from all
+.DRS files of the game (installed in the \GAMES\MSAOE folder) in the FILES 
+folder type:
+</p><pre>  DRSBUILD /e \games\MSAoE\data\*.drs /o files
+</pre>
+Next you should edit the standard files, or create/obtain the files with which 
+you them to be replaced. As for the sounds, you can take any .WAV file you want, 
+record it or create it some other way. Be careful though - some sound editors
+produce .WAV files in a slightly incompatible format, they do not crash the
+game, but are never heard. The Windows 95 Sound Recorder appears to be such one. 
+As this is the only "sound editor" I have, to create the "First Age of
+Empires Modpack" I simply took the file "The Microsoft Sound.wav" from the 
+WINDOWS\MEDIA folder, and it worked perfectly. The Steve's AoE Sound Editor
+has some interesting features like making all sounds equally loud, etc. 
+Download it from the Telcontar's site and try it. Since it modifies directly
+SOUNDS.DRS, after finishing your modpack you should extract the modified sounds
+form SOUNDS.DRS using DRSBUILD.
+<p>
+As for the graphics ... well, as I already said, you can't create or edit them 
+for now, not before the appropriate utility is released by ES. This utility is
+expected to convert .BMP or some other popular picture (or 3D modeling ?) 
+format to .SLP and .SHP, and vice-versa. So you will probably soon be able to 
+edit the graphics with popular tools and then convert them to .SLP. Till then
+the only .SLP files you can use are the ones from the standard .DRS files - 
+some of them are really beautiful but not used in the game, so you can make use 
+of them. Please don't try to replace the archer graphics with catapult graphics,
+this won't make archers shoot better :-)
+</p><p>
+When your new files are ready, copy all of them into one folder, let's say
+named NEWFILES. Delete all standard files from it - you don't need to provide 
+any files you have not modified. Then start renaming - if the names of your
+files don't follow the standard namespace conventions used by DRSBUILD 
+(see above) rename them, or else they can't be put into the .DRS files and tried.
+After you have renamed your files, try them by executing DRSBUILD with 
+a command-line like (backup your original .DRS files before executing this!):
+</p><pre>  DRSBUILD /r \games\MSAoE\data\*.drs newfiles\*.slp newfiles\*.wav
+</pre>
+Now start the game and see what you have done. For easier testing, you may 
+need to create a sample scenario that should contain all objects you are
+customizing. 
+<p>
+When you have finished editing and testing, write a short documentation on
+how your modpack should be installed, or even better an installation script.
+A standard installation script is provided in the file MINSTALL.BAT, you can
+ship it along with your files or edit it to create a script that best suites
+your needs. You can also ship DRSBUILD along with you files, provided that 
+you supply this file also and in unmodified form. You are not required 
+to supply with DRSBUILD any of the files DRSFMT.TXT and DRSFILES.TXT.
+</p><p>
+Now take all the files you want to provide - documentation, installation 
+scripts, DRSBUILD files, sample scenarios and of course your new graphics and 
+sounds, and zip them. You can zip them without the folder names and write a 
+detailed description of what should be placed where. Or you can zip them with 
+the folder names and require that the user unzips the package into the AoE 
+installation folder preserving the folder structure, so that each file goes to 
+its appropriate place. The recommended folder structure is:
+</p><pre>    scenario\
+        (scenarios)
+    modpack\
+        my_modpack\
+            (new graphics &amp; sounds)
+    (documentation)
+    (DRSUILD files - drsbuild.exe, drsbuild.txt)
+    (installation scripts)
+</pre>
+With this structure, the user should read the documentation (directly
+from the archive), unpack the archive into his AoE installation folder,
+run the installation script &amp; enjoy.
+<p>
+<b>INSTALLING MODPACKS WITH DRSBUILD:
+</b></p><p>
+Always backup your original .DRS files before replacing them with the 
+new ones from the modpack! Even if the installation script does so
+automatically, check what exactly it tries to do before running 
+it, or better copy DATA\*DRS somewhere else and be safe!
+</p><p>
+The DRSBUILD command-line which actually installs the modpack should be 
+like:
+</p><pre>  DRSBUILD /r data\*.drs modpack\my_modpack\*.slp modpack\my_modpack\*.wav
+</pre>
+when run from the AoE installation directory. The directory 
+modpack\my_modpack is supposed to contain the new graphics &amp; sounds of the
+modpack.
+<p>
+The standard installation script MINSTALL.BAT should be always run from the
+AoE installation directory with one argument - the name of the modpack you 
+wish to install. This name must actually be the name of the folder under 
+MODPACK\ folder where the modpack files reside. For the above example:
+</p><pre>  MINSTALL my_modpack
+</pre>
+To uninstall the modpack, run the uninstall script (if available) or simply
+copy your backup-ed original *.DRS files into the DATA folder over the modified 
+ones.
+<p>
+<b>DANGEROUS COMMANDS
+</b>
+</p><p>
+NEVER run DRSBUILD with the "/a" (add/replace) or the "/d" (delete)
+commands unless you are pretty sure what you are doing! Especially don't
+try this on the standard .DRS files, or if you do, don't expect the game to
+work! These commands are dangerous, since their use can lead to .DRS files
+with additional or missing file types and file identifiers. Only Heaven
+knows what the game can do if started with such files, but hanging your system 
+is the most probable outcome. Of course you can do this at your own risk and
+if you find bugs in the work of these commands, your feedback will be highly
+appreciated.
+
+<a name="cha"></a>
+</p><h3>
+<font color="#ffb000">
+Changes</font>
+</h3>
+VERSION 1.0 - VERSION 1.1
+<pre>- "Build" ("/b") command replaced with "Add/replace" ("/a") command.
+- "Replace only" ("/r") command added - very useful for installing modpacks.
+- "Delete" ("/d") command added.
+- Added full wildcards support.
+- Added "/o" switch for the output directory.
+- Added "/s" switch for silent mode, default mode made "verbose".
+- Documentation updated.
+</pre>
+<a name="bug"></a>
+<h3>
+<font color="#ffb000">
+Bugs and limitations</font>
+</h3>
+For now none available.
+<a name="fee"></a>
+<h3>
+<font color="#ffb000">
+Feedback and support</font>
+</h3>
+The only important thing one can expect from such an utility like DRSBUILD
+is: reliability. Or else it will not only make nobody happy, but could
+really put many people into trouble. So if you suspect the least bug in the
+work of DRSBUILD, please contact me! Your help will be highly appreciated.
+I've tested DRSBUILD very carefully, but still I can't guarantee there are
+no bugs left. I will check carefully every bug-reporting email I receive
+and fix any bug I find.
+<p>
+I will try to keep up with the game and provide bug-fixes and future 
+upgrades to anyone interested. They will probably be available on the 
+AoE Heaven site at:
+</p><pre>  http://age.gamestats.com/age/
+</pre>
+and on the Empire of Ages site at:
+<pre>  http://games.nextlevel.net/cartho/age/
+</pre>
+<a name="cre"></a>
+<h3>
+<font color="#ffb000">
+Credits</font>
+</h3>
+
+I would like to thank the following people for supporting and
+encouraging my work:
+<p>
+Cyrille Artho (telcontar@mordor.ch) for the initial idea, the
+DRS format specification I started from and for encouraging my work.
+</p><p>
+Steve Chen (slchen@qte.net), who also participated in the DRS format
+disclosure and wrote a program for editing the game sounds - 
+it has many interesting features not available in DRSBUILD, but is
+restricted exclusively to the sounds.
+</p><p>
+Matt Pritchard (MPritchard@EnsembleStudios.com), the graphics engine
+and optimization specialist in ES for maintaining the AoE utility
+developers mailing list and supporting the work of all of us.
+</p><p>
+Archangel Michael (webmaster@heavenweb.com) for web-mastering the
+AoE Heaven site and giving me excellent support and feedback.
+</p><p>
+And of course Microsoft &amp; Ensemble Studios for creating the greatest
+RTS game of all times, Age of Empires!
+</p><p>
+************************************************************************
+<br>
+Copyright (C) 1997 Stoyan Ratchev. All rights reserved.
+<br>
+Last updated on 30 Nov 1997.
+
+</p><p>
+</p><center>
+<h3>
+<a href="drsbld11.zip">Download it</a> (41 K)
+</h3>
+<p>
+<table border="0">
+<tbody><tr>
+<td>
+<a href="#top"><img border="0" src="../top.gif" alt="Top" align="bottom" width="66" height="60"></a>
+</td>
+<td>
+<a href="index.html"><img border="0" src="../back.gif" alt="Back" align="bottom" width="63" height="63"></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="#top">Top</a>
+</td>
+<td align="center">
+<a href="index.html">Back</a>
+</td>
+</tr>
+</tbody></table>
+<br><br>
+<b><font size="+1">
+<a href="../index.html">Main</a> -
+<a href="../files/index.html">Downloads</a> -
+<a href="../faq.html">FAQ</a> -
+<a href="http://age.gamesmania.com/cgi-bin/board/age.cgi">Forum</a> -
+<a href="../iviews.html">Interviews</a> -
+<a href="../AoElinks.html">Links</a> -
+<a href="../news.html">News</a> -
+<a href="../ror/">Rise of Rome</a> -
+<a href="../scn/index.html">Scenarios</a> - 
+<a href="../strats.html">Strategies</a> - 
+<a href="../tips.html">Tips</a> -
+<a href="../units.html">Units</a>
+</font></b>
+
+</p></center></body></html>

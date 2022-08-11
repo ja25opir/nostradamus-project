@@ -1,0 +1,1143 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+    <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/scripts/effects.core.js"></script>
+    <script type="text/javascript" src="/scripts/navigation.js"></script>
+    
+        
+
+    <script type="text/javascript">
+        //<![CDATA[ 
+
+        function SearchPage() {
+            var searchTerm = encodeURIComponent(document.getElementById('q').value);
+
+            location.href = 'buzz.aspx?q=' + searchTerm;
+        }
+
+
+        //]]>
+    </script>
+
+    <script type="text/javascript" src="http://mediaplayer.yahoo.com/js"></script>
+
+
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-12841656-1");
+        pageTracker._trackPageview();
+    } catch (err) { }</script>
+<link href="App_Themes/systim/navigation.css" type="text/css" rel="stylesheet"><link href="App_Themes/systim/profileStyles.css" type="text/css" rel="stylesheet"><link href="App_Themes/systim/styles.css" type="text/css" rel="stylesheet"><title>
+
+</title></head>
+<body>
+<div id="mainContainer">
+	<div id="contentContainer">
+
+		<div id="header">
+			<div id="logo"><a href="/index.aspx"><img src="/images/banner.png" border="0" alt="logo"></a></div>
+			<ul id="navigation">
+				<li id="home" style="width:120px;">
+			<p><a href="/index.aspx"><img src="/images/home.png" alt="home" border="0"></a></p>
+		</li>
+		<li id="find">
+			<p><img src="/images/findamix.png" alt="find a mix"></p>
+			<p class="subtext"><a href="/findamix/recent2.aspx">Recent</a></p>
+			<p class="subtext"><a href="/findamix/findmix2.aspx">Search</a></p>
+			<p class="subtext"><a href="/findamix/imagegallery.aspx">Image Gallery</a></p>
+		</li>
+		<li id="community">
+			<p><img src="/images/nav_community.png" alt="community"></p>
+			<p class="subtext"><a href="/community/forum">Forum</a></p>
+			<p class="subtext"><a href="/community/blog">Blog</a></p>
+			<p class="subtext"><a href="/writings">Articles</a></p>
+			<p class="subtext"><a href="/findamix/exhibitionlist.aspx">Exhibits</a></p>
+			<p class="subtext"><a href="/buzz.aspx">Buzz</a></p>
+		</li>
+			<li id="submit">
+			<p><img src="/images/nav_submitamix.png" alt="submit a mix"></p>
+			<p class="subtext"><a href="/SubmitAMix/SubmitMixTape.aspx">Submit a Mixed Tape</a></p>
+			<p class="subtext"><a href="/SubmitAMix/SubmitMix.aspx">Submit a Mixed CD or Playlist</a></p>
+			<p class="subtext"><a href="/SubmitAMix/CreateMix.aspx">Upload a Playlist</a></p>
+		</li>
+		<li id="myMix" style="width:270px;">
+			<p><img src="/images/nav_myartofthemix.png" alt="my art of the mix"></p>
+			<p class="subtext"><a href="/login.aspx">Log In/Log Out</a></p>
+			<p class="subtext"><a href="/MyAotm/updatemem.aspx">Manage Profile</a></p>
+			<p class="subtext"><a href="/MyAotm/ManageMixes.aspx">Manage Mixes</a></p>
+			<p class="subtext"><a href="/MyAotm/EditFav.aspx">Manage Favorites</a></p>
+			
+			<p class="subtext"><a href="/MyAOTM/CreateExhibit.aspx">Manage Exhibits</a></p>
+		</li>
+		</ul>
+		</div>
+
+   
+        
+    <div id="mainContentContainer">
+        <div class="container">
+           <h2>Buzz</h2>
+            <p>
+                Find the latest MP3s and buzz for nearly any band. You'll be amazed at the results!<br>
+                Powered by <a href="http://echonest.com">Echonest</a>.</p>
+            <p id="theForm">
+                <input type="text" name="q" id="q" value="Delorean" onkeypress="if(event.keyCode==13) SearchPage()">
+                <input type="button" value="Search " onclick="SearchPage()" onkeypress="SearchPage()">
+                (Be patient)
+            </p>
+            </div>
+                <div id="narrowColumn">
+        <div class="container">
+               
+                    <h2>
+                        Latest MP3s from Delorean</h2>
+                        
+                                       <ul class="otherMixesItem">
+             <li>
+                                    9-03-2010</li>
+                                <li>
+                                    Real Love (LightsoverLA remix), by Delorean found at http://dailybeatz.com</li>
+                                    <li><a href="http://www.dailybeatz.net/music/reallovelightsoverla.mp3" title="Real Love (LightsoverLA remix), by Delorean found at http://dailybeatz.com">Play</a> or <a href="http://www.dailybeatz.net/music/reallovelightsoverla.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    8-30-2010</li>
+                                <li>
+                                    Stay close, by Delorean found at http://themusic.fm/</li>
+                                    <li><a href="http://TheMusic.FM/wp-content/uploads/delorean-stayclose.mp3" title="Stay close, by Delorean found at http://themusic.fm/">Play</a> or <a href="http://TheMusic.FM/wp-content/uploads/delorean-stayclose.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    8-25-2010</li>
+                                <li>
+                                    Real Love (LightsoverLA Remix), by Delorean found at http://kickkicksnare.com</li>
+                                    <li><a href="http://kickkicksnare.com/wp-content/uploads/2010/08/Real-Love-LightsoverLA-Remix.mp3" title="Real Love (LightsoverLA Remix), by Delorean found at http://kickkicksnare.com">Play</a> or <a href="http://kickkicksnare.com/wp-content/uploads/2010/08/Real-Love-LightsoverLA-Remix.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    8-23-2010</li>
+                                <li>
+                                    Grow, by Delorean found at http://www.rollogrady.com</li>
+                                    <li><a href="http://www.rollogrady.org/media/wp-content/uploads/2010/08/04-grow.mp3" title="Grow, by Delorean found at http://www.rollogrady.com">Play</a> or <a href="http://www.rollogrady.org/media/wp-content/uploads/2010/08/04-grow.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    8-17-2010</li>
+                                <li>
+                                    Real Love (LightsoverLA remix), by Delorean found at http://www.themusicninja.com</li>
+                                    <li><a href="http://themusicninja.net/newsongs/Delorean-Real%20Love%20(LightsoverLA%20remix).mp3" title="Real Love (LightsoverLA remix), by Delorean found at http://www.themusicninja.com">Play</a> or <a href="http://themusicninja.net/newsongs/Delorean-Real%20Love%20(LightsoverLA%20remix).mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    8-10-2010</li>
+                                <li>
+                                    Deli, by Delorean found at http://djnodj.com</li>
+                                    <li><a href="http://music.djnodj.com/audio/Delorean-Deli.mp3" title="Deli, by Delorean found at http://djnodj.com">Play</a> or <a href="http://music.djnodj.com/audio/Delorean-Deli.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-30-2010</li>
+                                <li>
+                                    Deli, by Delorean found at http://www.sundtrak.com/</li>
+                                    <li><a href="http://www.sundtrak.com/wp-content/uploads/2010/07/Delorean-Deli.mp3" title="Deli, by Delorean found at http://www.sundtrak.com/">Play</a> or <a href="http://www.sundtrak.com/wp-content/uploads/2010/07/Delorean-Deli.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-29-2010</li>
+                                <li>
+                                    Stay Close (Live at Pitchfork), by Delorean found at http://citiesoftheplain.tumblr.com</li>
+                                    <li><a href="http://www.rollingcotp.com/beats/July/Delorean%20-%20Stay%20Close%20%28Live%20at%20Pitchfork%29.mp3" title="Stay Close (Live at Pitchfork), by Delorean found at http://citiesoftheplain.tumblr.com">Play</a> or <a href="http://www.rollingcotp.com/beats/July/Delorean%20-%20Stay%20Close%20%28Live%20at%20Pitchfork%29.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-28-2010</li>
+                                <li>
+                                    Real love, by Delorean found at http://keepreal.org</li>
+                                    <li><a href="http://keepreal.org/podpress_trac/web/7090/0/Delorean_RealLove.mp3" title="Real love, by Delorean found at http://keepreal.org">Play</a> or <a href="http://keepreal.org/podpress_trac/web/7090/0/Delorean_RealLove.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-27-2010</li>
+                                <li>
+                                    Stay Close, by Delorean found at http://musicforants.com/blog/</li>
+                                    <li><a href="http://musicforants.com/assets/fest/01%20Stay%20Close.mp3" title="Stay Close, by Delorean found at http://musicforants.com/blog/">Play</a> or <a href="http://musicforants.com/assets/fest/01%20Stay%20Close.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-24-2010</li>
+                                <li>
+                                    Real Love (Tropical Acid Version by ARP), by Delorean found at http://www.thecitizeninsane.com</li>
+                                    <li><a href="http://citizeninsanemedia.com/Real%20Love%20%28Tropical%20Acid%20Version%20by%20ARP%29.mp3" title="Real Love (Tropical Acid Version by ARP), by Delorean found at http://www.thecitizeninsane.com">Play</a> or <a href="http://citizeninsanemedia.com/Real%20Love%20%28Tropical%20Acid%20Version%20by%20ARP%29.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-23-2010</li>
+                                <li>
+                                    Real love, by Delorean found at http://music.minneapolisfuckingrocks.com</li>
+                                    <li><a href="http://www.minneapolisfuckingrocks.com/mp3/delorean_reallove.mp3" title="Real love, by Delorean found at http://music.minneapolisfuckingrocks.com">Play</a> or <a href="http://www.minneapolisfuckingrocks.com/mp3/delorean_reallove.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-23-2010</li>
+                                <li>
+                                    Endless Sunset, by Delorean found at http://ecstasyinslowmotion.tumblr.com</li>
+                                    <li><a href="http://www.thewhitenoiserevisited.co.uk/sounds/EndlessSunset.mp3" title="Endless Sunset, by Delorean found at http://ecstasyinslowmotion.tumblr.com">Play</a> or <a href="http://www.thewhitenoiserevisited.co.uk/sounds/EndlessSunset.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-22-2010</li>
+                                <li>
+                                    Real Love, by Delorean found at http://iguessimfloating.blogspot.com/</li>
+                                    <li><a href="http://www.iguessimfloating.net/assets/mp3s/08%20Real%20Love.mp3" title="Real Love, by Delorean found at http://iguessimfloating.blogspot.com/">Play</a> or <a href="http://www.iguessimfloating.net/assets/mp3s/08%20Real%20Love.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-21-2010</li>
+                                <li>
+                                    Deli, by Delorean found at http://www.thecitizeninsane.com</li>
+                                    <li><a href="http://citizeninsanemedia.com/Deli.mp3" title="Deli, by Delorean found at http://www.thecitizeninsane.com">Play</a> or <a href="http://citizeninsanemedia.com/Deli.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-17-2010</li>
+                                <li>
+                                    Stay close, by Delorean found at http://www.livingears.com/</li>
+                                    <li><a href="http://livingears.com/music/LivingEarsRadio/071010/Stay%20close.mp3" title="Stay close, by Delorean found at http://www.livingears.com/">Play</a> or <a href="http://livingears.com/music/LivingEarsRadio/071010/Stay%20close.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-10-2010</li>
+                                <li>
+                                    Simple Graces, by Delorean found at http://newyorkrockmarket.com</li>
+                                    <li><a href="http://newyorkrockmarket.files.wordpress.com/2010/07/delorean-simple-graces.mp3" title="Simple Graces, by Delorean found at http://newyorkrockmarket.com">Play</a> or <a href="http://newyorkrockmarket.files.wordpress.com/2010/07/delorean-simple-graces.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    7-08-2010</li>
+                                <li>
+                                    Stay Close, by Delorean found at http://www.quarterlifeparty.com</li>
+                                    <li><a href="http://www.quarterlifeparty.com/wp-content/uploads/2010/07/01-Stay-Close.mp3" title="Stay Close, by Delorean found at http://www.quarterlifeparty.com">Play</a> or <a href="http://www.quarterlifeparty.com/wp-content/uploads/2010/07/01-Stay-Close.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    6-01-2010</li>
+                                <li>
+                                    Real Love, by Delorean found at http://musicforants.com/blog/</li>
+                                    <li><a href="http://musicforants.com/assets/mix/02%20Real%20Love.mp3" title="Real Love, by Delorean found at http://musicforants.com/blog/">Play</a> or <a href="http://musicforants.com/assets/mix/02%20Real%20Love.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    5-04-2010</li>
+                                <li>
+                                    Stay Close, by Delorean found at http://musicforants.com/blog/</li>
+                                    <li><a href="http://musicforants.com/assets/trackreview/01%20Stay%20Close.mp3" title="Stay Close, by Delorean found at http://musicforants.com/blog/">Play</a> or <a href="http://musicforants.com/assets/trackreview/01%20Stay%20Close.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    5-01-2010</li>
+                                <li>
+                                    Come Wander, by Delorean found at http://audiomuffin.com</li>
+                                    <li><a href="http://mp3muffin.com/Foote/ComeWander.mp3" title="Come Wander, by Delorean found at http://audiomuffin.com">Play</a> or <a href="http://mp3muffin.com/Foote/ComeWander.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    4-30-2010</li>
+                                <li>
+                                    Seasun, by Delorean found at http://citiesoftheplain.tumblr.com</li>
+                                    <li><a href="http://www.rollingcotp.com/beats/DeloreanSeasun.mp3" title="Seasun, by Delorean found at http://citiesoftheplain.tumblr.com">Play</a> or <a href="http://www.rollingcotp.com/beats/DeloreanSeasun.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    4-29-2010</li>
+                                <li>
+                                    Stay Close, by DELOREAN found at http://gorillavsbear.blogspot.com</li>
+                                    <li><a href="http://gvsbchris.com/Stay%20Close%20Sun%20Airway.mp3" title="Stay Close, by DELOREAN found at http://gorillavsbear.blogspot.com">Play</a> or <a href="http://gvsbchris.com/Stay%20Close%20Sun%20Airway.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    4-28-2010</li>
+                                <li>
+                                    Real Love, by Delorean found at http://www.emodrengindiepige.dk</li>
+                                    <li><a href="http://www.emodrengindiepige.dk/audio/02%20Real%20Love.mp3" title="Real Love, by Delorean found at http://www.emodrengindiepige.dk">Play</a> or <a href="http://www.emodrengindiepige.dk/audio/02%20Real%20Love.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                                       <ul class="otherMixesItem">
+             <li>
+                                    4-27-2010</li>
+                                <li>
+                                    Stay close, by Delorean found at http://www.clubfonograma.com/</li>
+                                    <li><a href="http://clubfonograma.podbean.com/mf/web/rgzcb7/delorean_stayclose.mp3" title="Stay close, by Delorean found at http://www.clubfonograma.com/">Play</a> or <a href="http://clubfonograma.podbean.com/mf/web/rgzcb7/delorean_stayclose.mp3" type="text">Download</a></li>
+                    </ul>
+                            
+                
+        </div>
+                </div>
+                <div id="wideColumn">
+                    <h2>
+                    Latest Buzz on Delorean
+                         </h2>
+                        
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-14-2010</li>
+                                <li><a href="http://www.bumpershine.com/2010/09/14/more-matador21-tickets-on-sale-today-and-box-set.html">
+                                    More Matador21 Tickets On Sale Today and Box Set</a></li>
+                                <li class="description">
+                                    . Cold Cave - Youth and Lust 11. Interpol - Summer Well 12. Shearwater - Castaways 13. Esben and the Witch - Marching Song 14. Girls - Lust For Life 15. Magic Kids - Superball 16. <span><strong>Delorean</strong></span> - Stay Close 17. Cat Power - Metal Heart 18. Perfume Genius - Learning 19. Stephen Malkmus &amp; the Jicks - Real Emotional Trash DISC SIX: UNRELEASED LIVE RECORDINGS FROM THE 10TH ANNIVERSARY CONCERTS, NEW YORK CITY, SEPTEMBER 1999 1. Pavement - Here (Live 1999) 2. Pavement - Trigger Cut (Live 1999) 3. Pavement ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-14-2010</li>
+                                <li><a href="http://www.xlr8r.com/news/2010/09/download-k-os-second-espanish-bo">
+                                    Download K**O's Second 'Espanish Boogie' Mix</a></li>
+                                <li class="description">
+                                    <span><strong>Delorean</strong></span> compatriot and Barcelona-based DJ/blogger/promoter K**O has followed up his beloved Espanish Boogie mix from 2008 with a second helping of those funky vintage sounds. The 16 tunes featured on Espanish Boogie Vol. 2 run a similar gamut of genres as the first, including synth-laden funk, disco-flavored pop, bits of churning Italo, and a wealth of other classic sounds from the Spanish post-disco scene of the early '80s. You can nab more detailed information—record sleeves, tracklist, back ...  story, etc.—over on the Desparrame blog that K**O co-runs with <span><strong>Delorean</strong></span>. We've embedded the mix below, and you can download it for free here. ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://onethirtybpm.com/2010/09/14/album-review-teengirl-fantasy-%e2%80%93-7am/">
+                                    Album Review: Teengirl Fantasy – 7AM</a></li>
+                                <li class="description">
+                                     already declared himself a fan. Still, it's hard to believe - as the duo have claimed when explaining their choice of name - that these are songs to soundtrack the daydreams of the average adolescent female; when I was at school, at least, the girls were more concerned with gossiping about boyfriends than swimming through clouds of drug-induced psychedelia. This is the Class Of 2010 though, and somewhere between <span><strong>Delorean</strong></span>'s crazy foreign exchange students and the introverted How To Dress Well, Takashi ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://www.melophobe.com/news/matador-celebrate-21-years-vegas-style/">
+                                    Matador Celebrates 21 Years Vegas-Style</a></li>
+                                <li class="description">
+                                     New Viking - Move To California 7. Harlem - Friendly Ghost 8. Ted Leo &amp; The Pharmacists - Bottled In Cork 9. The New Pornographers - My Shepherd 10. Cold Cave - Youth and Lust 11. Interpol - Summer Well 12. Shearwater - Castaways 13. Esben and the Witch - Marching Song 14. Girls - Lust For Life 15. Magic Kids - Superball 16. <span><strong>Delorean</strong></span> - Stay Close 17. Cat Power - Metal Heart 18. Perfume Genius - Learning 19. Stephen Malkmus &amp; the Jicks - Real Emotional Trash DISC SIX: UNRELEASED LIVE RECORDINGS ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://www.paklinks.com/gs/rss-automotive/452109-ebay-find-of-the-day-1964-pontiac-xp833-banshee-concept-new-post.html">
+                                    eBay Find of the Day: 1964 Pontiac XP833 Banshee Concept</a></li>
+                                <li class="description">
+                                    , the truth is that this particular Poncho had widespread influence on General Motors design language for more than a decade.  Originally penned by none other than John <span><strong>Delorean</strong></span>, the Banshee was supposed to be a more sports-oriented competitor to the recently introduced Ford Mustang. Unfortunately, when the concept was completed, the higher-ups felt that the Banshee would threaten the Corvette throne and the project was scrapped. It's a song that would be repeated time and time again in the future ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://kxll.blogspot.com/2010/09/saturday-sept-11-2010.html">
+                                    Saturday Sept. 11, 2010</a></li>
+                                <li class="description">
+                                    -11-10  ================================================================================  99-2477-12 More Champagne?          Canyons          :00       3:44 00 99-2443-04 Seasun                   <span><strong>Delorean</strong></span>         :00       4:24 00 99-2368-02 Ball of Joy              Its a Musical    :00       3:43 00 99-1515-08 David Watts              Kinks            :00       2:44 00 99-2538-03 Another Day              Apache Beat      :00       4:36 00 99-2518-02 Cars and Girls           The Dictators    :00       3:55 00 99-2449-02 Beach Comber             Real Estate      :00      04:24 00 80 ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://kxll.blogspot.com/2010/09/wednesday-sept-8-2010.html">
+                                    Wednesday Sept 8, 2010</a></li>
+                                <li class="description">
+                                    -1758-05 Saltydog                 Flogging Molly   :00       2:22 00 99-2421-14 Duke of Earl             Gene Chandler    :00       2:21 00 99-2444-06 Exit Music (for a film)  Vampire Weekend  :00       3:43 00 99-2473-08 Reach Out I'll Be There  Four Tops        :00       2:58 00  KXLL-Excellent Radio Wednesday                         6-AM                                09-08-10  ================================================================================  99-2443-04 Seasun                   <span><strong>Delorean</strong></span> ...               Deerhunter       :00       3:03 00 99-1997-01 And I Moved              Pete Townshend   :00       3:28 00 99-2452-01 Like Something 4 Porno!  Felix Da Housecat:00      03:22 00 99-2503-17 Animal World             The Last Words   :00       2:37 00 99-2483-09 Stay Close               <span><strong>Delorean</strong></span>         :00       4:30 00 99-1733-04 Make Some Sense          De Novo Dahl     :00       3:54 00 99-2266-04 Cold Shot                Stevie Ray Vaugha:00       3:56 00 99-2391-14 Calypso Gold             Princeton ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://kxll.blogspot.com/2010/09/monday-sept-6-2010-labor-day.html">
+                                    Monday Sept. 6, 2010 - Labor Day</a></li>
+                                <li class="description">
+                                    -Ass                 Beck             :00       4:11 00 99-1509-12 Maggie's Farm            Bob Dylan        :00       3:56 00 99-2471-01 Atomic Baile Boy         Crookers         :00       6:10 00 99-2487-02 Easy                     Dear Tick        :00       3:49 00 99-2075-02 Winterlong               Pixies           :00       3:00 00 99-1585-08 There is a Mountain      Donovan          :00       2:35 00 99-2483-09 Stay Close               <span><strong>Delorean</strong></span>         :00       4:30 00 98-1372-01 If There's A Hell Below, Curtis ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://kxll.blogspot.com/2010/09/friday-sept-3-2010.html">
+                                    Friday Sept. 3, 2010</a></li>
+                                <li class="description">
+                                    -03-10  ================================================================================  99-2483-09 Stay Close               <span><strong>Delorean</strong></span>         :00       4:30 00 99-2524-01 Intoxicated              Sky Parade       :00       3:34 00 99-2397-09 Saddest Summer           The Drums        :00       3:24 00 99-2529-01 Get a Job                Silhouettes      :00       2:23 00 99-2470-04 Play With Fire           Dum Dum Girls    :00       2:59 00 99-2362-01 Reap the Wild Wind       Ultravox         :00       3:41 00 99-2469-03 Rommy's Pants            Anya Marina      :00       2:22 00 03 ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://www.chromewaves.net/2010/09/the-d-at-wrongbar-in-toronto/">
+                                    The Dø at Wrongbar in Toronto</a></li>
+                                <li class="description">
+                                     on November 17 with Ariel Pink's Haunted Graffiti. MP3: Os Mutantes - "Anagrama" MP3: Ariel Pink's Haunted Graffiti - "Round And Round" Australian electronic-rock artist formerly known as Pivot - and now going by PVT - will be on tour in support of his new album Church With No Magic and be at Wrongbar on October 26. MP3: PVT - "Quick Mile" When tours collide!  The just-announced tour teaming Small Black and Class Actress will be hitting Toronto on the same day as <span><strong>Delorean</strong></span> and Lemonade, so naturally they ... 'll be teaming up for one uber-show at the Mod Club on November 18. MP3: <span><strong>Delorean</strong></span> - "Real Love" MP3: Small Black - "Photojournalist" MP3: Lemonade - "Lifted" MP3: Class Actress - "All The Saints" Marathonpacks' Eric Harvey has a great piece at Pitchfork on the parallels and intersection of the aesthetics of photography and independent music. ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://www.worldofhouse.es/index.php?seccion=sesion&amp;id=13312">
+                                    SESION!! - Henry Saiz - The Labyrinth Vol. 10 Summer Dying Fast</a></li>
+                                <li class="description">
+                                    Volumen 10 de Labyrinth de Henry Saiz. Tracklist:   1. Intro Sea   2. Vampire Weekend "Whitesky" (Cecile Remix)   3. Cfcf "Raining Patterns"   4. <span><strong>Delorean</strong></span> "Real Love" (Pional Remix)   5. G.A.N.G. "Incantations" (Cover of Mik... ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-13-2010</li>
+                                <li><a href="http://www.tinymixtapes.com/news/matador-records-turns-21-orders-three-long-island-iced-teas-pukes-releases-six-cd-box-set">
+                                    Matador Records turns 21, orders three Long Island iced teas, pukes, releases a six-CD box set</a></li>
+                                <li class="description">
+                                     Shepherd 10. Cold Cave - Youth and Lust 11. Interpol - Summer Well 12. Shearwater - Castaways 13. Esben and the Witch - Marching Song 14. Girls - Lust For Life 15. Magic Kids - Superball 16. <span><strong>Delorean</strong></span> - Stay Close 17. Cat Power - Metal Heart 18. Perfume Genius - Learning 19. Stephen Malkmus &amp; the Jicks - Real Emotional Trash Disc 6 - Unreleased Live Recordings from the 10th Anniversary Concerts, New York City, September 1999: 01. Pavement - Here (Live 1999) 02. Pavement - Trigger Cut (Live 1999) 03 ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-12-2010</li>
+                                <li><a href="http://blog.kexp.org/blog/2010/09/12/live-review-delorean-bumbershoot-95/">
+                                    Live Review: Delorean @ Bumbershoot 9/5</a></li>
+                                <li class="description">
+                                    photo by Brittney Bush Bollay Sunday 7.30pm Broad Street Stage <span><strong>Delorean</strong></span> have been peddling their time-traveling (hey!) brand of live dancey synthy handclappy breakbeat since 2001. There was absolutely no reason to use the adjective 'time-traveling' in the previous sentence, I just wanted to get at least one Back To The Future reference out of the way early. There's no denying that the Barcelona band clearly love what they do. From the moment the four-piece come on stage, heads are nodding ...  seem very nice, very great" are about all we hear from him when he's not singing. photo by James Bailey However the energy of the Bumbershoot crowd is amazing. All songs top ten minutes in length tonight but everyone is too busy grooving to the unceasing kicks, toms and snares of <span><strong>Delorean</strong></span>'s live drums to be looking at their watches. Favorites "Stay Close," "Seasun" and "Deli" have the ever-increasing crowd waving their hands in the air and smiling like they were dancing on an Ibiza beach ...  and down so furiously in time with the music you'd think he was inflating a giant invisible air mattress. Kudos to you sir and your commitment to aerobic exercise and invisible air mattress inflation while performing. Low: <span><strong>Delorean</strong></span>'s casually sunny sound really doesn't change dramatically over the course of their set, tonight or ever. You may not have any tempo, instrument, or costume changes like you would at, say, a Basement Jaxx show, but if you like one song from this band then you're guaranteed ...  to like them all. In a Tweet: Euphoric, sunburnt, dreamy melodic dance that will have your ears, knees and mouth all smiling and looking for the next bus to Barcelona. Did you see the glorious <span><strong>Delorean</strong></span> play live at Bumbershoot this year? What was your highlight? Bonus points for an answer entirely written in local Barcelona slang. Let KEXP know in the Comments section below! ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-12-2010</li>
+                                <li><a href="http://www.vh1.com/news/articles/1647621/20100912/30_seconds_to_mars.jhtml">
+                                    30 Seconds To Mars, Ke$ha Plan Big VMA Arrivals</a></li>
+                                <li class="description">
+                                     for the carpet. I can't talk about all of them, but she is arriving in a <span><strong>Delorean</strong></span>, which she got herself," Kroft said. "It'll be like 'Back to the Future.' "  And, in keeping with grand tradition, there are still plenty of stars who haven't said how they're going to be arriving — Jay Sean is planning something "big and sexy," Soulja Boy Tell'em has some swaggadocious plans in the works, and Bruno Mars is still plotting, too — and then, there's Lady Gaga, who ... well, you never know what she'll do.  "We ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-12-2010</li>
+                                <li><a href="http://muzorama.blogspot.com/2010/09/small-black.html">
+                                    Small Black</a></li>
+                                <li class="description">
+                                     will support on all dates, and on specific dates Small Black will also be joined by <span><strong>Delorean</strong></span>, Young Prisms, Lemonade, and Matthew Dear. Before the official tour starts you can also catch Small Black opening for No Age on two dates later this month in Brooklyn and Philadelphia.  WWW.MUZORAMA.COM ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-12-2010</li>
+                                <li><a href="http://itspop.blogspot.com/2010/09/interview-bright-light-bright-light.html">
+                                    Interview : Bright Light Bright Light</a></li>
+                                <li class="description">
+                                    , James Yuill, <span><strong>Delorean</strong></span>, Gold Panda and a hundred Bright Light Bright Light demos to work on!  What is the last album you bought ? Grum - Heartbeats  If you had to pick an unknown artist to be your opening act, who would you choose and why ? EFFORT. I've only heard demos but they sounds great!  Your favorite song ever ? Bjork - Hyperballad. The most beautiful sentiment, and the most amazing production.  • If you had to briefly say something about :  Lady Gaga ? Applause for bringing "star" back ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-12-2010</li>
+                                <li><a href="http://www.mtv.com/news/articles/1647621/20100912/30_seconds_to_mars.jhtml">
+                                    30 Seconds To Mars, Ke$ha Plan Big VMA Arrivals</a></li>
+                                <li class="description">
+                                    't talk about all of them, but she is arriving in a <span><strong>Delorean</strong></span>, which she got herself," Kroft said. "It'll be like 'Back to the Future.' " And, in keeping with grand tradition, there are still plenty of stars who haven't said how they're going to be arriving — Jay Sean is planning something "big and sexy," Soulja Boy Tell'em has some swaggadocious plans in the works, and Bruno Mars is still plotting, too — and then, there's Lady Gaga, who ... well, you never know what she'll do. "We still don't know ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://www.clubfonograma.com/2010/09/convocatoria-fonogramaticos-vol10.html">
+                                    CONVOCATORIA: FONOGRAMATICOS VOL.10</a></li>
+                                <li class="description">
+                                    . "Tu Hueles Mejor" Anti. "Corazones Legendarios" Arcangel. "Chica Virtual" Astro. "Maestro Distorsion" Bam Bam. "Sin las patas traseras" Banda de Turistas. "El Rogadero" Bigott. "She's My Man" Bomba Estereo. "Fuego" Capullo. "Merequeteke" Capullo. "No Conectado" Carla Morrison. "Lagrimas" Carla Morrison. "Valentina" Ceci Bastida. "Controlar" Ceci Bastida. "Cuando Vuelvas a Caer" <span><strong>Delorean</strong></span>. "Stay Close" Denver. "Lo Que Quieras" Denver. "Olas Gigantes" El Cuarto. "Las Cosas Han Cambiado" El Guincho ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://hangout.altsounds.com/showthread.php?t=121914&amp;goto=newpost">
+                                    SMALL BLACK Announce North American Tour Dates</a></li>
+                                <li class="description">
+                                     and the heartwarming sentiment delivered by the lyrics that draw us to Small Black's song. Being emotional in music is easy, but being graceful and understated-- while still driving your point home-- is something else entirely."   Starting October 22 Small Black will be driving to your home town as they embark on a month-long U.S. tour that will take them coast to coast. Class Actress will support on all dates, and on specific dates Small Black will also be joined by <span><strong>Delorean</strong></span>, Young Prisms, Lemonade, and Matthew ... , Class Actress, and Young Prisms  11/09 Seattle, WA- Vera Project w/ Class Actress, and Young Prisms  11/10 Vancouver, BC- Media Club w/ Class Actress, and Young Prisms  11/12 Salt Lake City, UT- Kilby Court w/ Class Actress  11/13 Denver, CO- Rhinoceropolis w/ Class Actress  11/15 Chicago, IL- Empty Bottle w/ Class Actress  11/16 Detroit, MI- Magic Stick w/ Class Actress  11/17 Cleveland, OH- Grog Shop w/ Class Actress  11/18 Toronto, ON- Mod Club w/ <span><strong>Delorean</strong></span>, and Lemonade, and Class Actress  11 ... /19 Montreal, QC- Le Belmont w/ <span><strong>Delorean</strong></span>, and Lemonade, and Class Actress  11/21 Boston, MA- Great Scott w/ Class Actress      MEDIA:  Mp3: Small Black "Photojournalist" (from New Chain)     Video: Small Black "Bad Lover" (from Small Black EP)  Video: Small Black "Despicable Dogs" (from Small Black EP)  Mp3: Small Black "Despicable Dogs"  (from Small Black EP)     LINKS:More Info on New ChainSmall Black Artist PageSmall Black MyspaceSmall Black Blog ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://treeswingers.com/2010/09/10/delorean-drops-by-on-at-bumbershoot/">
+                                    Delorean drops by on at Bumbershoot</a></li>
+                                <li class="description">
+                                    OHAI (Photo courtesy of Shurui Sun) On the last stop of their summer tour, the four Spaniards that make up the dance rock band <span><strong>Delorean</strong></span> looked like they could use a vacation. Fresh off the plane, singer-bassist Ekhi Lopetegi and drummer Igor Escudeo let us know that 1) they hate planes and 2) the <span><strong>Delorean</strong></span> party train has to slow down sometimes. The band members did perk up, however, after catching a glimpse of Ra Ra Riot's cellist Alexandra Lawn, on stage before <span><strong>Delorean</strong></span>'s Sunday evening ...  Bumbershoot set. There were some Spanish and a lot of gesticulating, but suffice to say even at their most fatigued, the boys can appreciate a beautiful girl. Before the interview, <span><strong>Delorean</strong></span> was admiring this photo of Ms. Lawn. (Photo courtesy of Shurui Sun) Treeswingers (T): Our writers were at your show at Fuck Yeah Fest last night and said y'all killed it. Ekhi (E): Yeah, we played in LA two nights in a row. Last night was the Fuck Yeah Fest and Friday was just the opening and party for the Fuck Yeah ...  thing. Big venues, like, outdoor stuff, there's a PA, there's a sound guy, so you don't really control the atmosphere as much. But if the gig works out well, then the result will probably be bigger than a small venue.   <span><strong>Delorean</strong></span>- Come Wander (download)   Franz Ferdinand- Live Alone (<span><strong>Delorean</strong></span> remix) (download)  Tagged: alexandra lawn, bumbershoot, <span>delorean</span> ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://www.weallwantsomeone.org/2010/09/10/mp3-small-black-photojournalist/">
+                                    [mp3] Small Black – Photojournalist</a></li>
+                                <li class="description">
+                                     Actress11/15 Chicago, IL- Empty Bottle w/ Class Actress11/16 Detroit, MI- Magic Stick w/ Class Actress11/17 Cleveland, OH- Grog Shop w/ Class Actress11/18 Toronto, ON- Mod Club w/ <span><strong>Delorean</strong></span>, and Lemonade, and Class Actress11/19 Montreal, QC- Le Belmont w/ <span><strong>Delorean</strong></span>, and Lemonade, and Class Actress11/21 Boston, MA- Great Scott w/ Class ActressBookmark on DeliciousDigg this post Recomend on Facebookshare via RedditShare with StumblersTweet about itSubscribe to the comments on this post ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://popstereo.blogspot.com/2010/09/small-black-preps-tour.html">
+                                    Small Black Preps Tour</a></li>
+                                <li class="description">
+                                    Starting October 22 Small Black will be driving to your home town as they embark on a month-long U.S. tour that will take them coast to coast. Class Actress will support on all dates, and on specific dates Small Black will also be joined by <span><strong>Delorean</strong></span>, Young Prisms, Lemonade, and Matthew Dear. Before the official tour starts you can also catch Small Black opening for No Age on two dates later this month in Brooklyn and Philadelphia.  TOUR DATES: 09/18 Brooklyn, NY- Music Hall of Williamsburg w ... /13 Denver, CO- Rhinoceropolis w/ Class Actress 11/15 Chicago, IL- Empty Bottle w/ Class Actress 11/16 Detroit, MI- Magic Stick w/ Class Actress 11/17 Cleveland, OH- Grog Shop w/ Class Actress 11/18 Toronto, ON- Mod Club w/ <span><strong>Delorean</strong></span>, and Lemonade, and Class Actress 11/19 Montreal, QC- Le Belmont w/ <span><strong>Delorean</strong></span>, and Lemonade, and Class Actress 11/21 Boston, MA- Great Scott w/ Class Actress  Download: Photojournalist Download: Despicable Dogs ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://www.noisenarcs.com/2010/09/10/hot-tub-time-machine-david-gs-last-call-list-pt-1/">
+                                    Hot Tub Time Machine: David G’s Last Call List, Pt. 1</a></li>
+                                <li class="description">
+                                     born? FedEx? <span><strong>Delorean</strong></span>?  Also, do I get to stay at either Coltrane's or Philly Joe Jones' Philadelphian homes? I can't find a recording of that Philly show, but these recording at New York's Plaza Hotel in 1958 and Newport 1958, will have to do.  Oh my will they do. Miles Davis Sextet, "My Funny Valentine (Live, 1958 Sessions)" [Buy] Miles Davis Sextet, "Two Bass Hit (Live, 1958, Newport)" [Buy] James Brown, Apollo Theater, 1962 Jesus' Son is not a very good movie.  It does, however, have ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://blog.kexp.org/blog/2010/09/10/live-review-georgia-anne-muldrow-bumbershoot-95/">
+                                    Live Review: Georgia Anne Muldrow @ Bumbershoot 9/5</a></li>
+                                <li class="description">
+                                     lackadaisically yet sincerely rhyme with one arm holding the mic and the other mechanically poised a foot away from their sides, as if they were each carrying invisible basketballs. The snares are as futuristic and crisp as a <span><strong>Delorean</strong></span> door slamming shut and are accompanied by planet-hopping basslines and zooming UFO synths. It's not until the fourth song of the show that Georgia eventually starts to sing. 'Uhuru Flight' from her second full-length album Umsindo and 'Doobie Down' from this year's release Kings ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://thenewgay.net/2010/09/four-friday-bangers.html">
+                                    Four Friday Bangers</a></li>
+                                <li class="description">
+                                     is "Days of Our Lives" that recalls the summery tropical sheen of <span><strong>Delorean</strong></span>, employing trance synths and a fucking AIRHORN too. If you can't get down to this, you have no soul.  Right click to download "Days of Our Lives." "Don't Back Down" is less ravey but still tropical. It is more of a normal mid-tempo indie rock shuffle that while somewhat cliché seeing as how many bands are doing it, still sounds special.  Right click to download "Don't Back Down." ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://www.raisedonindie.com/press-releases/jagjaguwar/small-black-announce-fall-tour/">
+                                    Small Black Announce Fall Tour</a></li>
+                                <li class="description">
+                                    Starting October 22 Small Black will be driving to your home town as they embark on a month-long U.S. tour that will take them coast to coast. Class Actress will support on all dates, and on specific dates Small Black will also be joined by <span><strong>Delorean</strong></span>, ... ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-10-2010</li>
+                                <li><a href="http://www.wavedrumor.com/2010/09/matador-anniversary-box-set-available.html">
+                                    Matador Anniversary Box Set - Available Sept 28</a></li>
+                                <li class="description">
+                                     Leo &amp; The Pharmacists - Bottled In Cork 9. The New Pornographers - My Shepherd 10. Cold Cave - Youth and Lust 11. Interpol - Summer Well 12. Shearwater - Castaways 13. Esben and the Witch - Marching Song 14. Girls - Lust For Life 15. Magic Kids - Superball 16. <span><strong>Delorean</strong></span> - Stay Close 17. Cat Power - Metal Heart 18. Perfume Genius - Learning 19. Stephen Malkmus &amp; the Jicks - Real Emotional Trash  DISC SIX: UNRELEASED LIVE RECORDINGS FROM THE 10TH ANNIVERSARY CONCERTS, NEW YORK CITY, SEPTEMBER 1999  1 ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-09-2010</li>
+                                <li><a href="http://www.facethemusik.net/forum/others/33792-henry-saiz-labyrinth-10-summer-dying-fast-10-09-2010-a.html">
+                                    Henry Saiz - The Labyrinth # 10 Summer Dying Fast - 10.09.2010</a></li>
+                                <li class="description">
+                                    http://blip.tv/file/get/Henrysaiz-Th...ingFast713.mp3   TRACKLIST:  Intro Sea Vampire Weekend "Whitesky" (Cecile Remix) Cfcf "Raining Patterns" <span><strong>Delorean</strong></span> "Real Love" (Pional Remix) G.A.N.G. "Incantations" (Cover of Mike Oldfield´s "Foreing Affair") AFFKT "Once Upon a Time" (John Talabot Summer mix) Caribou "Sun" (Ryan Davis Rmx) Solomun "Sisi" Edgar Jack "Tuskegee" Johannes Heil "Glockenspiel" Guy Gerber "Hate love" Feat Dawn Voltaeric &amp; Liz Cirelli "Estia" Lukas Nystrand and the Ageema blues ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-09-2010</li>
+                                <li><a href="http://www.mercuryserver.com/forums/showthread.php?89234-Henry-Saiz-The-Labyrinth-10-Summer-Dying-Fast&amp;goto=newpost">
+                                    Henry Saiz | The Labyrinth # 10 Summer Dying Fast</a></li>
+                                <li class="description">
+                                     Weekend "Whitesky" (Cecile Remix) Cfcf "Raining Patterns" <span><strong>Delorean</strong></span> "Real Love" (Pional Remix) G.A.N.G. "Incantations" (Cover of Mike Oldfield´s "Foreing Affair") AFFKT "Once Upon a Time" (John Talabot Summer mix) Caribou "Sun" (Ryan Davis Rmx) Solomun "Sisi" Edgar Jack "Tuskegee" Johannes Heil "Glockenspiel" Guy Gerber "Hate love" Feat Dawn Voltaeric &amp; Liz Cirelli "Estia" Lukas Nystrand and the Ageema blues "Knivar" Milky Globe Sorcerer "Soft Sea" Fady Ferraye "Nam Myoho Renge Kyo" (Pacco &amp; Rudy B ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-09-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/40005-small-black-plan-tour-with-class-actress/">
+                                    Small Black Plan Tour With Class Actress</a></li>
+                                <li class="description">
+                                     ~ with <span><strong>Delorean</strong></span> % with Lemonade Small Black: 09-18 Brooklyn, NY - Music Hall of Williamsburg * 09-20 Philadelphia, PA - First Unitarian Church * * with No Age Class Actress: 09-09 New York, NY - Bowery Ballroom + 10-07 Northfield, MN - Cave at Carleton 10-08 Springfield, MO - The Outland 10-09 St. Louis, MO - The Gramophone 10-11 Chicago, IL - The Metro *^ 10-12 Toronto, Ontario - Lee's Palace *^ 10-13 Buffalo, NY - Mohawk Place + with Dan Black * with Neon Indian ^ with Prefuse 73 ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-09-2010</li>
+                                <li><a href="http://www.drownedinsound.com/news/4140987-listen--download-violens-he-got-the-girl">
+                                    Listen: Download Violens - 'He Got The Girl'</a></li>
+                                <li class="description">
+                                    New Yorkers Violens release their debut full-length record on October 4. That's called Amoral and comes out through their own label, Static Imprint. In recent weeks they've also had a "Summer" mixtape floating around, which included remixes of songs by the likes of <span><strong>Delorean</strong></span>, as well as a cover of a Marine Girls track - 'He Got The Girl'. And it's that track which concerns us here as we've got it to give to you. Ooh-er Missus. As a free download, like. Stream it below or download it from here ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-30-2010</li>
+                                <li><a href="http://www.jambands.com/news/2010/08/30/the-final-pool-party">
+                                    The Final Pool Party?</a></li>
+                                <li class="description">
+                                    , Of Montreal and Dirty Projectors. This summer's final show was set to feature MC Dominique Young Unique and indie-electro act <span><strong>Delorean</strong></span>, as well as a series of secret special guests. Jelly kept the event's lineup under wraps but word started to leak that the event's guests could include local rocker/promoter Andrew W.K. and, oddly enough, hip hop star Gucci Mane. After Dominique Young Unique and <span><strong>Delorean</strong></span>'s set, the event opened up into something of a hip hop revue, featuring Gucci Mane, Andrew W ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-27-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/39899-festivals-in-brief-parklife-philadelphia-film-music-ponderosa-stomp-olio/">
+                                    Festivals in Brief: Parklife, Philadelphia Film &amp; Music, Ponderosa Stomp, Olio</a></li>
+                                <li class="description">
+                                    WHAT: Parklife WHEN: September 25 - October 4 WHERE: Various Australian cities WHO: Missy Elliott, Cut Copy, Kele, Soulwax, <span><strong>Delorean</strong></span>, Memory Tapes, the Dandy Warhols, Mixmaster Mike, Holy Ghost!, Classixx, DJ Mehdi, Busy P, Bag Raiders, New Young Pony Club, Midnight Juggernauts  WHAT: Philadelphia Film &amp; Music Festival WHEN: September 23-26 WHERE: Philadelphia, PA WHO: The Dead Milkmen, Evan Dando, A Sunny Day in Glasgow, Field Music, Asobi Seksu, Bobby Bare Jr., Grant Hart, Starkweather ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-24-2010</li>
+                                <li><a href="http://prefixmag.com/news/win-tickets-fyf-2010-rapture-panda-bear-sleep-dead/43521/">
+                                    Win Tickets To FYF 2010 (Rapture, Panda Bear, Sleep, !!!, Dead Man's Bones...)</a></li>
+                                <li class="description">
+                                    On September 4,FYFreturns with a monster line-up.  One lucky Prefix reader will get to see The Rapture, Panda Bear, Sleep, Dead Man's Bones, Unbroken, !!!, Man Man, 7Seconds ,Thee Oh Sees, The Mountain Goats, Ted Leo + Pharmacists, <span><strong>Delorean</strong></span>, Cold Cave, Ariel Pink's Haunted Graffiti, Washed Out, Wavves, School of Seven Bells, AA Bondy, The Blow, Best Coast, Davila 666, Titus Andronicus, The Soft Pack, Abe Vigoda, Warpaint, Off!, Vetiver, Ceremony, Big Freedia, Screaming Females, Magic Kids ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-24-2010</li>
+                                <li><a href="http://www.popmatters.com/pm/review/127119-delorean-subiza">
+                                    Delorean - Subiza (from Pop Matters)</a></li>
+                                <li class="description">
+                                    Named in honor of the small Basque town where it was recorded, Subiza could also be a neologism that describes <strong>Delorean</strong>'s hybrid aesthetic: While Subiza clearly conveys the spring break forever spirit of Ibiza techno through its house synth refrains and resonant, decadent rhythms, the album also speaks to the Spanish band's under-the-radar indie-rock background through a structural sensibility that puts the song first. The result is an effort that at once boasts a consistent, identifiable sound,......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-23-2010</li>
+                                <li><a href="http://www.musicomh.com/albums/delorean_0410.htm">
+                                    Delorean - Subiza (from MusicOMH)</a></li>
+                                <li class="description">
+                                    Spanish four-piece <strong>Delorean</strong> make the kind of music that longs to be played on a warm summer's evening, possibly around a campfire, probably in a gorgeous beach setting. Subiza, the follow-up to last year's rapturously received Ayrton Senna EP, replicates the cinematic dance pop that Animal Collective and Cut Copy have moved towards in recent years. Opener Stay Close could easily have been taken from the former's Merriweather Post Pavilion album, all shimmering percussion, slowly building tension......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-19-2010</li>
+                                <li><a href="http://www.tinymixtapes.com/news/fyf-fest-has-got-lineup-and-they-want-you-know-it">
+                                    FYF Fest has got a lineup, and they want YOU to know it!</a></li>
+                                <li class="description">
+                                    ." The lineup so far for this year's show is as follows: The Rapture, Panda Bear, !!!, Unbroken, The Mountain Goats, Dead Man's Bones, Sleep, Ted Leo &amp; The Pharmacists, Man Man, Ariel Pink's Haunted Graffiti, <span><strong>Delorean</strong></span>, Cold Cave, Nick Fury, 7Seconds, Thee Oh Sees, Washed Out, Dum Dum Dugan, Davilla 666, School of Seven Bells, AA Bondy, The Blow, Best Coast, Titus Andronicus, Wavves, The Soft Pack, Abe Vigoda, Warpaint, Off!, Vetiver, Ceremony, Big Freedia, Screaming Females, Magic Kids, The Growlers, Lower ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-09-2010</li>
+                                <li><a href="http://www.tinymixtapes.com/news/years-fun-fun-fun-fest-too-much-fun-you-handle-lineup-announced">
+                                    This year's Fun Fun Fun Fest: too much fun for you to handle; lineup announced</a></li>
+                                <li class="description">
+                                     Jeff The Brotherhood The Briggs Power Trip Eagle Claw Mastodon Suicidal Tendencies High On Fire Snapcase Floor The Bronx Ringworm Kylesa OFF! Peelander Z Hatred Surge Black Congress BLUE STAGE: RJD2 Slick Rick (performing "Great Adventures Of") Deakin (of Animal Collective) <span><strong>Delorean</strong></span> Big Freedia Designer Drugs Devin The Dude Invincible Butcher Bear and Charlie League of Extraordinary Gz DJ Nick Nack A-trak Yelle Pharoahe Monch Jean Grae POS Dâm-Funk Dominique Young Unique Black Nasty DJ Bird ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-05-2010</li>
+                                <li><a href="http://prefixmag.com/news/mgmt-devo-deerhunter-playing-fun-fun-fun-fest-2010/43078/">
+                                    MGMT, Devo, Deerhunter Playing Fun Fun Fun Fest 2010</a></li>
+                                <li class="description">
+                                     The Gories Municipal Waste Strike Anywhere The Casualties Valient Thorr Jeff The Brotherhood The Briggs Power Trip Eagle Claw Mastodon Suicidal Tendencies High On Fire Snapcase Floor The Bronx Ringworm Kylesa OFF! Peelander Z Hatred Surge Black Congress  Blue Stage: RJD2 Slick Rick (performing "great adventures of") Deakin (of animal collective) <span><strong>Delorean</strong></span> Big Freedia Designer Drugs Devin The Dude Invincible Butcher Bear and Charlie League of Extraordinary Gz DJ Nick Nack A-trak Yelle Pharoahe Monch Jean ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-05-2010</li>
+                                <li><a href="http://www.nme.com/news/mgmt/52377">
+                                    MGMT, DEVO, The Hold Steady for Fun Fun Fun Fest 2010</a></li>
+                                <li class="description">
+                                     Graffiti   Bad Religion   Best Coast   Big Freedia   Black Congress   Black Nasty   Butcher Beer and Charlie   Cap'n Jazz   Cold Cave   Crocodiles   Dam-Funk   Deakin (Animal Collective)   Deerhunter   <span><strong>Delorean</strong></span>   Desinger Drugs   Devin The Dude   Devo   Dirty Projectors   DJ Bird Peterson   DJ Nick Nack   Dominique Young Unique   Dum Dum Girls   Dwarves   Eagle Claw   Floor   GWAR   Hatred Surge   High on Fire   Indian Jewelry   Invincible   Jean Grae   Jeff the Brotherhood   Junius   Kaki King ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-04-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/39640-weird-al-mgmt-dirty-projectors-wavves-hold-steady-do-fun-fun-fun/">
+                                    "Weird Al", MGMT, Dirty Projectors, Wavves, Hold Steady Do Fun Fun Fun</a></li>
+                                <li class="description">
+                                    .                                                     The festival comes to Waterloo Park November 5-7; it's now expanded to three days of show. The lineup includes plenty more Pitchfork faves: <span><strong>Delorean</strong></span>, Dum Dum Girls, Os Mutantes, Toro Y Moi, Cold Cave, Dâm-Funk, Animal Collective's Deakin. And there's also top-shelf rap (Slick Rick, Devin the Dude, Pharoahe Monch, Jean Grae), metal (Mastodon, High on Fire, Gwar, Kylesa, Municipal Waste), and punk (Bad Religion, Suicidal Tendencies, the Gories, Monotonix). If live music's not enough, they'll also have ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-02-2010</li>
+                                <li><a href="http://www.bestweekever.tv/2010-08-02/for-your-consideration-mad-men-s04e02-christmas-comes-but-once-a-year/">
+                                    FOR YOUR CONSIDERATION: On Mad Men, "Christmas Comes But Once a Year"</a></li>
+                                <li class="description">
+                                     ability.  You know, acting natural when a serial killer named Glenn just happens to call you and then break into your house and ask you what your favorite scary movies are, etc.  Step into our <span><strong>Delorean</strong></span>, Sally, and take a look at what life will be like 15 years from now...   LONGEST IN THE HOUNDSTOOTH  Random advertising lady, who falls into the usual Mad Men pattern of wanting to f**k Don while simultaneously wearing hideous patterns.   WORST PERSON TO SIT NEXT TO IN MATH CLASS  Harry Crane   "WHY ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2010</li>
+                                <li><a href="http://www.pastemagazine.com/articles/2010/07/delorean-subiza.html">
+                                    Delorean - Subiza (from Paste Magazine)</a></li>
+                                <li class="description">
+                                    The latest offering from Barcelona electro-sunshine quartet <strong>Delorean</strong> is certainly danceable—house piano, handclaps and a jungle of synths suggest the bliss of the late-night summer parties they could easily soundtrack—but the album's homogeneous vocals are too often reminiscent of other acts—specifically, Animal Collective's harmonic structure. The mood and tempo don't show much range either. By the time the glowstick-dance jam of third track "Grow" kicks in, the heavily layered synth that......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-16-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/39482-pitchfork-festival-kicks-off-today/">
+                                    Pitchfork Festival Kicks Off Today!</a></li>
+                                <li class="description">
+                                     Estate (c) 1:55 Sonny &amp; the Sunsets (b) 2:30 <em><strong>Delorean</strong></em> (a) 2:50 Kurt Vile (b) 3:20 Titus Andronicus (c) 3 ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-16-2010</li>
+                                <li><a href="http://www.punknews.org/article/39088">
+                                    Screaming Females, Ted Leo, 7 Seconds, Ceremony, Wavves at FYF 2010</a></li>
+                                <li class="description">
+                                    , Davila 666, Dead Man's Bones, <em><strong>Delorean</strong></em>, Let's Wrestle, Lower Dens, Magic Kids, School of Seven Bells ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-15-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/39465-news-in-brief-fyf-fest-dominique-leone-slum-village/">
+                                    News in Brief: FYF, ISC Competition, Dominique Leone, Slum Village</a></li>
+                                <li class="description">
+                                    , Dead Man's Bones, Man Man, !!!, <em><strong>Delorean</strong></em>, Best Coast,  Titus Andronicus, Wavves, Warpaint, Washed Out ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-14-2010</li>
+                                <li><a href="http://filtermagazine.com/index.php/news/entry/fyf_festival_announce_the_rapture_school_of_seven_bells_warpaint_more">
+                                    FYF Festival Announce The Rapture, School of Seven Bells, Warpaint + More!</a></li>
+                                <li class="description">
+                                     LA.  The Rapture, Panda Bear, 7 Seconds, Ted Leo &amp; The Pharmacists, <em><strong>Delorean</strong></em>, Ariel Pink's Haunted ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-09-2010</li>
+                                <li><a href="http://dustedmagazine.com/reviews/5772">
+                                    Delorean - Subiza (from Dusted Magazine)</a></li>
+                                <li class="description">
+                                    The four Spanish guys who make up <strong>Delorean</strong> have decided to title their current album Subiza despite burning themselves on the implied pun. The group has indeed developed a kind of opportunistic, "sub-Ibiza" take on laidback house music. Their easy breezy sound incorporates some salient dance music elements, but the appearance of chugging house piano or ravey synths is just window dressing on traditionally structured, verse-chorus pop songs that don't last long enough to stretch out their limbs o......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-09-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/39413-pitchfork-festival-to-be-webcast-live/">
+                                    Pitchfork Festival to Be Webcast Live</a></li>
+                                <li class="description">
+                                    :55  Sonny &amp; the Sunsets (b) 2:30 <em><strong>Delorean</strong></em> (a) 2:50  Kurt Vile (b) 3:20 Titus Andronicus (c) 3:45 Dâm ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2010</li>
+                                <li><a href="http://prefixmag.com/news/pool-parties-announce-2010-line-up/41940/">
+                                    Pool Parties Announce 2010 Line-Up</a></li>
+                                <li class="description">
+                                     GUEST! SECRET SPECIAL GUEST! <em><strong>Delorean</strong></em> Dominique Young Unique ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2010</li>
+                                <li><a href="http://www.pitchfork.com/news/39351-cut-copy-no-age-delorean-deerhoofxiu-xiu-to-play-pool-parties/">
+                                    Cut Copy, No Age, !!!, Delorean, Deerhoof/Xiu Xiu to Play Pool Parties</a></li>
+                                <li class="description">
+                                     Divison's Unknown Pleasures, Cut Copy, No Age, Lightning Bolt, !!!, <em><strong>Delorean</strong></em>,  and many more. Check out ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2010</li>
+                                <li><a href="http://filtermagazine.com/index.php/news/entry/return_of_the_pool_parties_with_xiu_xiu_cut_copy">
+                                    Return Of The Pool Parties With Xiu Xiu, Cut Copy, !!!</a></li>
+                                <li class="description">
+                                     Deerhoof, <em><strong>Delorean</strong></em>, Cap 'n Jazz, No Age, !!! and more. July 11 will have Deerhoof and Xiu Xiu combining ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2010</li>
+                                <li><a href="http://www.undertheradarmag.com/news/2010_jelly_pool_party_line_up_announced/">
+                                    2010 Jelly Pool Party Lineup Announced - Deerhoof, Xiu Xiu, Cut Copy, Future Islands, and more</a></li>
+                                <li class="description">
+                                     include Under the Radar-friendly artists such as Deerhoof, Xiu Xiu, Cut Copy, Future Islands, and <em><strong>Delorean</strong></em> ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2010</li>
+                                <li><a href="http://www.jambands.com/news/2010/07/02/the-pool-parties-to-return-to-the-williamsburg-waterfront-this-summer">
+                                    The Pool Parties to Return to the Williamsburg Waterfront this Summer</a></li>
+                                <li class="description">
+                                     August 29 SECRET SPECIAL GUEST! SECRET SPECIAL GUEST! <em><strong>Delorean</strong></em> Dominique Young  Unique ... </li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-26-2010</li>
+                                <li><a href="http://www.mtvmusic.com/artist/delorean/videos/529196/stay_close">
+                                    Stay Close</a></li>
+                                <li class="description">
+                                    Found at: mtvmusic</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-17-2010</li>
+                                <li><a href="http://nme.com/reviews/delorean--2/11372">
+                                    Delorean - Subiza (from NME)</a></li>
+                                <li class="description">
+                                    Will Lee Evans ever get funny? And will cheesy house music ever become properly credible? Eternal questions, but Spain's <strong>Delorean</strong> resolutely answer the last. With one foot in Manumission and the other in Delphic, they do for mainstream chav dance what New Order did for Krautronica in the '80s - hook its bouncy electronic pianos and soul singer loops to undeniably uplifting pop tunes with an echo-chamber elegance. They're called wankery chill-out names like 'Endless Sunset' and 'Infinite Desert' ......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-17-2010</li>
+                                <li><a href="http://www.bbc.co.uk/music/reviews/gwm5">
+                                    Delorean - Subiza (from bbc)</a></li>
+                                <li class="description">
+                                    With half of Brooklyn now throwing shapes like Ibiza circa 1995, it's not surprising that the four men who make up <strong>Delorean</strong> have been readily embraced by the New York borough's blogger-friendly music scene. They've gained a slow-burning status over the past few years for churning out indie dance tunes with a decidedly Balearic sheen, and they have the added good fortune of actually hailing from Spain.  Subiza, the band's third studio LP, should leave their increasingly sterling reputation untouc......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-17-2010</li>
+                                <li><a href="http://www.avclub.com/articles/delorean-subiza,42117/">
+                                    Delorean - Subiza (from AV Club)</a></li>
+                                <li class="description">
+                                    In theory, Spain should be a pioneer in any worldwide sun-worshipping movement, but the American release of <strong>Delorean</strong>'s raved-about, blissed-out opus is part of a second wave in the sea-foamy club-pop revival of the past few years. This Barcelona quartet doesn't do a lot to expand the parameters of Balearic Beat 2.0—it's already expansive enough, with room for ecstasy-illuminated piano chords, squiggly trance melodies, and kaleidoscopic '60s vocal harmonies—but the group delivers it consisten......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-14-2010</li>
+                                <li><a href="http://www.prefixmag.com/reviews/delorean/subiza/37444/">
+                                    Delorean - Scott Orwig (from Prefix Magazine)</a></li>
+                                <li class="description">
+                                    Spanish four-piece <strong>Delorean</strong> has been kicking around the dance-pop scene for awhile now, remixing the Teenagers and Mystery Jets in 2008, then releasing the hype-building Ayrton Senna EP in 2009. Now after playing nearly every conceivable showcase at the 2009 CMJ, the band releases Subiza, its third full-length album. Mixed by Chris Coady, who's worked with !!! &amp; Telepathe, and recorded by Hans Kruger, who sounds like a bad guy from Die Hard, Subiza promises to be yet another set of danceable, su......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-07-2010</li>
+                                <li><a href="http://www.adequacy.net/2010/06/delorean-%e2%80%93-subiza/">
+                                    Delorean - Subiza (from Delusions of Adequacy)</a></li>
+                                <li class="description">
+                                    The sounds on "Real Love" are almost of direct resemblance to the tribal chants heard around the world. Inviting the sounds of the environment in and allowing them to roam free and wild, Spanish band <strong>Delorean</strong> seem to almost relish that kind of opportunity. It makes sense, too, that for a band that got their start by pushing away from everyday club music, to be making honest, real and sincere music. After the bumping beat, the flourishing keyboards and vocalist Ekhi Lopetegi all join in, there is......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    6-07-2010</li>
+                                <li><a href="http://drownedinsound.com/releases/15463/reviews/4140249">
+                                    Delorean - Subiza (from Drowned In Sound)</a></li>
+                                <li class="description">
+                                    It would take a hard heart to not succumb to 'Stay Close'. If foam parties had any credibility, this would be the soundtrack: bubbly, mischievous frolics, with a breathless come-up which has the good sense not to drop anything so brash as a hard bassline. It's hard not to come across all loose-chopped and clammy-fingered when exalting this intro. While bass music flits between silliness and deep concentration, <strong>Delorean</strong> have gone straight for the happy vein, reaping collective elation like Cut Co......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    5-19-2010</li>
+                                <li><a href="http://absolutepunk.net/showthread.php?t=1704762">
+                                    Delorean - Subiza (from Absolute Punk)</a></li>
+                                <li class="description">
+                                    Release Date: June 8, 2010   Beach resorts aren't my thing. If I'm going on summer  vacation, cruises and water fronts take a back seat to visits to friends  in different towns. I guess that makes me a hipster douche. I guess I'm  not that guy who falls in love with the commercials of American  mediocrity and "family packages." So why is it that <strong>Delorean</strong>'s new album  reminds me of those commercials? More importantly, why does it entice  me to take that Carnival cruise I've always been slightly c......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    5-04-2010</li>
+                                <li><a href="http://spin.com/reviews/delorean-subiza-true-panthermatador">
+                                    Delorean - Subiza (from Spin)</a></li>
+                                <li class="description">
+                                    Spin Magazine Online                                                                                                      Remember MeForgot your Password?                                                                                                    HomeMagazineReviewsBlogPhotosVideoLiveCommunityspin25Shop                                                                                                                                                                                 Contest and ......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    4-29-2010</li>
+                                <li><a href="http://www.sputnikmusic.com/album.php?reviewid=36393">
+                                    Delorean - Subiza (from SputnikMusic)</a></li>
+                                <li class="description">
+                                    Summary: Animal Collective having sex on the beach with David Morales - it's very good indeed.  As we slide into 2010 and leave the confusing, scattershot '00s behind, one question has been playing on my mind - just what will the '90s revival sound like?  Nobody who's been paying attention will need to be told that every facet of the '80s, good or bad, was shamelessly regurgitated and picked apart last decade in literally every existing genre of pop music, so how will that continue through a new......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    4-22-2010</li>
+                                <li><a href="http://pitchfork.com/reviews/albums/14147-subiza/">
+                                    Delorean - Subiza (from Pitchfork)</a></li>
+                                <li class="description">
+                                    <strong>Delorean</strong> helped define the bright, beachside vibe of last summer's indie landscape, but they also deserve to be placed in a broader context. On their new album, Subiza, the Spanish four-piece deploys the build-and-burst tempos of 90s house and techno music, and they do so explicitly, never shying away from arms-in-the-air piano bridges or incandescent raves. This music is proudly informed by the resiliency and vigor of classic club music, and its title (named after the Basque town in which the a......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    2-03-2010</li>
+                                <li><a href="http://youtube.com/watch?v=Djjev7n3N5I">
+                                    El-P - delorean</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    2-03-2010</li>
+                                <li><a href="http://youtube.com/watch?v=2-EP0yS8BM8">
+                                    05 No name. Delorean 04/10/09 Eristoff Internative Festival (II)</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    2-03-2010</li>
+                                <li><a href="http://youtube.com/watch?v=K3Ba0JAqgoU">
+                                    XLR8R TV Ep. 125: Delorean to Barcelona</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    2-03-2010</li>
+                                <li><a href="http://youtube.com/watch?v=dOT01pe0QHo">
+                                    Hot Pink Delorean &amp; Fantastadon Party Favour</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    2-03-2010</li>
+                                <li><a href="http://youtube.com/watch?v=78ob0D4dBnA">
+                                    Mike Delorean Bars&amp;Hooks</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    2-03-2010</li>
+                                <li><a href="http://youtube.com/watch?v=0EVaNZcrYu8">
+                                    prodigy of mobb deep - Do It (feat. Mike Delorean) - H.N.I.C</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    9-05-2009</li>
+                                <li><a href="http://www.cokemachineglow.com/record_review/4715">
+                                    Delorean - Ayrton Senna (from cokemachineglow)</a></li>
+                                <li class="description">
+                                    Is there a style more hot-appropriate than anthemic electro-pop? <strong>Delorean</strong>'s Aryton Senna EP follows Cut Copy's example closely by suggesting, none-too subtly, that breezy New Order chic-appropriation has real beach holiday mileage. If my Last.fm charts are any indication, In Ghost Colors was 2008's definitive summer listen, dominating my charts through the warmest months and relinquishing its #1 spot only as the evenings cooled and the autumnal malaise set in yet again. Is there something inhere......</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=qQsNnIiZJq4">
+                                    Hot Pink Delorean - Get It Girl (Original Mix)</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=W8ZWGJ-mrPQ">
+                                    M.I.A.: Boyz (Hot Pink Delorean Remix)</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=dX4aodwvTy4">
+                                    Hot Pink Delorean @ Sweat @ Roxy - 6/11/09 - 1</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=1xe-1qc1T2g">
+                                    Hot Pink Delorean - Get It Girl</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=3CKkLucwM0c">
+                                    Delorean - Moonson</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=EDNzpBdxH_c">
+                                    Blaze It - Hot Pink Delorean</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=OqlzhFzstQo">
+                                    Delorean - Metropolitan Death 3 (Daryl's Sweaty Girl remix)</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=LhSSpHWwsXk">
+                                    DeLorean Drivers - Scarlet (Save Me)</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=cOCqhO-Qtbo">
+                                    Relient K - Hello McFly</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=V6tD62NiSFg">
+                                    VICE CITY YO EN EL DELOREAN</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=3U6PCMz-4Wc">
+                                    Delorean Suite - Deep Love</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-22-2009</li>
+                                <li><a href="http://youtube.com/watch?v=I_YU6v3z5rI">
+                                    Mitiska and Cerf pres. Flux capacitor - Delorean [HQ]</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-17-2009</li>
+                                <li><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=409533">
+                                    delorean</a></li>
+                                <li class="description">
+                                    Found at: myspace</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-17-2009</li>
+                                <li><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=16977515">
+                                    Delorean</a></li>
+                                <li class="description">
+                                    Found at: myspace</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-17-2009</li>
+                                <li><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=4191119">
+                                    Delorean</a></li>
+                                <li class="description">
+                                    Found at: myspace</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2009</li>
+                                <li><a href="http://youtube.com/watch?v=BCeWKI-JGjE">
+                                    J-bux ft. Mike Delorean of Bars N Hooks NJ to QB</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2009</li>
+                                <li><a href="http://youtube.com/watch?v=f4x8WhmTP9o">
+                                    DeLorean - Whatever Happened</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    7-02-2009</li>
+                                <li><a href="http://youtube.com/watch?v=qUOGmEtvLJI">
+                                    Infamous Mobb - Difficult Times feat. Prodigy, Chinky &amp; Mike Delorean</a></li>
+                                <li class="description">
+                                    Found at: youtube</li>
+                    </ul>
+                            
+                    <ul class="otherMixesItem">
+                                <li>
+                                    8-01-2007</li>
+                                <li><a href="http://www.stylusmagazine.com/reviews/delorean/transatlantic-kk.htm">
+                                    Delorean - Transatlantic KK (from Stylus Magazine)</a></li>
+                                <li class="description">
+                                    Even at a cool 30-something minutes, Transatlantic KK is a bit of a slog. The Spanish keepers-of-the-Out-Hud-flame rarely let the bass drum quit its four beats to a measure pulse. Hell, if there weren't a huge number of delayed guitars and synthesizers swirling around the entire time, you might even call it boring. Luckily, there are—and it's not. These accoutrements rarely decay the same way twice and even when they do, it's a reasonable expectation to believe that you'll be dancing too much ......</li>
+                    </ul>
+                            
+            
+</div>            
+        </div>
+    </div>
+
+        		<div id="footer">
+            <p>
+                <a href="/developers.aspx">Developers</a> | <a href="/support.aspx">Support Art of the Mix</a> </p>
+            <p>
+                ©1997-2009 Art of the Mix</p>
+        		</div>
+
+    </div>
+  
+
+
+</body></html>

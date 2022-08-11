@@ -1,0 +1,1922 @@
+<!DOCTYPE html><html dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="The Unofficial Alabanza Forums Forum Index">
+<link rel="search" href="./search.php" title="Search">
+<link rel="help" href="./faq.php" title="FAQ">
+<link rel="author" href="./memberlist.php" title="Memberlist">
+<link rel="prev" href="viewtopic.php?t=397&amp;view=previous" title="View previous topic">
+<link rel="next" href="viewtopic.php?t=397&amp;view=next" title="View next topic">
+<link rel="up" href="viewforum.php?f=13" title="Server Candy (Public)">
+<link rel="chapter forum" href="viewforum.php?f=8" title="Welcome :: Read Me First!">
+<link rel="chapter forum" href="viewforum.php?f=1" title="Express Yourself">
+<link rel="chapter forum" href="viewforum.php?f=7" title="General Help">
+<link rel="chapter forum" href="viewforum.php?f=13" title="Server Candy (Public)">
+<link rel="chapter forum" href="viewforum.php?f=19" title="CPanel/Plesk &amp; other management consoles">
+<link rel="chapter forum" href="viewforum.php?f=20" title="Spam/Fraud/Hacker is now private">
+
+<title>The Unofficial Alabanza Forums :: View topic - SpamVault</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+	background-color: #E5E5E5;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+hr	{ height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #EFEFEF; }
+td.row2	{ background-color: #DEE3E7; }
+td.row3	{ background-color: #D1D7DC; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/subSilver/images/cellpic2.jpg);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #FFA34F; font-size: 11px; font-weight : bold;
+	background-color: #006699; height: 25px;
+	background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/subSilver/images/cellpic1.gif);
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+<body bgcolor="#E5E5E5" text="#000000" link="#006699" vlink="#5493B4">
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tbody><tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td><a href="index.php"><img src="templates/subSilver/images/logo_phpBB.gif" border="0" alt="The Unofficial Alabanza Forums Forum Index" vspace="1"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">The Unofficial Alabanza Forums</span><br><span class="gen">To access Hidden Members' forums, fill out membership page                                                                                                                                                                                                     <br>&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tbody><tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3">FAQ</a>&nbsp; &nbsp;<a href="search.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Search" hspace="3">Search</a>&nbsp; &nbsp;<a href="memberlist.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Memberlist" hspace="3">Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Usergroups" hspace="3">Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Register" hspace="3">Register</a>&nbsp;
+						</span></td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" width="12" height="13" border="0" alt="Profile" hspace="3">Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" width="12" height="13" border="0" alt="Log in to check your private messages" hspace="3">Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Log in" hspace="3">Log in</a>&nbsp;</span></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table>
+
+		<br>
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tbody><tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=397&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=">SpamVault</a><br>
+	  <span class="gensmall"><b>Goto page <b>1</b>, <a href="viewtopic.php?t=397&amp;postdays=0&amp;postorder=asc&amp;start=35">2</a>&nbsp;&nbsp;<a href="viewtopic.php?t=397&amp;postdays=0&amp;postorder=asc&amp;start=35">Next</a></b><br>
+	  &nbsp; </span></td>
+  </tr>
+</tbody></table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tbody><tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=13"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle"></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=397"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle"></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">The Unofficial Alabanza Forums Forum Index</a>
+	  -&gt; <a href="viewforum.php?f=13" class="nav">Server Candy (Public)</a></span></td>
+  </tr>
+</tbody></table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tbody><tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=397&amp;view=previous" class="nav">View previous topic</a> :: <a href="viewtopic.php?t=397&amp;view=next" class="nav">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="2065"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=2065#2065"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Thu Mar 20, 2003 4:33 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: SpamVault</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=2065"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">SpamVault is an very simple yet powerful tool that allows your clients to block spam. SpamVault is being used on over 60 servers. Free demo available by sending me an email for access info (these are given out on a first come, first served basis).
+<br>
+
+<br>
+Features include:
+<br>
+<ul><li>New install process requires one command to install/upgrade server. It then does everything: makes the directories, copies the files, set permissions and if needed upgrades existing users on the server. All with one command.
+<br>
+</li><li>Install program allows you to set up defaults without having to edit any config files.
+<br>
+</li><li>Integrates into the DSM for easy installation into client Control Panels.
+<br>
+</li><li>Very simple interface
+<br>
+</li><li>SpamVault installs a special email spam@ email box on user's account so that they can read/manage their spam via webmail if they wish.
+<br>
+</li><li>Works on each account and server wide (no additional charge or license required).
+<br>
+</li><li>Clients can save spam to repository or delete it all together
+<br>
+</li><li>It can log all emails and counts blocked spams.
+<br>
+</li><li>Blocking based on text, IP number, network IP or email address in the header, to, from, subject or body of the email.
+<br>
+</li><li>It blocks email with executable attachment and base 64 email
+<br>
+</li><li>It blocks images called from the internet in HTML emails (typically web-bugs and porn) used to track who opened the email for further spamming.
+<br>
+</li><li>You can temporarily turn off each filter to see if the spammer is still active
+<br>
+</li><li>Help file and instructions are included
+<br>
+</li><li>Client installs are logged for you to see who's using the program.
+<br>
+</li><li>Uninstalls are very easy and back up client's settings when done.
+<br>
+</li><li>Logs display information about which filter blocked each piece of email.
+<br>
+</li><li>Duplicate entries are eliminated
+<br>
+</li><li>SpamVault now warns users if they try to use risky characters in their entries.
+<br>
+</li><li>Host can limit the size that repository file can grow to in order to prevent it from using too much disk space.
+<br>
+</li><li>Tech support requests are few. This is a very low maintenance product.
+<br>
+</li><li>Tech support from the programmer is available to hosts at 
+<br>
+spaultvault @ thesupportdesk.com
+<br>
+</li><li>Improved look and color scheme. 
+<br>
+</li><li>If needed, you only have to edit one help file for the entire server.
+<br>
+</li><li>Help file has been updated with many more advanced blocking tricks.
+<br>
+</li><li>SpamVault now includes a program to import your Outlook filters. 
+<br>
+</li><li><span style="font-weight: bold">White list</span>. An easy to use whitelist to allow email only from those you want to hear from. 
+<br>
+</li><li>Tracking of how many spams since you last cleared log.
+<br>
+</li><li><span style="font-weight: bold">Highly improved logs</span> show exact phrase that triggered the filter and what part of the email it was in. Logs are now color coded for easier reading. Logs can show just spams blocked or all email that came in.
+<br>
+</li><li>Much improved image filtering
+<br>
+</li><li>Bypass Address. A virtual address that doesn't get filtered. Similar to a whitelist but you can change it as often as you wish. 
+<br>
+</li><li>Filters that are not engaged are now greyed out.
+<br>
+</li><li>The logs show the true recipient even if the email was BCC'd
+<br>
+</li></ul>
+<br>
+
+<br>
+<span style="font-weight: bold">Want a free preview of the forethcoming version 4.0?</span> Send me an email and I'll give you access to an account on my server to play with. 
+<br>
+
+<br>
+Current Version: 3.3
+<br>
+
+<br>
+<span style="font-size: 9px; line-height: normal">For those who were wondering why this forum gets to be at the top of the Server Candy list, it is because SpamVault is the sponsor for the entire alahosts.com website. We're using the money from SpamVault to pay for the hosting fees. </span><br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"><br><br>Last edited by Arf on Tue Jun 08, 2010 4:52 pm; edited 7 times in total</span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="2921"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=2921#2921"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat May 24, 2003 3:42 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=2921"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><span style="font-weight: bold">SpamVault will work with spamassassin to kill more spam</span>
+<br>
+
+<br>
+At the request of Craig at <a href="http://5dollarhosting.com" target="_blank">http://5dollarhosting.com</a> I've added a feature to SpamVault that will with SpamAssassin IF you have it installed on your server. 
+<br>
+
+<br>
+SpamAssassin doesn't eliminate spam, it rates it and then makes a note in the subject/header on the chances of it being spam. SpamVault does the blocking if the rating is above a certain threshold.</span><span class="gensmall"><br><br>Last edited by Arf on Fri May 07, 2004 4:09 pm; edited 1 time in total</span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="2922"></a><b>ESUTech</b></span><br><span class="postdetails">Propeller head licensee<br><img src="images/avatars/0ce2fa543eb40fdddff44.jpg" alt="" border="0"><br><br>Joined: 26 Apr 2003<br>Posts: 74<br>Location: Weirton, WV</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=2922#2922"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat May 24, 2003 5:08 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=2922"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I have this program and it ROCKS! Very well written and does everything it claims to do. My clients love it!
+<br>
+
+<br>
+Mike</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=99"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=99"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:Mike@ESUHost.com"><img src="templates/subSilver/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://esuhost.com" target="_userwww"><img src="templates/subSilver/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="3354"></a><b>darklite</b></span><br><span class="postdetails">Nothing better to do.<br><br><br>Joined: 24 Jun 2003<br>Posts: 187<br></span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=3354#3354"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Tue Jun 24, 2003 4:12 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Any predefined lists?</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=3354"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Are there any predefined lists that I can import into SpamVault?
+<br>
+
+<br>
+Really nice software by the way ;)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=118"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=118"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="5339"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=5339#5339"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Wed Oct 15, 2003 7:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=5339"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I have an announcement regarding SpamVault 4.0. I have just sent the program to Alabanza for testing. We have signed a licensing agreement that allows them to handle the distribution and installation of the program on their servers. The price will be set by Alabanza. I don't know when Alabanza will be releasing this but I'd guess by end of year. 
+<br>
+
+<br>
+Under the agreement, current users of 3.3 and older will be able to keep their licenses and pay me directly. Anyone wishing to upgrade will be able to get this from Alabanza directly. I'd honestly recommend upgrading. The new features which I've been using for several months are excellent in solving spam problems. 
+<br>
+
+<br>
+I'm really happy with the agreement as I think that it will free me up to focus on writing other programs or improving the ones I have.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="5355"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=5355#5355"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Thu Oct 16, 2003 12:46 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Re: Any predefined lists?</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=5355"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tbody><tr> 	  <td><span class="genmed"><b>darklite wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Are there any predefined lists that I can import into SpamVault?
+<br>
+
+<br>
+Really nice software by the way <img src="images/smiles/icon_wink.gif" alt="" border="0"></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br>
+There is a predefined list in the help file of v4.x</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="6313"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=6313#6313"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Dec 19, 2003 4:38 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=6313"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Today I got this from Tom Cunningham, "...In other news, all our techies are growing more and more impressed with Spamvault.  It sounds like that's coming out soon."
+<br>
+
+<br>
+So, there you have it.<br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"><br><br>Last edited by Arf on Fri May 07, 2004 4:15 pm; edited 1 time in total</span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="6762"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=6762#6762"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Thu Jan 22, 2004 11:12 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=6762"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Security Patch for users of v3.x
+<br>
+
+<br>
+On 1/21/04 I was alerted to the need to patch up a flaw in SpamVault 3.x. It is not likely that anyone without considerable technical knowledge (or by accident as was the case in finding it in the first place) will be able to figure out the exploit but I try to take security very seriously. Therefore I am offering a security patch to any registered users of SpamVault 3.0+. Just contact me via email at spamvault @ thesupportdesk.com. I'll need your name, server name (host.server.com), what version you have, and if you can remember, when you registered the program. 
+<br>
+
+<br>
+I can then send you the patch which is very easy to run via SSH as root. The update should take about a minute.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7113"></a><b>spiderweave</b></span><br><span class="postdetails">Nothing better to do.<br><img src="images/avatars/18ee4dc64096b4e709f70.gif" alt="" border="0"><br><br>Joined: 13 Jun 2003<br>Posts: 385<br>Location: East Stroudsburg, PA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7113#7113"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Thu Feb 12, 2004 9:20 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Price Not Too Bad</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7113"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Of Course I would love to have it for Free but $20.00 a month per server is not bad as long as Ala fully supports it it is updated regularly.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7114"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7114#7114"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Thu Feb 12, 2004 9:51 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7114"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">With 4.x I'm hoping that Ala will handle support. They're in a better position than I am for this because they have easy access to the account in question. So many times (90%) the problem requires someone to simply look at the account and find the mistake where the user didn't read the instructions and correct it. I don't have quick access to end users like Alabanza does. Where Alabanza fails, I'll be trying to help with support. 
+<br>
+
+<br>
+Somehow people think that I was making enough money at $35 per server to support the program but that wasn't the case. Typically, I have to spend about 10 to 30 minutes getting into the user's account to find the problem and 90% of the time it's with their entries. Even at minimum wage that $35/year doesn't go very far. So, I've been losing money. 
+<br>
+
+<br>
+If this gets me any points... I had no input on how much Alabanza charges. The agreement with Alabanza is strictly a licensing deal. I own all the source code and will continue to develop it. I already have several features which I plan to add in the next version as long as enough people are interested in using it. If it makes anyone a little more sympathetic, I've agreed to get paid 'only' when someone licenses the product for their server. So, I've made $0.00. I know how much $20/month is, I'm not a large host either. 
+<br>
+
+<br>
+It's been an interesting ride and now it's time for SpamVault to stand on it's own merit so that I can find other oportunities to earn a living.<br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7117"></a><b>sixpackmx</b></span><br><span class="postdetails">Hard Drive Crasher<br><br><br>Joined: 01 Nov 2002<br>Posts: 639<br>Location: Mexico City, Mexico</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7117#7117"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 1:12 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7117"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Yeap, Arf, think you are right.  Administration for the tool requires some level of knowledge, which, in many cases, most people don't have.
+<br>
+
+<br>
+For most of us, who already know how it works (procmail based rules), and have some server administration skills it's easy an easy tool to play with, but some others will prefer to have Ala manage all their server and focus on their bussiness.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=47"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=47"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7123"></a><b>spiderweave</b></span><br><span class="postdetails">Nothing better to do.<br><img src="images/avatars/18ee4dc64096b4e709f70.gif" alt="" border="0"><br><br>Joined: 13 Jun 2003<br>Posts: 385<br>Location: East Stroudsburg, PA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7123#7123"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 4:45 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: I am excited to get it!</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7123"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I know people will always expect things for free or next to free.  I do understand that you need to make money and we have no problem with the $20.00 a month as we will just pass this along to my clients.  To be honest with the way Spam is going it will be an easy upsell for this one.
+<br>
+
+<br>
+I know I have not used it yet but I am excited to use and offer it.
+<br>
+
+<br>
+Thanks</span><span class="gensmall"><br><br>Last edited by spiderweave on Fri Feb 13, 2004 3:18 pm; edited 1 time in total</span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7126"></a><b>Okidoki</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/18229547884728b6c0c993a.gif" alt="" border="0"><br><br>Joined: 13 Jan 2003<br>Posts: 2104<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7126#7126"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 12:22 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7126"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">With all respect to Arf, I think that it is too much to request (Ala) $20 per month per server. we speak from $240 to year per server.
+<br>
+
+<br>
+Sorry Arf, but I won't install the SpamVault in my servers.
+<br>
+
+<br>
+
+<br>
+Okidoki</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7131"></a><b>spiderweave</b></span><br><span class="postdetails">Nothing better to do.<br><img src="images/avatars/18ee4dc64096b4e709f70.gif" alt="" border="0"><br><br>Joined: 13 Jun 2003<br>Posts: 385<br>Location: East Stroudsburg, PA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7131#7131"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 3:23 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: What is your plan</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7131"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Was it your plan to offer it to your clients for free?  
+<br>
+
+<br>
+We will charge between $4.95 and $6.95 extra a month for it.  We are sure we will more than make up for the $20.00 extra a month.   We are also going to bundle the other Spam filter along with the Anit-Virus for a internet security package for around $11.95 - $14.95 which also should not be a hard upsell and it will pay off very well as the old Spam Filter (which is workign pretty good for us) and the Anit-Virus are Free.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7132"></a><b>Okidoki</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/18229547884728b6c0c993a.gif" alt="" border="0"><br><br>Joined: 13 Jan 2003<br>Posts: 2104<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7132#7132"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 3:38 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7132"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Our politics is to offer that type of tools free.
+<br>
+
+<br>
+They are tools that any ISP offers at the moment free, you are lucky with his clients if they pay extra for them.
+<br>
+
+<br>
+The security of a server and of the sites that are there, in my opinion are responsibility of the ISP and not of the client.
+<br>
+
+<br>
+
+<br>
+Okidoki</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7133"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7133#7133"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 4:46 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7133"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tbody><tr> 	  <td><span class="genmed"><b>Okidoki wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">With all respect to Arf, I think that it is too much to request (Ala) $20 per month per server. we speak from $240 to year per server.
+<br>
+
+<br>
+Sorry Arf, but I won't install the SpamVault in my servers.
+<br>
+
+<br>
+
+<br>
+Okidoki</td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br>
+Oki, No offense taken. Each of us runs our hosting company differently. Just look at our websites. It's amazing how we're all selling the same thing in so many different ways. 
+<br>
+
+<br>
+I charge between $1 and $3 for each powerscript as an add-ons. It wouldn't take many clients for you to recoup $20 per month. And I think that clients would rather be offered a product for a price than to see other hosts with more robust product lines.  
+<br>
+
+<br>
+Another bit of phychology. If a client gets SpamVault for free they tend to install it and expect it to do all the work for them. (I wish it could). Since it free and most people are lazy (like me) they tend to just let it go without working with it. But if they are paying for it, they will take the time to read the instructions and work it a little more. The results of anyone who works with the program is that they discover that it really works in the war against spam, viruses, duplicate emails and more.
+<br>
+
+<br>
+I still remember the first few weeks when SpamVault was very young and I'd see it blocking quite a few spams. That's when I really got fired up about it because it was giving me some really positive feedback. Soon, I because addicted to the program and the rest is history.<br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7135"></a><b>Anonymous</b></span><br><span class="postdetails">Nothing better to do.<br><br><br>Joined: 12 May 1978<br>Posts: 307<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7135#7135"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 5:25 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7135"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Arf,  
+<br>
+  
+<br>
+I want to clarify that the SpamVault, I think it is a good product and maybe it can even cost more than $20.
+<br>
+
+<br>
+The problem is who offers it, in this case Ala, an ISP with the highest prices in the market, That with their politics of prices, they forces us to have high prices, 80% of the potential clients doesn't look for this..
+<br>
+
+<br>
+Ala, doesn't sacrifice neither in a cent his interests, but they want that we put everything.  <img src="images/smiles/icon_wink.gif" alt="" border="0"> 
+<br>
+
+<br>
+You can see another example, the Urchin, they want $5 per month, They surely buy the license Urchin in less than 50% of their original price.
+<br>
+
+<br>
+If you multiply $5 x 100 licenses = $500 monthly
+<br>
+
+<br>
+and in one year it is:  
+<br>
+  
+<br>
+$500 x 12 = $6000
+<br>
+
+<br>
+Don't you believe that this is a speculative gain?
+<br>
+
+<br>
+An ISP that offers servers at $900 + 1 $CP +.... +.
+<br>
+
+<br>
+You see only the companies of Hosts that grow really in this business, andyou will see that they offer more than us and to smaller price.
+<br>
+
+<br>
+
+<br>
+Okidoki</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7140"></a><b>Okidoki</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/18229547884728b6c0c993a.gif" alt="" border="0"><br><br>Joined: 13 Jan 2003<br>Posts: 2104<br></span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7140#7140"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 13, 2004 10:24 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7140"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Are different ways of seeing the business. I don't ask that the tools that Ala offers are Free, if not that they are they have their price exactly and taking the added value of the complete service.
+<br>
+
+<br>
+For example for my it is but important a system antivirus MTA, Why?  because my clients Ala toys also get it in internet free.
+<br>
+But an antivirus MTA for example that of pandasoftware (http://www.pandasoftware.com/products/sendmailsecure/), my clients cannot obtain it neither me, because one needs to buy 10 licenses how minimum.
+<br>
+
+<br>
+For my these products are those that create the difference between a host and another.
+<br>
+
+<br>
+Okidoki</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7142"></a><b>MysTex</b></span><br><span class="postdetails">Hard Drive Crasher<br><br><br>Joined: 03 Nov 2002<br>Posts: 534<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7142#7142"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat Feb 14, 2004 12:25 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7142"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I guess Im somewhat  in a different situation than some because I have the older version installed.
+<br>
+I was told today that this newer version will not affect our clients that are using this older version. If I want the newer version I will have to have ala un-install my old one and then re-install the new one and then get charged the fee...I dont think I will be doing that.
+<br>
+Also I do think spam vault is a GREAT program, but lets just say I have some reserved feelings with all the excess charges by ala.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=48"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=48"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7150"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7150#7150"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon Feb 16, 2004 3:08 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7150"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tbody><tr> 	  <td><span class="genmed"><b>Anonymous wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Arf,  
+<br>
+  
+<br>
+I want to clarify ...
+<br>
+
+<br>
+You see only the companies of Hosts that grow really in this business, andyou will see that they offer more than us and to smaller price.
+<br>
+
+<br>
+Okidoki</td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br>
+Okidoki, I wish Ala's prices were lower yes. I think what you're saying is that you'd be willing to pay current prices if they offered something comperable to the market so that we could offer something comperable to the market. I don't want to offer more for less, if you try to compete on price you will not win. Neither would they.
+<br>
+
+<br>
+Sometimes I think that Alabanza would say, "Okay, if you don't like the prices go somewhere else." But that is the topic for another forum.<br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7151"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7151#7151"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon Feb 16, 2004 3:29 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7151"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tbody><tr> 	  <td><span class="genmed"><b>MysTex wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Also I do think spam vault is a GREAT program, but lets just say I have some reserved feelings with all the excess charges by ala.</td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br>
+I fully agree with your point. I can't argue the excess charges in many areas. (I won't comment on SpamVault only because it is completely self serving. )
+<br>
+
+<br>
+To that end though, if we were charged $5 for XYZ and could then sell it for $10, even if clients could get the product could be free, we would. Right? I don't push OSCommerce because I am not as familiar with it as I 'should' be. However, just yesterday a client needed a store and was going to buy form someone else, so I told him that we cold do OSC for $10/month. He didn't even blink before accepting my offer. He said he based his decision on his desire to continue using our service because of the value we offer in other areas like customer service. I have other clients who use the product that pay $25 per month for it. At the end of the year, that's going to be a tidy sum that I might have passed up because I don't like excess charges. 
+<br>
+
+<br>
+If you want to talk about excess charges, focus on disk space and bandwidth. All thinks considered, that is the biggest reason to resent Alabanza. Unfortunately, they have not kept up with the times on these two items which have dropped in price for them, but they have not passed this on to us.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7152"></a><b>Okidoki</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/18229547884728b6c0c993a.gif" alt="" border="0"><br><br>Joined: 13 Jan 2003<br>Posts: 2104<br></span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7152#7152"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon Feb 16, 2004 3:29 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7152"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Yes. I am with Ala, because they usually give a good service, (better than other ISP).
+<br>
+
+<br>
+But I when paying a high price, also hope to have extras that justify the price that I pay.. not everything can be justified with a good support .. I don't know if I am able to explain my point of view.
+<br>
+
+<br>
+I simply see this way it:  
+<br>
+  
+<br>
+It interests me new clients, the clients that I have at the moment are very difficult that I lose them because they know me. Him new client, doesn't know me and the one is interested only in the first moment, of the characteristics of my hosting plans and the prices.
+<br>
+
+<br>
+If I add an Urchin at $5.00 monthly, to my hosting plans, increasing the price, him new client that you see that, only thinks that I am "drugged" and outside of the reality.. Do you understand me?  <img src="images/smiles/icon_wink.gif" alt="" border="0"> 
+<br>
+
+<br>
+I to grow, need of new clients and not of offering tools to my old clients. This only create money to Alabanza, but it doesn't create money for me.  <img src="images/smiles/icon_wink.gif" alt="" border="0"> 
+<br>
+
+<br>
+Okidoki</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=75"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7153"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7153#7153"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon Feb 16, 2004 3:41 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7153"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Oki,
+<br>
+I offer powerscripts and such as extra options on all of my current plans so that my plan prices are still competitive and because I don't want to offer a ton of tools that clients aren't going to use. 
+<br>
+
+<br>
+The result. I don't get a lot of experienced power users who want every bell and whistle. I don't want them because many times they are a service drain in one form or another. 
+<br>
+
+<br>
+I get newbies with only a small amount of experience who often don't know the difference between one host and another (probably because there is very little). I appeal to their goal, to promote their small business and not to competing for features and prices. As they grow in their understanding of what it's all about, they can add extras for a price. The key to me is customer service. If you offer them this, a majority of them will stay with your service because they have a relationship with you and they have been able to avoid all the nightmares they've hear about. Those that leave will leave anyway. So far this has worked for me. My business continues to grow in spite of offer less for a higher price than my competitors. My clients are happier and my profits are too.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7157"></a><b>shpilkus</b></span><br><span class="postdetails">Hosting Superstar<br><img src="images/avatars/41217d6240213bc17f2be.jpg" alt="" border="0"><br><br>Joined: 05 Aug 2002<br>Posts: 1015<br>Location: Space Coast, FL</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7157#7157"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon Feb 16, 2004 4:43 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7157"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Look, there is nothing wrong with this.  Offering Urchin for a fee as an option is not a problem.  Many companies have a basic and premium level of service.  They don't want Urchin?  Fine, they can have the free Site Statistics tool.  For those who want more info out of their stats, or need more detail for marketing, they will gladly upgrade to the 'premium' stats.  For our clients, who have been getting SpamVault 3 for free, we will offer 4 as an upgrade.  We are bundling SpamAssassin with it, as a "SpamKiller" suite.  Dont' want it?  Don't pay for it!  Same with the PowerScrtipz tools - they are 'premium" services.
+<br>
+
+<br>
+I see all your comments, but I disagree.  Every one of these items is an opportunity.  Certainly all of your clients aren't going to go for it, but the ones that do will be increasing your revenue for months to come.  We have maybe 1% of our client base using PowerScriptz, but that represents money we didn't have before.  I personally think Alabanza is on the right track, giving us tools to create levels of service and increase opportunity for revenue.  Some have been free (PowerScriptz), some for a reasonable cost.  How many clients will sign up for SV 4.0?  I think quite a few.  Even priced at a buck a month you only need 20 clients to bite to break even.  Who wouldn't pay $1 a month to cut spam down by as much as 90%?
+<br>
+
+<br>
+Plus, like Arf says, client loyalty means a lot.  Yes, people can go and install OSCommerce for free by themselves - but as far as we're concerned, they are on their own for install, configuration, and support/troubleshooting.  To pay a monthly fee to get quality support and a nifty GUI interface is not a problem for most folks.  We've experienced this firsthand.  Giving the client the best possible support will make it easier down the road when they have to decide between paying you more for something or doing it themselves (or even going to another host who charges less).  People will pay a premium for premium service.
+<br>
+
+<br>
+Just my $0.02.<br>_________________<br>Craig M.
+<br>
+5DollarHosting.com</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=28"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=28"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:craig@5dollarhosting.com"><img src="templates/subSilver/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.5dollarhosting.com" target="_userwww"><img src="templates/subSilver/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7283"></a><b>spiderweave</b></span><br><span class="postdetails">Nothing better to do.<br><img src="images/avatars/18ee4dc64096b4e709f70.gif" alt="" border="0"><br><br>Joined: 13 Jun 2003<br>Posts: 385<br>Location: East Stroudsburg, PA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7283#7283"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 20, 2004 3:12 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Spam Vault is GREAT</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7283"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">We have paid the extra $19.95 a month on all of our servers and with our own account it is doing GREAT.  This will be an easy sell to our clients.  We are charging $3.95 a month.  
+<br>
+
+<br>
+Thanks for the great Spam Cure!</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=117"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="7310"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7310#7310"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 20, 2004 3:28 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7310"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Spiderweave,
+<br>
+What a boost to my morning to hear that you like SpamVault.  <img src="images/smiles/icon_biggrin.gif" alt="" border="0"> 
+<br>
+
+<br>
+I wish I could figure out a way to communicate with the hosts that take on the product because there are some features/tricks that can be used that Alabanza doesn't mention (probably because it requires a little extra technical knowledge). 
+<br>
+
+<br>
+Perhaps if users of 4.0 will send me an email I will try to put together a few tricks that you can use. Please include your server name (host.domain.com)<br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="7336"></a><b>datazen</b></span><br><span class="postdetails">Hosting Superstar<br><img src="images/avatars/202393438044730790ead50.png" alt="" border="0"><br><br>Joined: 19 Feb 2004<br>Posts: 1084<br>Location: Jacksonville, FL</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=7336#7336"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri Feb 20, 2004 7:01 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=7336"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Hey,
+<br>
+
+<br>
+How about just getting 50 cents from each customer that want SpamVault?
+<br>
+
+<br>
+With the Spam problems out there today, most won't have a prob with 50 cents more.
+<br>
+
+<br>
+Do the math:
+<br>
+
+<br>
+500 clients per server x .50 = $250 per month - $20 = $230 profit per
+<br>
+
+<br>
+ <img src="images/smiles/icon_razz.gif" alt="" border="0"><br>_________________<br>Michael
+<br>
+<a href="http://www.webdomains4u.com" target="_blank" class="postlink">www.webdomains4u.com</a>
+<br>
+<i>Nothing is really work unless you would rather be doing something else.</i></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=152"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=152"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="9196"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=9196#9196"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Fri May 07, 2004 4:32 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=9196"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><span style="font-weight: bold">New Features coming in Version 4.1 </span>
+<br>
+As you know, I will only discuss actual features that exist so this is only a partial list of new features that should show up in SpamVault 4.1. These are all in Alpha testing and it will be months before a formal roll out but I thought I'd let you know that I'm working on it. 
+<br>
+
+<br>
+<ul><li>Added Log Analyzer: Get a much quicker overall view of your SpamVault Log situation. Rather than list the entire log, it shows the totals for filters that are blocking spam. Log Alalyzer digests the logs into a nice overall picture. 
+<br>
+</li><li>Interface improvements
+<br>
+</li><li>Log has been updated to log installations better. 
+<br>
+</li><li>Added "X-Recipient" option to the advanced filters. This tool puts the true recipient's address in the email header. For example, if the spammer sends to "joe@somedomain.com" and then BCCs a real address on the domain the "real address" will show up in the email header. Using this information, you are better equipped to filter this email. 
+<br>
+</li><li>Add a retired address list that vaporizes emails sent to the retired addresses even if they are BCC'd addresses. You can also choose whether or not you wish to log these as they just clutter up your logs. 
+<br>
+</li><li>Updated helpfile.
+<br>
+</li><li>Recognizes SpamAssassin and puts the INCLUDERC line for 
+<br>
+SpamVault AFTER this line so that if users are using SpamAssassin to flag spam they can use SpamVault to deep six it. 
+<br>
+</li><li>Addedd "lnk" and "ink" to the default list of executable attachments.
+<br>
+</li><li>Added the ability to show/hide duplicate email entries in the logs. This is a very reliable filter so turning off the logging clears up a lot of clutter when viewing the logs. 
+<br>
+</li><li>Bug and Security fixes
+<br>
+</li><li><span style="font-weight: bold">Add "Use shared filter file" for users who want to share a filter file with the host. Rather than importing filters, hosts can simply allow their users to share a specific file that contains tried and true filters.</span> </li></ul><br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11015"></a><b>Anonymous</b></span><br><span class="postdetails">Nothing better to do.<br><br><br>Joined: 12 May 1978<br>Posts: 307<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11015#11015"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Wed Aug 04, 2004 6:41 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: 4.1</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11015"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Does anyone know when 4.1 is going to be released on Alabanza?</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="11016"></a><b>rldev</b></span><br><span class="postdetails">Hosting Superstar<br><br><br>Joined: 05 Aug 2003<br>Posts: 1067<br></span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11016#11016"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Wed Aug 04, 2004 6:48 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11016"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Thomas,
+<br>
+Have you considered porting SpamVault for a different cp/mail server. Say Direct Admin/Cpanel / Exim?</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=127"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=127"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11017"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11017#11017"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Wed Aug 04, 2004 8:43 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11017"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I'd thought about CPanel. It uses a different email system for which I cannot get the answers I'd need to write the program. Besides that, the biggest incentive to write the program was the need for it on my server. Since I'm not hosting on Cpanel, the only other incentive would be money. And frankly, I doubt there's enough money to pay for the work that would be required to rewrite the program. I don't mean to sound like a capitalist pig but this is what I do to eat.<br>_________________<br>Thomas
+<br>
+ez2ba.com (easy to be a dot-com)</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="11091"></a><b>rldev</b></span><br><span class="postdetails">Hosting Superstar<br><br><br>Joined: 05 Aug 2003<br>Posts: 1067<br></span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11091#11091"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat Aug 07, 2004 4:07 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11091"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Exim is supposedly one of the easiest mail servers to work with in terms of making apps for it. There is plenty of documentation for it.  Between cpanel and DirectAdmin, I don't see why you couldn't sell a lot of them, But I guess you couldn't sell it for too much, since most of these people use SA. SV and SA are a good combo though.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=127"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=127"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11092"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11092#11092"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat Aug 07, 2004 1:22 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11092"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tbody><tr> 	  <td><span class="genmed"><b>rldev wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Exim is supposedly one of the easiest mail servers to work with</td>	</tr></tbody></table><span class="postbody">When someone shows me documentation on how to filter email using Exim, I might move forward on the idea of a completely different tool. Nobody has been able to show me anything that I could use.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="11093"></a><b>crashdump</b></span><br><span class="postdetails">Hard Drive Crasher<br><img src="images/avatars/44e1bbb14165c6b301e11.jpg" alt="" border="0"><br><br>Joined: 17 Oct 2002<br>Posts: 942<br>Location: Virginia</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11093#11093"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat Aug 07, 2004 3:32 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11093"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><a href="http://www.exim.org/exim-html-4.00/doc/html/filter_toc.html" target="_blank">http://www.exim.org/exim-html-4.00/doc/html/filter_toc.html</a></span><span class="gensmall"><br><br>Last edited by crashdump on Wed Oct 06, 2004 9:09 pm; edited 1 time in total</span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=43"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=43"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11094"></a><b>Arf</b></span><br><span class="postdetails">Official Test Penquin<br><img src="images/avatars/20207906764469072435634.gif" alt="" border="0"><br><br>Joined: 09 Apr 2002<br>Posts: 8332<br>Location: IDAHO, USA</span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=11094#11094"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Sat Aug 07, 2004 3:39 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11094"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">You the man Bill. I'll take a look.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=7"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr><form method="post" action="viewtopic.php?t=397&amp;start=0"></form>
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tbody><tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=13"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle"></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=397"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle"></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">The Unofficial Alabanza Forums Forum Index</a>
+	  -&gt; <a href="viewforum.php?f=13" class="nav">Server Candy (Public)</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT</span><br><span class="nav">Goto page <b>1</b>, <a href="viewtopic.php?t=397&amp;postdays=0&amp;postorder=asc&amp;start=35">2</a>&nbsp;&nbsp;<a href="viewtopic.php?t=397&amp;postdays=0&amp;postorder=asc&amp;start=35">Next</a></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>2</b></span></td>
+  </tr>
+</tbody></table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tbody><tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br>
+	  &nbsp;<br>
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Alabanza Hosts General Forums</option><option value="-1">----------------</option><option value="8">Welcome :: Read Me First!</option><option value="1">Express Yourself</option><option value="7">General Help</option><option value="13" selected="selected">Server Candy (Public)</option><option value="19">CPanel/Plesk &amp; other management consoles</option><option value="20">Spam/Fraud/Hacker is now private</option></select><input type="hidden" name="sid" value="12ee900adcc0c908c5f69363638c5b88">&nbsp;<input type="submit" value="Go" class="liteoption"></span></td>
+	</tr>
+</tbody></table></form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br>You <b>cannot</b> reply to topics in this forum<br>You <b>cannot</b> edit your posts in this forum<br>You <b>cannot</b> delete your posts in this forum<br>You <b>cannot</b> vote in polls in this forum<br></span></td>
+  </tr>
+</tbody></table>
+
+
+<div align="center"><span class="copyright"><br><br>
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2005 phpBB Group<br></span></div>
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+
+</body></html>

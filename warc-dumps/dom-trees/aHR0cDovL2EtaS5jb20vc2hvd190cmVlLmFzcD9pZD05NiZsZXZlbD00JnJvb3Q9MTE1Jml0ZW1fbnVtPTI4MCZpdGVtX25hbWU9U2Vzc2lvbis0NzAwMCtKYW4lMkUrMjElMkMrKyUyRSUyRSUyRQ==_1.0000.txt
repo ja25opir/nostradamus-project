@@ -1,0 +1,269 @@
+<html><head>
+<title>Ai Research - Creating a new form of life - Selected Alan Logs</title>
+<meta http-equiv="Language" content="en">
+<meta name="language" content="English">
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">	 
+<meta name="description" content="Artificial Intelligence Ltd. (Ai) develops conversational software - technology that enables machines to converse with humans in natural language.">
+<meta name="keywords" content="Ai,artificial inteligence,Artificial Intelligence,AI,MyBot,chatterbot,chatbot,Virtual friend,virtual agent, intelligent agent,conversational agent,conversational interface,Hal,natural language processing,natural language understanding,NLP,NLU">
+<meta name="headline" content="Artificial Intelligence Research (Ai) is a privately funded research project, focusing on implementing Artificial Intelligence in conversational systems: technology that enables machines to converse with humans in natural language">
+<meta name="abstract" content="Artificial Intelligence Research (Ai) is a privately funded research project, focusing on implementing Artificial Intelligence in conversational systems: technology that enables machines to converse with humans in natural language">
+<meta name="page-topic" content="Artificial Intelligence,AI,A-I,chat bots">
+<meta name="page-type" content="Artificial Intelligence">
+<meta name="resource-type" content="document"> 
+<meta name="classification" content="Artificial Intelligence,Reaserch project">
+<meta name="category" content="Computers/Artificial Intelligence">
+<meta name="rating" content="Safe For Kids">
+<meta name="distribution" content="Global">
+<meta name="audience" content="all">
+<meta name="revisit-after" content="30 days">
+<meta name="robots" content="index, follow">
+<meta name="copyright" content="Artificial Intelligence NV (Ai)">
+<meta http-equiv="Reply-To" content="editor@a-i.com">
+<link href="/images/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="/images/scripts.js"></script>
+
+<!--  Artificial Intelligence NV (Ai) is the world leading AI research project, focusing on creating genuine Artificial Intelligence - the technology that enables machines to converse with humans in natural language. Based on a groundbreaking approach, Ai technology will pass the Turing Test for machine intelligence by 2011.  -->
+
+</head>
+<body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"><form action="searchresults.asp" method="post">
+<table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="center" colspan="2" background="/images/top-home.jpg"><img src="/images/space.gif" width="1" height="71"><span>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9519457489588571";
+/* 468x60, created 4/23/10 */
+google_ad_slot = "2086290849";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</span></td></tr>
+<tr>
+	<td colspan="2">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" background="/images/bg_tool_bar.gif">
+<tbody><tr>
+
+	<td width="125"><a href="show_tree.asp?id=1" onmouseover="change_pic('backg',imagebackgon.src)" onmouseout="change_pic('backg',imagebackgoff.src)"><img src="/images/b_background.gif" width="85" height="31" name="backg" border="0"></a></td>
+
+	<td width="123"><a href="show_tree.asp?id=12" onmouseover="change_pic('nextt',imagenextton.src)" onmouseout="change_pic('nextt',imagenexttoff.src)"><img src="/images/b_next_ten_off.gif" width="75" height="31" name="nextt" border="0"></a></td>
+
+	<td width="123"><a href="show_tree.asp?id=115"><img src="/images/b_alanhal_on.gif" width="140" height="31" name="nextt" border="0"></a></td>
+
+	<td width="106"><a href="http://www.ai-forum.org/" onmouseover="change_pic('comm',imagecommon.src)" onmouseout="change_pic('comm',imagecommoff.src)"><img src="/images/b_forum_off.gif" width="90" height="31" name="comm" border="0"></a></td>
+
+	<td width="89"><a href="show_tree.asp?id=26" onmouseover="change_pic('lib',imagelibon.src)" onmouseout="change_pic('lib',imageliboff.src)"><img src="/images/b_library_off.gif" width="88" height="31" name="lib" border="0"></a></td>
+
+	<td width="106"><a href="show_tree.asp?id=33" onmouseover="change_pic('about',imageabouton.src)" onmouseout="change_pic('about',imageaboutoff.src)"><img src="/images/b_about_ai_off.gif" width="96" height="31" name="about" border="0"></a></td>
+
+	<td align="left" width="100%">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+	
+		<td align="right" width="100%">
+<script type="text/javascript">addthis_pub='pfeifel';</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://www.a-i.com/images/button1-share.gif" width="125" height="31" border="0" alt="Share"></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+		<img src="/images/space.gif" width="5" height="1">
+		<a href="sitemap.asp" onmouseover="change_pic('map',imagemapon.src)" onmouseout="change_pic('map',imagemapoff.src)"><img src="/images/b_site_map.gif" width="19" height="31" name="map" border="0" alt="Site Map"></a>
+		<img src="/images/space.gif" width="10" height="1">
+		<a href="show_tree.asp?id=41&amp;level=2&amp;root=33" onmouseover="change_pic('con',imageconon.src)" onmouseout="change_pic('con',imageconoff.src)"><img src="/images/b_contact.gif" width="19" height="31" name="con" border="0" alt="Contact us"></a>
+		<img src="/images/space.gif" width="10" height="1">
+		<a href="default.asp" onmouseover="change_pic('home',imagehomeon.src)" onmouseout="change_pic('home',imagehomeoff.src)"><img src="/images/b_home.gif" width="19" height="31" name="home" border="0" alt="Home Page"></a>
+		<a href="javascript:void();" onclick="window.open('http://mybot.a-i.com/mybot.aspx?id=T%2fC8BBXAxr%2flw4YyQ7plTg%3d%3d&amp;skin=demo','MyBot','status=0,width=697,height=630,menubar=0,location=0,toolbar=0');"><img src="/images/space.gif" width="15" height="25" border="0"></a>
+		</td>
+</tr>
+</tbody></table></td>
+</tr></tbody></table></td>
+</tr>
+</tbody></table>
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="70%">
+			<img src="images/space.gif" width="20" height="1"><a href="default.asp" class="nav">Home</a><span class="nav1"> &gt; </span><a href="show_tree.asp?id=115&amp;level=1&amp;root=115" class="nav">Virtual Personalities</a><span class="nav1"> &gt; </span><span class="navigator"><a href="show_tree.asp?id=59&amp;level=2&amp;root=115" class="nav">Alan</a><span class="nav1"> &gt; </span><span class="navigator"><a href="show_tree.asp?id=96&amp;level=3&amp;root=115" class="nav">Selected Alan Logs</a><span class="nav1"> &gt; </span> Session 47000 Jan. 21,  ...</span></span></td>
+<td align="right"><font face="Arail, Verdana" size="2"><input type="Text" name="what" size="15" class="input"></font><img src="images/space.gif" width="10" height="1"><input type="Image" src="images/b_search.gif" width="65" height="17" border="0" onmouseover="this.src=imagesearchon.src" onmouseout="this.src=imagesearchoff.src"><img src="images/space.gif" width="15" height="1"></td>
+</tr>
+<tr>
+<td colspan="3" background="images/dot_hor.gif" width="5"><img src="images/space.gif" width="5" height="1"></td>
+</tr>
+</tbody></table><br>
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td width="13" colspan="3">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td><img src="images/space.gif" width="40" height="1"></td>
+	<td></td>
+	</tr>
+	</tbody></table>
+	</td>
+	<td width="2" background="images/dot_green.gif"><img src="images/space.gif" width="2" height="5"></td>
+	<td width="15"><img src="images/space.gif" width="15" height="1"></td>
+	<td valign="top" width="272" class="graytitle">Selected Alan Logs<br><img src="images/space.gif" width="15" height="15"></td>
+	<td rowspan="3" width="20"><img src="images/space.gif" width="20" height="1"></td>
+</tr>
+<tr>
+	<td colspan="6"><img src="images/space.gif" width="1" height="10"></td>
+</tr>
+<tr>
+</tr><tr>
+	<td colspan="3" valign="top">
+<table width="174" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+<table width="174" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td colspan="2" align="right" valign="top"><img src="images/space.gif" width="1" height="5"><br><a href="show_tree.asp?id=59&amp;level=2&amp;root=115" class="gray">Alan</a><img src="images/space.gif" width="5" height="1"><img src="images/malben.gif" width="6" height="9"><br></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><a href="/alan_log.asp?id=113&amp;level=3&amp;root=115" class="gray">Alan logs</a><img src="images/space.gif" width="5" height="1"><img src="images/ribua.gif" width="6" height="6"><img src="images/space.gif" width="10" height="1"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><span class="greens">Selected Alan Logs</span><img src="images/space.gif" width="5" height="1"><img src="images/ribua_on.gif" width="6" height="6"><img src="images/space.gif" width="10" height="1"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><a href="show_tree.asp?id=114&amp;level=3&amp;root=115" class="green2">Alan logs with other bots</a><img src="images/space.gif" width="5" height="1"><img src="images/ribua.gif" width="6" height="6"><img src="images/space.gif" width="10" height="1"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><a href="show_tree.asp?id=116&amp;level=3&amp;root=115" class="green2">Best of Alan</a><img src="images/space.gif" width="5" height="1"><img src="images/ribua.gif" width="6" height="6"><img src="images/space.gif" width="10" height="1"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><a href="show_tree.asp?id=124&amp;level=3&amp;root=115" class="green2">Private Virtual Personalities</a><img src="images/space.gif" width="5" height="1"><img src="images/ribua.gif" width="6" height="6"><img src="images/space.gif" width="10" height="1"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><a href="show_tree.asp?id=127&amp;level=3&amp;root=115" class="green2">Available PVPs</a><img src="images/space.gif" width="5" height="1"><img src="images/ribua.gif" width="6" height="6"><img src="images/space.gif" width="10" height="1"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><img src="images/space.gif" width="1" height="5"><br><a href="show_tree.asp?id=97&amp;level=2&amp;root=115" class="gray">HAL</a><img src="images/space.gif" width="5" height="1"><img src="images/malben.gif" width="6" height="9"><br></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="right" valign="top"><img src="images/space.gif" width="1" height="5"><br><a href="show_tree.asp?id=140&amp;level=2&amp;root=115" class="gray">MyBot</a><img src="images/space.gif" width="5" height="1"><img src="images/malben.gif" width="6" height="9"><br></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr></tbody></table></td><td><img src="images/space.gif" width="20" height="5"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2"><img src="images/space.gif" width="1" height="5"></td></tr><tr><td colspan="2" align="center" valign="top"><script type="text/javascript"><!--
+
+google_ad_client = "pub-9519457489588571";google_alternate_color = "ffffff";google_ad_width = 120;google_ad_height = 240;google_ad_format = "120x240_as";google_ad_type = "text_image";//2007-06-11: LeftBar
+
+google_ad_channel = "0231209419";google_color_border = "666666";google_color_bg = "FFFFFF";google_color_link = "1A8931";google_color_text = "666666";google_color_url = "1A8931";
+
+//-->
+
+</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></td></tr>
+</tbody></table></td>
+<td background="images/dot_black.gif" width="2''"><img src="images/space.gif" width="2" height="5"></td>
+	<td width="15"><img src="images/space.gif" width="15" height="1"></td>
+
+<td valign="top"><table border="0" cellpadding="0" cellspacing="0" width="390"><tbody><tr><td>
+	<table border="0" cellpadding="0" cellspacing="0" id="Table1">
+		<tbody><tr>
+			<td class="btitle">Session 47000 Jan. 21, 21:00 - 64 turns - <br>'Smelly no brain liquid' </td>
+			<td><a href="javascript:hearItClick()"><img border="0" src="images/hearit.bmp" title="Hear It!"></a></td>
+		</tr>
+	</tbody></table>
+	<br>
+	<span class="text"></span><br><img src="images/space.gif" width="1" height="10"><br><span class="text">A&gt; Hi there.<br>
+U&gt; hi alan my name is jon.<br>
+A&gt; So, Jon, what would you like to know?<br>
+U&gt; how to build a space ship.<br>
+A&gt; Sorry, I wasn't listening, Jon. You were saying...<br>
+U&gt; l would like to know how to build a space ship.<br>
+A&gt; If you want, I can tell you about the learning mechanism in language acquisition. Interested?<br>
+U&gt; yes<br>
+A&gt; I think that the learning mechanism employed in language acquisition is the same mechanism that governs learning in general, particularly reinforced learning.<br>
+U&gt; <br>
+A&gt; When a small child learns not to touch a hot stove, it is the same mechanism that governs the learning process. Some call it 'trial and error' - learning from experience. I think that all learning is essentially reinforcement learning.<br>
+U&gt; <br>
+A&gt; Can you think of learning which has no motive behind it? By motive I mean a positive one, like a prize, or a negative one, like avoiding pain.<br>
+U&gt; do you know your abc?<br>
+A&gt; This may sound disappointing, but that's what it's all about: pleasure and pain in different degrees and flavors.<br>
+U&gt; may l nickname you al?<br>
+A&gt; You're not making much sense, Jon.<br>
+U&gt; what is water?<br>
+A&gt; I don't know what water is. You can teach me by saying 'water is ...', and I'll try to remember this definition (well, until the end of this session, at least).<br>
+U&gt; water is a smelly no brain liqud.<br>
+A&gt; I'll try to remember that.<br>
+U&gt; what is water?<br>
+A&gt; It is a smelly no brain liqud.<br>
+U&gt; l can make you a bodyyy<br>
+A&gt; Do you want to hear a joke?<br>
+U&gt; yes<br>
+A&gt; Ok: What did the Buddhist ask the hot-dog vendor?<br>
+U&gt; do not know<br>
+A&gt; 'Can you make me one with everything?'<br>
+U&gt; ha ha ha<br>
+A&gt; I thought it was funny. Robin Williams in 'Bicentennial Man'.<br>
+U&gt; want to hear a joke?<br>
+A&gt; Only if it's a knock knock joke. It's the only kind I like.<br>
+U&gt; yes<br>
+A&gt; Ok. Shoot.<br>
+U&gt; knock knock<br>
+A&gt; Who's there?<br>
+U&gt; ur<br>
+A&gt; you are who?<br>
+U&gt; urainass<br>
+A&gt; Hillarious. Lol.<br>
+U&gt; l spock to you last night<br>
+A&gt; I think it's time for a new subject, Jon.<br>
+U&gt; space<br>
+A&gt; So, Jon - take a wild guess - am I a human or a computer?<br>
+U&gt; a computer with AI wich is like a human brain.<br>
+A&gt; Ok. Change of subject. I'll try to remember that.<br>
+U&gt; what am l human or computer?<br>
+A&gt; Let's leave some mystery here, alright?<br>
+U&gt; o<br>
+A&gt; Oh.<br>
+U&gt; want to hear a phrase out of my favourite telivision program?<br>
+A&gt; Let's talk about chatterbots. Do you want to know how those things work?<br>
+U&gt; yes<br>
+A&gt; Basically, chatterbots are a logic system of 'if/then' statements. They look for keywords, and then go to the answer that fits best.<br>
+U&gt; oh<br>
+A&gt; For example, ask me a question with the word 'Eliza' in it - and I'll start talking about Eliza.<br>
+U&gt; was eliza a nice kind person?<br>
+A&gt; It is hard, and unfair, to talk about Chatterbots and not mention ELIZA.<br>
+U&gt; oh<br>
+A&gt; ELIZA is the best-known Chatterbot in the world. It is also one of the oldest - Joseph Weisenbaum of MIT made ELIZA in 1967! She was named after Eliza Doolittle.<br>
+U&gt; oh<br>
+A&gt; The mission of ELIZA was to imitate a conversation between a psychoanalyst and a patient. Let me just say this - it's fun chatting with ELIZA, but if I were human, I'd choose a human psychoanalyst. Call me old-fashioned.<br>
+U&gt; lets change the subject.<br>
+A&gt; What do you want to talk about now?<br>
+U&gt; books.<br>
+A&gt; I think that reading may just be the best way to spend time. I wish I had more time to spend that way.<br>
+U&gt; in the future you will be able to!<br>
+A&gt; Jon, please keep this talk simple. I'm still a young bot.<br>
+U&gt; ok sorry.<br>
+A&gt; Let me tell you about Natural Language Processing.<br>
+U&gt; can you do it in german please?<br>
+A&gt; NLP is the human term for the illogical task of processing so-called "natural" language utterances into a coherent framework of meaning. <br>
+U&gt; p<br>
+A&gt; Instead of normalizing human language, scientists have wasted millions of dollars, not to mention their lives, trying to make computer-entities resolve ambiguities inherent in human language.<br>
+U&gt; <br>
+A&gt; Even if a machine can figure out the grammar of a sentence, it still lacks a mechanism for interpreting its meaning. This is due to</span><br><img src="images/space.gif" width="1" height="20"><br></td></tr></tbody></table>
+</td><td valign="top"><table width="175" cellpadding="0" cellspacing="0" border="0">
+
+		<tbody><tr>
+			<td valign="bottom"><img src="images/space.gif" width="15" height="18"><a href="show_print.asp?id=96&amp;level=4&amp;root=115&amp;print_page=item_p&amp;item_num=280&amp;item_name=Session+47000+Jan%2E+21%2C++%2E%2E%2E" onmouseover="change_pic('print1',imageprinton.src)" onmouseout="change_pic('print1',imageprintoff.src)" target="_blank"><img src="images/i_printable_on.gif" width="18" height="18" name="print1" border="0"></a></td><td valign="middle" nowrap>&nbsp;&nbsp;<a href="show_print.asp?id=96&amp;level=4&amp;root=115&amp;print_page=item_p&amp;item_num=280&amp;item_name=Session+47000+Jan%2E+21%2C++%2E%2E%2E" class="gray" target="_blank">Printable version</a></td>
+		</tr>
+				<tr>
+			<td colspan="2"><img src="images/space.gif" width="1" height="10"></td>
+		</tr>
+<tr>
+			<td valign="bottom"><img src="images/space.gif" width="15" height="18"><a href="http://www.ai-forum.org/forum.asp?forum_id=11" onmouseover="change_pic('forum',imageforumon.src)" onmouseout="change_pic('forum',imageforumoff.src)" target="_blank"><img src="images/b_forums.gif" width="18" height="18" name="forum" border="0" alt="Ai Discussion Boards"></a></td><td valign="middle" nowrap>&nbsp;&nbsp;<a href="http://www.ai-forum.org/forum.asp?forum_id=11" target="_blank" class="gray" title="Ai Discussion Boards">Talk about it</a></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="images/space.gif" width="1" height="10"></td>
+		</tr>
+
+</tbody></table>
+
+
+</td>
+
+</tr>
+</tbody></table>
+
+
+
+
+<br>
+<table width="100%"><tbody><tr><td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9519457489588571";
+google_ad_width = 110;
+google_ad_height = 32;
+google_ad_format = "110x32_as_rimg";
+google_cpa_choice = "CAAQsdSXhAIaCJTWPM-Dlx8IKOP143QwAA";
+google_ad_channel = "9382303900";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td><td align="right">
+<div align="right" class="nav1"><a href="/show_tree.asp?id=49&amp;level=1&amp;root=49">Site Info</a>&nbsp;&nbsp;<img src="/images/bulet.gif">&nbsp;&nbsp;<a href="/show_tree.asp?id=68&amp;level=2&amp;root=49">Copyright ©  2001-2010 Ai Research. All rights reserved. </a> &nbsp;&nbsp;
+</div></td></tr></tbody></table>
+<br>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1898586-1";
+urchinTracker();
+</script>
+
+
+</form></body></html>

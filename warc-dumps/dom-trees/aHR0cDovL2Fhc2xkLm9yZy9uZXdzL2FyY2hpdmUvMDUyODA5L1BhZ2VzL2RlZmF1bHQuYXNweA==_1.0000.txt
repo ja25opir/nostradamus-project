@@ -1,0 +1,1011 @@
+<!DOCTYPE html><html __expr-val-dir="ltr" dir="ltr"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><title>
+	
+	AASLD: 
+	Biomedical Research Funding: The Next Frontier or Just Another Government Expense?
+
+</title><script src="/_layouts/1033/init.js?rev=yOq8IoAABYCtaZjMVrjxtg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/Style Library/core/core.css">
+<link rel="stylesheet" type="text/css" href="/Style Library/AASLD_default.css">
+    <link rel="stylesheet" type="text/css" href="/Style Library/AASLD_interior.css">
+
+<script type="text/javascript" src="/_layouts/1033/CustomScripts/namefix.js" defer="true"></script>
+<script type="text/javascript" src="/_layouts/1033/CustomScripts/wpfix.js" defer="true"></script>
+<script type="text/javascript" src="/_layouts/1033/CustomScripts/dsfix.js" defer="true"></script><link rel="icon" type="image/x-icon" href="/images/favicon.ico"><link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
+	<script src="/Style%20Library/Scripts/gatag.js" type="text/javascript"></script>	
+<style type="text/css">
+	.zz1_GlobalNav_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.zz1_GlobalNav_1 { text-decoration:none; }
+	.zz1_GlobalNav_2 {  }
+	.zz1_GlobalNav_3 { border-style:none; }
+	.zz1_GlobalNav_4 {  }
+	.zz1_GlobalNav_5 { border-style:none; }
+	.zz1_GlobalNav_6 {  }
+	.zz1_GlobalNav_7 {  }
+	.zz1_GlobalNav_8 { border-style:none; }
+	.zz1_GlobalNav_9 {  }
+	.zz1_GlobalNav_10 { border-style:none; }
+	.zz1_GlobalNav_11 {  }
+	.zz1_GlobalNav_12 { border-style:none; }
+	.zz1_GlobalNav_13 {  }
+	.zz1_GlobalNav_14 { border-style:none; }
+	.zz1_GlobalNav_15 {  }
+	.zz2_CurrentNav_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.zz2_CurrentNav_1 { text-decoration:none; }
+	.zz2_CurrentNav_2 {  }
+	.zz2_CurrentNav_3 { border-style:none; }
+	.zz2_CurrentNav_4 {  }
+	.zz2_CurrentNav_5 { border-style:none; }
+	.zz2_CurrentNav_6 {  }
+	.zz2_CurrentNav_7 {  }
+	.zz2_CurrentNav_8 {  }
+	.zz2_CurrentNav_9 { border-style:none; }
+	.zz2_CurrentNav_10 {  }
+	.zz2_CurrentNav_11 { border-style:none; }
+	.zz2_CurrentNav_12 {  }
+	.ctl00_PlaceHolderMain_g_63C38459851A47A184D09D035072B0B7_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_PlaceHolderMain_g_50E2031C694B47BAA61C7595DEBFEE6C_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_PlaceHolderMain_g_D99176907F0D42B5A3FE61F9B97258E9_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_PlaceHolderMain_g_04463A5BEB9E48F1ACA26BB5137773A6_0 { border-color:Black;border-width:1px;border-style:Solid; }
+
+</style></head>
+	
+<body onload="javascript:_spBodyOnLoadWrapper();">
+<!-- Begin Page Header -->
+<form name="aspnetForm" method="post" action="/news/archive/052809/Pages/default.aspx" id="aspnetForm">
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xE9130788CF6A7698A852217F336E686932BE83CB78AF49DC8BD9E447C2E36EE3EB45D23C7CE6BBA8E22EBA78F87B75A6D9AD66C5F44C0A240F4561E1799A65D7,17 Sep 2010 06:54:02 -0000">
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWAgIFD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYSAgQPZBYCZg9kFgRmD2QWBAIBDxYCHgdWaXNpYmxlaGQCAw8PFgIfAWcWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAICDw8WAh8BaGQWAgIBD2QWAgICDw8WAh8BZxYCHwIFDmRpc3BsYXk6YmxvY2s7ZAIKD2QWAgIBDxYCHwFoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCDA9kFgJmDw9kFgIeBWNsYXNzBRhtcy1zYnRhYmxlIG1zLXNidGFibGUtZXhkAg4PPCsADQIADxYCHgtfIURhdGFCb3VuZGdkDBQrAAgFGzA6MCwwOjEsMDoyLDA6MywwOjQsMDo1LDA6NhQrAAIWDh4EVGV4dAUTUHJhY3RpY2UgR3VpZGVsaW5lcx4FVmFsdWUFE1ByYWN0aWNlIEd1aWRlbGluZXMeC05hdmlnYXRlVXJsBSYvcHJhY3RpY2VndWlkZWxpbmVzL1BhZ2VzL2RlZmF1bHQuYXNweB4HRW5hYmxlZGceClNlbGVjdGFibGVnHghEYXRhUGF0aAUTL3ByYWN0aWNlZ3VpZGVsaW5lcx4JRGF0YUJvdW5kZxQrAAcFFzA6MCwwOjEsMDoyLDA6MywwOjQsMDo1FCsAAhYOHwYFFk5ldy9VcGRhdGVkIEd1aWRlbGluZXMfBwUWTmV3L1VwZGF0ZWQgR3VpZGVsaW5lcx8IBTMvcHJhY3RpY2VndWlkZWxpbmVzL1BhZ2VzL05ld1VwZGF0ZWRHdWlkZWxpbmVzLmFzcHgfCWcfCmcfCwUzL3ByYWN0aWNlZ3VpZGVsaW5lcy9QYWdlcy9OZXdVcGRhdGVkR3VpZGVsaW5lcy5hc3B4HwxnZBQrAAIWDh8GBSBBbHBoYWJldGljYWwgUHJhY3RpY2UgR3VpZGVsaW5lcx8HBSBBbHBoYWJldGljYWwgUHJhY3RpY2UgR3VpZGVsaW5lcx8IBT4vcHJhY3RpY2VndWlkZWxpbmVzL1BhZ2VzL1NvcnRhYmxlUHJhY3RpY2VHdWlkZWxpbmVzQWxwaGEuYXNweB8JZx8KZx8LBT4vcHJhY3RpY2VndWlkZWxpbmVzL1BhZ2VzL1NvcnRhYmxlUHJhY3RpY2VHdWlkZWxpbmVzQWxwaGEuYXNweB8MZ2QUKwACFg4fBgUiUHJhY3RpY2UgR3VpZGVsaW5lcyBTb3J0ZWQgYnkgRGF0ZR8HBSJQcmFjdGljZSBHdWlkZWxpbmVzIFNvcnRlZCBieSBEYXRlHwgFPS9wcmFjdGljZWd1aWRlbGluZXMvUGFnZXMvU29ydGFibGVQcmFjdGljZUd1aWRlbGluZXNEYXRlLmFzcHgfCWcfCmcfCwU9L3ByYWN0aWNlZ3VpZGVsaW5lcy9QYWdlcy9Tb3J0YWJsZVByYWN0aWNlR3VpZGVsaW5lc0RhdGUuYXNweB8MZ2QUKwACFg4fBgUbUHJhY3RpY2UgR3VpZGVsaW5lcyBBcmNoaXZlHwcFG1ByYWN0aWNlIEd1aWRlbGluZXMgQXJjaGl2ZR8IBTgvcHJhY3RpY2VndWlkZWxpbmVzL1BhZ2VzL0FyY2hpdmVQcmFjdGljZUd1aWRlbGluZXMuYXNweB8JZx8KZx8LBTgvcHJhY3RpY2VndWlkZWxpbmVzL1BhZ2VzL0FyY2hpdmVQcmFjdGljZUd1aWRlbGluZXMuYXNweB8MZ2QUKwACFg4fBgUWR3VpZGVsaW5lcyBEZXZlbG9wbWVudB8HBRZHdWlkZWxpbmVzIERldmVsb3BtZW50HwgFNC9wcmFjdGljZWd1aWRlbGluZXMvUGFnZXMvR3VpZGVsaW5lc0RldmVsb3BtZW50LmFzcHgfCWcfCmcfCwU0L3ByYWN0aWNlZ3VpZGVsaW5lcy9QYWdlcy9HdWlkZWxpbmVzRGV2ZWxvcG1lbnQuYXNweB8MZ2QUKwACFhAfBgUgTmF0aW9uYWwgR3VpZGVsaW5lIENsZWFyaW5naG91c2UfBwUgTmF0aW9uYWwgR3VpZGVsaW5lIENsZWFyaW5naG91c2UfCAUYaHR0cDovL3d3dy5ndWlkZWxpbmUuZ292HwlnHwpnHwsFGGh0dHA6Ly93d3cuZ3VpZGVsaW5lLmdvdh8MZx4GVGFyZ2V0BQZfYmxhbmtkFCsAAhYOHwYFCEpvdXJuYWxzHwcFCEpvdXJuYWxzHwgFHC9qb3VybmFscy9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUJL2pvdXJuYWxzHwxnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYOHwYFCkhFUEFUT0xPR1kfBwUKSEVQQVRPTE9HWR8IBScvam91cm5hbHMvaGVwYXRvbG9neS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL2pvdXJuYWxzL2hlcGF0b2xvZ3kfDGdkFCsAAhYOHwYFGUhFUEFUT0xPR1kgUG9kY2FzdCBTZXJpZXMfBwUZSEVQQVRPTE9HWSBQb2RjYXN0IFNlcmllcx8IBTNodHRwOi8vd3d3LmFhc2xkLm9yZy9jb25mZXJlbmNlcy9QYWdlcy9wb2RjYXN0LmFzcHgfCWcfCmcfCwUzaHR0cDovL3d3dy5hYXNsZC5vcmcvY29uZmVyZW5jZXMvUGFnZXMvcG9kY2FzdC5hc3B4HwxnZBQrAAIWDh8GBRVMaXZlciBUcmFuc3BsYW50YXRpb24fBwUVTGl2ZXIgVHJhbnNwbGFudGF0aW9uHwgFMS9qb3VybmFscy9saXZlcnRyYW5zcGxhbnRhdGlvbi9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUeL2pvdXJuYWxzL2xpdmVydHJhbnNwbGFudGF0aW9uHwxnZBQrAAIWDh8GBQtDb3JyZWN0aW9ucx8HBQtDb3JyZWN0aW9ucx8IBSgvam91cm5hbHMvQ29ycmVjdGlvbnMvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFS9qb3VybmFscy9Db3JyZWN0aW9ucx8MZ2QUKwACFhAfBgUETmV3cx8HBQROZXdzHwgFGC9uZXdzL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQUvbmV3cx8MZx4IU2VsZWN0ZWRnFCsABgUTMDowLDA6MSwwOjIsMDozLDA6NBQrAAIWDh8GBR5BQVNMRCBlTmV3czogU2VwdGVtYmVyIDksIDIwMTAfBwUeQUFTTEQgZU5ld3M6IFNlcHRlbWJlciA5LCAyMDEwHwgFHy9uZXdzLzA5MDkxMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUML25ld3MvMDkwOTEwHwxnZBQrAAIWDh8GBRtBQVNMRCBOZXdzOiBBdWd1c3QgMjYsIDIwMTAfBwUbQUFTTEQgTmV3czogQXVndXN0IDI2LCAyMDEwHwgFHy9uZXdzLzA4MjYxMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUML25ld3MvMDgyNjEwHwxnZBQrAAIWDh8GBRtBQVNMRCBOZXdzOiBBdWd1c3QgMTIsIDIwMTAfBwUbQUFTTEQgTmV3czogQXVndXN0IDEyLCAyMDEwHwgFHy9uZXdzLzA4MTIxMC9QYWdlcy9EZWZhdWx0LmFzcHgfCWcfCmcfCwUML25ld3MvMDgxMjEwHwxnZBQrAAIWDh8GBRlBQVNMRCBOZXdzOiBKdWx5IDI5LCAyMDEwHwcFGUFBU0xEIE5ld3M6IEp1bHkgMjksIDIwMTAfCAUfL25ld3MvMDcyOTEwL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQwvbmV3cy8wNzI5MTAfDGdkFCsAAhYOHwYFDWVOZXdzIEFyY2hpdmUfBwUNZU5ld3MgQXJjaGl2ZR8IBSAvbmV3cy9hcmNoaXZlL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQ0vbmV3cy9hcmNoaXZlHwxnZBQrAAIWDh8GBQhSZXNlYXJjaB8HBQhSZXNlYXJjaB8IBRwvcmVzZWFyY2gvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFCS9yZXNlYXJjaB8MZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDh8GBRNHb3Zlcm5tZW50IEFnZW5jaWVzHwcFE0dvdmVybm1lbnQgQWdlbmNpZXMfCAUvL3Jlc2VhcmNoL2dvdmVybm1lbnRhZ2VuY2llcy9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUcL3Jlc2VhcmNoL2dvdmVybm1lbnRhZ2VuY2llcx8MZ2QUKwACFg4fBgURQXdhcmRzIGFuZCBHcmFudHMfBwURQXdhcmRzIGFuZCBHcmFudHMfCAUjL3Jlc2VhcmNoL2F3YXJkcy9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUQL3Jlc2VhcmNoL2F3YXJkcx8MZ2QUKwACFhAfBgUlTGl2ZXIgVGlzc3VlIENlbGwgRGlzdHJpYnV0aW9uIFN5c3RlbR8HBSVMaXZlciBUaXNzdWUgQ2VsbCBEaXN0cmlidXRpb24gU3lzdGVtHwgFK2h0dHA6Ly93d3cubWVkLnVtbi5lZHUvcGVkcy9sdGNkcy9ob21lLmh0bWwfCWcfCmcfCwUraHR0cDovL3d3dy5tZWQudW1uLmVkdS9wZWRzL2x0Y2RzL2hvbWUuaHRtbB8MZx8NBQZfYmxhbmtkFCsAAhYOHwYFVE5JSCBDZW50ZXIgZm9yIFNjaWVudGlmaWMgUmV2aWV3OiBTY2llbnRpZmljIEFyZWFzIG9mIEludGVncmF0ZWQgUmV2aWV3IEdyb3VwcyAoSVJHKR8HBVROSUggQ2VudGVyIGZvciBTY2llbnRpZmljIFJldmlldzogU2NpZW50aWZpYyBBcmVhcyBvZiBJbnRlZ3JhdGVkIFJldmlldyBHcm91cHMgKElSRykfCAUbL3Jlc2VhcmNoL1BhZ2VzL25paGNzci5hc3B4HwlnHwpnHwsFGy9yZXNlYXJjaC9QYWdlcy9uaWhjc3IuYXNweB8MZ2QUKwACFg4fBgUTVGhlIExpdmVyIE1lZXRpbmfCrh8HBRNUaGUgTGl2ZXIgTWVldGluZ8KuHwgFFi9sbS9QYWdlcy9EZWZhdWx0LmFzcHgfCWcfCmcfCwUDL2xtHwxnFCsACAUbMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2FCsAAhYOHwYFB1Byb2dyYW0fBwUHUHJvZ3JhbR8IBR4vbG0vcHJvZ3JhbS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwULL2xtL3Byb2dyYW0fDGdkFCsAAhYOHwYFCUF0dGVuZGVlcx8HBQlBdHRlbmRlZXMfCAUgL2xtL2F0dGVuZGVlcy9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUNL2xtL2F0dGVuZGVlcx8MZ2QUKwACFg4fBgUJQWJzdHJhY3RzHwcFCUFic3RyYWN0cx8IBSAvbG0vYWJzdHJhY3RzL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQ0vbG0vYWJzdHJhY3RzHwxnZBQrAAIWDh8GBQVQcmVzcx8HBQVQcmVzcx8IBRwvbG0vcHJlc3MvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFCS9sbS9wcmVzcx8MZ2QUKwACFg4fBgUKRXhoaWJpdG9ycx8HBQpFeGhpYml0b3JzHwgFIS9sbS9leGhpYml0b3JzL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQ4vbG0vZXhoaWJpdG9ycx8MZ2QUKwACFg4fBgUGQXdhcmRzHwcFBkF3YXJkcx8IBR0vbG0vYXdhcmRzL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQovbG0vYXdhcmRzHwxnZBQrAAIWDh8GBRZQcmVzZW50ZXIgSW5zdHJ1Y3Rpb25zHwcFFlByZXNlbnRlciBJbnN0cnVjdGlvbnMfCAUhL2xtL3ByZXNlbnRlcnMvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFDi9sbS9wcmVzZW50ZXJzHwxnZBQrAAIWDh8GBRlDb25mZXJlbmNlcyBhbmQgRWR1Y2F0aW9uHwcFGUNvbmZlcmVuY2VzIGFuZCBFZHVjYXRpb24fCAUfL0NPTkZFUkVOQ0VTL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBQwvQ09ORkVSRU5DRVMfDGcUKwADBQcwOjAsMDoxFCsAAhYOHwYFGE1lZXRpbmdzIGFuZCBDb25mZXJlbmNlcx8HBRhNZWV0aW5ncyBhbmQgQ29uZmVyZW5jZXMfCAUoL2NvbmZlcmVuY2VzL21lZXRpbmdzL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRUvY29uZmVyZW5jZXMvbWVldGluZ3MfDGdkFCsAAhYOHwYFFkVkdWNhdGlvbiBhbmQgVHJhaW5pbmcfBwUWRWR1Y2F0aW9uIGFuZCBUcmFpbmluZx8IBTEvY29uZmVyZW5jZXMvZWR1Y2F0aW9udHJhaW5pbmcvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFHi9jb25mZXJlbmNlcy9lZHVjYXRpb250cmFpbmluZx8MZ2QUKwACFg4fBgUNTWVtYmVyIENlbnRlch8HBQ1NZW1iZXIgQ2VudGVyHwgFIC9NZW1iZXJDZW50ZXIvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFDS9NZW1iZXJDZW50ZXIfDGcUKwALBScwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjkUKwACFg4fBgUQS2VlcCBNZSBJbmZvcm1lZB8HBRBLZWVwIE1lIEluZm9ybWVkHwgFNGh0dHA6Ly93d3cuYWFzbGQub3JnL2Fib3V0L1BhZ2VzL0tlZXBNZUluZm9ybWVkLmFzcHgfCWcfCmcfCwU0aHR0cDovL3d3dy5hYXNsZC5vcmcvYWJvdXQvUGFnZXMvS2VlcE1lSW5mb3JtZWQuYXNweB8MZ2QUKwACFg4fBgUOTXkgSW5mb3JtYXRpb24fBwUOTXkgSW5mb3JtYXRpb24fCAVHaHR0cHM6Ly9uZXRmb3J1bS5hYXNsZC5vcmcvZXdlYi9keW5hbWljcGFnZS5hc3B4P3dlYmNvZGU9SW5kaXZpZHVhbEVkaXQfCWcfCmcfCwVHaHR0cHM6Ly9uZXRmb3J1bS5hYXNsZC5vcmcvZXdlYi9keW5hbWljcGFnZS5hc3B4P3dlYmNvZGU9SW5kaXZpZHVhbEVkaXQfDGdkFCsAAhYOHwYFEFJlbmV3IE1lbWJlcnNoaXAfBwUQUmVuZXcgTWVtYmVyc2hpcB8IBUpodHRwczovL25ldGZvcnVtLmFhc2xkLm9yZy9ld2ViL0R5bmFtaWNQYWdlLmFzcHg/d2ViY29kZT1tZW1iZXJzaGlwcmVuZXdhbB8JZx8KZx8LBUpodHRwczovL25ldGZvcnVtLmFhc2xkLm9yZy9ld2ViL0R5bmFtaWNQYWdlLmFzcHg/d2ViY29kZT1tZW1iZXJzaGlwcmVuZXdhbB8MZ2QUKwACFg4fBgUdSm9pbiBhIFNwZWNpYWwgSW50ZXJlc3QgR3JvdXAfBwUdSm9pbiBhIFNwZWNpYWwgSW50ZXJlc3QgR3JvdXAfCAVAaHR0cHM6Ly9uZXRmb3J1bS5hYXNsZC5vcmcvZXdlYi9EeW5hbWljUGFnZS5hc3B4P3dlYmNvZGU9U0lHbGlzdB8JZx8KZx8LBUBodHRwczovL25ldGZvcnVtLmFhc2xkLm9yZy9ld2ViL0R5bmFtaWNQYWdlLmFzcHg/d2ViY29kZT1TSUdsaXN0HwxnZBQrAAIWEB8GBQ1TSUcgV29ya3NpdGVzHwcFDVNJRyBXb3Jrc2l0ZXMfCAUraHR0cDovL3NpZy5hYXNsZC5vcmcvU0lHL1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBStodHRwOi8vc2lnLmFhc2xkLm9yZy9TSUcvUGFnZXMvZGVmYXVsdC5hc3B4HwxnHw0FBl9ibGFua2QUKwACFhAfBgUTQ29tbWl0dGVlIFdvcmtzaXRlcx8HBRNDb21taXR0ZWUgV29ya3NpdGVzHwgFMWh0dHA6Ly9zaWcuYWFzbGQub3JnL2NvbW1pdHRlZS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUxaHR0cDovL3NpZy5hYXNsZC5vcmcvY29tbWl0dGVlL1BhZ2VzL2RlZmF1bHQuYXNweB8MZx8NBQZfYmxhbmtkFCsAAhYOHwYFF0FubnVhbCBCdXNpbmVzcyBNZWV0aW5nHwcFF0FubnVhbCBCdXNpbmVzcyBNZWV0aW5nHwgFLi9NZW1iZXJDZW50ZXIvUGFnZXMvQW5udWFsQnVzaW5lc3NNZWV0aW5nLmFzcHgfCWcfCmcfCwUuL01lbWJlckNlbnRlci9QYWdlcy9Bbm51YWxCdXNpbmVzc01lZXRpbmcuYXNweB8MZ2QUKwACFg4fBgUVQXBwbGljYW50cyBmb3IgUmV2aWV3HwcFFUFwcGxpY2FudHMgZm9yIFJldmlldx8IBSwvTWVtYmVyQ2VudGVyL1BhZ2VzL0FwcGxpY2FudHNmb3JSZXZpZXcuYXNweB8JZx8KZx8LBSwvTWVtYmVyQ2VudGVyL1BhZ2VzL0FwcGxpY2FudHNmb3JSZXZpZXcuYXNweB8MZ2QUKwACFg4fBgUTTmV3IFRyYWluZWUgTWVtYmVycx8HBRNOZXcgVHJhaW5lZSBNZW1iZXJzHwgFKi9NZW1iZXJDZW50ZXIvUGFnZXMvTmV3VHJhaW5lZU1lbWJlcnMuYXNweB8JZx8KZx8LBSovTWVtYmVyQ2VudGVyL1BhZ2VzL05ld1RyYWluZWVNZW1iZXJzLmFzcHgfDGdkFCsAAhYOHwYFMk1lbWJlciBCZW5lZml0OiAyMCUgRGlzY291bnQgb24gRXBvY3JhdGVzIFByb2R1Y3RzHwcFMk1lbWJlciBCZW5lZml0OiAyMCUgRGlzY291bnQgb24gRXBvY3JhdGVzIFByb2R1Y3RzHwgFIi9NZW1iZXJDZW50ZXIvUGFnZXMvZXBvY3JhdGVzLmFzcHgfCWcfCmcfCwUiL01lbWJlckNlbnRlci9QYWdlcy9lcG9jcmF0ZXMuYXNweB8MZ2RkAhYPZBYCAgEPZBYCZg9kFgICAw9kFgICAQ8PFgIfAWdkFgQCAQ8PFgIfAWhkFhwCAQ8PFgIfAWhkZAIDDxYCHwFoZAIFDw8WAh8BaGRkAgcPFgIfAWhkAgkPDxYCHwFoZGQCCw8PFgIfAWhkZAINDw8WAh8BaGRkAg8PDxYEHwloHwFoZGQCEQ8PFgIfAWhkZAITDw8WBB8JaB8BaGRkAhUPDxYCHwFoZGQCFw8WAh8BaGQCGQ8WAh8BaGQCGw8PFgIfAWdkZAIDDw8WAh8BZ2QWBgIBDw8WAh8BZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHwFnZGQCBQ8PFgIfAWdkZAIgD2QWBAIBDzwrAA0CAA8WBh4VRHluYW1pY1BvcE91dEltYWdlVXJsBSQvX2xheW91dHMvaW1hZ2VzL2xhcmdlYXJyb3dyaWdodC5naWYfBWceFFN0YXRpY1BvcE91dEltYWdlVXJsBSQvX2xheW91dHMvaW1hZ2VzL2xhcmdlYXJyb3dyaWdodC5naWZkDBQrAB4FhgEwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExLDA6MTIsMDoxMywwOjE0LDA6MTUsMDoxNiwwOjE3LDA6MTgsMDoxOSwwOjIwLDA6MjEsMDoyMiwwOjIzLDA6MjQsMDoyNSwwOjI2LDA6MjcsMDoyOBQrAAIWDh8GBRhBQVNMRCBOZXdzOiBKdWx5IDksIDIwMDkfBwUYQUFTTEQgTmV3czogSnVseSA5LCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMDcwOTA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzA3MDkwOR8MZ2QUKwACFg4fBgUZQUFTTEQgTmV3czogSnVuZSAyNSwgMjAwOR8HBRlBQVNMRCBOZXdzOiBKdW5lIDI1LCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMDYyNTA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzA2MjUwOR8MZ2QUKwACFg4fBgUZQUFTTEQgTmV3czogSnVuZSAxMSwgMjAwOR8HBRlBQVNMRCBOZXdzOiBKdW5lIDExLCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMDYxMTA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzA2MTEwOR8MZ2QUKwACFhAfBgUYQUFTTEQgTmV3czogTWF5IDI4LCAyMDA5HwcFGEFBU0xEIE5ld3M6IE1heSAyOCwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wNTI4MDkfDGcfDmcUKwANBTEwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExFCsAAhYOHwYFH05ldyBNZW1iZXJzaGlwIENhdGVnb3J5IENyZWF0ZWQfBwUfTmV3IE1lbWJlcnNoaXAgQ2F0ZWdvcnkgQ3JlYXRlZB8IBTwvbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9OZXdNZW1iZXJzaGlwQ2F0ZWdvcnlDcmVhdGVkLmFzcHgfCWcfCmcfCwU8L25ld3MvYXJjaGl2ZS8wNTI4MDkvUGFnZXMvTmV3TWVtYmVyc2hpcENhdGVnb3J5Q3JlYXRlZC5hc3B4HwxnZBQrAAIWDh8GBRlJUlMgUmVsZWFzZXMgTmV3IEZvcm0gOTkwHwcFGUlSUyBSZWxlYXNlcyBOZXcgRm9ybSA5OTAfCAU1L25ld3MvYXJjaGl2ZS8wNTI4MDkvUGFnZXMvSVJTUmVsZWFzZXNOZXdGb3JtOTkwLmFzcHgfCWcfCmcfCwU1L25ld3MvYXJjaGl2ZS8wNTI4MDkvUGFnZXMvSVJTUmVsZWFzZXNOZXdGb3JtOTkwLmFzcHgfDGdkFCsAAhYQHwYFKUFkdmFuY2VkIFRyYW5zcGxhbnQgSGVwYXRvbG9neSBGZWxsb3dzaGlwHwcFKUFkdmFuY2VkIFRyYW5zcGxhbnQgSGVwYXRvbG9neSBGZWxsb3dzaGlwHwgFVmh0dHA6Ly93d3cuYWFzbGQub3JnL3Jlc2VhcmNoL2F3YXJkcy9QYWdlcy9BZHZhbmNlZFRyYW5zcGxhbnRIZXBhdG9sb2d5RmVsbG93c2hpcC5hc3B4HwlnHwpnHwsFVmh0dHA6Ly93d3cuYWFzbGQub3JnL3Jlc2VhcmNoL2F3YXJkcy9QYWdlcy9BZHZhbmNlZFRyYW5zcGxhbnRIZXBhdG9sb2d5RmVsbG93c2hpcC5hc3B4HwxnHw0FBl9ibGFua2QUKwACFhAfBgUaQWJzdHJhY3QgU3VibWl0dGVyIENsb3NpbmcfBwUaQWJzdHJhY3QgU3VibWl0dGVyIENsb3NpbmcfCAU4aHR0cDovL3d3dy5hYXNsZC5vcmcvdGhlbGl2ZXJtZWV0aW5nL1BhZ2VzL0Fic3RyYWN0LmFzcHgfCWcfCmcfCwU4aHR0cDovL3d3dy5hYXNsZC5vcmcvdGhlbGl2ZXJtZWV0aW5nL1BhZ2VzL0Fic3RyYWN0LmFzcHgfDGcfDQUGX2JsYW5rZBQrAAIWEB8GBSNBQVNMRCBNZW1iZXJzJiMzOTsgUmVjZXB0aW9uIGF0IEREVx8HBSNBQVNMRCBNZW1iZXJzJiMzOTsgUmVjZXB0aW9uIGF0IEREVx8IBVBodHRwOi8vd3d3LmFhc2xkLm9yZy9jb25mZXJlbmNlcy9tZWV0aW5ncy9Eb2N1bWVudHMvQUFTTEQgTWVtYmVycycgUmVjZXB0aW9uLnBkZh8JZx8KZx8LBVBodHRwOi8vd3d3LmFhc2xkLm9yZy9jb25mZXJlbmNlcy9tZWV0aW5ncy9Eb2N1bWVudHMvQUFTTEQgTWVtYmVycycgUmVjZXB0aW9uLnBkZh8MZx8NBQZfYmxhbmtkFCsAAhYOHwYFIUhlcGF0b2xvZ3kgSnVuZSBUYWJsZSBvZiBDb250ZW50cx8HBSFIZXBhdG9sb2d5IEp1bmUgVGFibGUgb2YgQ29udGVudHMfCAU9L25ld3MvYXJjaGl2ZS8wNTI4MDkvUGFnZXMvSGVwYXRvbG9neUp1bmVUYWJsZW9mQ29udGVudHMuYXNweB8JZx8KZx8LBT0vbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9IZXBhdG9sb2d5SnVuZVRhYmxlb2ZDb250ZW50cy5hc3B4HwxnZBQrAAIWDh8GBSxMaXZlciBUcmFuc3BsYW50YXRpb24gSnVuZSBUYWJsZSBvZiBDb250ZW50cx8HBSxMaXZlciBUcmFuc3BsYW50YXRpb24gSnVuZSBUYWJsZSBvZiBDb250ZW50cx8IBUcvbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9MaXZlclRyYW5zcGxhbnRhdGlvbkp1bmVUYWJsZW9mQ29udGVudHMuYXNweB8JZx8KZx8LBUcvbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9MaXZlclRyYW5zcGxhbnRhdGlvbkp1bmVUYWJsZW9mQ29udGVudHMuYXNweB8MZ2QUKwACFhAfBgVFMjAwOCBIZXBhdG9sb2d5IENvdXJzZSBOb3cgQXZhaWxhYmxlIG9uIHRoZSBCZXN0IG9mIHRoZSBMaXZlciBNZWV0aW5nHwcFRTIwMDggSGVwYXRvbG9neSBDb3Vyc2UgTm93IEF2YWlsYWJsZSBvbiB0aGUgQmVzdCBvZiB0aGUgTGl2ZXIgTWVldGluZx8IBUVodHRwOi8vd3d3LmFhc2xkLm9yZy90aGVsaXZlcm1lZXRpbmcvUGFnZXMvQmVzdG9mdGhlTGl2ZXJNZWV0aW5nLmFzcHgfCWcfCmcfCwVFaHR0cDovL3d3dy5hYXNsZC5vcmcvdGhlbGl2ZXJtZWV0aW5nL1BhZ2VzL0Jlc3RvZnRoZUxpdmVyTWVldGluZy5hc3B4HwxnHw0FBl9ibGFua2QUKwACFg4fBgVRTklIIEFubm91bmNlcyBOZXcgUHJvZ3JhbSB0byBEZXZlbG9wIFRoZXJhcGV1dGljcyBmb3IgUmFyZSBhbmQgTmVnbGVjdGVkIERpc2Vhc2VzHwcFUU5JSCBBbm5vdW5jZXMgTmV3IFByb2dyYW0gdG8gRGV2ZWxvcCBUaGVyYXBldXRpY3MgZm9yIFJhcmUgYW5kIE5lZ2xlY3RlZCBEaXNlYXNlcx8IBWYvbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9OSUhBbm5vdW5jZXNOZXdQcm9ncmFtdG9EZXZlbG9wVGhlcmFwZXV0aWNzZm9yUmFyZWFuZE5lZ2xlY3RlZERpc2Vhc2VzLmFzcHgfCWcfCmcfCwVmL25ld3MvYXJjaGl2ZS8wNTI4MDkvUGFnZXMvTklIQW5ub3VuY2VzTmV3UHJvZ3JhbXRvRGV2ZWxvcFRoZXJhcGV1dGljc2ZvclJhcmVhbmROZWdsZWN0ZWREaXNlYXNlcy5hc3B4HwxnZBQrAAIWEB8GBQtJbiBNZW1vcmlhbR8HBQtJbiBNZW1vcmlhbR8IBUNodHRwOi8vd3d3LmFhc2xkLm9yZy9qb3VybmFscy8wNDE2MDkvUGFnZXMvQUFTTERNZW1vcmlhbFBvbGljeS5hc3B4HwlnHwpnHwsFQ2h0dHA6Ly93d3cuYWFzbGQub3JnL2pvdXJuYWxzLzA0MTYwOS9QYWdlcy9BQVNMRE1lbW9yaWFsUG9saWN5LmFzcHgfDGcfDQUGX2JsYW5rZBQrAAIWEB8GBTVVcGNvbWluZyBBQVNMRCBNZWV0aW5ncyBhbmQgRWR1Y2F0aW9uYWwgT3Bwb3J0dW5pdGllcx8HBTVVcGNvbWluZyBBQVNMRCBNZWV0aW5ncyBhbmQgRWR1Y2F0aW9uYWwgT3Bwb3J0dW5pdGllcx8IBTxodHRwOi8vd3d3LmFhc2xkLm9yZy9jb25mZXJlbmNlcy9tZWV0aW5ncy9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwU8aHR0cDovL3d3dy5hYXNsZC5vcmcvY29uZmVyZW5jZXMvbWVldGluZ3MvUGFnZXMvZGVmYXVsdC5hc3B4HwxnHw0FBl9ibGFua2QUKwACFhAfBgUkRnV0dXJlIE1lZXRpbmdzIG9mIFJlbGF0ZWQgU29jaWV0aWVzHwcFJEZ1dHVyZSBNZWV0aW5ncyBvZiBSZWxhdGVkIFNvY2lldGllcx8IBUdodHRwOi8vd3d3LmFhc2xkLm9yZy9hYm91dC9yZWxhdGVkc29jaWV0aWVzL1BhZ2VzL1JlbGF0ZWRTb2NpZXRpZXMuYXNweB8JZx8KZx8LBUdodHRwOi8vd3d3LmFhc2xkLm9yZy9hYm91dC9yZWxhdGVkc29jaWV0aWVzL1BhZ2VzL1JlbGF0ZWRTb2NpZXRpZXMuYXNweB8MZx8NBQZfYmxhbmtkFCsAAhYOHwYFGEFBU0xEIE5ld3M6IE1heSAxNCwgMjAwOR8HBRhBQVNMRCBOZXdzOiBNYXkgMTQsIDIwMDkfCAUnL25ld3MvYXJjaGl2ZS8wNTE0MDkvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMDUxNDA5HwxnZBQrAAIWDh8GBRpBQVNMRCBOZXdzOiBBcHJpbCAzMCwgMjAwOR8HBRpBQVNMRCBOZXdzOiBBcHJpbCAzMCwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzA0MzAwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wNDMwMDkfDGdkFCsAAhYOHwYFGkFBU0xEIE5ld3M6IEFwcmlsIDE2LCAyMDA5HwcFGkFBU0xEIE5ld3M6IEFwcmlsIDE2LCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMDQxNjA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzA0MTYwOR8MZ2QUKwACFg4fBgUZQUFTTEQgTmV3czogQXByaWwgMiwgMjAwOR8HBRlBQVNMRCBOZXdzOiBBcHJpbCAyLCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMDQwMjA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzA0MDIwOR8MZ2QUKwACFg4fBgUaQUFTTEQgTmV3czogTWFyY2ggMTksIDIwMDkfBwUaQUFTTEQgTmV3czogTWFyY2ggMTksIDIwMDkfCAUnL25ld3MvYXJjaGl2ZS8wMzE5MDkvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMDMxOTA5HwxnZBQrAAIWDh8GBRlBQVNMRCBOZXdzOiBNYXJjaCA1LCAyMDA5HwcFGUFBU0xEIE5ld3M6IE1hcmNoIDUsIDIwMDkfCAUnL25ld3MvYXJjaGl2ZS8wMzA1MDkvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMDMwNTA5HwxnZBQrAAIWDh8GBR1BQVNMRCBOZXdzOiBGZWJydWFyeSAxOSwgMjAwOR8HBR1BQVNMRCBOZXdzOiBGZWJydWFyeSAxOSwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzAyMTkwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMjE5MDkfDGdkFCsAAhYOHwYFHEFBU0xEIE5ld3M6IEZlYnJ1YXJ5IDUsIDIwMDkfBwUcQUFTTEQgTmV3czogRmVicnVhcnkgNSwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzAyMDUwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMjA1MDkfDGdkFCsAAhYOHwYFHEFBU0xEIE5ld3M6IEphbnVhcnkgMjIsIDIwMDkfBwUcQUFTTEQgTmV3czogSmFudWFyeSAyMiwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzAxMjIwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMTIyMDkfDGdkFCsAAhYOHwYFHEFBU0xEIGVOZXdzOiBPY3RvYmVyIDEsIDIwMDkfBwUcQUFTTEQgZU5ld3M6IE9jdG9iZXIgMSwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzEwMDEwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8xMDAxMDkfDGdkFCsAAhYOHwYFGkFBU0xEIE5ld3M6IEFwcmlsIDIyLCAyMDEwHwcFGkFBU0xEIE5ld3M6IEFwcmlsIDIyLCAyMDEwHwgFKC9uZXdzL2FyY2hpdmUvMDQyMjEwL1BhZ2VzL2RlZmF1bHQyLmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wNDIyMTAfDGdkFCsAAhYOHwYFGUFBU0xEIE5ld3M6IEFwcmlsIDgsIDIwMTAfBwUZQUFTTEQgTmV3czogQXByaWwgOCwgMjAxMB8IBScvbmV3cy9hcmNoaXZlLzA0MDgxMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wNDA4MTAfDGdkFCsAAhYOHwYFG0FBU0xEIE5ld3M6IEF1Z3VzdCAyMCwgMjAwOR8HBRtBQVNMRCBOZXdzOiBBdWd1c3QgMjAsIDIwMDkfCAUnL25ld3MvYXJjaGl2ZS8wODIwMDkvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMDgyMDA5HwxnZBQrAAIWDh8GBRpBQVNMRCBOZXdzOiBBdWd1c3QgNiwgMjAwOR8HBRpBQVNMRCBOZXdzOiBBdWd1c3QgNiwgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzA4MDYwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wODA2MDkfDGdkFCsAAhYOHwYFHUFBU0xEIE5ld3M6IERlY2VtYmVyIDEwLCAyMDA5HwcFHUFBU0xEIE5ld3M6IERlY2VtYmVyIDEwLCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMTIxMDA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzEyMTAwOR8MZ2QUKwACFg4fBgUdQUFTTEQgTmV3czogRGVjZW1iZXIgMjMsIDIwMDkfBwUdQUFTTEQgTmV3czogRGVjZW1iZXIgMjMsIDIwMDkfCAUnL25ld3MvYXJjaGl2ZS8xMjIzMDkvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMTIyMzA5HwxnZBQrAAIWDh8GBR1BQVNMRCBOZXdzOiBGZWJydWFyeSAyNSwgMjAxMB8HBR1BQVNMRCBOZXdzOiBGZWJydWFyeSAyNSwgMjAxMB8IBScvbmV3cy9hcmNoaXZlLzAyMjUxMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMjI1MTAfDGdkFCsAAhYOHwYFHEFBU0xEIE5ld3M6IEphbnVhcnkgMTQsIDIwMTAfBwUcQUFTTEQgTmV3czogSmFudWFyeSAxNCwgMjAxMB8IBScvbmV3cy9hcmNoaXZlLzAxMTQxMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMTE0MTAfDGdkFCsAAhYOHwYFHEFBU0xEIE5ld3M6IEphbnVhcnkgMjgsIDIwMTAfBwUcQUFTTEQgTmV3czogSmFudWFyeSAyOCwgMjAxMB8IBScvbmV3cy9hcmNoaXZlLzAxMjgxMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMTI4MTAfDGdkFCsAAhYOHwYFGUFBU0xEIE5ld3M6IEp1bHkgMjMsIDIwMDkfBwUZQUFTTEQgTmV3czogSnVseSAyMywgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzA3MjMwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wNzIzMDkfDGdkFCsAAhYOHwYFGEFBU0xEIE5ld3M6IEp1bmUgMywgMjAxMB8HBRhBQVNMRCBOZXdzOiBKdW5lIDMsIDIwMTAfCAUnL25ld3MvYXJjaGl2ZS8wNjAzMTAvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMDYwMzEwHwxnZBQrAAIWDh8GBRpBQVNMRCBOZXdzOiBNYXJjaCAxMSwgMjAxMB8HBRpBQVNMRCBOZXdzOiBNYXJjaCAxMSwgMjAxMB8IBScvbmV3cy9hcmNoaXZlLzAzMTExMC9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wMzExMTAfDGdkFCsAAhYOHwYFHUFBU0xEIE5ld3M6IE5vdmVtYmVyIDEyLCAyMDA5HwcFHUFBU0xEIE5ld3M6IE5vdmVtYmVyIDEyLCAyMDA5HwgFJy9uZXdzL2FyY2hpdmUvMTExMjA5L1BhZ2VzL2RlZmF1bHQuYXNweB8JZx8KZx8LBRQvbmV3cy9hcmNoaXZlLzExMTIwOR8MZ2QUKwACFg4fBgUdQUFTTEQgTmV3czogTm92ZW1iZXIgMjUsIDIwMDkfBwUdQUFTTEQgTmV3czogTm92ZW1iZXIgMjUsIDIwMDkfCAUnL25ld3MvYXJjaGl2ZS8xMTI1MDkvUGFnZXMvZGVmYXVsdC5hc3B4HwlnHwpnHwsFFC9uZXdzL2FyY2hpdmUvMTEyNTA5HwxnZBQrAAIWDh8GBR1BQVNMRCBOZXdzOiBTZXB0ZW1iZXIgMywgMjAwOR8HBR1BQVNMRCBOZXdzOiBTZXB0ZW1iZXIgMywgMjAwOR8IBScvbmV3cy9hcmNoaXZlLzA5MDMwOS9QYWdlcy9kZWZhdWx0LmFzcHgfCWcfCmcfCwUUL25ld3MvYXJjaGl2ZS8wOTAzMDkfDGdkZAIHD2QWAmYPZBYCZg8PFgIfCAWgAW1haWx0bzo/c3ViamVjdD1BIGZyaWVuZCBoYXMgc2VudCB5b3UgYSBsaW5rLiZCb2R5PUEgZnJpZW5kIGhhcyBzZW50IHlvdSBhIGxpbmsgZnJvbSB0aGUgQUFTTEQgV2ViIHNpdGUuIGh0dHA6Ly9hYXNsZC5vcmcvbmV3cy9hcmNoaXZlLzA1MjgwOS9QYWdlcy9kZWZhdWx0LmFzcHhkZAImD2QWAgIBDxYCHwALKwQBZAIqD2QWAgIBDxYCHwALKwQBZAIsD2QWCgIDD2QWAmYPDxYCHwFoZGQCBQ8WAh8ACysEAWQCBw9kFgJmDw8WAh8BaGRkAgkPZBYCZg8PFgIfAWhkZAILD2QWAmYPDxYCHwFoZGQYAgUmY3RsMDAkUGxhY2VIb2xkZXJMZWZ0TmF2QmFyJEN1cnJlbnROYXYPD2QFGEFBU0xEIE5ld3M6IE1heSAyOCwgMjAwOWQFD2N0bDAwJEdsb2JhbE5hdg8PZAUETmV3c2QyMvlaKpnQyfC27RaDA3mMdXlQHQ==">
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script><script type="text/JavaScript" language="JavaScript">
+<!--
+var L_Menu_BaseUrl="/news/archive/052809";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
+</script>
+<script src="/WebResource.axd?d=ZGBQOMWfFO4gZy78w5G2nw2&amp;t=634051523619818097" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK3ifiNCgKK+4+gAgKrs67dAk04xWBp2TsTA+1Lzi+p1jGOTa1m">
+
+
+<div id="pageLayout">
+
+	<table id="headerLayout" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td id="headerLeft">
+				<a href="/"><img src="/images/siteheaderLogo.gif" alt="AASLD: American Association for the Study of Liver Diseases" style="margin-left:5px;"></a>
+			</td>
+			<td id="headerRight">
+				<table id="toolsLayout" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td>
+							<a href="#">
+								</a><div id="ctl00_ctl20_pnlForms"><a href="#">
+	
+    
+    </a><a id="ctl00_ctl20_ExplicitLogin" href="http://aasld.org/news/archive/052809/_layouts/Authenticate.aspx?Source=%2Fnews%2Farchive%2F052809%2FPages%2Fdefault%2Easpx" style="display:block;">Sign In</a>
+	<input type="hidden" name="ctl00$ctl20$hidSegment" id="ctl00_ctl20_hidSegment" value="Anonymous">
+
+</div>	
+	
+
+							
+						</td>
+						<td>
+						</td>
+						<td>
+						
+<table><tbody><tr>
+<td class="ms-globallinks"></td>
+<td class="ms-globallinks"></td>
+</tr></tbody></table>
+</td>
+						<td class="actions">
+						
+<!-- Begin Action Menu Markup -->
+<table height="100%" class="ms-siteaction" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
+</tbody></table>
+<!-- End Action Menu Markup -->
+</td>
+					</tr>
+				</tbody></table>
+				<div id="searchLayout">
+					<div id="SRSB"> <div id="ctl00_SearchBox">
+	<table class="ms-sbtable ms-sbtable-ex" border="0">
+		<tbody><tr class="ms-sbrow">
+			<td class="ms-sbcell ms-sbtext"><span title="SEARCH&nbsp;FOR&nbsp;&nbsp;" style="display:block;">SEARCH&nbsp;FOR&nbsp;&nbsp;</span></td><td class="ms-sbcell"><input name="ctl00$SearchBox$S83C543AE_InputKeywords" type="text" maxlength="200" id="ctl00_SearchBox_S83C543AE_InputKeywords" accesskey="S" title="Enter search words" class="ms-sbplain" alt="Enter search words" onkeypress="javascript:return S83C543AE_OSBEK(event);" style="width:120px;"></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_SearchBox_S83C543AE_go" title="Go Search" href="javascript:S83C543AE_Submit()"><img title="Go Search" onmouseover="this.src='/images/buttonGo.gif'" onmouseout="this.src='/images/buttonGo.gif'" alt="Go Search" src="/images/buttonGo.gif" border="0"></a></td><td class="ms-sbLastcell"></td>
+		</tr>
+	</tbody></table>
+</div></div>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+	
+	<table id="linksLayout" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td id="linksLeft"><img src="/images/liver_slogan.jpg" alt="Your network for the investigation and treatment of liver diseases" width="526" height="12"></td>
+			<td id="linksRight"><a href="http://www.aasld.org/Pages/Default.aspx">Home</a>&nbsp;|&nbsp;<a href="/aboutus/Pages/default.aspx">About Us</a>&nbsp;|&nbsp;<a href="/patients/Pages/default.aspx">Patients</a>&nbsp;|&nbsp;<a href="http://sig.aasld.org/">Worksites</a>&nbsp;|&nbsp;<a href="/">Log In/Out</a></td>
+		</tr>
+	</tbody></table>
+	
+	<table id="navLayout" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td id="navLeft"></td>
+			<td id="navCenter">
+				<a href="#zz1_GlobalNav_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=6mU9Iu9lQmacnDPELV0LjA2&amp;t=634051523619818097" width="0" height="0" border="0"></a><table id="zz1_GlobalNav" class="globalNav zz1_GlobalNav_2" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><img src="/images/navSeparator.gif" alt=""></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn0"><table class="globalNavItem zz1_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3" href="/practiceguidelines/Pages/default.aspx">Practice Guidelines</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/images/navSeparator.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn1"><table class="globalNavItem zz1_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3" href="/journals/Pages/default.aspx">Journals</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/images/navSeparator.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn2"><table class="globalNavItem zz1_GlobalNav_4 globalNavItemActive zz1_GlobalNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3 globalNavItemActive zz1_GlobalNav_8" href="/news/Pages/default.aspx">News</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/images/navSeparator.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn3"><table class="globalNavItem zz1_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3" href="/research/Pages/default.aspx">Research</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/images/navSeparator.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn4"><table class="globalNavItem zz1_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3" href="/lm/Pages/Default.aspx">The Liver Meeting®</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/images/navSeparator.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn5"><table class="globalNavItem zz1_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3" href="/CONFERENCES/Pages/default.aspx">Conferences and Education</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/images/navSeparator.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn6"><table class="globalNavItem zz1_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="zz1_GlobalNav_1 globalNavItem zz1_GlobalNav_3" href="/MemberCenter/Pages/default.aspx">Member Center</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td>
+	</tr>
+</tbody></table><div id="zz1_GlobalNavn0Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn7">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/practiceguidelines/Pages/NewUpdatedGuidelines.aspx">New/Updated Guidelines</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn8">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/practiceguidelines/Pages/SortablePracticeGuidelinesAlpha.aspx">Alphabetical Practice Guidelines</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn9">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/practiceguidelines/Pages/SortablePracticeGuidelinesDate.aspx">Practice Guidelines Sorted by Date</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn10">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/practiceguidelines/Pages/ArchivePracticeGuidelines.aspx">Practice Guidelines Archive</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn11">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/practiceguidelines/Pages/GuidelinesDevelopment.aspx">Guidelines Development</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn12">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="http://www.guideline.gov" target="_blank">National Guideline Clearinghouse</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn0ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn0ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><div id="zz1_GlobalNavn1Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn13">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/journals/hepatology/Pages/default.aspx">HEPATOLOGY</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn14">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="http://www.aasld.org/conferences/Pages/podcast.aspx">HEPATOLOGY Podcast Series</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn15">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/journals/livertransplantation/Pages/default.aspx">Liver Transplantation</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn16">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/journals/Corrections/Pages/default.aspx">Corrections</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><div id="zz1_GlobalNavn2Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn17">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/news/090910/Pages/default.aspx">AASLD eNews: September 9, 2010</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn18">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/news/082610/Pages/default.aspx">AASLD News: August 26, 2010</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn19">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/news/081210/Pages/Default.aspx">AASLD News: August 12, 2010</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn20">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/news/072910/Pages/default.aspx">AASLD News: July 29, 2010</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn21">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/news/archive/Pages/default.aspx">eNews Archive</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><div id="zz1_GlobalNavn3Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn22">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/research/governmentagencies/Pages/default.aspx">Government Agencies</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn23">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/research/awards/Pages/default.aspx">Awards and Grants</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn24">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="http://www.med.umn.edu/peds/ltcds/home.html" target="_blank">Liver Tissue Cell Distribution System</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn25">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/research/Pages/nihcsr.aspx">NIH Center for Scientific Review: Scientific Areas of Integrated Review Groups (IRG)</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><div id="zz1_GlobalNavn4Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn26">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/program/Pages/default.aspx">Program</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn27">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/attendees/Pages/default.aspx">Attendees</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn28">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/abstracts/Pages/default.aspx">Abstracts</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn29">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/press/Pages/default.aspx">Press</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn30">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/exhibitors/Pages/default.aspx">Exhibitors</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn31">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/awards/Pages/default.aspx">Awards</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn32">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/lm/presenters/Pages/default.aspx">Presenter Instructions</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><div id="zz1_GlobalNavn5Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn33">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/conferences/meetings/Pages/default.aspx">Meetings and Conferences</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn34">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/conferences/educationtraining/Pages/default.aspx">Education and Training</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><div id="zz1_GlobalNavn6Items" class="zz1_GlobalNav_0 globalNavMenu zz1_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn35">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="http://www.aasld.org/about/Pages/KeepMeInformed.aspx">Keep Me Informed</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn36">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="https://netforum.aasld.org/eweb/dynamicpage.aspx?webcode=IndividualEdit">My Information</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn37">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="https://netforum.aasld.org/eweb/DynamicPage.aspx?webcode=membershiprenewal">Renew Membership</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn38">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="https://netforum.aasld.org/eweb/DynamicPage.aspx?webcode=SIGlist">Join a Special Interest Group</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn39">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="http://sig.aasld.org/SIG/Pages/default.aspx" target="_blank">SIG Worksites</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn40">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="http://sig.aasld.org/committee/Pages/default.aspx" target="_blank">Committee Worksites</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn41">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/MemberCenter/Pages/AnnualBusinessMeeting.aspx">Annual Business Meeting</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn42">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/MemberCenter/Pages/ApplicantsforReview.aspx">Applicants for Review</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn43">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/MemberCenter/Pages/NewTraineeMembers.aspx">New Trainee Members</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn44">
+			<td><table class="globalNavMenuItem zz1_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="zz1_GlobalNav_1 globalNavMenuItem zz1_GlobalNav_5" href="/MemberCenter/Pages/epocrates.aspx">Member Benefit: 20% Discount on Epocrates Products</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn6ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=m2HQHA7QhevR-Rwv89all6Aeppj6iACRRxS8cQHXCos1&amp;t=634051523619818097" alt="Scroll up">
+	</div><div class="globalNavMenuItem zz1_GlobalNav_6 zz1_GlobalNav_0" id="zz1_GlobalNavn6ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+		<img src="/WebResource.axd?d=SO_I8JcbIHvUwN2EB0ELwuN8L_B2CNvQZAkd7yzhidM1&amp;t=634051523619818097" alt="Scroll down">
+	</div>
+</div><a id="zz1_GlobalNav_SkipLink"></a>
+				
+			</td>
+			<td id="navRight"></td>
+		</tr>
+	</tbody></table>
+
+<!-- End Page Header -->		
+	
+	<div id="authorTools">
+		
+
+		
+		
+			
+<!-- Console -->
+<span id="ctl00_SPNavigation_ctl01_publishingContext1"></span>
+
+<!-- Console -->
+
+		
+	</div>
+
+				
+ 
+
+
+	<table id="contentLayout" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td id="contentLeft">
+				
+					<div class="navTitle">
+						AASLD News: May 28, 2009</div>
+				
+				<div class="navContent">
+					
+					
+					
+						<a href="#zz2_CurrentNav_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=6mU9Iu9lQmacnDPELV0LjA2&amp;t=634051523619818097" width="0" height="0" border="0"></a><table id="zz2_CurrentNav" class="leftNav leftNavItemMenu zz2_CurrentNav_7 zz2_CurrentNav_2" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn0">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/070909/Pages/default.aspx" accesskey="3">AASLD News: July 9, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn1">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/062509/Pages/default.aspx">AASLD News: June 25, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn2">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/061109/Pages/default.aspx">AASLD News: June 11, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn3">
+		<td><table class="leftNavHeader zz2_CurrentNav_4 leftNavHeaderActive zz2_CurrentNav_10" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3 leftNavHeaderActive zz2_CurrentNav_9" href="/news/archive/052809/Pages/default.aspx">AASLD News: May 28, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%" class="leftNavItemMenuSub zz2_CurrentNav_8">
+			<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn4">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="/news/archive/052809/Pages/NewMembershipCategoryCreated.aspx">New Membership Category Created</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn5">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="/news/archive/052809/Pages/IRSReleasesNewForm990.aspx">IRS Releases New Form 990</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn6">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/research/awards/Pages/AdvancedTransplantHepatologyFellowship.aspx" target="_blank">Advanced Transplant Hepatology Fellowship</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn7">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/thelivermeeting/Pages/Abstract.aspx" target="_blank">Abstract Submitter Closing</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn8">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/conferences/meetings/Documents/AASLD%20Members'%20Reception.pdf" target="_blank">AASLD Members' Reception at DDW</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn9">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="/news/archive/052809/Pages/HepatologyJuneTableofContents.aspx">Hepatology June Table of Contents</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn10">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="/news/archive/052809/Pages/LiverTransplantationJuneTableofContents.aspx">Liver Transplantation June Table of Contents</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn11">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/thelivermeeting/Pages/BestoftheLiverMeeting.aspx" target="_blank">2008 Hepatology Course Now Available on the Best of the Liver Meeting</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn12">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="/news/archive/052809/Pages/NIHAnnouncesNewProgramtoDevelopTherapeuticsforRareandNeglectedDiseases.aspx">NIH Announces New Program to Develop Therapeutics for Rare and Neglected Diseases</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn13">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/journals/041609/Pages/AASLDMemorialPolicy.aspx" target="_blank">In Memoriam</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn14">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/conferences/meetings/Pages/default.aspx" target="_blank">Upcoming AASLD Meetings and Educational Opportunities</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn15">
+				<td><table class="leftNavItem zz2_CurrentNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="zz2_CurrentNav_1 leftNavItem zz2_CurrentNav_5" href="http://www.aasld.org/about/relatedsocieties/Pages/RelatedSocieties.aspx" target="_blank">Future Meetings of Related Societies</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn16">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/051409/Pages/default.aspx">AASLD News: May 14, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn17">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/043009/Pages/default.aspx">AASLD News: April 30, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn18">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/041609/Pages/default.aspx">AASLD News: April 16, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn19">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/040209/Pages/default.aspx">AASLD News: April 2, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn20">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/031909/Pages/default.aspx">AASLD News: March 19, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn21">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/030509/Pages/default.aspx">AASLD News: March 5, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn22">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/021909/Pages/default.aspx">AASLD News: February 19, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn23">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/020509/Pages/default.aspx">AASLD News: February 5, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn24">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/012209/Pages/default.aspx">AASLD News: January 22, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn25">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/100109/Pages/default.aspx">AASLD eNews: October 1, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn26">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/042210/Pages/default2.aspx">AASLD News: April 22, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn27">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/040810/Pages/default.aspx">AASLD News: April 8, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn28">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/082009/Pages/default.aspx">AASLD News: August 20, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn29">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/080609/Pages/default.aspx">AASLD News: August 6, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn30">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/121009/Pages/default.aspx">AASLD News: December 10, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn31">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/122309/Pages/default.aspx">AASLD News: December 23, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn32">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/022510/Pages/default.aspx">AASLD News: February 25, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn33">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/011410/Pages/default.aspx">AASLD News: January 14, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn34">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/012810/Pages/default.aspx">AASLD News: January 28, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn35">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/072309/Pages/default.aspx">AASLD News: July 23, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn36">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/060310/Pages/default.aspx">AASLD News: June 3, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn37">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/031110/Pages/default.aspx">AASLD News: March 11, 2010</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn38">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/111209/Pages/default.aspx">AASLD News: November 12, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn39">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/112509/Pages/default.aspx">AASLD News: November 25, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn40">
+		<td><table class="leftNavHeader zz2_CurrentNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="zz2_CurrentNav_1 leftNavHeader zz2_CurrentNav_3" href="/news/archive/090309/Pages/default.aspx">AASLD News: September 3, 2009</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table><a id="zz2_CurrentNav_SkipLink"></a>
+						
+						<div id="pageTools">
+							<div class="pageToolPrint">
+								<span class="printFriendly"><a href="http://aasld.org/news/archive/052809/Pages/default.aspx?PF=1" target="_blank">Print Friendly</a></span>
+
+							</div>
+							<div class="pageToolEmail">
+								<a id="ctl00_PlaceHolderLeftNavBar_ctl02_hypEmailThis" href="mailto:?subject=A friend has sent you a link.&amp;Body=A friend has sent you a link from the AASLD Web site. http://aasld.org/news/archive/052809/Pages/default.aspx">Email This Page</a>
+							</div>
+						</div>
+					
+					
+					
+				</div>
+			</td>
+			<td id="contentRight">
+				
+    <div class="bannerLayout"><div id="ctl00_PlaceHolderBannerArea_ctl00__ControlWrapper_RichImageField" style="display:inline"><span dir=""><img alt="" border="0" src="/journals/PublishingImages/Journal%20Site%20Banners/enewsbanner[1].jpg" style="border:0px solid"></span>&nbsp;</div></div>
+
+				<div id="breadcrumbLayout">
+					
+						<span id="ctl00_PlaceHolderTitleBreadcrumb_ContentMap"><span><a class="breadcrumbItem" href="/Pages/Default.aspx">AASLD</a></span><span> » </span><span><a class="breadcrumbItem" href="/news/Pages/default.aspx">News</a></span><span> » </span><span><a class="breadcrumbItem" href="/news/archive/Pages/default.aspx">eNews Archive</a></span><span> » </span><span class="breadcrumbItemCurrent">AASLD News: May 28, 2009</span></span>
+					
+				</div>
+				<h1 class="pageTitle">
+    Biomedical Research Funding: The Next Frontier or Just Another Government Expense?&nbsp;
+	
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_options = 'facebook, digg, delicious, linkedin, twitter, more';var addthis_exclude = 'print';</script>
+<div style="margin-top:8px;">
+    <div class="addthis_toolbox addthis_default_style">
+    <a class="addthis_button_facebook" title="Share to Facebook"></a>
+    <a class="addthis_button_digg" title="Digg This"></a>
+    <a class="addthis_button_delicious" title="Share to del.icio.us"></a>
+    <a class="addthis_button_linkedin" title="Share to LinkedIn"></a>
+    <a class="addthis_button_twitter" title="Tweet This"></a>
+    <span class="addthis_separator">|</span>
+    <a class="addthis_button_compact"></a>
+    </div>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3a94c77b848112"></script>
+<!-- AddThis Button END -->
+
+</h1>
+				<div class="pageContent">
+
+					
+    
+    
+    
+    
+    <table class="interiorPageLayout" cellpadding="0" cellspacing="0">
+    	<tbody><tr>
+    		<td class="interiorPageLeft">
+    			<div id="ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField" style="display:inline"><p><strong>Public Policy Update</strong><br><em>By Lyle B. Dennis</em></p>
+<p><img style="border-right:1px solid;border-top:1px solid;border-left:1px solid;border-bottom:1px solid" alt="Lyle B. Dennis" hspace="5" src="/journals/PublishingImages/Newsletter%20Images/Dennis-6435%20revised.jpg" align="left" vspace="5" border="1">One of the things that makes it difficult to sustain researcher’s interest in public policy – particularly clinician-researchers – is that the process never seems to end.&nbsp; Earlier this year, AASLD and others interested in advancing biomedical research funding had some significant victories – enactment of the American Recover and Reinvestment Act (ARRA) and the FY09 Omnibus Appropriations bill.</p>
+<p>The former supplied $10 billion in new biomedical research funding to the NIH ($10.4 million if Comparative Effective Research is included) and the latter increased the base NIH budget by more than $900 million and took NIH off of a Continuing Resolution that held its funding to FY08 levels.</p>
+<p>Now, President Barack Obama has released his comprehensive budget recommendations for FY10 (the fiscal year that begins October 1, 2009 and runs through September 30, 2010) and it is time for AASLD to start all over again.&nbsp; Based on what the President is recommending, all of us in the health care research advocacy community have our work cut out for us.</p>
+<p>During the 2008 campaign, the President was clear both in speeches and on his website that he wanted to “return science to its rightful place” and to double “scientific research funding over a ten year period.”&nbsp; Clearly there are steps that have been taken to accomplish these twin goals.&nbsp; Appointments of pro-science officials, such as Energy Secretary Stephen Chu, and support for the NIH funding in the ARRA legislation (although it was not initially proposed by the Administration) were key supportive moves.</p>
+<p>Less helpful have been the numbers in the President’s FY10 budget request.&nbsp; The Administration is seeking just a 1.4 percent increase in funding for NIH.&nbsp; To reach a level of doubling the NIH budget in ten years would require a 7.2 percent annual increase for that entire period.&nbsp; The difference between the requested amount and the amount that would be needed to match the rhetoric is about $1.5 billion.</p>
+<p>The problem with not seeking increases in this range is not so much what will happen in FY10, when there is a lot of funding available as a result of ARRA, albeit for very targeted programs.&nbsp; The problem will come in FY11 when the ARRA money is no longer available.&nbsp; Suddenly, research project grants (RPGs) will “fall off a cliff” (barring an increase in the 17 to 20 percent range for FY11, which seems very unlikely).</p>
+<p>Science research, whether biomedical or otherwise, benefits from sustained, robust, and predictable funding increases over a period of time that enable the long and difficult scientific process to advance, for young investigators to be trained with the knowledge that there will be opportunities for them to succeed, and discoveries to be made that will help improve the lives of all people.</p>
+<p>Absent that stable environment, we get a system of starts and stops in research that fails to obtain the maximum impact from those increases that are awarded.&nbsp; The years of reductions or level funding serve to scare away young investigators (and sometimes not-so-young investigators) from the field.&nbsp; And, given what the future of liver disease looks like with the growth in the recognition of viral hepatitis, as well as in the incidence of primary liver cancer, hepatology needs every advantage it can get.</p>
+<p>So, this is the challenge for AASLD in the coming months.&nbsp; Decisions will be made on funding levels and policies that will impact your funding, your reimbursements, your careers.&nbsp; When the Association calls on you to contact your representatives, or to reach out to the White House, please do not hesitate to do so.&nbsp; It is as much of the new environment of research and medical practice today as your laptop and your Blackberry.</p>
+<p><em><br>This electronic newsletter is a bi-weekly publication of AASLD and replaces the former bi-monthly print newsletter and weekly e-news. Members are welcome to submit articles and may send suggestions to </em><a href="mailto:atracy@aasld.org"><em>atracy@aasld.org</em></a></p>
+<p><br>&nbsp;</p></div>
+    			
+    		</td>
+    		<td class="interiorPageRight">
+    			<div class="grayBox">
+    				<div class="grayBoxT"></div>
+    				<div class="grayBoxContent">
+    					<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td id="MSOZoneCell_WebPartWPQ3" valign="top"><table toplevel border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tbody><tr class="ms-WPHeader">
+						<td title="Liver Disease in the News - Use for formatted text, tables, and images." id="WebPartTitleWPQ3" width="100%"><h3 class="ms-standardheader ms-WPTitle"><nobr><span>Liver Disease in the News</span><span id="WebPartCaptionWPQ3"></span></nobr></h3></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr>
+				<td class="ms-WPBorder" valign="top"><div webpartid="916e02da-03ac-4d86-812c-1912924d117f" haspers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody" allowdelete="false" style=""><p><font face="Verdana" color="#333333"><a title="" href="http://www.bignews.biz/?id=801305&amp;keys=Congress-Hepatitis-Cancer-Healthcare" target="_blank"><font face="Verdana" color="#3365cc">Congressional Briefing on Chronic Viral Hepatitis and Liver Cancer Highlights World Hepatitis Day</font></a><br>Big News</font></p>
+<p><font face="Verdana" color="#333333"><a title="" href="http://www.wusa9.com/news/health/story.aspx?storyid=86113&amp;catid=28" target="_blank"><font face="Verdana" color="#3365cc">4 Million Americans Infected With Hepatitis C</font></a><font color="#3365cc"> </font><br>WUSA 9</font></p>
+<p><font face="Verdana"><a title="" href="http://www.aptv.org/Schedule/showinfo.asp?ID=223185" target="_blank"><font face="Verdana" color="#3365cc">The Future of Hepatitis C</font></a></font><font face="Verdana" color="#333333"><br>PBS<br></font></p></div></td>
+			</tr>
+		</tbody></table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ2" valign="top"><table toplevel border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="dcfafb3a-8773-4087-9765-c709ba4e01de" haspers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody" allowdelete="false" style=""><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="" href="http://www.aasld.org/about/campaign/Pages/default.aspx" target=""><img style="BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 0px solid" src="http://www.aasld.org/journals/PublishingImages/Ads/CapCampaignblockadmedium.JPG" border="0"></a></p></div></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+    				</div>
+    				<div class="grayBoxB"></div>
+    			</div>
+    		</td>
+    	</tr>
+    </tbody></table>
+    
+    
+    
+    
+
+
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td id="contentLeftB">&nbsp;</td>
+			<td id="contentRightB">&nbsp;</td>
+		</tr>
+	</tbody></table>
+	
+<!-- Begin Page Footer -->	
+
+	<div id="footerLayout">
+		<p id="footerLinks"><a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/aboutus/who/Pages/CareersatAASLD.aspx">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/aboutus/Pages/governancedocs.aspx">Governance Codes and 
+		Site Data Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Pages/SiteMap.aspx">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/aboutus/who/Pages/Contact.aspx">Contact Us</a> |&nbsp;&nbsp;<a href="/aboutus/who/Pages/MediaContacts.aspx">Press</a></p>
+		<p id="copyright">2010&nbsp;© The American Association for the Study of Liver Diseases</p>
+	</div>
+
+</div>
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer>
+<!--
+function S83C543AE_Submit() {GoSearch(null,'ctl00_SearchBox_S83C543AE_InputKeywords',null,true,false,null,null,null,null,'\u002fsearchcenter\u002fPages\u002fResults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fnews\u002farchive\u002f052809\u002f_layouts\u002fOSSSearchResults.aspx');}
+// -->
+</script><script type="text/javascript" language="JavaScript">
+// append an onload event handler
+var S83C543AE__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+S83C543AE__onload();        
+  document.getElementById('ctl00_SearchBox_S83C543AE_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(S83C543AE__onload);        
+  document.getElementById('ctl00_SearchBox_S83C543AE_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function S83C543AE_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S83C543AE_Submit();
+}
+}
+// -->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var zz1_GlobalNav_Data = new Object();
+zz1_GlobalNav_Data.disappearAfter = 500;
+zz1_GlobalNav_Data.horizontalOffset = 0;
+zz1_GlobalNav_Data.verticalOffset = -8;
+zz1_GlobalNav_Data.hoverClass = 'zz1_GlobalNav_15 globalNavMenuItemHover';
+zz1_GlobalNav_Data.hoverHyperLinkClass = 'zz1_GlobalNav_14 globalNavMenuItemHover';
+zz1_GlobalNav_Data.staticHoverClass = 'zz1_GlobalNav_13 globalNavItemHover';
+zz1_GlobalNav_Data.staticHoverHyperLinkClass = 'zz1_GlobalNav_12 globalNavItemHover';
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+var zz2_CurrentNav_Data = new Object();
+zz2_CurrentNav_Data.disappearAfter = 500;
+zz2_CurrentNav_Data.horizontalOffset = 0;
+zz2_CurrentNav_Data.verticalOffset = 0;
+//]]>
+</script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=CNBZRdV1h3pKuA7LsMXf3w%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/search.js?rev=yqBjpvg%2Foi3KG5XVf%2FStmA%3D%3D"></script>
+</form>
+<!-- End Page Footer -->
+<script type="text/javascript">
+	// setup analytics
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");  
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+<script type="text/javascript">  
+
+		var pageTracker = _gat._getTracker("UA-17337761-1");  		
+		
+		// set segment var
+    	var segment = $("input[id$='hidSegment']").val();
+    	if(segment != null && segment != "") {
+	        pageTracker._setCustomVar( 
+	            1,            // This custom var is set to slot #1 
+	            "AASLDType",  // The name of the custom varaible 
+    	        segment,      // Sets the value of "User Type" to "Member" or "Visitor" depending on status 
+        	    3             // Sets the scope to session-level   
+           	);                         
+		}
+		//pageTracker._initData();
+		pageTracker._trackPageview();
+</script>
+<script type="text/javascript" src="/Style Library/Scripts/gaAddons-2.0.min.js"></script>
+
+</body></html>

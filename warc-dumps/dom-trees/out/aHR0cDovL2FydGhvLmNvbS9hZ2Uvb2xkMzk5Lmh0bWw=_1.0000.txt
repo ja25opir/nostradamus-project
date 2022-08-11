@@ -1,0 +1,241 @@
+<html><head>
+<title>News archive</title>
+</head>
+<body bgcolor="#000000" link="#FF0000" vlink="#B00000" alink="#FF0000" text="#e0e0e0">
+<br>
+<center>
+<h1>
+<font color="#ffff00">
+News archive
+</font>
+</h1>
+</center>
+<!-- updates here -->
+<p>
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="#ffb000"><b>March 22</b></font>
+</td></tr>
+</tbody></table>
+</p><p>
+<font color="#ffff00"><b>Telcontar meets Visual Sciences</b></font><br>
+Last Wednesday (I know it is a while ago but I was too busy to update the page), I met the <b>Russell Kay,</b> manager of <a href="http://www.vissci.com">Visual Sciences,</a> a Scottish game company. Now you might ask whether Scottish game companies are of any importance, and they are indeed. That manager helped programming Lemmings for five(!) years on all kinds of platforms ("when I see another lemming, I will scream"), and his off-spring company is doing quite well in the sector of console games. They ported games such as Grand Theft Auto and Formula 1 1999 to the Play Station.
+<br>
+Surprisingly, console games are much more important (turnover wise) than PC games now. There are not that many titles to choose from, but much more people buy the game. It is expected that this will not change soon, or even shift further in favor of consoles, as the Play Station 2 looks awesome. However, it is still hard to imagine playing strategy games on a TV screen; when higher resolution TVs come out, it might very well become the better way to play, though. I sure hate the numerous troubles with DirectX. Another problem is that you never know whether your PC has enough horsepower for a new game ...
+<br>
+Therefore, that company focuses on consoles, and might release some of their own titles in the future, apart from PC game ports. They have specialized on action (mainly racing) games. For these games, it is definitely better to play them on a console (IMHO), relaxed in a chair with a drink :)
+<br>
+Russell has been programming games for a long time and has a great insight into his genre. In the future, when games are becoming more and more expensive to develop, he wants to put more programmers on the gameplay part, and not on special effects or bells and whistles. This sounds very promising, and I wish him best luck.
+</p><p>
+<font color="#ffff00"><b>Game Developer's Conference</b></font><br>
+Next Generation has a nice <a href="http://www.next-generation.com/jsmid/news/6124.html">round-up of the GDC"</a>
+</p><blockquote><font face="Arial,Helvetica" size="-1">
+"Today's biggest news is the announcement of the winners of the First Annual Game Developers Conference Independent Games Festival. (...)
+<br>
+Evidently, developers know a good game when they see one, because the audience and the team of judges picked exactly the same game. Fire and Darkness, from Singularity Software, won both awards. (...)
+<br>
+So what have we learned from all this? (...) First, you'd better get 3D or get out. Anyone developing a 2D game has an uphill battle even to get noticed. This is too bad, but it is a fact of life. Accept it: 2D is over. Static screens are over. Scrolling is over. 3D is king.
+<br>
+Second, the established genres have plenty of room for growth (with the exception of adventure games; see tomorrow's column). In fact, most developers describe their games using lines like "it's a lot like Game A, but with the _____ of Game B." But you'd better have a "hook" as well because nobody is interested in "just another one" that's almost the same as the original.
+<br>
+, story seems to be growing stronger, or perhaps that's just my hope."
+</font></blockquote>
+It is interesting that both AoK and Baldur's Gate use a "scrolling, static" pseudo-3D engine, but are far from dead. However, for a new game, I agree that 3D is a must. <a href="http://www.lokisoft.com">Civilization 3</a> looks a lot like Civilization 2; a 3D version would look much more exciting. However, I prefer a 2D game with a good gameplay to a game with flashy graphics that becomes boring soon...
+<small><div align="right"><a href="mailto:telcontar@mordor.ch">Telcontar</a></div></small>
+<p>
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="#ffb000"><b>March 17</b></font>
+</td></tr>
+</tbody></table>
+</p><p>
+<font color="#ffff00"><b>Gamespot interviews Bruce Shelley</b></font><br>
+</p><blockquote><font face="Arial,Helvetica" size="-1">
+Gamespot UK have been very busy and managed to <a href="http://www.gamespot.co.uk/pc.gamespot/strategy/aoeki_uk/preview.html">catch up with Bruce Shelley,</a>
+Age of Empires fame, and gave us his thoughts on the highly anticipated Age
+of Empires II, as well as a preview of the game.
+<br>
+Here's a little extract:
+<br>
+"Bruce Shelley is one of those rare things, a quiet and genuinely pleasant chap who always seems rather puzzled at the amount of interest his games generate.
+We caught up with Shelley at this year's Seattle Gamestock - a handy little bash where Microsoft puts all of its in-house and affiliate developers on show for a
+motley assortment of journalists - where he gave us the low-down on how Age of
+Empires II is changing, from the AI right at the heart of things, through to the
+campaign structure and the multiplayer game."
+</font></blockquote>
+Thanks to <b>Nicola</b> for this information.
+<p>
+<font color="#ffff00"><b>Beta version of HTML PLAIN</b></font><br>
+Being completely unrelated to AoE, but closely related to web pages, I announce the first beta version of HTML PLAIN. You can get it at <a href="http://artho.com/webtools/">http://artho.com/webtools.</a> It is a very powerful HTML precompiler, which allows you to generate all links, nav bars, headers and footers automatically, and change the layout of an entire web page in only five minutes.
+<br>
+It does not have a smooth install procedure yet, but it should work out of the box on Unix systems, and require only a few modifications for Windows (where it has not been tested yet). If you are starting a web page or thinking of expanding it, this tool will save a lot of work.
+<small></small></p><div align="right"><small><a href="mailto:telcontar@mordor.ch">Telcontar</a></small></div>
+<p>
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="#ffb000"><b>March 14</b></font>
+</td></tr>
+</tbody></table>
+</p><p>
+<font color="#ffff00"><b>ION Storm visits Ensemble Studios</b></font><br>
+Not for the first time, <b>John Romero</b> (Doom 1/2 and Quake designer) visited Ensemble studios with a couple of other guys from his crew in order to "play test" Age of Kings. Of course "testing" was only an excuse for playing ;) &nbsp; Ensemble's page has <a href="http://www.ageofempires.net/news/includesnews/mar/ion1.shtml">lots of photos from the event.</a>
+<br>
+It seems like ION Storm has recovered from the loss of some of their best employees after a lot of internal problems. They still have three games to finish, but apparently <a href="http://www.ageofempires.net/news/temp/miscmar/ion/daik_death_burst.gif">Death Match Daikatana</a> is coming along very well. I hope they will be able to finish that game (which cost about 30,000,000 $ so far) soon, and that they will port it to Linux :)
+<small></small></p><div align="right"><small><a href="mailto:telcontar@mordor.ch">Telcontar</a></small></div>
+<p>
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="#ffb000"><b>March 11</b></font>
+</td></tr>
+</tbody></table>
+</p><p>
+<font color="#ffff00"><b>Gold edition available, RoR reduced for quick sale ;)</b></font><br>
+</p><blockquote><font face="Arial,Helvetica" size="-1">
+"Age of Empires Gold Edition, a bundle
+package combining the award-winning, best-selling PC games Age of Empires
+and Age of Empires Expansion: The Rise of Rome, has started to appear on
+store shelves.  There have been several reports of its availability at
+locations throughout the United States, and full domestic distribution is
+expected by the end of the month.  Age of Empires Gold Edition brings the
+unlimited game play of Age of Empires and Age of Empires Expansion: The
+Rise of Rome together in one compelling package at an estimated street
+price of about US$39.99.
+<br>
+Additionally, Microsoft announced that the estimated street price of Rise
+of Rome is being reduced to $19.99."
+</font></blockquote>
+<div align="right">(press release</div>
+AoK is supposed to be released in less than three months, though, so some people might just as well wait for it. RoR shortens the waiting of course :)
+<p>
+<font color="#ffff00"><b>New message boards at AoK battlefield</b></font><br>
+<b>BravenIrish</b> has set up a couple of <a href="http://age2.gamesmania.com/cgi-bin/ubbcgi/Ultimate.cgi">new AoK message boards</a> at his page. Of course they will get more important once AoK is released, but check them out.
+<small></small></p><div align="right"><small><a href="mailto:telcontar@mordor.ch">Telcontar</a></small></div>
+<p>
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="#ffb000"><b>March 10</b></font>
+</td></tr>
+</tbody></table>
+</p><p>
+<font color="#ffff00"><b>Game Developer's conference</b></font><br>
+This conference deals, among other things, with technical issues of game programming, where the major problem has always been to squeeze out most performance of the given hardware. (Before we got different hardware for everybody, i. e. in C64 times, there was no timing required to get the same game speed for everyone, but because the hardware was so slow, everything was written in highly optimized assembler code.)
+<br>
+Two of Ensemble's developers <a href="http://www.gdconf.com/cgi-bin/1999/main.pl?x-x=51502">will also be there.</a> Surprisingly, one of the programmers talks about 3D programming, even though AoK has (stictly speaking) no "real" 3D engine (AoE's 3D graphics are called "isometric", which means that there is no perspective. For a good overview, this is usually better than genuine 3D graphics). Is there a chance that ES's next game will have 3D graphics?
+<small></small></p><div align="right"><small><a href="mailto:telcontar@mordor.ch">Telcontar</a></small></div>
+<p>
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="#ffb000"><b>March 3</b></font>
+</td></tr>
+</tbody></table>
+</p><p>
+<font color="#ffff00"><b>AoK reviews in game mags</b></font><br>
+<a href="http://www.ageofempires.net/news/news.shtml">Ensemble's page</a> has an excellent coverage of some of the AoK reviews in game mags. All the writers were drooling about the gorgeous graphics, and enjoyed the new features that have not been present in AoE. I think it is about time to roll these betas out so we can see ourselves what the game is like ... I hope the hardware requirements will be moderate (Ensemble promised that, but since they have pushed the release date by 6 months, the hardware requirements may have been pushed, too).
+</p><p>
+<font color="#ffff00"><b>Beta test! But not AoK...</b></font><br>
+<a href="http://www.lokisoft.com">Lokisoft</a> wants beta testers for Civilization 3: Call to Power. Since many AoE players have played Civ and Civ2 and loved it, I thought I should mention this here. Note that you need Linux for participating the beta test, and even then you are not guaranteed to be in the test program.
+</p><p>
+<font color="#ffff00"><b>What I am doing now...</b></font><br>
+I was very busy during the past week, but the first part of my project finally hit the 'net: Go to<br>
+<a href="http://artho.com/webtools/config/">artho.com/webtools/config</a>
+to get it (and if you have some time, please beta test it).
+<br>
+</p><blockquote><font face="Arial,Helvetica">
+Configuration tools 0.9.17 
+<br>
+These graphical tools will help with the customization of the templates for HTML PLAIN, which is going to be released soon. Some dotfiles with a similar structure can also be edited after making some small adjustments to the programs (i. e. to the input and output filter). Of course editing the files directly in ASCII mode is also possible, but most users want a nice looking tool, so here it is. 
+</font></blockquote>
+I hope my tools will be useful for all you webmasters out there, and if you want a good user interface, please test it now.
+<br>
+<small><div align="right"><a href="mailto:telcontar@mordor.ch">Telcontar</a></div></small>
+
+
+
+
+
+<br>
+<br clear="all">
+<table cellspacing="0" width="100 %" bordercolor="Gray" border="1" bgcolor="#000066">
+<tbody><tr><td>
+<font color="ffb000"><b>September '97 - February '98</b></font>
+</td></tr>
+</tbody></table>
+<p>
+</p><h2>
+<a href="old299.html">News from February '99</a>
+</h2>
+<h3>
+</h3><h3>
+<a href="old199.html">News from January '99</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old1298.html">News from December '98</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old1198.html">News from November '98</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old1098.html">News from October '98</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old998.html">News from September '98</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old8b98.html">News from August 16 to August 31</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old8a98.html">News from August 1 to August 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old798.html">News from July '98</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old6b98.html">News from June 16 to June 30</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old6a98.html">News from June 1 to June 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old598.html">News from May</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old4b98.html">News from April 16 to April 30</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old4a98.html">News from April 1 to April 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old398.html">News from March</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old2b98.html">News from February 16 to February 28</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old2a98.html">News from February 1 to February 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old1b98.html">News from January 16 to January 31</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old1a98.html">News from January 1 to January 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old12b97.html">News from December 16 to December 31</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old12a97.html">News from December 1 to December 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old11b97.html">News from November 16 to November 30</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old11a97.html">News from November 1 to November 15</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old1097.html">News from October '97</a>
+<br><font size="1">&nbsp;</font><br>
+<a href="old997.html">News from September '97</a>
+</h3>
+<center>
+<p>
+<a href="archive.html"><img border="0" src="back.gif" alt="Back" align="bottom" width="63" height="63"></a>
+<b><font size="+1"><br>
+<a href="archive.html">Back</a></font></b>
+<br><br>
+<b><font size="+1">
+<a href="index.html">Main</a> -
+<a href="files/index.html">Downloads</a> -
+<a href="faq.html">FAQ</a> -
+<a href="http://age.gamesmania.com/cgi-bin/board/age.cgi">Forum</a> -
+<a href="iviews.html">Interviews</a> -
+<a href="AoElinks.html">Links</a> -
+<a href="news.html">News</a> -
+<a href="ror/">Rise of Rome</a> -
+<a href="scn/index.html">Scenarios</a> - 
+<a href="strats.html">Strategies</a> - 
+<a href="tips.html">Tips</a> -
+<a href="units.html">Units</a>
+</font></b>
+
+
+
+
+</p></center></body></html>

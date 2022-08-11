@@ -1,0 +1,362 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+  <base href="http://101sitehosting.com/customer-testimonials">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="101sitehosting.com,unlimited bandwidth web hosting,top rated web hosting,affordable web hosting company,best web site hosting,website hosting companies,mysql web hosting,cheap web hosting domain,web space hosting,email web hosting,web hosting space,web hosting,hosting,">
+  <meta name="description" content="101sitehosting is a top rated and affordable web hosting company which offers you cheap web hosting domain and web hosting space.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>101sitehosting - Customer Testimonials</title>
+  <link href="/customer-testimonials?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+  <link href="/customer-testimonials?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+  <link href="/customer-testimonials" rel="first">
+  <link href="/customer-testimonials?start=45" rel="prev">
+  <link href="/customer-testimonials?start=55" rel="next">
+  <link href="/customer-testimonials?start=65" rel="last">
+  <link href="/templates/yoo_evolution/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/components/com_easybook/css/easybook.css" type="text/css">
+  <link rel="stylesheet" href="/templates/yoo_evolution/css/template.css" type="text/css">
+  <link rel="stylesheet" href="/templates/yoo_evolution/css/lightgreen/lightgreen-layout.css" type="text/css">
+  <link rel="stylesheet" href="http://101sitehosting.com/modules/mod_yoo_search/mod_yoo_search.css.php" type="text/css">
+  <style type="text/css">
+    <!--
+
+body.width-thin div.wrapper { width: 800px; }
+body.width-wide div.wrapper { width: 960px; }
+body.width-fluid div.wrapper { width: 90%; }
+div#styleswitcher { width: 45px; }
+
+    -->
+  </style>
+  <script type="text/javascript" src="/templates/yoo_evolution/lib/js/mootools/mootools-release-1.11.js"></script>
+  <script type="text/javascript" src="http://101sitehosting.com/modules/mod_yoo_search/mod_yoo_search.js"></script>
+  <script type="text/javascript">
+var YtSettings = { tplurl: '/templates/yoo_evolution', color: 'lightgreen', layout: 'left', fontDefault: 'font-medium', widthDefault: 'width-wide', widthThinPx: 800, widthWidePx: 960, widthFluidPx: 0.9 };
+  </script>
+  <!--[if IE 6]>
+    		<style type="text/css">
+    				.easy_align_middle { behavior: url(http://101sitehosting.com/components/com_easybook/scripts/pngbehavior.htc); }
+    				.png { behavior: url(http://101sitehosting.com/components/com_easybook/scripts/pngbehavior.htc); }
+    		</style>
+  		<![endif]-->
+  <script type="text/javascript" src="/templates/yoo_evolution/lib/js/addons/base.js"></script>
+<script type="text/javascript" src="/templates/yoo_evolution/lib/js/addons/accordionmenu.js"></script>
+<script type="text/javascript" src="/templates/yoo_evolution/lib/js/addons/fancymenu.js"></script>
+<script type="text/javascript" src="/templates/yoo_evolution/lib/js/addons/dropdownmenu.js"></script>
+<script type="text/javascript" src="/templates/yoo_evolution/lib/js/yoo_tools.js"></script>
+
+<link rel="apple-touch-icon" href="/templates/yoo_evolution/apple_touch_icon.png">
+
+<!-- FMH Tracking CODE 1 -->
+<!-- Place on Home Page -->
+<!-- And all plan sign-up pages -->
+<script language="JavaScript">
+var qufmh = '' + this.location; 
+qufmh = qufmh.substring((qufmh.indexOf('?cif')) + 4);
+var keyfmh = qufmh.substring(0,qufmh.indexOf('=')); 
+var cifmh = qufmh.substring((qufmh.indexOf('=')) + 1);
+if (keyfmh == 'mh') {
+var today = new Date();
+var expiry = new Date(today.getTime() + 2592000000);
+document.cookie="cifmh=" + cifmh + "; expires=" + expiry.toGMTString() + "; domain=101sitehosting.com; path=/";
+}
+</script>
+<!-- End of Script -->
+
+</head>
+
+<body id="page" class="yoopage font-medium width-wide    ">
+
+	
+	<div id="page-body">
+		<div class="page-body-img">
+			<div class="page-body-b">
+				<div class="wrapper floatholder">
+
+					<div id="header">
+					
+						<div id="toolbar">
+							<div class="floatbox ie_fix_floats">
+							
+																<div id="date">
+									Friday, 17 September 2010								</div>
+											
+																<div id="topmenu">
+									<ul class="menu"><li class="level1 item7 first"><a href="/about-us" class="level1 item7 first"><span>About Us</span></a></li><li class="level1 item8"><a href="/testimonials" class="level1 item8"><span>Testimonials</span></a></li><li class="level1 item9"><a href="/sitemap" class="level1 item9"><span>Sitemap</span></a></li><li class="level1 item10 last"><a href="https://www.101sitehosting.com/members/contact.php" class="level1 item10 last"><span>Contact Us</span></a></li></ul>
+								</div>
+								
+																<div id="styleswitcher">
+																											<a id="switchfontlarge" href="javascript:void(0)" title="Increase font size"></a>
+									<a id="switchfontmedium" href="javascript:void(0)" title="Default font size"></a>
+									<a id="switchfontsmall" href="javascript:void(0)" title="Decrease font size"></a>
+																	</div>
+																
+								
+
+							</div>
+						</div>
+
+						<div id="headerbar">
+							<div class="floatbox ie_fix_floats">
+											<div class="module deepest blank">
+								<h3 class="module"><span class="color">Member_Login</span></h3>
+								<table border="0">
+<tbody>
+<tr>
+<td width="350"><form action="https://www.101sitehosting.com/members/dologin.php" method="post"> <span class="niftyquick" style="display: block;"> <span class="yoo-login"> <span class="login"> <span class="username"> <input alt="Email Address" name="username" size="22" type="text" value="Email Address"> </span> <span class="password"> <input alt="Password" name="password" size="10" type="password" value="Password"> </span> <span class="login-button"> <button title="Login">Login</button> </span> <input name="rememberme" type="hidden" value="yes"> <span class="lostpassword"> <a href="https://101sitehosting.com/members/passwordreminder.php" title="Forget Password"><br><span style="color: lightgrey;"> Forgot Your Password? </span> </a> </span> <input name="option" type="hidden" value="com_user"> <input name="task" type="hidden" value="jlogin"> </span> </span> </span> </form> </td>
+</tr>
+</tbody>
+</table>			</div>
+						<div class="module deepest blank">
+								<p><a href="/members/index.php?language=English"><img src="/images/stories/canadaflag.gif" border="0" style="border: 0; margin-left: 5px; margin-right: 5px;"><img src="/images/stories/usdflag.gif" border="0" style="border: 0; margin-left: 5px; margin-right: 5px;"><img src="/images/stories/australia2.jpg" border="0" style="border: 0; margin-left: 5px; margin-right: 5px;"></a>&nbsp;<a href="/members/index.php?language=English"><img src="/images/stories/united-kingdom2.gif" border="0" style="border: 0; margin-left: 5px; margin-right: 5px;"></a></p>			</div>
+			
+							</div>
+						</div>
+							
+						<div id="menubar">
+							<div class="menubar-l"></div>
+							<div class="menubar-r"></div>
+							<div class="menubar-m"></div>
+						</div>
+						
+												<div id="menu">
+							<ul class="menu"><li class="level1 item2 first"><a href="http://101sitehosting.com/" class="level1 item2 first"><span><span class="title">Home</span><span class="sub">Site Frontpage</span></span></a></li><li class="level1 item3"><a href="/special-offer" class="level1 item3"><span><span class="title">Starter Package</span><span class="sub">Special Offer</span></span></a></li><li class="level1 item4 parent"><a href="/../members/domainchecker.php" class="level1 item4 parent"><span><span class="title">Domain Names</span><span class="sub">New/Renew/Transfer</span></span></a><ul class="level2"><li class="level2 item1 first"><a href="http://www.101sitehosting.com/members/domainchecker.php" class="level2 item1 first"><span>Domain Registration</span></a></li><li class="level2 item2"><a href="http://www.101sitehosting.com/members/cart.php?a=add&amp;domain=transfer" class="level2 item2"><span>Domain Transfers</span></a></li><li class="level2 item3 last"><a href="/domain-names/domain-name-renewals-be-aware" class="level2 item3 last"><span>Domain Name Renewals – Be Aware!</span></a></li></ul></li><li class="level1 item6 parent"><a href="/hosting-solutions" class="level1 item6 parent"><span><span class="title">Web Hosting</span><span class="sub">&amp; design services</span></span></a><ul class="level2"><li class="level2 item1 first"><a href="/hosting-solutions/web-hosting" class="level2 item1 first"><span>Web Hosting</span></a></li><li class="level2 item2"><a href="/hosting-solutions/sitebuilder" class="level2 item2"><span>SiteBuilder</span></a></li><li class="level2 item3"><a href="/hosting-solutions/iweb-publishing" class="level2 item3"><span>iWeb Publishing</span></a></li><li class="level2 item4"><a href="/hosting-solutions/installatron" class="level2 item4"><span>Installatron</span></a></li><li class="level2 item5"><a href="/hosting-solutions/hosted-spam-filter" class="level2 item5"><span>Hosted Spam Filter</span></a></li><li class="level2 item6"><a href="/hosting-solutions/web-site-design" class="level2 item6"><span>Web Site Design</span></a></li><li class="level2 item7"><a href="/hosting-solutions/reseller-hosting" class="level2 item7"><span>Reseller Hosting</span></a></li><li class="level2 item8"><a href="/hosting-solutions/dedicated-servers" class="level2 item8"><span>Dedicated Servers</span></a></li><li class="level2 item9 last"><a href="/hosting-solutions/weve-gone-green" class="level2 item9 last"><span>We've Gone Green</span></a></li></ul></li><li class="level1 item7 parent"><a href="http://www.101sitehosting.com/members?language=English" class="level1 item7 parent"><span><span class="title">Support</span><span class="sub">tickets/tutorials</span></span></a><ul class="level2"><li class="level2 item1 first parent"><a href="https://www.101sitehosting.com/members/clientarea.php" class="level2 item1 first parent"><span>Client Area</span></a><ul class="level3"><li class="level3 item1 first"><a href="https://www.101sitehosting.com/members/clientarea.php" class="level3 item1 first"><span>Quick Overview</span></a></li><li class="level3 item2"><a href="https://www.101sitehosting.com/members/clientarea.php?action=domains" class="level3 item2"><span>My Domain Names</span></a></li><li class="level3 item4"><a href="https://www.101sitehosting.com/members/clientarea.php?action=products" class="level3 item4"><span>My Products &amp; Services</span></a></li><li class="level3 item5"><a href="https://www.101sitehosting.com/members/clientarea.php?action=invoices" class="level3 item5"><span>My Invoices</span></a></li><li class="level3 item6"><a href="https://www.101sitehosting.com/members/clientarea.php?action=emails" class="level3 item6"><span>My Emails</span></a></li><li class="level3 item7"><a href="https://www.101sitehosting.com/members/clientarea.php?action=details" class="level3 item7"><span>Update My Details</span></a></li><li class="level3 item8"><a href="https://www.101sitehosting.com/members/clientarea.php?action=changepw" class="level3 item8"><span>Change Password</span></a></li><li class="level3 item9"><a href="https://www.101sitehosting.com/members/clientarea.php?action=creditcard" class="level3 item9"><span>Change Credit Card Details</span></a></li><li class="level3 item10"><a href="https://www.101sitehosting.com/members/clientarea.php?action=addfunds" class="level3 item10"><span>Add Funds</span></a></li><li class="level3 item11"><a href="http://www.101sitehosting.com/members/downloads.php" class="level3 item11"><span>Downloads</span></a></li><li class="level3 item12 last"><a href="https://www.101sitehosting.com/members/logout.php" class="level3 item12 last"><span>Logout</span></a></li></ul></li><li class="level2 item2"><a href="http://www.101sitehosting.com/members/announcements.php" class="level2 item2"><span>Announcements</span></a></li><li class="level2 item3"><a href="https://www.101sitehosting.com/members/affiliates.php" class="level2 item3"><span>Affiliates</span></a></li><li class="level2 item4"><a href="http://www.101sitehosting.com/members/knowledgebase.php" class="level2 item4"><span>Knowledge Base</span></a></li><li class="level2 item5"><a href="http://www.101sitehosting.com/members/supporttickets.php" class="level2 item5"><span>My Support Tickets</span></a></li><li class="level2 item6"><a href="https://www.101sitehosting.com/members/submitticket.php" class="level2 item6"><span>Submit Ticket</span></a></li><li class="level2 item7"><a href="https://www.101sitehosting.com/members/domainchecker.php" class="level2 item7"><span>Domain Availability</span></a></li><li class="level2 item8"><a href="https://www.101sitehosting.com/members/serverstatus.php" class="level2 item8"><span>Server Status</span></a></li><li class="level2 item9"><a href="/../members/knowledgebase.php?action=displaycat&amp;catid=12" class="level2 item9"><span>Flash Tutorials</span></a></li><li class="level2 item10"><a href="/support/search-engine-submitter" class="level2 item10"><span>Search Engine Submitter</span></a></li><li class="level2 item11"><a href="/support/website-submission-tools" class="level2 item11"><span>Website Submission - tools</span></a></li><li class="level2 item12"><a href="/support/meta-tag-analyzer" class="level2 item12"><span>Meta Tag Analyzer</span></a></li><li class="level2 item13"><a href="/support/keyword-position-check" class="level2 item13"><span>Keyword Position Check</span></a></li><li class="level2 item14"><a href="/support/link-popularity-check" class="level2 item14"><span>Link Popularity Check</span></a></li><li class="level2 item15"><a href="/support/search-engine-saturation-check" class="level2 item15"><span>Search Engine Saturation Check</span></a></li><li class="level2 item16"><a href="/support/keyword-suggestion-tool" class="level2 item16"><span>Keyword Suggestion Tool</span></a></li><li class="level2 item17"><a href="/support/pagerank-check-tool" class="level2 item17"><span>PageRank Check Tool</span></a></li><li class="level2 item18"><a href="/support/data-centers-pagerank-check" class="level2 item18"><span>Data Centers PageRank Check</span></a></li><li class="level2 item19"><a href="/support/web-statscom" class="level2 item19"><span>Web-Stats.com</span></a></li><li class="level2 item20 last"><a href="/support/remote-assist" class="level2 item20 last"><span>Remote Assist</span></a></li></ul></li><li class="level1 item8 last"><a href="https://www.101sitehosting.com/members/cart.php" class="level1 item8 last"><span><span class="title">Order</span><span class="sub">sign up today</span></span></a></li></ul>
+						</div>
+								
+								
+						<div id="logo">
+							<img src="/members/templates/101new/101logo48.png" border="0">
+						</div>
+						
+												<div id="search">
+							<div class="default">
+	<div id="yoo-search-1" class="yoo-search">
+	
+		<form action="index.php" method="post">
+			<div class="searchbox" style="">
+				<button class="search-magnifier" type="submit" value="Search"></button>
+				<input class="searchfield" type="text" onfocus="if(this.value=='search...') this.value='';" onblur="if(this.value=='') this.value='search...';" value="search..." size="20" alt="search..." maxlength="20" name="searchword">
+				<button class="search-close" type="reset" value="Reset"></button>
+			</div>	
+			<input type="hidden" name="task" value="search">
+			<input type="hidden" name="option" value="com_search">
+		</form>		
+
+		<div class="resultbox" style="width: 400px;"></div>
+
+	</div>
+</div><script type="text/javascript">
+// <!--
+window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': 'http://101sitehosting.com/index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all&Itemid=99', 'fieldText': 'search...', 'msgResults': 'Search results', 'msgCategories': 'Search categories', 'msgNoResults': 'No results found', 'msgMoreResults': 'More results' }); });
+// -->
+</script>
+
+						</div>
+						
+												<div id="banner">
+							<span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=jxEmLVeCBvX0cvaaHjTocdrdB8TCKt5RY3Hkx86Ymic5099ZSIan"></script></span>
+						</div>
+						
+					</div>
+					<!-- header end -->
+					
+					
+					<div id="wrapper">
+					
+						<div class="wrapper-container-t">
+							<div class="wrapper-tl"></div>
+							<div class="wrapper-tr"></div>
+							<div class="wrapper-t"></div>
+						</div>
+	
+						<div class="wrapper-b">
+							<div class="wrapper-l">
+								<div class="wrapper-r">
+									<div class="wrapper-bl">
+										<div class="wrapper-br">
+											<div class="wrapper-container">
+
+											
+											<div id="middle">
+												<div class="background">
+				
+																						
+													<div id="main">
+														<div id="main_container" class="clearfix">
+							
+																			
+															<div id="mainmiddle" class="floatbox">
+				
+																												
+																<div id="content">
+																	<div id="content_container" class="clearfix">
+				
+																										
+																														
+																		<div class="floatbox">
+																			
+																			<div id="easybook">
+<h2 class="componentheading">Customer Testimonials</h2>
+<div style="padding-top: 10px;">
+<br>
+<br>
+
+<div class="easy_frame" style="  ">
+<div class="easy_top" style="  ">
+<div class="easy_top_left">
+<b class="easy_big"><a name="gbentry_997">Jack</a></b>
+<b class="easy_small">&nbsp;&nbsp;&nbsp;
+29 November 1999 16:00 | </b></div>
+<div class="easy_top_right">
+			
+<img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"></div>
+<div style="clear: both;"></div>
+</div>
+
+<div class="easy_content">
+ We find that 101sitehosting is really one of the best webhosting companies in the internet. <br>You have very good and friendly support. When we needed help - you were always there and helped us promptly. Thank you so much. </div>
+
+</div><p class="clr"></p>
+<div class="easy_frame" style="  ">
+<div class="easy_top" style="  ">
+<div class="easy_top_left">
+<b class="easy_big"><a name="gbentry_996">Ryan Mills</a></b>
+<b class="easy_small">&nbsp;&nbsp;&nbsp;
+29 November 1999 16:00 | </b></div>
+<div class="easy_top_right">
+			
+<img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"></div>
+<div style="clear: both;"></div>
+</div>
+<div class="easy_contact">		
+<a href="http://www.targetshootingshop.co.uk" target="_blank"><img src="/components/com_easybook/images/world.png" alt="http://www.targetshootingshop.co.uk" height="16" width="16" class="png" hspace="3" border="0"></a></div>
+
+<div class="easy_content">
+ I launched an online shop with a different host, a company I had 2 other sites hosted with. As the cart software was very script heavy I got permissions problems with their server and they could not get me the answers I needed. I\'m not an expert web builder but I have a good bit of experience. Then I remembered I had another site hosted at 101 that never seemed to go wrong, I contacted Gerry and the site was up and running perfectly in hours. My previous host did get me the answers why my scripts weren\'t executing on his servers... 3 DAYS LATER!!! Gerry\'s support is instant and to the point, in basic language if you are a beginner and technical if you are more experienced. I  recommend them to everyone and will only use them in the future for all my sites.</div>
+
+</div><p class="clr"></p>
+<div class="easy_frame" style="  ">
+<div class="easy_top" style="  ">
+<div class="easy_top_left">
+<b class="easy_big"><a name="gbentry_998">Ted Duncan</a></b>
+<b class="easy_small">&nbsp;&nbsp;&nbsp;
+29 November 1999 16:00 | </b></div>
+<div class="easy_top_right">
+			
+<img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"></div>
+<div style="clear: both;"></div>
+</div>
+<div class="easy_contact">		
+<a href="http://www.tedzworks.com" target="_blank"><img src="/components/com_easybook/images/world.png" alt="http://www.tedzworks.com" height="16" width="16" class="png" hspace="3" border="0"></a></div>
+
+<div class="easy_content">
+ I have been with 101 Sitehosting since Nov. \'04 and have never had a problem. Keep up the good service. <img src="http://101sitehosting.com/components/com_easybook/images/smilies/sm_smile.gif" border="0" alt=":)" title=":)"> </div>
+
+</div><p class="clr"></p>
+<div class="easy_frame" style="  ">
+<div class="easy_top" style="  ">
+<div class="easy_top_left">
+<b class="easy_big"><a name="gbentry_999">John</a></b>
+<b class="easy_small">&nbsp;&nbsp;&nbsp;
+29 November 1999 16:00 | </b></div>
+<div class="easy_top_right">
+			
+<img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"></div>
+<div style="clear: both;"></div>
+</div>
+<div class="easy_contact">		
+<a href="http://www.topblokeday.com" target="_blank"><img src="/components/com_easybook/images/world.png" alt="http://www.topblokeday.com" height="16" width="16" class="png" hspace="3" border="0"></a></div>
+
+<div class="easy_content">
+ You guys have supplied a level of support that is outstanding. Even to the point where you answer questions on things that really are not your responsibility. Keep it up</div>
+
+</div><p class="clr"></p>
+<div class="easy_frame" style="  ">
+<div class="easy_top" style="  ">
+<div class="easy_top_left">
+<b class="easy_big"><a name="gbentry_1000">Pete McQueen</a></b>
+<b class="easy_small">&nbsp;&nbsp;&nbsp;
+29 November 1999 16:00 | </b></div>
+<div class="easy_top_right">
+			
+<img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"><img src="/components/com_easybook/images/sun.png" alt="Rating" border="0" class="easy_align_middle"></div>
+<div style="clear: both;"></div>
+</div>
+<div class="easy_contact">		
+<a href="http://www.debttochecks.com" target="_blank"><img src="/components/com_easybook/images/world.png" alt="http://www.debttochecks.com" height="16" width="16" class="png" hspace="3" border="0"></a></div>
+
+<div class="easy_content">
+ Just a Letter of thanks,<br>I bought the Starter package in July of this year, not even knowing what a nameserver was. My site has been running excellent, and the staff has been exceptional in assisting me with my mistakes in setting up the site. Great Job Gerry! <img src="http://101sitehosting.com/components/com_easybook/images/smilies/sm_biggrin.gif" border="0" alt=":grin" title=":grin"> </div>
+
+</div><p class="clr"></p>
+<div><br><b class="easy_pagination">67<br>
+Entries in guestbook</b>
+</div>
+&lt;&lt; <a title="Start" href="/customer-testimonials" class="pagenav">Start</a> &lt; <a title="Prev" href="/customer-testimonials?start=45" class="pagenav">Prev</a> <span class="pagenav">11</span> <a title="12" href="/customer-testimonials?start=55" class="pagenav">12</a> <a title="13" href="/customer-testimonials?start=60" class="pagenav">13</a> <a title="14" href="/customer-testimonials?start=65" class="pagenav">14</a> <a title="Next" href="/customer-testimonials?start=55" class="pagenav">Next</a> &gt; <a title="End" href="/customer-testimonials?start=65" class="pagenav">End</a> &gt;&gt;<p id="easyfooter" align="center">
+<a href="http://www.easy-joomla.org/" target="_blank">
+<img src="http://101sitehosting.com/components/com_easybook/images/logo_sm.png" class="png" alt="EasyBook" border="0" width="138" height="26">
+</a></p>
+</div>
+</div>
+																		</div>
+								
+																						
+																	</div>
+																</div>
+																<!-- content end -->
+								
+															</div>
+															<!-- mainmiddle end -->
+						
+																			
+														</div>
+													</div>
+													<!-- main end -->
+				
+												</div>
+											</div>
+											<!-- middle end -->
+											
+											
+											<div id="footer">
+												<a class="anchor" href="#page">&nbsp;</a>
+												<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/terms-and-conditions" class="mainlevel">Terms and Conditions</a></td></tr></tbody></table><table border="0" align="center"><tbody><tr><td align="left"><div>All Transactions are in US Dollars.<br></div>101sitehosting.com is registered and located in Canada<br></td><td> <img src="/images/stories/icons/cclogos.gif" border="0"></td><td align="right">90 day refund guarantee on all purchases.<br>No refunds on hosting services already provided.<br></td></tr></tbody></table>
+												
+											</div>
+											<!-- footer end -->
+
+											</div>
+										</div>		
+									</div>
+								</div>		
+							</div>
+						</div>
+					</div>
+					<!-- wrapper end -->
+
+				</div>		
+			</div>
+		</div>		
+	</div>
+	<!-- page-body end -->
+
+
+
+
+<script type="text/javascript" src="http://server4.web-stat.com/wtslog.js">
+</script><script type="text/javascript">wtslog('al5042','3','http');
+</script><noscript><a href="http://www.web-stat.com">
+<img src="http://server4.web-stat.com/3/al5042.gif" style="border:0px;" alt="web counter"></a></noscript>
+<!-- End Web-Stat code v 2.0 -->
+<!-- begin Google conversion tracking code -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-412974-1";
+_udn="101sitehosting.com";
+urchinTracker();
+</script>
+<meta name="google-site-verification" content="xjMcPUBn1mc83pbcSGpartVkbgCoCSAccrBaaLvzhP8">
+<!-- RAF Body TAG CLOUD -->
+<img src="/index2.php?option=com_rafcloud" width="0" height="0" alt="">
+
+</body><!-- <img src="http://www.101sitehosting.com/images/spacer.gif" border="0" width="0" height="0" align="right" style="position:absolute;width:0px;height:0px;" alt="Welcome to 101sitehosting.com. If you are visually impaired and would like to check the availability of a domain, make a purchase, or just have questions please call us at (800) 861-1888. You may also email us at sales@101sitehosting.com to request a website service callback.  We are currently in the process of implementing more accessibility for our visitors so feel free to check back in the near future. Thank you for your interest in our company."> --><!-- Begin Web-Stat code 2.0 http/html --></html>

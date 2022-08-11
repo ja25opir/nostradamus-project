@@ -1,0 +1,657 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="en-gb">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="copyright" content="2002-2006 phpBB Group">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<title>4w-Forums.com - View topic - For Your Eyes Only</title>
+
+<link rel="stylesheet" href="./styles/acidtech/theme/stylesheet.css" type="text/css">
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="./styles/acidtech/theme/ie7.css" />
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+
+
+function popup(url, width, height, name)
+{
+	if (!name)
+	{
+		name = '_popup';
+	}
+
+	window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
+	return false;
+}
+
+function jumpto()
+{
+	var page = prompt('Enter the page number you wish to go to:', '1');
+	var perpage = '';
+	var base_url = '';
+
+	if (page !== null && !isNaN(page) && page > 0)
+	{
+		document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * perpage);
+	}
+}
+
+/**
+* Find a member
+*/
+function find_username(url)
+{
+	popup(url, 760, 570, '_usersearch');
+	return false;
+}
+
+/**
+* Mark/unmark checklist
+* id = ID of parent container, name = name prefix, state = state [true/false]
+*/
+function marklist(id, name, state)
+{
+	var parent = document.getElementById(id);
+	if (!parent)
+	{
+		eval('parent = document.' + id);
+	}
+
+	if (!parent)
+	{
+		return;
+	}
+
+	var rb = parent.getElementsByTagName('input');
+	
+	for (var r = 0; r < rb.length; r++)
+	{
+		if (rb[r].name.substr(0, name.length) == name)
+		{
+			rb[r].checked = state;
+		}
+	}
+}
+
+
+if(navigator.userAgent && navigator.userAgent.indexOf('Mac OS X') > 0)
+{
+	document.write('<link rel="stylesheet" href="./styles/acidtech/theme/mac.css" type="text/css" />');
+}
+
+// ]]>
+</script>
+</head>
+<body class="ltr">
+
+<a name="top"></a>
+
+<table border="0" cellspacing="0" cellpadding="0" width="800" id="maintable" align="center">
+<tbody><tr>
+	<td id="logorow" align="center"><div id="logo-left"><div id="logo-right">
+		<a href="./index.php"><img src="./styles/acidtech/imageset/site_logo.gif" alt="" title=""></a>
+	</div></div></td>
+</tr>
+<tr>
+	<td class="navrow">
+		<a href="./ucp.php?mode=register">Register</a> • 		<a href="./faq.php">FAQ</a>
+		 • <a href="./search.php">Search</a> • <a href="./ucp.php?mode=login">Login</a>         • <a href="http://www.4w-wrestling.com">4w Wrestling</a> 
+	</td>
+</tr>
+<tr>
+	<td id="contentrow">
+
+
+<table width="100%" cellspacing="0">
+<tbody><tr>
+	<td class="gensmall"></td>
+	<td class="gensmall" align="right">It is currently Fri Sep 17, 2010 6:53 am<br></td>
+</tr>
+</tbody></table>
+
+		<p class="searchbar">
+		<span style="float: left;"><a href="./search.php?search_id=unanswered">View unanswered posts</a> | <a href="./search.php?search_id=active_topics">View active topics</a></span>
+			</p>
+	
+	<br style="clear: both;">
+
+	<table class="tablebg" width="100%" cellspacing="0" cellpadding="0" style="margin-top: 5px;">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php">Board index</a> » <a href="./viewforum.php?f=11">4CW Fantasy Wrestling</a> » <a href="./viewforum.php?f=35">Roleplay</a> » <a href="./viewforum.php?f=100">Retired, MIA, Injured...</a> » <a href="./viewforum.php?f=77">Retired: Joseph Bennison</a></p>
+			<p class="datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>
+	<br>
+<div id="pageheader">
+	<h2><a class="titles" href="./viewtopic.php?f=77&amp;t=10910&amp;start=0">For Your Eyes Only</a></h2>
+
+	<p class="moderators">Moderator: <a style="color:#888888;" href="./memberlist.php?mode=group&amp;g=7">4CW Bookers</a></p>
+</div>
+
+<br clear="all"><br>
+
+<div id="pagecontent">
+
+	<table width="100%" cellspacing="1">
+	<tbody><tr>
+					<td align="left" valign="middle" nowrap="nowrap">
+				<a href="./posting.php?mode=post&amp;f=77"><img src="./styles/acidtech/imageset/en/button_topic_new.gif" width="101" height="20" alt="Post new topic" title="Post new topic"></a>&nbsp;<a href="./posting.php?mode=reply&amp;f=77&amp;t=10910"><img src="./styles/acidtech/imageset/en/button_topic_reply.gif" width="103" height="20" alt="Reply to topic" title="Reply to topic"></a>			</td>
+					<td class="nav" valign="middle" nowrap="nowrap">&nbsp;Page <strong>1</strong> of <strong>1</strong><br></td>
+			<td class="gensmall" nowrap="nowrap">&nbsp;[ 6 posts ]&nbsp;</td>
+			<td class="gensmall" width="100%" align="right" nowrap="nowrap"></td>
+			</tr>
+	</tbody></table>
+
+	<table class="tablebg" width="100%" cellspacing="0" style="border-bottom-width: 0;">
+	<caption><div class="cap-left"><div class="cap-right">&nbsp;For Your Eyes Only&nbsp;</div></div></caption>	<tbody><tr>
+		<td class="cat">
+			<table width="100%" cellspacing="0">
+			<tbody><tr>
+				<td class="nav" nowrap="nowrap">
+				<a href="./viewtopic.php?f=77&amp;t=10910&amp;start=0&amp;view=print" title="Print view">Print view</a>				</td>
+				<td class="nav" align="right" nowrap="nowrap"><a href="./viewtopic.php?f=77&amp;t=10910&amp;view=previous">Previous topic</a> | <a href="./viewtopic.php?f=77&amp;t=10910&amp;view=next">Next topic</a>&nbsp;</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+
+	<table class="tablebg" width="100%" cellspacing="0" style="border-top-width: 0;">
+		<tbody><tr>
+			<th>Author</th>
+			<th width="100%">Message</th>
+		</tr>
+	<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p135905"></a>
+				<div class="postauthor" style="color: #888888">Kage</div>
+				<div class="posterrank">Hall of Famer</div><div class="postrankimg"><img src="./images/ranks/rank_mvp.gif" alt="Hall of Famer" title="Hall of Famer"></div><div class="postavatar"><img src="./download/file.php?avatar=70_1202288729.gif" width="100" height="87" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 8:21 am<br><b>Posts:</b> 2230<br><b>Location:</b> Beaverton, Oregon				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=135905#p135905"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;For Your Eyes Only</div>
+
+					
+						<div class="postbody">There's something to be said about indulgence. Sometimes the body just can't endure what the mind wants, no matter how high your tolerance is or how hard you can push yourself. There comes a time in everyone's life, and in some cases multiple times, when you have to learn to let go. Whether it be ending a twenty year marriage with the woman who was once the love of your life or discovering that life itself does go on without the drugs and that everything around you will remain unaltered after your psychedelic mind trip is over, you will reach a certain point in these physical and mental struggles where you stop and say enough is enough. Never forget that things can go on for as long as we allow them to, and only you have the power to put a stop to it.<br><br>I'll never forget the day my dad called me on the phone after my mother asked for a divorce. He said, "Son, I have to let her go. She's not happy here in Alaska or with me." Upon reading that, my father may come across as weak. Sure he could've tried harder to make things work or gone to marriage counseling but when you start all over again, you don't backtrack and erase the past. My parents issues with one another were never subdued and they didn't ever try and hide confrontation from us kids. I vividly remember the time when my mom threw a fork at my dads head from the kitchen while he was watching the television. Or the time we picked him up from the bar after his guiding trip and he backhanded her across the chest on the way home, my younger sister and I jumped out of the car and we ran. We were kids at the time.<br><br>But I don't look down on my father for giving up so easily. No, I believe that once something is damaged, it can only become more damaging. Some things can be repaired, like for instance, a car or a house. But not people. The hurt certain people inflict on us and the agony they leave us with never really goes away. After awhile your face becomes a shield which hides your true feelings, expressions, emotions and before you know you've grown accustomed to your costume. Our brains were developed to process and interpret information and everyone's perception on any subject is slightly different from the next person. We don't forget the upsetting moments of our lives, you can't just paint a black wall over the dark periods and pretend they never existed because they did.<br><br>I love my parents equally, my mother always was the one who got us up and ready for school in the mornings, cleaned the house, drove my brother and I to our baseball games and my sister to ballet recitals. She held the family together, she was the glue as most mothers are. My dad worked, and worked and worked some more. He supported our family entirely. He had fishing charters in the summer, ten hour days in the sun on the river. You know how exhausted you are after going rafting with your buddies for the day? Imagine doing this everyday for three months straight. No brakes. After taking the fall off, he'd go up North to the slope for the winter, working even longer days with very little sunlight in -60 degree weather building fucking iceroads from December to mid-April. No wonder the man was an alcoholic.<br><br>And that's what started it all. Alcohol. My mom told me she had her fun (hell, she was drinking at a Judas Priest concert while pregnant with my older brother). But she quit after having Philip who was a bastard child. And that's the biggest problem she had with my dad. He could never stop until he passed out. It wasn't one or two beers, it was ten or twelve. We had fun on family vacations to Florida, that was when my mom was most lenient with my dad but as soon as we got back it was as if nothing had changed. Coffee table and furniture is getting flipped upside down. I think this has something to do with why me, my little sister Olivia and my older brother Philip are all generally pretty quiet. We'd always go outside when my parents started arguing and walk down the trail and throw sticks into the Kenai River, just listening to the water and not really even talking. My dad's adopted parents were our neighbors and they'd owned the property out there since the 1940's.<br><br>I still remember the day I got hooked on professional wrestling. I was in the 5th grade doing my homework when I saw The Undertaker. Here was this man with purple gloves, long black hair, pale skin and a trench coat. He was tall and menacing and when his eyes rolled into the back of his head I was pulled in from that moment. Passion grabbed a hold of me. I never missed a single episode of Monday Night Raw for nine years. Even when we took family trips I remember watching wrestling in the hotel room while everyone was down at the pool. I was a junkie, I couldn't get enough of it. I'd sit in front of the VCR and record the shows and if there was a part of the show I didn't like, I'd rewind the tape during the commercials and record over it. Dead serious. I think maybe being surrounded by fighting and violence my entire life is what initially captured my attention.<br><br>My parents thought it was just a phase and watched as this monster of a habit grew into something very real. By middle school, I had nearly every action figure. I'd run my own storylines, talk like the heroes I watched on tv and be in my own little world for hours at a time. It wasn't long after this when I decided I wanted to wrestle for a living. Philip and I started wrestling in the living room, making our poor sister who was totally interested in what we were doing (not) record the whole thing. A layer of blankets covered the floor and we went hog wild, hitting each other with pie tins we bought from the store. We called it the FHW (France Hardcore Wrestling) and for our big matches we'd record outside, where we'd construct tables using my dad's plywood. His ladder was often put to use too and sometimes we'd bust out the red food coloring and my mom would have to wash out our clothes caked in dye and dirt.<br><br>When my brother moved to Los Angeles to go to Musicians Institute (MIT) to chase after his dream of becoming a big shot electric guitarist, the FHW died but my love for wrestling did not. I would move to Portland, Oregon as soon as I graduated high school to live with my brother and go to wrestling school. At this time my mom probably thought I was crazy, she didn't want me to hurt myself and my dad probably questioned my sexuality. He'd watch Raw with me sometimes when Monday Night Football was on and thought big oily guys in underwear grappling with each other was gay. He eventually bought me my own tv for my bedroom so he wouldn't have to watch "this shit" as he called it. We were flipping back and forth between football and wrestling there for awhile. To me, I didn't see it as two full grown half-naked men in a scripted fight. I saw it as entertaining. I appreciated what they did and all my life I've always wanted to be on a stage having everyone's attention and try and get people to keep coming back. When I was in middle school, my brother and I made a ten song record. He played bass and we put a drum program over it. I wanted to be the front man. The singer. Except I didn't sing, I screamed and eventually blew my voice out. That's when I knew that wrestling was what I wanted to do.<br><br>So back to Portland. I moved in with my brother and Clinton, they'd gone to kindergarten together so it made the living situation easy. But we also knew how to get on each others nerves. Mine and Philip's bedrooms were connected to the upstairs bathroom and whenever he'd have a lady over I'd stand at the bathroom door and moan just to piss him off, he eventually moved his mattress down to the garage in a fit of rage in the middle of the night. I never partied in high school, Philip and my cousins let me drink for the first time on my fourteenth birthday. My parents would let me drink when family was over, my dad told me "if you can open it, you can drink it." But I didn't have much friends in high school, I was too caught up in wrestling. It was after I left the house that I realized I could start experimenting. It started with a mohawk because I wanted to do something different, then I got a tattoo on my arm with my vacation check from work (I've gotten one every year since). Then one night when I was drunk I thought it'd be a good idea to get my nipples pierced. Thanks to Nay Figley, Clinton's girlfriend, who used safety pins to get the job done.<br><br>Through Clinton, I met Dave Briski, one of the nicest guys I know. He used to wrestle for this company in Portland called WCWC (West Coast Wrestling Connection) before he injured his back in a car accident and still kept in touch with some of the guys. He gave me the number to the promoter Jeff Manning, who I told I was interested and I got hooked up with my trainer Cedric and that's how I got my foot in the door. My first class was brutal, I was scrawny (140lbs.) and took at least 200+ bumps, just landing on my back non-stop until I got it right. My next class, I learned how to run the ropes and had lines all across my back and was pissing blood. It looked like I'd been whipped with a belt, welts that felt like a bitch. My third class consisted of running into the turnbuckles while my back was still tender. At this point I considered giving it up, pain didn't set in until the bus ride home and the day after classes I could barely move. I'd just barely recover and it was time for training again. I couldn't find time to get into the gym to bulk up because I was too sore and became a chronic pot smoker to lessen the pain.<br><br>After a month or so of classes, JT Allen (he was a referee for WCWC) took a bunch of us trainees down to Medford, four hours south of Portland to work our first show as security. I had fun on the trip but I knew when I got back I needed to step away. The bus rides were long and scary, this one time in particular I was waiting for the bus while this drunk bum was digging through a recyclable garbage bin of glass bottles singing "Rockin' Robin" a song recorded by Bobby Day in 1958 and on this night it was sung quite horribly. So I did what I knew I would do, I left for an extended period to heal up and put on some muscle. I came back bigger, badder and better, but the ring still hurt the same. I got addicted to Perocet and Adderall, smoked like a chimney and drank like a sailor after the shows and cursed like one too. I'd drink a half gallon of vodka to myself and wake up to a trashed hotel room and swear to the people at the front counter and the cops that I didn't do it.<br><br>I knew my lungs would turn to black and my liver shot to hell, but I was doing what I loved and what I loved came with a heavy toll that paid a price on my body over the years. But we're dying from the moment were born and somethings got to kill us so it may as well be this. That's the motto I live by when people ask me why I chose professional wrestling. I can't explain it, I just love the rush of having 20,000 people and 40,000 eyes focused on me. I enjoy the energy I can summon up inside of a building simply by yelling at the top of my lungs and hearing those same people shout back. It gets me off. It gets my adrenaline pumping. But I'm learning to let go and eventually there will come a time when I won't need to grab back at the passion that first grabbed at me all those years ago and sucked me in. And as I sit here in Portland, Oregon where it all began, and I'm reading Hugh Knowles' invitation to the Autumn Awakening Super Show on September 19th, I know I'll be present. There's not a doubt in my mind. But it's the question of can I compete that I can't answer because sometimes the body just can't endure what the mind wants, no matter how high your tolerance is or how hard you can push yourself. Then again, I never did get that 4CW World Heavyweight Championship match I've always wanted...</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><img src="http://i28.photobucket.com/albums/c206/kendra_eve_06/Untitled-1-2.gif" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Wed Sep 08, 2010 8:46 am</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=70"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=70"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p135906"></a>
+				<div class="postauthor" style="color: #888888">Kage</div>
+				<div class="posterrank">Hall of Famer</div><div class="postrankimg"><img src="./images/ranks/rank_mvp.gif" alt="Hall of Famer" title="Hall of Famer"></div><div class="postavatar"><img src="./download/file.php?avatar=70_1202288729.gif" width="100" height="87" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 8:21 am<br><b>Posts:</b> 2230<br><b>Location:</b> Beaverton, Oregon				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=135906#p135906"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: Here It Is</div>
+
+					
+						<div class="postbody">I'd really appreciate some reviews on this one. It's the first piece of work I've done in a year and a half and it came straight from the heart. Most of it is true, including all of the names, places and the wrestling school I went to. The only difference is I didn't end up going back to the school for a second time, I just ended up finding my real passion in music again. Took me awhile and there's no real dialogue to speak of, it reads more like a life story / journal but I'm really pleased with it and would love some feedback. Thanks.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><img src="http://i28.photobucket.com/albums/c206/kendra_eve_06/Untitled-1-2.gif" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Wed Sep 08, 2010 8:51 am</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=70"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=70"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p136316"></a>
+				<div class="postauthor" style="color: #888888">Kage</div>
+				<div class="posterrank">Hall of Famer</div><div class="postrankimg"><img src="./images/ranks/rank_mvp.gif" alt="Hall of Famer" title="Hall of Famer"></div><div class="postavatar"><img src="./download/file.php?avatar=70_1202288729.gif" width="100" height="87" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 8:21 am<br><b>Posts:</b> 2230<br><b>Location:</b> Beaverton, Oregon				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=136316#p136316"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: For Your Eyes Only</div>
+
+					
+						<div class="postbody">No reviews? I thought 4CW was back, this looks like the same old ghost town we've been seeing for the last couple years. You review my roleplay and I'll make sure I do yours in return, let's actually make it look like we're interested in the new movement guys!</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><img src="http://i28.photobucket.com/albums/c206/kendra_eve_06/Untitled-1-2.gif" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Mon Sep 13, 2010 12:46 am</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=70"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=70"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p136317"></a>
+				<div class="postauthor">Sery</div>
+				<div class="posterrank">"The Blueprint"</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="&quot;The Blueprint&quot;" title="&quot;The Blueprint&quot;"></div><div class="postavatar"><img src="./download/file.php?avatar=60_1264816557.gif" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 3:18 am<br><b>Posts:</b> 7903<br><b>Location:</b> Antigo, Wisconsin USA				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=136317#p136317"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: For Your Eyes Only</div>
+
+					
+						<div class="postbody"><div class="quotewrapper"><div class="quotetitle">Kage wrote:</div><div class="quotecontent">No reviews? I thought 4CW was back, this looks like the same old ghost town we've been seeing for the last couple years. You review my roleplay and I'll make sure I do yours in return, let's actually make it look like we're interested in the new movement guys!</div></div><br><br>I was just about to read it then got sidetracked. Football is on. So I will have to read it tomorrow.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><span style="color: #00BFFF"><span style="font-size: 85%; line-height: normal">POTM June 2010, February and July 2008, POTY 2008<br></span></span><span style="font-size: 85%; line-height: normal"><span style="color: #00BFFF">Sery Slice - 6-5-1 </span></span> <br><span style="font-size: 85%; line-height: normal"><span style="color: #00BFFF">2009-010 NFL Pick Ems' Winner </span></span><br><span style="font-size: 85%; line-height: normal"><span style="color: #00BFFF">Loves TNA. </span></span><br><img src="http://i2.photobucket.com/albums/y12/strung13/HBK.png" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Mon Sep 13, 2010 12:48 am</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=60"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=60"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p136361"></a>
+				<div class="postauthor" style="color: #FFDD66">Supreme</div>
+				<div class="posterrank">Hall of Famer</div><div class="postrankimg"><img src="./images/ranks/rank_mvp.gif" alt="Hall of Famer" title="Hall of Famer"></div><div class="postavatar"><img src="./download/file.php?avatar=59_1205467108.jpg" width="99" height="56" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 3:14 am<br><b>Posts:</b> 1083<br><b>Location:</b> Inside ... your_mom				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=136361#p136361"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: For Your Eyes Only</div>
+
+					
+						<div class="postbody">Sorry I haven't reviewed this sooner buddy. I just noticed it.<br><br>I have to say though. Holy shit, that was quite the RP. For most of it I wasn't sure if you were talking about yourself, or if you were talking your character. Every line of that story felt truly from the heart. Now that I know that it's your life story as well as your characters, I can see why.  I almost screamed like a little girl when I read that last paragraph too. I'm hoping this is signaling your return to 4CW, because that would be amazing. A truly great read from one of the best story tellers 4CW has ever had.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><span style="color: #FFFF00">I tried to bring sexy back ... but I lost the receipt.</span><br><img src="http://img.photobucket.com/albums/v483/Reamer/supremebanner.jpg" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Mon Sep 13, 2010 1:20 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=59"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=59"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p136556"></a>
+				<div class="postauthor">Sery</div>
+				<div class="posterrank">"The Blueprint"</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="&quot;The Blueprint&quot;" title="&quot;The Blueprint&quot;"></div><div class="postavatar"><img src="./download/file.php?avatar=60_1264816557.gif" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 3:18 am<br><b>Posts:</b> 7903<br><b>Location:</b> Antigo, Wisconsin USA				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=136556#p136556"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: For Your Eyes Only</div>
+
+					
+						<div class="postbody">One of the best RPs I have ever read. The pure emotion in it takes it up to another level. I could tell that alot of these experiences may have happened to you which made this feel very genuine. Very good roleplay here. Its a shame you aren't still in 4CW because with writing like this you would def. be in the World Title picture. Probably the World Champ.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><span style="color: #00BFFF"><span style="font-size: 85%; line-height: normal">POTM June 2010, February and July 2008, POTY 2008<br></span></span><span style="font-size: 85%; line-height: normal"><span style="color: #00BFFF">Sery Slice - 6-5-1 </span></span> <br><span style="font-size: 85%; line-height: normal"><span style="color: #00BFFF">2009-010 NFL Pick Ems' Winner </span></span><br><span style="font-size: 85%; line-height: normal"><span style="color: #00BFFF">Loves TNA. </span></span><br><img src="http://i2.photobucket.com/albums/y12/strung13/HBK.png" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Tue Sep 14, 2010 11:54 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=60"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=60"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr align="center">
+		<td class="cat" colspan="2"><form name="viewtopic" method="post" action="./viewtopic.php?f=77&amp;t=10910&amp;start=0"><span class="gensmall">Display posts from previous:</span> <select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select>&nbsp;<span class="gensmall">Sort by</span> <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select> <select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select>&nbsp;<input class="btnlite" type="submit" value="Go" name="sort"></form></td>
+	</tr>
+	</tbody></table>
+
+	<table width="100%" cellspacing="1">
+	<tbody><tr>
+					<td align="left" valign="middle" nowrap="nowrap">
+				<a href="./posting.php?mode=post&amp;f=77"><img src="./styles/acidtech/imageset/en/button_topic_new.gif" width="101" height="20" alt="Post new topic" title="Post new topic"></a>&nbsp;<a href="./posting.php?mode=reply&amp;f=77&amp;t=10910"><img src="./styles/acidtech/imageset/en/button_topic_reply.gif" width="103" height="20" alt="Reply to topic" title="Reply to topic"></a>			</td>
+					<td class="nav" valign="middle" nowrap="nowrap">&nbsp;Page <strong>1</strong> of <strong>1</strong><br></td>
+			<td class="gensmall" nowrap="nowrap">&nbsp;[ 6 posts ]&nbsp;</td>
+			<td class="gensmall" width="100%" align="right" nowrap="nowrap"></td>
+			</tr>
+	</tbody></table>
+
+</div>
+
+<div id="pagefooter"></div>
+
+<br clear="all">
+
+<table class="tablebg" width="100%" cellspacing="0" cellpadding="0" style="margin-top: 5px;">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php">Board index</a> » <a href="./viewforum.php?f=11">4CW Fantasy Wrestling</a> » <a href="./viewforum.php?f=35">Roleplay</a> » <a href="./viewforum.php?f=100">Retired, MIA, Injured...</a> » <a href="./viewforum.php?f=77">Retired: Joseph Bennison</a></p>
+			<p class="datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>	<br clear="all">
+
+	<table class="tablebg" width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="cat"><h4>Who is online</h4></td>
+	</tr>
+	<tr>
+		<td class="row1"><p class="gensmall">Users browsing this forum: No registered users and 1 guest</p></td>
+	</tr>
+	</tbody></table>
+
+<br clear="all">
+
+<table width="100%" cellspacing="1">
+<tbody><tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">You <strong>cannot</strong> post new topics in this forum<br>You <strong>cannot</strong> reply to topics in this forum<br>You <strong>cannot</strong> edit your posts in this forum<br>You <strong>cannot</strong> delete your posts in this forum<br>You <strong>cannot</strong> post attachments in this forum<br></span></td>
+</tr>
+</tbody></table>
+
+<br clear="all">
+
+<table width="100%" cellspacing="0">
+<tbody><tr>
+	<td><form method="post" name="search" action="./search.php?t=10910"><span class="gensmall">Search for:</span> <input class="post" type="text" name="keywords" size="20"> <input class="btnlite" type="submit" value="Go"></form></td>
+	<td align="right">	<form method="post" name="jumpbox" action="./viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}">
+
+	<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:</span>&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ document.forms['jumpbox'].submit() }">
+
+					<option value="-1">Select a forum</option>
+		<option value="-1">------------------</option>			<option value="1">4w Announcements And Introductions</option>
+					<option value="2">&nbsp; &nbsp;McMahon's Office</option>
+					<option value="3">Pro Wrestling News And Discussion</option>
+					<option value="4">&nbsp; &nbsp;WWE Universe</option>
+					<option value="5">&nbsp; &nbsp;Rawzone</option>
+					<option value="6">&nbsp; &nbsp;The SmackDown Hotel</option>
+					<option value="180">&nbsp; &nbsp;The NXT Big Thing</option>
+					<option value="14">&nbsp; &nbsp;In Your House</option>
+					<option value="15">&nbsp; &nbsp;Cross The Line</option>
+					<option value="16">&nbsp; &nbsp;The Indies</option>
+					<option value="13">&nbsp; &nbsp;&nbsp; &nbsp;The Land Of Extreme (ECW)</option>
+					<option value="170">&nbsp; &nbsp;Highlight Reel</option>
+					<option value="189">&nbsp; &nbsp;&nbsp; &nbsp;WWE</option>
+					<option value="190">&nbsp; &nbsp;&nbsp; &nbsp;TNA</option>
+					<option value="191">&nbsp; &nbsp;&nbsp; &nbsp;ROH</option>
+					<option value="193">&nbsp; &nbsp;&nbsp; &nbsp;Indies</option>
+					<option value="7">Off-Topic Forums</option>
+					<option value="17">&nbsp; &nbsp;The VIP Lounge</option>
+					<option value="18">&nbsp; &nbsp;The Palace Of Wisdom</option>
+					<option value="19">&nbsp; &nbsp;Rated R Forum</option>
+					<option value="8">Games</option>
+					<option value="90">&nbsp; &nbsp;Greatest ________ of All Time</option>
+					<option value="21">&nbsp; &nbsp;War Games</option>
+					<option value="22">&nbsp; &nbsp;Wrestling Draft</option>
+					<option value="169">&nbsp; &nbsp;&nbsp; &nbsp;Previous Drafts</option>
+					<option value="88">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Drafts #12 and 13</option>
+					<option value="96">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #14</option>
+					<option value="116">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #15</option>
+					<option value="138">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #16</option>
+					<option value="141">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #17</option>
+					<option value="154">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #18</option>
+					<option value="165">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #19</option>
+					<option value="174">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #20</option>
+					<option value="185">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #21</option>
+					<option value="199">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #22</option>
+					<option value="187">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Greatest Draft Card of All Time</option>
+					<option value="143">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;GM: Generations Archive</option>
+					<option value="148">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;DWA</option>
+					<option value="146">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;HWA</option>
+					<option value="144">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;IWL</option>
+					<option value="156">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;JWE</option>
+					<option value="147">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;NGS</option>
+					<option value="23">&nbsp; &nbsp;GM Game</option>
+					<option value="195">&nbsp; &nbsp;&nbsp; &nbsp;DWA</option>
+					<option value="95">&nbsp; &nbsp;&nbsp; &nbsp;GWA</option>
+					<option value="71">&nbsp; &nbsp;&nbsp; &nbsp;IFW</option>
+					<option value="194">&nbsp; &nbsp;&nbsp; &nbsp;P&amp;G</option>
+					<option value="73">&nbsp; &nbsp;&nbsp; &nbsp;SCW</option>
+					<option value="196">&nbsp; &nbsp;&nbsp; &nbsp;SWA</option>
+					<option value="178">&nbsp; &nbsp;&nbsp; &nbsp;TCW</option>
+					<option value="9">Sports</option>
+					<option value="25">&nbsp; &nbsp;Sacks And Tackles</option>
+					<option value="26">&nbsp; &nbsp;Hooligan Central</option>
+					<option value="27">&nbsp; &nbsp;The Octagon</option>
+					<option value="179">&nbsp; &nbsp;&nbsp; &nbsp;4FFLICTION</option>
+					<option value="28">&nbsp; &nbsp;Sidelines</option>
+					<option value="10">Entertainment</option>
+					<option value="29">&nbsp; &nbsp;Shattered Dreams Productions</option>
+					<option value="30">&nbsp; &nbsp;Basic Thuganomics</option>
+					<option value="31">&nbsp; &nbsp;The Parents' Basement</option>
+					<option value="11">4CW Fantasy Wrestling</option>
+					<option value="32">&nbsp; &nbsp;Front Office</option>
+					<option value="33">&nbsp; &nbsp;Cards And Shows</option>
+					<option value="91">&nbsp; &nbsp;&nbsp; &nbsp;4CW Classics</option>
+					<option value="92">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Classic Roleplays</option>
+					<option value="34">&nbsp; &nbsp;Out Of Character</option>
+					<option value="35">&nbsp; &nbsp;Roleplay</option>
+					<option value="175">&nbsp; &nbsp;&nbsp; &nbsp;"No Class" Bobby Pinash</option>
+					<option value="188">&nbsp; &nbsp;&nbsp; &nbsp;Brock McSweeney</option>
+					<option value="93">&nbsp; &nbsp;&nbsp; &nbsp;Clyde Bonham</option>
+					<option value="42">&nbsp; &nbsp;&nbsp; &nbsp;Cocozo</option>
+					<option value="171">&nbsp; &nbsp;&nbsp; &nbsp;Damien Blood</option>
+					<option value="49">&nbsp; &nbsp;&nbsp; &nbsp;Eddie Wolfbaine</option>
+					<option value="87">&nbsp; &nbsp;&nbsp; &nbsp;Fabian Miles</option>
+					<option value="192">&nbsp; &nbsp;&nbsp; &nbsp;Fairy Beaufeur</option>
+					<option value="113">&nbsp; &nbsp;&nbsp; &nbsp;Firecracker</option>
+					<option value="61">&nbsp; &nbsp;&nbsp; &nbsp;Fish</option>
+					<option value="64">&nbsp; &nbsp;&nbsp; &nbsp;Inferno</option>
+					<option value="172">&nbsp; &nbsp;&nbsp; &nbsp;Jacob "The Thunderbolt" Scharff</option>
+					<option value="115">&nbsp; &nbsp;&nbsp; &nbsp;Jeremiah Judah Blaze</option>
+					<option value="183">&nbsp; &nbsp;&nbsp; &nbsp;Julian MagneZ</option>
+					<option value="173">&nbsp; &nbsp;&nbsp; &nbsp;"The American Lion" Nate Johnson</option>
+					<option value="184">&nbsp; &nbsp;&nbsp; &nbsp;Nick Daniels</option>
+					<option value="103">&nbsp; &nbsp;&nbsp; &nbsp;Rasheed Evans</option>
+					<option value="111">&nbsp; &nbsp;&nbsp; &nbsp;Retro Modern</option>
+					<option value="140">&nbsp; &nbsp;&nbsp; &nbsp;'The Bruiser' Rhysus</option>
+					<option value="59">&nbsp; &nbsp;&nbsp; &nbsp;Senecca</option>
+					<option value="197">&nbsp; &nbsp;&nbsp; &nbsp;Serpent</option>
+					<option value="54">&nbsp; &nbsp;&nbsp; &nbsp;Supreme</option>
+					<option value="198">&nbsp; &nbsp;&nbsp; &nbsp;The Cage</option>
+					<option value="177">&nbsp; &nbsp;&nbsp; &nbsp;The Hunters</option>
+					<option value="76">&nbsp; &nbsp;&nbsp; &nbsp;The Murphy Brothers</option>
+					<option value="104">&nbsp; &nbsp;&nbsp; &nbsp;Universal Invader</option>
+					<option value="139">&nbsp; &nbsp;&nbsp; &nbsp;Vision</option>
+					<option value="158">&nbsp; &nbsp;&nbsp; &nbsp;Willy Twist</option>
+					<option value="100">&nbsp; &nbsp;&nbsp; &nbsp;Retired, MIA, Injured...</option>
+					<option value="56">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Aaron McNeil</option>
+					<option value="98">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Alexandre</option>
+					<option value="55">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Aranethon</option>
+					<option value="58">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Black Massacre</option>
+					<option value="81">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Cam Maddox</option>
+					<option value="52">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Crusher Cremonese</option>
+					<option value="110">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Dementis</option>
+					<option value="44">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Drake Blackstone</option>
+					<option value="78">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Drunkin Janitur</option>
+					<option value="50">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Gabrielle Montgomery</option>
+					<option value="77" selected="selected">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Joseph Bennison</option>
+					<option value="94">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Mark Caulder</option>
+					<option value="47">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: "The It Factor" Phil Duncan</option>
+					<option value="75">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Shane Hellman</option>
+					<option value="102">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: "Sherriff" JC James</option>
+					<option value="60">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Synder</option>
+					<option value="114">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: The Leader</option>
+					<option value="82">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Travis Williams</option>
+					<option value="80">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: WMD4</option>
+					<option value="99">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Asylum</option>
+					<option value="112">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Chris Martin</option>
+					<option value="109">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Christopher Worc</option>
+					<option value="101">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Cortex</option>
+					<option value="57">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: John Krone</option>
+					<option value="79">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: TC Tucker</option>
+					<option value="53">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Stardust</option>
+					<option value="136">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: S&amp;M</option>
+					<option value="149">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Richie Copeland</option>
+					<option value="163">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Jaxin Brock</option>
+					<option value="164">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Medaglia d'Oro</option>
+					<option value="43">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: [chux]</option>
+					<option value="155">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Cielo De Oro</option>
+					<option value="48">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Rocket Roky</option>
+					<option value="135">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Shinobu Mask X</option>
+					<option value="51">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Carstein</option>
+					<option value="45">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Lord Skywolf</option>
+					<option value="46">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;RETIRED: Chris Drake</option>
+					<option value="63">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Arrested: Sery</option>
+					<option value="12">4w Site Discussion</option>
+					<option value="36">&nbsp; &nbsp;4w Fanzone</option>
+					<option value="37">&nbsp; &nbsp;Hall of Fame</option>
+		
+		</select>&nbsp;<input class="btnlite" type="submit" value="Go"></td>
+	</tr>
+	</tbody></table>
+
+	</form>
+</td>
+</tr>
+</tbody></table>
+
+
+<div id="wrapfooter">
+		<span class="copyright">
+	Powered by <a href="http://www.phpbb.com/">phpBB</a> © phpBB Group.
+	<br>Designed by <a href="www.4w-forums.com">Rob Green</a> for <a href="4w-wrestling.com" title="4w">4w-wrestling</a>/<a href="www.4w-forums.com">4w</a>.
+<ceter><br><p><!-- ADDFREESTATS.COM AUTOCODE V4.0 -->
+<script type="text/javascript">
+<!--
+var AFS_Account="00307557";
+var AFS_Tracker="auto";
+var AFS_Server="www3";
+var AFS_Page="DetectName";
+var AFS_Url="DetectUrl";
+// -->
+</script>
+<script type="text/javascript" src="http://www3.addfreestats.com/cgi-bin/afstrack.cgi?usr=00307557">
+</script>
+<noscript>
+<a href="http://www.addfreestats.com">
+<img src="http://www3.addfreestats.com/cgi-bin/connect.cgi?usr=00307557Pauto" border="0" title="AddFreeStats.com Free Web Stats!"></a>
+</noscript>
+<!-- ENDADDFREESTATS.COM AUTOCODE V4.0  -->
+</p><center>
+<br>
+<p>
+
+<script type="text/javascript" language"javascript">
+
+
+
+// Cache-busting and pageid values
+
+var random = Math.round(Math.random() * 100000000);
+
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+
+
+document.write('<scr');
+
+document.write('ipt type="text/javascript" language ="JavaScript" SRC="http://ads.joinaxxess.com/jserver/acc_random=' + random + '/SITE=4WRESTLING.COM/AREA=SPORTS/AAMSZ=728X90/EX=N/POS=1/VIBE=SMT/pageid=' + pageNum + '">');
+
+document.write('</');
+
+document.write('ipt>');
+
+</script>
+
+<br></p><p>
+
+<script type="text/javascript" language"javascript">
+
+
+
+// Cache-busting and pageid values
+
+var random = Math.round(Math.random() * 100000000);
+
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+
+
+document.write('<scr');
+
+document.write('ipt type="text/javascript" language ="JavaScript" SRC="http://ads.joinaxxess.com/jserver/acc_random=' + random + '/SITE=4WRESTLING.COM/AREA=SPORTS/AAMSZ=300X250/EX=N/POS=1/VIBE=SMT/pageid=' + pageNum + '">');
+
+document.write('</');
+
+document.write('ipt>');
+
+</script>
+
+<!-- Publisher Ad Code, Do Not Modify, Copyright 2004, Accipiter Solutions Inc. -->
+
+<script type="text/javascript" language"javascript">
+
+
+
+// Cache-busting and pageid values
+
+var random = Math.round(Math.random() * 100000000);
+
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+
+
+document.write('<scr');
+
+document.write('ipt type="text/javascript" language ="JavaScript" SRC="http://ads.joinaxxess.com/jserver/acc_random=' + random + '/SITE=4WRESTLING.COM/AREA=SPORTS/AAMSZ=300X250/EX=N/POS=1/VIBE=SMT/pageid=' + pageNum + '">');
+
+document.write('</');
+
+document.write('ipt>');
+
+</script>
+
+<!-- Publisher Ad Code, Do Not Modify, Copyright 2004, Accipiter Solutions Inc. -->
+</p></center></ceter></span></div>
+
+	</td>
+</tr>
+</tbody></table>
+
+
+</body></html>

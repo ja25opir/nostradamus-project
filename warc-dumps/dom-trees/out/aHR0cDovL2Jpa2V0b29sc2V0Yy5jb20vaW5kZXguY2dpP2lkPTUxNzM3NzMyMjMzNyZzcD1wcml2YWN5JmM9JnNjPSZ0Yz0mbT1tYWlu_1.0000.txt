@@ -1,0 +1,502 @@
+<html><head>
+<title>Bike Tools Etc. - 1000's of bicycle tools and parts for the home mechanic!</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=IS0-8859-1">
+
+<meta name="robots" content="all">
+
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.biketoolsetc.com&quot; r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.biketoolsetc.com&quot; r (n 0 s 0 v 0 l 0))"> 
+
+<meta name="description" content="Bike Tools Etc. offers the home bicycle mechanic thousands of bicycle tools, repair parts, components, and accessories!">
+
+<meta name="keywords" content="Bike Tools Etc., bicycle tools, bicycle parts, bike parts, bicycle components, bicycle repair tools, derailleur cables, derailleur housing, deraler, derailler, brake cables, brake housing, brake pads, brakesets, bicycle tubes, bike tires, bicycle tires, shifters, shift levers, bicicle, ball bearings, cartridge bottom brackets, headsets, headset parts, bicycle chain, Aheadsets, cranksets, chainrings, hyperglide cassettes, freewheels, metric fasteners, handlebars, bar ends, handlebar grips, toe clips, pedals, seatposts, quick releases, headset spacers, seatpost shims, stems, rim strips, pumps, Shimano, Park Tools, IRC, KMC, FSA, Full Speed Ahead, Grabon, Kalloy, Bondhus, Tange, Wellgo, Tektro, YST, Wheels Manufacturing, Wheelsmith, Uno, Velox, VAR, Lenox, Felco, Loctite, Amflo, Rema, Topeak, Hozan, Boeshield, Helicoil, LPS, Silca, Howe, Paterek, Zinn, Sutherlands, Eldi, Marchetti, Sugino, Englunds, Phil Wood, Stein, Campagnolo, Campagnola, Campy, Wiha, Chesco, Wilton, Channelock, Gerber, reamers, pullers, extractors, press, taps, thread, frame alignment, holesaws, automotive tools, hand tools">
+
+<script language="javascript"><!--
+
+  function open_window(url,width,height,name,scroll) {
+     var winl = (screen.width - width) / 2;
+     var wint = (screen.height - height) / 2;
+     var mywin = window.open(url,name,'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars='+scroll+',resizable=1,width='+width+',height='+height+',left='+winl+',top='+wint+',dependent=1,alwaysRaised=1');
+     if (parseInt(navigator.appVersion) >= 4) { mywin.window.focus(); }
+  }
+
+  function outputE(ex,d,usr,sub) {
+    var t = '.';
+    var n = '?';
+    var e = usr + '@' + d + t + ex;
+    var s1 = n + 'sub';
+    var s2 = 'ject=' + sub;
+    var l1 = '<a href="ma';
+    var l2 = 'ilto:' + e;
+    var l3 = s1 + s2 + '"><u>' + e;
+    var l4 = '</u></a>';
+    document.writeln(l1+l2+l3+l4);
+  }
+
+//--></script>
+
+<link rel="Shortcut Icon" href="favicon.ico">
+<link rel="stylesheet" href="EComStyle.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#C4C4E1" text="#000000" link="#000066" vlink="#000066" alink="#660000">
+
+<a name="top"></a>
+
+<form name="SearchForm" method="post" action="index.cgi">
+<input type="hidden" name="id" value="517377322337">
+
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr>
+  <td width="190" rowspan="2"><img width="190" height="137" border="0" src="Program_Images/cover_logo_top2.gif"><br></td>
+  <td width="295" height="44" align="center"><font face="arial,helvetica" size="4"><span class="welcome"><b><i>Welcome&nbsp;to&nbsp;Bike&nbsp;Tools&nbsp;Etc!</i></b></span></font></td>
+  <td valign="top" width="295" align="right">
+
+<table width="100" cellpadding="1" cellspacing="0" border="0"><tbody><tr><td bgcolor="#000000">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+ <td rowspan="4" width="2" bgcolor="#FFFFCC"><img width="2" height="1" border="0" src="Program_Images/spacer.gif">
+ </td>
+ <td height="2" bgcolor="#FFFFCC"><img width="92" height="2" border="0" src="Program_Images/spacer.gif"><br>
+ </td>
+ <td rowspan="4" width="1" bgcolor="#C9C60D"><img width="1" height="1" border="0" src="Program_Images/spacer.gif">
+ </td>
+ <td rowspan="4" width="1" bgcolor="#736C17"><img width="1" height="1" border="0" src="Program_Images/spacer.gif">
+ </td>
+</tr>
+
+<tr>
+ <td bgcolor="#F9F400">
+
+   <table cellpadding="0" cellspacing="0" border="0">
+   <tbody><tr><td nowrap>
+   &nbsp;<input type="text" name="q" size="20">
+
+   <input type="image" align="absmiddle" width="58" height="20" border="0" name="search_request_button" src="Program_Images/search2.gif">
+   </td><td nowrap> 
+   <font face="arial,helvetica" size="1">
+   &nbsp;&nbsp;<a href="index.cgi?id=517377322337&amp;sp=ps&amp;c=&amp;sc=&amp;tc="><span class="menu_bar"><u>Power Search</u></span></a></font>&nbsp;&nbsp;
+   </td></tr>
+   <tr><td nowrap colspan="2"><font face="arial,helvetica" size="1"><span class="menu_bar">&nbsp;Search on name, item number, or description!</span><br></font>
+   </td>
+   </tr>
+   </tbody></table>
+
+ </td>
+</tr>
+<tr>
+ <td height="1" bgcolor="#C9C60D"><img width="96" height="1" border="0" src="Program_Images/spacer.gif"><br></td>
+</tr>
+<tr>
+ <td height="1" bgcolor="#736C17"><img width="96" height="1" border="0" src="Program_Images/spacer.gif"><br>
+ </td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table>
+
+  </td>
+ </tr>
+
+ <tr><td align="left" valign="top" colspan="2">
+
+<table width="590" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td rowspan="4" align="center">
+
+
+<!-- BEGIN BUILD TOP TABS -->
+
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left2_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right2_off.gif" width="6" height="32"></td>
+</tr><tr>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Accessories"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Accessories</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Bearings"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Bearings</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Books-Videos"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Books<br>Videos</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Cable-Housing"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Cable<br>Housing</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Components"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Components</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Fasteners"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Fasteners</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Grips/Tape"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Grips/Tape</span><br></font></a></th>
+</tr><tr>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr><tr>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr><tr>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#9999cc"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+</tr>
+</tbody></table>
+
+
+<!-- BEGIN BUILD BOTTOM TABS -->
+
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_left_off.gif" width="6"></td>
+<td width="1" height="1" bgcolor="#000000"><img src="Program_Images/spacer.gif" width="1" height="1"></td>
+<td width="6" valign="top" rowspan="5"><img src="Program_Images/tab_right_off.gif" width="6" height="32"></td>
+</tr><tr>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Lubricants,-Cleaners"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Lubricants,<br>Cleaners</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Repair-Parts"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Repair<br>Parts</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Repair-Stands"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Repair<br>Stands</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Shop-Aids"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Shop<br>Aids</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Sturmey-Archer"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Sturmey<br>Archer</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Tire-Tube"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Tire<br>Tube</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Tool/Kits"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Tool/Kits</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Tools"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Tools</span><br></font></a></th>
+
+<th bgcolor="#9999CC" height="28" nowrap><a href="index.cgi?id=517377322337&amp;c=Tools/Multi"><font face="arial,helvetica" color="#000066" size="2"><span class="tab_txt_off">Tools/Multi</span><br></font></a></th>
+</tr><tr>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr><tr>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr><tr>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+<td height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+
+</tr>
+</tbody></table>
+</td>
+<td align="center" height="61">&nbsp;</td>
+</tr>
+<tr>
+ <td align="left" width="400" height="1" bgcolor="#000000"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr>
+<tr>
+ <td align="left" width="400" height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr>
+<tr>
+ <td align="left" width="400" height="1" bgcolor="#FFFFCC"><img width="1" height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr>
+</tbody></table>
+
+<!-- END BUILD TABS -->
+
+<!-- BUILD SUB MENU -->
+
+<table width="590" height="29" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr bgcolor="#F9F400"><td align="center">
+<table width="90%" height="26" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr>
+  <td height="26" nowrap align="center" bgcolor="#F9F400"><a href="index.cgi?id=517377322337&amp;h=main&amp;m=top_ten"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>Home</u></span></font></a></td>
+  <td width="9" height="26"><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td>
+  <td height="26" nowrap align="center"><a href="index.cgi?id=517377322337&amp;s=2&amp;menu=top_ten"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>New Stuff</u></span></font></a></td>
+  <td width="9" height="26"><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td>
+  <td height="26" nowrap align="center"><a href="index.cgi?id=517377322337&amp;sp=how_to_order&amp;c=&amp;sc=&amp;tc=&amp;m=main"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>Help</u></span></font></a></td>
+  <td width="9" height="26"><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td>
+  <td nowrap height="26" align="center"><a href="index.cgi?id=517377322337&amp;sp=shipping&amp;c=&amp;sc=&amp;tc=&amp;m=main"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>Shipping</u></span></font></a></td>
+  <td width="9" height="26"><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td>
+  <td nowrap height="26" align="center"><a href="index.cgi?id=517377322337&amp;sp=contact_us&amp;c=&amp;sc=&amp;tc=&amp;m=main"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>Contact Us</u></span></font></a></td>
+  <td width="9" height="26"><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td>
+  <td nowrap height="26" align="center"><a href="index.cgi?id=517377322337&amp;sp=privacy&amp;c=&amp;sc=&amp;tc=&amp;m=main"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>Online Privacy</u></span></font></a></td>
+  <td width="9" height="26"><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td>
+  <td nowrap height="26" align="center"><a href="index.cgi?id=517377322337&amp;sp=links&amp;c=&amp;sc=&amp;tc=&amp;m=main"><font face="arial,helvetica" size="1"><span class="menu_bar"><u>Links</u></span></font></a></td>
+<!--  <td width=9 height=26><img src="Program_Images/vert_menu_bar.gif" width="9" height="12"></td> -->
+  </tr></tbody></table>
+  </td><td nowrap align="right">
+    <table border="0" cellpadding="0" cellspacing="0">
+     <tbody><tr bgcolor="#F9F400">
+      <td width="86" valign="middle">
+       <input type="image" name="dc" width="86" height="20" align="absmiddle" border="0" src="Program_Images/cart_icon.gif" alt="View Your Shopping Cart">
+      </td>
+      <td nowrap valign="bottom">
+       <font face="arial,helvetica" color="#000066" size="1">
+       <span class="menu_bar">
+       &nbsp;Cart Items:&nbsp;0
+       <br>
+       &nbsp;Subtotal:&nbsp;$0.00&nbsp;
+       </span>
+       <br></font>
+      </td>
+     </tr>
+    </tbody></table>
+  </td>
+ </tr>
+<tr>
+ <td colspan="2" bgcolor="#C9C60D" width="590" height="1"><img width="1" height="1" src="Program_Images/spacer.gif"><br>
+ </td>
+</tr>
+<tr>
+ <td colspan="2" bgcolor="#736C17" width="590" height="1"><img width="1" height="1" src="Program_Images/spacer.gif"><br>
+ </td>
+</tr>
+<tr>
+ <td colspan="2" bgcolor="#000000" width="590" height="1"><img width="1" height="1" src="Program_Images/spacer.gif"><br>
+ </td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table>
+
+<!-- END BUILD SUB MENU -->
+
+<!-- BEGIN BUILD SIDE BAR -->
+
+<table align="left" valign="top" width="172" height="1000" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td width="172" height="1000" valign="top">
+
+<table width="172" height="50" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr>
+  <td width="172" height="50" valign="top">
+   <img width="172" height="50" border="0" src="Program_Images/cover_logo_bottom.gif"><br>
+  </td>
+</tr>
+</tbody></table>
+
+<table width="172" height="950" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="19" height="950" valign="top"><img width="19" height="1" border="0" src="Program_Images/spacer.gif"></td>
+<td width="1" height="950" bgcolor="#000000" valign="top"><img width="1" height="1" src="Program_Images/spacer.gif"></td>
+<td width="2" height="950" bgcolor="#FFFFCC" valign="top"><img width="2" height="1" src="Program_Images/spacer.gif"></td>
+
+<td width="140" height="950" bgcolor="#F9F400" valign="top">
+
+<table width="139" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr>
+  <td width="139" height="6">
+   <img width="1" height="6" border="0" src="Program_Images/spacer.gif"><br>
+  </td>
+ </tr>
+ <tr>
+  <td bgcolor="#000000" width="139" height="2">
+   <img width="1" height="2" border="0" src="Program_Images/spacer.gif"><br>
+  </td>
+ </tr>
+ <tr>
+  <th width="139" height="20" bgcolor="#FF0000"><font face="arial,helvetiva" size="3" color="#FFFFFF"><i></i></font>
+  </th>
+ </tr>
+ <tr>
+  <td bgcolor="#000000" width="139" height="2">
+   <img width="1" height="2" border="0" src="Program_Images/spacer.gif"><br>
+  </td>
+ </tr>
+</tbody></table>
+
+<font face="verdana,arial,helvetica" color="#000066" size="1">
+
+</font>
+<br>
+
+</td>
+<td width="1" height="950" bgcolor="#C9C60D"><img width="1" height="1" src="Program_Images/black_border.gif"></td>
+<td width="1" height="950" bgcolor="#736C17"><img width="1" height="1" src="Program_Images/black_border.gif"></td>
+<td width="1" height="950" bgcolor="#000000"><img width="1" height="1" src="Program_Images/black_border.gif"></td>
+<td width="7" height="950" bgcolor="#FFFFFF"><img height="1" border="0" src="Program_Images/spacer.gif"></td>
+</tr></tbody></table>
+</td></tr></tbody></table>
+
+
+<table align="left" width="600" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#FFFFFF"><td>
+<table width="600" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td><br><form><input type="button" value="<< Back" onclick="history.go(-1)"></form></td>
+<td><img align="absmiddle" width="75" height="70" src="Program_Images/LogoMan.gif" border="0"> <font face="arial,helvetica" size="5" color="#000066"><b>Online Privacy Policy</b></font></td>
+</tr>
+</tbody></table>
+<table width="600" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+<font face="arial,helvetica" size="2">
+<p> 
+Bike Tools Etc. respects the privacy of all users who visit this site. No effort is made to identify individuals without their prior knowledge and approval. The following policies are in effect for all of the web pages owned and operated by Bike Tools Etc.:
+</p><ol>
+<li>PERSONAL INFORMATION: On all of our input forms, such as our catalog request or order forms, we ask users to provide their e-mail address and/or mailing address for the intended purpose of the form. This site maintains a strict "no-spam" policy. Your e-mail address or street address will not be sold to a third party and is only used for the stated purpose of the form. Whenever the identity of a visitor is requested, we clearly indicate the purpose of the request. You may easily be removed from the list at any time by calling us at (541) 482-0222 during our business hours.
+<p>
+</p></li><li>LOG FILES: When a visitor views any of our pages, like all web servers, our system logs the visitor's domain name and/or IP address. We collect the domain names and/or IP addresses in order to compile information on what pages visitors successfully access, and what pages they may have experienced any technical difficulties with. This allows us to make improvements and upgrades to the site as needed. This information is collected solely for statistical purposes and is completely anonymous. The information is never used to identify any individuals.
+<p>
+</p></li><li>BROWSER COOKIES: Our on-line store uses "cookies" to store specific information about a customers account (if cookies are enabled in the customer's browser). This cookie is a small file containing encrypted data pertinent to the customer's account, such as their name and account number. The cookie is stored on the customer's computer and cannot be viewed by other sites. The information contained in it is only used for storing account information for future visits.
+<p>
+</p></li><li>CUSTOMER RECORDS: When customers make a purchase from our on-line store, they will be asked if they would like us to save their mailing and billing information so they will not have to reenter it again the next time they order. If this option is chosen, the information is saved in our customer database and/or in a cookie, and is only viewable in the future by the customer during their next order and checkout process. Customer records are never sold to a third party.
+<p>
+</p></li><li>SECURE TRANSACTIONS: This site uses a secure SSL server so information submitted by you in secure mode is encrypted for your privacy. This means no other party may view personal information while in transit to us over the Internet. Credit card transactions are completely safe using this technology.
+</li></ol>
+Bike Tools Etc. reserves the right to change its on-line policy at any time. Future changes will be duly noted on this page. If you have any other questions about this policy, please feel free to contact us at any time.
+</font>
+</td></tr>
+</tbody></table>
+<br>
+
+<!-- DO NOT EDIT THE NEXT LINE -->
+   
+<center>
+<font face="arial,helvetica" size="1"><span class="base_links">
+<img width="598" height="1" border="0" src="Program_Images/add_line1RED.gif">
+<a href="index.cgi?id=517377322337&amp;c=Accessories"><u>Accessories</u></a> | <a href="index.cgi?id=517377322337&amp;c=Bearings"><u>Bearings</u></a> | <a href="index.cgi?id=517377322337&amp;c=Books Videos"><u>Books Videos</u></a> | <a href="index.cgi?id=517377322337&amp;c=Cable Housing"><u>Cable Housing</u></a> | <a href="index.cgi?id=517377322337&amp;c=Components"><u>Components</u></a> | <a href="index.cgi?id=517377322337&amp;c=Fasteners"><u>Fasteners</u></a> | <a href="index.cgi?id=517377322337&amp;c=Grips/Tape"><u>Grips/Tape</u></a> | <a href="index.cgi?id=517377322337&amp;c=Lubricants, Cleaners"><u>Lubricants, Cleaners</u></a> | <a href="index.cgi?id=517377322337&amp;c=Repair Parts"><u>Repair Parts</u></a> | <a href="index.cgi?id=517377322337&amp;c=Repair Stands"><u>Repair Stands</u></a> | <a href="index.cgi?id=517377322337&amp;c=Shop Aids"><u>Shop Aids</u></a> | <a href="index.cgi?id=517377322337&amp;c=Sturmey Archer"><u>Sturmey Archer</u></a> | <a href="index.cgi?id=517377322337&amp;c=Tire Tube"><u>Tire Tube</u></a> | <a href="index.cgi?id=517377322337&amp;c=Tool/Kits"><u>Tool/Kits</u></a> | <a href="index.cgi?id=517377322337&amp;c=Tools"><u>Tools</u></a> | <a href="index.cgi?id=517377322337&amp;c=Tools/Multi"><u>Tools/Multi</u></a> | 
+<br>
+| <a href="index.cgi?h=main&amp;id=517377322337"><u>Home</u></a> | <a href="index.cgi?id=517377322337&amp;sp=how_to_order&amp;c=&amp;sc=&amp;tc="><u>How to Order</u></a> | <a href="index.cgi?id=517377322337&amp;sp=shipping&amp;c=&amp;sc=&amp;tc="><u>Shipping Information</u></a> | <a href="index.cgi?id=517377322337&amp;sp=contact_us&amp;c=&amp;sc=&amp;tc="><u>Contact Us</u></a> | <a href="index.cgi?id=517377322337&amp;sp=privacy&amp;c=&amp;sc=&amp;tc=&amp;m=main"><u>Online Privacy</u></a> | <a href="index.cgi?id=517377322337&amp;sp=links&amp;c=&amp;sc=&amp;tc=&amp;m=main"><u>Links</u></a> | <a href="index.cgi?id=517377322337&amp;dc=yes&amp;c=&amp;sc=&amp;tc="><u>View Cart or Checkout</u></a> | 
+<a href="Products/index.html"><img width="1" height="1" border="0" src="Program_Images/product.gif"></a>
+<br>
+<img width="598" height="1" border="0" src="Program_Images/add_line1RED.gif">
+<br>
+This page and all contents Copyright © Bike Tools Etc., Ashland, OR, USA. Our <a href="index.cgi?id=517377322337&amp;sp=privacy&amp;c=&amp;sc=&amp;tc=&amp;m=main"><u>Online Privacy</u></a> Policy.
+<br>
+© Copyright 2001-2010
+</span></font>
+</center>
+<p>
+
+
+</p></td></tr></tbody></table>
+
+
+</form></body></html>

@@ -1,0 +1,322 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!-- generator="Joomla! 1.5 - Open Source Content Management" --><html><head></head><body><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">CedarSafe Closets</title>
+	<subtitle type="text">CedarSafe Closets</subtitle>
+	<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com">
+	<id>http://cedarsafeclosets.com/joomla/index.php</id>
+	<updated>2010-09-18T21:15:46Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=section&amp;id=3&amp;format=feed&amp;type=atom">
+	<entry>
+		<title>CEDARSAFE IN THE MEDIA</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=68:cedarsafe-in-the-media&amp;catid=17:general-media&amp;Itemid=9">
+		<published>2010-08-18T14:51:41Z</published>
+		<updated>2010-08-18T14:51:41Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=68:cedarsafe-in-the-media&amp;catid=17:general-media&amp;Itemid=9</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Check out CedarSafe in the media!&lt;/p&gt;
+&lt;table style="width: 563px; height: 195px;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="index.php?option=com_content&amp;amp;view=category&amp;amp;id=7:press-releases&amp;amp;layout=blog&amp;amp;Itemid=11&amp;amp;layout=default"&gt;&lt;img src="images/stories/press-releases-small.png" border="0" width="256" height="64" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="index.php?option=com_content&amp;amp;view=category&amp;amp;id=7:press-releases&amp;amp;layout=blog&amp;amp;Itemid=11&amp;amp;layout=default"&gt;Press Releases&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=34&amp;amp;Itemid=33"&gt;&lt;img src="images/stories/radio.png" border="0" width="264" height="66" /&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=34&amp;amp;Itemid=33"&gt;On the Radio&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;" colspan="2"&gt;&lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=8&amp;amp;Itemid=32"&gt;&lt;img src="images/stories/tv.png" border="0" width="260" height="65" /&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=8&amp;amp;Itemid=32"&gt;On TV&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Check out CedarSafe in the media!&lt;/p&gt;
+&lt;table style="width: 563px; height: 195px;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="index.php?option=com_content&amp;amp;view=category&amp;amp;id=7:press-releases&amp;amp;layout=blog&amp;amp;Itemid=11&amp;amp;layout=default"&gt;&lt;img src="images/stories/press-releases-small.png" border="0" width="256" height="64" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="index.php?option=com_content&amp;amp;view=category&amp;amp;id=7:press-releases&amp;amp;layout=blog&amp;amp;Itemid=11&amp;amp;layout=default"&gt;Press Releases&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=34&amp;amp;Itemid=33"&gt;&lt;img src="images/stories/radio.png" border="0" width="264" height="66" /&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=34&amp;amp;Itemid=33"&gt;On the Radio&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;" colspan="2"&gt;&lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=8&amp;amp;Itemid=32"&gt;&lt;img src="images/stories/tv.png" border="0" width="260" height="65" /&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href="index.php?option=com_content&amp;amp;view=article&amp;amp;id=8&amp;amp;Itemid=32"&gt;On TV&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;
+&lt;p&gt;Â&nbsp;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CedarSafe featured in Chicago Tribune Do-It-Yourself Columnist's article</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=66:chicago-tribune&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-08-16T21:27:44Z</published>
+		<updated>2010-08-16T21:27:44Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=66:chicago-tribune&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Before dry cleaning and plastic bags, there were cedar closets.  Surrounded by the insect-repelling properties of aromatic red cedar,  woolens emerged from summer storage without holes or the pungent odor of  moth balls....&lt;/p&gt;
+&lt;p&gt;Read the full article here:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.chicagotribune.com/classified/realestate/sc-home-0517-diy-cedar-closet-20100517,0,7826225.story" target="_blank"&gt;http://www.chicagotribune.com/classified/realestate/sc-home-0517-diy-cedar-closet-20100517,0,7826225.story&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Before dry cleaning and plastic bags, there were cedar closets.  Surrounded by the insect-repelling properties of aromatic red cedar,  woolens emerged from summer storage without holes or the pungent odor of  moth balls....&lt;/p&gt;
+&lt;p&gt;Read the full article here:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.chicagotribune.com/classified/realestate/sc-home-0517-diy-cedar-closet-20100517,0,7826225.story" target="_blank"&gt;http://www.chicagotribune.com/classified/realestate/sc-home-0517-diy-cedar-closet-20100517,0,7826225.story&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CEDARSAFE: ON THE RADIO</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=34:cedarsafe-on-the-radio&amp;catid=10:tvradio&amp;Itemid=80">
+		<published>2010-04-15T22:12:48Z</published>
+		<updated>2010-04-15T22:12:48Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=34:cedarsafe-on-the-radio&amp;catid=10:tvradio&amp;Itemid=80</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;table style="width: 460px; height: 392px;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;At  Home With Gary Sullivan Radio Show&lt;br /&gt;120 Stations &amp;amp; XM Satellite  Radio&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/AtHomeWithGarySullivan.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/AtHomeWithGarySullivan.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Home  &amp;amp; Garden Radio with Michael Crose &lt;br /&gt;Business Talk Radio Network&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/HomeAndGardenRadio.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/HomeAndGardenRadio.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Home Wizards  with Cindy Dole &lt;br /&gt;KRLA-AM Los Angeles&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/HomeWizards.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/HomeWizards.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The  Home Solutions Show with Jack Dever &lt;br /&gt;Cleveland, Chicago, Madison &amp;amp;  Milwaukee&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/TheHomeSolutionsShow.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/TheHomeSolutionsShow.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The  Right Balance &lt;br /&gt;Syndicated Radio Show&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/TheRightBalance.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/TheRightBalance.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table style="width: 460px; height: 392px;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;At  Home With Gary Sullivan Radio Show&lt;br /&gt;120 Stations &amp;amp; XM Satellite  Radio&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/AtHomeWithGarySullivan.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/AtHomeWithGarySullivan.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Home  &amp;amp; Garden Radio with Michael Crose &lt;br /&gt;Business Talk Radio Network&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/HomeAndGardenRadio.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/HomeAndGardenRadio.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Home Wizards  with Cindy Dole &lt;br /&gt;KRLA-AM Los Angeles&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/HomeWizards.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/HomeWizards.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The  Home Solutions Show with Jack Dever &lt;br /&gt;Cleveland, Chicago, Madison &amp;amp;  Milwaukee&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/TheHomeSolutionsShow.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/TheHomeSolutionsShow.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The  Right Balance &lt;br /&gt;Syndicated Radio Show&lt;/td&gt;
+&lt;td&gt;
+&lt;object style="width: 102px; height: 17px;" classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" width="102" height="17" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0"&gt;
+&lt;param name="autoplay" value="false" /&gt;
+&lt;param name="src" value="images/mp3/TheRightBalance.mp3" /&gt;
+&lt;param name="bgcolor" value="a7c33c" /&gt;&lt;embed style="width: 102px; height: 17px;" type="video/quicktime" width="102" height="17" src="images/mp3/TheRightBalance.mp3" bgcolor="a7c33c" autoplay="false"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Trade Up To A Larger Home Without Moving</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=31:trade-up-to-a-larger-home-without-moving&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:25:08Z</published>
+		<updated>2010-04-15T21:25:08Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=31:trade-up-to-a-larger-home-without-moving&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Huntsville, Ala. It's a common problem. Your family has grown. You've gotten older and acquired more stuff. You can't find things. You're trapped in a home that's too small.&lt;br /&gt;&lt;br /&gt;"Years ago, you could keep trading up to a larger house because you kept making a profit," says HGTV and CedarSafe Home Improvement Expert Pat Simpson. "But since the housing market plummeted, you can't afford to move and you desperately need a bigger house."&lt;br /&gt;&lt;br /&gt;The solution is simple. Trade up to a larger home by maximizing the space you already have:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Go through every closet and the attic. Donate anything you haven't used in the past two years, have a tag sale or sell it on eBay. The charitable tax deduction or the income you make off the sales will help you finance some or all of your small home-improvement projects.&lt;/li&gt;
+&lt;li&gt;Turn your primary closet into your own personal "hot file." If it's winter, only winter clothes should be in there. That goes for everyone in the family, so out-of-season clothes should be moved to secondary closets.&lt;/li&gt;
+&lt;li&gt;Other items can be moved to the attic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;"The easiest way to trade up to a bigger home without moving is to create an attic storage room," says Simpson. "Identify the space you need in the attic. Put plywood down on the floor and add 4 x 8 cedar panels to the walls instead of sheetrock." &lt;br /&gt;&lt;br /&gt;Why cedar? Aromatic Eastern Redcedar has been proven in an Auburn University study to repel silverfish that like to eat cotton, linen, rayon and book bindings. The cedar also repels roaches and clothes moths. Clothes moth larvae feed on wool, leather, paper, cotton, linen, silk and synthetic fibers. The 4 x 8 panels can easily be nailed to the walls in a short amount of time, and the cedar scent keeps your clothes and the rest of the attic smelling fresh. &lt;br /&gt;&lt;br /&gt;"You'll wind up with a great-looking and functional storage area," says Simpson. "But don't store very heavy items on the floor of the attic, or hang heavy items from the rafters, because the weight load adds stress to the structure and could damage the rafters overhead and ceiling joists below. Be sure to have a licensed contractor advise you on weight loads and ask him to give you a written warranty on his advice."&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Huntsville, Ala. It's a common problem. Your family has grown. You've gotten older and acquired more stuff. You can't find things. You're trapped in a home that's too small.&lt;br /&gt;&lt;br /&gt;"Years ago, you could keep trading up to a larger house because you kept making a profit," says HGTV and CedarSafe Home Improvement Expert Pat Simpson. "But since the housing market plummeted, you can't afford to move and you desperately need a bigger house."&lt;br /&gt;&lt;br /&gt;The solution is simple. Trade up to a larger home by maximizing the space you already have:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Go through every closet and the attic. Donate anything you haven't used in the past two years, have a tag sale or sell it on eBay. The charitable tax deduction or the income you make off the sales will help you finance some or all of your small home-improvement projects.&lt;/li&gt;
+&lt;li&gt;Turn your primary closet into your own personal "hot file." If it's winter, only winter clothes should be in there. That goes for everyone in the family, so out-of-season clothes should be moved to secondary closets.&lt;/li&gt;
+&lt;li&gt;Other items can be moved to the attic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;"The easiest way to trade up to a bigger home without moving is to create an attic storage room," says Simpson. "Identify the space you need in the attic. Put plywood down on the floor and add 4 x 8 cedar panels to the walls instead of sheetrock." &lt;br /&gt;&lt;br /&gt;Why cedar? Aromatic Eastern Redcedar has been proven in an Auburn University study to repel silverfish that like to eat cotton, linen, rayon and book bindings. The cedar also repels roaches and clothes moths. Clothes moth larvae feed on wool, leather, paper, cotton, linen, silk and synthetic fibers. The 4 x 8 panels can easily be nailed to the walls in a short amount of time, and the cedar scent keeps your clothes and the rest of the attic smelling fresh. &lt;br /&gt;&lt;br /&gt;"You'll wind up with a great-looking and functional storage area," says Simpson. "But don't store very heavy items on the floor of the attic, or hang heavy items from the rafters, because the weight load adds stress to the structure and could damage the rafters overhead and ceiling joists below. Be sure to have a licensed contractor advise you on weight loads and ask him to give you a written warranty on his advice."&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>PROTECT YOUR KEEPSAKES AND CLOTHING IN A VERTICAL, SPACE-SAVING, MODERN-DAY CEDAR HOPE CHEST</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=30:protect-your-keepsakes-and-clothing-in-a-vertical-space-saving-modern-day-cedar-hope-chest&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:24:00Z</published>
+		<updated>2010-04-15T21:24:00Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=30:protect-your-keepsakes-and-clothing-in-a-vertical-space-saving-modern-day-cedar-hope-chest&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;In every household there are items that are treasured family keepsakes. Many years ago, cedar hope chests were used to protect family heirlooms such as christening and bridal gowns and blankets, among other items.&lt;br /&gt;&lt;br /&gt;"Today, hope chests are hard to come by and even harder to find room for in the house," says Pat Simpson, home improvement expert and host of HGTV's Before &amp;amp; After, Fix It Up! and Room to Improve. "They're big, cumbersome and in smaller spaces they take away valuable square footage."&lt;br /&gt;&lt;br /&gt;There is a solution that costs less than a new piece of furniture but adds valuable storage space to your already existing floor plan: a cedar closet. &lt;br /&gt;&lt;br /&gt;"Any closet can be transformed into a vertical cedar hope chest just by adding cedar lining to an existing closet space," says Simpson. "In addition to a fantastic finished look, cedar offers benefits that most don't realize, including repelling and resisting moths, roaches, silverfish and mildew and providing a wonderful cedar scent."&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner planks and panels are made of 100 percent Aromatic Eastern Redcedar and actually line the walls of the closet. They work with standard metal bars or rods or even custom drawers. &lt;br /&gt;&lt;br /&gt;The planks provide an elegant look to a closet in a master bedroom. It would cost about $360 to line 180 square feet of wall space with cedar planks. The 4'-by-8' panels are ideal for storage areas, secondary closets and attics. It would cost about $150 to line 180 square feet of wall space with cedar panels. Both are do-it-yourself products that require a claw hammer, tri-square, saw and nails or adhesive to install. And it takes just a few hours to makeover your closet. &lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;In every household there are items that are treasured family keepsakes. Many years ago, cedar hope chests were used to protect family heirlooms such as christening and bridal gowns and blankets, among other items.&lt;br /&gt;&lt;br /&gt;"Today, hope chests are hard to come by and even harder to find room for in the house," says Pat Simpson, home improvement expert and host of HGTV's Before &amp;amp; After, Fix It Up! and Room to Improve. "They're big, cumbersome and in smaller spaces they take away valuable square footage."&lt;br /&gt;&lt;br /&gt;There is a solution that costs less than a new piece of furniture but adds valuable storage space to your already existing floor plan: a cedar closet. &lt;br /&gt;&lt;br /&gt;"Any closet can be transformed into a vertical cedar hope chest just by adding cedar lining to an existing closet space," says Simpson. "In addition to a fantastic finished look, cedar offers benefits that most don't realize, including repelling and resisting moths, roaches, silverfish and mildew and providing a wonderful cedar scent."&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner planks and panels are made of 100 percent Aromatic Eastern Redcedar and actually line the walls of the closet. They work with standard metal bars or rods or even custom drawers. &lt;br /&gt;&lt;br /&gt;The planks provide an elegant look to a closet in a master bedroom. It would cost about $360 to line 180 square feet of wall space with cedar planks. The 4'-by-8' panels are ideal for storage areas, secondary closets and attics. It would cost about $150 to line 180 square feet of wall space with cedar panels. Both are do-it-yourself products that require a claw hammer, tri-square, saw and nails or adhesive to install. And it takes just a few hours to makeover your closet. &lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>PROTECT YOUR KEEPSAKES AND CLOTHING IN A VERTICAL, SPACE SAVING, MODERN-DAY CEDAR HOPE CHESTPROTECT YOUR KEEPSAKES AND CLOTHING IN A VERTICAL, SPACE SAVING, MODERN-DAY CEDAR HOPE CHEST</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=29:protect-your-keepsakes-and-clothing-in-a-vertical-space-saving-modern-day-cedar-hope-chestprotect-your-keepsakes-and-clothing-in-a-vertical-space-saving-modern-day-cedar-hope-chest&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:23:05Z</published>
+		<updated>2010-04-15T21:23:05Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=29:protect-your-keepsakes-and-clothing-in-a-vertical-space-saving-modern-day-cedar-hope-chestprotect-your-keepsakes-and-clothing-in-a-vertical-space-saving-modern-day-cedar-hope-chest&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Huntsville, AL â€“ In every household there are items that are treasured family keepsakes. In years gone by, cedar hope chests have been utilized as storage and to protect family heirlooms such as christening gowns, bridal gowns and blankets among other items.&lt;br /&gt;&lt;br /&gt;These days hope chests are hard to come by and even harder to find a place for in the house. They are big, cumbersome and in smaller spaces they take away valuable square footage in rooms.&lt;br /&gt;&lt;br /&gt;There is a solution that costs less than a new piece of furniture but adds valuable storage space to your already existing floor plan: a cedar closet. Any closet can be transformed into a vertical cedar hope chest just by adding cedar lining to an existing closet space. In addition to a fantastic finished look, cedar offers benefits that most don't realize.&lt;br /&gt;&lt;br /&gt;Those benefits include the following:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Repels and resist moths, roaches, silverfish and mildew&lt;/li&gt;
+&lt;li&gt;Provides a wonderful cedar scent&lt;/li&gt;
+&lt;li&gt;Safer than mothballs and smells better&lt;/li&gt;
+&lt;li&gt;Often found in expensive and older homes&lt;/li&gt;
+&lt;li&gt;A great place to store out-of-season clothes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner planks and panels are made of 100 percent Aromatic Eastern Redcedar (Juniperus virginiana) and actually line the walls of the closet. They work with standard metal bars or rods or even custom drawers. &lt;br /&gt;&lt;br /&gt;The planks (MSRP: $29.95/box covers 15 square feet of wall space) provide an elegant look to a closet in a master bedroom. It would cost about $360 to line 180-square-feet of wall space with cedar planks. The 4'-by-8' panels (MSRP: $24.95 each) are best for storage areas, secondary closets and attics. It would cost about $150 to line180-square-feet of wall space with cedar panels. Both are do-it-yourself products that require a claw hammer, tri-square, saw and nails or adhesive to install. &lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Huntsville, AL â€“ In every household there are items that are treasured family keepsakes. In years gone by, cedar hope chests have been utilized as storage and to protect family heirlooms such as christening gowns, bridal gowns and blankets among other items.&lt;br /&gt;&lt;br /&gt;These days hope chests are hard to come by and even harder to find a place for in the house. They are big, cumbersome and in smaller spaces they take away valuable square footage in rooms.&lt;br /&gt;&lt;br /&gt;There is a solution that costs less than a new piece of furniture but adds valuable storage space to your already existing floor plan: a cedar closet. Any closet can be transformed into a vertical cedar hope chest just by adding cedar lining to an existing closet space. In addition to a fantastic finished look, cedar offers benefits that most don't realize.&lt;br /&gt;&lt;br /&gt;Those benefits include the following:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Repels and resist moths, roaches, silverfish and mildew&lt;/li&gt;
+&lt;li&gt;Provides a wonderful cedar scent&lt;/li&gt;
+&lt;li&gt;Safer than mothballs and smells better&lt;/li&gt;
+&lt;li&gt;Often found in expensive and older homes&lt;/li&gt;
+&lt;li&gt;A great place to store out-of-season clothes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner planks and panels are made of 100 percent Aromatic Eastern Redcedar (Juniperus virginiana) and actually line the walls of the closet. They work with standard metal bars or rods or even custom drawers. &lt;br /&gt;&lt;br /&gt;The planks (MSRP: $29.95/box covers 15 square feet of wall space) provide an elegant look to a closet in a master bedroom. It would cost about $360 to line 180-square-feet of wall space with cedar planks. The 4'-by-8' panels (MSRP: $24.95 each) are best for storage areas, secondary closets and attics. It would cost about $150 to line180-square-feet of wall space with cedar panels. Both are do-it-yourself products that require a claw hammer, tri-square, saw and nails or adhesive to install. &lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>UNO DE LOS SECRETOS MAS GUARDADOS PARA MEJORAR SU HOGAR </title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=28:uno-de-los-secretos-mas-guardados-para-mejorar-su-hogar-&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:21:29Z</published>
+		<updated>2010-04-15T21:21:29Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=28:uno-de-los-secretos-mas-guardados-para-mejorar-su-hogar-&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;(NAPSM)â€”De acuerdo a la encuestas realizada por CedarSafeÂ® Natural Closet Liner/Insight Express en 1.000 adultos, en realidad sÃ³lo el 10 por ciento son dueÃ±os de un armario de cedro, pero el 41 por ciento considerarÃ­a instalar uno en sus hogares cuando se los informÃ³ de los beneficios: &lt;br /&gt;&lt;br /&gt;Repele y resiste las pollillas, cucarachas, lepismas y el moho &lt;br /&gt;&lt;br /&gt;Brinda un exquisito aroma a cedro &lt;br /&gt;&lt;br /&gt;MÃ¡s seguro que las bolas de naftalina y huele mejor &lt;br /&gt;&lt;br /&gt;Un gran lugar para almacenar la ropa de fuera de temporada &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;"Nuestra investigaciÃ³n muestra claramente que los beneficios de los armarios de cedro pueden ser uno de los secretos para mejorar su hogar mejor guardados en los Estados Unidos", manifiesta Bev Head, CEO de Huntsville, Giles &amp;amp; Kendall en Alabama, el fabricante nÃºmero 1 de &lt;br /&gt;armarios de cedro en los Estados Unidos y creadores de la marca CedarSafe Natural Closet Liner. &lt;br /&gt;&lt;br /&gt;Crear su propio armario de cedro, utilizando traviesas o paneles de cedro, puede ser algo que valga la pena considerar como el prÃ³ximo proyecto para mejorar su hogar. &lt;br /&gt;&lt;br /&gt;"Algunos propietarios gastan miles de dÃ³lares para crear armarios a medida con muchos estantes y cajones", agrega Head. "Pero usted no tiene que gastar mucho dinero para disfrutar de los beneficios de los armarios de cedro. De hecho, usted puede instalar paneles o traviesas de cedro por $150 hasta $360 para un armario de medida estÃ¡ndar". &lt;br /&gt;&lt;br /&gt;Las traviesas y paneles estÃ¡n hechos en el 100 por ciento de Aromatic Eastern Red Cedar (cedro rojo aromÃ¡tico del este) y realmente alinea las paredes del armario. Trabajan con barras de metal estÃ¡ndar o sogas o incluso cajones a medida. &lt;br /&gt;&lt;br /&gt;Las traviesas brindan una vista elegante a un armario en una habitaciÃ³n principal. CostarÃ­a alrededor de $360 para disponer una pared de 180 pies cuadrados con traviesas de cedro. Los paneles de 4 por 8 pulgadas son lo mejor para Ã¡reas de almacenamiento, armarios secundarios y Ã¡ticos. CostarÃ­a alrededor de $150 para disponer una pared de 180 pies cuadrados con paneles de cedro. Los productos "hÃ¡galo usted mismo" requieren un martillo, regla de mediciÃ³n, una sierra y clavos o adhesivo para instalarlo.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;(NAPSM)â€”De acuerdo a la encuestas realizada por CedarSafeÂ® Natural Closet Liner/Insight Express en 1.000 adultos, en realidad sÃ³lo el 10 por ciento son dueÃ±os de un armario de cedro, pero el 41 por ciento considerarÃ­a instalar uno en sus hogares cuando se los informÃ³ de los beneficios: &lt;br /&gt;&lt;br /&gt;Repele y resiste las pollillas, cucarachas, lepismas y el moho &lt;br /&gt;&lt;br /&gt;Brinda un exquisito aroma a cedro &lt;br /&gt;&lt;br /&gt;MÃ¡s seguro que las bolas de naftalina y huele mejor &lt;br /&gt;&lt;br /&gt;Un gran lugar para almacenar la ropa de fuera de temporada &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;"Nuestra investigaciÃ³n muestra claramente que los beneficios de los armarios de cedro pueden ser uno de los secretos para mejorar su hogar mejor guardados en los Estados Unidos", manifiesta Bev Head, CEO de Huntsville, Giles &amp;amp; Kendall en Alabama, el fabricante nÃºmero 1 de &lt;br /&gt;armarios de cedro en los Estados Unidos y creadores de la marca CedarSafe Natural Closet Liner. &lt;br /&gt;&lt;br /&gt;Crear su propio armario de cedro, utilizando traviesas o paneles de cedro, puede ser algo que valga la pena considerar como el prÃ³ximo proyecto para mejorar su hogar. &lt;br /&gt;&lt;br /&gt;"Algunos propietarios gastan miles de dÃ³lares para crear armarios a medida con muchos estantes y cajones", agrega Head. "Pero usted no tiene que gastar mucho dinero para disfrutar de los beneficios de los armarios de cedro. De hecho, usted puede instalar paneles o traviesas de cedro por $150 hasta $360 para un armario de medida estÃ¡ndar". &lt;br /&gt;&lt;br /&gt;Las traviesas y paneles estÃ¡n hechos en el 100 por ciento de Aromatic Eastern Red Cedar (cedro rojo aromÃ¡tico del este) y realmente alinea las paredes del armario. Trabajan con barras de metal estÃ¡ndar o sogas o incluso cajones a medida. &lt;br /&gt;&lt;br /&gt;Las traviesas brindan una vista elegante a un armario en una habitaciÃ³n principal. CostarÃ­a alrededor de $360 para disponer una pared de 180 pies cuadrados con traviesas de cedro. Los paneles de 4 por 8 pulgadas son lo mejor para Ã¡reas de almacenamiento, armarios secundarios y Ã¡ticos. CostarÃ­a alrededor de $150 para disponer una pared de 180 pies cuadrados con paneles de cedro. Los productos "hÃ¡galo usted mismo" requieren un martillo, regla de mediciÃ³n, una sierra y clavos o adhesivo para instalarlo.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CEDAR CLOSET BENEFITS MAY BE AMERICA'S BESTâ€“KEPT HOME IMPROVEMENT SECRET</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=27:cedar-closet-benefits-may-be-americas-bestkept-home-improvement-secret&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:18:59Z</published>
+		<updated>2010-04-15T21:18:59Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=27:cedar-closet-benefits-may-be-americas-bestkept-home-improvement-secret&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Huntsville, AL â€“ According to a CedarSafeÂ® Natural Closet Liner/Insight Express survey of 1,000 adults, only 10 percent actually own a cedar closet, but 41 percent would consider installing one in their homes when informed about the benefits.&lt;br /&gt;&lt;br /&gt;"Our research clearly shows that the benefits of cedar closets may be America's best- kept home improvement secret," says Bev Head, CEO of Huntsville, Alabama-based Giles &amp;amp; Kendall, the #1 cedar closet liner manufacturer in the United States and makers of the CedarSafe Natural Closet Liner brand.&lt;br /&gt;&lt;br /&gt;Those benefits include the following:&lt;br /&gt;&lt;br /&gt;Repels and resist moths, roaches, silverfish and mildew&lt;br /&gt;&lt;br /&gt;Provides a wonderful cedar scent&lt;br /&gt;&lt;br /&gt;Safer than mothballs and smells better&lt;br /&gt;&lt;br /&gt;Often found in expensive and older homes&lt;br /&gt;&lt;br /&gt;A great place to store out-of-season clothes&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Cedar Closets Have Stood the Test of Time&lt;br /&gt;&lt;br /&gt;In the 17th century, cedar was used in linen rooms to repel moths. A century later, European furniture makers began using aromatic cedar in trunks and chests to protect woolen clothes. By the 19th century, cedar closets became fixtures of affluent Americans. In fact, George Vanderbilt's Biltmore House in Asheville, NC, the largest home in the United States, has a cedar-lined closet that was used to store fine linens. &lt;br /&gt;&lt;br /&gt;A 2005 study by Unity Marketing shows that 15 percent of homeowners who make $150,000 a year or more have cedar closets. That's about the same percentage as those who own wine cellars or outdoor hearths. According to the CedarSafe survey, 44 percent of cedar closet owners inherited them when they bought the house. More than 30 percent installed them on their own. The remaining 16 percent had someone install the cedar closet for them. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;Closet Makeovers Are Big Business&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;In recent years, closet makeovers have become big business â€” a $2 billion industry. The boom helped spark a new trade magazine, CLOSETS, which notes that the average price of a closet installation has increased from $2,000 to $3,500. Much of that expense comes from creating custom closets with lots of shelves and drawers. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;CedarSafe Natural Closet Liner: A Lower Cost DIY Alternative&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;"Even though they are fancied by the affluent, you don't have to spend a lot of money to enjoy the benefits of cedar closets," says Head. "In fact, you can install cedar panels or planks yourself for $150 to $360 for a standard-size closet."&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner planks and panels are made of 100 percent Aromatic Eastern Redcedar (Juniperus virginiana) and actually line the walls of the closet. They work with standard metal bars or rods or even custom drawers. &lt;br /&gt;&lt;br /&gt;The planks (MSRP: $29.95/box covers 15 square feet of wall space) provide an elegant look to a closet in a master bedroom. It would cost about $360 to line 180-square-feet of wall space with cedar planks. The 4'-by-8' panels (MSRP: $24.95 each) are best for storage areas, secondary closets and attics. It would cost about $150 to line180-square-feet of wall space with cedar panels. Both are do-it-yourself products that require a claw hammer, tri-square, saw and nails or adhesive to install. &lt;br /&gt;&lt;br /&gt;"Most people think that you have to build an entire closet addition to have cedar," says Head. "But every existing closet has the potential to become an effective cedar storage space by using a CedarSafe Natural Closet Liner. You choose the look you want, measure your space and install it in a matter of hours. It's that easy."&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Huntsville, AL â€“ According to a CedarSafeÂ® Natural Closet Liner/Insight Express survey of 1,000 adults, only 10 percent actually own a cedar closet, but 41 percent would consider installing one in their homes when informed about the benefits.&lt;br /&gt;&lt;br /&gt;"Our research clearly shows that the benefits of cedar closets may be America's best- kept home improvement secret," says Bev Head, CEO of Huntsville, Alabama-based Giles &amp;amp; Kendall, the #1 cedar closet liner manufacturer in the United States and makers of the CedarSafe Natural Closet Liner brand.&lt;br /&gt;&lt;br /&gt;Those benefits include the following:&lt;br /&gt;&lt;br /&gt;Repels and resist moths, roaches, silverfish and mildew&lt;br /&gt;&lt;br /&gt;Provides a wonderful cedar scent&lt;br /&gt;&lt;br /&gt;Safer than mothballs and smells better&lt;br /&gt;&lt;br /&gt;Often found in expensive and older homes&lt;br /&gt;&lt;br /&gt;A great place to store out-of-season clothes&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Cedar Closets Have Stood the Test of Time&lt;br /&gt;&lt;br /&gt;In the 17th century, cedar was used in linen rooms to repel moths. A century later, European furniture makers began using aromatic cedar in trunks and chests to protect woolen clothes. By the 19th century, cedar closets became fixtures of affluent Americans. In fact, George Vanderbilt's Biltmore House in Asheville, NC, the largest home in the United States, has a cedar-lined closet that was used to store fine linens. &lt;br /&gt;&lt;br /&gt;A 2005 study by Unity Marketing shows that 15 percent of homeowners who make $150,000 a year or more have cedar closets. That's about the same percentage as those who own wine cellars or outdoor hearths. According to the CedarSafe survey, 44 percent of cedar closet owners inherited them when they bought the house. More than 30 percent installed them on their own. The remaining 16 percent had someone install the cedar closet for them. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;Closet Makeovers Are Big Business&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;In recent years, closet makeovers have become big business â€” a $2 billion industry. The boom helped spark a new trade magazine, CLOSETS, which notes that the average price of a closet installation has increased from $2,000 to $3,500. Much of that expense comes from creating custom closets with lots of shelves and drawers. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;CedarSafe Natural Closet Liner: A Lower Cost DIY Alternative&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;"Even though they are fancied by the affluent, you don't have to spend a lot of money to enjoy the benefits of cedar closets," says Head. "In fact, you can install cedar panels or planks yourself for $150 to $360 for a standard-size closet."&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner planks and panels are made of 100 percent Aromatic Eastern Redcedar (Juniperus virginiana) and actually line the walls of the closet. They work with standard metal bars or rods or even custom drawers. &lt;br /&gt;&lt;br /&gt;The planks (MSRP: $29.95/box covers 15 square feet of wall space) provide an elegant look to a closet in a master bedroom. It would cost about $360 to line 180-square-feet of wall space with cedar planks. The 4'-by-8' panels (MSRP: $24.95 each) are best for storage areas, secondary closets and attics. It would cost about $150 to line180-square-feet of wall space with cedar panels. Both are do-it-yourself products that require a claw hammer, tri-square, saw and nails or adhesive to install. &lt;br /&gt;&lt;br /&gt;"Most people think that you have to build an entire closet addition to have cedar," says Head. "But every existing closet has the potential to become an effective cedar storage space by using a CedarSafe Natural Closet Liner. You choose the look you want, measure your space and install it in a matter of hours. It's that easy."&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>KEEPING PACE WHEN YOU'RE OUT OF SPACE</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=26:keeping-pace-when-youre-out-of-space&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:18:11Z</published>
+		<updated>2010-04-15T21:18:11Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=26:keeping-pace-when-youre-out-of-space&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;If you have hundreds of items in your closet and can't find what you're looking for, or everything is crammed so tightly it gets wrinkled, you have a serious case of closet clutter.&lt;br /&gt;&lt;br /&gt;The National Association of Professional Organizers cared for more than 70,000 unorganized people last year. Another organization, Clutterers Anonymous, has chapters in 22 states and offers a 12-step recovery program.&lt;br /&gt;&lt;br /&gt;How do you attack your cluttered closet problem? Here are some tips:&lt;br /&gt;&lt;br /&gt;Go through your closet and figure out what you really use or wear. If you haven't worn an item in a year, donate it to charity.&lt;br /&gt;&lt;br /&gt;Consider separating your clothes by season. If it's 20 degrees outside, do you really need that lightweight suit hanging in your master bedroom closet? By comparison, if it's 80 degrees outside, what are bulky sweaters doing in there?&lt;br /&gt;&lt;br /&gt;If blankets, quilts, boots, luggage and your child's unused stuffed animals are sitting in your bedroom closet, then move them to your attic â€” one of the most under-utilized spaces in your house.&lt;br /&gt;&lt;br /&gt;Home centers offer closet organizing systems with shelves and drawers that can help maximize space in your bedroom closets.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;"Closet organizing systems are functional and look great, but will call undue attention to those plain white closet walls," says CedarSafe Home Improvement Expert Pat Simpson, host of HGTV's Fix it Up. "Cedar closet liner planks will make your closet look great, and the cedar scent is a natural air freshener."&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;The Benefits of Cedar Wall Liners&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;Cedar liners also naturally resist and repel silverfish, as well as moths, that can damage wool suits and sweaters. The liners even help protect against mildew.&lt;br /&gt;&lt;br /&gt;On to that massive open area at the top of your house â€” the attic. By adding 4' x 8' cedar panels on the walls, you can easily turn that area into an extra, off-season storage space that is easily accessible and organized.&lt;br /&gt;&lt;br /&gt;"Cedar panels offer a natural, functional benefit in the attic because they keep the insects and mildew away," says Simpson. "The panels also cover up those ugly two-by-fours, giving your attic a more upscale look."&lt;br /&gt;&lt;br /&gt;You can line your closet walls or attic with cedar planks or panels for just a few hundred dollars and a few hours of your time.&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;If you have hundreds of items in your closet and can't find what you're looking for, or everything is crammed so tightly it gets wrinkled, you have a serious case of closet clutter.&lt;br /&gt;&lt;br /&gt;The National Association of Professional Organizers cared for more than 70,000 unorganized people last year. Another organization, Clutterers Anonymous, has chapters in 22 states and offers a 12-step recovery program.&lt;br /&gt;&lt;br /&gt;How do you attack your cluttered closet problem? Here are some tips:&lt;br /&gt;&lt;br /&gt;Go through your closet and figure out what you really use or wear. If you haven't worn an item in a year, donate it to charity.&lt;br /&gt;&lt;br /&gt;Consider separating your clothes by season. If it's 20 degrees outside, do you really need that lightweight suit hanging in your master bedroom closet? By comparison, if it's 80 degrees outside, what are bulky sweaters doing in there?&lt;br /&gt;&lt;br /&gt;If blankets, quilts, boots, luggage and your child's unused stuffed animals are sitting in your bedroom closet, then move them to your attic â€” one of the most under-utilized spaces in your house.&lt;br /&gt;&lt;br /&gt;Home centers offer closet organizing systems with shelves and drawers that can help maximize space in your bedroom closets.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;"Closet organizing systems are functional and look great, but will call undue attention to those plain white closet walls," says CedarSafe Home Improvement Expert Pat Simpson, host of HGTV's Fix it Up. "Cedar closet liner planks will make your closet look great, and the cedar scent is a natural air freshener."&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;The Benefits of Cedar Wall Liners&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;Cedar liners also naturally resist and repel silverfish, as well as moths, that can damage wool suits and sweaters. The liners even help protect against mildew.&lt;br /&gt;&lt;br /&gt;On to that massive open area at the top of your house â€” the attic. By adding 4' x 8' cedar panels on the walls, you can easily turn that area into an extra, off-season storage space that is easily accessible and organized.&lt;br /&gt;&lt;br /&gt;"Cedar panels offer a natural, functional benefit in the attic because they keep the insects and mildew away," says Simpson. "The panels also cover up those ugly two-by-fours, giving your attic a more upscale look."&lt;br /&gt;&lt;br /&gt;You can line your closet walls or attic with cedar planks or panels for just a few hundred dollars and a few hours of your time.&lt;br /&gt;&lt;br /&gt;CedarSafe Natural Closet Liner is the #1 cedar closet liner brand in America. It is manufactured by Huntsville-based Giles &amp;amp; Kendall. Giles &amp;amp; Kendall, and its predecessor George C. Brown Cedar Company, have specialized in manufacturing 100 percent Aromatic Eastern Redcedar products for more than 120 years. CedarSafe Natural Closet Liner repels and resists moths, roaches and silverfish, as well as mildew. CedarSafe Natural Closet Liner planks and panels are available in the paneling or closet departments of Ace Hardware, Do It Best, Home Depot, Lowe's, Menards, True Value, as well as in lumberyards throughout the United States and Canada. Manufacturing facilities are located in Huntsville, AL, and Gainesville, MO.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>A Low-Cost "Green" Method to Protect Your Expensive ClothesA Low-Cost "Green" Method to Protect Your Expensive Clothes</title>
+		<link rel="alternate" type="text/html" href="http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=25:a-low-cost-qgreenq-method-to-protect-your-expensive-clothesa-low-cost-qgreenq-method-to-protect-your-expensive-clothes&amp;catid=7:press-releases&amp;Itemid=11">
+		<published>2010-04-15T21:17:07Z</published>
+		<updated>2010-04-15T21:17:07Z</updated>
+		<id>http://cedarsafeclosets.com/joomla/index.php?option=com_content&amp;view=article&amp;id=25:a-low-cost-qgreenq-method-to-protect-your-expensive-clothesa-low-cost-qgreenq-method-to-protect-your-expensive-clothes&amp;catid=7:press-releases&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>info@cedarsafeclosets.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Huntsville, Ala. You've paid thousands of dollars for all the clothes that are hanging in your closet, so you want them to last as long as possible. You also want them to smell fresh.&lt;br /&gt;&lt;br /&gt;Here's the problem: Silverfish, an insect common in many homes, like to feed on cotton, linen or rayon. Another common insect, clothes moth larvae, feed on wool, fur, leather, cotton, linen, silk and synthetic fibers. And, if you live in an older home, well, let's just say air fresheners have become part of your regular home furnishings.&lt;br /&gt;&lt;br /&gt;"You can protect your expensive wardrobe from damaging insects and improve the look and functionality of your closet by adding cedar closet liners," says HGTV and CedarSafe Home Improvement Expert Pat Simpson, who has the installed the liners in his home and others that he builds.&lt;br /&gt;&lt;br /&gt;Cedar closet liners made from Aromatic Eastern Redcedar are nature's pest repellent. An Auburn University study shows cedar naturally repels silverfish and roaches, and a report by Cornell's Cooperative Extension Service says cedar-lined chests and closets are effective in repelling moths, but should be lightly sanded to release oils after a year or two of use. &lt;br /&gt;&lt;br /&gt;There are two options for your closet: Cedar planks are best for master bedrooms because they provide a luxurious look. The tongue-and-groove planks can be nailed to the walls horizontally, vertically or diagonally for an upscale look. Cedar panels, which are made from pressed cedar and come in 4 x 8 sheets, are best for secondary closet areas where pure functionality is the goal. Both work well with closet organizing systems, standard wire shelving or even high-end cedar shelves and drawers. &lt;br /&gt;&lt;br /&gt;It'll cost about $500 to line a good-size master bedroom closet with cedar planks, plus the cost of shelving. It'll cost about $150 to line a standard-size closet with 4' x 8' cedar panels.&lt;br /&gt;&lt;br /&gt;"What's amazing is the great cedar scent that people will notice when they walk into your bedroom" says Simpson. "And when they see what you've done to your closet, they'll say "'Wow!'"&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Huntsville, Ala. You've paid thousands of dollars for all the clothes that are hanging in your closet, so you want them to last as long as possible. You also want them to smell fresh.&lt;br /&gt;&lt;br /&gt;Here's the problem: Silverfish, an insect common in many homes, like to feed on cotton, linen or rayon. Another common insect, clothes moth larvae, feed on wool, fur, leather, cotton, linen, silk and synthetic fibers. And, if you live in an older home, well, let's just say air fresheners have become part of your regular home furnishings.&lt;br /&gt;&lt;br /&gt;"You can protect your expensive wardrobe from damaging insects and improve the look and functionality of your closet by adding cedar closet liners," says HGTV and CedarSafe Home Improvement Expert Pat Simpson, who has the installed the liners in his home and others that he builds.&lt;br /&gt;&lt;br /&gt;Cedar closet liners made from Aromatic Eastern Redcedar are nature's pest repellent. An Auburn University study shows cedar naturally repels silverfish and roaches, and a report by Cornell's Cooperative Extension Service says cedar-lined chests and closets are effective in repelling moths, but should be lightly sanded to release oils after a year or two of use. &lt;br /&gt;&lt;br /&gt;There are two options for your closet: Cedar planks are best for master bedrooms because they provide a luxurious look. The tongue-and-groove planks can be nailed to the walls horizontally, vertically or diagonally for an upscale look. Cedar panels, which are made from pressed cedar and come in 4 x 8 sheets, are best for secondary closet areas where pure functionality is the goal. Both work well with closet organizing systems, standard wire shelving or even high-end cedar shelves and drawers. &lt;br /&gt;&lt;br /&gt;It'll cost about $500 to line a good-size master bedroom closet with cedar planks, plus the cost of shelving. It'll cost about $150 to line a standard-size closet with 4' x 8' cedar panels.&lt;br /&gt;&lt;br /&gt;"What's amazing is the great cedar scent that people will notice when they walk into your bedroom" says Simpson. "And when they see what you've done to your closet, they'll say "'Wow!'"&lt;/p&gt;</content>
+	</entry>
+</feed>
+</body></html>

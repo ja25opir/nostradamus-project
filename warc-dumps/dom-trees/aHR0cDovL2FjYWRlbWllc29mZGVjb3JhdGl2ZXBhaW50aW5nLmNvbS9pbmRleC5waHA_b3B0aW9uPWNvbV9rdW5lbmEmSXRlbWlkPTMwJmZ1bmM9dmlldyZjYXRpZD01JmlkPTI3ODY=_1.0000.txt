@@ -1,0 +1,1374 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Rosemaling 2010 Photos, Academies of Decorative Painting, Academies of Decorative Painting, Forum, Academies of Decorative Painting">
+  <meta name="description" content="Academies Of Decorative Painting. Rosemaling 2010 Photos (1/1) - Academies of Decorative Painting - General Questions / Discussions - Academies of Decorative Painting Forum">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Rosemaling 2010 Photos - Academies of Decorative Painting</title>
+  <link rel="stylesheet" href="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/kunena.forum.css" type="text/css">
+  <script type="text/javascript" src="http://academiesofdecorativepainting.com/components/com_kunena/template/default/js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="http://academiesofdecorativepainting.com/components/com_kunena/template/default/js/kunenaforum.js"></script>
+  <script type="text/javascript">
+jr_expandImg_url = "http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/";
+ /* <![CDATA[ */  
+					function clickExplorer() {
+						if( document.all ) {
+							alert('We are sorry, only registered users can copy material from this site.  Thank you.');
+						}
+						return false;
+					}
+
+					function clickOther(e) {
+						if( document.layers || ( document.getElementById && !document.all ) ) {
+							if ( e.which == 2 || e.which == 3 ) {
+								alert('We are sorry, only registered users can copy material from this site.  Thank you.');
+								return false;
+							}
+						}
+					}
+					if( document.layers ) {
+						document.captureEvents( Event.MOUSEDOWN );
+						document.onmousedown=clickOther;
+					}
+					else {
+						document.onmouseup = clickOther;
+						document.oncontextmenu = clickExplorer;
+					}   /* ]]> */ 
+ /* <![CDATA[ */  window.addEvent('domready', function() { 
+				   
+	
+				    document.body.oncopy = function() { 
+							alert('We are sorry, only registered users can copy material from this site.  Thank you.'); 
+					 return false; } });  
+						 if( typeof( document.onselectstart ) != 'undefined' )
+							document.onselectstart = function(){ return false };
+						 document.ondragstart = function(){ return false }   /* ]]> */ 
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=fb_rss&amp;no_html=1">
+
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+
+  <link rel="stylesheet" type="text/css" href="/templates/academyfrontpagecss11/css/template.css">
+  <!--[if IE 6]><link rel="stylesheet" href="/templates/academyfrontpagecss11/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="/templates/academyfrontpagecss11/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript" src="/templates/academyfrontpagecss11/script.js"></script>
+ </head>
+<body>
+<div id="art-page-background-simple-gradient">
+</div>
+<div id="art-main">
+<div class="art-Sheet">
+    <div class="art-Sheet-tl"></div>
+    <div class="art-Sheet-tr"></div>
+    <div class="art-Sheet-bl"></div>
+    <div class="art-Sheet-br"></div>
+    <div class="art-Sheet-tc"></div>
+    <div class="art-Sheet-bc"></div>
+    <div class="art-Sheet-cl"></div>
+    <div class="art-Sheet-cr"></div>
+    <div class="art-Sheet-cc"></div>
+    <div class="art-Sheet-body">
+<div class="art-Header">
+    <div class="art-Header-png"></div>
+    <div class="art-Header-jpeg"></div>
+<div class="art-Logo">
+ <h1 id="name-text" class="art-Logo-name"><a href="/">Academies of Decorative Painting</a></h1>
+ <div id="slogan-text" class="art-Logo-text">Contemporary and Historical Styles of Decorative Painting</div>
+</div>
+
+
+</div>
+<div class="art-nav">
+	<div class="l"></div>
+	<div class="r"></div>
+<ul class="art-menu"><li class="item65"><a href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=65"><span class="l"> </span><span class="r"> </span><span class="t">Home</span></a></li><li class="item102"><a href="http://HeritageArtEducation.com" target="_blank"><span class="l"> </span><span class="r"> </span><span class="t">Heritage Education</span></a></li><li class="item103"><a href="http://MyFirstPaintings.com" target="_blank"><span class="l"> </span><span class="r"> </span><span class="t">My First Paintings</span></a></li><li id="current" class="active item30"><a href="/index.php?option=com_kunena&amp;Itemid=30" class="active"><span class="l"> </span><span class="r"> </span><span class="t">Forum</span></a></li><li class="item61"><a href="http://www.palettemuseum.com/" target="_blank"><span class="l"> </span><span class="r"> </span><span class="t">Palette Museum</span></a></li><li class="parent item57"><a href="/index.php?option=com_content&amp;view=article&amp;id=130&amp;Itemid=57"><span class="l"> </span><span class="r"> </span><span class="t">Art Gallery</span></a><ul><li class="item92"><a href="/index.php?option=com_content&amp;view=article&amp;id=130&amp;Itemid=92">About the Art Gallery</a></li><li class="item93"><a href="http://traditionalartsgallery.com" target="_blank">Enter Tradtional Arts Gallery</a></li></ul></li><li class="parent item58"><a href="/index.php?option=com_content&amp;view=article&amp;id=50&amp;Itemid=58"><span class="l"> </span><span class="r"> </span><span class="t">Academy TV</span></a><ul><li class="item94"><a href="/index.php?option=com_content&amp;view=article&amp;id=50&amp;Itemid=94">About ADP Television</a></li><li class="item95"><a href="http://adp.blip.tv/" target="_blank">Enter ADP Television Program</a></li></ul></li><li class="item63"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=63"><span class="l"> </span><span class="r"> </span><span class="t">News</span></a></li></ul></div>
+
+
+<div class="art-contentLayout">
+<div class="art-sidebar1"><div class="art-Block">
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Main Menu</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<ul class="menu"><li class="item1"><a href="http://academiesofdecorativepainting.com/"><span>ADP Main Page</span></a></li><li class="item91"><a href="/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=91"><span>Sponsors and Members</span></a></li><li class="item60"><a href="/index.php?option=com_content&amp;view=article&amp;id=48&amp;Itemid=60"><span>International Academies</span></a></li><li class="item59"><a href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=59"><span>Site Map</span></a></li><li class="item41"><a href="/index.php?option=com_content&amp;view=section&amp;id=3&amp;Itemid=41"><span>FAQ</span></a></li></ul>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		International Academies</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<ul class="menu"><li class="item96"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=46&amp;Itemid=96"><span>Visit Australia</span></a></li><li class="item97"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=44&amp;Itemid=97"><span>Visit Canada</span></a></li><li class="item98"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=41&amp;Itemid=98"><span>Visit France</span></a></li><li class="item99"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=43&amp;Itemid=99"><span>Visit Japan</span></a></li><li class="item100"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=45&amp;Itemid=100"><span>Visit United States</span></a></li><li class="item101"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=42&amp;Itemid=101"><span>Visit Taiwan</span></a></li></ul>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Reference Information</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<ul class="menu"><li class="item87"><a href="/index.php?option=com_content&amp;view=category&amp;id=37&amp;Itemid=87"><span>Artist Spotlight</span></a></li></ul>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Resources</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<ul class="menu"><li class="item66"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=66"><span>ADP Community</span></a></li><li class="item67"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=67"><span>Historical Styles</span></a></li><li class="item68"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=68"><span>Affiliated Organizations</span></a></li></ul>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Industry Interests</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<ul class="menu"><li class="item70"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=70"><span>Exhibitions</span></a></li><li class="item71"><a href="/index.php?option=com_content&amp;view=article&amp;id=70&amp;Itemid=71"><span>Conventions</span></a></li></ul>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Academies Login</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<form action="http://academiesofdecorativepainting.com/index.php?option=com_comprofiler&amp;task=login" method="post" id="mod_loginform" style="margin:0px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tbody><tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br>
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14"><br>
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14"></span><br>
+<input type="hidden" name="op2" value="login">
+<input type="hidden" name="lang" value="english">
+<input type="hidden" name="force_session" value="1">
+<input type="hidden" name="return" value="B:aHR0cDovL2FjYWRlbWllc29mZGVjb3JhdGl2ZXBhaW50aW5nLmNvbS9pbmRleC5waHA/b3B0aW9uPWNvbV9rdW5lbmEmYW1wO0l0ZW1pZD0zMCZhbXA7ZnVuYz12aWV3JmFtcDtjYXRpZD01JmFtcDtpZD0yNzg2">
+<input type="hidden" name="message" value="0">
+<input type="hidden" name="loginfrom" value="loginmodule">
+<input type="hidden" name="cbsecuritym3" value="cbm_1f30f159_78d38785_22788a18c8b0abb5780e9226ca3920d3">
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes"> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br>
+<span class="art-button-wrapper"><span class="l"> </span><span class="r"> </span><input type="submit" name="Submit" class="button art-button" value="Login"></span></td></tr>
+<tr><td><a href="http://academiesofdecorativepainting.com/index.php?option=com_comprofiler&amp;task=lostpassword" class="mod_login">Forgot login?</a></td></tr>
+<tr><td>No account yet? <a href="http://academiesofdecorativepainting.com/index.php?option=com_comprofiler&amp;task=registers" class="mod_login">Register</a></td></tr>
+</tbody></table></form>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-body">
+		
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		<!-- block-content -->
+		
+		<ul class="menu"><li class="item1"><a href="http://academiesofdecorativepainting.com/"><span>ADP Main Page</span></a></li><li class="item91"><a href="/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=91"><span>Sponsors and Members</span></a></li><li class="item60"><a href="/index.php?option=com_content&amp;view=article&amp;id=48&amp;Itemid=60"><span>International Academies</span></a></li><li class="item59"><a href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=59"><span>Site Map</span></a></li><li class="item41"><a href="/index.php?option=com_content&amp;view=section&amp;id=3&amp;Itemid=41"><span>FAQ</span></a></li></ul>
+		<!-- /block-content -->
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+</div>
+<div class="art-content">
+
+<div class="art-Post">
+		    <div class="art-Post-body">
+		<div class="art-Post-inner">
+		
+				<div class="art-PostContent">
+		
+		
+<!-- closed in footer.html -->
+<div id="Kunena">
+
+
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="Kunena_top">
+  <tbody><tr>
+    <td align="left" nowrap="nowrap"><div id="fb_topmenu"><div id="Kunena_tab"><ul> <li><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=latest" title="" rel="follow"><span>Recent Discussions</span></a></li><li><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=listcat" title="" rel="follow"><span>Categories</span></a></li> <li><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=rules" title="" rel="nofollow"><span>Rules</span></a></li> <li><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=faq" title="" rel="nofollow"><span>Help</span></a></li></ul></div></div></td>
+    <td align="right" width="5%"><div id="fb_searchbox"><form action="/index.php?option=com_kunena&amp;Itemid=30&amp;func=search" name="searchFB" method="post"><input class="fb_search_inputbox fbs" type="text" name="q" size="15" value="Search Forum" onblur="if(this.value=='') this.value='Search Forum';" onfocus="if(this.value=='Search Forum') this.value='';"> <input type="submit" value="Go" name="submit" class="fb_button fbs"></form></div></td>
+     <td align="right" width="1%"><img id="BoxSwitch_topprofilebox__topprofilebox_tbody" class="hideshow" src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/shrink.gif" alt=""></td>
+  </tr>
+</tbody></table> 
+
+
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="fb_profilebox">
+        <tbody id="topprofilebox_tbody">
+            <tr class="fb_sectiontableentry1">
+                <td valign="top" class="td-1  fbm fb_profileboxcnt" align="left">
+Welcome, <b>Guest</b>
+
+                <br> Please
+                <a href="/index.php?option=com_user&amp;view=login">Login</a> or <a href="/index.php?option=com_user&amp;view=register&amp;Itemid=30">Register</a>.
+
+                &nbsp;&nbsp;
+
+                <a href="/index.php?option=com_user&amp;view=reset&amp;Itemid=30">Lost Password?</a>
+
+</td>
+			
+            </tr>
+        </tbody>
+    </table>
+
+
+        <script type="text/javascript">
+        jQuery(function()
+        {
+            jQuery(".fb_qr_fire").click(function()
+            {
+                jQuery("#sc" + (jQuery(this).attr("id").split("__")[1])).toggle();
+            });
+            jQuery(".fb_qm_cncl_btn").click(function()
+            {
+                jQuery("#sc" + (jQuery(this).attr("id").split("__")[1])).toggle();
+            });
+
+        });
+        </script>
+
+        <div>
+            <!-- Pathway -->
+<div class="fb_forum-pathway"><div class="path-element-first"><a href="/index.php?option=com_kunena&amp;Itemid=30" title="" rel="follow">Academies of Decorative Painting</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=showcat&amp;catid=1" title="" rel="follow">Academies of Decorative Painting</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=showcat&amp;catid=5" title="" rel="follow">General Questions / Discussions</a></div><br><div class="path-element-last">Rosemaling 2010 Photos</div><div class="path-element-users">(4 viewing)&nbsp;<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=243" title="" rel="nofollow">lberetta</a>, <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=248" title="" rel="nofollow">Martine</a>, <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=944" title="" rel="nofollow">toleartiste</a>, (1) Guest</div></div><!-- / Pathway -->
+        </div>
+        		<table class="fb_forum-headerdesc" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td>
+					General Question/ Discussions				</td>
+			</tr>
+		</tbody></table>
+        
+        <!-- B: List Actions -->
+
+        <table class="fb_list_actions" border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tbody><tr>
+                <td class="fb_list_actions_goto">
+                    <a name="forumtop"> </a><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#forumbottom" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/bottom_arrow.gif" border="0" alt="Go to bottom" title="Go to bottom"></a></td><td class="fb_list_actions_forum" width="100%"></td><td class="fb_list_pages_all" nowrap="nowrap"><span class="fb_pagination">Page: <strong>1</strong></span></td>            </tr>
+        </tbody></table>
+
+        <!-- F: List Actions -->
+
+        <!-- <table border = "0" cellspacing = "0" cellpadding = "0" width = "100%" align = "center"> -->
+
+            <table class="fb_blocktable" id="fb_views" cellpadding="0" cellspacing="0" border="0" width="100%">
+                <thead>
+                    <tr>
+                        <th align="left">
+                             <div class="fb_title_cover  fbm">
+                                <span class="fb_title fbl"><b>TOPIC: </b> Rosemaling 2010 Photos</span>
+                            </div>
+                            <!-- B: FORUM TOOLS -->
+
+                            
+<script type="text/javascript">
+    jQuery(document).ready(function()
+    {
+        jQuery("#jrftsw").click(function()
+        {
+            jQuery(".forumtools_contentBox").slideToggle("fast");
+            return false;
+        });
+    });
+</script>
+
+<div id="fb_ft-cover">
+    <div id="forumtools_control">
+        <a href="#" id="jrftsw" class="forumtools">Forum Tools</a>
+    </div>
+
+    <div class="forumtools_contentBox" id="box1">
+        <div class="forumtools_content" id="subBox1">
+            <ul>
+                <li>
+                <a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=post&amp;do=reply&amp;catid=5">Post New Topic</a>
+                </li>
+
+                
+                        <li>
+                        <a href="/index.php?option=com_kunena&amp;Itemid=30&amp;id=2786&amp;catid=5&amp;func=fb_pdf" rel="nofollow">Pdf</a>
+                        </li>
+
+                
+                <li>
+                
+                </li>
+
+                
+                <li>
+                 <a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=latest">Show latest posts</a>
+                </li>
+
+                <li><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=rules">Rules</a></li><li><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=faq">Help</a></li>            </ul>
+        </div>
+    </div>
+</div>			    <!-- F: FORUM TOOLS -->
+        	            <!-- Begin: Total Favorite -->
+	                    <div class="fb_totalfavorite"></div>	                    <!-- Finish: Total Favorite -->
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody><tr>
+                    <td>
+                        
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2786"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2786" title="" rel="nofollow">#2786</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 07:41">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 14
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">Hi Forum,<br>
+Here are some photos from the Rosemaling 2010 Class.  I have lots more but I am saving a few... <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/smile.png" alt="" style="vertical-align: middle;border:0px;"> <br>
+<br>
+It was a fantastic class.  I love how some ventured out into different colors and shapes.  The growth in this style of painting amazes me.  Seems everyone is Rosemaling!<br>
+<br>
+Martha and I will rework the schedule for next year and see if we can't add another class since 25 were on the waiting list to get in and didn't make it. <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/sad.png" alt="" style="vertical-align: middle;border:0px;">   We will try to do better.. <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/smile.png" alt="" style="vertical-align: middle;border:0px;"> Here are some photos...<br>
+Dave <a href="http://academiesofdecorativepainting.com/images/fbfiles/images/Rosemaling_Photo1.jpg" rel="lightbox"><img src="http://academiesofdecorativepainting.com/images/fbfiles/images/Rosemaling_Photo1.jpg" style="max-width:405px; " alt=""></a> <a href="http://academiesofdecorativepainting.com/images/fbfiles/images/Rosemaling_Photo2.jpg" rel="lightbox"><img src="http://academiesofdecorativepainting.com/images/fbfiles/images/Rosemaling_Photo2.jpg" style="max-width:405px; " alt=""></a></div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=62" title="" rel="nofollow">David Jansen</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=62" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/62.jpg" alt=""></span></a>
+				
+				                    <div class="viewcover">
+                   I Love To Paint and Teach!                  </div>
+                                <div class="viewcover">
+                    Admin                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rankadmin.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 359</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="51" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="9" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=62" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgmale.gif" border="0" alt="Gender: Male" title="Gender: Male">                                        <a href="http://JansenArtStudio.com" target="_blank"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgwebsite.gif" border="0" alt="Jansen Art Studio" title="Jansen Art Studio"></a>                                                             					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msglocation.gif" border="0" alt="Location: Elizabethtown, PA" title="Location: Elizabethtown, PA">                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgbirthdate.gif" border="0" alt="Birthday: 12/28" title="Birthday: 12/28">
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+<span class="fb_message_editMarkUp">Last Edit: 2010/07/14 07:43 By David Jansen.</span>		</div>
+		<div class="msgsignature"><div>Chevalier David W. Jansen MDA<br>
+Heritage Designer</div></div>		<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2787"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2787" title="" rel="nofollow">#2787</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 07:47">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 8
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">David,<br>
+<br>
+My gosh, what a class!!!<br>
+<br>
+.............and the food, there is lots and lots of it on the table..............  Is everything homemade???  <br>
+<br>
+Pauline <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/cheerful.png" alt="" style="vertical-align: middle;border:0px;"></div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=93" title="" rel="nofollow">Pauline Tatone</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=93" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/nophoto.jpg" alt=""></span></a>
+				
+				                <div class="viewcover">
+                    Gold Boarder                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rank5.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 209</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="30" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="30" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=93" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                                                                                                                         					                                        
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+				<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2790"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2790" title="" rel="nofollow">#2790</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 07:57">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 8
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">Hello All,<br>
+<br>
+I was just thinking about the Rosemaling seminar and noticed that David had posted this thread.  It was an amazing event.  I absolutely love Rosemaling...the history, the opportunity to move it in a new direction, the elegance of the scrolls and flowers.  I also have come to value the experiences of painting in groups.  It inspires me and helps me grow as an artist and as a person.  In this particular class there were people that were "doing their own thing" as they made Rosemaling fit in to their own artistic termperment.  There were also those that chose to do exactly what the lesson plan stated thereby concentrating on the techniques.  In my particular case I painted the lesson as instructed but also designed and painted another smaller piece of my own design so that I could cement the style and come away with a few original pieces.  It was well worth the challenge.  <br>
+<br>
+Everytime I go to another seminar I am reminded of the importance of the fellowship that decorative painting offers.  For instance, in this last seminar I had the opportunity to attend with many old friends.  I also made some new friends.  All of these friendships are important to me and represent the best that decorative painting has to offer.  Great learning, great friendship and...GREAT FOOD.  The only downside to a Jansen seminar is that I am most certain to gain a few pounds...I would like to blame it on Martha but I am weak willed.  <br>
+<br>
+Anyhow, I will post pictures of my seminar pieces as soon as I can.  I really enjoy the process of sharing our paintings with on another.  Okay, I am off to the studio for the day.  Paint well and often.<br>
+<br>
+Sincerely,<br>
+<br>
+Paul Seymour</div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=193" title="" rel="nofollow">Paul Seymour</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=193" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/193.jpg" alt=""></span></a>
+				
+				                <div class="viewcover">
+                    Admin                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rankadmin.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 102</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="15" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="45" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=193" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                                                                                                                         					                                        
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+				<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2795"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2795" title="" rel="nofollow">#2795</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 08:40">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 4
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">David, this is the class I would love to take from you next year!!  The painting looks amazing... and then there is the food <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/smile.png" alt="" style="vertical-align: middle;border:0px;"> ...<br>
+<br>
+I can't wait to see Paul's finished pieces and Bobbie's... actually all of them!<br>
+<br>
+Have a great day all!<br>
+Blessings,<br>
+Melodye</div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=212" title="" rel="nofollow">Melodye Olsavsky </a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=212" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/212.jpg" alt=""></span></a>
+				
+				                    <div class="viewcover">
+                   I am a wife, mother, artist, jewelry designer                  </div>
+                                <div class="viewcover">
+                    Expert Boarder                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rank4.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 88</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="13" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="47" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=212" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgfemale.gif" border="0" alt="Gender: Female" title="Gender: Female">                                        <a href="http://www.melodyejoy.wordpress.com/" target="_blank"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgwebsite.gif" border="0" alt="MelodyeJoy's Blog" title="MelodyeJoy's Blog"></a>                                                             					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msglocation.gif" border="0" alt="Location: Nanty Glo, PA" title="Location: Nanty Glo, PA">                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgbirthdate.gif" border="0" alt="Birthday: 09/07" title="Birthday: 09/07">
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+		<div class="msgsignature"><div>Melodye Olsavsky<br>
+<a href="http://www.melodyejoy.wordpress.com/" target="_blank" rel="nofollow">www.melodyejoy.wordpress.com/</a></div></div>		<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2798"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2798" title="" rel="nofollow">#2798</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 12:35">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 4
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">Adding to Paul's message, there is nothing like being in class with so many creative minds around.  You get to fill your cup with all of the energy going on.  I simply loved seeing all of the different combinations that everyone talked about.  Even some of us tried smaller pieces with those differenct color combinations.  <br>
+<br>
+Of course I can't forget the FOOD    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/w00t.png" alt="" style="vertical-align: middle;border:0px;"> Martha and company do know how to keep you energized  <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/laughing.png" alt="" style="vertical-align: middle;border:0px;">.<br>
+<br>
+I just say enough about the positive additudes and energy that was in the classroom for 3 days.  I've come home this such good memories and a renewed energy.<br>
+<br>
+Of course the morning that Bobbie and I left we got 2 showers that morning.  <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/laughing.png" alt="" style="vertical-align: middle;border:0px;"> .  As we were leaving the skies opened up and must have dumped the entire rainfall of San Diego in about 5 minutes.  We dried off at the airport and contiued on our way home.<br>
+<br>
+Elaine</div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=250" title="" rel="nofollow">elainecendali</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=250" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/nophoto.jpg" alt=""></span></a>
+				
+				                <div class="viewcover">
+                    Senior Boarder                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rank3.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 68</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="10" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="50" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=250" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                                                                                                                         					                                        
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+				<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2808"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2808" title="" rel="nofollow">#2808</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 18:47">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 11
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">Great photos of the Rosemaling seminar. Plenty of fun, painting, food, painting....<br>
+<br>
+Thanks for sharing the photos with us Dave.<br>
+<br>
+Hazel</div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=67" title="" rel="nofollow">Hazel Anthony</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=67" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/67.jpg" alt=""></span></a>
+				
+				                    <div class="viewcover">
+                   Artist, teacher                  </div>
+                                <div class="viewcover">
+                    Admin                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rankadmin.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 347</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="49" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="11" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=67" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgfemale.gif" border="0" alt="Gender: Female" title="Gender: Female">                                        <a href="http://www.kintail-studio.com" target="_blank"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgwebsite.gif" border="0" alt="Kintail Studio" title="Kintail Studio"></a>                                                             					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msglocation.gif" border="0" alt="Location: Langwarrin, Melbourne, Australia" title="Location: Langwarrin, Melbourne, Australia">                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgbirthdate.gif" border="0" alt="Birthday: 12/02" title="Birthday: 12/02">
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+		<div class="msgsignature"><div>Hazel Anthony, Heritage Designer<br>
+Global Art Supply, Australia<br>
+<a href="http://kintail-studio.com" target="_blank" rel="nofollow">kintail-studio.com</a></div></div>		<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2817"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2817" title="" rel="nofollow">#2817</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/14 22:20">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 12
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">How nice! I can't WAIT to come back!!!  <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/w00t.png" alt="" style="vertical-align: middle;border:0px;"></div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=87" title="" rel="nofollow">Missy</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=87" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/gallery/butterfly.gif" alt="" style="max-width: 100px; max-height: 100px;"></span></a>
+				
+				                    <div class="viewcover">
+                   Painting, Teaching, PAINTING!                   </div>
+                                <div class="viewcover">
+                    Platinum Boarder                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rank6.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 454</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="64" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=87" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                                                                                                                         					                                        <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgbirthdate.gif" border="0" alt="Birthday: 05/10" title="Birthday: 05/10">
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+		<div class="msgsignature"><div><span class="fbl"><span style="color: #8040FF">Missy aka Lynn Hanely<br>
+Heritage Teacher <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/smile.png" alt="" style="vertical-align: middle;border:0px;"> </span><br>
+</span></div></div>		<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2922"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2922" title="" rel="nofollow">#2922</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/16 21:44">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 10
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">Missy,<br>
+It makes you count the days huh ? I only wish I had enough money to attend one of each of the Seminars. Sigh....someday maybe but until I do what I can and am grateful.<br>
+MArgo</div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=88" title="" rel="nofollow">paintermargo</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=88" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/88.jpg" alt=""></span></a>
+				
+				                    <div class="viewcover">
+                   Painting Is My Passion !                  </div>
+                                <div class="viewcover">
+                    Gold Boarder                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rank5.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 166</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="24" alt="graph" style="border: 0px solid #333333"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/graph.gif" height="4" width="36" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=88" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgfemale.gif" border="0" alt="Gender: Female" title="Gender: Female">                                                                                                     					                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msglocation.gif" border="0" alt="Location: San Jose California" title="Location: San Jose California">                    
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+		<div class="msgsignature"><div>Margo Geyer,<br>
+Heritage Teacher<br>
+Passion for Paint Art Studio</div></div>		<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr class="fb_sth">
+            <th colspan="2" class="view-th fb_sectiontableheader">
+        	<a name="2928"></a>
+<a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#2928" title="" rel="nofollow">#2928</a>            </th>
+        </tr>
+
+        <tr> <!-- -->
+
+        <td class="fb-msgview-right">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td align="left" width="100%">
+                                                        <span class="msgtitle">Re:Rosemaling 2010 Photos </span> <span class="msgdate" title="2010/07/16 22:50">2 Months ago</span>
+                        </td>
+
+                        <td align="right">
+                            <span class="msgkarma">
+
+                            <strong>Karma:</strong> 12
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <div class="msgtext">I hear you Margo. This awesome, wonderful seminar(s) experience that I've 'treated' myself too this year gives me all sorts of inspiration to gather more students to help me earn money so I can 'treat' myself again and again. Therefore, it's a win WIN situation all around. I do my best to put aside a stash from my teaching income towards my education. I think of it as a reinvestment in myself.</div>
+
+                            
+
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </td>
+
+              <td class="fb-msgview-left">
+                <div class="fb-msgview-l-cover">
+                    <span class="view-username">
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=87" title="" rel="nofollow">Missy</a>                    </span>
+                    <br>
+<a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=87" title="" rel="nofollow"><span class="fb_avatar"><img border="0" src="http://academiesofdecorativepainting.com/images/fbfiles/avatars/gallery/butterfly.gif" alt="" style="max-width: 100px; max-height: 100px;"></span></a>
+				
+				                    <div class="viewcover">
+                   Painting, Teaching, PAINTING!                   </div>
+                                <div class="viewcover">
+                    Platinum Boarder                </div>
+
+                <div class="viewcover">
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/ranks/rank6.gif" alt="">                </div>
+
+                    
+                    <div class="viewcover"><strong>Posts: 454</strong></div><div class="viewcover"><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td width="64"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/graph/col9m.png" height="4" width="64" alt="graph" style="border: 0px solid #333333"></td></tr></tbody></table></div>
+                    
+                    <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/offline.gif" border="0" alt="User Offline">
+                    
+                    <a href="/index.php?option=com_kunena&amp;func=fbprofile&amp;Itemid=30&amp;userid=87" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/profile.gif" alt="Click here to see the profile of this user" border="0" title="Click here to see the profile of this user"></a>                    <br>
+ 					                                                                                                                         					                                        <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/msgbirthdate.gif" border="0" alt="Birthday: 05/10" title="Birthday: 05/10">
+                </div>
+            </td>
+<!-- -->
+
+        </tr>
+
+	<tr><td class="fb-msgview-right-b">
+		<div class="fb_message_editMarkUp_cover">
+		</div>
+		<div class="msgsignature"><div><span class="fbl"><span style="color: #8040FF">Missy aka Lynn Hanely<br>
+Heritage Teacher <img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/smile.png" alt="" style="vertical-align: middle;border:0px;"> </span><br>
+</span></div></div>		<div class="fb_message_buttons_cover">
+			<div class="fb_message_buttons_row">
+                
+                The administrator has disabled public write access.			</div>
+		</div>
+
+            </td>
+            <td class="fb-msgview-left-b">&nbsp;
+
+            </td>
+
+        </tr>
+    </tbody>
+</table>
+<!-- Begin: Message Module Positions -->
+<!-- Finish: Message Module Positions -->
+                    </td>
+                </tr>
+
+                            </tbody></table>
+
+
+            <!-- B: List Actions Bottom -->
+            <table class="fb_list_actions_bottom" border="0" cellspacing="0" cellpadding="0" width="100%">
+                <tbody><tr>
+                    <td class="fb_list_actions_goto">
+                        <a name="forumbottom"> </a><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=view&amp;catid=5&amp;id=2786#forumtop" title="" rel="nofollow"><img src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/icons/top_arrow.gif" border="0" alt="Go to top" title="Go to top"></a></td><td class="fb_list_actions_forum" width="100%"></td><td class="fb_list_pages_all" nowrap="nowrap"><span class="fb_pagination">Page: <strong>1</strong></span></td></tr></tbody></table><div class="fb_forum-pathway-bottom"><div class="path-element-first"><a href="/index.php?option=com_kunena&amp;Itemid=30" title="" rel="follow">Academies of Decorative Painting</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=showcat&amp;catid=1" title="" rel="follow">Academies of Decorative Painting</a></div><div class="path-element"><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=showcat&amp;catid=5" title="" rel="follow">General Questions / Discussions</a></div></div>	<!-- F: List Actions Bottom -->
+
+	<!-- B: Category List Bottom -->
+
+<table class="fb_list_bottom" border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tbody><tr>
+      <td class="fb_list_moderators">
+
+                    <!-- Mod List -->
+
+                        
+                                <!-- /Mod List -->
+      </td>
+      <td class="fb_list_categories"> <form id="jumpto" name="jumpto" method="post" target="_self" action="/index.php?option=com_kunena&amp;Itemid=30">
+    <span style="width: 100%; text-align: right;">
+
+        <input type="hidden" name="func" value="showcat">
+	<select name="catid" id="catid" class="inputbox fbs" size="1" onchange="if(this.options[this.selectedIndex].value > 0){ this.form.submit() }"><option value="0">Board Categories </option><option value="1">Academies of Decorative Painting</option><option value="2">...&nbsp;Welcome Mat</option><option value="3">...&nbsp;Suggestion Box</option><option value="8">...&nbsp;Academy Questions</option><option value="9">...&nbsp;Artist Market and Books Reviews</option><option value="4">Painting Techniques Forum</option><option value="6">...&nbsp;General Questions</option><option value="7">...&nbsp;Color Theory and Pigments</option><option value="10">Free Forum Classroom- Registered Members Area</option><option value="21">Heritage Teacher Forum- Teacher Members Only</option><option value="17">Heritage Team Forum- Designers and Ambassadors</option></select>        <input type="submit" name="Go" class="fb_button fbs" value="Go">
+    </span>
+</form>
+      </td>
+    </tr>
+</tbody></table>
+	<!-- F: Category List Bottom -->
+
+<div class="fb_credits"> <a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=credits&amp;catid=5" title="" rel="follow">Powered by </a> <a href="http://www.kunena.com" title="Kunena" rel="follow" target="_blank">Kunena</a><a href="/index.php?option=com_kunena&amp;Itemid=30&amp;func=fb_rss&amp;no_html=1" title="" rel="follow" target="_blank"><img class="rsslink" src="http://academiesofdecorativepainting.com/components/com_kunena/template/default_ex/images/english/emoticons/rss.gif" border="0" alt="get the latest posts directly to your desktop" title="get the latest posts directly to your desktop"></a></div>
+<div class="fb_footer">	 
+</div>
+</div> <!-- closes Kunena div -->
+
+		</div>
+		<div class="cleared"></div>
+		
+		
+		</div>
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+
+<div class="art-Post">
+		    <div class="art-Post-body">
+		<div class="art-Post-inner">
+		
+				<div class="art-PostContent">
+		
+		<div class="bannergroup">
+
+<div class="banneritem"><a href="/index.php?option=com_banners&amp;task=click&amp;bid=9" target="_blank"><img src="http://academiesofdecorativepainting.com/images/banners/GlobalArtBanner2.jpg" alt="Banner"></a><div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+		<div class="cleared"></div>
+		
+		
+		</div>
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Post">
+		    <div class="art-Post-body">
+		<div class="art-Post-inner">
+		
+				<div class="art-PostContent">
+		
+		<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="30">
+</form>
+		</div>
+		<div class="cleared"></div>
+		
+		
+		</div>
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+</div>
+
+</div>
+<div class="cleared"></div>
+
+
+<div class="art-Footer">
+ <div class="art-Footer-inner">
+    <div class="art-Footer-text">
+    <div class="art-nostyle">
+<p>Copyright 2010 Academies of Decorative Painting</p></div>
+    </div>
+ </div>
+ <div class="art-Footer-background"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer"></p>
+</div>
+
+ 
+</body></html>

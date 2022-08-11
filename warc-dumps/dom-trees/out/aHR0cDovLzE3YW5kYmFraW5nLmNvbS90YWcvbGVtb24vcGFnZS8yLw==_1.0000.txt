@@ -1,0 +1,460 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>lemon « 17 and Baking</title>
+
+	<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/pub/blix/style.css?m=1276732079g&amp;1" type="text/css" media="screen, projection">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://17andbaking.com/feed/">
+	<link rel="pingback" href="http://17andbaking.com/xmlrpc.php">
+				<script src="http://wordpress.com/remote-login.php?action=js&amp;host=17andbaking.com&amp;id=7121958&amp;t=1284706736&amp;back=17andbaking.com%2Ftag%2Flemon%2Fpage%2F2%2F" type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="17 and Baking » lemon Tag Feed" href="http://17andbaking.com/tag/lemon/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/h4/global.css?m=1256671583g" type="text/css">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://17andbaking.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://17andbaking.wordpress.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="17 and Baking" href="http://17andbaking.com/">
+<meta name="generator" content="WordPress.com">
+<link rel="shortcut icon" type="image/x-icon" href="http://s1.wp.com/i/favicon-stacked.ico?m=1284002170g" sizes="16x16 24x24 32x32 48x48">
+<link rel="icon" type="image/x-icon" href="http://s1.wp.com/i/favicon-stacked.ico?m=1284002170g" sizes="16x16 24x24 32x32 48x48">
+<link rel="apple-touch-icon" href="http://s0.wp.com/wp-content/themes/h4/i/webclip.png?m=1250548519g">
+	<style type="text/css">
+	/* <![CDATA[ */
+				div#likes { margin-top: 15px; }
+		.like-button { border: 1px solid #eee; padding: 2px 6px; font-size: 13px; font-family: arial, tahoma, sans-serif; }
+		#wpl-likebox { clear: left; font-size: 11px; font-family: arial, tahoma, verdana, sans-serif !important; min-height: 30px; margin: 10px 0 !important; padding: 5px 0 10px 0 !important; }
+		#wpl-button { float: left; background: url( /i/buttonbg.png ) top left repeat-x; margin-right: 7px; border: 1px solid #d4d4d4; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+		#wpl-button a { color: #666 !important; line-height: 130% !important; text-decoration: none !important; outline: none; float: left; padding: 3px 6px 2px 24px !important; font-size: 11px !important; background: url( /i/likestar.png ) 6px 49.8% no-repeat; }
+		#wpl-button.liked { background: #feffce; border: 1px solid #f3e389; }
+		#wpl-button.liked a { color: #ba871b !important; }
+		#wpl-likebox #wpl-count { min-height: 25px; line-height: 130% !important; float: left; padding-top: 4px; }
+		#wpl-likebox #wpl-avatars { clear: left; max-height: 98px; overflow: hidden; margin-top: 15px; line-height: 130% !important; }
+		#wpl-likebox #wpl-avatars img { border: none !important; }
+	/* ]]> */
+	</style>
+	<link rel="openid.server" href="http://17andbaking.wordpress.com/?openidserver=1">
+<link rel="openid.delegate" href="http://17andbaking.wordpress.com/">
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com">
+<link rel="search" type="application/opensearchdescription+xml" href="http://17andbaking.com/osd.xml" title="17 and Baking">
+<style type="text/css">
+#header{
+	background: url(http://17andbaking.files.wordpress.com/2009/04/banner2.png) no-repeat;
+}
+#header h1, #header #desc {
+	display: none;
+}
+</style>
+<meta name="application-name" content="17 and Baking"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://17andbaking.com/feed/;icon-uri=http://s1.wp.com/i/favicon-stacked.ico"><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><link rel="stylesheet" href="http://17andbaking.wordpress.com/wp-content/mu-plugins/sharing/sharing.css?v=0.3" type="text/css"></head>
+
+<body>
+<div id="container">
+
+<!-- header ................................. -->
+<div id="header">
+	<h1><a href="http://17andbaking.com">17 and Baking</a></h1>
+</div> <!-- /header -->
+
+<!-- navigation ................................. -->
+<div id="navigation">
+
+	<form action="http://17andbaking.com/" method="get">
+		<fieldset>
+			<input value="" name="s" id="s">
+			<input type="submit" value="Go!" id="searchbutton" name="searchbutton">
+		</fieldset>
+	</form>
+
+	<ul class="menu">
+	<li><a href="http://17andbaking.com">Home</a></li>
+	<li class="page_item page-item-122"><a href="http://17andbaking.com/about-the-baker/" title="About">About</a></li>
+<li class="page_item page-item-639"><a href="http://17andbaking.com/featured-on/" title="Featured&nbsp;On">Featured&nbsp;On</a></li>
+<li class="page_item page-item-125"><a href="http://17andbaking.com/recipe-index/" title="Recipes">Recipes</a></li>
+<li class="page_item page-item-187"><a href="http://17andbaking.com/goals-wishlist/" title="Wishlist">Wishlist</a></li>
+</ul>
+
+</div><!-- /navigation -->
+
+<hr class="low">
+
+<!-- content ................................. -->
+<div id="content" class="archive">
+
+
+			<h2>Posts Tagged lemon</h2>
+		
+
+	
+
+	<div id="post-708" class="post-708 post type-post hentry category-cookies category-daring-bakers tag-chocolate tag-cookies tag-daring-bakers tag-lavender tag-lemon entry">
+
+		<h3><a href="http://17andbaking.com/2009/07/27/lavender-fields-forever-milano-cookies-daring-bakers/">Lavender Fields Forever! Milano Cookies – Daring&nbsp;Bakers</a></h3>
+
+		<div class="snap_preview"><p style="text-align:center;"><img class="aligncenter" src="http://img190.imageshack.us/img190/5673/final2ybm.jpg" alt=""></p>
+<p style="text-align:left;">I don’t like a lot of store-bought, commercial cookies. I’ve never really liked Oreos, Chips Ahoy, or Mother’s cookies, preferring instead to make my own sandwich cookies and chocolate chip studded sweets. But when I saw July’s Daring Bakers challenge – a version of the Pepperidge Farm milano cookie – I knew right away I would like it.</p>
+<p style="text-align:left;">The July Daring Bakers’ challenge was hosted by Nicole at <a href="http://sweetendingz.blogspot.com/">Sweet Tooth</a>. She chose Chocolate Covered Marshmallow Cookies and Milan Cookies from pastry chef Gale Gand of the Food Network.</p>
+<p style="text-align:left;">The original plan was a lemon and basil milano – lemon cookies and a basil ganache.&nbsp; At first I decided to use a shell shaped cookie mold, but it was too deep and the milanos came out more like madeleines. I realized that the cookies did indeed have to be very thin to be crispy enough. I tried to follow the instructions exactly and used the remaining batter to pipe out milanos.</p>
+<p style="text-align:left;">Oh man. They looked like amoebas. Seriously. Not two the same size and shape.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img41.imageshack.us/img41/845/final4l.jpg" alt=""></p>
+<p style="text-align:left;">So I tried again. I decided to make ginger milano cookies. Instead of piping, I decided to trace outlines on parchment paper and spoon the batter on top. I thought this might help make more uniform cookies, especially since I could be sure to use the same amount of batter for each one. This sort of worked, but not really. They were still coming out like special and unique snowflakes… that is to say, quite unappealing.</p>
+<p style="text-align:left;">I got more and more frustrated as my dad came up behind me and handed me something he’d made – a stencil. He’d cut it out of a paper plate, leaving part of the rim attached, so it was like a little handle. I tried this out, using a teaspoon to get the same amount of batter each time. I had such high hopes as I slid the pan into the oven.</p>
+<p style="text-align:left;">But they came out still oddly shaped. I tried again, and this time I chilled the stenciled milanos. And then, what the heck, it couldn’t hurt, I decided to bake the tray on the highest oven rack possible. I pulled out the pan, and to my surprise, I had a batch of perfectly shaped cookies, barely golden brown around the edges. The only complaint? No ginger flavor. So much for ginger milanos.</p>
+<p style="text-align:left;">They did taste lemony (I would think so considering the amount of extract,) and I pondered the flavor of the ganache. I didn’t feel like chopping basil, which had been the original plan. I stood in the kitchen with the eggs in one hand and the butter in the other, feeling blank. I’d never waited this long to do a challenge before, and I was not feeling much of a creative spark. Suddenly, I remembered the lavender.</p>
+<p style="text-align:left;">My grandma had read about a lavender farm, <a href="http://mountainmeadowlavender.com/">Mountain Meadow Lavender</a>, in the <span style="text-decoration:underline;">News Tribune</span>. So my mother and I took a day off work and drove to Roy, Washington. It’s a beautiful drive through dark green trees and grassy fields full of grazing cows, who lift their heads lazily as the cars go by, long stalks bobbing between their lips. When we got there, we met one of the owners, Barbara Hulscher.</p>
+<p style="text-align:left;"><img class="aligncenter" src="http://img24.imageshack.us/img24/3280/final7x.jpg" alt=""></p>
+<p style="text-align:left;">Barbara owns 600 lavender plants, a big barn for drying lavender, and a little gift shop. She lives right next to the garden – or, I suppose it would be more accurate to say, the lavender farm is her home. And really, it’s a beautiful home. The lavender is in neat rows, every stem long and waving slightly in the breeze. You can smell the lavender from a distance. Even for someone like me, terrified of bees, it was easy to forget about all that as I took a tour of the farm.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img33.imageshack.us/img33/5625/final8.jpg" alt=""></p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img39.imageshack.us/img39/7535/final10.jpg" alt=""></p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img41.imageshack.us/img41/41/final9y.jpg" alt=""></p>
+<p style="text-align:left;">Inside the gift shop, Barbara showed us all the different lavender products she offered. Lavender sachets, lavender soap and lotion, lavender pillows… When I came across lavender tea, lavender jam, and lavender baking mixes – for lavender chocolate chip cookies and lavender poppy seed muffins – my interest was stirred. We began to talk about lavender in baking, and I told her I’d made <a href="http://17andbaking.wordpress.com/2009/05/30/shes-back-and-she-brought-ice-cream/">Lavender Ice Cream</a> and it was delicious. She went inside and came back with recipes in her hand for lavender cakes, muffins, and crumbles. I thanked her and mentally made a note to get cracking on some lavender recipes.</p>
+<p style="text-align:left;">We left with some lavender plants for our garden and this – a jar of ground culinary lavender.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img23.imageshack.us/img23/2629/final6a.jpg" alt=""></p>
+<p style="text-align:left;">It couldn’t have been easier. I added a tablespoon to the cream and didn’t even bother to strain it out before combining it with the chocolate. I grabbed the prettiest milanos from the last two batches and spread half of them with the ganache.</p>
+<p style="text-align:left;">Wow. The lavender pairs so, so nicely with the chocolate, and the cookies were crisp and the whole thing just <em>worked</em>. I couldn’t have been more surprised considering how many mistakes and failures I’d had throughout this challenge, which I had expected to be simple.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img10.imageshack.us/img10/7218/final5b.jpg" alt=""></p>
+<p style="text-align:left;">The verdict? It was not a pleasant recipe for me to make, especially not twice. But the cookies were delicious. And the lavender… Fragrant, flowery, and prepared to slip into more baked goods in the future.</p>
+<p> <a href="http://17andbaking.com/2009/07/27/lavender-fields-forever-milano-cookies-daring-bakers/#more-708" class="more-link">(more…)</a></p>
+</div><div class="snap_preview"></div>
+		<p class="info">   		<a href="http://17andbaking.com/2009/07/27/lavender-fields-forever-milano-cookies-daring-bakers/#comments" class="commentlink" title="Comment on Lavender Fields Forever! Milano Cookies – Daring&nbsp;Bakers">55 comments</a>   		<em class="date">July 27, 2009<!-- at 8:45 am--></em>
+   		<!--<em class="author">Elissa</em>-->
+   		   		</p>
+
+	</div>
+
+
+
+	<div id="post-697" class="post-697 post type-post hentry category-cakecupcakes tag-cake tag-cream-cheese tag-frosting tag-fun-celebration-cakes tag-layer-cake tag-lemon tag-paid-order entry">
+
+		<h3><a href="http://17andbaking.com/2009/07/16/rainbow-pride-party-cake/">Rainbow Pride Party&nbsp;Cake</a></h3>
+
+		<div class="snap_preview"><p style="text-align:center;"><img class="aligncenter" src="http://img11.imageshack.us/img11/9439/pride7.jpg" alt=""></p>
+<p>I think all little kids, at least at one point, have unrealistic ideas about what they’ll become when they grow up. I know I did. For a while I wanted to be an actress, then a singer, then a vet, and I went through an inevitable, short-lived pokemon master phase. I also remember once announcing that when I grew up, I wanted to be a duckling.</p>
+<p>Yeah, I don’t know where that came from either.</p>
+<p>But there was always something I wanted to be that I never told anyone about. I wanted to be a creative product namer – it would be the most fun job in the world! As a child I’d walk through the candle aisle of a store and think to myself, “This would be Golden Raspberry Dream and this one could be named Velvet Plum.” My favorite was to think of cute crayon colors, like Pink Lemonade Paradise and Safety Patrol Yellow.</p>
+<p>Turns out I still can’t help but do it!</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img197.imageshack.us/img197/8366/pride5.jpg" alt=""></p>
+<p style="text-align:left;">I can’t look at this vivid rainbow cake without feeling a bit of that creative spark all over again – Cherry-Red Hard Candy, Greenest Grass Green, Princess Eyes Blue. And even though I’ve seen the rainbow a million times, I still experienced an unexpected feeling when the cake was cut open. It was as if someone had waved a magic wand and restored all of the childish wonder and curiosity that I thought I’d outgrown years ago.</p>
+<p style="text-align:left;">This cake was commissioned for a local company’s Pride celebration. I knew right away that rather than make a regular cake decorated with rainbow frosting, I wanted to make every layer a different color. This suggestion was met with a lot of enthusiasm, and I didn’t realize the difficulties of it until later.</p>
+<p style="text-align:left;">First of all, I’d never made a cake of this size – six layers, 9″x13″ – and secondly I haven’t had a lot of success with white cakes. They usually end up dry or flavorless. Yet here I was, making six layers. I was also worried about height. Six layers is surprisingly tall, even taller after you add frosting, and I didn’t want the cake to lean or fall apart. I settled on Dorie Greenspan’s Perfect Party cake… after all, I trust Dorie whole-heartedly and it seemed like a moist, flavorful white cake that would also be sturdy.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img9.imageshack.us/img9/5249/pride2.jpg" alt=""></p>
+<p style="text-align:left;">I made two layers in advance, just to test things out. Unfortunately, I found the cake to be dry and much too sweet. I cut each layer into three, stacked them, and moaned a little when I saw how tall the finished cake would be. I tested freezing the layers, but they came out even drier the next day. I started to wonder what I’d gotten myself into.</p>
+<p style="text-align:left;">I pushed forward, and the morning of the party I woke up at 6:30 to be absolutely sure I’d have enough time to do the whole cake. Dorie’s recipe makes two 9″ round layers, so I was using one recipe to make two thin 9″x13″ layers – basically I would have to repeat the recipe three times. I measured, sifted, and set out all my ingredients beforehand. Then I made two layers at a time, did dishes, and repeated, working like clockwork.</p>
+<p style="text-align:left;">I do kind of go into “baking mode” when I work, especially when I’m alone. I concentrate completely on the task at hand, and it feels good. I have a friend who loves running because it clears his mind and lets him focus, and this happens when I’m in the kitchen. Even though I was doing the same recipe over and over, it didn’t feel repetitive, and I even enjoy the feeling of being busy.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img195.imageshack.us/img195/2254/pride6.jpg" alt=""></p>
+<p style="text-align:left;">When all the layers were baked, I decided not to go with Dorie’s buttercream frosting, since it could be too rich in a 6 layer cake. I was going to go with whipped cream, but felt frosting would better hold the cake. Finally, I wanted the cakes to be moistened with jam but not too sweet. I ended up thinly spreading every layer with apricot jelly, then alternating whipped cream and cream cheese frosting. I frosted the outside with cream cheese frosting and then pressed shredded coconut into the cake.</p>
+<p style="text-align:left;">Driving the cake to the office was a little nerve wracking. I was so worried about the cake leaning! A few hours ago, I had chilled the cake between layers. I had checked on it and realized, with horror, the cake was leaning to the right. I had turned the pan around and when I returned twenty minutes layer, the cake had straightened out. But every time we came to a sudden stop or made a sharp turn, I thought I could feel the cake moving like the leaning tower of pisa.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img9.imageshack.us/img9/166/pride1v.jpg" alt=""></p>
+<p style="text-align:left;">We made it to the office in one piece. Everyone who saw the cake was impressed by how big it was (and it was heavy!) It sort of looked like a giant coconut candy. But nothing can compare to the reactions I got when the cake was cut. The inside was a surprise, and it elicited gasps and outbursts of surprise all around. It was a room of adults, and yet there was still a wisp – no, a spark – of that innocent, fleeting joy at seeing something colorful. At that moment, I was reminded why I love to bake so much. This is what it’s for. I love to make people happy, and here was an entire room full of happy people – but I don’t think anyone was happier than me.</p>
+<p style="text-align:left;">I was nervous about taste, but I’d learned a lot from my test run. Even though the cake was served in tiny, teetering slices, it was almost completely devoured as people came back for seconds.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://img104.imageshack.us/img104/318/pride3.jpg" alt=""></p>
+<p style="text-align:left;">It’s almost indecent that I was paid to do this. Creative product namer? No, what I am doing <em>right now</em> must be the most fun job in the world.</p>
+<p style="text-align:left;"> <a href="http://17andbaking.com/2009/07/16/rainbow-pride-party-cake/#more-697" class="more-link">(more…)</a></p>
+</div><div class="snap_preview"></div>
+		<p class="info">   		<a href="http://17andbaking.com/2009/07/16/rainbow-pride-party-cake/#comments" class="commentlink" title="Comment on Rainbow Pride Party&nbsp;Cake">100 comments</a>   		<em class="date">July 16, 2009<!-- at 12:36 pm--></em>
+   		<!--<em class="author">Elissa</em>-->
+   		   		</p>
+
+	</div>
+
+
+
+	<div id="post-557" class="post-557 post type-post hentry category-cookies tag-citrus tag-cookies tag-herbs tag-lemon tag-paid-order tag-thyme entry">
+
+		<h3><a href="http://17andbaking.com/2009/06/12/17-and-baking-makes-some-dough-lemon-thyme-shortbread-hearts/">17 and Baking Makes Some Dough – Lemon-Thyme Shortbread&nbsp;Hearts</a></h3>
+
+		<div class="snap_preview"><p style="text-align:center;"><img class="aligncenter" src="http://farm4.static.flickr.com/3438/3708310719_37eed758d8.jpg?v=0" alt=""></p>
+<p>“17 and Baking Makes Some Dough,” and I don’t mean dough in the literal sense. I mean that I just did my first paid order. And it was pretty sweet. Bad puns all over the place, I know. I can’t resist, sorry!</p>
+<p>A girl from my school wanted cookies for her mother’s birthday, and she offered to buy them! A floaty, unexpected feeling washed over me as I told my parents I’d gotten my first paid order. It felt like the start of something new.</p>
+<p>I remember the first “real” cake that I baked – you know, not from a mix or anything. It was a sponge cake with golden raisins and when it came out of the oven, I couldn’t believe that it looked just like the picture! I was so proud and ate the whole thing.</p>
+<p>Of course, looking back, I can see all the mistakes. I didn’t know that the butter had to be at room temperature. The cake was uneven and the frosting didn’t come together properly. But I didn’t know any of that at the time, and felt pretty good about myself!</p>
+<p>I’ve often thought about baking that cake again, just to see how far I’ve come.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2473/3708310789_1193106a95.jpg?v=0" alt=""></p>
+<p>When I bought that cake cookbook from Costco for the pretty photographs, I never dreamed that one day I might actually make money from baking or that people would know me as the girl who likes to bake. Thinking about that first cake I made, it’s incredible to see how much I’ve learned at this point. It makes me anticipate all that I have yet to learn and the happiness I’ll get as I tackle even fancier and trickier baked goods.</p>
+<p>It’s only been three years since I became interested in baking. Who knows what the next three years will bring?</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2455/3708310883_93bb07dae7.jpg?v=0" alt=""></p>
+<p>Baking has been a learning experience, from my first real baking disaster (during which I actually sat on the kitchen floor and cried,) to the first time I brought cookies to school, to my first Daring Bakers entry. And this simple batch of shortbread proved to be another landmark in my baking career.</p>
+<p style="text-align:left;">My <em>client </em>(!) asked for shortbread but left the flavor up to me. The sun has been good to our little herb garden, so I decided to use our Lemon Thyme in my shortbread. Then I found these cute little heart cookie cutters… and Lemon-Thyme Shortbread Hearts were born.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2513/3709122720_529da30c07.jpg?v=0" alt=""></p>
+<p style="text-align:left;"> <a href="http://17andbaking.com/2009/06/12/17-and-baking-makes-some-dough-lemon-thyme-shortbread-hearts/#more-557" class="more-link">(more…)</a></p>
+</div><div class="snap_preview"></div>
+		<p class="info">   		<a href="http://17andbaking.com/2009/06/12/17-and-baking-makes-some-dough-lemon-thyme-shortbread-hearts/#comments" class="commentlink" title="Comment on 17 and Baking Makes Some Dough – Lemon-Thyme Shortbread&nbsp;Hearts">41 comments</a>   		<em class="date">June 12, 2009<!-- at 5:54 pm--></em>
+   		<!--<em class="author">Elissa</em>-->
+   		   		</p>
+
+	</div>
+
+
+
+	<div id="post-486" class="post-486 post type-post hentry category-cakecupcakes tag-cake tag-chiffon tag-citrus tag-holiday tag-lemon tag-mom entry">
+
+		<h3><a href="http://17andbaking.com/2009/05/10/mothers-day-lemon-chiffon-cake/">Mother’s Day Lemon Chiffon&nbsp;Cake</a></h3>
+
+		<div class="snap_preview"><p style="text-align:center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2614/3708419885_aa2e8d4203.jpg?v=0" alt=""></p>
+<p>Generally, every baked good I make goes through the same life cycle. I make it because baking is my ultimate form of escape. I focus so hard when I’m baking that all my stresses just melt into the background, and as the pan goes into the oven and I wash the dishes by myself, I just think. And it’s utterly relaxing.</p>
+<p>I don’t give too much thought to what happens after I’ve finished. So I’ve got an entire cake, or five dozen cookies. Now what?</p>
+<p>Usually my mom and I eat a little of what I make. She doesn’t have a huge sweet tooth, so she’ll try a small slice or one cookie. I’ll try it too, and if I like it, I might keep some and eat it throughout the week.</p>
+<p>More than half of what I make, however, is always shared instead of kept at home. My mom sends plates of pretty stacked cookies over to our neighbors, who never bake themselves. I carry treats to school in my plastic cake carrier, stored in my locker until lunch time. And sometimes my mom brings it to work, so that whenever I’m in her office I inevitably get the question, “When are you baking again?”</p>
+<p>But this cake. Oh, this innocent looking cake is a completely different story.</p>
+<p style="text-align:center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2666/3709233392_6acb9be14a.jpg?v=0" alt=""></p>
+<p style="text-align:left;">The first time I made it, my mother was actually shocked to like it. I had only just gotten into baking, and most everything was too rich or too sweet for her taste. But this chiffon cake, light as air and served without frosting, did it for her. Granted, it’s a small cake, but the two of us ate it all by ourselves.</p>
+<p style="text-align:left;">I’ve made the cake countless times since, for her birthday and other special occasions. Once, over the course of 5 hours, my mom, dad, and I finished the entire thing. We started by cutting equal slices and carefully plating them, passing around forks. By the end, we tore off pieces of cake and brought them directly to our mouths. No utensils required.</p>
+<p style="text-align:left;"> <a href="http://17andbaking.com/2009/05/10/mothers-day-lemon-chiffon-cake/#more-486" class="more-link">(more…)</a></p>
+</div><div class="snap_preview"></div>
+		<p class="info">   		<a href="http://17andbaking.com/2009/05/10/mothers-day-lemon-chiffon-cake/#comments" class="commentlink" title="Comment on Mother’s Day Lemon Chiffon&nbsp;Cake">27 comments</a>   		<em class="date">May 10, 2009<!-- at 2:50 pm--></em>
+   		<!--<em class="author">Elissa</em>-->
+   		   		</p>
+
+	</div>
+
+
+
+	<p><!-- this is ugly -->
+	<span class="next"><a href="http://17andbaking.com/tag/lemon/">Next Posts</a></span>
+	<span class="previous"></span>
+	</p>
+
+
+</div> <!-- /content -->
+
+<hr class="low">
+
+<!-- subcontent ................................. -->
+<div id="subcontent">
+
+
+
+<h2><em>Elissa</em></h2>			<div class="textwidget"><img src="http://img40.imageshack.us/img40/3223/17andbakingphoto.jpg" align="center"><br><br>I'm Elissa: a 17 (now 18) year old baker in <s>Seattle</s> Boston juggling journalism 101, subway maps, and my passions for writing, baking, and photography. <em>Photo above © <a href="http://michellemooreblog.com">Michelle Moore</a></em></div>
+		
+
+<h2><em>Connect With Me</em></h2>			<div class="textwidget"><a href="http://feeds.feedburner.com/17andBaking"><img src="http://feeds.feedburner.com/~fc/17andBaking?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0;" alt=""></a><br><br>
+<a href="http://feeds2.feedburner.com/17andBaking" rel="alternate"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt=""></a> <a href="http://feeds2.feedburner.com/17andBaking" rel="alternate">Subscribe</a> and never miss a post!<br><img src="http://static.ak.facebook.com/images/share/facebook_share_icon.gif?6:26981"> Become a <a href="http://www.facebook.com/search/?q=17+and+baking&amp;init=quick#/pages/17-and-Baking/191758489054?ref=search&amp;sid=1360658640.1623802370..1">Facebook fan</a><br>
+<img src="http://twitter-badges.s3.amazonaws.com/t_mini-b.png"> Follow me on <a href="http://www.twitter.com/17andbaking">Twitter</a></div>
+		
+
+<h2><em>Leave Your Location</em></h2>			<div class="textwidget"><a href="http://17andbaking.com/2009/10/09/school-seattle-the-northwest-the-world/#commentform"><img src="http://img10.imageshack.us/img10/3404/clickhere2t.jpg"></a></div>
+		
+
+<h2><em>Most Popular Posts</em></h2>			<div class="textwidget"><p><a href="http://17andbaking.com/2009/07/01/a-little-taste-of-independence/">4th of July Flag Cake</a><br><br><a href="http://17andbaking.com/2009/08/22/in-the-kitchen-with-dad/">Basic Bagels &amp; Homemade Lox</a><br><br><a href="http://17andbaking.com/2009/09/15/love-and-pastry-cream/">Boston Cream Pie</a><br><br><a href="http://17andbaking.com/2009/09/19/cello-birthday-cake/">Cello Birthday Cake</a><br><br><a href="http://17andbaking.wordpress.com/2009/04/27/chocolate-marble-cheesecake-with-coconut-lemongrass-and-kaffir-lime-17-and-baking-does-daring-bakers/">Chocolate Marble Cheesecake with Coconut, Lemongrass, and Kaffir Lime</a><br><br><a href="http://17andbaking.wordpress.com/2009/04/19/chocolate-raspberry-ganache-cake-17-and-baking-turns-17/">Chocolate Raspberry Ganache Cake</a><br><br><a href="http://17andbaking.com/2010/01/20/buttercream-in-bloom/">Chrysanthemum Cupcakes</a><br><br><a href="http://17andbaking.wordpress.com/2009/05/05/april-showers-bring-may-migraines-and-cold-war-brownies/">Cold War Brownies</a><br><br><a href="http://17andbaking.com/2009/10/09/school-seattle-the-northwest-the-world/">Cream Cheese and Chive Biscuits</a><br><br><a href="http://17andbaking.com/2010/01/27/maple-and-walnut-nanaimo-bars-daring-baker/">Maple and Walnut Nanaimo Bars</a><br><br><a href="http://17andbaking.com/2009/04/25/moms-carrot-flecked-dinner-rolls/">Mom's Carrot-Flecked Dinner Rolls</a><br><br><a href="http://17andbaking.com/2009/04/12/my-favorite-cookies/">Perfect Gingersnaps</a><br><br><a href="http://17andbaking.wordpress.com/2009/07/16/rainbow-pride-party-cake/">Rainbow Pride Party Cake</a><br><br><a href="http://17andbaking.com/2009/12/03/striped-peppermint-meringues-with-chocolate-ganache/">Striped Peppermint Meringues with Chocolate Ganache</a><br><br><a href="http://17andbaking.wordpress.com/2009/05/19/tiny-peanut-butter-chocolate-chip-buttons/">Tiny Peanut Butter Chocolate Chip Buttons</a></p>
+</div>
+		
+
+<h2><em>Categories</em></h2><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="3847746">Bars/Brownies&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="18612">Breads&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="344762">Breakfast/Brunch&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="2078912">Cake/Cupcakes&nbsp;&nbsp;(23)</option>
+	<option class="level-0" value="18645">Cookies&nbsp;&nbsp;(17)</option>
+	<option class="level-0" value="911388">Daring Bakers&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="62534">Eating Out&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="18651">Frozen Desserts&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="17043865">Other Treats&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="1962154">Pies/Tarts&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="2811868">Seastar&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="5473649">Sugar High Fridays&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(5)</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://17andbaking.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+
+
+<h2><em>Tags</em></h2><div style="overflow:hidden"><a href="http://17andbaking.com/tag/almond/" class="tag-link-342637" title="7 topics" style="font-size: 11.255813953488pt;">almond</a>
+<a href="http://17andbaking.com/tag/bananas/" class="tag-link-130330" title="4 topics" style="font-size: 8pt;">bananas</a>
+<a href="http://17andbaking.com/tag/bars/" class="tag-link-6483" title="5 topics" style="font-size: 9.3023255813953pt;">bars</a>
+<a href="http://17andbaking.com/tag/berries/" class="tag-link-222937" title="8 topics" style="font-size: 12.06976744186pt;">berries</a>
+<a href="http://17andbaking.com/tag/bread/" class="tag-link-22482" title="9 topics" style="font-size: 12.883720930233pt;">bread</a>
+<a href="http://17andbaking.com/tag/breakfast/" class="tag-link-16205" title="15 topics" style="font-size: 16.139534883721pt;">breakfast</a>
+<a href="http://17andbaking.com/tag/buttercream/" class="tag-link-358140" title="6 topics" style="font-size: 10.441860465116pt;">buttercream</a>
+<a href="http://17andbaking.com/tag/buttery/" class="tag-link-1728215" title="5 topics" style="font-size: 9.3023255813953pt;">buttery</a>
+<a href="http://17andbaking.com/tag/cake/" class="tag-link-16204" title="22 topics" style="font-size: 18.744186046512pt;">cake</a>
+<a href="http://17andbaking.com/tag/chocolate/" class="tag-link-8514" title="35 topics" style="font-size: 22pt;">chocolate</a>
+<a href="http://17andbaking.com/tag/christmas-cookies/" class="tag-link-507206" title="6 topics" style="font-size: 10.441860465116pt;">Christmas cookies</a>
+<a href="http://17andbaking.com/tag/cinnamon/" class="tag-link-60771" title="12 topics" style="font-size: 14.674418604651pt;">cinnamon</a>
+<a href="http://17andbaking.com/tag/citrus/" class="tag-link-17262" title="12 topics" style="font-size: 14.674418604651pt;">citrus</a>
+<a href="http://17andbaking.com/tag/coconut/" class="tag-link-140918" title="5 topics" style="font-size: 9.3023255813953pt;">coconut</a>
+<a href="http://17andbaking.com/tag/coffee/" class="tag-link-16166" title="5 topics" style="font-size: 9.3023255813953pt;">coffee</a>
+<a href="http://17andbaking.com/tag/cookies/" class="tag-link-18645" title="18 topics" style="font-size: 17.441860465116pt;">Cookies</a>
+<a href="http://17andbaking.com/tag/cream/" class="tag-link-68439" title="4 topics" style="font-size: 8pt;">cream</a>
+<a href="http://17andbaking.com/tag/cream-cheese/" class="tag-link-140912" title="11 topics" style="font-size: 14.186046511628pt;">cream cheese</a>
+<a href="http://17andbaking.com/tag/creamy/" class="tag-link-345796" title="11 topics" style="font-size: 14.186046511628pt;">creamy</a>
+<a href="http://17andbaking.com/tag/crunchy/" class="tag-link-99345" title="6 topics" style="font-size: 10.441860465116pt;">crunchy</a>
+<a href="http://17andbaking.com/tag/cupcakes/" class="tag-link-74741" title="4 topics" style="font-size: 8pt;">cupcakes</a>
+<a href="http://17andbaking.com/tag/dad/" class="tag-link-3253" title="8 topics" style="font-size: 12.06976744186pt;">Dad</a>
+<a href="http://17andbaking.com/tag/daring-bakers/" class="tag-link-911388" title="9 topics" style="font-size: 12.883720930233pt;">Daring Bakers</a>
+<a href="http://17andbaking.com/tag/frosting/" class="tag-link-75406" title="9 topics" style="font-size: 12.883720930233pt;">frosting</a>
+<a href="http://17andbaking.com/tag/frozen/" class="tag-link-116305" title="8 topics" style="font-size: 12.06976744186pt;">frozen</a>
+<a href="http://17andbaking.com/tag/fun-celebration-cakes/" class="tag-link-28465411" title="6 topics" style="font-size: 10.441860465116pt;">fun celebration cakes</a>
+<a href="http://17andbaking.com/tag/ginger/" class="tag-link-205932" title="5 topics" style="font-size: 9.3023255813953pt;">ginger</a>
+<a href="http://17andbaking.com/tag/hazelnuts/" class="tag-link-864201" title="4 topics" style="font-size: 8pt;">hazelnuts</a>
+<a href="http://17andbaking.com/tag/herbs/" class="tag-link-31197" title="5 topics" style="font-size: 9.3023255813953pt;">herbs</a>
+<a href="http://17andbaking.com/tag/holiday/" class="tag-link-8853" title="6 topics" style="font-size: 10.441860465116pt;">holiday</a>
+<a href="http://17andbaking.com/tag/ice-cream/" class="tag-link-90804" title="7 topics" style="font-size: 11.255813953488pt;">ice cream</a>
+<a href="http://17andbaking.com/tag/jam/" class="tag-link-81145" title="5 topics" style="font-size: 9.3023255813953pt;">jam</a>
+<a href="http://17andbaking.com/tag/layer-cake/" class="tag-link-514952" title="9 topics" style="font-size: 12.883720930233pt;">layer cake</a>
+<a href="http://17andbaking.com/tag/lemon/" class="tag-link-71427" title="8 topics" style="font-size: 12.06976744186pt;">lemon</a>
+<a href="http://17andbaking.com/tag/lime/" class="tag-link-258008" title="6 topics" style="font-size: 10.441860465116pt;">lime</a>
+<a href="http://17andbaking.com/tag/meringue/" class="tag-link-538342" title="7 topics" style="font-size: 11.255813953488pt;">meringue</a>
+<a href="http://17andbaking.com/tag/mom/" class="tag-link-15967" title="6 topics" style="font-size: 10.441860465116pt;">Mom</a>
+<a href="http://17andbaking.com/tag/nuts/" class="tag-link-25651" title="13 topics" style="font-size: 15.325581395349pt;">nuts</a>
+<a href="http://17andbaking.com/tag/orange/" class="tag-link-79206" title="6 topics" style="font-size: 10.441860465116pt;">orange</a>
+<a href="http://17andbaking.com/tag/raspberries/" class="tag-link-570551" title="4 topics" style="font-size: 8pt;">raspberries</a>
+<a href="http://17andbaking.com/tag/savory/" class="tag-link-59851" title="11 topics" style="font-size: 14.186046511628pt;">savory</a>
+<a href="http://17andbaking.com/tag/sugar-high-fridays/" class="tag-link-5473649" title="4 topics" style="font-size: 8pt;">Sugar High Fridays</a>
+<a href="http://17andbaking.com/tag/summer/" class="tag-link-22302" title="5 topics" style="font-size: 9.3023255813953pt;">summer</a>
+<a href="http://17andbaking.com/tag/tarts/" class="tag-link-408219" title="4 topics" style="font-size: 8pt;">tarts</a>
+<a href="http://17andbaking.com/tag/vanilla/" class="tag-link-29409" title="4 topics" style="font-size: 8pt;">vanilla</a></div>
+
+<h2><em>Archives</em></h2>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://17andbaking.com/2010/09/"> September 2010 &nbsp;(2)</option>
+	<option value="http://17andbaking.com/2010/08/"> August 2010 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2010/07/"> July 2010 &nbsp;(2)</option>
+	<option value="http://17andbaking.com/2010/06/"> June 2010 &nbsp;(3)</option>
+	<option value="http://17andbaking.com/2010/05/"> May 2010 &nbsp;(3)</option>
+	<option value="http://17andbaking.com/2010/04/"> April 2010 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2010/03/"> March 2010 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2010/02/"> February 2010 &nbsp;(5)</option>
+	<option value="http://17andbaking.com/2010/01/"> January 2010 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2009/12/"> December 2009 &nbsp;(5)</option>
+	<option value="http://17andbaking.com/2009/11/"> November 2009 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2009/10/"> October 2009 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2009/09/"> September 2009 &nbsp;(3)</option>
+	<option value="http://17andbaking.com/2009/08/"> August 2009 &nbsp;(6)</option>
+	<option value="http://17andbaking.com/2009/07/"> July 2009 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2009/06/"> June 2009 &nbsp;(6)</option>
+	<option value="http://17andbaking.com/2009/05/"> May 2009 &nbsp;(7)</option>
+	<option value="http://17andbaking.com/2009/04/"> April 2009 &nbsp;(11)</option>
+	<option value="http://17andbaking.com/2009/03/"> March 2009 &nbsp;(4)</option>
+	<option value="http://17andbaking.com/2008/08/"> August 2008 &nbsp;(5)</option>
+ </select>
+
+
+<h2><em>Proudly Baking With…</em></h2>			<div class="textwidget"><a href="http://www.blogher.com"><img src="http://www.blogher.com/files/generic_150x60_2_0.gif" alt="BlogHer.com Logo" title="BlogHer.com"></a>
+<br><br><a href="http://www.thedaringkitchen.com"><img src="http://img29.imageshack.us/img29/5493/17498040.jpg" border="0"></a><br><br>
+<a href="http://www.greatamericanbakesale.org/?utm_source=banners"><img src="http://gabs.strength.org/images/content/pagebuilder/18483.gif" style="border-style:none;" width="200" height="76"></a><br><br>
+<a href="http://www.blogged.com/blogs/17-and-baking.html">
+<img src="http://www.blogged.com/icons/rt_1483014_sm.gif" border="0" alt="17 and Baking at Blogged" title="17 and Baking at Blogged"></a>
+<br><br>
+<a href="http://www.foodieblogroll.com" title="The Foodie Blog Roll" target="_blank">
+<img src="http://widget.foodieblogroll.com?BlogID=6398&amp;styleID=1&amp;wp=1" border="0" alt="The Foodie Blog Roll">
+</a> <a href="http://www.blogcatalog.com/directory/food_drink/recipes" title="Recipe Blogs - BlogCatalog Blog Directory"><img src="http://www.blogcatalog.com/images/buttons/blogcatalog5.gif" alt="Recipe Blogs - BlogCatalog Blog Directory" style="border:0;"></a> <a href="http://tastybloggers.com/"><img src="http://img38.imageshack.us/img38/4448/tastybloggers.png"></a></div>
+		
+
+<h2><em>Blogroll</em></h2>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.101cookbooks.com/">101 Cookbooks</a></li>
+<li><a href="http://www.bakeaholic.ca/">Bakeaholic</a></li>
+<li><a href="http://bakerella.blogspot.com/">Bakerella</a></li>
+<li><a href="http://www.celiacteen.com/">Celiac Teen</a></li>
+<li><a href="http://www.culinaryconcoctionsbypeabody.com/">Culinary Concoctions by Peabody</a></li>
+<li><a href="http://dineanddish.net/">Dine and Dish</a></li>
+<li><a href="http://www.erincooks.com">Erin Cooks</a></li>
+<li><a href="http://thegoodgirlgoneblog.com/">Good Girl Gone Blog</a></li>
+<li><a href="http://gratinee.wordpress.com/">Gratinée</a></li>
+<li><a href="http://www.handletheheat.com/">Handle the Heat</a></li>
+<li><a href="http://www.honeyandjam.com/">honey &amp; jam</a></li>
+<li><a href="http://www.testone2three.blogspot.com/">Is This Thing On?</a></li>
+<li><a href="http://www.joythebaker.com/blog/">Joy the Baker</a></li>
+<li><a href="http://www.latartinegourmande.com/">La Tartine Gourmande</a></li>
+<li><a href="http://www.nordljus.co.uk/">Nordljus</a></li>
+<li><a href="http://notsohumblepie.blogspot.com/">Not So Humble Pie</a></li>
+<li><a href="http://orangette.blogspot.com/">Orangette</a></li>
+<li><a href="http://quantumcuisine.wordpress.com/">Quantum Cuisine</a></li>
+<li><a href="http://rollininthedough.wordpress.com/">rollin in the dough</a></li>
+<li><a href="http://smittenkitchen.com/">smitten kitchen</a></li>
+<li><a href="http://sproutedkitchen.com/">Sprouted Kitchen</a></li>
+<li><a href="http://stickygooeycreamychewy.blogspot.com/">Sticky, Gooey, Creamy, Chewy</a></li>
+<li><a href="http://www.sweetopia.net/">Sweetopia</a></li>
+<li><a href="http://tartelette.blogspot.com/">Tartelette</a></li>
+<li><a href="http://thepioneerwoman.com/cooking/">The Pioneer Woman Cooks</a></li>
+<li><a href="http://therepressedpastrychef.com/">The Repressed Pastry Chef</a></li>
+<li><a href="http://www.sophisticatedgourmet.com/">the sophisticated gourmet</a></li>
+<li><a href="http://www.travelerslunchbox.com/">The Traveler’s Lunchbox</a></li>
+<li><a href="http://veganyumyum.com/">Vegan Yum Yum</a></li>
+<li><a href="http://wordstoeatby.blogspot.com/">words to eat by</a></li>
+<li><a href="http://zoebakes.com/">Zoe Bakes</a></li>
+
+	</ul>
+
+
+
+<h2><em>Still Hungry?</em></h2>			<div class="textwidget"><a href="http://foodgawker.com/">foodgawker</a><br><a href="http://www.tastespotting.com/">tastespotting</a><br><br>
+<a href="http://foodblogsearch.com"><img src="http://foodblogsearch.com/images/fbs-button-140-short.png"></a><br><br><a href="http://www3.clustrmaps.com/counter/maps.php?url=http://17andbaking.com" id="clustrMapsLink"><img src="http://www3.clustrmaps.com/counter/index2.php?url=http://17andbaking.com" style="border:0;" alt="Locations of visitors to this page" title="Locations of visitors to this page">
+</a><br>Map Started 11/19/2009<br><br>
+<a href="http://s23.sitemeter.com/stats.asp?site=s2317andbaking" target="_top">
+<img src="http://s23.sitemeter.com/meter.asp?site=s2317andbaking" alt="Site Meter"></a>
+<br><br>
+<a href="http://www.copyscape.com/"><img src="http://banners.copyscape.com/images/cs-wh-3d-88x31.gif" alt="Page copy protected against web site content infringement by Copyscape" title="Do not copy content from the page. Plagiarism will be detected by Copyscape." width="88" height="31" border="0"></a>
+<br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png"></a><br>This <span>work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License</a>.<br><br><strong>All text, photos, and logo<br>© 17 and Baking 2008-2010</strong></div>
+		
+
+</div> <!-- /subcontent -->
+
+
+<hr class="low">
+
+<!-- footer ................................. -->
+<div id="footer">
+
+	<p>Theme: Blix by <a href="http://www.kingcosmonaut.de/" rel="designer">Sebastian Schmieg</a>. . <a href="http://wordpress.com/" rel="generator">Blog at WordPress.com</a>.</p>
+
+</div> <!-- /footer -->
+
+</div> <!-- /container -->
+
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>
+<script type="text/javascript" src="http://wordpresscom.skimlinks.com/api/wordpress.js"></script>
+<script type="text/javascript">
+var skimlinks_pub_id = "725X1342";
+var skimlinks_sitename = '17andbaking.wordpress.com';
+var skimlinks_domain = "go2.wordpress.com";
+skimlinks();
+</script>
+<script type="text/javascript">_qoptions={qacct:'p-18-mFEk4J448M',labels:'language.en'};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><p><img class="robots-nocontent" src="http://pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=language.en" style="display:none" height="1" width="1" alt=""></p></noscript>
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p class="robots-nocontent"><img src="http://b.scorecardresearch.com/p?cj=1c1=2&amp;c2=7518284" alt="" style="display:none" width="1" height="1"></p></noscript><script src="http://s.stats.wordpress.com/w.js?19" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'7121958','v':'wpcom','user_id':'0','post':'0','subd':'17andbaking'});
+ex_go({'crypt':'RDZ8LFkxbXF1L1Y3cHdkNVg2aGtQazVoN216VDluK01MaTB5djkuazlaPTNCLkttUUNZcnFsVDkzUXFTYmREP3VEYmRxLyVVdjBneXwtZ1guMzElNUdhNVdBRTZFajZGNTMuVi1JS1hscUgvUFclQVRfT2pTSmF2bXosek9hfnklU00wRm54alF5dEVaVHk4WHx4X1dQZUx0aE8ublh3dUpqJk9EUyxHYm9xWGU='});
+addLoadEvent(function(){linktracker_init('7121958',0);});
+	</script>
+
+</body></html>

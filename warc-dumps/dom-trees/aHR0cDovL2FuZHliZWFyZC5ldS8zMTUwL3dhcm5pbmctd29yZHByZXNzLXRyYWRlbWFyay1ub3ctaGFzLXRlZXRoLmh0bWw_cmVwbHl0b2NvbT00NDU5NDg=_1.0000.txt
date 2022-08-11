@@ -1,0 +1,881 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<title>Warning: WordPress Trademark Now Has Teeth</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<link rel="canonical" href="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html">
+
+	<link rel="stylesheet" type="text/css" href="http://andybeard.eu/wp-content/themes/andybeardnew/style.css">
+
+	<link rel="alternate" type="application/rss+xml" href="http://andybeard.eu/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Posts RSS feed">
+	<link rel="alternate" type="application/rss+xml" href="http://andybeard.eu/comments/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Comments RSS feed">
+
+	<link rel="pingback" href="http://andybeard.eu/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="Internet Business &amp; Marketing Strategy - Andy Beard » Warning: WordPress Trademark Now Has Teeth Comments Feed" href="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html/feed">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="http://andybeard.eu/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/active-share-by-orangesoda/active-share.js?ver=1.0"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/active-share-by-orangesoda/digg.js?ver=1.0"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/wp-ajax-response.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/js/jquery.colorbox-min.js?ver=3.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpajaxeditcomments = {
+	AEC_PluginUrl: "http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments",
+	AEC_CanScroll: "1",
+	AEC_Minutes: "minutes",
+	AEC_Minute: "minute",
+	AEC_And: "and",
+	AEC_Seconds: "seconds",
+	AEC_Second: "second",
+	AEC_Moderation: "Mark for Moderation?",
+	AEC_Approve: "Approve Comment?",
+	AEC_Spam: "Mark as Spam?",
+	AEC_Delete: "Delete this comment?",
+	AEC_Anon: "Anonymous",
+	AEC_Loading: "Loading...",
+	AEC_Ready: "Ready",
+	AEC_Sending: "Sending...",
+	AEC_Sent: "Message Sent",
+	AEC_LoadSuccessful: "Comment Loaded Successfully",
+	AEC_Saving: "Saving...",
+	AEC_Blacklisting: "Blacklisting...",
+	AEC_Saved: "Comment Successfully Saved",
+	AEC_Delink: "De-link Successful",
+	AEC_MoreOptions: "More Options",
+	AEC_LessOptions: "Less Options",
+	AEC_UseRTL: "false",
+	AEC_RequestDeletionSuccess: "Request has been sent successfully",
+	AEC_RequestError: "Error sending request",
+	AEC_approving: "Approving...",
+	AEC_delinking: "De-linking...",
+	AEC_moderating: "Moderating...",
+	AEC_spamming: "Spamming...",
+	AEC_deleting: "Deleting...",
+	AEC_restoring: "Restoring...",
+	AEC_undoing: "Undoing...",
+	AEC_undosuccess: "Undo Successful",
+	AEC_permdelete: "Comment Deleted Permanently"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/js/wp-ajax-edit-comments.js?ver=2.3"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://andybeard.eu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://andybeard.eu/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Internet Business &amp; Marketing Strategy – Andy Beard" href="http://andybeard.eu">
+<link rel="start" title="Keywords, ranking and a little SEO fun" href="http://andybeard.eu/41/keywords-ranking-and-little-seo-fun.html">
+<link rel="prev" title="Google Killing Off Automated Queries – num=100 R.I.P ?" href="http://andybeard.eu/3143/google-automated-queries.html">
+<link rel="next" title="Are Ask (IAC) Killing The Golden Goose? (Plus they Should Buy Seesmic)" href="http://andybeard.eu/3157/ask-iac-bloglines-seesmic.html">
+
+<link rel="canonical" href="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html">
+<link rel="shortlink" href="http://andybeard.eu/?p=3150">
+<!--[if IE]>
+<style type="text/css">
+ul.addtoany_list a img{filter:alpha(opacity=70)}
+ul.addtoany_list a:hover img,ul.addtoany_list a.addtoany_share_save img{filter:alpha(opacity=100)}
+</style>
+<![endif]-->
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.min.js"></script>
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/fv-wordpress-flowplayer/css/flowplayer.css" type="text/css" media="screen">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="http://andybeard.eu/wp-content/plugins/fv-wordpress-flowplayer/js/pngfix.js"></script>
+<![endif]-->
+<script type="text/javascript">	
+	/*<![CDATA[*/
+		function fp_replay(hash) {
+			var fp = document.getElementById('wpfp_'+hash);
+			var popup = document.getElementById('wpfp_'+hash+'_popup');
+			fp.removeChild(popup);
+			flowplayer('wpfp_'+hash).play();
+		}
+	
+		function fp_share(hash) {
+			var cp = document.getElementById('wpfp_'+hash+'_custom_popup');
+			cp.innerHTML = '<div style="margin-top: 10px; text-align: center;"><label for="permalink" style="color: white;">Permalink to this page:</label><input onclick="this.select();" id="permalink" name="permalink" type="text" value="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445948" /></div>';
+		}
+	/*]]>*/
+</script>
+
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/mm-forms/stylesheet.css" type="text/css"><link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/mm-forms/calendar.css" type="text/css">	<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/mm-forms/mm-forms.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/mm-forms/calendar.js"></script>
+	
+<!-- Simple Facebook Share Button; http://www.ethitter.com/plugins/simple-facebook-share-button/ -->
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Loader" type="text/javascript"></script>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+<script type="text/javascript" id="topsy_global_settings">
+    var topsy_style = 'big';
+    var topsy_nick = 'andybeard';
+    var topsy_order = 'count,retweet,badge';
+    var topsy_theme = 'brick-red';
+    var topsy_tweet_text = 'tweet';
+    var topsy_retweet_text = 'retweet';
+    var topsy_streaming = 'on';
+</script><script type="text/javascript" id="topsy-js-elem" src="http://cdn.topsy.com/topsy.js?init=topsyWidgetCreator"></script>
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/css/themes/circular/edit-comments.css" type="text/css" media="screen">                <!-- Ajax Edit Comments -->
+                <!--[if IE]>
+                <style>
+                  .clearfix {display: inline-block;}
+                  /* Hides from IE-mac \*/
+                  * html .clearfix {height: 1%;}
+                  .clearfix {display: block;}
+                  /* End hide from IE-mac */
+                </style>
+                <![endif]-->
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/css/colorbox/colorbox.css" type="text/css" media="screen">
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS BEGIN -->
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS END -->
+
+
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/hoverIntent.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/superfish.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/supersubs.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/thematic-dropdowns.js"></script>
+
+	<script type="text/javascript">
+		jQuery.noConflict();
+	</script>
+
+</head>
+
+
+<body class="wordpress y2010 m09 d17 h10 singular slug-warning-wordpress-trademark-now-has-teeth single postid-3150 s-y2010 s-m09 s-d10 s-h16 s-category-marketing s-category-wordpress s-tag-wordpress s-tag-wordpress-trademark s-author-andy-beard s-comments-open s-pings-open unknown-os unknown-browser">
+    
+
+<div id="wrapper" class="hfeed">
+
+       
+
+    <div id="header">
+    
+        		    	<div id="branding">
+				    		<div id="blog-title"><span><a href="http://andybeard.eu/" title="Internet Business &amp; Marketing Strategy – Andy Beard" rel="home">Internet Business &amp; Marketing Strategy – Andy Beard</a></span></div>
+			
+		    		<div id="blog-description">Internet Marketing, Lead Acquisition, Online Business Strategy and Social Media with Original Opinion and Loads of Attitude</div>
+		    				    	</div><!--  #branding -->
+				    	<div id="access">
+		    		<div class="skip-link"><a href="#content" title="Skip navigation to the content">Skip to content</a></div>
+		            <div class="menu"><ul class="sf-menu"><li class="page_item page-item-2652"><a href="http://andybeard.eu/seo-tests" title="SEO Tests Intro">SEO Tests Intro</a><ul class="children"><li class="page_item page-item-2656"><a href="http://andybeard.eu/seo-tests/article-marketing-anchor-text" title="Article Marketing Anchor Text">Article Marketing Anchor Text</a></li><li class="page_item page-item-2654"><a href="http://andybeard.eu/seo-tests/google-buzz-links-passing-reputation" title="Google Buzz Links Passing Reputation">Google Buzz Links Passing Reputation</a></li></ul></li><li class="page_item page-item-2"><a href="http://andybeard.eu/about" title="About">About</a></li><li class="page_item page-item-98"><a href="http://andybeard.eu/contact" title="Contact Andy">Contact Andy</a></li><li class="page_item page-item-106"><a href="http://andybeard.eu/archives" title="Archives">Archives</a></li><li class="page_item page-item-538"><a href="http://andybeard.eu/privacy-statement" title="Privacy Statement">Privacy Statement</a></li><li class="page_item page-item-104"><a href="http://andybeard.eu/comments-policy" title="Comments Policy">Comments Policy</a></li><li class="page_item page-item-180"><a href="http://andybeard.eu/disclosure-policy" title="Disclosure Policy">Disclosure Policy</a></li><li class="page_item page-item-925"><a href="http://andybeard.eu/wordpress-plugins" title="WordPress Plugins">WordPress Plugins</a><ul class="children"><li class="page_item page-item-926"><a href="http://andybeard.eu/wordpress-plugins/nofollow-those-dupes" title="Nofollow Those Dupes">Nofollow Those Dupes</a></li><li class="page_item page-item-942"><a href="http://andybeard.eu/wordpress-plugins/custom-query-string-utw" title="Custom Query String – UTW Edition">Custom Query String – UTW Edition</a></li><li class="page_item page-item-565"><a href="http://andybeard.eu/wordpress-plugins/wordpress-plugin-hacks" title="Hacked WordPress Plugins">Hacked WordPress Plugins</a></li></ul></li></ul></div>
+		        </div><!-- #access -->
+		        
+    </div><!-- #header-->
+    
+       
+
+    <div id="main">
+    
+	<div id="container">
+		<div id="content">
+
+            
+			<div id="nav-above" class="navigation">
+				<div class="nav-previous"><a href="http://andybeard.eu/3143/google-automated-queries.html" rel="prev"><span class="meta-nav">«</span> Google Killing Off Automated Queries – num=100 R.I.P ?</a></div>
+				<div class="nav-next"><a href="http://andybeard.eu/3157/ask-iac-bloglines-seesmic.html" rel="next">Are Ask (IAC) Killing The Golden Goose? (Plus they Should Buy Seesmic) <span class="meta-nav">»</span></a></div>
+			</div>
+
+			<div id="post-3150" class="hentry p1 post publish author-andy-beard category-marketing category-wordpress tag-wordpress tag-wordpress-trademark comments-open pings-open y2010 m09 d10 h16 slug-warning-wordpress-trademark-now-has-teeth">
+    			<h1 class="entry-title">Warning: WordPress Trademark Now Has Teeth</h1>
+<div class="entry-meta"><span class="meta-prep meta-prep-author">By </span><span class="author vcard"><a class="url fn n" href="http://andybeard.eu/author/Andy Beard/" title="View all posts by Andy Beard">Andy Beard</a></span><span class="meta-sep meta-sep-entry-date"> | </span><span class="meta-prep meta-prep-entry-date">Published: </span><span class="entry-date"><abbr class="published" title="2010-09-10T14:19:22+0000">September 10, 2010</abbr></span></div><!-- .entry-meta -->
+				<div class="entry-content">
+
+<p>Close to 4 years ago trademark policy with WordPress was confusing.</p>
+<p>Automattic registered the <a href="http://andybeard.eu/112/wordpress-trademark-scammers.html">WordPress trademark</a> and began sending out letters to domain owners who provided goods and services around the WordPress brand.<br>
+They actually started sending out these letters and emails before the trademark was even published for opposition.</p>
+<p></p><div id="attachment_3151" class="wp-caption aligncenter" style="width: 510px"><img src="http://andybeard.eu/wp-content/uploads/wordpress-registered-trademark.png" alt="WordPress Registered Trademark - artistic representation" title="wordpress-registered-trademark" width="500" height="310" class="size-full wp-image-3151"><p class="wp-caption-text">WordPress Registered Trademark - artistic representation</p></div><p></p>
+<p>Matt <a href="http://ma.tt/2010/09/wordpress-trademark/">has just announced</a> that he has finally transferred the WordPress trademark to the WordPress foundation which is to be applauded.</p>
+<p>Automattic were certainly discussing this around a year ago, so it seems to have taken a while. To be honest I have never understood why it was ever registered under Automattic anyway.</p>
+<p>There is also a <a href="http://wordpressfoundation.org/trademark-policy/">new (draft) policy</a>.</p>
+<p>Historically there have been 2 major complaints with the WordPress Trademark policy.</p>
+<h2>1. ® – Do As I Say, Not As I Do</h2>
+<p>I don’t know the legal ramification as I am not a lawyer, but the WordPress project as a whole has never used the highly visible ® symbol in everything they have done for the last 4 years.</p>
+<p>No mention of trademark useage has ever appeared on the WordPress.org home page before today, though there has for a long time been a little note on the .org site <a href="http://wordpress.org/about/domains/">buried in the documentation</a>.</p>
+<p>To reduce confusion people using the WordPress trademark in any way were asked to include a statement about their use to avoid confusion.</p>
+<p>Automattic does include mention within their <a href="http://en.wordpress.com/tos/">WordPress.com terms of service</a> however I wouldn’t class that as visible.</p>
+<blockquote><p>Intellectual Property. This Agreement does not transfer from Automattic to you any Automattic or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with Automattic. Automattic, WordPress, WordPress.com, the WordPress.com logo, and all other trademarks, service marks, graphics and logos used in connection with WordPress.com, or the Website are trademarks or registered trademarks of Automattic or Automattic’s licensors. Other trademarks, service marks, graphics and logos used in connection with the Website may be the trademarks of other third parties. Your use of the Website grants you no right or license to reproduce or otherwise use any Automattic or third-party trademarks.</p></blockquote>
+<p>Typical useage by people using the Trademark (probably) with permission might be the <a href="http://www.wordpressphilippines.org/">WordPress Philippines</a> site</p>
+<blockquote><p>WordPress is a registered trademark of Automattic Inc.. This website is not affiliated with or sponsored by Automattic or WordPress.</p></blockquote>
+<p>Thus up until now, if the Trademark was owned by Automattic, WordPress.org should have had a similar statement. Now the license is transferred to the foundation, Automattic should if all things are being done fairly and crossing all the “t”s, include such a statement on every one of their properties.</p>
+<p>That is the way to enforce your brand… which with all due respect to Matt, the WordPress project as a whole, the developers and the people at Automattic, there has been a real lack of consistancy.</p>
+<h2>2. WordPress Trademark Scope</h2>
+<p>WordPress have always policed the trademark <a href="http://wordpress.org/about/domains/">based upon domains</a></p>
+<blockquote><p>
+If you already have a domain with “WordPress” in it, redirecting it to the “wp” equivalent is fine, just as long as the main one users see and you promote doesn’t contain “WordPress.”<br>
+“WordPress” in sub-domains is fine, like wordpress.example.com, we’re just concerned about top-level domains.</p></blockquote>
+<p>Up until now that has been the whole official policy and the only page that contained that policy.</p>
+<p>So the WordPress foundation have a <a href="http://wordpressfoundation.org/trademark-policy/">new draft policy</a>.</p>
+<blockquote><p>Permission from the WordPress Foundation is required to use the WordPress name or logo as part of any project, product, service, domain or company name.</p>
+<p>We will grant permission to use the WordPress name and logo for projects that meet the following criteria:</p>
+<p>    * The primary purpose of your project is to promote the spread and improvement of the WordPress software.<br>
+    * Your project is non-commercial in nature (it can make money to cover its costs or contribute to non-profit entities, but it cannot be run as a for-profit project or business).<br>
+    * Your project neither promotes nor is associated with entities that currently fail to comply with the GPL license under which WordPress is distributed.</p>
+<p>[...]</p>
+<p>All other WordPress-related businesses or projects can use the WordPress name and logo to refer to and explain their services, but they cannot use them as part of a product, project, service, domain, or company name and they cannot use them in any way that suggests an affiliation with or endorsement by the WordPress Foundation or the WordPress open source project.
+</p></blockquote>
+<p>So all of these use cases might be in violation now</p>
+<ul>
+<li>You can publish a series of blog posts, say on WordPress SEO but if you ever want to turn it into an ebook for free download that is “for profit” in some way, you need to use WP not WordPress in the title.</li>
+<li>What happens if you wanted to sell the ebook? Same situation.</li>
+<li>Have a WordPress plugin – don’t use WordPress in the name if you have any plans to ever have a commercial version. </li>
+<li>Any conference – you can forget about using the trademark unless it is not for profit such as the WordCamps.</li>
+<li>Created some great WordPress videos – it is fine to give them away on your website, but don’t sell the DVDs or video downloads… got that YouTube? That would make it a product.</li>
+<li>Then there are books like <a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470568135.html">WordPress Bible</a> – does that now require special licensing and permission?</li>
+</ul>
+<p>All of this creates a sub-brand – WP that WordPress doesn’t currently own and in many ways dilutes the WordPress brand itself. I rarely use WordPress in searches – I am more likely to use just WP as it often gets better results.</p>
+<p>You also need to look at the registered trademarks themselves. I have copied them at the end of this post for convenience as the USPTO site isn’t easy to get a permalink for specific documents.</p>
+<p><strong>The WordPress trademarks are for software and downloadable software</strong></p>
+<p>Whilst they haven’t done so yet, I would expect them to eventually police the trademark over all possible use scenarios – they do for instance have trademark use blocked for Adwords, unless you have specific permission.<br>
+However they seem to be <a href="http://www.google.com/search?q=wordpress+themes&amp;pws=0&amp;hl=en&amp;gl=US">relaxing a little on that front</a> – lots more theme publishers using WordPress in their ads – maybe that is because of being 100% GPL.</p>
+<h2>Scope In Social Media</h2>
+<p><a href="http://ma.tt/2010/09/wordpress-trademark/#comment-485323">Matt in his comments</a> when questioned about use of WordPress in social media stated:-</p>
+<blockquote><p>I know it’s harder to switch Twitter and FB and we don’t have an official policy there yet, but I do think it makes sense for them to match the domain.</p></blockquote>
+<p>The suggestion is there might be a policy decision in the future – scope creep rather than feature creep. In the past for instance I have been told that I can use subdomains containing WordPress which is a step beyond just a folder.<br>
+I would think the line in the sand on this is whether the use of WordPress is for a product in the new interpretation, no matter where it is being used.<br>
+Thus is you have a WPThemes domain selling themes, but a @WordPressThemes twitter account or facebook page, you might be in violation in the future.</p>
+<h2>Level Playing Field</h2>
+<p>All I want is a level playing field with every use case publicly acknowledged. I think it could be a good way for the WordPress foundation to promote the use of the trademark “with permission” to even post blog updates on every decision.</p>
+<h2>WordPress Tradmark Now Has Teeth</h2>
+<p>With the new wording of the Trademark Policy, and the much clearer ownership that will gain a lot more community support, if WordPress &amp; Automattic clean up their own use of the WordPress Trademark such that they can show explicitly that it is a universal policy, I expect them to also clam down on other useage.</p>
+<p>Many more sites and products don’t comply with the new policy than the previous domain policy, and there were still countless offenders of the domain policy, even among people you would expect to be a little smarter.</p>
+<p><strong>Don’t be a WordPress community martyr – clean up your own use pronto.</strong></p>
+<h2>Appendix</h2>
+<h3>WordPress Trademark for the word (no capital P Dangit)</h3>
+<blockquote><p>Word Mark  	 WORDPRESS<br>
+Goods and Services 	IC 009. US 021 023 026 036 038. G &amp; S: Downloadable software program for use in design and managing content on a website. FIRST USE: 20030328. FIRST USE IN COMMERCE: 20030328</p>
+<p>IC 042. US 100 101. G &amp; S: Software solutions, namely providing use of on-line non-downloadable software for use in enabling internet publishing. FIRST USE: 20030328. FIRST USE IN COMMERCE: 20030328<br>
+Standard Characters Claimed<br>
+Mark Drawing Code 	(4) STANDARD CHARACTER MARK<br>
+Serial Number 	78826734<br>
+Filing Date 	March 1, 2006<br>
+Current Filing Basis 	1A<br>
+Original Filing Basis 	1A<br>
+Published for Opposition 	November 7, 2006<br>
+Registration Number 	3201424<br>
+Registration Date 	January 23, 2007<br>
+Owner 	(REGISTRANT) Automattic Inc. CORPORATION DELAWARE 570 El Camino Real #150-454 Redwood City CALIFORNIA 94063<br>
+Assignment Recorded 	ASSIGNMENT RECORDED<br>
+Attorney of Record 	David A.W. Wong<br>
+Type of Mark 	TRADEMARK. SERVICE MARK<br>
+Register 	PRINCIPAL<br>
+Live/Dead Indicator 	LIVE</p></blockquote>
+<h3>WordPress trademark for Logo</h3>
+<blockquote><p>Word Mark  	 W WORDPRESS<br>
+Goods and Services 	IC 009. US 021 023 026 036 038. G &amp; S: Downloadable software program for use in design and managing content on a website. FIRST USE: 20030328. FIRST USE IN COMMERCE: 20030328</p>
+<p>IC 042. US 100 101. G &amp; S: Software solutions, namely providing use of on-line non-downloadable software for use in enabling internet publishing. FIRST USE: 20030328. FIRST USE IN COMMERCE: 20030328<br>
+Mark Drawing Code 	(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS<br>
+Design Search Code 	26.01.17 – Circles, two concentric; Concentric circles, two; Two concentric circles<br>
+26.01.21 – Circles that are totally or partially shaded.<br>
+26.17.13 – Letters or words underlined and/or overlined by one or more strokes or lines; Overlined words or letters; Underlined words or letters<br>
+Serial Number 	78826938<br>
+Filing Date 	March 1, 2006<br>
+Current Filing Basis 	1A<br>
+Original Filing Basis 	1A<br>
+Published for Opposition 	November 7, 2006<br>
+Registration Number 	3201428<br>
+Registration Date 	January 23, 2007<br>
+Owner 	(REGISTRANT) Automattic Inc. CORPORATION DELAWARE 570 El Camino Real #150-454 Redwood City CALIFORNIA 94063<br>
+Assignment Recorded 	ASSIGNMENT RECORDED<br>
+Attorney of Record 	David A.W. Wong<br>
+Type of Mark 	TRADEMARK. SERVICE MARK<br>
+Register 	PRINCIPAL<br>
+Live/Dead Indicator 	LIVE</p></blockquote>
+<div id="active-share-comment-marker"></div>
+<div class="topsy_widget_data topsy_theme_brick-red" style="float: right;margin-left: 0.75em; background: url(data:,%7B%20%22url%22%3A%20%22http%253A%252F%252Fandybeard.eu%252F3150%252Fwarning-wordpress-trademark-now-has-teeth.html%22%2C%20%22shorturl%22%3A%20%22http%3A%2F%2Fbit.ly%2F9HjThE%22%2C%20%22style%22%3A%20%22big%22%2C%20%22title%22%3A%20%22Warning%3A%20WordPress%20Trademark%20Now%20Has%20Teeth%22%20%7D);"><script type="text/javascript">topsyWidgetPreload({ "url": "http%3A%2F%2Fandybeard.eu%2F3150%2Fwarning-wordpress-trademark-now-has-teeth.html", "shorturl": "http://bit.ly/9HjThE", "style": "big", "title": "Warning: WordPress Trademark Now Has Teeth" });</script></div>
+
+<div style="float:right;margin:0px 0px 0px 8px;"><a title="Post on Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count" data-url="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html"></a><script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script></div><div align="right" style="float:right;padding:5px 0xp 0px 5px;"><a name="fb_share" type="box_count" share_url="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html"></a></div><div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://andybeard.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+var a2a_config = a2a_config || {};
+a2a_config.linkname="Warning: WordPress Trademark Now Has Teeth";
+a2a_config.linkurl="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html";
+a2a_config.show_title=1;
+//--></script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+
+</div>
+	<h4>Related posts</h4>
+	<ul class="st-related-posts">
+	<li><a href="http://andybeard.eu/134/wordpress-tutorials-business-as-usual.html" title="WordPress Tutorials (business as usual) (November 15, 2006)">WordPress Tutorials (business as usual)</a> (2)</li>
+	<li><a href="http://andybeard.eu/112/wordpress-trademark-scammers.html" title="WordPress Trademark Scammers? (October 29, 2006)">WordPress Trademark Scammers?</a> (56)</li>
+	<li><a href="http://andybeard.eu/223/linking-for-traffic.html" title="Linking for Traffic? (January 8, 2007)">Linking for Traffic?</a> (2)</li>
+	<li><a href="http://andybeard.eu/1336/wordpresscom-subdomain-spam-with-tags.html" title="WordPress.com Subdomain Spam With Tags? (April 23, 2008)">WordPress.com Subdomain Spam With Tags?</a> (23)</li>
+	<li><a href="http://andybeard.eu/118/wordpresscom-linking-structure.html" title="WordPress.com linking structure (November 4, 2006)">WordPress.com linking structure</a> (17)</li>
+	<li><a href="http://andybeard.eu/486/wordpress-vs-moveable-type-six-apart-under-attack.html" title="WordPress VS Moveable Type – Six Apart Under Attack (February 24, 2007)">WordPress VS Moveable Type – Six Apart Under Attack</a> (1)</li>
+	<li><a href="http://andybeard.eu/133/wordpress-tutorials-reborn.html" title="WordPress Tutorials Reborn (November 15, 2006)">WordPress Tutorials Reborn</a> (3)</li>
+	<li><a href="http://andybeard.eu/914/wordpress-sponsored-themes-how-to-game-the-system.html" title="WordPress Sponsored Themes – How To Game The System (July 28, 2007)">WordPress Sponsored Themes – How To Game The System</a> (11)</li>
+	<li><a href="http://andybeard.eu/843/wordpress-seo-masterclass-for-competitive-niches.html" title="WordPress SEO Masterclass For Competitive Niches (June 19, 2007)">WordPress SEO Masterclass For Competitive Niches</a> (130)</li>
+	<li><a href="http://andybeard.eu/838/wordpress-seo-siloing-vs-massive-ball-linking-with-tags.html" title="WordPress SEO – Siloing vs Massive Ball Linking With Tags (June 14, 2007)">WordPress SEO – Siloing vs Massive Ball Linking With Tags</a> (40)</li>
+</ul>
+
+
+									</div>
+				<div class="entry-utility"><span class="cat-links">This entry was posted in <a href="http://andybeard.eu/category/marketing" title="View all posts in marketing" rel="category tag">marketing</a>, <a href="http://andybeard.eu/category/wordpress" title="View all posts in wordpress" rel="category tag">wordpress</a></span><span class="tag-links">  and tagged <a href="http://andybeard.eu/tag/wordpress" rel="tag">wordpress</a>, <a href="http://andybeard.eu/tag/wordpress-trademark" rel="tag">WordPress trademark</a></span>. Bookmark the <a href="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html" title="Permalink to Warning: WordPress Trademark Now Has Teeth">permalink</a>. <a class="comment-link" href="#respond" title="Post a comment">Post a comment</a> or leave a trackback: <a class="trackback-link" href="http://andybeard.eu/3150/warning-wordpress-trademark-now-has-teeth.html/trackback" title="Trackback URL for your post" rel="trackback">Trackback URL</a>.</div><!-- .entry-utility -->
+			</div><!-- .post -->
+
+			<div id="nav-below" class="navigation">
+				<div class="nav-previous"><a href="http://andybeard.eu/3143/google-automated-queries.html" rel="prev"><span class="meta-nav">«</span> Google Killing Off Automated Queries – num=100 R.I.P ?</a></div>
+				<div class="nav-next"><a href="http://andybeard.eu/3157/ask-iac-bloglines-seesmic.html" rel="next">Are Ask (IAC) Killing The Golden Goose? (Plus they Should Buy Seesmic) <span class="meta-nav">»</span></a></div>
+			</div>
+
+			<div id="comments">
+
+
+
+
+
+				<div id="comments-list" class="comments">
+					<h3><span>13</span> Comments</h3>
+				
+					<ol>
+    	<li id="comment-445947" class="comment c c-y2010 c-m09 c-d10 c-h21 alt depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://0.gravatar.com/avatar/ade841f9ad73465245c35da4684177e2?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n">Mark</span></div>
+    		<div class="comment-meta">Posted September 10, 2010 at 7:42 pm <span class="meta-sep">|</span> <a href="#comment-445947" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Can I still use the WordPress logo in the post on my blog when I’m reviewing a plugins or some updates for the WordPress?</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445947#respond" onclick="return addComment.moveForm(&quot;comment-445947&quot;, &quot;445947&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div><ul class="children">
+    	<li id="comment-445948" class="comment c1 byuser comment-author-andybear bypostauthor c-y2010 c-m09 c-d10 c-h22 depth-2">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/76bbcacccaa181c2525c9914ce51fc2c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://andybeard.eu" rel="external" class="url url">Andy Beard</a> (1830 comments.)</span></div>
+    		<div class="comment-meta">Posted September 10, 2010 at 8:26 pm <span class="meta-sep">|</span> <a href="#comment-445948" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>In the US there is the concept of fair use so possibly.</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445948#respond" onclick="return addComment.moveForm(&quot;comment-445948&quot;, &quot;445948&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+    	<li id="comment-445976" class="comment c2 c-y2010 c-m09 c-d11 c-h21 alt depth-2">
+    		<div class="comment-author vcard"><img alt="" src="http://0.gravatar.com/avatar/63759bd901a31c6eb6d9c847d8791d2d?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n">Gravity</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 7:43 pm <span class="meta-sep">|</span> <a href="#comment-445976" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>I think if you mention all rights resevered by WordPress and link them, it doesn violate anything…</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445976#respond" onclick="return addComment.moveForm(&quot;comment-445976&quot;, &quot;445976&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div><ul class="children">
+    	<li id="comment-445977" class="comment c3 byuser comment-author-andybear bypostauthor c-y2010 c-m09 c-d11 c-h21 depth-3">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/76bbcacccaa181c2525c9914ce51fc2c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://andybeard.eu" rel="external" class="url url">Andy Beard</a> (1830 comments.)</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 7:58 pm <span class="meta-sep">|</span> <a href="#comment-445977" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>There is currently (according to WordPress) very specific wording as included in the post, and permission required for commercial use of their trademark.</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445977#respond" onclick="return addComment.moveForm(&quot;comment-445977&quot;, &quot;445977&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+    	<li id="comment-445957" class="comment c4 c-y2010 c-m09 c-d11 c-h08 alt depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/f5636e777211587ea2772c022f53bdd8?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://www.computerbooksonline.com" rel="external nofollow" class="url url">Jill</a> (1 comments.)</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 6:19 am <span class="meta-sep">|</span> <a href="#comment-445957" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>If I am reading this right, I think they might be going off the deep end with all that. There are 100s and 100s of books written about Adobe products, Microsoft products, AutoCAD products, etc. </p>
+<p>Those are trademarked names, but to say that people can’t name the product that they are writing about without getting licensed for it seems a bit much to me. How about just saying something like “All products and company names mentioned herein are the trademarks of their respective owners.” like I have on my website?</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445957#respond" onclick="return addComment.moveForm(&quot;comment-445957&quot;, &quot;445957&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div><ul class="children">
+    	<li id="comment-445964" class="comment c5 byuser comment-author-andybear bypostauthor c-y2010 c-m09 c-d11 c-h11 depth-2">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/76bbcacccaa181c2525c9914ce51fc2c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://andybeard.eu" rel="external" class="url url">Andy Beard</a> (1830 comments.)</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 9:42 am <span class="meta-sep">|</span> <a href="#comment-445964" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>This is where the scope creep with WordPress Trademarks comes in.</p>
+<p>As an example 4 years ago they were cracking down on domain use, but the people they were targeting at the time, or at least of the people I knew were people offering WordPress training videos.<br>
+There is a nice <a href="http://andybeard.eu/112/wordpress-trademark-scammers.html#comment-48">quote there</a> on their real intentions:-</p>
+<blockquote><p>We will approach anyone who actively uses WordPress in their domain, product or company name. Guys like word-press.net, wordpressvideos.com, etc were the first ones brought to our attention.</p></blockquote>
+<p>Thus the scope creep is in the official (draft) policy – it has taken WordPress 4 years to put into official writing what they stated on my blog in the comments.</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445964#respond" onclick="return addComment.moveForm(&quot;comment-445964&quot;, &quot;445964&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+    	<li id="comment-445980" class="comment c6 c-y2010 c-m09 c-d12 c-h00 alt depth-2">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/b93edc3f9dba759e0ad846a9c27685b8?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://markjaquith.com/" rel="external nofollow" class="url url">Mark Jaquith</a> (1 comments.)</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 10:42 pm <span class="meta-sep">|</span> <a href="#comment-445980" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<blockquote><p>Those are trademarked names, but to say that people can’t name the product that they are writing about without getting licensed for it seems a bit much to me</p></blockquote>
+<p>Please do note that it is a <em>draft</em> policy. I agree that a blanket policy against WordPress being mentioned in a product name would be silly. The point of a trademark is to prevent confusion and to prevent people taking for their purposes the name you’ve built up. Names like “WordPress for Dummies,” “WordPress Bible,” “Professional WordPress” are building upon their existing “____ for Dummies,” “____ Bible,” and “Professional ____” brands. If those were a problem, I’m sure the hyper-trademark-litigious Apple <a href="http://www.amazon.com/gp/product/B002MZUPRY" rel="nofollow">would have objected before now</a>.</p>
+<p>Something like “The Official WordPress Guidebook,” or an app called “WordPress” for Windows Phone 7 would be problematic. The trademark policy needs to prevent blatant trademark violations, while allowing for products to <em>reference</em> WordPress where appropriate.</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445980#respond" onclick="return addComment.moveForm(&quot;comment-445980&quot;, &quot;445980&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div><ul class="children">
+    	<li id="comment-445989" class="comment c7 byuser comment-author-andybear bypostauthor c-y2010 c-m09 c-d12 c-h11 depth-3">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/76bbcacccaa181c2525c9914ce51fc2c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://andybeard.eu" rel="external" class="url url">Andy Beard</a> (1830 comments.)</span></div>
+    		<div class="comment-meta">Posted September 12, 2010 at 9:43 am <span class="meta-sep">|</span> <a href="#comment-445989" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Mark I am not sure that really covers the realities, because silly interpretations are what cause disputes between interested parties, and also in the community.</p>
+<p>Here is Stephanie’s book<br>
+<a href="http://sillybean.net/books/beginning-wordpress/">http://sillybean.net/books/beginning-wordpress/</a></p>
+<p>A post by Jane on the WP Tavern suggests that permission was sought by the publisher to use the TradeMark.<br>
+<a href="http://www.wptavern.com/forum/licensing/1946-wpf-draft-wordpress-tm-policy-automattic.html#post18895">http://www.wptavern.com/forum/licensing/1946-wpf-draft-wordpress-tm-policy-automattic.html#post18895</a></p>
+<p>Publishers tend to be careful on things like trademarks</p>
+<p>You can’t really apply different rules for domains and products. If you allow products to use the trademark, then you might also need to then allow domains. Hard to allow one without the other… the use either has permission or not otherwise you open up a can of worms for not being consistant.</p>
+<p>There are currently over 500 listsings of products on Amazon<br>
+<a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_noss%26y%3D0%26field-keywords%3Dwordpress%26url%3Dsearch-alias%253Daps&amp;tag=andybeard-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">500+ WordPress Books on Amazon</a><br>
+(Associates Link)</p>
+<p>Lots of those listings are duplicates, and I am sure some asked for permission to use the trademark, but with publishing becoming easier especially in ebook form, there will be an increase in numbers, and maybe a decrease in quality.</p>
+<p>Under the current wording of the draft, for me to take a popular post such as my WordPress SEO Masterclass, update it, and publish it as an eBook I would need WP permission.</p>
+<p>Maybe I should get the foundation to approve every blog post just in case it becomes popular and has some brand value?</p>
+<p>This is important in a number of ways even for blogs</p>
+<p>	WordPress in the title tag on the home page<br>
+	WordPress in the Blog title area as the main title</p>
+<p>Hmm – have an idea for a new plugin</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445989#respond" onclick="return addComment.moveForm(&quot;comment-445989&quot;, &quot;445989&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+    	<li id="comment-445960" class="comment c8 c-y2010 c-m09 c-d11 c-h10 alt depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://0.gravatar.com/avatar/2733f1da14dd616da04d1738f5383da7?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n">Medisweans</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 8:06 am <span class="meta-sep">|</span> <a href="#comment-445960" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Is there an problem while using word press trade mark logo ?</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445960#respond" onclick="return addComment.moveForm(&quot;comment-445960&quot;, &quot;445960&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div><ul class="children">
+    	<li id="comment-445962" class="comment c9 byuser comment-author-andybear bypostauthor c-y2010 c-m09 c-d11 c-h11 depth-2">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/76bbcacccaa181c2525c9914ce51fc2c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://andybeard.eu" rel="external" class="url url">Andy Beard</a> (1830 comments.)</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 9:30 am <span class="meta-sep">|</span> <a href="#comment-445962" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Depending on how you are using it, yes</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445962#respond" onclick="return addComment.moveForm(&quot;comment-445962&quot;, &quot;445962&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+</ul>
+</li>
+    	<li id="comment-445981" class="comment c10 c-y2010 c-m09 c-d12 c-h00 alt depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/1e10c6258782e19f1f8ef3a9487f31bd?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://www.pepperbottletech.com" rel="external nofollow" class="url url">Eric Moore</a> (1 comments.)</span></div>
+    		<div class="comment-meta">Posted September 11, 2010 at 10:49 pm <span class="meta-sep">|</span> <a href="#comment-445981" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Andy,<br>
+As an SEO consultant I appreciate this information a lot. We use blogs to help with exposure online for our customers. It is good to know what to do , and what not to do. Any information of trademarks for commercial use is always helpful.  We are all learning in the digital age.</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=445981#respond" onclick="return addComment.moveForm(&quot;comment-445981&quot;, &quot;445981&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+    	<li id="comment-446074" class="comment c11 c-y2010 c-m09 c-d14 c-h17 depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/fc2cd3bb7cb8f90b8cd899c28b989dfc?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://www.vsellis.com" rel="external nofollow" class="url url">Scott Ellis</a> (1 comments.)</span></div>
+    		<div class="comment-meta">Posted September 14, 2010 at 3:11 pm <span class="meta-sep">|</span> <a href="#comment-446074" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Also not an attorney but… I think that “fair use” laws in the US would make it difficult for you to get into trouble for creating a book, video or whatever that teaches someone how to do something on WordPress and calling it “How to Whatever In WordPress.” If that didn’t fall under “fair use” I suspect we would have seen a lot of lawsuits by other companies by now, including some of the aforementioned companies like Apple and MS. </p>
+<p>More importantly, as long as you are clearly not trying to be deceitful or claim to represent the WordPress trademark and are simply referring to it then the WordPress Foundation and it’s representatives should welcome people creating books, videos, … for profit or otherwise because they do serve to further the WordPress software and community. </p>
+<p>A little more on the Fair Use topic (excerpted from: <a href="http://www.publaw.com/fairusetrade.html" rel="nofollow">http://www.publaw.com/fairusetrade.html</a> )</p>
+<p>Nutshell: As long as you don’t confuse people about ownership/sponsorship and are using the trademark in a descriptive manner (again, “How To X In WordPress”) you should be fine. </p>
+<p>**********************************************************************</p>
+<p>The Lanham Act permits a non-owner of a registered trademark to make “fair use” or “nominative use” of a trademark under certain circumstances without obtaining permission from the mark’s owner. The fair use and nominative use defenses are to help ensure that trademark owners do not prohibit the use of their marks when they are used for the purpose of description or identification. Fair use or nominative use may be recognized in those instances where a reader of a given work is clearly able to understand that the use of the trademark does not suggest sponsorship or association with the trademark owner’s product or services and therefore is not being used in a manner to confuse the reader.</p>
+<p>Generally, the use by an author of a trademark in a fictional work to describe or identify particular goods or services, such as “driving in my Ford”, “eating a Hershey bar”, “playing with my Beanie Baby” will not be considered an infringement as long as the use does not confuse the reader with respect to who actually owns the trademark. Trademark law also permits an author of a non-fiction work to include content that is favorable and/or critical of a trademark owner’s products or services. In this type of work the author should only use the trademark to describe or identify the trademark owner’s product or service and should be careful not to confuse the reader as to the actual provider of the trademark owner’s products or services</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=446074#respond" onclick="return addComment.moveForm(&quot;comment-446074&quot;, &quot;446074&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div><ul class="children">
+    	<li id="comment-446077" class="comment c12 byuser comment-author-andybear bypostauthor c-y2010 c-m09 c-d14 c-h17 alt depth-2">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/76bbcacccaa181c2525c9914ce51fc2c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://andybeard.eu" rel="external" class="url url">Andy Beard</a> (1830 comments.)</span></div>
+    		<div class="comment-meta">Posted September 14, 2010 at 3:39 pm <span class="meta-sep">|</span> <a href="#comment-446077" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>We effectively went through all the fair use arguments 4 years ago but WordPress/Automattic are still at least it seems attempting to interpret the scope of their trademark to cover all use ralated to their product.</p>
+<p>At that time I even pointed out that some people even have domains registered for corporations with large legal teams.</p>
+<p>This comes back to the GPL battle – I argued that it doesn’t matter about the law, the WordPress core developers believed in one interpretation thus the right thing to do is respect their wishes.</p>
+    		</div>
+			<div class="comment-reply-link"><a rel="nofollow" class="comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html?replytocom=446077#respond" onclick="return addComment.moveForm(&quot;comment-446077&quot;, &quot;446077&quot;, &quot;respond&quot;, &quot;3150&quot;)">Reply</a></div></li>
+</ul>
+</li>
+					</ol>
+
+        			<div id="comments-nav-below" class="comment-navigation">
+        			     <div class="paginated-comments-links"></div>
+                    </div>
+					
+				</div><!-- #comments-list .comments -->
+
+			
+
+
+
+
+				<div id="trackbacks-list" class="comments">
+					<h3><span>One</span> Trackback</h3>
+					
+					<ol>
+    		<li id="comment-446080" class="pingback t13 c-y2010 c-m09 c-d14 c-h18 depth-1">
+    			<div class="comment-author">By <a href="http://www.hebergement.tv/actualites/wordpress-web/l%e2%80%99hebdo-wordpress-marque-wordpress-%e2%80%93-le-campus-%e2%80%93-securite-21399.html" rel="external nofollow" class="url">L’hebdo WordPress : Marque WordPress – Le Campus – Sécurité</a> on September 14, 2010 at 4:12 pm</div>
+                <div class="comment-content">
+    			<p>[...] Matt l’a annoncé cette semaine, cette fois c’est officiel : la propriété de la marque WordPress a été transférée vers la Fondation WordPress via un don d’Automattic. Ainsi, elle n’est plus la propriété de cette dernière mais de la fondation à but non lucratif. Ce changement entraine quelques modifications dans les conditions d’utilisation de la dite marque. [...]</p>
+			</div>
+</li>
+					</ol>				
+					
+				</div><!-- #trackbacks-list .comments -->			
+
+				
+
+
+				<div id="respond">
+    				<h3>Post a Reply to <a href="#comment-445948">Andy Beard</a></h3>
+    				
+    				<div id="cancel-comment-reply"><a rel="nofollow" id="cancel-comment-reply-link" href="/3150/warning-wordpress-trademark-now-has-teeth.html#respond">Click here to cancel reply.</a></div>
+
+					<div class="formcontainer">	
+					
+
+<div id="comment-warning">
+<h4>Warning: Comment Spammers</h4>
+<small>
+<ul>
+<li>No more keywords within anchor text in the comment fields</li>
+<li>No sig links under comments</li>
+<li>Highly relevant links in the body of a comment can contain anchor text such as the blog title but they will be judged on a case by case basis.</li>
+<li>Even after these changes, I still expect to delete 90% of human comments as the vast majority are just an attempt to get a link rather than adding real value to the conversation.</li>
+<li>SEO Consultants/Agencies - If I catch you commenting but linking to a client's site, your online reputation, your firm's and that of your client are being put at severe risk.</li>
+<li>Link to a page or a blog that can be identified as being about you, so my readers can gain additional perspective on your point of view and where necessary sufficent disclosure</li>
+</ul>
+</small>
+<p>My <a href="http://andybeard.eu/comments-policy/">full comment policy</a></p>
+</div>									
+
+						<form id="commentform" action="http://andybeard.eu/wp-comments-post.php" method="post">
+
+
+							<p id="comment-notes">Your email is <em>never</em> published nor shared. Required fields are marked <span class="required">*</span></p>
+
+                            <div id="form-section-author" class="form-section">
+    							<div class="form-label"><label for="author">Name</label> <span class="required">*</span></div>
+    							<div class="form-input"><input id="author" name="author" type="text" value="" size="30" maxlength="20" tabindex="3"></div>
+                            </div><!-- #form-section-author .form-section -->
+
+                            <div id="form-section-email" class="form-section">
+    							<div class="form-label"><label for="email">Email</label> <span class="required">*</span></div>
+    							<div class="form-input"><input id="email" name="email" type="text" value="" size="30" maxlength="50" tabindex="4"></div>
+                            </div><!-- #form-section-email .form-section -->
+
+                            <div id="form-section-url" class="form-section">
+    							<div class="form-label"><label for="url">Website</label></div>
+    							<div class="form-input"><input id="url" name="url" type="text" value="" size="30" maxlength="50" tabindex="5"></div>
+                            </div><!-- #form-section-url .form-section -->
+
+
+                            <div id="form-section-comment" class="form-section">
+    							<div class="form-label"><label for="comment">Comment</label></div>
+    							<div class="form-textarea"><textarea id="comment" name="comment" cols="45" rows="8" tabindex="6"></textarea></div>
+                            </div><!-- #form-section-comment .form-section -->
+                            
+                            <div id="form-allowed-tags" class="form-section">
+                                <p><span>You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:</span> <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>
+                            </div>
+							
+                  	<script type="text/javascript">
+	<!--
+	refJS = escape( document[ 'referrer' ] );
+	document.write("<input type='hidden' name='refJS' value='"+refJS+"'>");
+	// -->
+	</script>
+	<noscript><p><strong>Currently you have JavaScript disabled. In order to post comments, please make sure JavaScript and Cookies are enabled, and reload the page.</strong> <a href="http://www.google.com/support/bin/answer.py?answer=23852" rel="nofollow external">Click here for instructions</a> on how to enable JavaScript in your browser.</p></noscript>
+                  
+							<div class="form-submit"><input id="submit" name="submit" type="submit" value="Post Comment" tabindex="7"><input type="hidden" name="comment_post_ID" value="3150"></div>
+
+                            <input type="hidden" name="comment_post_ID" value="3150" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="445948">
+    
+
+						</form><!-- #commentform -->
+						
+											
+						
+					</div><!-- .formcontainer -->
+
+				</div><!-- #respond -->
+
+			</div><!-- #comments -->
+
+		</div><!-- #content -->
+	</div><!-- #container -->
+
+
+<div id="primary" class="aside main-aside">
+	<ul class="xoxo">
+			<li id="search" class="widgetcontainer widget_thematic_search">				<h3 class="widgettitle"><label for="s">Search</label></h3>
+
+	<form id="searchform" method="get" action="http://andybeard.eu">
+		<div>
+			<input id="s" name="s" type="text" value="To search, type and hit enter" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" size="32" tabindex="1">
+			<input id="searchsubmit" name="searchsubmit" type="submit" value="Search" tabindex="2">
+		</div>
+	</form></li>
+	</ul>
+</div><!-- #primary .aside -->
+
+<div id="secondary" class="aside main-aside">
+	<ul class="xoxo">
+		<li id="rss-links" class="widgetcontainer widget_thematic_rsslinks">			<h3 class="widgettitle">RSS Links</h3>
+			<ul>
+				<li><a href="http://andybeard.eu/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Posts RSS feed" rel="alternate nofollow" type="application/rss+xml">All posts</a></li>
+				<li><a href="http://andybeard.eu/comments/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Comments RSS feed" rel="alternate nofollow" type="application/rss+xml">All comments</a></li>
+			</ul>
+		</li>			<li id="meta" class="widgetcontainer widget_thematic_meta">				<h3 class="widgettitle">Meta</h3>
+				<ul>
+										<li><a href="http://andybeard.eu/wp-login.php">Log in</a></li>
+									</ul>
+			</li>
+	</ul>
+</div><!-- #secondary .aside -->
+
+    </div><!-- #main -->
+    
+        
+
+	<div id="footer">
+    
+            
+        <div id="siteinfo">        
+
+    Powered by <a class="wp-link" href="http://WordPress.org/" title="WordPress" rel="generator">WordPress</a>. Built on the <a class="theme-link" href="http://themeshaper.com/thematic/" title="Thematic Theme Framework" rel="designer">Thematic Theme Framework</a>.    
+		</div><!-- #siteinfo -->
+    
+            
+	</div><!-- #footer -->
+	
+      
+
+</div><!-- #wrapper .hfeed -->
+
+<div id="as-share-window" style="width: 100%; height: 100px; display: block; position: fixed; top: -150px; left: 0px; background-color: rgba(0, 0, 0, 1);z-index: 100;"><div style="width: 800px; margin: 20px auto;">		<span style="float:left; margin: 0 5px; padding: 3px 0 0 0;" ;><script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></span>
+				
+				<span style="float: left; margin: 0 5px;"><a title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count"></a>
+	<script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script></span>
+							<span style="float: left; margin: 0 5px; padding: 4px 0px 0px;"><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></span>
+					<span style="float: left; margin: 0 5px; padding: 3px 0px 0px;"><a class="DiggThisButton DiggMedium"></a></span>
+			<span style="float: left; margin: 0 5px; padding: 5px 0px 0px; color: #9F9F9F">be a pal and share this would ya?<br><span style="color: #FFFFFF; font-size: 18px;">Warning: WordPress Trademark Now Has Teeth</span></span>
+		</div></div>
+		<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript" src="http://track2.mybloglog.com/js/jsserv.php?mblID=2006112106033602"></script>
+
+<!-- Google Code for Remarketing Lists -->
+
+<!-- Yes I am stuffing you full of tags, most of them are identical. Why? Google don't tell you how many tags you can have on one page, so I am testing it. -->
+<!-- I have asked on the Adwords forums and been given a robotic answer -->
+
+<!-- This is a fresh tag before my main one for testing multiple tags -->
+
+<!-- Google Code for Verify 0 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "_XtKCJiCyAEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=_XtKCJiCyAEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+
+
+<!-- Primary tag -->
+
+<!-- Google Code for Blog Visitors Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "4nCwCNChxwEQlKXZ_QM";
+var google_conversion_value = 0;
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=4nCwCNChxwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-100976-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Start of lots of test tags -->
+
+<!-- Google Code for Verify 1 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "W-5vCNj6xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=W-5vCNj6xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 2 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "NMNyCND7xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=NMNyCND7xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 3 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "hks5CMj8xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=hks5CMj8xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 4 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "e0zUCMD9xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=e0zUCMD9xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 5 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "VQtZCLj-xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=VQtZCLj-xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 6 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "wLOhCLD_xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=wLOhCLD_xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 7 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "36wLCKiAyAEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=36wLCKiAyAEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 8 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "sAehCKCByAEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=sAehCKCByAEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+
+<!-- Google Code for Remarketing List - End of test-->
+<!-- Testing 10 tags -->
+<!-- 0 , Primary, 1,2,3,4,5,6,7,8 -->
+<!-- Get the results at http://Remarketing.me -->
+
+<!-- Google Code for Blog Remarketing List -->
+
+
+<!-- Google Code for Remarketing List - This is another Test-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1012948861;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "xZxbCIPF2AEQ_b6B4wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1012948861/?label=xZxbCIPF2AEQ_b6B4wM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<script type="text/javascript">
+//async script, twitter button fashiolista.com style
+(function() {
+var s = document.createElement('SCRIPT');
+var c = document.getElementsByTagName('script')[0];
+s.type = 'text/javascript';
+s.async = true;
+s.src = 'http://platform.twitter.com/widgets.js';
+c.parentNode.insertBefore(s, c);
+})();
+</script>
+<!-- begin Reedge footer code --><script type="text/javascript"> /*rvidfooter#1.5.0*/if(typeof(REED)!="undefined")	REED.footerInit();</script><noscript><a title="increase conversion" href="http://www.reedge.com/" target="_blank">increase conversion</a></noscript><!-- end Reedge footer code -->
+<!-- BEGIN: SeeVolution --><img width="0" height="0" src="https://svlu.net/pixel.aspx"><script type="text/javascript" src="https://svlu.net/JInitScript.js"></script><!-- END: SeeVolution  -->
+
+</body></html>

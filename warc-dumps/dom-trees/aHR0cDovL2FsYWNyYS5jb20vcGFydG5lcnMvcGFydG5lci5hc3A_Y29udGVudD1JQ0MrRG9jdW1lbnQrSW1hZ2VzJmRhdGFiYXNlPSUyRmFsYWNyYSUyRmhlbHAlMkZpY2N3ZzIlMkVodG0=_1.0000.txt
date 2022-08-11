@@ -1,0 +1,197 @@
+<!DOCTYPE html><html><head>
+<title>Alacra - Business Information: ICC Document Images</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/include/css/style.css">
+<link rel="stylesheet" type="text/css" href="/alacra/alacra.css">
+
+<meta name="ROBOTS" content="NOODP">
+
+<script language="JavaScript1.2" type="text/javascript" src="/alacra/alacrawindow.js"></script>
+</head>
+<body>
+<div id="mainwrap">
+	<div id="header">
+		<div id="alacra_logo"><a href="/"><img src="/include/images/alacra_logo.gif" alt="Alacra Business Information" width="95" height="29" border="0"></a></div>
+		<div id="login"><img src="/include/images/arrow.gif"> <a href="https://secure.alacra.com/login/">Subscription Client Login</a></div>
+		<div id="tag_line"><img src="/include/images/tag_line.gif" alt="Aggregate. Integrate. Package. Deliver."></div>
+	</div>
+	<div id="nav_container">
+		<ul id="nav">
+			<li><a href="/">home</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="/products/">products</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="/technology/">technology</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="/partners/">partners</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="/customers/">customers</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="/about/">about us</a></li>
+		</ul>
+	</div>
+
+	<div id="content_container">
+		<div id="leftnav" ">
+		
+<a href="/partners/">Content Partners</a><br>
+<div class="arrows">
+<ul>
+<li>Partners (A-Z)</li>
+<li><a href="/partners/categorical.asp">Partners (By Category)</a></li>
+</ul>
+</div>
+
+		</div>
+		<div id="content">
+
+			<div id="breadcrumbs"><a href="/">Home</a> &gt; <a href="/partners/">Content Partners</a> &gt; <a href="/partners/alphabetical.asp">Partners (A-Z)</a> &gt; Database</div>
+	<div class="box_container_550"><div class="box_top2_550">&nbsp;</div><div class="box_content"><div style="width: 520px; padding-top: 5px;"><!--#sub proc=header-->
+<p class="text"><b>ICC Information Limited</b></p>
+<p class="text"><b><u>Data Item Definitions</u></b>
+</p>
+<p class="text">
+<table border="1">
+<tbody><tr><td colspan="2">Profit and Loss	</td></tr>
+<tr><td class="text">	Turnover	</td><td class="text">	Total invoiced sales for the period, net of VAT. UK sales, exports &amp; overseas sales and inter-company sales will be included.	</td></tr>
+<tr><td class="text">	Cost of sales	</td><td class="text">	Cost components directly related to turnover. 	</td></tr>
+<tr><td class="text">	Gross profit	</td><td class="text">	This indicates the profit before deducting depreciation, distribution, selling and administration costs.  It is an indicator of the underlying profitability of a business's core operations. 	</td></tr>
+<tr><td class="text">	Operating Profit	</td><td class="text">	Indicates the profit and loss arising from core business activities.  The figure is pre-tax profit plus Interest paid minus non-trading income.	</td></tr>
+<tr><td class="text">	Non-trading income	</td><td class="text">	Comprises investment income, such as income from quoted &amp; unquoted investments, rents received, share of profit from associated companies; as well as reserves adjustments, such as transfers from capital grant reserve. Interest relief grants. Write-offs of investments and intangibles will also be included.	</td></tr>
+<tr><td class="text">	Interest Payable	</td><td class="text">	Interest paid by the business.  This will be the net charge for interest after any capitalised element.  It should be noted that many private companies do not disclose this figure in full, or aggregate short and long term and hire purchase interest together.	</td></tr>
+<tr><td class="text">	Pre-tax profit	</td><td class="text">	The net trading profit figure after deduction of all operating expenses including depreciation &amp; finance charges, but before deduction of tax, dividends, subventions or group relief, and other appropriations.  Where applicable it will include the share of profits and losses of associated companies. Items described by the company as exceptional are included.  Extraordinary items are excluded.	</td></tr>
+<tr><td class="text">	Taxation	</td><td class="text">	Tax charges paid against profits.  This can be negative, representing a tax credit.	</td></tr>
+<tr><td class="text">	Profit after tax	</td><td class="text">	This figure represents the profit or loss after deduction of corporation taxation but before the deduction of dividends, minority interests and any extraordinary items.	</td></tr>
+<tr><td class="text">	Dividends payable	</td><td class="text">	This item includes both proposed and paid items and provisions / appropriations determined by FRS4	</td></tr>
+<tr><td class="text">	Retained profits	</td><td class="text">	This figure is after the deduction of extraordinary items, taxation, dividends and any other appropriations (e.g. Minority Interests).  Essentially, this is the amount carried from the Profit and Loss Account to the accumulated Profit and Loss Account balance on the Balance Sheet.	</td></tr>
+<tr><td class="text">	Value added	</td><td class="text">	Trading Profit plus salaries and wages. It should be noted that for the value-added calculation, Staff Costs are grossed up to reflect national insurance costs. Value Added represents the difference between the Sales Income received and Bought-in materials and services expended in the period	</td></tr>
+<tr><td colspan="2">	Balance Sheet	</td></tr>
+<tr><td class="text">	Tangible fixed assets	</td><td class="text">	The sum of Fixed Assets and Intermediate Assets.	</td></tr>
+<tr><td class="text">	Intangible assets	</td><td class="text">	Assets, which do not possess any material, value. Will include goodwill, trademarks, patents and copyrights, at their amortised book value. These are assets with no "physical" existence, but are deemed to confer benefits to the business in future periods.	</td></tr>
+<tr><td class="text">	Total fixed assets	</td><td class="text">	The total of tangible and intangible fixed assets.	</td></tr>
+<tr><td class="text">	Stocks	</td><td class="text">	Trading stocks, sundry stocks and work in progress net of progress payments.	</td></tr>
+<tr><td class="text">	Trade debtors	</td><td class="text">	Trade Debtors, bills receivable and amounts recoverable on contracts due within one year.  For smaller companies, when the figure is not disclosed, the figure shown represents total debtors.	</td></tr>
+<tr><td class="text">	Cash	</td><td class="text">	Cash includes the following:Cash in hand;Cash at bank;Cash at bank and in hand;Cash balances.	</td></tr>
+<tr><td class="text">	Miscellaneous current assets	</td><td class="text">	Short term assets other than stocks, trade debtors or cash.  Includes items such as:-Bank balances;Bank account (where not negative);Bank deposit account;Building society deposit.Short term deposits; Bank current account; Sundry debtors;Amounts due from group and related companies;Called up share capital not paid;Prepayments and Accrued income;Current asset investments (where these are not short term deposits).	</td></tr>
+<tr><td class="text">	Total current assets	</td><td class="text">	The sum of Stocks, Trade Debtors, Cash and Miscellaneous Current Assets.	</td></tr>
+<tr><td class="text">	Total assets	</td><td class="text">	The total of Current and Total Fixed Assets.	</td></tr>
+<tr><td class="text">	Creditors: Amounts falling due within one year	</td><td class="text">	Also referred to as Total Current Liabilities, being the sum of Trade Creditors, Bank Overdraft and Miscellaneous Current Liabilities.	</td></tr>
+<tr><td class="text">	Total Assets less Current Liabilities	</td><td class="text">	Total Assets minus Total Current Liabilities. 	</td></tr>
+<tr><td class="text">	Total Long Term Liabilities	</td><td class="text">	The sum of Long Term Bank Loans, Other Long Term Finance andOther Long Term Liabilities.	</td></tr>
+<tr><td class="text">	Total Liabilities	</td><td class="text">	The sum of Current and Long Term Liabilities.	</td></tr>
+<tr><td class="text">	Share capital and reserves 	</td><td class="text">	The sum of Called Up Share Capital and Sundry Reserves.	</td></tr>
+<tr><td class="text">	P&amp;L Account Reserve	</td><td class="text">	The accumulation of profits/losses from previous trading periods including the retained profit/loss from the Profit and Loss Account.	</td></tr>
+<tr><td class="text">	Revaluation Reserve	</td><td class="text">	Also known as investment revaluation reserve, property revaluation reserve, and unrealised capital gains on valuation.	</td></tr>
+<tr><td class="text">	Shareholders' Funds	</td><td class="text">	The sum of Called Up Share Capital, Sundry Reserves, P&amp;L Account Reserve and Revaluation Reserve.	</td></tr>
+<tr><td class="text">	Capital Employed	</td><td class="text">	The sum of Shareholders' Funds and Total Long Term Liabilities.	</td></tr>
+<tr><td class="text">	Net worth 	</td><td class="text">	Shareholders' funds minus intangibles. Often referred to as the book value of the business. The long-term realisable value after all liabilities are cleared.	</td></tr>
+<tr><td class="text">	Working capital	</td><td class="text">	Obtained by subtracting total current liabilities from the total current assets.  This represents the surplus / deficiency of funds from normal trading activities.	</td></tr>
+<tr><td class="text">	Contingent Liabilities	</td><td class="text">	These items are extracted from the notes to the accounts and include all 'potential' liabilities such as guarantees, indemnities, cross guarantees, HM customs and excise, letters of credit and VAT registration.	</td></tr>
+<tr><td colspan="2">	Cash flow Statement	</td></tr>
+<tr><td class="text">	Net cash flow from operating activities	</td><td class="text">	Cash receipts and payments from normal operations.	</td></tr>
+<tr><td class="text">	Net cash flow from return on investments<br> and servicing of finance	</td><td class="text">	Cash derived from holding investments matched against the cash utilised in paying the interest on finance capital and the dividends on equity capital. This is a useful indicator of the business's performance. A negative figure would indicate poor profitability or poor management of working capital efficiency.   	</td></tr>
+<tr><td class="text">	Net cash flow before financing	</td><td class="text">	This is the total cash generated or used by the business before any funding activity and movements in the cash balances. If positive, the business has generated a cash surplus, which can be used as liquid funds or to repay debt. 	</td></tr>
+<tr><td class="text">	Net cash flow from financing	</td><td class="text">	Cash derived from the issue of equity capital or the use of loan facilities matched against the cash utilised in repaying borrowings.	</td></tr>
+<tr><td class="text">	Increase in Net cash	</td><td class="text">	A reconciliation of cash movements in terms of cash and cash equivalent balances.	</td></tr>
+<tr><td colspan="2">	Notes to the Accounts	</td></tr>
+<tr><td class="text">	Exports	</td><td class="text">	This figure represents direct exports from the UK.	</td></tr>
+<tr><td class="text">	Employees' remuneration	</td><td class="text">	'Wages and salaries' figure - excluding social security, pension costs etc., where possible.	</td></tr>
+<tr><td class="text">	Director's remuneration	</td><td class="text">	All payments made to directors including pension fund contributions, benefits in kind and ex-gratia payments to their families.	</td></tr>
+<tr><td class="text">	Audit fees	</td><td class="text">	The auditor's charge for the statutory audit, which excludes accountancy charges and other non-audit related fees.	</td></tr>
+<tr><td class="text">	Non audit fees	</td><td class="text">	This refers to amounts charged by the auditors for services other than the audit. 	</td></tr>
+<tr><td class="text">	Depreciation	</td><td class="text">	This indicates the amount written off tangible assets (including leased assets) during the period.	</td></tr>
+<tr><td class="text">	Average number of employees	</td><td class="text">	Average number of employees employed during the period.	</td></tr>
+<tr><td class="text">	Fixed assets	</td><td class="text">	This represents a number of items, including the following: property, plant, fixtures, fittings, office equipment and motor vehicles, all at written down value. This will include leased and capitalised assets, and, for some industries, assets held on a long-term basis and constantly replaced for renting or hiring out.	</td></tr>
+<tr><td class="text">	Intermediate assets	</td><td class="text">	This represents investments in subsidiary and associated companies, trade and other unquoted investments, long term amounts due from other group and associated companies and any other long term debtors.	</td></tr>
+<tr><td class="text">	Due from group non current 	</td><td class="text">	Part of intermediate assets, amounts due from other group companies, associated companies that are received over one year, and with no stated fixed repayment terms.	</td></tr>
+<tr><td class="text">	Due from group, current	</td><td class="text">	Amounts due from other group companies or associated companies that appear to be receivable within one year.	</td></tr>
+<tr><td class="text">	Trade creditors	</td><td class="text">	This figure includes short-term, i.e. within one year, portion of trade creditors and trade bills payable.  For smaller companies, where trade creditors have not been separated out, the figure will represent total current liabilities. 	</td></tr>
+<tr><td class="text">	Bank Overdraft	</td><td class="text">	This includes overdrawn bank account, negative cash items and bank indebtedness.	</td></tr>
+<tr><td class="text">	Bank loans, current portion	</td><td class="text">	Installment of bank loan due for repayment within 12 months.	</td></tr>
+<tr><td class="text">	Other short term finance	</td><td class="text">	This includes any undefined 'Loans' or 'Loans' from non-banking sources.  Typically hire purchase obligations, leases, factoring advances, stocking loans, debentures, mortgages, capital creditors, amounts due to group and directors within one year.	</td></tr>
+<tr><td class="text">	Due to group, current 	</td><td class="text">	Loans due to group companies due in one year.	</td></tr>
+<tr><td class="text">	Due to directors	</td><td class="text">	Directors loans due in one year. 	</td></tr>
+<tr><td class="text">	Other Current Liabilities	</td><td class="text">	This includes all other sundry creditors, accrued expenses and pre-paid income, including dividends, corporation tax, social security or other sundry amounts payable within one year.	</td></tr>
+<tr><td class="text">	Short term loans	</td><td class="text">	The sum of Bank Overdraft, Bank Loans (Current Portion) and Other Short Term Finance.	</td></tr>
+<tr><td class="text">	Long Term Loans	</td><td class="text">	The sum of Long Term Bank Loans and Other Long Term Finance.	</td></tr>
+<tr><td class="text">	Long Term Bank Loans	</td><td class="text">	Installments of bank loans repayable in more than one year.	</td></tr>
+<tr><td class="text">	Other Long Term Finance	</td><td class="text">	This includes long-term portions of hire purchases and leasing obligations; amounts due to other group, associated or affiliated companies; portions of trade and sundry creditors payable in more than one year.	</td></tr>
+<tr><td class="text">	Due to Group, non-current	</td><td class="text">	Loans due to group/related companies over more than 12 months.	</td></tr>
+<tr><td class="text">	Due to directors, non-current	</td><td class="text">	Directors' loans due in more than 12 months.	</td></tr>
+<tr><td class="text">	Other Long Term Liabilities	</td><td class="text">	This includes deferred tax, future tax, minority interests, pension fund liabilities, provisions for liabilities and pre-paid income.	</td></tr>
+<tr><td class="text">	Called Up Share Capital	</td><td class="text">	The total value of shares issued.  This represents the share capital currently invested in the business.	</td></tr>
+<tr><td class="text">	Sundry Reserves	</td><td class="text">	This includes capital reserve, share premium, related companies' reserves, merger reserve, consolidation reserve, and capital based grants.	</td></tr>
+<tr><td class="text">	Business Ratios	</td><td class="text">		</td></tr>
+<tr><td class="text">	Profit/Sales (%)	</td><td class="text">	This represents the percentage of sales left as profits or losses before tax. In general, if profitability is the main driving force, the higher the result the better. It should not however, be taken in isolation.Also known as the Profit Margin.	</td></tr>
+<tr><td class="text">	Profit/Capital Employed (%)	</td><td class="text">	Often used as a primary measure of company performance. This ratio is taken as an indication of how much profit a business yields relative to the money invested. Also referred to as Return on Capital.	</td></tr>
+<tr><td class="text">	Profit/Total Assets (%)	</td><td class="text">	Shows as a percentage the value of the pre-tax profits in proportion to the value of total assets.	</td></tr>
+<tr><td class="text">	Profit/Shareholders funds (%)	</td><td class="text">	Expresses the proportion of pre-tax profit made in relation to the value of the shareholders funds.	</td></tr>
+<tr><td class="text">	Sales/Total Assets (%)	</td><td class="text">	Shows as a percentage the value of sales in proportion to the value of total assets.  Also referred to as Asset Utilisation.	</td></tr>
+<tr><td class="text">	Sales/Fixed Assets ®	</td><td class="text">	Shows as a ratio the value of sales in proportion to the value of fixed assets.	</td></tr>
+<tr><td class="text">	Sales/Total Fixed Assets (%)	</td><td class="text">	Shows as a percentage the value of sales in proportion to the value of fixed assets.	</td></tr>
+<tr><td class="text">	Working capital/Sales (%)	</td><td class="text">	Surplus or deficiency of funds from normal trading activities in relation to its size, measured by sales.	</td></tr>
+<tr><td class="text">	Stock Turnover ®	</td><td class="text">	Turnover divided by stocks held.  Generally speaking, the number of times stock is renewed each year.	</td></tr>
+<tr><td class="text">	Credit Period (days)	</td><td class="text">	The number of days, on average, for the company to collect trade debt.  Calculated by dividing Trade Debtors by Sales and multiplying by 365 days.	</td></tr>
+<tr><td class="text">	Creditor days (days)	</td><td class="text">	The number of days it takes the company to pay trade creditors. This ratio provides an indication of the amount of credit given to the business by its suppliers. The formulae is trade creditors, divided by  sales, multiplied by 365 days.	</td></tr>
+<tr><td class="text">	Current ratio ®	</td><td class="text">	This represents the number of times the business' short-term assets cover its current liabilities. It measures the ability to meet its day to day commitments.	</td></tr>
+<tr><td class="text">	Liquidity ratio ®	</td><td class="text">	This represents the number of times a customer's quick assets can cover its current liabilities, quick assets being defined as current assets less stock. This is taking into account the fact that it takes a reasonable amount of time for stock to be converted into cash.	</td></tr>
+<tr><td class="text">	Total Debt/Net Worth (%)	</td><td class="text">	A way of measuring the "gearing" or "leverage" of a business, by comparing total loans (short and long term) to net worth.	</td></tr>
+<tr><td class="text">	Bank Overdraft &amp;<br> Long term liabilities/Net Worth ®	</td><td class="text">	This ratio represents the relationship between the bank overdraft &amp; long term borrowings and other amounts due over 12 months, against the net worth. 	</td></tr>
+<tr><td class="text">	Shareholders funds/Total Liabilities ®	</td><td class="text">	This represents the business's liabilities as a ratio of shareholders' funds. This ratio provides a measure of protection given by shareholders to other parties who contribute funds, e.g. banks, creditors etc. A falling ratio indicates increasing financial risk.	</td></tr>
+<tr><td class="text">	Long Term Debt/Net Worth (%)	</td><td class="text">	This represents the debt outstanding beyond 12 months in relation to net worth.	</td></tr>
+<tr><td class="text">	Long term liabilities/Net Worth ®	</td><td class="text">	Ratio of liabilities due over a year in relation to the net worth.	</td></tr>
+<tr><td class="text">	Interest/Pre-Interest Profit (%)	</td><td class="text">	Sometimes referred to as Income gearing, this measures the proportion of pre-interest profit which is required to service debt.	</td></tr>
+<tr><td class="text">	Total Debt/Working Capital ®	</td><td class="text">	A gearing measurement which compares total borrowings with the surplus or deficit of funds from normal trading activities.	</td></tr>
+<tr><td class="text">	Bank Overdraft &amp; <br>Long term liabilities/Working Capital ®	</td><td class="text">	Ratio of bank overdraft and liabilities due over 12 month period in relation to the working capital of the business.	</td></tr>
+<tr><td class="text">	Bank O/dft &amp; <br>Long term liabilities/Total assets	</td><td class="text">	This indicates the relationship between debt and asset value of the business.	</td></tr>
+<tr><td class="text">	Average employee remuneration (GBP)	</td><td class="text">	Employee remuneration divided by the average number of employees.	</td></tr>
+<tr><td class="text">	Wages/Sales (%)	</td><td class="text">	Indicates the amount of sales revenue expended on employees' pay, showing the marginal cost of employment.	</td></tr>
+<tr><td class="text">	Profit /Employee (GBP)	</td><td class="text">	Amount of profit before tax made per employee.	</td></tr>
+<tr><td class="text">	Sales/Employee (GBP)	</td><td class="text">	This is often used as a measurement of productivity. It indicates the amount of sales revenue generated by each employee.	</td></tr>
+<tr><td class="text">	Capital Employed/Employee GBP)	</td><td class="text">	Capital employed per employee. 	</td></tr>
+<tr><td class="text">	Fixed assets/Employee (GBP)	</td><td class="text">	Fixed asset investment per employee.	</td></tr>
+</tbody></table>
+
+
+</p>
+<p class="text">
+
+
+
+
+
+<!--#sub proc=footer-->
+</p></div></div>
+		<div class="box_bottom_550">&nbsp;</div>
+	</div>
+
+		</div><!--content-->
+	</div><!--content_container-->
+	<div id="footer_img2"></div>
+	
+
+</div><!--mainwrap-->
+<div id="footer_container">
+	<div id="footer">
+		<br>
+		<a href="/about/">about alacra</a> | <a href="/about/press.asp">media room</a> | <a href="/site-index.asp">site index</a> | <a href="/about/contact-us.asp">contact us</a> | <a href="javascript:openNewWindow('/asp/stdpages/privacy.asp')">privacy</a>
+		<ul id="footer_links01">
+			<li><a href="/">alacra.com</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="http://www.alacrablog.com" target="_new">alacrablog.com</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="http://www.alacrastore.com" target="_new">alacrastore.com</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="http://pulse.alacra.com" target="_new">Alacra Pulse</a></li>
+			<li><img src="/include/images/square.gif" width="6" height="6" border="0" alt=""></li>
+			<li><a href="http://www.researchrecap.com" target="_new">researchrecap.com</a></li>
+		</ul>
+	</div>
+</div>
+<br>
+<br>
+<br>
+
+
+</body></html>

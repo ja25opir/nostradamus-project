@@ -1,0 +1,742 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+
+ <meta name="blogcatalog" content="9BC9539860"> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>2010  April | ANDROID OPERATING SYSTEM</title>
+
+<meta name="generator" content="WordPress 2.8.5"> <!-- leave this for stats -->
+
+<meta name="description" content="Google Android Operating System, Android OS, Apps, Projects, Widgets &amp; Phones">
+
+<meta name="keywords" content="">
+
+
+
+<link rel="stylesheet" href="http://androidoperatingsystem.net/wp-content/themes/android/style.css" type="text/css" media="all">
+
+<link rel="alternate" type="application/rss+xml" title="ANDROID OPERATING SYSTEM RSS Feed" href="http://androidoperatingsystem.net/feed/">
+
+<link rel="pingback" href="http://androidoperatingsystem.net/xmlrpc.php">
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/jquery.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/fx.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/glide.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/jquery.easing.min.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/jquery.lavalamp.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://androidoperatingsystem.net/wp-content/themes/android/glide.css" media="screen">	
+
+<link rel="stylesheet" type="text/css" href="http://androidoperatingsystem.net/wp-content/themes/android/banner.css" media="screen">	
+
+
+
+<!--[if lt IE 8]>
+
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+
+	<link rel="archives" title="September 2010" href="http://androidoperatingsystem.net/2010/09/">
+	<link rel="archives" title="August 2010" href="http://androidoperatingsystem.net/2010/08/">
+	<link rel="archives" title="July 2010" href="http://androidoperatingsystem.net/2010/07/">
+	<link rel="archives" title="June 2010" href="http://androidoperatingsystem.net/2010/06/">
+	<link rel="archives" title="May 2010" href="http://androidoperatingsystem.net/2010/05/">
+	<link rel="archives" title="April 2010" href="http://androidoperatingsystem.net/2010/04/">
+	<link rel="archives" title="March 2010" href="http://androidoperatingsystem.net/2010/03/">
+	<link rel="archives" title="February 2010" href="http://androidoperatingsystem.net/2010/02/">
+	<link rel="archives" title="January 2010" href="http://androidoperatingsystem.net/2010/01/">
+	<link rel="archives" title="December 2009" href="http://androidoperatingsystem.net/2009/12/">
+	<link rel="archives" title="November 2009" href="http://androidoperatingsystem.net/2009/11/">
+	<link rel="archives" title="October 2009" href="http://androidoperatingsystem.net/2009/10/">
+	<link rel="archives" title="September 2009" href="http://androidoperatingsystem.net/2009/09/">
+	<link rel="archives" title="August 2009" href="http://androidoperatingsystem.net/2009/08/">
+	<link rel="archives" title="July 2009" href="http://androidoperatingsystem.net/2009/07/">
+	<link rel="archives" title="June 2009" href="http://androidoperatingsystem.net/2009/06/">
+	<link rel="archives" title="May 2009" href="http://androidoperatingsystem.net/2009/05/">
+	<link rel="archives" title="April 2009" href="http://androidoperatingsystem.net/2009/04/">
+	<link rel="archives" title="March 2009" href="http://androidoperatingsystem.net/2009/03/">
+	<link rel="archives" title="February 2009" href="http://androidoperatingsystem.net/2009/02/">
+	<link rel="archives" title="January 2009" href="http://androidoperatingsystem.net/2009/01/">
+	<link rel="archives" title="December 2008" href="http://androidoperatingsystem.net/2008/12/">
+	<link rel="archives" title="November 2008" href="http://androidoperatingsystem.net/2008/11/">
+	<link rel="archives" title="October 2008" href="http://androidoperatingsystem.net/2008/10/">
+	<link rel="archives" title="September 2008" href="http://androidoperatingsystem.net/2008/09/">
+	<link rel="archives" title="August 2008" href="http://androidoperatingsystem.net/2008/08/">
+	<link rel="archives" title="July 2008" href="http://androidoperatingsystem.net/2008/07/">
+	<link rel="archives" title="June 2008" href="http://androidoperatingsystem.net/2008/06/">
+	<link rel="archives" title="May 2008" href="http://androidoperatingsystem.net/2008/05/">
+	<link rel="archives" title="April 2008" href="http://androidoperatingsystem.net/2008/04/">
+	<link rel="archives" title="March 2008" href="http://androidoperatingsystem.net/2008/03/">
+	<link rel="archives" title="February 2008" href="http://androidoperatingsystem.net/2008/02/">
+	<link rel="archives" title="January 2008" href="http://androidoperatingsystem.net/2008/01/">
+	<link rel="archives" title="December 2007" href="http://androidoperatingsystem.net/2007/12/">
+	<link rel="archives" title="November 2007" href="http://androidoperatingsystem.net/2007/11/">
+	<link rel="archives" title="October 2007" href="http://androidoperatingsystem.net/2007/10/">
+	<link rel="archives" title="March 2007" href="http://androidoperatingsystem.net/2007/03/">
+	<link rel="archives" title="December 2006" href="http://androidoperatingsystem.net/2006/12/">
+	<link rel="archives" title="November 2006" href="http://androidoperatingsystem.net/2006/11/">
+	<link rel="archives" title="August 2006" href="http://androidoperatingsystem.net/2006/08/">
+	<link rel="archives" title="October 2002" href="http://androidoperatingsystem.net/2002/10/">
+
+
+<link rel="stylesheet" id="google-ajax-translation-css-css" href="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/google-ajax-translation.css?ver=20090828" type="text/css" media="screen">
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/prototype.js?ver=1.6"></script>
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.8.0"></script>
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/scriptaculous/effects.js?ver=1.8.0"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://androidoperatingsystem.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://androidoperatingsystem.net/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="ANDROID OPERATING SYSTEM" href="http://androidoperatingsystem.net">
+<meta name="generator" content="WordPress 2.8.5">
+
+<!-- All in One SEO Pack 1.6.6 by Michael Torbert of Semper Fi Web Design[355,415] -->
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="http://androidoperatingsystem.net/2010/04/">
+<!-- /all in one seo pack -->
+<meta name="keywords" content=", ANDROID OPERATING SYSTEM, ANDROID, OPERATING, SYSTEM"><meta name="description" content="">
+
+<!-- Start Of Code Generated By SexyBookmarks 2.5.5.1 -->
+<link rel="stylesheet" id="sexy-bookmarks-css" href="http://androidoperatingsystem.net/wp-content/plugins/sexybookmarks/css/style.css?ver=2.5.5.1" type="text/css" media="all">
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/plugins/sexybookmarks/js/sexy-bookmarks-public.js?ver=2.8.5"></script>
+<!-- End Of Code Generated By SexyBookmarks 2.5.5.1 -->
+
+<link href="http://androidoperatingsystem.net/wp-content/plugins/wp-followme/followme-style.css" rel="stylesheet" type="text/css">
+
+<!-- GBCF -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://androidoperatingsystem.net/wp-content/plugins/wp-gbcf/wp-gbcf_themes/default.css">
+<!--[if IE]><script src="http://androidoperatingsystem.net/wp-content/plugins/wp-gbcf/wp-gbcf_focus.js" type="text/javascript"></script><![endif]-->
+<!-- GBCF -->
+
+
+<!-- Start Of Script Generated By WP-PageNavi 2.40 -->
+<link rel="stylesheet" href="http://androidoperatingsystem.net/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="screen">
+<!-- End Of Script Generated By WP-PageNavi 2.40 -->
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+<div id="wrapper">
+
+
+
+<div id="top"> 
+
+<div class="blogname">
+
+	<h1><a href="http://androidoperatingsystem.net/" title="ANDROID OPERATING SYSTEM">ANDROID OPERATING SYSTEM</a></h1>
+
+	<h2>Google Android Operating System, Android OS, Apps, Projects, Widgets &amp; Phones</h2>
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div id="foxmenucontainer">
+
+	<div style="float:left; ">
+
+				<ul class="lavaLampBottomStyle" id="A">
+
+
+
+					<li><a href="http://androidoperatingsystem.net/">Home</a></li>
+
+
+					<li class="page_item page-item-2"><a href="http://androidoperatingsystem.net/about/">About</a></li>
+<li class="page_item page-item-1260"><a href="http://androidoperatingsystem.net/contact/">Contact</a></li>
+
+
+
+<li><a href="/category/android/">Android<font color="#1F2B3B"> 
+									<b>OS</b></font></a></li>
+                                   <li><a href="/category/android-apps/">Android<font color="#1F2B3B"> 
+									<b>Apps</b></font></a></li>
+<li><a href="/new-used-and-unlocked-google-android-phones-and-accesories-for-sale/">Android <b><font color="#1F2B3B">Phones: New, Used &amp; Unlocked</font></b></a><font color="#1F2B3B"><b> </b> 
+</font></li><li><font color="#1F2B3B"><a href="/category/development/">Android <b><font color="#1F2B3B">Development</font></b></a></font></li><font color="#1F2B3B">
+
+
+
+
+					
+
+				</font></ul><font color="#1F2B3B">
+
+</font></div><font color="#1F2B3B">				
+
+</font></div><font color="#1F2B3B">
+
+<div class="clear"></div>
+
+<div id="casing">		
+<div id="content"><a name="content"></a>
+
+		 		<h2 class="pagetitle">Archive for April, 2010</h2>
+
+		
+		<div class="single" id="post-60015">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/android-2-1-upgrades-for-sprint-coming-over-the-wire/" rel="bookmark" title="Permanent Link to Android 2.1 upgrades for Sprint coming over the wire">Android 2.1 upgrades for Sprint coming over the wire</a></h2>
+<div class="date"> <span class="author">Posted by TomRanson1988</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/android-2-1-upgrades-for-sprint-coming-over-the-wire/#comments" title="Comment on Android 2.1 upgrades for Sprint coming over the wire">1 COMMENT</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-60015" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 60015);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-60015" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> A new leaked document from Sprint confirms the pending release of Android 2.1 for the HTC Hero and Samsung Moment. As we reported earlier this year, both upgrades will be PC-based (vs over the air) and will likely require a wipe . Sprint will not initially offer over the air upgrades because the Android 2.1 packages are too large (80 MB for Moment, 117 MB for Hero) for their OTA servers. We pointed this out last year and it looks like Sprint was unable to come up with a working solution on time. Sprint has the option to use Google’s servers to roll out their upgrades, but they have not fully tested it and would be unable to meet the “required launch timeframe”. The document claims the Moment will receive Android 2.1 on April 30 (today) and the Hero will follow in the first week of May. We know these dates change a lot, but both upgrades have been tested internally and should be ready to go. Keep an eye on the Samsung Moment and HTC Hero support pages for updates. The files and instructions to perform a manual update will be posted on Sprint’s site when they are available. It is also interesting to note that Sprint claims 90% of their Samsung Moment customers have a phone with a non-current software version. This could be because previous updates required the user to take their phone to a Sprint repair center or manually download the file . If the Hero and Moment follow a similar upgrade path, then we can assume a large portion of users will not update their phone without some extra help from Sprint. The wait is almost over. Related Posts Sprint to Employees: No 2.1 in March, more details in April Android 2.1 updates are coming to Sprint phones in early May Sprint working with manufacturers to deliver Android 2.1 updates by early Q2 2010 Sprint: “Ok let’s just jump to Android 2.1″ Android 2.1 update leaked for Samsung Moment </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/6ed26781eeeclair.jpg.jpg">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/dd517e882a10x520.jpg.jpg"></p>
+<p><a target="_blank" href="http://feedproxy.google.com/~r/androidandme/~3/HdmDb9tXD94/" title="Android 2.1 upgrades for Sprint coming over the wire">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-60012">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/google-added-crash-report-feedback-for-developers/" rel="bookmark" title="Permanent Link to Google added crash report feedback for developers !">Google added crash report feedback for developers !</a></h2>
+<div class="date"> <span class="author">Posted by Sansiro</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/google-added-crash-report-feedback-for-developers/#comments" title="Comment on Google added crash report feedback for developers !">1 COMMENT</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-60012" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 60012);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-60012" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p>Hi all, I was telling it over and over again : crash reports are essential for developers, to make their apps more stable, and user experience more enjoyable. It looks like google agree with this statement, as they added some crash reports in the developer page : This is very good news, as it will make the Android platform a better platform to develop on. How does it work ? It looks like when a application crashed, the phone let the user send a feedback to the developer( with a custom message from the user, the callstack, and … ??? ). I still don't know what is in this feedback – as I got 0 reports – but it definitively looks interesting ! You can also see that is also reports freezes, that user made crash reporters can not intercept ! The developer can then mark a report as 'old' ( so it won't appear again ? ). For the moment it is still at experimental state. For instance, it looks like you can check feedbacks from other application, but I couldn't get it to work ( having 'server errors' ), and I find it strange for privacy reasons. This is good to see that Android is going in the right direction ! </p>
+<p><a target="_blank" href="http://feedproxy.google.com/~r/PlanetAndroidCom/~3/L0goKRUEg10/google-add-crash-report-feedback-for.html" title="Google added crash report feedback for developers !">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-59998">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/elemental-galaxy/" rel="bookmark" title="Permanent Link to Elemental Galaxy">Elemental Galaxy</a></h2>
+<div class="date"> <span class="author">Posted by IntoMobile</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/elemental-galaxy/#comments" title="Comment on Elemental Galaxy">2 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-59998" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 59998);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-59998" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> FightingFish Games, developers of the platform game Grave Digger, have released a new game called Elemental Galaxy. This is a match 3 of a kind type of game but with some very interesting twists. You match three elements that are the same by tapping on them at which point lines connect them and anything in the shape of those lines is destroyed as well. Read more… </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/71536fce2elelogo.png.png"></p>
+<p><a target="_blank" href="http://feedproxy.google.com/~r/PlanetAndroidCom/~3/OziKQ8FJC40/276-elemental-galaxy" title="Elemental Galaxy">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-60002">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/twitwars-i-narrate-my-experience-with-twitter%e2%80%99s-official-android-app/" rel="bookmark" title="Permanent Link to Twitwars: I Narrate My Experience With Twitter’s Official Android App">Twitwars: I Narrate My Experience With Twitter’s Official Android App</a></h2>
+<div class="date"> <span class="author">Posted by MobileDeveloperTV</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/twitwars-i-narrate-my-experience-with-twitter%e2%80%99s-official-android-app/#respond" title="Comment on Twitwars: I Narrate My Experience With Twitter’s Official Android App">ADD COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-60002" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 60002);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-60002" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> Due to the nature of this release, I’ve written this review in an entirely different style. I hope it doesn’t annoy the lot of you, but it’s literally how I perceived the app as soon as I installed it on my phone. While long-term usage isn’t reflected in my tests, the review should still give you a pretty good idea of the quality you can expect with the installation of this app. Additionally, I hope to bring you guys a full gallery of pictures as well as a video run-through very soon for the many people unable to try the app out on their sub-2.1 devices. We first saw Twitter get official apps on both the Blackberry and iPhone platforms. Pondering when Android might get its own official treatment, we wondered if Twitter would develop their own Android app or acquire an existing one like they did with Tweetie. We have our answer , and we’re blown away by the potential that this app has (and the innovation that it brings to the Android market in its entirety). Upon starting the app, I’m greeted with the usual login screen asking simply for my username and password. It’s what immediately follows that blows me away in more ways than one: Twitter asked if I would like it to link my friends up to contacts in my phone. I opted not to do this as I don’t have many personal contacts that use Twitter, but Twitter’s initiative to integrate this into their app screams “this is how it’s done”. It’s clear why the app is exclusive to Android 2.1 and beyond: the app tailors to specific features within the core of Android itself. Excitedly, I move on from that screen and am quickly taken to a nice looking launch screen (reminiscent to what you’d get upon launching the Facebook app). If nothing else, Twitter really shines as an app that shows the potential of the Android OS that’s yet to be unlocked by a majority of developers out there. Animated backgrounds constitute the stunning effect of blue and gray clouds moving across the screen, trending topics pop up at the bottom of the app in fluid motion, and clean, stylized icons make you “feel” like you’re using Twitter. That last bit may be somewhat on the weird side, but there’s an indescribable feeling you get when everything looks and feels official. Clicking near those speech bubbles at the bottom brings up the full offering of trends as you can navigate between current, daily, and weekly happenings. Everything you expect to see from the trends API shows up here, and the app even graciously lets you know how long ago the list has been updated. Straight from here, you can go into the full search view using the icon that resembles a magnifying glass in the upper left corner. You’re given the text box to enter the search term, as expected, but you’re also given a unique set of search options that – up until now – has not been implemented in any Twitter app. You can search by location using a toggle below the search field, and you’re able to differentiate the search between people or tweets. I’ve only seen a handful of apps allow you to search people, so it’s a very welcome addition. Even the apps that I did find it in limited you to just opening specific usernames, while Twitter’s search digs into the profile data, as well. I want to send out a tweet now, so I jump directly back to the homescreen by touching the Twitter logo at the top of the app (it must’ve gotten happy when I touched it because it glowed). On the compose screen, everything looks like business as usual: you’re given a box to type in, the ability to upload photos, and you can add specific usernames to your tweet in case you need to mention that one person who always changes their name. I decided I wanted to upload some video for this tweet, but unfortunately the option wasn’t there. I’ll take a photo, instead. Twitpic integration comes with the app and Twitter does so elegantly. When I returned to my timeline to check out the tweet I just sent, I can see the picture I uploaded integrated directly into the timeline: a real treat that a lot of apps just don’t provide. Unfortunately, electing to see the pic in a larger view takes you out of the app and into the browser, but this is a huge nitpick on my part. Hitting the back button to get back to the app, I notice someone replied to my tweet. Thanks to my short term memory loss, I forgot which tweet they were responding to and frantically searched for a way to view the conversation. There was just one problem: Twitter didn’t code a true conversation view. Instead, I have to click the “in reply to” link (click-able directly on the tweet itself) over and over until I drill down to where I need to go. It’s a cumbersome drawback, but I’ll deal with it, for now. After getting my refresher, I want to check out my friend’s profile to see if they’ve made any changes to their profile. By clicking the icon above his picture, I can also jump into another sizable list of options to access: who’s following them? Who are they following? What lists are they involved with? What tweets have they favorited recently? All of this is accessible with your own profile, as well, with the obvious added benefit to edit all of your information besides the day you became a tweeter (or twitterer? twatter? You decide.) Even with my qualms with Twitter’s native retweet system, I must accept the fact that people use it. As most third-party apps have already taken advantage of the new APIs that Twitter offers, I wasn’t surprised to see it fully implemented here. It’s invaluable to not only see the list of tweets that have been retweeted by the people I follow, but also to see who’s been retweeting you (and stuff retweeted by you, for good measure.) I wanted to retweet something my friend posted that I thought my followers would enjoy, and I also wanted to append my own commentary to it, while I’m at it. While I can’t fault Twitter for it, there is no official way to facilitate old-style retweets. There is a very cumbersome work-around (using Android’s native “Share” feature, but I’d rather not have to deal with it. It’s a disappointment, for sure, so here’s hoping Twitter plans to bring it in future updates. Falling victim to the advent of native retweets, I reluctantly went through the operation and returned to the home screen to do some more of my blue-bird bidding. I haven’t had any direct messages recently, but it appears my inbox and outbox have synched up just fine. Next, I check out lists. I’m listed by quite a few people on my personal account (not nearly as many as the Phandroid Twitter account ) and I can see these lists just fine. Tweets from the other members of the list are aggregated alongside mine, and I can see who’s following the list, too. Everything is as you would expect, with the app even giving you the option to set up a new list (and to dictate the privacy settings for it). I rarely use lists on Twitter, but I created one for the sake of a review. It took me a while to find out how to add someone to it, but after figuring out that you had to goto the user’s profile and hit the menu button, I was on my way. Finally, after exploring every corner of the app (and deciding that I wanted to use it on a daily basis) I headed into the settings menu to customize my experience. If I ever get annoyed with animated backgrounds (and I probably won’t) I can shut them off with ease. I’m able to select the specific URL-shortening service I want to use, too, which is surprising seeing as Twitter dubbed http://bit.ly as their official URL provider. I’m also given my choice of picture uploading sites, as well. You only get a couple of settings per function, but more could definitely be added in the future. Notification options are in-tune with what you’d get on an ordinary app, too, allowing you to set refresh intervals, LED options, the types of tweets you’d like to check for, and the sound you want it to play when new tweets fly in (pun is crucial to a successful diet, folks). Anyway, after setting the app up how I like it, I’m good to go. I almost forgot that Android supports widgets, though. I back out to my phone’s homescreen and long-press an empty desktop to see if there are any widget options available: you can choose between a small and large widget to pretty your homescreen with. Much like Facebook’s widget, you’re given a single tweet at a time with the user’s picture and name to identify (as well as the time, client, and who they’re replying to, if applicable). Navigating tweets is done in similar fashion, too, using left and right arrows to bring up the next one in the queue (in contrast, the small widget only shows the latest tweet). One thing I didn’t understand is why you’re able to reply to a specific tweet from the small widget, while you only have the ability to compose an entirely new tweet from the bigger widget. Fortunately, going into the timeline via the widget itself helps alleviate the pain, but those 2 seconds of time I wasted could’ve gone toward my weird addiction to Twitter. The Pros: This just looks like the Twitter client you’d expect from Twitter themselves. The beautiful interface (including the stunning animated backgrounds) sets a new standard for Android apps (of all types) The application integrates nicely with the core Android operating system, housing the ability to link your contacts up with your Twitter friends to see tweets in the address book Integrates Twitter’s core features with great depth, allowing you to effectively replace the actual Twitter site Allows a degree of customization that you might not expect from an official app. The Cons: No native retweet. This isn’t a feature of the site itself, but it has become such a staple in the Twitter community that you’d expect them to follow suit. Due to its advanced UI features and Android integration, the app is only available for Android 2.1 or higher. The Bottom Line: If you’re a Twitter user (and the lack of old-style retweets doesn’t completely ruin your Twitter experience) you will want this app – that’s granted you are on a device with an up-to-date firmware. I’d love to see Twitter bring out a stripped version of the app for other firmware versions, but for now a lot of people are going to have to do without. Still, the app itself is a development milestone that all developers should strive to match. If only for its UI features alone, it echoes the potential that Android has to create beautiful, compelling, and feature-rich applications that works without fail. While it won’t draw everyone in (especially if you have something against the color blue), you owe it to yourself to at least give it a download and see if you like it for yourself. — Be sure to check back frequently as we’ll be bringing you more reviews of some of the premier twitter apps that the Android market has to offer. If there’s a review for an app you want to see in particular, let it be known in the comments below! Also, be sure to follow me on Twitter if you haven’t already. Other posts in the Twitwars series: Twidgit Lite , Twidroid , Twicca </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/0c349820c150x124.jpg.jpg">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/7bee3eb2c6eline.jpeg.jpeg">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/7775751192ation.jpeg.jpeg"></p>
+<p><a target="_blank" href="http://phandroid.com/2010/04/30/twitwars-i-narrate-my-experience-with-twitters-official-android-app/" title="Twitwars: I Narrate My Experience With Twitter’s Official Android App">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-60004">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/htc-incredible-signal-strength-problems-vote/" rel="bookmark" title="Permanent Link to HTC Incredible Signal Strength Problems? [VOTE]">HTC Incredible Signal Strength Problems? [VOTE]</a></h2>
+<div class="date"> <span class="author">Posted by lhf1995</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/htc-incredible-signal-strength-problems-vote/#comments" title="Comment on HTC Incredible Signal Strength Problems? [VOTE]">4 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-60004" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 60004);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-60004" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> When I did my HTC Incredible Review I was debating whether or not to discuss signal strength. Driving around town, I continually noticed that when my Motorola Droid had 3 or 4 bars, the Incredible only had 1 or 2 bars. What the heck? That did make me quite curious and I DID plan on covering that in my Motorola Droid vs. HTC Incredible video … but somehow I left it out. What I would have said if I didn’t suffer for short-term memory loss? One quirk of the HTC Incredible seems to be a signal strength flaw. I continually noticed my Motorola Droid had more bars in more places than my HTC Incredible. Oddly enough, call quality was never an issue and I never dropped calls – in fact I often got flawless reception with ZERO bars. The number of bars shown on the front-end UI isn’t always the best indicator of actual/realized signal strength – there is a lot going on behind the scenes. Rather than be alarmed, I’d consider this a glitch in display rather than a manufacturing flaw. Of course this is a story that I’m sure will develop. And develop it has. So now I ask you, dear Incredible-owning readers, what has YOUR experience been with the HTC Incredible Signal Strength? View Poll </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/64ecfa955950x128.jpg.jpg"></p>
+<p><a target="_blank" href="http://phandroid.com/2010/04/30/htc-incredible-signal-strength-problems-vote/" title="HTC Incredible Signal Strength Problems? [VOTE]">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-60007">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/lg-ally-commercial-leaks-not-the-phone-we-thought-it-was/" rel="bookmark" title="Permanent Link to LG Ally Commercial Leaks, Not the Phone We Thought it Was">LG Ally Commercial Leaks, Not the Phone We Thought it Was</a></h2>
+<div class="date"> <span class="author">Posted by InecomCompany</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/lg-ally-commercial-leaks-not-the-phone-we-thought-it-was/#comments" title="Comment on LG Ally Commercial Leaks, Not the Phone We Thought it Was">1 COMMENT</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-60007" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 60007);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-60007" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> An LG tie-in with the upcoming Iron Man 2 leaked today, and it gives us our first official look at the phone that will undoubtedly be coming very, very soon: what was once known as the LG Aloha, and since has been dubbed the LG Ally . Aside from just the name change, it is looking like the new Android phone from Verizon — and first from LG — will not be what we expected. Rather than the silver-colored QWERTY device with an offset trackpad under the screen we have become accustomed with, we are getting an all black handset with a more familiar Verizon Android feel. Yes, it is still a QWERTY slide-out, but indications are that this phone will not be the high-powered 1GHz monster people were hoping for. Instead you can expect the phone to have a lower powered 600MHz ARM11 chip, according to sources over at Android and Me . There is still a chance that this will in fact simply be a re-designed exterior with the guts of the LG LU2300, however. Many may wonder why a new Android would come so close to the HTC Droid Incredible , but I will remind you it isn’t unprecedented for Verizon. The LG Ally will most likely be to the Droid Incredible what the Droid Eris was to the original Droid (whew, that was a lot of Droid-age). Expect more info to be coming very shortly, as the commercial directs viewers to LG.com/ally , which further directs you to LGIM2.com , which promises updates coming on April 30th (today). [via Android and Me ] </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/fb0e05ff58150x89.jpg.jpg">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/c17a90162aly_big.jpg.jpg"></p>
+<p><a target="_blank" href="http://phandroid.com/2010/04/30/lg-ally-commercial-leaks-not-the-phone-we-thought-it-was/" title="LG Ally Commercial Leaks, Not the Phone We Thought it Was">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-60011">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/twitter-releases-official-app-for-android/" rel="bookmark" title="Permanent Link to Twitter Releases Official App for Android">Twitter Releases Official App for Android</a></h2>
+<div class="date"> <span class="author">Posted by </span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/twitter-releases-official-app-for-android/#comments" title="Comment on Twitter Releases Official App for Android">3 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-60011" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 60011);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-60011" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> It was only a few weeks ago that Twitter announced their intention to release first-party mobile apps with their Twitter for iPhone app, and now hot on its heels comes the official Twitter for Android app . Twitter just let loose this little gem into the market, and it looks like it might just live up to the hype. The app will bring Twitter sharing for links and pictures to other applications in Android, and a boat-load of integrated features: Reading tweets is easy in a bunch of places on your phone. Quickly access your timeline with the home screen widget, view a tweet location on a map, and see your friend’s latest tweet in your phonebook, GoogleTalk list or any application that uses Android’s QuickContact bar. Twitter syncs directly with your phonebook much like Facebook’s app currently does, allowing you to be up to date with your contacts’ latest tweets easily. One of the coolest things about Twitter’s announcement is the intention to open-source the APIs used in creating the app to integrate all of the functionality of Twitter for Android into any app that wants to use it. And now the part no one wants to hear: Twitter for Android will only be available on devices currently running Android 2.1 or higher. Let the laments of those without an updated OS begin. I’m not a huge Twitter user, but fellow-writer Quentyn Kennemer in the few minutes he has had with the app describes the interface as “slick” and “smooth.” Expect a full review from him in the not-so-distant future. [via Twitter Blog ] </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/49237da60790x150.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/b8b87df4edmeline.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/1baf29cf7dss-map.png.png"></p>
+<p><a target="_blank" href="http://phandroid.com/2010/04/30/twitter-releases-official-app-for-android/" title="Twitter Releases Official App for Android">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-59987">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/04/30/official-twitter-for-android-now-available-2/" rel="bookmark" title="Permanent Link to Official Twitter for Android now available">Official Twitter for Android now available</a></h2>
+<div class="date"> <span class="author">Posted by Ed Burnette</span> <span class="clock">   April - 30 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/04/30/official-twitter-for-android-now-available-2/#comments" title="Comment on Official Twitter for Android now available">2 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-59987" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 59987);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-59987" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> First we hinted , then we confirmed , now we install. Today Twitter announced that their Android client is now available for download. Full impressions are coming soon, but we wanted to share with our readers that the app is out. Unfortunately, the official Twitter requires Android 2.1 or greater. Twitter also shared that they had a great time working with the Android team. In the near future, Google will be open sourcing the code used in this app so that developers can create new experiences using the Twitter APIs. My guess is we see Twitter fully integrated in Android 2.2 (similar to Facebook and 2.1) . Twitter for Android adds the ability to sync all your existing accounts and updates under the Android accounts setting. Related Posts Is Twitter gearing up for an Android app? Seesmic releases Android Twitter client Verizon Droid Incredible review roundup Countdown to Google I/O: Submit your questions for Android handset makers Android Hacks: Hands-on T-Mobile’s new myTouch Slide Espresso Sense UI </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/58e8767ca950x150.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/66fd51a06050x150.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/845d773d0850x150.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/821f24dda950x150.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/dcecea07b050x150.png.png">&nbsp;<img src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/04/04e3af4a7a50x150.png.png"></p>
+<p><a target="_blank" href="http://feedproxy.google.com/~r/androidandme/~3/G9Z9DOxkIbk/" title="Official Twitter for Android now available">Source</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		
+ <div id="navigation">
+		<div class="wp-pagenavi">
+<span class="pages"> Page 1 of 145 </span><span class="current"> 1 </span><a href="http://androidoperatingsystem.net/2010/04/page/2/" title="2"> 2 </a><a href="http://androidoperatingsystem.net/2010/04/page/3/" title="3"> 3 </a><a href="http://androidoperatingsystem.net/2010/04/page/4/" title="4"> 4 </a><a href="http://androidoperatingsystem.net/2010/04/page/5/" title="5"> 5 </a><a href="http://androidoperatingsystem.net/2010/04/page/6/" title="6"> 6 </a><a href="http://androidoperatingsystem.net/2010/04/page/7/" title="7"> 7 </a><a href="http://androidoperatingsystem.net/2010/04/page/8/" title="8"> 8 </a><a href="http://androidoperatingsystem.net/2010/04/page/2/">»</a><span class="extend"> ... </span><a href="http://androidoperatingsystem.net/2010/04/page/145/" title="Last »"> Last » </a></div>
+  
+</div>
+
+	
+</div>
+<div id="rightcol">
+
+<div class="vidbody">
+				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   <object width="310" height="250"><param name="movie" value="http://www.youtube.com/v/yAZYSVr2Bhc?fs=1&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/yAZYSVr2Bhc?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="310" height="250"></object></div>
+
+<div class="clear"></div>
+<div id="search">
+			<form method="get" id="searchform" action="http://androidoperatingsystem.net">
+					<input id="s" type="text" name="s" value="">
+					<input id="searchsubmit" type="submit" value="">
+			
+				</form>
+				
+</div>
+
+<div class="banner">
+
+<ul>
+
+<li>
+<a href="http://www.jdoqocy.com/click-3683963-10655222" rel="bookmark" title=""><img src="http://www.yceml.net/0502/10655222-1.gif" alt="" style="vertical-align:bottom;"></a>
+</li>	
+
+<li>
+<a href="http://www.kqzyfj.com/click-3683963-10680450" rel="bookmark" title=""><img src="http://www.yceml.net/0130/10680450-1.gif" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="http://www.dpbolvw.net/click-3683963-10305626" rel="bookmark" title=""><img src="http://www.yceml.net/0090/10305626-31.gif" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="http://www.dpbolvw.net/click-3683963-10664149" rel="bookmark" title=""><img src="http://www.yceml.net/0213/10664149-5.gif" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="/contact" rel="bookmark" title=""><img src="http://androidoperatingsystem.net/ad_here.png" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="/contact" rel="bookmark" title=""><img src="http://androidoperatingsystem.net/ad_here.png" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+
+</ul>
+</div>
+<div id="sidebar">
+
+<div class="sidebar2">
+<ul>
+<li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+		<ul>
+			<li><a href="http://androidoperatingsystem.net/2010/09/" title="September 2010">September 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/08/" title="August 2010">August 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/07/" title="July 2010">July 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/06/" title="June 2010">June 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/05/" title="May 2010">May 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/04/" title="April 2010">April 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/03/" title="March 2010">March 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/02/" title="February 2010">February 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/01/" title="January 2010">January 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/12/" title="December 2009">December 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/11/" title="November 2009">November 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/10/" title="October 2009">October 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/09/" title="September 2009">September 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/08/" title="August 2009">August 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/07/" title="July 2009">July 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/06/" title="June 2009">June 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/05/" title="May 2009">May 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/04/" title="April 2009">April 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/03/" title="March 2009">March 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/02/" title="February 2009">February 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/01/" title="January 2009">January 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/12/" title="December 2008">December 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/11/" title="November 2008">November 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/10/" title="October 2008">October 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/09/" title="September 2008">September 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/08/" title="August 2008">August 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/07/" title="July 2008">July 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/06/" title="June 2008">June 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/05/" title="May 2008">May 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/04/" title="April 2008">April 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/03/" title="March 2008">March 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/02/" title="February 2008">February 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/01/" title="January 2008">January 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/12/" title="December 2007">December 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/11/" title="November 2007">November 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/10/" title="October 2007">October 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/03/" title="March 2007">March 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2006/12/" title="December 2006">December 2006</a></li>
+	<li><a href="http://androidoperatingsystem.net/2006/11/" title="November 2006">November 2006</a></li>
+	<li><a href="http://androidoperatingsystem.net/2006/08/" title="August 2006">August 2006</a></li>
+	<li><a href="http://androidoperatingsystem.net/2002/10/" title="October 2002">October 2002</a></li>
+		</ul>
+</li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/ea-ready-for-solid-android-commitment/" title="EA ready for solid Android commitment">EA ready for solid Android commitment </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/verizon%e2%80%99s-10-reasons-you-should-get-the-galaxy-tab/" title="Verizon’s 10 Reasons You Should Get the Galaxy Tab">Verizon’s 10 Reasons You Should Get the Galaxy Tab </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/verizon-to-discontinue-motorola-droid-2-in-favor-or-droid-2-world/" title="Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World …">Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World … </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/verizon-to-discontinue-motorola-droid-2-in-favor-or-droid-2-world/" title="Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World …">Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World … </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/motorola-flipout-coming-to-att-this-weekend-android-phone-fans/" title="Motorola FlipOut Coming to AT&amp;T this Weekend? | Android Phone Fans">Motorola FlipOut Coming to AT&amp;T this Weekend? | Android Phone Fans </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/android-police-giveaway-10-amzer-and-gizmo-dorks-cases-are-up-for-grabs-%e2%80%93-incredible-2-droid-x-2-droid-2-2-droid-2-and-evo-4g-2/" title="[Android Police Giveaway] 10 Amzer And Gizmo Dorks Cases Are Up For Grabs – Incredible (2), Droid X (2), Droid 2 (2), Droid (2), And EVO 4G (2)">[Android Police Giveaway] 10 Amzer And Gizmo Dorks Cases Are Up For Grabs – Incredible (2), Droid X (2), Droid 2 (2), Droid (2), And EVO 4G (2) </a></li>
+				</ul>
+		</li>
+</ul>
+
+</div>
+<div class="sidebar1">
+	
+	<ul>
+	<li id="feedburner-stats" class="widget widget_feedburner"><h2 class="widgettitle">FeedBurner </h2>
+
+<p><a href="http://feeds2.feedburner.com/Android-Operating-System"><img src="http://feeds2.feedburner.com/~fc/Android-Operating-System?bg=0012FF&amp;fg=FFFFFF&amp;anim=1" height="26" width="88" style="border:0" alt=""></a></p>
+</li>
+<li id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2>
+<div><a href="http://androidoperatingsystem.net/tag/2009/" class="tag-link-1606" title="315 topics" rel="tag" style="font-size: 8.0075976845152pt;">2009</a>
+<a href="http://androidoperatingsystem.net/tag/android/" class="tag-link-432" title="5,840 topics" rel="tag" style="font-size: 22pt;">android</a>
+<a href="http://androidoperatingsystem.net/tag/android-applications/" class="tag-link-349" title="1,338 topics" rel="tag" style="font-size: 10.598408104197pt;">android applications</a>
+<a href="http://androidoperatingsystem.net/tag/android-apps/" class="tag-link-331" title="2,690 topics" rel="tag" style="font-size: 14.022431259045pt;">Android Apps</a>
+<a href="http://androidoperatingsystem.net/tag/android-games/" class="tag-link-6956" title="409 topics" rel="tag" style="font-size: 8.2456584659913pt;">android games</a>
+<a href="http://androidoperatingsystem.net/tag/android-operating-system/" class="tag-link-3" title="1,622 topics" rel="tag" style="font-size: 11.317655571635pt;">Android Operating System</a>
+<a href="http://androidoperatingsystem.net/tag/android-os/" class="tag-link-100" title="4,124 topics" rel="tag" style="font-size: 17.654124457308pt;">android os</a>
+<a href="http://androidoperatingsystem.net/tag/android-phone/" class="tag-link-1767" title="458 topics" rel="tag" style="font-size: 8.3697539797395pt;">android phone</a>
+<a href="http://androidoperatingsystem.net/tag/android-phones/" class="tag-link-1400" title="970 topics" rel="tag" style="font-size: 9.6664254703329pt;">Android Phones</a>
+<a href="http://androidoperatingsystem.net/tag/androis-phone/" class="tag-link-4847" title="519 topics" rel="tag" style="font-size: 8.5242402315485pt;">androis phone</a>
+<a href="http://androidoperatingsystem.net/tag/app/" class="tag-link-260" title="1,306 topics" rel="tag" style="font-size: 10.517366136035pt;">app</a>
+<a href="http://androidoperatingsystem.net/tag/appl/" class="tag-link-602" title="677 topics" rel="tag" style="font-size: 8.9243849493488pt;">Appl</a>
+<a href="http://androidoperatingsystem.net/tag/apple/" class="tag-link-180" title="389 topics" rel="tag" style="font-size: 8.19500723589pt;">apple</a>
+<a href="http://androidoperatingsystem.net/tag/application/" class="tag-link-338" title="513 topics" rel="tag" style="font-size: 8.5090448625181pt;">application</a>
+<a href="http://androidoperatingsystem.net/tag/apps/" class="tag-link-497" title="491 topics" rel="tag" style="font-size: 8.4533285094067pt;">apps</a>
+<a href="http://androidoperatingsystem.net/tag/ces/" class="tag-link-2252" title="456 topics" rel="tag" style="font-size: 8.3646888567294pt;">ces</a>
+<a href="http://androidoperatingsystem.net/tag/device/" class="tag-link-26" title="351 topics" rel="tag" style="font-size: 8.0987698986975pt;">device</a>
+<a href="http://androidoperatingsystem.net/tag/droid/" class="tag-link-2742" title="1,575 topics" rel="tag" style="font-size: 11.198625180897pt;">Droid</a>
+<a href="http://androidoperatingsystem.net/tag/eat/" class="tag-link-577" title="442 topics" rel="tag" style="font-size: 8.3292329956585pt;">eat</a>
+<a href="http://androidoperatingsystem.net/tag/ebook-echo/" class="tag-link-26832" title="729 topics" rel="tag" style="font-size: 9.0560781476122pt;">ebook echo</a>
+<a href="http://androidoperatingsystem.net/tag/google/" class="tag-link-437" title="496 topics" rel="tag" style="font-size: 8.465991316932pt;">google</a>
+<a href="http://androidoperatingsystem.net/tag/google-android/" class="tag-link-15" title="3,767 topics" rel="tag" style="font-size: 16.75pt;">google-android</a>
+<a href="http://androidoperatingsystem.net/tag/google-apps/" class="tag-link-345" title="1,008 topics" rel="tag" style="font-size: 9.7626628075253pt;">google apps</a>
+<a href="http://androidoperatingsystem.net/tag/google-phone/" class="tag-link-587" title="730 topics" rel="tag" style="font-size: 9.0586107091172pt;">google phone</a>
+<a href="http://androidoperatingsystem.net/tag/google-phone-apps/" class="tag-link-427" title="320 topics" rel="tag" style="font-size: 8.0202604920405pt;">google phone apps</a>
+<a href="http://androidoperatingsystem.net/tag/google-phones/" class="tag-link-1460" title="1,056 topics" rel="tag" style="font-size: 9.8842257597685pt;">google phones</a>
+<a href="http://androidoperatingsystem.net/tag/htc/" class="tag-link-36" title="621 topics" rel="tag" style="font-size: 8.7825615050651pt;">htc</a>
+<a href="http://androidoperatingsystem.net/tag/ion/" class="tag-link-1653" title="1,267 topics" rel="tag" style="font-size: 10.418596237337pt;">ion</a>
+<a href="http://androidoperatingsystem.net/tag/iphone/" class="tag-link-52" title="574 topics" rel="tag" style="font-size: 8.6635311143271pt;">iphone</a>
+<a href="http://androidoperatingsystem.net/tag/market/" class="tag-link-77" title="455 topics" rel="tag" style="font-size: 8.3621562952243pt;">market</a>
+<a href="http://androidoperatingsystem.net/tag/mob/" class="tag-link-3022" title="810 topics" rel="tag" style="font-size: 9.2612156295224pt;">mob</a>
+<a href="http://androidoperatingsystem.net/tag/mobile/" class="tag-link-67" title="1,121 topics" rel="tag" style="font-size: 10.048842257598pt;">mobile</a>
+<a href="http://androidoperatingsystem.net/tag/motorola/" class="tag-link-12" title="445 topics" rel="tag" style="font-size: 8.3368306801737pt;">motorola</a>
+<a href="http://androidoperatingsystem.net/tag/nes/" class="tag-link-986" title="455 topics" rel="tag" style="font-size: 8.3621562952243pt;">nes</a>
+<a href="http://androidoperatingsystem.net/tag/operating/" class="tag-link-258" title="312 topics" rel="tag" style="font-size: 8pt;">operating</a>
+<a href="http://androidoperatingsystem.net/tag/phone/" class="tag-link-106" title="1,435 topics" rel="tag" style="font-size: 10.844066570188pt;">phone</a>
+<a href="http://androidoperatingsystem.net/tag/phones/" class="tag-link-572" title="362 topics" rel="tag" style="font-size: 8.1266280752533pt;">phones</a>
+<a href="http://androidoperatingsystem.net/tag/port/" class="tag-link-2246" title="316 topics" rel="tag" style="font-size: 8.0101302460203pt;">port</a>
+<a href="http://androidoperatingsystem.net/tag/pre/" class="tag-link-1552" title="387 topics" rel="tag" style="font-size: 8.1899421128799pt;">pre</a>
+<a href="http://androidoperatingsystem.net/tag/pro/" class="tag-link-1778" title="565 topics" rel="tag" style="font-size: 8.6407380607815pt;">pro</a>
+<a href="http://androidoperatingsystem.net/tag/rom/" class="tag-link-509" title="704 topics" rel="tag" style="font-size: 8.9927641099855pt;">rom</a>
+<a href="http://androidoperatingsystem.net/tag/tor/" class="tag-link-2741" title="438 topics" rel="tag" style="font-size: 8.3191027496382pt;">Tor</a>
+<a href="http://androidoperatingsystem.net/tag/touch/" class="tag-link-252" title="450 topics" rel="tag" style="font-size: 8.349493487699pt;">touch</a>
+<a href="http://androidoperatingsystem.net/tag/uch/" class="tag-link-2013" title="431 topics" rel="tag" style="font-size: 8.3013748191027pt;">uch</a>
+<a href="http://androidoperatingsystem.net/tag/windows/" class="tag-link-59" title="337 topics" rel="tag" style="font-size: 8.0633140376266pt;">windows</a></div>
+</li>
+	</ul>
+
+</div>
+	
+	
+</div>
+</div>
+
+   <div class="clear"></div>
+ <div id="footop"> </div>
+
+ <div id="footbar">
+  
+ <div class="barone">
+
+
+
+		
+		</div>
+
+  		
+ 
+		<div class="bartwo">
+
+
+<p></p>
+ 
+
+		<div class="feed">
+
+	
+<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=http://feeds.feedburner.com/Android-Operating-System', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<input type="text" class="input" value="Sign Up here for email feed..." onfocus="if (this.value == 'Sign Up here for email feed...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Sign Up here for email feed...';}" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=http://feeds.feedburner.com/Android-Operating-System" name="url">
+<input type="submit" class="sbutton" value="">
+
+</form>
+	
+		</div>
+		
+		</div>
+	
+		
+</div>			
+
+<div id="footer">
+
+
+	
+Copyright © 2010 ANDROID OPERATING SYSTEM – Google Android Operating System, Android OS, Apps, Projects, Widgets &amp; Phones.<br>
+Androida theme from <a href="http://www.everythinggphone.com/forum" title="Android forums" target="_blank">Android forums</a>
+
+	
+</div>
+</div>
+</font></div><font color="#1F2B3B">
+<div id="translate_popup" style="display: none;">
+			<table class="translate_links"><tbody><tr><td valign="top">
+			<a class="languagelink" lang="en" xml:lang="en" href="#" title="English"><img class="translate_flag en" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="English" width="16" height="11"> English</a>
+							<a class="languagelink" lang="ar" xml:lang="ar" href="#" title="Arabic"><img class="translate_flag ar" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="العربية" width="16" height="11"> العربية</a>
+							<a class="languagelink" lang="bg" xml:lang="bg" href="#" title="Bulgarian"><img class="translate_flag bg" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="български" width="16" height="11"> български</a>
+							<a class="languagelink" lang="ca" xml:lang="ca" href="#" title="Catalan"><img class="translate_flag ca" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="català" width="16" height="11"> català</a>
+							<a class="languagelink" lang="cs" xml:lang="cs" href="#" title="Czech"><img class="translate_flag cs" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="česky" width="16" height="11"> česky</a>
+							<a class="languagelink" lang="da" xml:lang="da" href="#" title="Danish"><img class="translate_flag da" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="dansk" width="16" height="11"> dansk</a>
+							<a class="languagelink" lang="de" xml:lang="de" href="#" title="German"><img class="translate_flag de" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Deutsch" width="16" height="11"> Deutsch</a>
+							<a class="languagelink" lang="el" xml:lang="el" href="#" title="Greek"><img class="translate_flag el" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ελληνική" width="16" height="11"> ελληνική</a>
+							<a class="languagelink" lang="es" xml:lang="es" href="#" title="Spanish"><img class="translate_flag es" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="español" width="16" height="11"> español</a>
+							<a class="languagelink" lang="et" xml:lang="et" href="#" title="Estonian"><img class="translate_flag et" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="eesti" width="16" height="11"> eesti</a>
+							<a class="languagelink" lang="fa" xml:lang="fa" href="#" title="Persian"><img class="translate_flag fa" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="فارسی" width="16" height="11"> فارسی</a>
+							<a class="languagelink" lang="fi" xml:lang="fi" href="#" title="Finnish"><img class="translate_flag fi" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="suomi" width="16" height="11"> suomi</a>
+							<a class="languagelink" lang="fr" xml:lang="fr" href="#" title="French"><img class="translate_flag fr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="français" width="16" height="11"> français</a>
+							<a class="languagelink" lang="gl" xml:lang="gl" href="#" title="Galician"><img class="translate_flag gl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="galego" width="16" height="11"> galego</a>
+							<a class="languagelink" lang="he" xml:lang="he" href="#" title="Hebrew"><img class="translate_flag he" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="עברית" width="16" height="11"> עברית</a>
+							</td>
+							<td valign="top">
+							<a class="languagelink" lang="hi" xml:lang="hi" href="#" title="Hindi"><img class="translate_flag hi" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="हिन्दी" width="16" height="11"> हिन्दी</a>
+							<a class="languagelink" lang="hr" xml:lang="hr" href="#" title="Croatian"><img class="translate_flag hr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="hrvatski" width="16" height="11"> hrvatski</a>
+							<a class="languagelink" lang="hu" xml:lang="hu" href="#" title="Hungarian"><img class="translate_flag hu" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="magyar" width="16" height="11"> magyar</a>
+							<a class="languagelink" lang="id" xml:lang="id" href="#" title="Indonesian"><img class="translate_flag id" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Indonesia" width="16" height="11"> Indonesia</a>
+							<a class="languagelink" lang="it" xml:lang="it" href="#" title="Italian"><img class="translate_flag it" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="italiano" width="16" height="11"> italiano</a>
+							<a class="languagelink" lang="ja" xml:lang="ja" href="#" title="Japanese"><img class="translate_flag ja" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="日本語" width="16" height="11"> 日本語</a>
+							<a class="languagelink" lang="ko" xml:lang="ko" href="#" title="Korean"><img class="translate_flag ko" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="한국어" width="16" height="11"> 한국어</a>
+							<a class="languagelink" lang="lt" xml:lang="lt" href="#" title="Lithuanian"><img class="translate_flag lt" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="lietuvių" width="16" height="11"> lietuvių</a>
+							<a class="languagelink" lang="lv" xml:lang="lv" href="#" title="Latvian"><img class="translate_flag lv" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="latviešu" width="16" height="11"> latviešu</a>
+							<a class="languagelink" lang="mt" xml:lang="mt" href="#" title="Maltese"><img class="translate_flag mt" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Malti" width="16" height="11"> Malti</a>
+							<a class="languagelink" lang="nl" xml:lang="nl" href="#" title="Dutch"><img class="translate_flag nl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Nederlands" width="16" height="11"> Nederlands</a>
+							<a class="languagelink" lang="no" xml:lang="no" href="#" title="Norwegian"><img class="translate_flag no" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="norsk" width="16" height="11"> norsk</a>
+							<a class="languagelink" lang="pl" xml:lang="pl" href="#" title="Polish"><img class="translate_flag pl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="polski" width="16" height="11"> polski</a>
+							<a class="languagelink" lang="pt" xml:lang="pt" href="#" title="Portuguese"><img class="translate_flag pt" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="português" width="16" height="11"> português</a>
+							<a class="languagelink" lang="ro" xml:lang="ro" href="#" title="Romanian"><img class="translate_flag ro" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="română" width="16" height="11"> română</a>
+							</td>
+							<td valign="top">
+							<a class="languagelink" lang="ru" xml:lang="ru" href="#" title="Russian"><img class="translate_flag ru" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="русский" width="16" height="11"> русский</a>
+							<a class="languagelink" lang="sk" xml:lang="sk" href="#" title="Slovak"><img class="translate_flag sk" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="slovenčina" width="16" height="11"> slovenčina</a>
+							<a class="languagelink" lang="sl" xml:lang="sl" href="#" title="Slovenian"><img class="translate_flag sl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="slovenščina" width="16" height="11"> slovenščina</a>
+							<a class="languagelink" lang="sq" xml:lang="sq" href="#" title="Albanian"><img class="translate_flag sq" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="shqipe" width="16" height="11"> shqipe</a>
+							<a class="languagelink" lang="sr" xml:lang="sr" href="#" title="Serbian"><img class="translate_flag sr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="српски" width="16" height="11"> српски</a>
+							<a class="languagelink" lang="sv" xml:lang="sv" href="#" title="Swedish"><img class="translate_flag sv" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="svenska" width="16" height="11"> svenska</a>
+							<a class="languagelink" lang="th" xml:lang="th" href="#" title="Thai"><img class="translate_flag th" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ภาษาไทย" width="16" height="11"> ภาษาไทย</a>
+							<a class="languagelink" lang="tl" xml:lang="tl" href="#" title="Filipino"><img class="translate_flag tl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Filipino" width="16" height="11"> Filipino</a>
+							<a class="languagelink" lang="tr" xml:lang="tr" href="#" title="Turkish"><img class="translate_flag tr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Türkçe" width="16" height="11"> Türkçe</a>
+							<a class="languagelink" lang="uk" xml:lang="uk" href="#" title="Ukrainian"><img class="translate_flag uk" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="українська" width="16" height="11"> українська</a>
+							<a class="languagelink" lang="vi" xml:lang="vi" href="#" title="Vietnamese"><img class="translate_flag vi" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="tiếng Việt" width="16" height="11"> tiếng Việt</a>
+							<a class="languagelink" lang="zh-cn" xml:lang="zh-cn" href="#" title="Chinese (Simplified)"><img class="translate_flag zh-cn" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="中文 (简体)" width="16" height="11"> 中文 (简体)</a>
+							<a class="languagelink" lang="zh-tw" xml:lang="zh-tw" href="#" title="Chinese (Traditional)"><img class="translate_flag zh-tw" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="中文 (繁體)" width="16" height="11"> 中文 (繁體)</a>
+							<a class="google_branding" href="http://translate.google.com/translate?sl=auto&amp;tl=en&amp;u=androidoperatingsystem.net/2010/04/" title="translate page">powered by<img src="http://www.google.com/uds/css/small-logo.png" alt="Google" title="" width="51" height="15"></a>
+				</td></tr></tbody></table>
+				</div>
+				<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/jquery.translate-1.3.9.min.js?ver=1.3.9"></script>
+<div class="followus_r"><div class="followme" style="background-color:#2C9490; top:150px;" onclick="window.open('http://twitter.com/Android_os')"><noscript><center>JS<br>is<br>off</center></noscript></div><div class="ili_right" style="top:267px;" onclick="window.open('http://wpburn.com/wordpress-plugins/wp-followme-plugin')"><noscript><a href="http://wpburn.com/wordpress-plugins/wp-followme-plugin">Get it</a></noscript></div><div class="ili_left" style="top:267px;" onclick="window.open('http://wpburn.com/wordpress-plugins/wp-followme-plugin')"><noscript><a href="http://wpburn.com/wordpress-plugins/wp-followme-plugin">Get it</a></noscript></div></div><!-- AdSense Manager v3.3.3 (1.446 seconds.) --><script src="http://stats.wordpress.com/e-201037.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'9448428',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(9448428,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
+ 
+     </font></body></html>

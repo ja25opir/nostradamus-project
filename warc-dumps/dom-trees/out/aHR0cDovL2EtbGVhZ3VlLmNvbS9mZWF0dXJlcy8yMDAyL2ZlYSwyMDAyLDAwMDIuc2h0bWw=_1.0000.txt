@@ -1,0 +1,336 @@
+<html><!-- Created with the CoffeeCup HTML Editor++ --><!--     http://www.coffeecup.com/editor      --><head>
+<title>USLFans.com -- For the Fans, By the Fans</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="uslfans.com -- For the Fans, By the Fans">
+<meta name="keywords" content="USL, A-League, Soccer, Opinion, Futbol, Commentary">
+<link rel="stylesheet" href="/styles_new.css" type="text/css">
+<link rel="stylesheet" href="../usldiscussions/ubbthreads/admin/cp_style.css">
+<style>
+body {
+scrollbar-face-color: #D3D6DE;
+scrollbar-shadow-color: #435C79; 
+scrollbar-highlight-color: #EAEAEA;
+scrollbar-3dlight-color: #435C79; 
+scrollbar-darkshadow-color: #435C79;
+scrollbar-track-color: #C5C5CA; 
+scrollbar-arrow-color: #435C79;
+}
+-->
+</style></head>
+
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#FF0000" alink="#FF0800" marginheight="0" marginwidth="1" topmargin="0" leftmargin="1" rightmargin="1">
+
+<table width="850" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td bgcolor="#FFFFFF" height="20" valign="center" align="left" width="170" nowrap>&nbsp;&nbsp;<a href="http://www.uslfans.com/" border="0"><img src="/graphics/uslfans_150x14.jpg" border="0"></a>&nbsp;&nbsp;</td>
+    <td bgcolor="#000066" class="smallhead" height="20" valign="center" align="right" width="680">
+      &nbsp;&nbsp;<a href="http://www.uslsoccer.com/" target="_top"><font color="#ffb200">USLSoccer.com</font></a>
+      &nbsp;&nbsp;<font color="#ffffff">::</font>
+      &nbsp;&nbsp;<a href="http://www.usldiscussions.com/" target="_top"><font color="#ffb200">USLDiscussions.com</font></a>
+      &nbsp;&nbsp;<font color="#ffffff">::</font>
+	  &nbsp;&nbsp;<a href="http://www.nasl.com/" target="_top"><font color="#ffb200">NASL.com</font></a>&nbsp;&nbsp;<font color="#ffffff">::</font>
+	  &nbsp;&nbsp;<a href="http://www.thecup.us/" target="_top"><font color="#ffb200">TheCup.us</font></a>
+      &nbsp;&nbsp;
+      &nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr bgcolor="#ccccdd">
+    <td colspan="2">
+	  <table>
+	    <tbody><tr>
+		  <td height="20" valign="center" align="center" width="170" nowrap class="vsmallhead"><font color="af0000">For the Fans, By the Fans</font></td>
+
+		  <td height="20" valign="center" align="center" width="510" class="vsmallhead">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+	  <script language="JavaScript" type="text/javascript">
+      // Array of day names
+      var dayNames = new Array ("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday",                       "Saturday");
+      // Array of month Names
+      var monthNames = new Array ("January","February","March","April","May","June", "July","August","September","October","November","December");
+      var now = new Date();
+      document.write(dayNames[now.getDay()] + ", " + monthNames[now.getMonth()] + " " +                          now.getDate() + ", " + " " + now.getFullYear());
+      </script>
+		  </td>
+	  
+		  <td height="20" valign="center" align="right" width="170" nowrap class="vsmallhead"><a href="/archive_index.shtml"><font color="af0000">Site Archive</font></a>&nbsp;&nbsp;</td>
+
+        </tr>
+	  </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="smallhead" bgcolor="#ccccdd" align="center">
+	  <a href="/features.shtml">Features</a>&nbsp;:&nbsp;
+      <a href="/usl_news.php">USL News</a>&nbsp;:&nbsp;
+      <a href="/nasl_news.php">NASL News</a>&nbsp;:&nbsp;
+      <a href="/game_reports/2009/">Match Rpts</a>&nbsp;:&nbsp;
+      <font color="#af0000">Schedules:</font> <a href="http://ussf.demosphere.com/Schedules/2010/20952154.html">USSF 2nd Div</a> .. <a href="http://www.uslsoccer.com/schedules/2010/20382372.html">USL2</a> .. <a href="http://www.uslsoccer.com/docs/home/USL-FSC-09schedule.pdf">TV</a>
+&nbsp;:&nbsp;
+<!--
+      <a href="/soccer_shows.shtml">Soccer Shows</a>&nbsp;:&nbsp;
+-->
+      <a href="/standings/2010/">Standings</a>&nbsp;:&nbsp;
+<!--
+      <a href="/cgi-bin/TeamNews.pl"><font color="#af0000">Team News</font></a>&nbsp;:&nbsp;
+-->
+	  <a href="http://www.uslsoccer.com/stats/index_E.html">USL Stats</a>
+	</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+
+<table border="0" width="850" cellspacing="0" cellpadding="0" background="/images/aleague_wm1.jpg">
+  <tbody><tr>
+    <td width="850" valign="top">
+	  <table border="0">
+
+<!-- Page Header -->
+
+
+
+        <tbody><tr>
+          <td>
+
+            <p>
+            <span class="articleHead">Chat With Pittsburgh Riverhounds' Kai Haaskivi &amp; Tim Carter</span><br><br><span class="articleAuthor">by <a href="mailto:robert.wilson@a-league.com">By Robert Wilson</a>,<br>a-league.com columnist &amp; Pittsburgh Riverhounds Match Reporter</span>
+
+            </p><p>
+            <span class="articleDate">21.Jan.2002</span><br>
+            <span class="articleText">
+            I recently had the opportunity to sit down with Pittsburgh Riverhounds Coach Kai Haaskivi and new assistant coach and director of youth development Tim Carter.  Carter joined the Riverhounds after a successful stint as the Chicago Fire's director of player development.  Carter also coached the men's soccer team at Illinois State University (1984 - 95) and Eckerd College in Florida from 1980 - 83.  He was also the United States Soccer Federation's first director of youth development.  Haaskivi is starting his second year as coach and general manager of the Hounds.
+
+            </span></p><p>
+			During our conversation we discussed a wide range of topics, ranging from the MLS Contraction to Youth Development.  These are the highlights of that conversation.
+	
+            </p><p>
+			1) <i>What do you think the biggest differences are between the A-League and MLS, from a front office point of view?</i>
+
+            </p><p>
+			<i>Tim Carter</i> - The MLS teams may have more people employed in their front office, but the difference is that the MLS is a single entity.  Where the A-League teams each have an "owner."  From a management and decision making standpoint its closer to home.  The league isn't over looking such things as player transactions or salary caps.  This keeps core decisions being made in the A-League team office. In the MLS, they interface with the (MLS) league office for a decision.
+
+            </p><p>
+			<i>Rob Wilson - Is that a weakness or an advantage for MLS?</i>
+
+            </p><p>
+			<i>TC</i> - If its done right it's a strength.  There are teams in the MLS that do a very good job of making decisions and interfacing with the league. I think in an A-League organization, it depends upon the people involved within a franchise, if you have the right people involved it's definitely a strength.
+
+            </p><p>
+			2) <i>Same question, but from a Coach's point of view?</i>
+
+            </p><p>
+			<i>TC</i> - Certainly we have a lot more input to your destiny.  In the MLS - and I can only use Chicago as an example - you have the contracts controlled by the league's front office due to the salary cap. In the A-League you are much more intimately involved with the course of events.  
+
+            </p><p>
+			3) <i>Last year, the Hounds had various players loaned to us from Kansas City.  Do you see the Fire and other MLS teams loaning us players this year?</i>  
+
+            </p><p>
+			<i>Kai Haaskivi</i> - As of right now, we know that KC and Columbus are still affiliates; Chicago may change due to possible (now confirmed) MLS contraction.  However we take advantage of the affiliations.  Is it to our benefits and to the players benefit?  We were very successful last year doing that.  It would be perfect to have the save guys together every game, but as the season goes along you have to look at who's available.
+  
+            </p><p>
+			Last season the affiliation with KC was very good.  We had a good relationship with Michael Green, Tahj Jakins and Brian Johnson, who helped the team.
+
+            </p><p>
+			<i>TC</i> - There is another factor to consider this year, and that has to do with World Cup.  Depending on the MLS teams we have a relationship with and how many players are selected to the national team and how the national team does. I know the Fire last year depended upon their A-League relationship for a few games. If a team loses players to national team duty, they need to use players from the A-League. The Fire could potentially lose three to five players for national team duty.
+
+            </p><p>
+			<i>KH</i> - In fact, not being affiliated with Chicago could be a good thing, since they may have bigger player needs.  
+
+            </p><p>
+			4) <i>Many fans last year thought that loaned players disrupted team chemistry, how do you feel about that and what do you do to prevent disruptions?</i>
+
+            </p><p>
+			<i>KH</i> - Well disruptions are just part of the game, we are in the business of minimizing the distractions.  We are still in the process of building the team, and last season we ended up having less of a core to build around.  There were some distractions, but I think there was more of a positive outcome.  I felt that we didn't have the talent based upon last year's (2000) season and what I saw was not enough to get us to the playoffs.
+
+            </p><p>
+			This year there will be less.  For me, it was just part of the growing pains for the team.  I had to look at other players to stay competitive and still make the playoffs.  Out of distractions BJ and Michael Green were part of our success.  We try to keep the distractions to a minimum.  From a coaches point it was very successful.  
+
+            </p><p>
+			<i>TC</i> - It's difficult for me to respond to the question, but I would assume that last year since they had a new coach and general manager, the players may have felt a bit unsure in the early part of the season with the new players coming in. As the season went on, they came to terms with other players coming in and started to understand that this helped achieve results. Hopefully in year two, they'll say, "this may well happen" and won't be unsettled by the situation.
+
+            </p><p>
+			When you bring in new players you certainly change the chemistry.  You try to bring in players that can add to that.  Fleetwood Mac was right; "players only love you when they're playing."  Players that are playing and winning tend to understand what your doing bringing in other players faster than players that are not playing.
+
+            </p><p>
+			<i>KH</i> - I also had a three to four week window to try to put a team together.  A three to four week pre-season.  This season I've a better idea of what we got.
+
+            </p><p>
+			<i>TC</i> - It's a real good question, it's far easier to frame the question than to put your finger on the answer.  
+
+            </p><p>
+			5) <i>What are your thoughts on the MLS contraction and the future of MLS?</i>
+
+            </p><p>
+			<i>TC</i> - What is occurring at this point in time is "what is the best interest for the league in the terms of future and an economic standpoint," they want to be here in 2006 and 2026.  The only sports league that has not talked about contraction is the NFL.  The MLS doesn't want to do that. It is important that the league makes decisions that positively affect its long-term survival.
+
+            </p><p>
+			<i>KH</i> - From my point of view, it delays our roster.  From the released players about 20 will make other MLS teams.  Others will consider the A-League.  A wait and see attitude is a good tactic.  
+
+            </p><p>
+			6) <i>What about the Fire's lack of a stadium?</i>
+
+            </p><p>
+			<i>TC</i> - They are still looking.  They had negations with the City of Chicago, the White Sox.  The Arlington racetrack said they would do a five-year deal, but its makes no sense to put $20 million into a site only to use it for five years.  The team is still in negotiations with a college in Naperville and Sportsman Park.
+
+            </p><p>
+			Developing a stadium takes time but it is the most important part of growing soccer today.  Getting a place to play.  If they end up at Naperville, they will go to 16K seating.  It's in the center of youth soccer.  You can't say you have it until it's signed, but  I'm sure they will play in Chicago somewhere.  
+
+            </p><p>
+			7) <i>Pittsburgh plans to build a stadium, your thoughts on that?</i>
+
+            </p><p>
+			<i>TC</i> - Critical, absolutely critical.  That was part of the vision of Mr. Heasley and Kai.  We went out and walked some property.  It's critical for the development of pro soccer and the growth of soccer in general.
+
+            </p><p>
+			<i>KH</i> - We have an opportunity here to build one of the first soccer specific facilities with the stadium and the youth development system all in one place.  I feel that were getting a lot closer.  We spent about five hours walking the location.
+
+            </p><p>
+			<i>RW- lets put a rumor to rest right here.  Bayer, whose North American headquarters is here in Pittsburgh, are they going to sponsor the team or the stadium?</i>
+
+            </p><p>
+			<i>KH</i> - I think the connection of Bayer supporting soccer is very strong - in Germany.  We like to think we can put something together.  There are more companies interested in supporting soccer because they see the success of the team.  They are buying into our vision and future plans. 
+
+            </p><p>
+			As far as its being named Bayer Park, it could as easily or also be PPG Park.  With a one-of-a-kind facility, we will have so much more to offer, but we will start with the companies that have had an existing relationship with soccer.
+
+            </p><p>
+			8) <i>Pittsburgh's plans to build a stadium involve a lot of youth playing fields, what is your philosophy of youth development?</i>
+
+            </p><p>
+			<i>TC</i> - Under soccer development you have the youth, amateur and pro.  It's kind of like Solomon's baby.  The whole is more important than the parts.  The development of a player just isn't youth.
+
+            </p><p>
+			From 6-12 it's about basic development.  From 12 to 18 it's pre-professional development.  From the age of 19 to 26 it's professional development.  Which one is more important?  You don't get a good pro if you don't have good basics.  This is a problem across the country right now.
+
+            </p><p>
+			Club soccer has been essential to the game.  The problem is that by age 14 many of these players have won everything.  There has to be a challenge as they move up.  When winning becomes the only objective it shortcuts the development of the player.  In a professional environment in Europe and South America success is measured by how many players you get to the top level of play, not by the number of trophies you win at it.
+
+            </p><p>
+			In the U.S. we do a lot of youth promotion, which is good to generate interest in the game, but it does not really address the needs of long-term player development.
+
+            </p><p>
+			<i>RW - How do you identify talent?</i>
+
+            </p><p>
+			<i>TC</i> - There is a biological and chronological clock, they don't always match up.  Good early doesn't mean good late.  What you look for is problem solving ability and technical skills.  Youth coaches are looking to win, so they may choose players that can win through strength.  They may not be the best players later on.
+
+            </p><p>
+			Identification has to be done over time.  We really don't have that, the biggest criticism of ODP is that you bring players out for a few hours and run some drills.  You have so many players that you can miss a very good kid.  ODP is a process of elimination.
+
+            </p><p>
+			The process you need for a professional club is have a process of identification where you can see them over time.  They start to distinish themselves and then you start to bring players to other levels based upon their performance.  
+
+            </p><p>
+			9) <i>What are your present thoughts on the Y league, Pro's and cons?</i>
+
+            </p><p>
+			<i>TC</i> - It provides opportunities that are less encumbered by rules that the local club soccer system has.  It provides the player with a greater level of playing time, which allows them to develop their abilities.  The con is that it's still an infant.  The cost is high right now to have a Y- league team, but as the league grows that cost will fall.
+
+            </p><p>
+			<i>RW - Is there a PDL or Y league team in the future?</i>
+
+            </p><p>
+			<i>KH</i> - Yes, it's just a matter of when.  We need to look at setting up the infrastructure first and see were we are in a few years.
+
+            </p><p>
+			10) <i>What other youth tournament do you think would provide the kind of competition level for top level youth development both domestic as well as international.</i>  
+
+            </p><p>
+			<i>TC</i> - We don't have an infrastructure in this country that provides top-level competition.  Everywhere else in the world the top youth clubs are associated with the top pro clubs. Here the top youth clubs have to travel to a tournament.  Sometimes you try to get better competition by playing a U-14 team against a U-16 team for example.  
+
+            </p><p>
+			The Richmond Kickers have done a good job developing the infrastructure for the development of youth players.  Other teams do more youth promotion through soccer camps and other things.  There is no true plan to develop young players.
+
+            </p><p>
+			<i>KH</i> - What we plan to do here in Pittsburgh, is to raise the bar for the good of the game.  Create a true development system for the youth of the region.  
+
+            </p><p>
+			11) <i>With this emphasis on youth development and growing ties to Europe and South America, will we be seeing more international and local talent in the future?</i>
+ 
+            </p><p>
+			<i>TC</i> - One of the things in our central plan is to place local players with foreign clubs.  Perhaps as short as ten days to a permanent loan.
+
+            </p><p>
+			<i>KH</i> - Those contacts that we go back many years.  We just can't send the players that don't have the potential.  We need to generate players that can play at that level.  We see that our club can be a springboard for those players in the future.  
+
+            </p><p>
+			<i>RW - Lets reverse that a little, do you see foreign players coming to the Hounds for playing time or training?</i>  
+
+            </p><p>
+			<i>KH</i> - I think the relationships that we are building are a two way street.  The unique situation between Europe, and us is that our season runs during the spring and summer, where as their season runs fall to winter.  It opens up a lot of options.  There could be a player in Europe that could benefit by playing in the summer.  That's what where in the middle of.  Trying to figure out these options.
+
+            </p><p>
+			The numbers of players here are a lot greater than the numbers of players in Europe.  They know that by the time we get our infrastructure in place, we will have a greater volume of players than they will ever have.
+
+            </p><p>
+			<i>TC</i> - The long-term goal for us is to develop the player that is capable of playing in Europe.  There is no need for us to play a foreign player in a PDL or Y-league team.
+
+            </p><p>
+			<i>KH</i> - We want to provide a one-of-a-kind, year-round facility dedicated to training.
+
+            </p><p>
+			We want to provide the best environment for player development, the best competition and the best events, so people head to Western Pennsylvania.  
+
+            </p><p>
+			<span class="photoCredit">Rob Wilson - Copyright 2002</span>
+
+            </p><p>
+            
+
+          </p></td>
+        </tr>
+			
+
+	  </tbody></table>
+	</td>
+  </tr>
+
+<!--- end Main Full Width Header --->
+                        
+<!--- ##                                          --->
+<!--- ##  Site Template Change Area ends here.    --->
+<!--- ##  Make NO CHANGES BELOW this Line !       --->
+<!--- ##                                          --->
+                        
+<!-- FOOTER -->
+
+  <tr>
+	<td colspan="2" width="700" align="middle">
+	  <table border="0" width="100%">
+		<tbody><tr>
+		  <td align="middle" class="vsmalltext">Many Thanks to News Digger John Zukas who scours up the vast majority of the news links during the year.</td>
+		</tr>
+		<tr>
+		  <td align="middle" class="copyright"><font color="#af0000">[Opinion pieces written by fans do not represent the views of <nobr>uslfans.com</nobr>, but rather that of the writer.]</font></td>
+		</tr>
+		<tr><td align="middle"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td></tr>
+
+		<tr>
+		  <td class="copyright" valign="top" align="middle"><font color="#808080">
+			<nobr>Editor-in-Chief/Publisher: <a href="/comment.shtml">Dan Barnes</a></nobr>&nbsp;::&nbsp;
+			<nobr>Site Admins:<a href="/comment.shtml">Allison Andrews</a>, <a href="/comment.shtml">Dan Barnes</a></nobr>&nbsp;::&nbsp;
+			<br>
+			<nobr>Site Design: <a href="/comment.shtml">dpb &amp;  associates</a></nobr>&nbsp;::&nbsp;
+			<nobr>Site Graphics: <a href="/comment.shtml">Allison Andrews</a>, <a href="/comment.shtml">Dan Barnes</a></nobr></font></td>
+		</tr>
+		<tr><td align="middle"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td></tr>
+
+		<tr>
+		  <td class="copyright">
+			Copyright © 1999-2010 <nobr>USLFans.com</nobr> LLC. All rights reserved.<br><br>© Reproduction in whole or in part without the expressed written permission of <nobr>USLFans.com</nobr> is prohibited. This page is copyrighted by <nobr>USLFans.com</nobr> and all rights in any form are reserved by <nobr>USLFans.com</nobr>.  <nobr>USLFans.com</nobr> is not the official page of the USL and is not related to the USL. All <nobr>USLFans.com</nobr> owners, volunteers, employees, and directors are not employees of the USL. <nobr>USLFans.com</nobr> is an internet communication business that promotes the interests of <nobr>USL fans</nobr>. We are free of charge to teams and fans. However, we hope to sell advertising on this page to pay our bills.<br><br><!--<center><a href="/privacy.shtml"><u>Privacy Policy</u></a></center>--><br>
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+
+<!-- end content -->
+
+
+</body></html>

@@ -1,0 +1,188 @@
+<html><head>
+<title>The Fourth Civilization Chapter 4.5 The Accuracy and Security of Information</title>
+
+<meta name="Description" content="The Fourth Civilization--Technology Society and Ethics by Rick Sutcliffe">
+<meta name="keywords" content="fourth civilization, metalibrary, new renaissance, christian, social, ethical, issues, ethics, moral, morality, society, science, history, technology, technological, Richard J. Sutcliffe, Rick Sutcliffe, arjay enterprises, hunter, gatherer, agrarian, agricultural, information, empiricism, empirical, absolutism, hierarchical ethics, pragmatism, antinomialism, robots, Roboticization, artificial intelligence, AI, genetic engineering, medical technology, biospace, biotechnology, nanotechnology, business, economics, big brother, little brother, technocrime, education, training, integration, consilience, concinnity, religion, bible">
+<meta name="Author" content="Rick Sutcliffe">
+<meta name="revisit-after" content="60 days">
+<meta name="robots" content="index">
+<meta name="copyright" content="1988-2002 by Rick Sutcliffe and Arjay Enterprises">
+<meta name="publisher" content="Arjay Enterprises: www.arjaybooks.com">
+<style type="text/css"></style>
+<link rel="stylesheet" type="text/css" href="../stylesheet.css" title="Style">
+
+</head>
+
+<body>
+<!--fourth civilization, metalibrary, new renaissance, christian, social, ethical, issues, ethics, moral, morality, society, science, history, technology, technological, Richard J. Sutcliffe, Rick Sutcliffe, arjay enterprises, hunter, gatherer, agrarian, agricultural, information, empiricism, empirical, absolutism, hierarchical ethics, pragmatism, antinomialism, robots, Roboticization, artificial intelligence, AI, genetic engineering, medical technology, biospace, biotechnology, nanotechnology, business, economics, big brother, little brother, technocrime, education, training, integration, consilience, concinnity, religion, bible-->
+
+<script language="JavaScript1.1">
+<!--
+function framesGO() {
+// figures out the path to one directory above this document
+// (where the MAIN index.html is) and puts it into theString:
+
+theString=document.URL
+theString=theString.substring(0,theString.lastIndexOf("/",theString.length - 14))
+parent.window.location = theString + "/index.html?" + document.URL
+}
+
+// if this is the top frame, we'll create a link to activate some
+// JavaScript to set up the frames around this document.  For more
+// documentation, look at the comments in the source of the top frame
+// (numberstr.html in this directory - not numberstr1.html).
+
+if ((parent.frames.length) == 0)
+if ((parent.frames.length) == 0)
+{
+document.write('<CENTER><A HREF=\"javascript:framesGO()\">Show outer (navigation) frames</A></CENTER><HR>')
+}
+else
+{
+if (navigator.appVersion.substring(0,1) == 3 && navigator.appName.lastIndexOf('Netscape') != -1)
+{
+parent.frames[0].location.replace('numberstr1.html')
+// For some reason netscape 3 gets confused when it tries to run the cool JavaScript
+// stuff in numberstr.html and continue to load this frame at the same time. >:-(
+// So, we'll load the boring numberstr1.html instead.
+}
+else
+{
+parent.frames[0].location.replace('numberstr.html')
+}
+}
+//-->
+</script>
+<!-- body of section goes below this point -->
+
+<b>4.5 The Accuracy and Security of Information
+</b><br>
+<p>The universal accessibility of information is not without potential problems. As individuals, corporations, and governments make growing use of data repositories, a series of difficulties arise. These problems have already been widely reported on in the popular media, but as more people use stored information, the number of those who could be adversely affected also increases. It should be noted that information accuracy is a genuine issue only if truth in information is a broadly held value; otherwise this discussion is irrelevant.</p>
+<br>
+<center><b><a name="Information Accuracy">Information Accuracy</a></b></center><b>
+</b><br>
+<p>As things now stand, it is not always possible for individuals to know whether information about themselves exists, or where it is stored, much less what such a file might actually contain. There are a number of ways in which errors can creep into files, there to remain for years unchallenged, all the while affecting the lives of people. Credit rating, job prospects, accessibility to government services, and travel opportunities can all be influenced by incorrect information on file. Such errors come to be in several ways, the most common being through malice, typographical error, guilt by association, or because of an incomplete system.</p>
+<br>
+<center><a name="Malice">Malice</a></center>
+<br>
+<p>A neighbour or worker who has been offended in some way might deliberately place false information into another's file<!--‹-->--either by entering it directly, say, as a credit bureau employee, or by complaining to authorities and having an investigation undertaken. For instance, an anonymous tip that an individual has been molesting neighbourhood children could get a name onto a list of potential suspects regardless of whether any evidence was offered. One could also get into such police molester files through evidence in a divorce case, where the temptation to offer false evidence in custody hearings is very great. In some countries, government security agencies compile lists of people considered to be risks because of their political views or their membership in organizations deemed to be <a name="subversive">subversive</a>. Unions and corporations have also been known to have such "<a name="blacklists">blacklists</a>." Unless denied a visa or a job, the person might never suspect that the list exists. Some promote hate against individuals or groups, and others make lists of those they claim to be promoting hatred and in turn vilify them.</p>
+<br>
+<center><a name="Typographical Error">Typographical Error</a></center>
+<br>
+<p>A clerk who types a slightly misspelled name in an arrest record or adds an extra zero to a balance owed can set off a chain of embarrassing events for the person affected. Police data bases are not generally public, and correcting their mistakes may be very difficult. Changing faulty financial records, especially such government ones as taxation files, can be a formidable and costly task, consuming much time and large legal fees.</p>
+<br>
+<center><a name="Guilt by Association">Guilt by Association</a></center>
+<br>
+<p>An innocent party who happens to share an aeroplane seat with a known terrorist could be entered into an international police file and be classified as a security risk, denied government jobs, or forbidden to travel to other countries<!--‹-->--all without knowing why. Because such files are kept secret by the authorities who maintain them, it can be extremely difficult to find out what is going on and to correct the problem.</p>
+<br>
+<center><a name="Incomplete Systems">Incomplete Systems</a></center>
+<br>
+<p>There are numerous examples of large systems in which information once entered is never updated, verified, or removed when it becomes out of date. For instance, police departments routinely record arrests, but may not follow up with the courts' disposition of cases. Likewise, reported thefts are recorded, but recovery of goods may not be. A person could report a car as stolen one day, have it recovered the next by the police, and be arrested on the third for driving a stolen car. With that cleared up, a promised job could suddenly be denied on the fourth day because of a check of arrest records indicates a positive match. The individual may never realize what has happened.</p>
+<p>Some jurisdictions have already recognized these problems and passed laws to deal with them, but protection from <a name="incomplete information">incomplete information</a> is still very poor in most parts of the world. Such cases illustrate the adage; "A little knowledge may be worse than none."</p>
+<p>One of the more spectacular illustrations of incomplete systems is the so-called "year 2000 problem" (<a name="Y2K">Y2K</a>) or "millennium bug." Caused in large part because many software and hardware systems recorded only two digits (not the century) for the date, such systems had the potential to cause disruptions in all industries dependent on personal data that includes dates, such as banking and government record systems. When the clocks on many systems rolled over to January 1, 2000, they used the date as if it were 1900, throwing off calculations of interest, pensions, and rendering inoperative many real-time devices (bank machines, equipment controllers) that depended on using the time and date for their correct operation. Much work went into repairing this problem beforehand, however, and actual effects turned out to be minimal, though several other problematic dates are yet to arrive.</p>
+<br>
+<center>Solving <a name="Information Accuracy2">Information Accuracy</a> Problems</center>
+<br>
+<p>The Y2K problem had to be solved, and was, but cost vast sums of money and drove up programmers' salaries and lawyers' fees for a few years while the work was done. It also had potential (or, so it was thought) to cause disruptions in government, banking, general commerce, and the operation of much automated or robotic equipment.</p>
+<p>As for some of the others, up to a point, all these types of problems are likely to become worse. However, with the advent of universal information accessibility, everyone could be given access to all files relating to them, regardless of who has created the file. Provided a person checks periodically to see what has been filed<!--‹-->--particularly before applying for a job<!--‹-->--the problems of inaccurate information could (in theory) be nearly eliminated. Ideally, all personal information would be stored in a single place, with access to individual items available only to qualified authorities or by permission of the person named in the file. Even better, the system could contain a program that electronically mailed peoples' files to them whenever the contents were changed.</p>
+<p>However, this is an ideal. In an actual society, it is impossible to control all abuses. It is too much to hope that reorganizing the form of and the access to information would be sufficient to prevent the kinds of problems described here (and new ones) from recurring. Only a conscious effort to build carefully designed system safeguards would offer individuals security from bad personal information. After all, the mere computerization of a careless and flawed data system makes its problems worse, not better, as many a university and business can testify.</p>
+<p>Moreover, the centralization of personal information even for the purpose of making it accessible and changeable for the person it names is itself dangerous, for it gives the controllers of the system containing that information the potential for great power over everyone.</p>
+<br><b>
+<i><p><font size="6">Profile On . . . Issues</font></p>
+</i></b><i><br><b>
+</b><center><b>The <a name="Correctness">Correctness</a> of Information</b></center>
+<br>
+<p>When a search for information returns results that are incorrect, or a <a name="data security">data security</a> flaw allows a crime to be committed there can be serious consequences for reputations, loss of income, or even physical danger.</p>
+<br>
+<p><u>Who owns data?</u></p><u>
+</u><p><u></u><!--€-->o Does <a name="personal information">personal information</a> belong to the individual or organization that entered it, the data bank that stores it, the person it is about, or to no one at all?</p>
+<p><!--€-->o Is government-gathered statistical information the domain of the state, or does it belong to each person in the state?</p>
+<p><!--€-->o Is corporate data the private property of the company in question, or are the shareholders entitled to it? the customers? the state?</p>
+<p>Examples: ought the magnetic coding system for bank machine cards be public information? What about prison records? medical records? school records? tax information? marriage, divorce, birth and death records?</p>
+<p><!--€-->o Is it the ownership or the possession of data (or is it neither) that carries with it the responsibility to ensure its correctness?</p>
+<p><!--€-->o Does "news" information belong to the people in the story, the reporter who gathers it, the wire service that assembles it, the state in which it is disseminated, or to no one?</p>
+<p><!--€-->o Suppose a gene that confirms immunity to a serious disease (such as AIDS) is discovered in a person's DNA. Who owns this information<!--‹-->--the person in whose body it resides, or the one who discovered the presence and effect of the gene?</p>
+<br><u>
+<p>Who is (ought to be) responsible?</p>
+</u><p><u></u><!--€-->o If a bank relies on incorrect <a name="credit data">credit data</a> and so denies a loan, causing the customer a loss, is the bank liable? the credit agency, the individual who entered the faulty data?</p>
+<p><!--€-->o If the security facilities of a system are inadequate, allowing one user to defraud another with the system, is only the perpetrator liable, or are the owners of the system as well? What about the manufacturers of the hardware and software?</p>
+<p><!--€-->o If a stolen bank card can be used by the thief because the owner has written the PIN access number on the card, is the owner partly liable?</p>
+<p><!--€-->o If an investment company continues to do business with the public while concealing its poor financial state, who is responsible when the firm collapses? only the principals of the firm? the regulatory authorities who failed to monitor the situation closely enough? a journalist who knew the truth, but was afraid to print it and so trigger the collapse? the investors, who ought to have been more cautious?</p>
+<p><!--€-->o If a commercial program is faulty and causes damage to a business, are the publisher and author of the program liable? What if the package had a statement disclaiming such consequential damages? What if the copy in question had been pirated rather than purchased?</p>
+<p><!--€-->o When incorrect conclusions are drawn because data is incomplete, what liability attaches to the gatherer or user of the data?</p>
+<br>
+<p><u>What about compensation?</u></p><u>
+</u><p><u></u>When economic or other loss is caused to some party due to incorrectly stored or stated information, who ought to compensate the injured person? (the one who caused the error, the party who ran the storage system, the one who used the data, or no one?) Does it make a difference if</p>
+<p><!--€-->o the data was maliciously entered wrongly? accidentally?</p>
+<p><!--€-->o the data was changed because of a machine fault with no human intervention?</p>
+<p><!--€-->o the data was incorrectly processed into information because of a faulty program?</p>
+<p><!--€-->o the data had simply been allowed to become outdated?</p>
+<p><!--€-->o the correct data was destroyed accidentally by human carelessness? by the action of a computer virus designed to destroy the data?</p>
+<p><!--€-->o rather than losing money, the injured party lost a job opportunity? her children in a divorce case? her reputation?</p>
+<p><!--€-->o the injured party never discovered the error, but someone else did?</p>
+<br>
+<p><u>Who has jurisdiction (Where does the crime take place?)</u></p>
+<p><!--€-->o when a computer crime is committed over the telephone lines in a distant computer across state or provincial lines? national borders?</p>
+<p><!--€-->o if data (such as pornography) that is stored in one country is used in or triggers a crime causing death in another country?</p>
+<p><!--€-->o if an electronic copy of data is stolen in one state or country, then taken to another where a paper copy is made, then to a third where the data is actually used for the first time? </p>
+<p><!--€-->o when a "hacker" creates a virus, turns it loose on a network, and thousands of computers all over the world suffer loss of data?</p>
+<p><!--€-->o over the information owned by a multinational company with headquarters in one country and branch offices in others? Can one government order the firm to comply with its laws outside its own borders? What if so doing would cause it to break the laws of other countries where it operates?</p>
+<br>
+<p><u>Technical Legal Issues</u></p><u>
+</u><p><u></u><!--€-->o Is electronically stored data tangible? If it is not a "thing," can it have value? Can it be stolen?</p>
+<p><!--€-->o If funds are embezzled from many sources using a single program that generates many illicit transactions by running in a loop, is this one crime or many?</p>
+<br>
+<p><u>Who (or what) is the victim</u></p><u>
+</u><p><u></u><!--€-->o when money is stolen from a bank machine? (A machine is not a person; is the element of deceit (of a person) necessary for fraud?)</p>
+<p><!--€-->o when false data is used to win an election, engineer (or prevent) a merger, or kite stock prices?</p></i>
+<br>
+<center><a name="Privacy">Privacy</a></center>
+<br>
+<p>Observations about correctness immediately lead to questions about who ought to have access to personal information. It seems at times that one must not only assume that government and private companies know every intimate detail of the lives of ordinary citizens, but also make the same assumption about the nine-year-old down the street with the cheap computer and modem in her bedroom. Although it may be possible to establish a system of safeguards that require permission of the subject before personal information could formally be obtained and used, the spread of such data may not ever be controlled entirely, for information exists in many locations. Some of these are less secure than others, or have less than scrupulous owners. Any such system that was sufficiently comprehensive to enforce rules about personal data access would by its very existence pose a threat to privacy greater than any it could prevent. Since criminals will also use data facilities, it is also not hard to imagine someone setting up, say, a blackmail data bank to store sensitive or embarrassing personal information for sale to the highest bidder.</p>
+<p>There was a time when such information was not readily available. A president of the United States could be a notorious womanizer and the news media collectively choose not to report it. A member of Parliament could hope that an old police record would never surface. A vice-presidential candidate could keep hidden an old stay in a mental institution, and a would-be senator could keep secret a string of shady business deals or underworld connections. A high official could have an affair with a secretary or a student intern and not be found out. The past could be hidden and forgotten, whether it included unusual sexual practices, divorce, illegitimate children, molestation, abuse, bankruptcy, tax fraud, a criminal record, failure in school, a dishonourable discharge, cowardice, bad judgement, the misappropriation of funds, or a collection of traffic violations large enough to fill a car.</p>
+<p>Today, investigative reporters armed with terminals can discover all these things and more in public records (today's Metalibrary). In the society of the future, everyone will have to assume that all details of their past life, however embarrassing, are a matter of public record. For those in the public eye, whether as government, corporate, or union leaders or as professionals in positions of trust, life will therefore be much more an open book than it has been in the past. For better or worse, the ability to forget the embarrassments of one's past is on the road to extinction. Thus, it is hard to say whether having the full Metalibrary would make <a name="blackmail">blackmail</a> any more or less likely. If all information is readily available, there can be little embarrassment in having it revealed, for it could never be concealed.</p>
+<p>Whether anyone will care or not about others' morality or judgement is a separate question. When such information is so readily available, the result could well be a cynical and jaded public that, hearing about the private lives of the rich and famous, turns a blind eye to morality altogether.</p>
+<p>However, what would be left of a right to privacy in such a world? Only that which leaves no record behind. Since many people would choose to have their home Metalibrary terminal monitor activities inside the house as well as their use of what is available in the outside world, there might be very little human activity that is not recorded in some manner. At the place of work, performance monitoring will be increased, and more information retained about individual commercial transactions. While there may be some restrictions, it is not difficult to imagine the state (or society collectively and informally) gathering the power to continuously record all the activities of every person. This could initially be justified in terms of law-and-order enforcement efficiencies, for every criminal would be documented. However, the corresponding possibility for absolute state control over every citizen cannot be ignored.</p>
+<p>Likewise, if the state has control over the strong <a name="encryption">encryption</a> of data, and forces vendors of such products to give the state "keys" to decode any data back to plain text, there could be no privacy of data or communication. In this instance, however, the technology for message and file encryption was sufficiently widespread by the late 1990s that it can no longer be controlled<!--‹-->--government officials simply had not realized this fact as yet.</p>
+<p>Even at present, a record of every credit card transaction is kept by the card issuer. While little could be done in the past to systematize such records because of their sheer number, the technical obstacles are melting away even as the perceived rewards to merchants and card issuers are seen to become more tempting. After all, if you know who buys what kind of goods, you can target advertising very cost effectively and efficiently, and this alone would make keeping and analysing such records worthwhile.</p>
+<p>If all that were done was the elimination of cash so that every retail transaction were on record, it would then be impossible for any person to hide anything significant. An institution (governmental or not) that could know everything could also control everything. In such a scenario, one could easily imagine that a "<a name="universal person code">universal person code</a>" could be placed on the hand of every citizen, to be passed over the <a name="supermarket scanner">supermarket scanner</a>s along with the beans and bread<!--‹-->--permanently recording not only all human activity but also humanity itself. That exactly such a society would one day exist was predicted by the Apostle <a name="John">John</a> writing in the first century A.D.:</p>
+<br>
+<blockquote>"He also forced everyone, great and small, rich and poor, free and slave, to receive a mark on his right hand or on his forehead, so that no one could buy or sell unless he had the mark..." Revelation 13:16-17a (NIV)</blockquote>
+<br>
+<p>It is not difficult to see that the technology to institute an <a name="Orwellian">Orwellian</a> 1984-style state already exists and that such <a name="collectivizing trends">collectivizing trends</a> are present.</p>
+<br>
+<center><a name="Big Brother">Big Brother</a> and <a name="Little Brother">Little Brother</a></center>
+<br>
+<p>On the other hand, the effect of universal <a name="information availability">information availability</a> upon governments may prove to be neutral or even positive. There may even be greater democracy, for there is a counterbalance here that promotes individualism. While there is the potential for increased government control of information, individual access to knowledge of government activities could also be improved. So too could the opportunities for citizens to express themselves and change the course of government. Some envision a participatory democracy emerging<!--‹-->--one in which citizens have daily opportunities not just to express opinions, but to learn the facts and decide the issues.</p>
+<p>Thus, even while people lose some ability to act as "private" citizens, <a name="governments">governments</a> may also lose much of their capacity to operate arbitrarily and in secret. That is, loss of personal privacy does not necessarily mean a gain in centralized power<!--‹-->--it just means that nothing can be hidden from anyone.</p>
+<p>This could also frighten away from <a name="public office">public office</a> those with a seamy past to hide. However, since no one has a perfect past, perfect judgement, or perfect morality, the effect even upon the aspirations of society's leaders might not be very great. People would have to judge others (including their leaders) for who they were in the present and what they might be in the future rather than for their past.</p>
+<p>Two more extreme responses are possible. On the one hand, standards of behaviour for people in the public eye could come to include a stricter practice of moral actions. A swing of the pendulum towards a comprehensive and rigid moral legalism of the type popularly attributed to the Victorian era could not even be ruled out.</p>
+<p>On the other hand a variation of <a name="antinomianism">antinomianism</a> is already prevalent among modern <a name="liberals">liberals</a>. This is the notion that in many areas of human activity the idea of morality is simply irrelevant. This is usually phrased in terms of tolerating <a name="alternate life-styles">alternate life-styles</a>, but there is no effective difference between permitting all moral systems as equally valid or saying that none are valid. Although this position, as usual, carries with it the logical contradiction that it tolerates everything except disagreement with itself, it has nonetheless become a popular response to the "outing" of information with moral overtones. Indeed, it has become so popular that it is today the control belief in this arena, threatening the freedom or the very existence of those who hold that moral issues are important<!--‹-->--especially if they say they are absolute.</p>
+<p>Whatever the case, the implications for the information age are profound<!--‹-->--actions will be public, and so will be the <a name="moral judgement">moral judgement</a> of them (or the lack of such judgement).</p>
+<p>Turning from the action of individuals in government to those of the state itself, there are similar tensions between the desire for secrecy and the need to gather and manage information. Although most people in the Western world do not want <a name="comprehensive statism">comprehensive statism</a>, the opposite extreme<!--‹-->--no government, only daily <a name="electronic democracy">electronic democracy</a><!--‹-->--may well be too unstable and discontinuous to work. </p>
+<p>The most likely outcome is a situation involving gains and losses to both privacy and democracy<!--‹-->--not a swing of power to either the individual or the state, but a realignment that changes both. Information availability does create the potential for a new kind of tyranny, but it also provides for new kinds of checks and balances by giving the individual citizen greater knowledge and therefore more power. The two trends may not simply cancel each other out, because an open information society will be very different, but these trade-offs between privacy and knowledge may well become generally accepted and thus little remarked upon.</p>
+<p>Another possibility is that power over information storage and transmission will become concentrated in the hands of a few technology managers and corporate suppliers. Such developments are commonly advocated to achieve efficiency, security, or convenience, but these are not the central issues. Control is. Given the lessons of history, one must assume that where there is centralized control, there will inevitably be abuse of power, regardless of whose hands hold the reigns of power and how (why) they obtained it. To date information technology has had a largely decentralizing and democratizing effect, but there is no reason to suppose that this situation will last indefinitely. Those who wish little brother and sister to win out in the long run must be diligent to retain their freedoms or they will surely lose them.</p>
+<br>
+<center>Why Privacy?</center>
+<p>The ethical question here relates to the fundamental basis for the desire for privacy. Is privacy a fundamental <a name="human right">human right</a>, or is it merely a culturally derived preference? One could argue on religious grounds, for example, that since human dignity and self-esteem are at stake, the greatest possible amount of privacy ought to be granted other people in order to affirm their value. On the other hand, one could argue that the <a name="New Testament">New Testament</a> requires the people of God to be an open and transparent community and that they ought, therefore, to have no secrets from one another. One could even argue that both of these principles are true and that they do not contradict each other.</p>
+<br>
+<center><a name="Data Security">Data Security</a></center>
+<br>
+<p>At the corporate and government levels, it may at first be somewhat easier to keep information confidential than at the personal level, for there will be fewer copies and these will be stored in more carefully guarded systems, not (initially) readily available through the public Metalibrary. However, sophisticated computerized analysis of the activities of business and government even now leaves them with few secrets of the quantifiable kind. Any skilled individual should be able to analyse the market share and profitability of most companies. The trick will be to keep one's actual plans for the future secret for as long as possible.</p>
+<p>Moreover, the proliferation of international corporations and the consequent increases in money, data, and technology flows across national boundaries make it much more difficult for governments to control corporate activities. This is already illustrated by the international <a name="banking">banking</a> system, within which large sums of money are routinely shifted from one country to another instantaneously and without much possibility of government intervention. Even today, no one nation or group of nations can be said to control the banking system. Thus, the ability to retain information within <a name="national boundaries">national boundaries</a> has already all but vanished in the Western nations and will also do so eventually in the (previously) more closed East.</p>
+<p>Governments will still attempt to keep national security, taxation, and military information secret. Corporations, credit providers, and banks will need to guarantee the security and integrity of the information they store, just to survive. Ultimately, government and corporations must also operate in a more open environment, for it will become progressively harder to keep anything out of the public view. A secrecy-oriented government can keep <a name="fax">fax</a> machines and <a name="photocopiers">photocopiers</a> under lock and key and track every sheet of paper they produce for only just so long. Once it develops its own appetite for the efficiency of information machines and acquires several thousand of them, effective control becomes all but impossible. When those paper files become computerized, the security problems are multiplied.</p>
+<p> This is not good news for those who desire to keep at least some information confidential. There have been numerous incidents of computer security violations at government or corporate installations, both by insiders and by enterprising <a name="hackers">hackers</a> from without. Freebooters have rummaged through medical records, corporate finances, and even some military files. Insiders have stolen data for competing companies or nations, and saboteurs have destroyed whole installations.</p>
+<p>The victims of these violations have learned from their woes and tightened up their poor security. Inside personnel are screened more closely on hiring and may be searched when leaving the job site. Modems are now designed to call back only to authorized numbers before connecting, <a name="passwords">passwords</a> are checked regularly and not left lying around, and backup copies of important files are made regularly and stored in secure, off-site locations. Disks brought in are routinely scanned for <a name="virus programs">virus programs</a> that could destroy data. Critical installations often have an entire physical duplicate, usually in another city, so that service to customers can continue uninterrupted even through an explosion or fire at the main data centre (This is standard banking practice).</p>
+<p>As security consciousness increases and governments attempt to control data flow across borders, some countries may set up data havens, much as they now establish tax havens. There will also be an increase in data traffic (buying and selling) on a very large scale, as economic, legal, and consumer files are copied from owner to owner.</p>
+<p>The net long-term result will surely be even greater data availability on an international basis, and a general breaking down of national borders in favour of a more global view of information. While this is tending to make Western societies more open in some ways, it has already sounded the death knell for the old closed societies of the communist world. The very efficiency of information techniques mitigates against a tightly controlled society. Widespread availability of information is inimical to <a name="totalitarian">totalitarian</a> forms of government, and a computer and modem are much more deadly enemies to statism than is a copying machine. Perhaps the best way to hasten the fall of tyranny is to ensure that it is well supplied with photocopiers, computers, and fax machines.</p>
+<p>Thus, on balance the information age may favour the individual, but nagging doubts do remain. The gains available through individual access to information imply a corresponding loss of privacy. Are the trade-offs fair? Will Big Brother still end up watching? Will the millions of "little brothers and sisters" triumph? Will people have any vestige of personal privacy, or will everyone really be able to know everything about everyone else? The answers to these questions will vary from time to time and country to country, but the extreme scenarios now seem less likely than that some middle course will instead be charted.</p>
+
+<hr>
+<center>
+<a href="../contents.html" target="big_right">The Fourth Civilization Table of Contents</a>
+<hr>
+Copyright © 1988-2002 by <a href="http://www.sutcliffe.ca"><font color="black">Rick Sutcliffe</font></a><br>
+ Published by <a href="http://www.ArjayBooks.com"><font color="black">Arjay Books</font></a> division of <a href="http://www.Arjayenterprises.com"><font color="black">Arjay Enterprises</font></a>
+</center>
+
+</body></html>

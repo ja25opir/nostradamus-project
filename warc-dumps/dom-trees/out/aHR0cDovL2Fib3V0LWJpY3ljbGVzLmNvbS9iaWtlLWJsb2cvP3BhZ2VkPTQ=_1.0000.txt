@@ -1,0 +1,535 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		<meta name="keywords" content="Bike Blog, cycling blog, cycling, bike trails, biking stories, bicycle blog, bicycle stories">
+	<meta name="description" content="About-Bicycles Bike Blog">
+
+	<title>About-Bicycles Bike Blog - Part 4</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0 - all posts" href="http://about-bicycles.com/bike-blog/?feed=rss2">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0 - all comments" href="http://about-bicycles.com/bike-blog/?feed=comments-rss2">
+	<link rel="pingback" href="http://about-bicycles.com/bike-blog/xmlrpc.php">
+
+	<!-- style START -->
+	<!-- default style -->
+	<style type="text/css" media="screen">@import url( http://about-bicycles.com/bike-blog/wp-content/themes/inove/style.css );</style>
+	<!-- for translations -->
+		<!--[if IE 6]>
+		<link rel="stylesheet" href="http://about-bicycles.com/bike-blog/wp-content/themes/inove/ie6.css" type="text/css" media="screen" />
+	<![endif]-->
+	<!-- style END -->
+
+	<!-- script START -->
+	<script type="text/javascript" src="http://about-bicycles.com/bike-blog/wp-content/themes/inove/js/util.js"></script>
+			<script type="text/javascript" src="http://about-bicycles.com/bike-blog/wp-content/themes/inove/js/menu.js"></script>
+		<!-- script END -->
+
+	<link rel="stylesheet" id="sociable-front-css-css" href="http://about-bicycles.com/bike-blog/wp-content/plugins/sociable/sociable.css?ver=3.0" type="text/css" media="all">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://about-bicycles.com/bike-blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://about-bicycles.com/bike-blog/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="About-Bicycles Bike Blog" href="http://about-bicycles.com/bike-blog">
+<meta name="generator" content="WordPress 3.0">
+<link rel="shortlink" href="http://wp.me/vc0E">
+
+<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
+<link rel="canonical" href="http://about-bicycles.com/bike-blog/page/4/">
+<!-- /all in one seo pack -->
+</head>
+
+
+<body>
+<!-- wrap START -->
+<div id="wrap">
+
+<!-- container START -->
+<div id="container">
+
+<!-- header START -->
+<div id="header">
+	<div id="caption">
+		<h1 id="title"><a href="http://about-bicycles.com/bike-blog/">About-Bicycles Bike Blog</a></h1>
+		<div id="tagline">Cycling, Bicycles, Bike Accessories, Path and Ride updates</div>
+	</div>
+
+	<!-- navigation START -->
+	<div id="navigation">
+		<ul id="menus">
+			<li class="current_page_item"><a class="home" title="Home" href="http://about-bicycles.com/bike-blog/">Home</a></li>
+			<li class="page_item page-item-2"><a href="http://about-bicycles.com/bike-blog/?page_id=2" title="About">About</a></li>
+			<li><a class="lastmenu" href="javascript:void(0);"></a></li>
+		</ul>
+
+		<!-- searchbox START -->
+		<div id="searchbox">
+							<form action="http://about-bicycles.com/bike-blog" method="get">
+					<div class="content">
+						<input type="text" class="textfield" name="s" size="24" value="">
+						<span class="switcher">Switcher</span>
+					</div>
+				</form>
+					</div>
+		<!-- searchbox END -->
+
+		<div class="fixed"></div>
+	</div>
+	<!-- navigation END -->
+
+	<div class="fixed"></div>
+</div>
+<!-- header END -->
+
+<!-- content START -->
+<div id="content">
+
+	<!-- main START -->
+	<div id="main">
+
+
+			<div class="post" id="post-234">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=234" rel="bookmark">Bike Speedometer Batteries</a></h2>
+			<div class="info">
+				<span class="date">October 11th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=234#respond" title="Comment on Bike Speedometer Batteries">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>Sorry for the delay in blog posts. I had actually hoped to be doing more rides and updates but the weather has not been that good for riding and I’ve had a few other things going on too.</p>
+<p>Anyway, I had some interesting events before my ride today and wanted to pass on some useful (I think) information.</p>
+<p>It’s been in the 40s in the Chicago area and even though it was pretty cold it really was a nice day for a ride if you are dressed well for it. Well, I got all prepared and dressed properly, hopped on my bike and found that my speedometer was not working! Damn!</p>
+<p>So I worked out a beautiful plan to swing by&nbsp;our Walgreens, which has a connecting bike path to it, on my bike, get the batteries, change them outside and be on my way.</p>
+<p>Here’s the useful information that I wanted to pass on. I have a Vetta wireless bike computer and I have already discovered that <strong>the speedometer will stop working when the transmitter battery OR the battery in the main bike computer are weak, even though the bike computer&nbsp;battery is still strong enough to&nbsp;&nbsp;power the main display screen</strong>. So if you are not getting a signal, it could be the battery in the transmitter OR the main unit. I am only familiar with my own wireless computer but this could be the case with other manufacturers also.</p>
+<p>OK, back to the story… I decided to try the&nbsp;battery in the transmitter first. So I locked my bike and went in to Walgreens and got a battery for the transmitter. Went out to my bike and ended up turning the transmitter cap the wrong way (duh! It says which way for open and close right on it!). Well, I ended up stripping the plastic cap on the transmitter and then was not able to get it off after that (oh well, accidents happen).</p>
+<p>So I need to ride back home and work on that so I go to unlock my bike and the lock will not open!!! (so much for my beautiful plan). So I had to call my wife to drive over to Walgreens to pick me up. I asked her to bring my sheet metal cutters to cut the lock cable. Well, that worked just fine. It was so easy to cut that lock cable! (I am going to add another reply to my blog entry on bike locks about that one later).</p>
+<p>Fortunately, I had a cadence sensor for this bike computer, that I no longer use and that had the exact same cap that I could use as a replacement for the one that I stripped. I managed to&nbsp;drill the cap off of the speedometer sensor and replaced it with the new cap.</p>
+<p>Now, I get to step two. I checked the speedometer, with the new transmitter battery, and it still did not work. It turned out that it was exactly what I explained above. The problem was with the main bike computer battery even though all of the functions (time, odometer, settings, etc.) still worked just fine.</p>
+<p>Well, I headed up to Walgreens and got a new battery for the main computer unit, changed it, reset the wheel size, odometer, time, etc., and everything worked just fine!</p>
+<p>I finally got my ride in and it was a really nice ride. I did 17 miles and&nbsp; saw 3 more deer on the Paul Douglas bike path today.</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=9" title="View all posts in Bike Accessories" rel="category">Bike Accessories</a>, <a href="http://about-bicycles.com/bike-blog/?cat=6" title="View all posts in Cycling" rel="category">Cycling</a>, <a href="http://about-bicycles.com/bike-blog/?cat=10" title="View all posts in Equipment" rel="category">Equipment</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-230">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=230" rel="bookmark">More Bike Trail Gift Items (T-Shirts, Mugs, etc.)</a></h2>
+			<div class="info">
+				<span class="date">September 28th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=230#respond" title="Comment on More Bike Trail Gift Items (T-Shirts, Mugs, etc.)">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>As I mentioned in an earlier post, I wanted to create some additional <strong>Chicago Area Bike Trail Gift Items</strong> (for more trails), and I just completed the design of more items for two more trails.</p>
+<p>The new gift items are for the <a href="http://www.about-bicycles.com/chicago-lakefront-trail.htm">Chicago Lakefront Trail </a>&nbsp;and the <a href="http://www.about-bicycles.com/busse-woods-trail.htm">Busse Woods Trail</a>. There are links at the bottom of these pages for the new items. I have also created a page to include all of the gift items in one place and that is the <a href="http://www.about-bicycles.com/bike-trail-gifts.html">Bike Trail Gift Items </a>page.</p>
+<p>These designs are all from the Zazzle.com site and it is pretty easy to design your own items, but it does take a little time and you need the photos to begin with so I put these together for those who might be interested in these kinds of items and don’t have the time, tek experience or the photos. There are always people looking for a lot of unique things in the holiday season anyway.</p>
+<p>I had planned on doing quite a few additional trails but unfortunately I have run into a little bit of a problem. The web pages that I did on many of my earlier trails I used still pictures that I <strong>created from a camcorder tapes</strong> so these photos are very low quality. <img src="http://about-bicycles.com/bike-blog/wp-includes/images/smilies/icon_sad.gif" alt=":-(" class="wp-smiley">  For example, the Elroy-Sparta trail, the I&amp;M canal trail, the Palatine and Deer Grove Trails). The photo resolution is fine for the web pages but I do not want to try to use blown up version of these for the gift items due to the reduced resolution.</p>
+<p>For some of the other trails, I just could not find the kind of high quality photos that I would like to use so I will be going back to many of these trails to try and get some better photos that really capture the feel of the each of the trails.</p>
+<p><strong><em>So many bike trails… So little time!</em></strong> (especially with the peak bike season ending here in the Chicago area).</p>
+<p>Well, we’ll see how the gift items go for now and I know that I will be getting out to the bike trails asap for more photos!</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=20" title="View all posts in Bike Gifts Items" rel="category">Bike Gifts Items</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-228">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=228" rel="bookmark">Bike Trail Crap</a></h2>
+			<div class="info">
+				<span class="date">September 24th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=228#respond" title="Comment on Bike Trail Crap">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>OK, I have a great 27 mile ride today on my local bike trail (the one that goes around <a href="http://www.about-bicycles.com/algonquin-road-trail.htm" target="_blank">Paul Douglas Forest Preserve</a>) and I just had to post an entry about something that all of us who ride bike trails encounter but is not really mentioned often. Yes, as the title of this post says “<em><strong>Bike Trail Crap</strong></em>” …and I mean&nbsp;it literally in this case.</p>
+<p><strong>In the words of the famous Forrest Gump: “It Happens”</strong> (or maybe that is the censored TV version. Well, I am trying to keep my blog G rated, so the various blog cops don’t ban me or come after me, so I will keep it that way too).</p>
+<p>&nbsp;I’ve noticed a lot of crap on the Paul Douglas FP trail and a few things just occurred to me. Originally, I though that most of it was dog crap but I have discovered that, on this trail, a lot of&nbsp;it is deer crap.</p>
+<p>I am not going to go into a big rant about people picking up after their dogs. It is, of course the right thing to do and some dog owners are very conscientious while&nbsp;others are not. Personally, on a trail, if dog owners would at least pick up a stick and push the crap off of the trail, I think that would be fine.</p>
+<p>Anyway, since I discovered that much of this is deer crap (the PDFP is a large area and has many deer), I have found that you will find the most deer in the areas where most of the deer crap is (duh!). BTW: I usually see a few deer on my rides on this path. So since deer are out there and they are going to crap on the trail, I guess there isn’t much that can be done about that.</p>
+<p>Another thing that you will encounter on bike trails that also allow horses, is of course, horse crap. Horse back riders very rarely carry around plastic bags (or shovels) to clean up after their “pets” <img src="http://about-bicycles.com/bike-blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley">  and these piles are pretty unmistakable when you run across them. If you are riding on trails that also allow horses than these you are just going to have to watch out for these little obstacles.</p>
+<p>And the last variation of crap that I come across quite often is goose and bird crap. If&nbsp; you ride on trails by lakes or rivers where there are a lot of geese and/or ducks, this can create quite an obstacle course.</p>
+<p>Besides for the crap, geese can sometimes have quite and attitude also. I have ridden by or through packs of wild geese pretty often and have been honked and hissed at quite a bit. I haven’t actually been attacked (although I know that they will if you are close to a nest with eggs or goslings) but their attitudes and hissing can be&nbsp;pretty&nbsp;intimidating.</p>
+<p>OK, I think that’s about all the crap that I wanted to write about for now. <img src="http://about-bicycles.com/bike-blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"> </p>
+<p>Also, just to get back out of the gutter, I wanted to mention that I also saw a large beautiful hawk on my PDFP ride this afternoon. It’s always cool when you run across something like that.</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts in Bike Trails" rel="category">Bike Trails</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-222">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=222" rel="bookmark">New Bike Related Gift Items on Zazzle.</a></h2>
+			<div class="info">
+				<span class="date">September 23rd, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=222#comments" title="Comment on New Bike Related Gift Items on Zazzle.">1 comment</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>I have been wanting to add bike related <strong>gift items</strong>, like t-shirts, hats, coffee mugs, etc. to the about-bicycles site for quite a while now but have never had the time to make the arrangements.</p>
+<p>Since there are already plenty of these types of things available on the Internet, I thought that it would be nice if there were <strong>gift items related specifically to Chicago area bike trails</strong>, since this website has such a large selection of Chicago area bike trail pages, photos, videos, etc.</p>
+<p>Well, it hasn’t been the best riding weather, here in the Chicago area, so I did some searching and just found a quick and easy way to design and make these items available.</p>
+<p>Keep in mind that I am rarely on the leading edge of technology and by the time I discover something, it is probably already popular with most people. Anyway, I just discovered the <strong>Zazzle.com website,</strong> which allows you to design and sell (or buy) your own gift items.</p>
+<p>Well, I just designed my first t-shirt and have made it available for purchase on Zazzle. I decided to start simple, just to see how it works and&nbsp;selected the <strong>Fox River Bike Trail</strong> to start with, since it is such a popular trail in this area (and I could not find any FRT related items already available with&nbsp;my Google searches).</p>
+<p>It turns out that it is a little time consuming, especially if you want something that looks pretty nice, but I was able to get a t-shirt designed, with an existing FRT photo, in a relatively short amount of time.</p>
+<p>I think that this might have some potential to provide Chicago area bike trail related gift items to people that might want them (<em>if there are people out there looking. Who knows?</em>). The items get a little expensive because Zazzle sets the base price, which is kind of high, and then I add a very small percentage (royalty they call it) for putting the design together.&nbsp;&nbsp;This provides a nice way to see if there is any demand for this kind of thing and if there is, I could see about producing the items on my own and for a (hopefully) much lower cost.</p>
+<p>I hope to be adding quite a few more gift items out there, with different bike trails as the primary theme soon and I’ll probably post updates here when I do.</p>
+<p>So just for starters, I have added the new FRT t-shirt to the following pages if you would like to see what this is all about:</p>
+<p><a href="http://www.about-bicycles.com/fox-river-bike-trail-north.htm" target="_blank">The Fox River Trail North</a>, <a href="http://www.about-bicycles.com/fox-river-bike-trail-south.htm" target="_blank">The Fox River Trail South </a>(see the bottom of each page for the new t-shirt)</p>
+<p>The Zazzle site can also be handy for just creating your own, very customized items, as you choose.</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=20" title="View all posts in Bike Gifts Items" rel="category">Bike Gifts Items</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-220">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=220" rel="bookmark">Des Plaines River Trail Video is Up.</a></h2>
+			<div class="info">
+				<span class="date">September 11th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=220#respond" title="Comment on Des Plaines River Trail Video is Up.">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>I just completed editing and uploading the <strong>Des Plaines River Trail video</strong>!</p>
+<p>I took this video last week when I rode the trail from Half Day (Route 22) to the northern end of the trail (mile 0) at Van Patten Woods just before the Wisconsin border. My trip was 58 miles (with a few extra short trips).</p>
+<p>The DPR Trail was clear the whole way and there were no detours or flooding, which does happen on this trail occasionally. All of the underpasses were open.</p>
+<p>I really like this trail but unfortunately I ended up with 45 minutes of original video! I edited the video down to 18.5 minutes but it is still my longest bike trail video and I like to try and keep them shorter than that. I considered breaking&nbsp;this up into 2 videos but decided to keep it as one for now.</p>
+<p>I still haven’t had a chance to contact the indie musicians for new music so I am still recycling my original instrumental music for this video (for now anyway).</p>
+<p>I think that this video came out pretty good but, as I mentioned, it is pretty long. There are a lot of major scenes on this 27 mile trip and I just didn’t want to chop it down too much.</p>
+<p>I think that a lot of people do not ride this trail because it is crushed stone and not paved. I have ridden this trail many times with the skinny tires of my road bike and do not find that to be much of a problem but there are places where you need to slow down, of course.</p>
+<p>OK, enough yakin. Here’s a link to the new <a href="http://www.about-bicycles.com/des-plaines-river-trail-north-video.htm" target="_blank">Des Plaines River Trail Video</a>!</p>
+<p>You’ll need some time to watch this one (if you plan to watch the whole thing) and it may take a few seconds to load, but I hope you like it.</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=18" title="View all posts in Bike Trail Conditions" rel="category">Bike Trail Conditions</a>, <a href="http://about-bicycles.com/bike-blog/?cat=17" title="View all posts in Bike Trail Videos" rel="category">Bike Trail Videos</a>, <a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts in Bike Trails" rel="category">Bike Trails</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-217">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=217" rel="bookmark">Exercise Bikes, Stationary Bikes and Bike Trainers</a></h2>
+			<div class="info">
+				<span class="date">September 6th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=217#respond" title="Comment on Exercise Bikes, Stationary Bikes and Bike Trainers">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>I know that I am a little early for this category (there is still plenty of bike riding season left (even here in the Chicago area!)) but I have been wanting to add an <strong>Exercise Bike</strong> or <strong>Stationary Bike</strong> section to the site for quite a while now and I have just completed these pages.</p>
+<p>The main pages are <a href="http://www.about-bicycles.com/exercise-bike.html" target="_blank">Exercise Bikes </a>and <a href="http://www.about-bicycles.com/bike-trainers.html" target="_blank">Bike Trainers</a>.</p>
+<p>This was actually quite a bit of work for the number of web pages that I put up because I went out to a number of different places and actually tried out a large number of exercise bikes, in addition to spending some time researching them online.</p>
+<p>I also have a friend that is quite an expert in exercise equipment (he has been in the industry for many years) and I have consulted with him and used many of his suggestions.</p>
+<p>I will probably be adding more individual exercise bike pages as time goes on, but at least now there is a category for these items on the website.</p>
+<p>On a side note, this has held me up as far as the editing of the Des Plaines River Trail video goes. That will be my next project on the bike site, but I can’t say when I will get it posted.</p>
+<p>I still want to get out and ride while the weather is still good!</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=6" title="View all posts in Cycling" rel="category">Cycling</a>, <a href="http://about-bicycles.com/bike-blog/?cat=10" title="View all posts in Equipment" rel="category">Equipment</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-210">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=210" rel="bookmark">Chicago Lakefront Path Video is Complete</a></h2>
+			<div class="info">
+				<span class="date">August 28th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=210#respond" title="Comment on Chicago Lakefront Path Video is Complete">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>As I mentioned in the article below, I took video of the <strong>Chicago Lakefront Path</strong> when I rode the trail earlier this week and I just completed editing and uploading the video!</p>
+<p>I think the video came out pretty well but for some reason I did not have nearly as much video of this trail as I usually do and the final edited version is only 7 1/2 minutes. Well, that’s OK since most people don’t watch the other bike trail videos all the way through anyway.</p>
+<p>I think that this one gets to the good stuff right away… <strong>and there is a lot of good stuff on this trail</strong>. I think that the scenes from the Shedd Aquarium area may be the best part although there&nbsp;are plenty of other good lakefront and Chicago scenes too.</p>
+<p>Since I did the photos going south on the trail, I did the video on the way back so it is primarily south to north (with a few scenes that look back&nbsp;the other way). In retrospect, I wish that I had taken a little more time and video taped a little more but I did want to enjoy the ride some too <img src="http://about-bicycles.com/bike-blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"> </p>
+<p>I think that I’ve mentioned that I am planning to try to get permission to use some indie musicians recordings for these bike trail videos in the future but I have not had the time to search and select the material yet so I am still stuck with the same old music (my own) that I’ve been doing on all of the videos so far. Hang in there though, I am hoping to do an upgrade on the music asap.</p>
+<p>Well, enough yakin about the video, here is it. I hope you all like it.</p>
+<p style="text-align: center;"><a href="http://www.about-bicycles.com/chicago-lakefront-trail-video.htm" target="_blank">The Chicago Lakefront Path Video!</a></p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=17" title="View all posts in Bike Trail Videos" rel="category">Bike Trail Videos</a>, <a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts in Bike Trails" rel="category">Bike Trails</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-203">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=203" rel="bookmark">Chicago Lakefront Path Ride and New Photo Pages</a></h2>
+			<div class="info">
+				<span class="date">August 26th, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=203#respond" title="Comment on Chicago Lakefront Path Ride and New Photo Pages">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>I have been wanting to get out to the <strong>Chicago Lakefront Trail </strong>for years now and finally made it into the city to ride the entire trail. I was not at all disappointed. This trail is really pretty breath taking (literally when you do the entire trail, as I did <img src="http://about-bicycles.com/bike-blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley">  ). I truly believe that this is one of the best&nbsp;things that the city of Chicago has to offer.</p>
+<p>I also wanted to be sure that I got plenty of photos and now video of the trail so I brought my camera and camcorder and have plenty of new photos and video for the site now. I just completed the trail and photo pages but have not yet completed the video. I will post a seperate&nbsp;blog entry&nbsp;when I complete the video.</p>
+<p>In the past I have found it too difficult to try to take photos and video on the same trip but since I wanted to get both, and probably will not make it into the city again to ride this trail again this summer, I decided to do both. I took the photos from north to south and took the video on my return trip from south to north. It was a lot of work but worked out much better than trying to switch back and forth between the camera and camcorder.</p>
+<p>I also wanted to get a panoramic photo of the city and managed to get a few of these also. Here is one of the photos that I took of the Lakefront Trail from the Shedd Aquarium:</p>
+<div id="attachment_204" class="wp-caption aligncenter" style="width: 510px"><img class="size-full wp-image-204" title="LakefrontStitch2-500w" src="http://about-bicycles.com/bike-blog/wp-content/uploads/2009/08/LakefrontStitch2-500w.jpg" alt="Chicago Lakefront Path and Skyline" width="500" height="86"><p class="wp-caption-text">Chicago Lakefront Path and Skyline</p></div>
+<p>This is actually multiple photos that I “stitched” together with one of my photo software packages. This is on the main page (that I just completed) for this trail which is: <a href="http://www.about-bicycles.com/chicago-lakefront-trail.htm" target="_blank">The Chicago Lakefront Trail</a>.</p>
+<p>OK, there are really quite a few photos out there now (at the link above) if you are interested in this trail and I would definitely recommend riding this trail if you get a chance. I am also including a little background on the ride that I didn’t include in the regular trail pages here in the blog.</p>
+<p>Since I am currently out of work (or actually out of an income (I have plenty of “work”)), I was able to choose a weekday (a Monday) for the ride and made sure to pick a fairly warm day since anyone who live in Chicago knows, it is always cooler by the lake (in the summer anyway). I knew that this trail had potential for large crowds of people and I wanted to avoid that as much as possible. It is already hard enough to take photos and video while riding let alone trying to deal with massive crowds.</p>
+<p>Another advantage of doing this trail on a workday was that I was able to park for free. I drove in on Montrose and was able to find plenty of parking (at about 10:00am) right by the Montrose Harbor. This was not the case later in the afternoon when I returned.</p>
+<p>The Laketront Trail is 18 miles&nbsp;one way and I was not in a big hurry since I had plenty of daylight to ride the 36 miles total (it was actually a little longer with a few side trips).</p>
+<p>Personally, my favorite parts of the trail were the northern part of the trail around Lincoln Park, the central section where you go by the downtown area and the popular city beaches and the section by the Shedd aquarium. I was not real impressed with the southern end of the trail but there is one advantage to that part of the trail and that is that it does not seem be nearly as crowded as the other parts of the trail.</p>
+<p>The Chicago Lakefront Bike Trail is really pretty incredible and I’m sure you can find some favorite sections of the trail on your own but I hope that the pages that I’ve posted, the video that I will be uploading soon and this blog entry&nbsp;will&nbsp;be helpful if and/or when you ride this trail.</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts in Bike Trails" rel="category">Bike Trails</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-201">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=201" rel="bookmark">McHenry County Prairie Trail Video is Complete</a></h2>
+			<div class="info">
+				<span class="date">August 23rd, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=201#respond" title="Comment on McHenry County Prairie Trail Video is Complete">No comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>Sorry for the delay in updates. I was in Colorado earlier this month (don’t get me started on the “mountain bike riders” out there!) and have just gotten caught up on the videos that I have taken so far this summer.</p>
+<p>If you have read some of the previous posts then you know that I rode and video taped the <strong>Fox River and McHenry County Prairie Trails</strong> from Dundee to Genoa City Wisconsin in July. I completed the 2 Fox River Trail videos (Northern and Southern regions) earlier this month and have just now finished the Prairie Trail video.</p>
+<p>I’m not sure of the exact mileage. I rode 32 miles from Dundee to Genoa City but I don’t know how many miles it is from Dundee to the start of the Prairie Trail. The Prairie Trail section is probably a little under 30 miles one way.</p>
+<p>Well with the 2 FRT videos and now this (Prairie Trail) video complete, you can take a virtual bike ride from Oswego, Illinois to Genoa City Wisconsin!</p>
+<p>OK, now that you have the background info, here’s the link to the video!</p>
+<p style="text-align: center;"><a href="http://www.about-bicycles.com/prairie-trail-mchenry-video.htm" target="_blank">The McHenry County Prairie Trail Video</a></p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=17" title="View all posts in Bike Trail Videos" rel="category">Bike Trail Videos</a>, <a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts in Bike Trails" rel="category">Bike Trails</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+			<div class="post" id="post-196">
+			<h2><a class="title" href="http://about-bicycles.com/bike-blog/?p=196" rel="bookmark">Fox River Trail Videos are Done.</a></h2>
+			<div class="info">
+				<span class="date">August 3rd, 2009</span>
+				<div class="act">
+					<span class="comments"><a href="http://about-bicycles.com/bike-blog/?p=196#comments" title="Comment on Fox River Trail Videos are Done.">2 comments</a></span>
+										<div class="fixed"></div>
+				</div>
+				<div class="fixed"></div>
+			</div>
+			<div class="content">
+				<p>I just completed the <strong>Fox River Trail videos</strong> yesterday and have uploaded them to the About-Bicycles website and video pages.</p>
+<p>Anyone who has been on this trail knows how long the trail is, which is why I have split the Fox River Trail (FRT) video into 2 sections. The entire video goes from south to north and the <strong>southern region </strong>video has from Oswego to just before the long bridges in South Elgin (approx 20 miles) and the <strong>northern region </strong>video has from South Elgin to Algonquin (approx 17 miles).</p>
+<p>I have also camcorded from Algonquin to Genoa City Wisconsin on the McHenry County Prairie Trail but I have not edited and uploaded this video yet. Once I finish this one I will have video from Oswego to Wisconsin (I would estimate this&nbsp;to be&nbsp;about 70 miles 1 way)!</p>
+<p>These videos are from 2 separate bike trips in close to the same time frame (both in July, 2009). I rode the northern section first (from Dundee to Genoa City Wisconsin and back (64 miles)) and the southern section (from Dundee to Oswego and back (70 miles))a week or so later. I recorded the southern section on the way back so all of the videos are from south to north. I took a few short side trips on the southern section trip so the 70 miles is a little higher than what it would be otherwise.</p>
+<p>There is a break in the trail in Aurora and I went through downtown Aurora on Broadway (route 25) on the sidewalks. There may be other ways around this (like the Virgil Gilman trail) but I am not that familiar with this area so I just took the shortest distance through the gap.</p>
+<p>There was some construction and detours on the trail, which I’ve reported in the “Trail Conditions” section of this blog but I have mostly cut out a lot of that info for the videos because that is constantly changing and I wanted the video to be what the trail is like without the detours (wherever it was possible to do that).</p>
+<p>To be honest, the videos do not come out as nice as I would like, but since I have not found a good collection of bike trail videos (for the Chicagoland area) I wanted to get the videos completed and up on the site so people would have the option to see the trails , in a video, to check them out before riding them (or maybe even to reminisce on past trips).</p>
+<p>I like to try and keep the action going and record while riding in most cases, but the <strong>video </strong>does get shakey especially when you are on rough parts of the trails. Perhaps a helmet cam or a camcorder with image stabilization would help, but I can not afford the upgrade at the moment and I didn’t want that to stop me from creating the videos.</p>
+<p>I also have to keep using the same instrumental <strong>music</strong> (original songs of my own) that I have because I want to keep the videos completely legal and this gives me the option to have a music background without paying royalties or a one time usage fee. So the music may not be the greatest (I didn’t have the best recording equipment when I recorded it and it was not meant to be instrumental only), but <strong>it is quite unique!</strong> &nbsp;</p>
+<p>OK, now that you have ALL of the background scoop on the videos, here are the links to the videos!</p>
+<p style="text-align: center;"><a href="http://www.about-bicycles.com/fox-river-trail-south-video.htm" target="_blank">The Fox River Trail – Southern Region</a></p>
+<p style="text-align: center;"><a href="http://www.about-bicycles.com/fox-river-trail-north-video.htm" target="_blank">The Fox River Trail – Northern Region</a></p>
+<p>I hope you like the videos!</p>
+				<p class="under">
+					<span class="author"><a href="http://about-bicycles.com/bike-blog/?author=1" title="Posts by Rob">Rob</a></span>					<span class="categories"><a href="http://about-bicycles.com/bike-blog/?cat=17" title="View all posts in Bike Trail Videos" rel="category">Bike Trail Videos</a>, <a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts in Bike Trails" rel="category">Bike Trails</a></span>					<span class="tags"></span>				</p>
+				<div class="fixed"></div>
+			</div>
+		</div>
+	
+
+<div id="pagenavi">
+			<span class="newer"><a href="http://about-bicycles.com/bike-blog/?paged=3">Newer Entries</a></span>
+		<span class="older"><a href="http://about-bicycles.com/bike-blog/?paged=5">Older Entries</a></span>
+		<div class="fixed"></div>
+</div>
+
+	</div>
+	<!-- main END -->
+
+	
+<!-- sidebar START -->
+<div id="sidebar">
+
+<!-- sidebar north START -->
+<div id="northsidebar" class="sidebar">
+
+	<!-- feeds -->
+	<div class="widget widget_feeds">
+		<div class="content">
+			<div id="subscribe">
+				<a id="feedrss" title="Subscribe to this blog..." href="http://about-bicycles.com/bike-blog/?feed=rss2"><abbr title="Really Simple Syndication">RSS</abbr> feed</a>
+				<ul id="feed_readers">
+					<li id="google_reader"><a class="reader" title="Subscribe with Google" href="http://fusion.google.com/add?feedurl=http://about-bicycles.com/bike-blog/?feed=rss2"><span>Google</span></a></li>
+					<li id="youdao_reader"><a class="reader" title="Subscribe with Youdao" href="http://reader.youdao.com/#url=http://about-bicycles.com/bike-blog/?feed=rss2"><span>Youdao</span></a></li>
+					<li id="xianguo_reader"><a class="reader" title="Subscribe with Xian Guo" href="http://www.xianguo.com/subscribe.php?url=http://about-bicycles.com/bike-blog/?feed=rss2"><span>Xian Guo</span></a></li>
+					<li id="zhuaxia_reader"><a class="reader" title="Subscribe with Zhua Xia" href="http://www.zhuaxia.com/add_channel.php?url=http://about-bicycles.com/bike-blog/?feed=rss2"><span>Zhua Xia</span></a></li>
+					<li id="yahoo_reader"><a class="reader" title="Subscribe with My Yahoo!" href="http://add.my.yahoo.com/rss?url=http://about-bicycles.com/bike-blog/?feed=rss2"><span>My Yahoo!</span></a></li>
+					<li id="newsgator_reader"><a class="reader" title="Subscribe with newsgator" href="http://www.newsgator.com/ngs/subscriber/subfext.aspx?url=http://about-bicycles.com/bike-blog/?feed=rss2"><span>newsgator</span></a></li>
+					<li id="bloglines_reader"><a class="reader" title="Subscribe with Bloglines" href="http://www.bloglines.com/sub/http://about-bicycles.com/bike-blog/?feed=rss2"><span>Bloglines</span></a></li>
+					<li id="inezha_reader"><a class="reader" title="Subscribe with iNezha" href="http://inezha.com/add?url=http://about-bicycles.com/bike-blog/?feed=rss2"><span>iNezha</span></a></li>
+				</ul>
+			</div>
+						<div class="fixed"></div>
+		</div>
+	</div>
+
+	<!-- showcase -->
+			<div class="widget">
+							<h3>Main Site</h3>
+						<div class="content">
+				<a href="http://www.About-Bicycles.com">www.About-Bicycles.com</a> <br>
+<a href="http://www.About-Bicycles.com/bike-trails.htm">Bike Trails</a> <br>
+<a href="http://www.about-bicycles.com/bikes-online.html">Bike Reviews</a> <br>
+<a href="http://www.about-bicycles.com/exercise-bike.html">Exercise Bikes</a> <br>
+<a href="http://www.about-bicycles.com/bike-accessories.htm">Bike Accessories</a>			</div>
+		</div>
+	
+
+	<!-- posts -->
+	
+	<div class="widget">
+		<h3>Random Posts</h3>
+		<ul>
+			<li><a href="http://about-bicycles.com/bike-blog/?p=153">Bike Ride Info: Use Local Weather Radar</a></li><li><a href="http://about-bicycles.com/bike-blog/?p=98">Poplar Creek Bike Trail</a></li><li><a href="http://about-bicycles.com/bike-blog/?p=127">Algonquin Road / Paul Douglas Bike Trail Conditions – 2009</a></li><li><a href="http://about-bicycles.com/bike-blog/?p=325">2009, 2010 Hybrid Bikes on Sale</a></li><li><a href="http://about-bicycles.com/bike-blog/?p=76">New Power Grips Pedal Straps</a></li>		</ul>
+	</div>
+
+	<!-- recent comments -->
+	
+	<!-- tag cloud -->
+			<div id="tag_cloud" class="widget">
+			<h3>Tag Cloud</h3>
+			<a href="http://about-bicycles.com/bike-blog/?tag=bike-accessories" class="tag-link-9" title="2 topics" style="font-size: 12.8pt;">Bike Accessories</a>
+<a href="http://about-bicycles.com/bike-blog/?tag=bike-clothing" class="tag-link-16" title="1 topic" style="font-size: 8pt;">bike clothing</a>
+<a href="http://about-bicycles.com/bike-blog/?tag=bike-equipment" class="tag-link-15" title="2 topics" style="font-size: 12.8pt;">bike equipment</a>
+<a href="http://about-bicycles.com/bike-blog/?tag=bikes" class="tag-link-12" title="1 topic" style="font-size: 8pt;">bikes</a>
+<a href="http://about-bicycles.com/bike-blog/?tag=bike-trails-chicago-area" class="tag-link-7" title="3 topics" style="font-size: 16pt;">bike trails chicago area</a>
+<a href="http://about-bicycles.com/bike-blog/?tag=bike-types" class="tag-link-13" title="1 topic" style="font-size: 8pt;">bike types</a>
+<a href="http://about-bicycles.com/bike-blog/?tag=website-updates" class="tag-link-14" title="1 topic" style="font-size: 8pt;">website updates</a>		</div>
+	
+</div>
+<!-- sidebar north END -->
+
+<div id="centersidebar">
+
+	<!-- sidebar east START -->
+	<div id="eastsidebar" class="sidebar">
+	
+		<!-- categories -->
+		<div class="widget widget_categories">
+			<h3>Categories</h3>
+			<ul>
+					<li class="cat-item cat-item-29"><a href="http://about-bicycles.com/bike-blog/?cat=29" title="View all posts filed under Bicycle Sales">Bicycle Sales</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://about-bicycles.com/bike-blog/?cat=9" title="View all posts filed under Bike Accessories">Bike Accessories</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://about-bicycles.com/bike-blog/?cat=26" title="View all posts filed under Bike Blog Admin">Bike Blog Admin</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://about-bicycles.com/bike-blog/?cat=20" title="View all posts filed under Bike Gifts Items">Bike Gifts Items</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://about-bicycles.com/bike-blog/?cat=25" title="View all posts filed under Bike Ride Stories">Bike Ride Stories</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://about-bicycles.com/bike-blog/?cat=19" title="View all posts filed under Bike Riding Tips">Bike Riding Tips</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://about-bicycles.com/bike-blog/?cat=18" title="View all posts filed under Bike Trail Conditions">Bike Trail Conditions</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://about-bicycles.com/bike-blog/?cat=30" title="View all posts filed under Bike Trail Photos">Bike Trail Photos</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://about-bicycles.com/bike-blog/?cat=17" title="View all posts filed under Bike Trail Videos">Bike Trail Videos</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://about-bicycles.com/bike-blog/?cat=8" title="View all posts filed under Bike Trails">Bike Trails</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://about-bicycles.com/bike-blog/?cat=6" title="View all posts filed under Cycling">Cycling</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://about-bicycles.com/bike-blog/?cat=10" title="View all posts filed under Equipment">Equipment</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://about-bicycles.com/bike-blog/?cat=27" title="View all posts filed under Exercise Bikes">Exercise Bikes</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://about-bicycles.com/bike-blog/?cat=28" title="View all posts filed under Fitness Equipment">Fitness Equipment</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://about-bicycles.com/bike-blog/?cat=11" title="View all posts filed under Supplies">Supplies</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://about-bicycles.com/bike-blog/?cat=1" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+			</ul>
+		</div>
+
+		</div>
+	<!-- sidebar east END -->
+
+	<!-- sidebar west START -->
+	<div id="westsidebar" class="sidebar">
+	
+		<!-- archives -->
+		<div class="widget widget_archive">
+			<h3>Archives</h3>
+			<ul>
+					<li><a href="http://about-bicycles.com/bike-blog/?m=201008" title="August 2010">August 2010</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=201007" title="July 2010">July 2010</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=201006" title="June 2010">June 2010</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=201005" title="May 2010">May 2010</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=201004" title="April 2010">April 2010</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=201003" title="March 2010">March 2010</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200910" title="October 2009">October 2009</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200909" title="September 2009">September 2009</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200908" title="August 2009">August 2009</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200907" title="July 2009">July 2009</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200906" title="June 2009">June 2009</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200905" title="May 2009">May 2009</a></li>
+	<li><a href="http://about-bicycles.com/bike-blog/?m=200904" title="April 2009">April 2009</a></li>
+			</ul>
+		</div>
+
+		</div>
+	<!-- sidebar west END -->
+	<div class="fixed"></div>
+</div>
+
+<!-- sidebar south START -->
+<div id="southsidebar" class="sidebar">
+
+	<!-- meta -->
+	<div class="widget">
+		<h3>Meta</h3>
+		<ul>
+			<li><a href="http://about-bicycles.com/bike-blog/wp-login.php?action=register">Register</a></li>			<li><a href="http://about-bicycles.com/bike-blog/wp-login.php">Log in</a></li>
+		</ul>
+	</div>
+
+</div>
+<!-- sidebar south END -->
+
+</div>
+<!-- sidebar END -->
+	<div class="fixed"></div>
+</div>
+<!-- content END -->
+
+<!-- footer START -->
+<div id="footer">
+	<a id="gotop" href="#" onclick="MGJS.goTop();return false;">Top</a>
+	<a id="powered" href="http://wordpress.org/">WordPress</a>
+	<div id="copyright">
+		Copyright © 2009-2010 About-Bicycles Bike Blog	</div>
+	<div id="themeinfo">
+		Theme by <a href="http://www.neoease.com/">mg12</a>. Valid <a href="http://validator.w3.org/check?uri=referer">XHTML 1.1</a> and <a href="http://jigsaw.w3.org/css-validator/">CSS 3</a>.	</div>
+</div>
+<!-- footer END -->
+
+</div>
+<!-- container END -->
+</div>
+<!-- wrap END -->
+
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201037.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'7434336',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(7434336,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
+
+
+</body></html>

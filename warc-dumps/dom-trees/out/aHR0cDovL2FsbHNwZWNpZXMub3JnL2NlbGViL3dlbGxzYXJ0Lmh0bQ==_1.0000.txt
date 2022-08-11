@@ -1,0 +1,393 @@
+<html><head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Ecosensible and Education</title>
+		<meta name="copyright" content="1998, 1999, 2000 Marty Kraft">
+		<meta name="author" content="Chris Wells">
+		<meta name="description" content="How can Education do its part to salvage human relationship to the Earth? Theories, Notions and Anecdotes from 18 years of All Species Projects ">
+		<meta name="keywords" content="neighborhoods, community, Heartland All Species Project, education, ecology, environmental, composting, recycling, sustainability, Kansas City, urban, landscaping, green teacher">
+		</head><body bgcolor="#ffffce" text="#840000" link="#840000" vlink="#313100" onload="CSScriptInit();"><csactions>
+			<csaction name="B4AD85492" class="Netscape CSS Fix" type="onload"></csaction>
+			<csaction name="BA9BEFCF1" class="Go Last Page" type="onevent"></csaction>
+		</csactions>
+		<link href="../asp.css" rel="stylesheet" media="screen">
+		<csactionitem name="B4AD85492"></csactionitem>
+		<csscriptdict>
+			<script><!--
+CSInit = new Array;
+function CSScriptInit() {
+if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);}
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+CSIsW3CDOM = ((document.getElementById) && !(IsIE()&&CSBVers<6)) ? true : false;
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { if (CSIsW3CDOM) return document.getElementById(s).style; else return CSFindElement(s,0);  }
+CSIImg=false;
+function CSInitImgID() {if (!CSIImg && document.images) { for (var i=0; i<document.images.length; i++) { if (!document.images[i].id) document.images[i].id=document.images[i].name; } CSIImg = true;}}
+function CSFindElement(n,ly) { if (CSBVers<4) return document[n];
+	if (CSIsW3CDOM) {CSInitImgID();return(document.getElementById(n));}
+	var curDoc = ly?ly.document:document; var elem = curDoc[n];
+	if (!elem) {for (var i=0;i<curDoc.layers.length;i++) {elem=CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+function CSGetImage(n) {if(document.images) {return ((!IsIE()&&CSBVers<5)?CSFindElement(n,0):document.images[n]);} else {return null;}}
+CSDInit=false;
+function CSIDOM() { if (CSDInit)return; CSDInit=true; if(document.getElementsByTagName) {var n = document.getElementsByTagName('DIV'); for (var i=0;i<n.length;i++) {CSICSS2Prop(n[i].id);}}}
+function CSICSS2Prop(id) { var n = document.getElementsByTagName('STYLE');for (var i=0;i<n.length;i++) { var cn = n[i].childNodes; for (var j=0;j<cn.length;j++) { CSSetCSS2Props(CSFetchStyle(cn[j].data, id),id); }}}
+function CSFetchStyle(sc, id) {
+	var s=sc; while(s.indexOf("#")!=-1) { s=s.substring(s.indexOf("#")+1,sc.length); if (s.substring(0,s.indexOf("{")).toUpperCase().indexOf(id.toUpperCase())!=-1) return(s.substring(s.indexOf("{")+1,s.indexOf("}")));}
+	return "";
+}
+function CSGetStyleAttrValue (si, id) {
+	var s=si.toUpperCase();
+	var myID=id.toUpperCase()+":";
+	var id1=s.indexOf(myID);
+	if (id1==-1) return "";
+	s=s.substring(id1+myID.length+1,si.length);
+	var id2=s.indexOf(";");
+	return ((id2==-1)?s:s.substring(0,id2));
+}
+function CSSetCSS2Props(si, id) {
+	var el=document.getElementById(id);
+	if (el==null) return;
+	var style=document.getElementById(id).style;
+	if (style) {
+		if (style.left=="") style.left=CSGetStyleAttrValue(si,"left");
+		if (style.top=="") style.top=CSGetStyleAttrValue(si,"top");
+		if (style.width=="") style.width=CSGetStyleAttrValue(si,"width");
+		if (style.height=="") style.height=CSGetStyleAttrValue(si,"height");
+		if (style.visibility=="") style.visibility=CSGetStyleAttrValue(si,"visibility");
+		if (style.zIndex=="") style.zIndex=CSGetStyleAttrValue(si,"z-index");
+	}
+}
+function CSButtonReturn () { return !CSClickReturn(); }
+CSIm=new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img=CSGetImage(n);
+			if (img&&typeof(CSIm[n][i].src)!="undefined") {img.src=CSIm[n][i].src;}
+			if(i!=0) self.status=CSIm[n][3]; else self.status=" ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im=action[1];
+	if (document.images) {
+		CSIm[im]=new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i]!='') {CSIm[im][i-2]=new Image(); CSIm[im][i-2].src=action[i];}
+			else CSIm[im][i-2]=0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution=false;
+function CSAction(array) {return CSAction2(CSAct, array);}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var aa = fct[array[i]];
+		if (aa == null) return false;
+		var ta = new Array;
+		for(var j=1;j<aa.length;j++) {
+			if((aa[j]!=null)&&(typeof(aa[j])=="object")&&(aa[j].length==2)){
+				if(aa[j][0]=="VAR"){ta[j]=CSStateArray[aa[j][1]];}
+				else{if(aa[j][0]=="ACT"){ta[j]=CSAction(new Array(new String(aa[j][1])));}
+				else ta[j]=aa[j];}
+			} else ta[j]=aa[j];
+		}			
+		result=aa[0](ta);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSFixFct() {
+	var d = document; var w = window;
+	if (d.cs.csFix.w != w.innerWidth || d.cs.csFix.h != w.innerHeight) {
+		d.location = d.location; }
+}
+function CSNSFix(action) { 
+	var d = document; var w = window;
+	if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+		if (typeof d.cs == 'undefined') { 
+			d.cs = new Object;
+			d.cs.csFix = new Object; 
+		} else if (CSIsFrame (w) == true) CSFixFct();
+		d.cs.csFix.w = w.innerWidth;
+		d.cs.csFix.h = w.innerHeight; 
+		window.onresize = CSFixFct;
+	  }
+}
+function CSIsFrame (window) {
+	var rootWindow = window.parent;
+	if (rootWindow == 'undefined') return false;
+	for (i = 0; i < rootWindow.frames.length; i++)
+		if (window == rootWindow.frames[i]) return true;
+	return false;
+}
+function CSGoBack1() { history.back() }
+
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'../images/asplogo1.gif',/*URL*/'../images/asplogo2.gif',/*URL*/'../images/asplogo1.gif','');
+CSInit[CSInit.length] = new Array(CSNSFix);
+CSAct[/*CMP*/ 'BA9BEFCF1'] = new Array(CSGoBack1);
+
+// --></script>
+		</csactiondict>
+		<csimport user="../../allspecies.data/Components/aspfooter.htm" occur="83">
+			<link href="../asp.css" rel="stylesheet" media="screen">
+		</csimport>
+		<csimport user="../../allspecies.data/Components/copyrightc.html" occur="93">
+			<link href="../asp.css" rel="stylesheet" media="screen">
+		</csimport>
+	
+
+	
+		<p><a name="topwellsart"></a></p>
+		<table border="0" cellpadding="0" cellspacing="2" width="100%" align="center">
+			<tbody><tr>
+				<td align="center"></td>
+				<td width="108" align="center"><csobj w="108" h="97" t="Button" ht="../images/asplogo2.gif" cl="../images/asplogo1.gif"><a href="../index.html" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="CSIShow(/*CMP*/'button',2);return CSButtonReturn()"><img src="../images/asplogo1.gif" width="108" height="97" name="button" border="0" alt="Heartland All Species Home Page"></a></csobj></td>
+				<td width="3%"></td>
+				<td width="75%" align="center">
+					<p>“Ecosensible” and Education<br>
+						How can Education do its part to salvage<br>
+						human relationship to the Earth?<br>
+						Theories, Notions and Anecdotes<br>
+						from 18 years of All Species Projects</p>
+					<center>
+						<p>by Chris Wells, ASP "Torch Bearer" © 1999<br>
+							<br>
+						</p>
+					</center>
+				</td>
+				<td width="3%"></td>
+			</tr>
+			<tr>
+				<td align="center"></td>
+				<td valign="top" width="108" align="center">
+					<table width="103" border="0" cellspacing="2" cellpadding="0">
+						<tbody><tr>
+							<td><a href="../aspint/aspint.htm">More Chris Wells articles.</a></td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td width="3%"></td>
+				<td width="75%" align="left">
+					<div align="left">
+						<p>"Imagine a pebble with an ancient symbol belonging to many early cultures painted on it. In the Hopi culture it's called the Techua Icaatsi symbol meaning "Land and Life in Balance", and imagine if you will that you throw the pebble with this ancient intention into the ocean of Life as it is today. What rings ripple forth from the intention of maintaining a fine equilibrium between human life and the animals, plants and elements of earth? Clearly the urge to REPLENISH depleted ecosystems rings out. Next a ring of REDESIGNING human use of the technologies within the earth's various habitats stands out. And there the ripple of REMEMBER stands tall on the surface of the water. Re-member our larger body the Earth and that we are a part of nature. In the next rippling rings the skills and disciplines which have made possible the fulfillment of these good intentions come forth. Lastly a ring for the actual people who are carrying these skills, people who can be brought together to accomplish a curricula for 'ecosensible' education and revitalization of community.</p>
+						<p><font face="Comic Sans MS,Geneva"></font></p>
+						<hr>
+					</div>
+					<p><b>Facts Indelible </b></p>
+					<p>We live in exhilarating, accelerating and exhausting times. As a millennium approaches and climate imbalances are pending, technology surrounds us, and change is taking place so fast that school children often know more about the subtleties of today’s tools and technologies than their parents do. Yet these same students also generally know less about the immediate <a name="cwtext1"></a><a href="#footnote1">bioregion (1)</a> surrounding them than any previous generation in human evolution.</p>
+					<p>Everyone in the reach of the electronic media-world, which is almost everyone now, is aware of the depressing mega-problems; destruction of the rainforests, the worldwide tragedy of endangered species, water pollution and scarcity, global warming and the very real Hole in the Sky. They may even live in neighborhoods that have recycling programs, and yet have no clue as to how to grow an effective basic foods garden, or where their water or heat comes from, nor what local herbs and wild foods people can eat or use for health benefits. Seldom do the "moderns" have a story, a song or a dance to connect them culturally to their bioregional landscape.</p>
+					<p><br>
+						<b>Continuing along this theme</b></p>
+					<p>Only a very small minority know how to unobtrusively observe animal behavior, or can even appreciate the many-layered value of that kind of exercise. There is little familiarity, except by eating, with the animals and plants upon which our lives depend, and the youth in the modern context know only that these can be bought in the store. So, after over a 100 million years of human evolution we have reached a stage of civilization where we have almost no practical cultural arts or nature observation practices in daily use to connect us or put us in "conversation" with the earth, water, fire and air which rule our lives. Even the notion, that skills to put us in "direct conversation" with the earth could be important in these times, sounds strange when heard through modern ears.</p>
+					<p>This lack of what is basically rural knowledge, skills that most of our ancestors thrived with on a daily basis, could have tremendous effects in the face of modern disaster. Many citizens in our modern society, who do not have basic "ecosensible" skills, would fare poorly to say the least if utility systems went down, for example if the millennium computer bug, the Y2K, hits with complex impact. However the problem is more so, that within the industrial cash and consumer mind set, under the gods whose guise is mostly production and efficiency, land has become mostly a commodity and we have lost the capacity to cultivate the practical strength and cleverness of the "Landsman’s Soul". It's now obvious to me from our nearly two decades of experience with All Species Project that this missing landsman’s orientation is one of the main reasons that moderns are experiencing growing and very real alienation, usually without being able to understand why, and further, this lack of nature education is why the solutions arrived at by many modern institutions are leaving out so many important variables that the decisions they make often cause more problems than they cure.</p>
+					<p>This is not an atavistic attempt to get education to abandon the thrust of the modern world, only to say that to over-invest in the future of "desk" and business skills as a trade-off for practical manual landsman skills is costing us not only our economic and ecosystem security, but our daily reenergizing connection to the earth, which brought us forth. We are not presenting this to romanticize about bygone days. There are certainly uncountable contributions within the sciences, technologies and world views of our times which contribute to making life livable and lend ecological improvement, but to throw out altogether the skills of 99% of human evolution for those of the past several hundred years is dubious at best.</p>
+					<p><br>
+						<b>The Return of the Landsman’s Soul </b></p>
+					<p>On the other hand, someone must ask the obvious contrary question. How and why is the Landsman’s' Soul returning ? Culture returns and renews by vision, plagiarism, and bitter experience. It is evident in many ways that the spirit of the landsman remains strong in modern humans and merely needs honoring and educating : evident in the movies we flock to, the vacations we run to, the return of the organic agriculture and medicine movements, in songs of popular poet-singers, and in the tremendous international exchange in recent decades revolving around the archaic cultures. There are many moderns who would like for their children to know the strength of character which is lent to those who learn wilderness skills, and agricultural skills, or other ancient and contemporary eco-cultural arts. Perhaps we are going through an adolescence as a planetary society and in decades to come we'll realize that even in the midst of our amazing technologies we still need to cultivate the bioregional skills, the landsman’s skills particular to our place. What remnants of the mythical garments once well made by hand can be brought together with the inspiration of fresh minds, strength, and new techniques?</p>
+					<p>In these times when most people have lost practical wholesome relationships to natures species the impact of the global economic system is more damaging than replenishing to the fertility of the soil, the quality of water and air, and plant and animal habitats. As a result there is a greater need than ever to ground environmental learning practically back in the place we live, to design economic trade also from a stance of regional sustainability, so that we can approach the global society from a place of relative strength and sustainability. Many solutions to economic, ecological, psychological, spiritual and educational problems overlap when looking through the bioregional lens; for example local produce farmers joining with local schools to create gardening programs involving parents and students in which they learn biological sciences, marketing, gardening and community cooperation all at the same time. Many shining examples can be seen through the literature of the 30 year old bioregional environmental movement. <a href="#footnote2">(#2)</a> <a name="cwtext2"></a></p>
+					<p>Furthermore since contemporary globalized systems of economics make sustainable livelihood connections to our bioregions and planetary ecology difficult, let us therefore also strengthen the inevitable indwelling urge toward the landsman’s life with arts of connection and reflection to help us through these times. Let us honor this complex and exciting exploration through wise education of future citizens,-- but what combination of activities can do that?</p>
+					<p><br>
+						<b>All Species Project </b></p>
+					<p>Faced with educational systems worldwide, which often harm more than help in encouraging connection to nature and innate reflective sensibility, and out of a love of keeping the integrity of human connection to the Earth alive, All Species Project (ASP) was dedicated in 1980 to identifying these essential missing-link skills and bringing them to life for others. The aim of the project is to provide skills of discernment, conversation and vocation within the plant, animal and mineral communities. The accumulated experience of many small All Species Projects in seven different countries for the last 18 years, at the city, village and ethnic levels have brought out of the woodwork a wealth of useful inspiring skills and experiences to those involved. One of the truths that has surfaced over the years is that Ecology, the venerable science named by Ernst Haeckl in 1866 is essential, but not enough. Logic is not enough. All the senses must be engaged in the process of education. So I have coined the term "eco-sensible" to add to environmental language to indicate:</p>
+					<ul>
+						<p></p>
+						<li>that which engages the senses in experiencing nature and it's interrelationships<p></p>
+						<p></p>
+						</li><li>at the same time adds strength to our senses and abilities in relation to Nature, and<p></p>
+						<p></p>
+						</li><li>lends a practicality, a sensibility to our lives in relation to the nature we depend upon.<p></p>
+					</li></ul>
+					<p><br>
+						<b>Four Vignettes </b></p>
+					<p><b>Ecuador-1994 </b></p>
+					<p>&nbsp;</p>
+					<p><b>Russia -1988 </b></p>
+					<p>ASP was invited to participate in one of the first big international environmental conferences in Moscow to lighten-up otherwise very serious academic presentations. The cultural background against which we played was changing by the moment; religion was legalized after 67 years two days after we arrived. Food shortages were very obvious everywhere. Businessmen in suits were coming to the edge of the city to the fields to pick up potatoes and put them in their briefcases. - There was an after school program for students in the conference center so we set about finding the people who would help us put together a final event to inject some "ecosensible" message of hope. At the end of three weeks, after the constant running of many students; working hilariously on song and scrip translations, we presented an event based on a traditional native American thanksgiving blessing. One bright day we pulled about a thousand students, teachers and international visitors out of the conference center for an afternoon processional journey between banners for the earth, water, air, plants and animals.--Many groups joined in who had never met: songs and oratory from Russian children choirs, poems and songs from the internationals translated into Russian. When we reached the banner for plants, Pete Catches a Lacota Indian medicine man who was with us performed a tree blessing with chants, cedar incense and eagle feathers. The people crowded around as if at a tense football game pointing and pushing, in awe of the primal religious practice of singing to a tree, no one there had ever seen. A group of Russian Saami (Laplanders) native children from a state boarding school playing entrancing jaw-harps joined in and magic was in the air. As a result of seeing this little attempt at pulling diverse cultural representatives together in an expression of gratitude to Nature, All Species Project was presented with a United Nations Environmental Program Award for excellence in education.</p>
+					<p><b>Chile -1997 </b></p>
+					<p>In collaboration with the Lahuen Foundation who have created reserves for the most ancient of South American trees, the Aurocaria, and been one of the main groups fighting for environmental sanity in Chile, All Species Project went in to apply our standard formula ; borrow a big empty building, hire a team of gregarious talented people for a school outreach team and to channel volunteer energy, develop and implement an interdisciplinary curriculum packet, and work toward a festival with an ecosensible theme over a period of 6 months. As part of the school project we started informally mapping <a href="#footnote3">(#3 )</a><a name="cwtext3"></a>with the rural and town students, the areas between the town and the forest. Children and adults who had never been up into the ancient Aurocaria forest although near them all there lives were taken to visit, and taught tracking exercises and games for finding and observing birds and animals, along with "Permaculture" zone games to improve production and biodiversity of the pieces of lands they live on. Later during the "Festival de la Naturaleza", the maps were displayed and the tracking exercises became part of a theater.</p>
+					<p><b>Santa Fe, New Mexico</b></p>
+					<p>For twelve years All Species Project presented school programs, public studios and festivals. One year there was a move by some local foresters to clear-cut a cathedral of a forest called Elk Mountain which had previously been protected,&nbsp; it's value had been forgotten by the general public. After putting this topic through examination and debate in our school programs and then creating a giant outdoor puppet play called the "Elk Mountain Controversy" which several thousands of people came to, Elk Mountain became such a household world in the town that&nbsp; the cut of that forest was stopped and is now protected until the next time people forget about it.</p>
+					<p><br>
+						<b>Basic Operative Questions - </b></p>
+					<p>Those who work with the ASP walk with a set of operative questions; questions like these.-</p>
+					<ul>
+						<p></p>
+						<li>What kind of experience, pedagogy, upbringing, atmosphere and teachers would inspire students to explore and learn the specifics of how to live in a nurturing relationship to our bioregional ecosystems and the planet?
+						</li><li>What would education look like if schools were trying to create citizens who are responsive to the needs of the Earth and its species as well as our own human needs?
+						</li><li>What inspires people to learn ecosystem replenishment? Community replenishment? Health and integrity? Self-respect?
+						</li><li>What kind of education helps students find their innate abilities in relation to nature?
+						</li><li>What skills help Replenish, Redesign, and Remember our place within the Nature we all are born from and depend on ?
+						</li><li>In short, what is 'ecosensible' education?
+					</li></ul>
+					<p><br>
+						<b>Experiential learning and six areas of activities </b></p>
+					<p>After exploring instinctively for years we found that most of the activities we are drawn to which are effective for awaking this nature appreciation and making it useful and resilient within the cyber-industrial society fall within six areas. Of course each of these discipline areas could easily take a lifetime of exploration and create lifelong vocations, but an introduction to all of them is extremely useful for being a human in the fullest sense.</p>
+					<p>These are such fertile creative territories because the synergy among these various activities is sparking within the same ethos. The results are thrilling, fresh and creative. This is where the real rewards are. There are so many mixes in this work. Imagine a public studio building where in the same room you have many ages and kinds of people "working" on making masks of local species, learning to make home compost systems, observing with a guide the behavior of birds outside the window, bringing in the results of local water quality tests, making giant puppets of local species, practicing theater and more. The mix that comes together in a public arts studio within an eco-theme is in a low-key, small town way awesomely credible!</p>
+					<p><b>1. Nature Observation and Survival Skills.</b> It may be necessary to study the skills of the past to regain the connection and specific knowledge required to develop ecologically sensible steps into the technological future. 99% of human history is pre-industrial, and pre-agricultural and in our bodies we are still "wired" for the physically clever ways of our ancestors. These skills include animal tracking, gathering wild foods and herbs, making fire, shelter and much more. They are wonderful keys to learning wildlife biology, respecting wild ecosystems, and understanding human development. There are exciting codified curriculum and excelent teachers available. <a href="#footnote4">(#4)</a> <a name="cwtext4"></a>The best books for use in schools are those of Tom Brown.-(The Tracking Project and All Species Project in collaboration with NaturAkadamin will be presenting summer camps for teens in Sweden this summer [1999]-<a href="mailto:fjallen@naturakadamin.se">fjallen@naturakadamin.se</a>)</p>
+					<p><b>2. Habitat Design Implementation.</b> Learning the basic and complex patterns of the earth is essential to designing productive habitats and the architecture within them. Attention has been given to this in academia in the last 30 years, but some of the best work has resulted from people working outside of the institutional framework. Methods to do this include Permaculture (permanent agriculture), an ecological design science developed in Australia in the 70's drawing upon the sciences and native experience from around the world. <a href="#footnote5">(#5)</a><a name="cwtext5"></a>Biodynamic Agriculture is also a lasting habitat design science with high quality results which has developed over the last 70 years. <a href="#footnote6">(#6)</a><a name="cwtext6"></a>The miraculous design of nature and the power of ecosystems to heal if helped out are sources of constant inspiration in the midst of the depression of global technological abuse of nature. - Exercises for youth can begin with mapping exercises which bring in both nature and culture resources on a local level.</p>
+					<p><b>3. Myth, Story and Cultural Learning.</b> The importance of learning through myth and story about the patterns of our psyche and the accumulated regional wisdom of the ages has been de-emphasized, to say the least, since the advent of monotheism and especially since the education systems of the industrial age, but these archetypical stories come to life at once upon reading them because in a sense they exist unconsciously. Anyone who believes that Myths are just silly old lies need only see "Star Wars" a movie which all our children experience as being full of life guiding wisdom. It was based on the work of Joseph Campbell who spent a life devoted to collecting and comparing world mythologies. Reductionist Science is our modern story, a land of theories and forces and results which stands firm and tall and useful, but it does not displace the usefulness of cultural myths and the wisdom of the historical psyche of a regions elders. Working with old metaphors, legends and new creative exercises are all ways to explore life "navigation" knowledge. <a href="#footnote7">(#7)</a><a name="cwtext7"></a></p>
+					<p><b>4. Health Practices.</b> Bioregional and Naturopathic medicines and well-being practices have been neglected since the development of modern Allopathic medicine. In a process kind of like 'throwing out the baby with the bath water' modern science became so enamored of crisis oriented medicine that it neglected preventative medicine based in natural foods nutrition and the health practices developed by traditional cultures over thousands of years. One of the exciting developments of our times is to see the Allopathic and Naturopathic systems previously at odds, beginning to come together to see how they can complement each other in the search for human well-being.<a href="#footnote8">(#8)</a> <a name="cwtext8"></a></p>
+					<p><b>5. Systems Ecology and experiential Sciences.</b>- Studying our basic life systems in relation to ecosystem health can start with simple experiments in schools for monitoring and evaluating local water and soil quality. Moving through the grade levels this begins to take in the many sciences and their interrelationships to the living systems we depend on. Students while learning already required curriculum can become useful and involved citizens within their communities. The emphasis in all of these activities must be placed on experiential activity rather than only book learning. <a href="#footnote9">(#9)</a><a name="cwtext9"></a></p>
+					<p><b>6. Arts and Artisanry</b>- All the arts when reflecting on Nature create some of the most meaningful, thrilling and balancing connections in our lives, but I must qualify what is meant here because arts in the commercial world have become something very different from the original function of arts in the life of an individual and community. Arts based in contemplation and cooperation with nature are essential to a wholesome response to the environment. Without an attunement to the rhythms, cycles, elements and species of the surrounding (and internal) nature, there is little possibility of practical or productive cooperation with them. The naturalist arts and crafts are distilled essences of reflective attunement through which ways of appreciation and connection are passed on. <a href="#footnote10">(#10)</a><a name="cwtext10"></a></p>
+					<p>Through arts and crafts, for example the trance-like effect of basket making, or story telling or tool making or weaving, such beneficent effects on the human psyche result, that it is as if the people who practice these frequently have a different sense of time and quality of life, from those who have only television, movies and non-active arts to view. This is especially noticeable in the places with long winters.</p>
+					<p><b>Festival Arts </b></p>
+					<p>The multiple arts of community festivals or ceremonies are a very valid addition to the educational process, as the culmination and celebration of the learning and understanding that takes place. Festivals have always marked the seasonal attunements to Nature. In the long history of festival making the preparatory processes are where most of the learning takes place. The learning occurs in the social cooperation, in creating the arts themselves, and in developing the themes and choosing what should be commemorated. Festival and ceremony events are the cathartic moments, which tie the meaning together with community resonance, through song, dance, theater, procession, display, oratory and much more. Festivals and celebrations can serve as powerful reminders and activators of the potentially deep synchronous connection between nature and community only when their is emphasis on interdisciplinary learning activities before the events. Through All Species Days and Earth days we began to discover the ways of the ancient agricultural societies.</p>
+					<p>All Species Project began with a festival approach to public education and very quickly we realized that this is a realistic approach but that it is not enough, so we backed-tracked into exploring for the missing-links to ecological and ecosensible education. At this point we found ourselves discovering the principals of many ancient and enduring cultures who use festival as the moment which unites a series of learning processes in an unforgettable experience and shows them to the community. The Waldorf education system for example uses this principal very effectively and of course many indigenous and religious cultures also apply these principals of commemoration which bring the community together, not just for the joy of the children but for the coherence of the entire community in connection to the larger body of Nature.</p>
+					<p>All Species Project approach to Festivals is not the same as the electronic-media 'top-down' presentation wherein professionals do all the performing and the public observes. Our work is more akin to these historic festivals which spring forth from a celebration of seasonal abundance, or the turning of light, as with harvest feasts or celebrations of the summer and winter solstices. These are festivals of community generosity and resonance with the surrounding nature. "Celebration is something produced through a constant negotiation with its intended participants , negotiation as both a political process and an epic journey to rebuild the necessary bridges between the domestic, the social and the mythic. It is a living theater, created not primarily for an audience, but within a community." (Michael White, New Theater Quarterly, Resources for a Journey of Hope). <a href="#footnote11">(#11)</a> <a name="cwtext11"></a></p>
+					<p><b>Tricks of the Trade - the school visits, curriculum project packets, contests and Soup </b></p>
+					<p>There are of course multiple combinations of ways that schools or other educational programs might be inspired to include these areas of study and activities formally or informally into their programs. It seems we are moving into a time when some schools are taking these kinds of study more seriously, in response to world environmental and social-ecology crisis.</p>
+					<p>For All Species Project, an avante-garde explorative program which often has worked with little funding, the first step toward grounding all these fine ideas is to borrow a place to carry out the myriad possible activities. We have often fixed up an abandoned building, borrowed from the community. Then through a process which is similar to that used by Mark Twain's character Tom Sawyer we begin to draw in the youth of the town to the privilege of doing these good works. The Pied Piper of Hammelin is another story which gave us clues to successful organizing, except that we return the children from the mountain to their parents. You see if you have a building with exciting activities going on, wide-eyed and spunky youth will soon discover it and soon after that the parents will come to find out what their kids are doing. With an interesting, free or low cost activity center sooner or later too many people show up. With all that interest volunteer energy can be organized if you have a small troop of talented gregarious youth and adults hired to do that. Often we have had this same team visit the schools in the morning to help teachers implement the interdisciplinary projects in a curriculum packet revolving around a locally appropriate theme such as " Earth's Forest: Roots of Peace"," Holding Up The Sky" " The Magnificent Web-of-Life Ecological Circus" or "Animals that Build : Design with Nature"</p>
+					<p>There is a big difference between a studio where many different kinds of ecosensible activities are going on at the same time and one which has separate rooms for each activity. The occasional chaos may be difficult for the those in need of more focus or solitude, but the playful creativity which arises between people working on different projects that relate to the same theme is amazingly productive of useful new revelations. For in-depth study in an area, separate the activities. For exciting interdisciplinary interplay and community-wide inspiration, put them together.</p>
+					<p><b>Enjoying Chaos- </b></p>
+					<p>Returning to our 1997 project in Chile for a moment - In a small southern town where the rooms are also small and the winters are long and rainy we have been lent one of those big old broken down municipal buildings with a combination gymnasium and theater and a large outdoor courtyard strewn with broken-glass. We've fixed the broken windows and cleaned up the glass, rebuilt the old wood cook stove, patched the holes in the floor and my son Chalo who is 23 is building tie-on stilts with a couple of kids who found us even before the doors were officially opened.</p>
+					<p>What do stilts have to do with environmental education ? They are the number one fastest, wholesome and least expensive way to get youth from 8-18 to show up immediately off the street. They are fantastic for developing physical confidence and an instant sense of empowerment. When youth see their parents from above for the first time they feel a sense of accomplishment which should not be underestimated. Stilts are also one of the best sure fire theatrical devices ever invented. Stilts are one of the fastest way to break through cultural ice, language barriers and timidity that I've ever seen. Anyone who can ride a bicycle can learn stilts. And once you make friends by giving them this much fun you can begin to talk more&nbsp;&nbsp; œserious issues without losing them, and you have a bargaining chip to get them to do other works the project needs done. We call stilts our best tool for higher education.</p>
+					<p>It is the middle of winter, There’s a warm soup on the stove for anyone who needs it. A teenage girl with great talent has showed up and is sitting in at one of the arts tables helping other children and adults create masks of local species. A group of Mapuche Indian dancers have been invited to the studio and are preparing to show us an Ostrich dance which has not been seen in this town for over 200 years since the natives were forcibly removed. I am trying to cook dinner for about 30 people and sing a song for the stilt dancers to choreograph at the same time, when I'm distracted by recent arrivals. Suddenly a class of thirty 5th graders plow in out of the drenching rain, pummeling through the doors. We begin to get overwhelmed by the newcomers, but Chalo sees the solution right away. Throw a strong rope up to the ceiling, create a safety code and a climbing area is suddenly invented. Instead of frustratingly demanding quiet from the students, all this stray fantastic kid energy is channeled away from the arts tables, which need a certain calm, toward looking straight up. Joyously watching and talking freely about each kid who climbs the 25 foot rope to the rafters of the studio, they wait their turn to be placed in the other activity areas. The chaos of a moment ago disappears on the studio floor, with about 10 activity areas going on now and a team member or volunteer helping facilitate each. Sewing machines are running for making birds costumes. People are studying the books of local bird species. A group is planting vegetable starts in small containers. There's a list on the wall of activities that need getting started and materials we need. People are beginning to bring in entries for a 3-part contest of poems about harmony, threats and solutions in Nature which will help us build a narrative for a festival theater.</p>
+					<p>Some soup and a warm fire on a rainy night and a peacefully humming fully active studio. Nobody really wants to go home. Tomorrow morning we'll go to a school with a slide show of a biologist whom we've brought from a nearby University, along with a great storyteller who helps run the local nature reserve. For those who love nature and learning about it magic happens everyday.</p>
+					<p><b>Indigenous Patterns</b></p>
+					<p>Because of our work in various indigenous communities in New Mexico and South America, we have had the amazing opportunity and challenge of working within the cultural framework and values of enduring cultures. Our interests have taken us to the people who still live closest to the earth, these first people, remnant ancients of the Western Hemisphere. Without romanticizing these communities which in these times are rife with problems, I just say that I have great gratitude for these people who bravely carry old ways into modern times.</p>
+					<p>So much needs to be said about the value of diverse archaic education methods, such as the "silent learning" of craftsmen who mentor their apprentices by having them copy motions rather than through explanation, or the mythic frameworks by which technologies are often evaluated, that this is really the topic of a separate thesis.</p>
+					<p>It is obvious to me now that traditional seasonal cycles of profound cultural events can never be just a beautiful thing of the past if we are to arrive at anything similar to an ecosensible culture, sustainable within the patterns of the earthly life, and that wise 'low-tech' ways of living must be also be honored and furthered educationally if we are to have the strength and connection to sustain the bioregions we live in.</p>
+					<p>Though our&nbsp;&nbsp; ™work has sometimes been doubted by those who believe the main educational focus should be placed on the symbolic learning systems of our times, we have been validated in our approach by traditional peoples who understand the potential and need of remembering, replenishing, and redesigning our place in relation to the earth, water, fire, air, plants and animals, the need and love for attempting against the odds to bring land and life into balance.</p>
+					<p><b>Conclusions </b></p>
+					<p>After 18 years on this fascinating and sometimes obscure path All Species project is monetarily and administratively small but culturally wealthy with much to share. Our intent is to help empower autonomous bioregional projects rather than create a cumbersome infrastructure to maintain. This approach to education has had wide effects and the work in the name of ASP has been a small epic. Our fortune has been to witness the hundreds and sometimes thousands of people who have magnificently given of their hearts and hands with daily fresh inspirations in the midst of often very difficult neighborhoods. There is a palpable connective magic, a healing and equilibrating touch that resides strongly in these disciplines and in life-affirming community festival, based in Earth and species connective themes. These programs coming out of the public studios and school outreach teams gently explode with kindness, generosity and very useful knowledge within the divine design of Nature.</p>
+					<p>We know what it takes to mentor young men and women to skillfully and devotedly love the earth, and to create complex and simple living systems which honor and do justice to the sacred biodiversity, while accommodating for the needs and desires of humans. In simple terms people can create decent paying jobs and be inspired out of what they learn with us. We know how to spread these activities of greening consciousness in profoundly connective ways back into the cities step by step. Wherever I go youth who have been in our formal or informal learning processes come up to me with laudatory thanks for helping them onto a worthy path. I have watched a small but powerful generation of youth raised on this work and similar works of our times, develop an indelible love of learning and actions in regards to the well-being of Earth, their communities and themselves.</p>
+					<p>However all these wonderful successes must be placed honestly against a background of tremendous frustration in knowing, as all of you who read this know, that with the speed and momentum of the cyber and transportation technologies, there is the inevitability that further plundering of ecosystems and cultures will go to much greater levels of destruction. So these successes, which in certain ways are great, are not enough.</p>
+					<p>Activity centers and school programs should be made available which tie the youth to the skills of our evolutionary heritage and the ecosensible skills of the future, which the worlds schools in general do not do yet. Coincidentally these are the back-up skills to the technological design processes.- If ever anywhere we can buck the trend of devaluation of our immediate bioregions and the distant resource bases, the homes of others, I believe it will be through planting these ecosensible skills of observation, design, traditional cultural learning, h, naturalist arts, practices and ecological sciences.</p>
+					<p>We must find ways to give something back to our own bioregion and other parts of the planet for the abundance we receive daily.</p>
+					<p><font face="Comic Sans MS,Geneva" size="2"></font></p>
+					<hr>
+					<p>History and free curriculum materials at <a href="http://www.allspecies.org">Heartland All Species Project</a></p>
+					<p>
+						<script type="text/javascript" name="marty">
+var _u   = "cwellsasp";
+var _d = "aol.com";
+var _l   = _u + "@" + _d;
+var _m = "Email";
+document.write("<a href='mailto:"+_l+"'>"+_m+"</a>");
+</script>
+						Chris Wells.</p>
+					<p><font face="Comic Sans MS,Geneva" size="2"></font></p>
+					<hr>
+					<p><b>Definitions, Bibliography and related reading-</b></p>
+					<p><a name="footnote1"></a>#1- Bioregion is an ecological province defined primarily by features such as watershed, plant and animal community, and topography. The name was developed by engineers working on hydroelectric damns which had effect on regions more significant biologically than political states. These are not hard boundaries but overlapping ones-for example the upper Rio Grande watershed bioregion, Sonoran desert bioregion, Upland ? - Often historically cultures have a differentiated bioregionally. - The bioregional movement is a meeting ground for people working toward regional sustainability, economically, culturally, educationally, etc. <a href="#cwtext1">back</a></p>
+					<p><a name="footnote2"></a>#2- "Home, a Bioregional Reader", VanAndruss, New Society Press. This is a wonderful sampling from the applied practical work of many kinds of bioregional activists - or go to worldwide website amazon.com for approximately 50 worthy books from the burgeoning bioregional movement. <a href="#cwtext2">back</a></p>
+					<p><a name="footnote3"></a>#3- "Boundaries of Home: Mapping for Local Empowerment", Doug Aberley, The New Catalyst. An amazing little book that takes mapping from the realms of technicians and puts it back in the hands of local communities for cultural, local resource and many other kinds of mapping as a tool for community organizing. <a href="#cwtext3">back</a></p>
+					<p><a name="footnote4"></a>#4- "Tom Browns Field Guide to Nature Observation and Tracking" by Tom Brown, Berkley Books. These extremely well presented exercises, mostly Apache but fairly universal to native cultures, are a naturally unfolding curriculum for the most ancient discipline in the world. Tom Brown's further books are fascinating spiritually stimulating adventures in tracking for all ages. <a href="#cwtext4">back</a></p>
+					<p><a name="footnote5"></a>#5- "Permaculture: A Design Manual", Bill Mollison. The now controversial work of Permaculture because of it's recent arrival as a world-wide movement must be studied to be before being criticized. My personal opinion is that if we make it through these times of severe environmental crisis it will be in part because of these clearly applicable systems of practical regeneration ecology designed to provide for human abundance as well as protect biodiversity. <a href="#cwtext5">back</a></p>
+					<p><a name="footnote6"></a>#6-"Biodynamic Agriculture in Practice" Willy Schilthuis. And in the realms of architectural design one of the early and lasting books is "Design with Nature" by Ian McHarg.<br>
+						---Another delicious visual treatise is " The Power of Limits- Proportional Harmonics in Nature, Art and Architecture" by Gyorgy Doczi on Shambala Press. <a href="#cwtext6">back</a></p>
+					<p><a name="footnote7"></a>#7-"The Power of Myth" by Joseph Campbell- or another of his titles- "The Hero with a Thousand Faces" , Princeton Series in World Mythology. <a href="#cwtext7">back</a></p>
+					<p><a name="footnote8"></a>#8-"World Medicine- The East-West Guide to Healing your body" Tom Monte, G.P. Putnam &amp; Sons. This amazing comparison of traditional medicine systems from around the world beyond being fascinating is full of practical revelations of the compatibility of these different world views of the human body. <a href="#cwtext8">back</a></p>
+					<p><a name="footnote9"></a>#9-"Ecological &amp; General Systems- An Introduction to Systems Ecology" Howard T. Odum - University of Colorado Press- The Systems Ecology Department at the University of Stockholm was established with the guidance of his father Eugene Odum. Another excellent book new book on a more elementary level is "Ecology" by Ernst Callenbach on University of California Press. <a href="#cwtext9">back</a></p>
+					<p><a name="footnote10"></a>#10-"Art Forms in Nature" by Ernst Haeckl -Dover Press or a new edition on Teneues Press - Haeckl was the naturalist scientist, artist and philosopher would coined the word Ecology in 1866. These engravings are beautiful depictions of mostly microscopic species from a time before photography when a Naturalist scientist needed to be an artist. <a href="#cwtext10">back</a></p>
+					<p><a name="footnote11"></a>#11-"Engineers of the Imagination" Coult/Kershaw, Methuen London Press. Perhaps the most useful book on contemporary community arts ever written. The 30 year long work of the great British troop "Welfare State International". <a href="#cwtext11">back</a></p>
+					<p>Turtle Island Sculpture --- --- Youth groups in the Heartland All Species Project of Kansas City built this from recycled materials illustrating an ancient Iroquois myth that earth is on the back of a turtle, for the 1992 commemoration of 500 years since Columbus. The money from the recycling was sent to support the children’s rainforest in Costa Rica. Simple plans for making these sculptures with youth groups in your community are available from world wide website -- <a href="http://www.allspecies.org">http://www.allspecies.org</a> photo Dan Dancer</p>
+					<p>Ecuador, Olmedo - All Species Interdisciplinary team school visit- By bringing a mix of engaging playful skills like stilts, and also a biologist to explore local nature facts and issues, and creating a community exploration of the traditional agriculture and stories, such good effects resulted that we were thanked "for helping us get back some of the most important parts of our culture". - photo Chalo Wells</p>
+					<p>Ecuador, Cayambe - Hope Seed Theater- A syncretic mix of local folk musicians, traditional shaman, the newly elected corn maiden, international youth in our All Species theater about returning the seeds of cooperation with nature, presented on the summer solstice 1994 with Indigenous Federation Pinchincha Richarimui. photo Marty Kraft</p>
+					<p>Bolivia, Postosi, Feb. 1998- Entrada Carnaval- In their roots the Andean Carnavals are part of ancient agricultural cycle festivals with an overlay from the Catholic colonial period- Bolivian festivals are so complex that some have a flute for a single variety of potato which is played on the day of planting and then buried in the ground until planting time next year.- photo Chris Wells</p>
+					<p>Day of the Dead Festival in Bolivia -Seed exchange at the gates of ancestry -In it's roots the modern Halloween is in principal the same as day of the dead, still celebrated in much of Indigenous America. The beloved ancestors are remembered by symbolically feeding them the seeds and grains. Biodiversity in the traditional Andes is protected by honoring and exchanging seeds varieties during the many ceremonies of the year.</p>
+					<p><b>An Aside-</b></p>
+					<p>I guess this needs more but what? My background educationally is radical in that I switched schools several times and eventually learned by finding some of whom I consider to be the great teachers of our times, famous and not so famous. I worked with Peter Schuman of Bread and Puppet Theater, Robert Bly of the Mythopoetic movement(a very misunderstood benevolent grandfather), Bill Mollison and the Permaculture teams, Nanao Sakaki the wandering Japanese poet, John Stokes of the Tracking Project, and the Danish Folkschool with Poul Dam of the Socialist Folkparty and many others. I designed this work in part so I could learn what I couldn’t learn in school . --Oof this goes on forever --&nbsp; enough for now - have fun with this -</p>
+					<p><b>Background on author</b></p>
+					<p>Chris Wells prefers the title ‘Cultivator’ or ‘Torch Bearer’ to Director of All Species Project which he was one of the founders of in 1980. - After college studies in Anthropology he studied with Alan Watts and the Society for Comparative Philosophy. He has lived 12 years of his life in South America, studying and participating in the perspectives of land based communities and cultural artists<font face="Comic Sans MS,Geneva">.<br>
+							<br>
+						</font></p>
+				</td>
+				<td width="3%"></td>
+			</tr>
+			<tr>
+				<td align="center"></td>
+				<td width="108"></td>
+				<td width="3%"></td>
+				<td width="75%">
+					<table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#294a4a">
+						<tbody><tr>
+							<td align="center" width="50%" valign="middle"><a href="index.htm"><font color="#ffffce" face="Comic Sans MS,Geneva" size="1">celebration index</font></a></td>
+							<td align="center" width="33%" valign="middle"><a href="#" csclick="BA9BEFCF1" onclick="CSAction(new Array(/*CMP*/'BA9BEFCF1'));return CSClickReturn();"><font color="#ffffce" face="Comic Sans MS,Geneva" size="1">previous page</font></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td width="3%"></td>
+			</tr>
+			<tr>
+				<td align="center"></td>
+				<td width="108">
+					<center>
+						<p></p>
+					</center>
+				</td>
+				<td valign="bottom" width="3%"></td>
+				<td width="75%"><csobj w="537" h="82" t="Component" csref="../../allspecies.data/Components/aspfooter.htm" occur="83">
+						<div align="center">
+							<table width="466" border="0" cellspacing="0" cellpadding="1">
+								<tbody><tr>
+									<td align="center" width="466">
+										<p class="nfooter"><a title="Home" href="../index.html">Home</a> | <a title="About All Species" href="../about/index.htm">About All Species</a> | <a title="All Species International" href="../aspint/index.htm">All Species International</a><br>
+											<a title="Reports &amp; Bulletins" href="../bulletin/index.htm">Bulletins</a> | <a title="Building Green Neighborhoods" href="../neigh/index.htm">Building Green Neighborhoods</a> | <a title="EcoKids" href="../ecokids/index.htm">EcoKids</a> | <a title="Urban Wilderness" href="../urbwild/index.htm">Urban Wilderness</a><br>
+											<a title="All Species &amp; Earth Day Celebrations" href="index.htm">All Species &amp; Earth Day Celebrations</a> | <a title="Environmental Action Projects" href="../edu/index.htm">Environmental Action Projects</a><br>
+											<a title="Blog" href="../blog/index.php">Blog</a> | <a title="Links" href="../links.htm">Links</a> | <a title="Forum" href="../forum">Forum</a> | <a title="Idea Bar" href="../ideas/index.htm">Idea Bar</a> | <a title="Products &amp; Services" href="../prodserv/index.htm">Products &amp; Services<br>
+											</a><a href="../copyrigh.htm">Copyright Considerations</a> | 
+											<script type="text/javascript" name="marty">
+var _u   = "martyk";
+var _d = "allspecies.org";
+var _l   = _u + "@" + _d;
+var _m = "contact email";
+document.write("<a href='mailto:"+_l+"'>"+_m+"</a>");
+</script>
+										</p>
+									</td>
+								</tr>
+							</tbody></table>
+						</div>
+					</csobj></td>
+				<td width="3%"></td>
+			</tr>
+			<tr>
+				<td align="center"></td>
+				<td align="center" valign="middle" width="108"><a href="#topwellsart"><font color="#840000">to the top</font></a></td>
+				<td valign="bottom" width="3%"></td>
+				<td width="75%" align="center">
+					<hr color="294A4A">
+					<csobj csref="../../allspecies.data/Components/copyrightc.html" h="36" occur="93" t="Component" w="537">
+						<table width="537" border="0" cellspacing="2" cellpadding="0" align="center">
+							<tbody><tr>
+								<td align="center">
+									<p class="nfooter">Copyright © 1998-2010 Heartland All Species Project<br>
+										5644 Charlotte, Kansas City, Missouri 64110 816/361-1230<br>
+										<a href="../donate/index.htm">HASP is a 501(c)3. All donations gratefully accepted.</a></p>
+								</td>
+							</tr>
+						</tbody></table>
+					</csobj>
+					<hr color="294A4A">
+				</td>
+				<td width="3%"></td>
+			</tr>
+		</tbody></table>
+	
+
+</body></html>

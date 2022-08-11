@@ -1,0 +1,742 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="distribution" content="global">
+<meta name="robots" content="follow, all">
+<meta name="language" content="en, sv">
+<link href="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/style.css" rel="stylesheet" type="text/css">
+<title>TomTom GPS Product Reviews | Computers, Softwares &amp; Electronic Appliances Blog</title>
+<meta name="generator" content="WordPress 3.0.1">
+<link rel="shortcut icon" href="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://affiliates-program-marketing.com/feed/">
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://affiliates-program-marketing.com/feed/rss/">
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://affiliates-program-marketing.com/feed/atom/">
+<link rel="pingback" href="http://affiliates-program-marketing.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title="Computers, Softwares &amp; Electronic Appliances Blog » TomTom GPS Product Reviews Comments Feed" href="http://affiliates-program-marketing.com/gps-product-reviews/tomtom-gps-product-reviews/feed/">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="seo-style-css" href="http://affiliates-program-marketing.com/wp-content/plugins/seo-pressor/templates/css/styles.css?ver=3.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-email-css" href="http://affiliates-program-marketing.com/wp-content/plugins/wp-email/email-css.css?ver=2.50" type="text/css" media="all">
+<script type="text/javascript" src="http://affiliates-program-marketing.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/js/superfish.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/js/jquery.delay.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://affiliates-program-marketing.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://affiliates-program-marketing.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://affiliates-program-marketing.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Computers, Softwares &amp; Electronic Appliances Blog" href="http://affiliates-program-marketing.com/">
+<link rel="up" title="GPS Product Reviews" href="http://affiliates-program-marketing.com/gps-product-reviews/">
+<link rel="prev" title="GPS Product Reviews" href="http://affiliates-program-marketing.com/gps-product-reviews/">
+<link rel="next" title="Magellan GPS Product Reviews" href="http://affiliates-program-marketing.com/gps-product-reviews/magellan-gps-product-reviews/">
+<meta name="generator" content="WordPress 3.0.1">
+<!--[if IE]>
+<style type="text/css">
+ul.addtoany_list a img{filter:alpha(opacity=70)}
+ul.addtoany_list a:hover img,ul.addtoany_list a.addtoany_share_save img{filter:alpha(opacity=100)}
+</style>
+<![endif]-->
+
+<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[540,632] -->
+<meta name="description" content="The TomTom XXL 540·S is complete navigation in a XXL widescreen device. Switch on and go right out of the box.">
+<meta name="keywords" content="tomtom, tomtom xxl, tomtom xl, tomtom gps">
+<link rel="canonical" href="http://affiliates-program-marketing.com/gps-product-reviews/tomtom-gps-product-reviews/">
+<!-- /all in one seo pack -->
+  
+  <!--[if lte IE 6]>
+  <link rel='stylesheet' type='text/css' href="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/ie6style.php" />
+  <script type="text/javascript" src="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+  <script>
+  DD_belatedPNG.fix('#header, #searchform, img, #feature, .topshadow, .postMeta, .commentcount, .postdate, #footer, #footerdark, .scshadow, #sidebar-top h5, li, #wp-pagenavi a, #wp-pagenavi .current, input, .subbox, .subbox2, .contentbox');
+</script>
+  <![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+	 jQuery(document).ready(function(){ 
+		
+        jQuery("ul.sf-menu").superfish({ 
+            autoArrows: true,
+			dropShadows: false,
+			speed:       300, 
+			delay:       500, 
+            animation:   {height:'show'}
+		}); 
+		jQuery("#nav a").removeAttr("title"); 
+		
+		
+    }); 
+//]]>
+</script>
+<script type="text/javascript">
+
+function submitForm(formID)
+{
+  document.getElementById(formID).submit();
+}
+jQuery(document).ready(function() {
+
+   	jQuery('.flexform input[type="text"]').addClass("idleField");
+	jQuery('.flexform input[type="text"]').focus(function() {
+		jQuery(this).removeClass("idleField").addClass("focusField");
+        if (this.value == this.defaultValue){
+        	this.value = '';
+    	}
+        if(this.value != this.defaultValue){
+	    	this.select();
+        }
+    });
+    jQuery('.flexform input[type="text"]').blur(function() {
+    	jQuery(this).removeClass("focusField").addClass("idleField");
+        if (this.value == ''){
+        	this.value = (this.defaultValue ? this.defaultValue : '');
+    	}
+    });
+
+
+function flashing() {
+		jQuery('.flashing a').delay(2000).fadeTo(1000,0);
+		jQuery('.flashing a').fadeTo(1000,1, flashing);
+		   }
+flashing();
+});
+</script>
+  <link rel="shortcut icon" href="http://affiliates-program-marketing.com/wp-content/plugins/maxblogpress-favicon/icons/favicon-18.ico" type="image/x-icon">
+</head>
+<body>
+<div id="bgwrapper">
+<div id="wrap">
+<div id="nav" style="clear:both;">
+	<ul class="sf-menu"><li><a href="http://affiliates-program-marketing.com"><span>Home</span></a></li><li class="page_item page-item-2"><a href="http://affiliates-program-marketing.com/about/" title="About"><span>About</span></a></li>
+<li class="page_item page-item-337"><a href="http://affiliates-program-marketing.com/blu-ray-dvd-player-review/" title="Blu-Ray / DVD Player Review"><span>Blu-Ray / DVD Player Review</span></a>
+<ul class="children">
+	<li class="page_item page-item-322"><a href="http://affiliates-program-marketing.com/blu-ray-dvd-player-review/coby-tfdvd7008-player-reviews/" title="Coby TFDVD7008 Player Reviews"><span>Coby TFDVD7008 Player Reviews</span></a></li>
+	<li class="page_item page-item-316"><a href="http://affiliates-program-marketing.com/blu-ray-dvd-player-review/sony-bdps570-player-reviews/" title="Sony BDPS570 Player  Reviews"><span>Sony BDPS570 Player  Reviews</span></a></li>
+</ul>
+</li>
+<li class="page_item page-item-341"><a href="http://affiliates-program-marketing.com/cell-phone-review/" title="Cell Phone Review"><span>Cell Phone Review</span></a>
+<ul class="children">
+	<li class="page_item page-item-231"><a href="http://affiliates-program-marketing.com/cell-phone-review/blackberry-8320-cell-phone-reviews/" title="Blackberry 8320 Cell Phone Reviews"><span>Blackberry 8320 Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-218"><a href="http://affiliates-program-marketing.com/cell-phone-review/blackberry-8520-cell-phone-reviews/" title="Blackberry 8520 Cell Phone Reviews"><span>Blackberry 8520 Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-220"><a href="http://affiliates-program-marketing.com/cell-phone-review/blackberry-9000-cell-phone-reviews/" title="BlackBerry 9000 Cell Phone Reviews"><span>BlackBerry 9000 Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-225"><a href="http://affiliates-program-marketing.com/cell-phone-review/blackberry-9700-cell-phone-reviews/" title="BlackBerry 9700 Cell Phone Reviews"><span>BlackBerry 9700 Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-226"><a href="http://affiliates-program-marketing.com/cell-phone-review/blackberry-curve-8900-cell-phone-reviews/" title="BlackBerry Curve 8900 Cell Phone Reviews"><span>BlackBerry Curve 8900 Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-219"><a href="http://affiliates-program-marketing.com/cell-phone-review/htc-desire-cell-phone-reviews/" title="HTC Desire Cell Phone Reviews"><span>HTC Desire Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-228"><a href="http://affiliates-program-marketing.com/cell-phone-review/htc-hero-cell-phone-reviews/" title="HTC Hero Cell Phone Reviews"><span>HTC Hero Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-232"><a href="http://affiliates-program-marketing.com/cell-phone-review/htc-legend-cell-phone-reviews/" title="HTC Legend Cell Phone Reviews"><span>HTC Legend Cell Phone Reviews</span></a></li>
+	<li class="page_item page-item-236"><a href="http://affiliates-program-marketing.com/cell-phone-review/htc-touch2-cell-phone-reviews/" title="htc touch2 review"><span>htc touch2 review</span></a></li>
+	<li class="page_item page-item-217"><a href="http://affiliates-program-marketing.com/cell-phone-review/lg-kp500-cell-phone-reviews/" title="LG KP500 Cell Phone Reviews"><span>LG KP500 Cell Phone Reviews</span></a></li>
+</ul>
+</li>
+<li class="page_item page-item-173 current_page_ancestor current_page_parent"><a href="http://affiliates-program-marketing.com/gps-product-reviews/" title="GPS Product Reviews"><span>GPS Product Reviews</span></a>
+<ul class="children">
+	<li class="page_item page-item-339"><a href="http://affiliates-program-marketing.com/gps-product-reviews/garmin-gps-product-reviews/" title="Garmin GPS Product Reviews"><span>Garmin GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-182"><a href="http://affiliates-program-marketing.com/gps-product-reviews/magellan-gps-product-reviews/" title="Magellan GPS Product Reviews"><span>Magellan GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-184"><a href="http://affiliates-program-marketing.com/gps-product-reviews/motorola-motonav-gps-product-reviews/" title="Motorola Motonav GPS Product Reviews"><span>Motorola Motonav GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-185"><a href="http://affiliates-program-marketing.com/gps-product-reviews/navigon-gps-product-reviews/" title="Navigon GPS Product Reviews"><span>Navigon GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-187"><a href="http://affiliates-program-marketing.com/gps-product-reviews/nextar-gps-product-reviews/" title="Nextar GPS Product Reviews"><span>Nextar GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-183"><a href="http://affiliates-program-marketing.com/gps-product-reviews/pioneer-avic-gps-product-reviews/" title="Pioneer AVIC GPS Product Reviews"><span>Pioneer AVIC GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-186"><a href="http://affiliates-program-marketing.com/gps-product-reviews/rand-mcnally-gps-product-reviews/" title="Rand McNally GPS Product Reviews"><span>Rand McNally GPS Product Reviews</span></a></li>
+	<li class="page_item page-item-177 current_page_item"><a href="http://affiliates-program-marketing.com/gps-product-reviews/tomtom-gps-product-reviews/" title="TomTom GPS Product Reviews"><span>TomTom GPS Product Reviews</span></a></li>
+</ul>
+</li>
+<li class="page_item page-item-338"><a href="http://affiliates-program-marketing.com/ledlcd-tv-review/" title="LED/LCD TV Review"><span>LED/LCD TV Review</span></a>
+<ul class="children">
+	<li class="page_item page-item-266"><a href="http://affiliates-program-marketing.com/ledlcd-tv-review/lg-26ld350-reviews/" title="LG 26LD350 Reviews"><span>LG 26LD350 Reviews</span></a></li>
+	<li class="page_item page-item-265"><a href="http://affiliates-program-marketing.com/ledlcd-tv-review/lg-32ld350-reviews/" title="LG 32LD350 Reviews"><span>LG 32LD350 Reviews</span></a></li>
+	<li class="page_item page-item-280"><a href="http://affiliates-program-marketing.com/ledlcd-tv-review/lg-32ld450-reviews/" title="LG 32LD450 Reviews"><span>LG 32LD450 Reviews</span></a></li>
+	<li class="page_item page-item-260"><a href="http://affiliates-program-marketing.com/ledlcd-tv-review/samsung-ln46c630-reviews/" title="Samsung LN46C630 Reviews"><span>Samsung LN46C630 Reviews</span></a></li>
+	<li class="page_item page-item-289"><a href="http://affiliates-program-marketing.com/ledlcd-tv-review/sony-bravia-ex700-series-reviews/" title="Sony Bravia EX700 Series Reviews"><span>Sony Bravia EX700 Series Reviews</span></a></li>
+</ul>
+</li>
+</ul>  <div class="clearer"></div>
+</div>
+<div id="header">
+    <form method="get" id="searchform" action="http://affiliates-program-marketing.com/">
+<div>
+  <input type="text" value="Search our site..." name="s" id="searchbox" onfocus="if (this.value == 'Search our site...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search our site...';}">
+  <input type="submit" id="searchbutton" value="">
+</div>
+</form>
+
+
+
+    <h3><a href="http://affiliates-program-marketing.com/">Computers, Softwares &amp; Electronic Appliances Blog</a></h3>  <p class="tagline">Computers, Softwares &amp; Electronic Appliances Information, Review and Best Offers…</p>
+        <div id="rssfeeds"> <a href="http://affiliates-program-marketing.com/feed"><img id="rssicon" src="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/images/rssicons/rssglassyblack.png" alt="Subscribe to RSS"></a>
+    <p>Subscribe via
+            <a href="http://affiliates-program-marketing.com/feed">Email</a></p>
+      </div>
+  </div>
+    <div id="feature"><div class="topshadow">
+       <!-- This is the title and intro text for the feature section -->
+<div class="feat_box">
+<center><script charset="utf-8" type="text/javascript" src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822/US/affilprogrmar-20/8002/6f2e47da-ab51-4f5b-9c3d-210cb7dfb4a9"> </script> <noscript><a href="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Faffilprogrmar-20%2F8002%2F6f2e47da-ab51-4f5b-9c3d-210cb7dfb4a9&amp;Operation=NoScript">Amazon.com Widgets</a></noscript></center>
+</div>
+
+<!-- This is the top right side featured item in the feature section -->
+<div class="feat_box"> <a href="http://www.amazon.com/gp/product/B002FQJT3Q?ie=UTF8&amp;tag=affilprogrmar-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002FQJT3Q" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/images/SL160.jpg" style="float:right; margin-left:10px;" alt="SL160"></a><h2>Special Offer 1</h2> Kindle   Wireless Reading Device, Free 3G + Wi-Fi, 6" Display, Graphite, 3G Works   Globally - Latest Generation by Amazon &nbsp;&nbsp;<a href="http://www.amazon.com/gp/product/B002FQJT3Q?ie=UTF8&amp;tag=affilprogrmar-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002FQJT3Q" target="_blank"><strong>Read more!</strong></a> 
+</div>
+
+<!-- This is the lower right side featured item in the feature section -->
+<div class="feat_box"> <a href="http://www.amazon.com/gp/product/B001ELJ9QK?ie=UTF8&amp;tag=affilprogrmar-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001ELJ9QK" target="_new"><img src="http://affiliates-program-marketing.com/wp-content/themes/flexsqueeze12/images/nuvi_265w.jpg" style="float:right; margin-left:10px;" alt=""></a>
+  <h2>Special Offer 2</h2>
+  Garmin nüvi 265W/265WT 4.3-Inch Widescreen Bluetooth Portable GPS Navigator with Traffic Receiver
+by Garmin.&nbsp;&nbsp;<a href="http://www.amazon.com/gp/product/B001ELJ9QK?ie=UTF8&amp;tag=affilprogrmar-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001ELJ9QK" target="_blank"><strong>Read more!</strong></a> 
+</div>
+    
+    <div style="clear:both;"></div>
+    </div></div><div id="content">
+
+  <div class="postwrap">
+  
+             
+    <div class="post"> 
+    <div class="posthead">
+              <h1>TomTom GPS Product Reviews</h1>
+            <div style="clear:both;"></div>
+          </div>
+          
+     <div class="postcontent">
+      
+      <p><strong>Featured tomtom:</strong></p>
+<ul>
+<li><a href="#1"><i>TomTom</i>  XXL 540S 5-Inch Widescreen Portable GPS Navigator</a></li>
+<li><a href="#2"><u>TomTom</u> XL 330S 4.3-Inch Widescreen Portable GPS Navigator (Factory Refurbished)</a></li>
+<li><a href="#3">TomTom XXL 540M 5-Inch Widescreen Portable GPS Navigator</a></li>
+<li><a href="#4">TomTom GPS Dashboard Mount for TomTom GPS Navigators</a></li>
+<li><a href="#5">TomTom XL 340-S 4.3-Inch Portable GPS Navigator</a></li>
+<li><a href="#6">TomTom XL 340TM 4.3-Inch Portable GPS Navigator</a></li>
+<li><a href="#7">TomTom ONE 140-S 3.5-Inch Portable GPS Navigator</a></li>
+<li><a href="#8">TomTom XXL 540S 5-Inch Widescreen Portable GPS Navigator (Factory Refurbished)</a></li>
+<li><a href="#9">TomTom XL 340 4.3-Inch Portable GPS Navigator</a></li>
+</ul>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="1"></a>TomTom  XXL 540S 5-Inch Widescreen Portable GPS Navigator</h3>
+<p><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B002OL2NT4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002OL2NT4" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/51%2B6%2B%2BzQmhL._SL160_.jpg"></a>The TomTom XXL 540·S is complete navigation in a XXL widescreen device. Switch on and go right out of the box. Spoken turn-by-turn instructions including street names will guide you to any address in the US, Canada and Mexico–including more than 7 million preloaded points of interest.      Complete navigation in a XXL widescreen device. Click to enlarge.         EasyPort mount folds neatly onto the back of your device. Click to enlarge.     Advanced Lane Guidance uses photorealistic images to bring even more clarity to complex multi-lane exits. Click to enlarge.        Complete XXL Widescreen Navigation and Spoken Street Names IQ Routes<br> IQ Routes Technology* gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip rather than only posted speed limits, so you’ll always travel the smartest route. Advanced Lane Guidance<br> Advanced Lane Guidance** uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. 5-Inch Touchscreen<br> An extra-wide 5.0-inch touchscreen helps you find your way, worry-free. TomTom Map Share<br> TomTom has the most accurate maps and with TomTom Map Share technology you can instantly modify street names, street direction, POIs, road speeds and turn restrictions on your own device. Get Help<br> With the “Help Me!” menu, there are added safety features so you can easily access local emergency providers. EasyPort Mount<br> The award-winning Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. The XXL 540·S is complete, widescreen navigation. *Feature only available in the United States and Canada<br>**Feature
+</p><ul>
+<li>TomTom GPS navigation with a five-inch, full-color, TFT LCD widescreen touch display</li>
+<li>Preloaded maps of U.S., Canada &amp; Mexico with TomTom Map Share, Advanced Lane Guidance and 7 Million POIs</li>
+<li>IQ Routes Technology gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip</li>
+<li>With TomTom Map Share technology, you can instantly modify street names, street direction, POIs, road speeds, and turn restrictions on your own device</li>
+<li>Award-winning Fold and Go EasyPort mount, folds flat against the device, making it easy for users to transport</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"> (out of 106 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B002OL2NT4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002OL2NT4" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 199.00<br><strong>Price: $ 129.95</strong><br></p>
+<h4><a name="1"></a>TomTom  XXL 540S 5-Inch Widescreen Portable GPS Navigator Reviews</h4>
+<div style="clear:left;"><i><b>Review by Pete: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B002OL2NT4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002OL2NT4" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51%2B6%2B%2BzQmhL._SL75_.jpg"></a>I bought the TomTom XXL 540S a few weeks ago. This gps is the big brother to the TomTom XL 340S. This gps just has the bigger and brighter 5″ screen.</p>
+<p>I have very mixed feelings about the gps. There are many things that I like about it, but there are also so many small details and functions that are lacking on it that TomTom either decided not to work on or decided to exclude. These little things that are missing drive me absolutely crazy at times and I don’t know if I can stand them or not. I may consider returning this gps and getting either a Garmin or Magellan instead. I don’t know yet. I really hope TomTom starts addressing some of these issues.</p>
+<p>Some of my pros vs cons are below which I hope will help others who are trying to decide on a gps.</p>
+<p>Pros:</p>
+<p>+ IQ Routes (TomTom uses historical speed data for roads based on the time of day and day of the week, so that it can give you the best possible route)<br>
+<br>+ Big 5″ Screen, which is easy to see.<br>
+<br>+ Very loud speaker. (Option in Volume Preferences to link the volume to your cars speed if you want)<br>
+<br>+ Satellite acquition is fast (less than 10 sec for me). Shows usually around 9 satellites.<br>
+<br>+ Map Color can be changed.<br>
+<br>+ Can change the color of the car symbol in 3D mode<br>
+<br>+ Auto Day/Night mode changes the brightness and color.<br>
+<br>+ Ability to prepare a route with any Depart and Destination coordinates.</p>
+<p>+ Shows the current street that your on at the bottom of the screen and the next street to turn on in the top right corner.</p>
+<p>+ Advanced Lane Guidance on the highway is displayed really nicely. Shows an arrow with the lane that you need to be in and also sometimes shows a 3D sign for your exit. It is nice and big and it stays on the screen long enough to be viewed so that its clear to see where you need to go.</p>
+<p>+ Status bar can be customized to how you like it. It can be displayed either horizontally or vertically. Can show the remaining time, remaining distance, current time, arrival time, your speed and the speed limit, distance to your next turn, compass, ect.</p>
+<p>+ TTS (text to speech) instructions are very helpful in letting you know where to turn and also preparing you for your next turn as well. For instance it will say something like “After one qurter mile turn right”. Then as you get closer to the street it will say “Turn right Main St. Then take the second left”</p>
+<p>Cons:</p>
+<p>- POI (Points of Interest) Map Screen shows the POI name, street and cross street, phone, city, and state. But it gives NO street addresses! So you don’t know the address or what side of the street the POI is on, unless you call the place ahead of time and ask. All you get is a checkered flag shown in the middle of the street with TomTom saying “you have reached your final destination”. On the Go model the POI Map Screen has a “Details” button that shows the street address, zip code, and food cuisine type for instance. Why TomTom decided to remove this on this model I have no idea.</p>
+<p>- No AutoZoom enable/disable option (like on the Go model). You can manually zoom in or out on the map, but about 5 sec later AutoZoom will kick in and take you right back to what TomTom wants you to see. Its very frustrating because I like to zoom in and out sometimes so that I can see more map detail, but TomTom won’t allow me to for anymore then about 5 sec. When I turn on the gps the zoom level that TomTom has picked is so bad that most all of the street outlines around me have completely vanished from the screen. All that I see are a bunch of street names just floating around on the map with no streets being shown.</p>
+<p>- Doesn’t speak which side of the street your destination is on. (If you enter a street address for a destination however it does show a little arrow on the map pointing to the left or right hand side of the street when you are approaching your destination. Along with a little checkered flag on the side of the street your destination is on.)</p>
+<p>- Change Preferences screen is 6 pages deep and only has a button to advance foward to the next page. There is no back button. So if you say accidently go past the screen you wanted to be on you have to then press the foward button 5 more times just to get back to that page.</p>
+<p>- No simple way to get into the Browse as Text turn lists display from the main screen.</p>
+<p>- Browse as Text route instructions, the text and arrows for the turn list is just way to small. Also there is no Auto Scroll function. To view the next page of new upcoming turns you have to scroll down the list manually yourself.</p>
+<p>- POI Map Screen in Night mode shows the cross street text in black, which is extremely difficult to see unless you get very close to the screen.</p>
+<p>- 3D mode during the day the maps background brightness isn’t consistent across the whole screen. There are noticable lines across the screen where you can see the various brightness stages. Towards the bottom of the map its the brightest and then as you pan up the screen it gets slightly darker. </p>
+<p>- Can’t enter the street name untill after you have entered the city. Its bad news if you know the street but unsure of the city. You should be able to search for the street in any city near you or near the city that you entered (if it was incorrect).</p>
+<p>- TTS (text to speech) of multiword street names sounds sometimes garbled.<br>
+<br>- TTS pronounces some words and streets pretty poorly.<br>
+<br>- Can’t change the color of the car symbol in 2D mode.<br>
+<br>- Can’t search restaurants by cuisine type.<br>
+<br>- No MicroSD memory card slot for expansion. Room is pretty tight with only 2GB of internal flash memory. After removing all of the voices except for computer voice Susan and removing most of the car symbols. I still only have 105mb of space free remaining.<br>
+<br>- Only supports USB 1.1 transfers. So when you install maps or performing backups its very slow.</p>
+<p>Miscellaneous info: gps chipset on mine was a GL2 BCM4750 (Global Locate 2), The CPU speed is 266MHZ. 64MB of RAM.</p>
+</div>
+<div style="clear:left;"><i><b>Review by C. D. Hess: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B002OL2NT4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002OL2NT4" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51%2B6%2B%2BzQmhL._SL75_.jpg"></a>I have owned several GPS units, including models from Garmin and Navman. I upgraded to this model from the TomTom 140S. This model has twice the screen size. The screen is brighter, and the sound is louder and fuller. I cannot recommend it highly enough. Routing is excellent. The Points of Interest database is huge. Advanced lane guidance is very helpful. The large screen makes data input easier. Like all TomToms, you can configure it to your liking. </p>
+<p>The only negative is that battery life is reduced because of the larger, brighter screen.</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B002OL2NT4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002OL2NT4">TomTom  XXL 540S 5-Inch Widescreen Portable GPS Navigator</a> now for only $ 129.95!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="2"></a>TomTom XL 330S 4.3-Inch Widescreen Portable GPS Navigator (Factory Refurbished)</h3>
+<p><a href="http://www.amazon.com/TomTom-4-3-Inch-Widescreen-Navigator-Refurbished/dp/B001OAQYO6%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001OAQYO6" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/51hA2Mor4dL._SL160_.jpg"></a>Amazon.com Product Description Boasting a 4.3-inch widescreen LCD for easier viewing in the car, the TomTom XL 330 and XL 330S features the plug and play ease of use, rock-solid navigation, and sleek design we’ve come to expect from TomTom. Both models come pre-loaded with highly accurate maps for the United States and Canada, with TomTom Map Share technology that enables you to instantly modify street names, street direction, and POIs on your own device.  Both models share the same navigation and user interface features. Howerver, the XL 330S adds text-to-speech, which means instead of hearing “turn right in 50 feet,” you’ll hear “turn right in 50 feet at Ohio Street.”   </p>
+<p>TomTom’s XL 330 series GPS devices have a 4.3-inch widescreen display.  Key Features and Benefits  Easy to Use right out of the box (Learn more) Clear Directions from the sensitive touchscreen display with turn-by-turn spoken directions  TomTom Map Share lets you instantly modify street names, street direction, and POIs on your own device and benefit from others’ corrections (Learn more) “Help Me!” Emergency Menu gives one-touch access to local emergency providers, such as police, fire stations, and hospitals Preloaded Complete Maps of the United States and Canada with TeleAtlas data EasyPort mount is foldable and slim for easy portability POI icons easily find gas stations, restaurants, hotels, and more along your route. Customize by adding your own points of interest QuickGPSfix speeds up the time it takes to fix your GPS position to help you drive off more quickly. Traffic-Capable with optional RDS-TMC traffic receiver accessory keeps you up-to-date on traffic events to minimize potential delays Daily Fuel Prices, available as an optional service, finds the lowest priced gas on your route   Specifications  Display: 4.3-inch TFT color LCD touchscreen (480
+</p><ul>
+<li>Portable GPS device with 4.3-inch widescreen touch LCD</li>
+<li>Preloaded with US and Canadian maps from TeleAtlas and millions of POIs, with ability to add and customize your own</li>
+<li>EasyPort mount easily attaches to your windshield and folds away for easy portability</li>
+<li>Traffic-capable with optional RDS-TMC traffic receiver (sold separately)</li>
+<li>Includes car charger; internal battery provides up to 3 hours of continuous usage</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3-5.png"> (out of 96 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-4-3-Inch-Widescreen-Navigator-Refurbished/dp/B001OAQYO6%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001OAQYO6" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 139.95<br><strong>Price: Too low to display</strong><br></p>
+<h4><a name="2"></a>TomTom XL 330S 4.3-Inch Widescreen Portable GPS Navigator (Factory Refurbished) Reviews</h4>
+<div style="clear:left;"><i><b>Review by R. Ned: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-4-3-Inch-Widescreen-Navigator-Refurbished/dp/B001OAQYO6%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001OAQYO6" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51hA2Mor4dL._SL75_.jpg"></a>I bought this unit refurbished as indicated.  I was worried about the possibility of it not coming with the most recent map updates (see the reviews for the TomTom ONE XL-S refurbished unit), but I went ahead and bought it anyway since I was being frugal.  The GPS came packaged nicely and did not have any blemishes or anything on it.  I used it for the first time on a several day trip to Phoenix, where I really got to experience the functionality of the device.</p>
+<p>Some good points:<br>
+<br>– the 4.3″ screen is nice, and I would recommend this screen size over the 3.5″ models.<br>
+<br>– the set-up is relatively easy (which was great since the instruction manual is a joke!).<br>
+<br>– TomTom has a pretty cool website (TomTom HOME) for you to use to get necessary updates your GPS, download accessories, etc.</p>
+<p>Some bad points”<br>
+<br>– the instruction manual is a joke.  Thankfully, I had a vague sense of what to do because I’d used a GPS once before.<br>
+<br>– the car adapter plugs in to the bottom of the unit in a way that is a bit unwieldy and awkward.<br>
+<br>– you can only get the street names spoken with the computer-generated voice.  If you chose any of the more human-sounding voices, the street name function will not work.<br>
+<br>– whenever you download a new map or map update, you lose your saved favorites. You have to manually re-enter them or save the file from before you updated.<br>
+<br>– it took forever for me to figure out how to cancel a destination once I was already en-route.  Since there is no help in the instruction manual, I just had to start pressing areas of the screen to get the device to take me to the right menu screen!</p>
+<p>– AND VERY IMPORTANTLY:  The unit I received came with a map that was 4 quarters (i.e., one year) old.  This was a risk based on some other reviews, even though the product description said the device comes with the most updated map or comes with the latest map guarantee.  So, I read up on the other TomTom refurb units that Amazon sells, and people were saying that it was relatively easy to get TomTom to give you an updated map.  So, I called the customer service line and talked to a rep.  He said that I needed the map guarantee certificate that came in the box, but I did not receive one. (FYI: some reviewers of the refurbished TomTom ONE XL-S unit said they got this in the box along with their GPS).  Since I didn’t have a certificate, the rep said it was unlikely I would get a new map.  However, I was determined to get my update, so I pressed a bit further.  The rep said maybe I could just send in my proof of purchase (Amazon receipt) and we’ll see what happens. (You can fax it or send it as an attachment through a website.) I did that, and lo and behold, I got an email message the NEXT DAY saying that my map update had been uploaded to my TomTom HOME account.  I downloaded it the next day without any problems.  So, despite the reluctance of the customer service rep, I got my new map!</p>
+<p>Overall, the unit works well, though the spoken street names can be bit hard to understand at times. I would give it 3.5 stars if I could.</p>
+</div>
+<div style="clear:left;"><i><b>Review by Michael A. Mundy: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-4-3-Inch-Widescreen-Navigator-Refurbished/dp/B001OAQYO6%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001OAQYO6" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51hA2Mor4dL._SL75_.jpg"></a>bought this unit for the wide screen and street name instructions feature – have used for two vacation trips to unfamiliar areas and so far it is everything I expected. Very accurate, good instructions, good street name pronunciation and very quick rerouting if wrong turn taken.<br>
+<br>First unit I received had out of date maps which tommtom would not update for free, but Amazon quickly shipped me a replacement unit that updated maps free at tomtom home with no problem. Amazon really stands behind the items I have purchased through them.</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-4-3-Inch-Widescreen-Navigator-Refurbished/dp/B001OAQYO6%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001OAQYO6">TomTom XL 330S 4.3-Inch Widescreen Portable GPS Navigator (Factory Refurbished)</a> now for only Too low to display!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="3"></a>TomTom XXL 540M 5-Inch Widescreen Portable GPS Navigator</h3>
+<p><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B003B3P2CO%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2CO" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/51hCZ%2BY4fjL._SL160_.jpg"></a>GPS, TOMTOM XXL 540M, LIFETIME MAPSOutsmart traffic with the TomTom XXL 540·M. With complete, five-inch widescreen navigation plus Lifetime Map Updates. On average, 15% of the road network changes each year, so it is important to have the most up-to-date maps. With the TomTom XXL 540·M you’ll always stay current with the latest and most accurate maps. Spoken turn-by-turn instructions including street names will guide you to any address in the US, Canada and Mexico–including more than 7 million preloaded points of interest.      Five-inch widescreen navigation plus Lifetime Map Updates.          Expand your horizons with a five-inch, extra-wide touchscreen.      The award-winning Fold &amp; Go EasyPort mount folds into the back of the device for maximum portability.     Only TomTom has IQ Routes Technology* which shaves time off even the shortest trips by calculating the fastest route based on time of day you are traveling. You’ll always drive the smartest, most efficient route and save time, fuel and money. Advanced Lane Guidance** uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. TomTom has the most accurate maps and with TomTom Map Share technology you can instantly modify street names, street direction, POIs, road speeds and turn restrictions on your own device. The “Help Me!” menu provides added safety features so you can easily access local emergency providers. The award-winning Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. Maps of US, Canada &amp; Mexico<br> Preloaded with maps of the US, Canada and Mexico. TomTom has the most accurate maps and with TomTom Map Share
+</p><ul>
+<li>Preloaded with maps of the US, Canada and Mexico with Lifetime Map Updates</li>
+<li>Preloaded with more than 7 million points of interest in over 60 destination categories–gas stations, restaurants, hotels, ATMs and more</li>
+<li>IQ Routes Technology calculates the fastest route possible based on time of day, saving you time, fuel and money</li>
+<li>Advanced Lane Guidance indicates exactly which lane to use, so you can go confidently</li>
+<li>Announces turn-by-turn directions aloud, including street and place names</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"> (out of 22 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B003B3P2CO%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2CO" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 229.00<br><strong>Price: Too low to display</strong><br></p>
+<h4><a name="3"></a>TomTom XXL 540M 5-Inch Widescreen Portable GPS Navigator Reviews</h4>
+<div style="clear:left;"><i><b>Review by S. Tolchinsky: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/1.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B003B3P2CO%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2CO" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51hCZ%2BY4fjL._SL75_.jpg"></a>Everything is great until you have to contact customer support.<br>
+<br>Before you buy this GPS you must to know: You have only 30 days warranty to replace your device with a new one (isn’t it useful!!!). If it will brake after it, you will get “refurbished” device, which is not exactly what you expect. It will be a USED unit, scratched all over, and in my case – not working! I spent 3 months talking and emailing to TomTom, and it seems there is no solution. You will end up with someone’s old GPS.<br>
+<br>I will never buy TomTom again.</p>
+</div>
+<div style="clear:left;"><i><b>Review by Carl Kogut: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B003B3P2CO%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2CO" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51hCZ%2BY4fjL._SL75_.jpg"></a>Although I just got this unit, I am very impressed! It’s very quick starting up, very quick in determining my location and seems to be very accurate in terms of exits, roads, etc.  My only disappointment is that the “lifetime” map feature is based on the “useful lifetime” of the device and TomTom reserves the right to determine what the useful life is and can withdraw support for it whenever they choose to.  That significantly reduces the value of the “lifetime” map offer, but for an extra , it’s probably still worth it, assuming they don’t stop supporting it within a year!</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-5-Inch-Widescreen-Portable-Navigator/dp/B003B3P2CO%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2CO">TomTom XXL 540M 5-Inch Widescreen Portable GPS Navigator</a> now for only Too low to display!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="4"></a>TomTom GPS Dashboard Mount for TomTom GPS Navigators</h3>
+<p><a href="http://www.amazon.com/TomTom-GPS-Dashboard-Mount-Navigators/dp/B001ET5O70%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001ET5O70" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/21Lt7ofzP%2BL._SL160_.jpg"></a>TomTom Dashboard Mount. Beanbag/Friction style mount for easy setup and removal in vehicle. This mount works with all TomTom products and is a great alternative to windshield mounting your TomTom ONE, XL, or GO product.
+</p><ul>
+<li>Dashboard mount for TomTom Products</li>
+<li>Easily move your TomTom from car to home or car to car</li>
+<li>Includes safety hook to prevent sliding</li>
+<li>Great alternative to windshield mounting</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3-5.png"> (out of 111 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-GPS-Dashboard-Mount-Navigators/dp/B001ET5O70%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001ET5O70" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 39.95<br><strong>Price: $ 13.90</strong><br></p>
+<h4><a name="4"></a>TomTom GPS Dashboard Mount for TomTom GPS Navigators Reviews</h4>
+<div style="clear:left;"><i><b>Review by Creative Thinker: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/1.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-GPS-Dashboard-Mount-Navigators/dp/B001ET5O70%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001ET5O70" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/21Lt7ofzP%2BL._SL75_.jpg"></a>The TomTom GPS Dashboard Mount seemed like a great idea… it provides a way for the GPS to sit on the dashboard and is easily removed when you park without anything permanent on the dash or window.  The problem is the GPS keeps falling off the mount!  The GPS has a suction cup on the bottom of the attachment but it does not stay (stick) on the mount…no matter how we did it. I finally bought industrial strength velcro which I attached to the suction cup and to the mount, which works!  I shouldn’t have had to do that.  TomTom has had complaints about this before… they should be the one to fix it!</p>
+</div>
+<div style="clear:left;"><i><b>Review by Rob Heinley: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/1.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-GPS-Dashboard-Mount-Navigators/dp/B001ET5O70%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001ET5O70" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/21Lt7ofzP%2BL._SL75_.jpg"></a>After many hours of shopping for a GPS for my car I settled on a TomTom model XL 330 S.  Being brand new to these navigation systems I didn’t think I needed anything more sophisticated.  I think I made a great choice and I’m very happy with the brand and model I chose.  What I’m not nearly as happy with is the TomTom GPS Dashboard Mount for TomTom GPS Navigators I bought at the same time.  It looks like it’s made well enough, as it’s heavy and substantial, but when you try to attach the GPS’s suction cup to it to try to anchor the GPS to it, there is just no way!  I removed the protective film that protects the surface on the mounting plate from scratching during shipment and cleaned the surface with an alcohol swab they include.  I cleaned the suction cup on the back of the XL 330 and tried it again, no better result.  I still am using the Dashboard Mount but now the plate which is attached to my GPS sits “under” the Mount as it is heavy enough to keep it from moving too far.  A brick would serve the same purpose, but would scratch your dashboard and wouldn’t look as nice.  Then again the Dashboard Mount looks kind of goofy too.  The Mount is not a good/wise investment.  rob</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-GPS-Dashboard-Mount-Navigators/dp/B001ET5O70%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001ET5O70">TomTom GPS Dashboard Mount for TomTom GPS Navigators</a> now for only $ 13.90!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="5"></a>TomTom XL 340-S 4.3-Inch Portable GPS Navigator</h3>
+<p><a href="http://www.amazon.com/TomTom-340-S-4-3-Inch-Portable-Navigator/dp/B001VEJEGK%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGK" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/51dqdl3g-lL._SL160_.jpg"></a>The TomTom XL 340-S is complete navigation in a widescreen device. Switch on and go right out of the box. Spoken turn-by-turn instructions, including street names, will guide you to any address in the United States, Canada, and Mexico–including more than 7 million preloaded points of interest.    Complete navigation in a widescreen device. Click to enlarge.     The Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. Click to enlarge.    IQ Routes Technology* gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip rather than only posted speed limits, so you’ll always travel the smartest route. Advanced Lane Guidance* uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. TomTom has the most accurate maps, and with TomTom Map Share technology, you instantly can modify street names, street direction, POIs, road speeds, and turn restrictions on your own device. With the “Help Me!” menu, added safety features enable you to easily access local emergency providers. The Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. The XL 340-S is complete, widescreen navigation. *Features only available in the United States and Canada. XL 340-S Features  Maps of United States, Canada, and Mexico with TomTom Map Share Spoken Street Names 7 million POIs IQ Routes Technology Advanced Lane Guidance Fold &amp; Go EasyPort Mount 4.3-inch Touchscreen  All TomToms Feature Plug &amp; Go–Works right out of the box. Preloaded Points of Interest–Easily find millions of gas stations, restaurants, hotels, and more on your route.
+</p><ul>
+<li>Complete widescreen navigation with the most accurate maps in a compact, portable GPS device with a 4.3-inch WQVGA touchscreen</li>
+<li>Spoken street names/turn-by-turn instructions and 3D graphics will guide you to any address in the United States, Canada, and Mexico</li>
+<li>IQ Routes Technology gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip</li>
+<li>Advanced Lane Guidance uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road</li>
+<li>With TomTom Map Share technology, you can instantly modify street names, street direction, POIs, road speeds, and turn restrictions on your own device</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3-5.png"> (out of 372 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-340-S-4-3-Inch-Portable-Navigator/dp/B001VEJEGK%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGK" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 169.00<br><strong>Price: Too low to display</strong><br></p>
+<h4><a name="5"></a>TomTom XL 340-S 4.3-Inch Portable GPS Navigator Reviews</h4>
+<div style="clear:left;"><i><b>Review by T. E. Pickering: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-340-S-4-3-Inch-Portable-Navigator/dp/B001VEJEGK%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGK" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51dqdl3g-lL._SL75_.jpg"></a>just received my new GPS today, plugged it into my mac, and installed tomtom’s mac version of their home software.  everything has worked well so far and the free map update installed fine.  there are two main things that purchasers need to know:</p>
+<p>1) space is very limited on the device.  there is only 2 GB of internal flash memory and out of the box there was less than 50 MB free.  the very first thing you should do is to delete voices in languages you don’t use.  this will free up a couple/three hundred MB.  they can get backed up to your computer so you could always put them back in the future.  once a bit of space is freed up you’ll be able to update the device without issue.  after removing spanish and french voices, running update which installed a new dave voice, and then installing the free map update i was left with 89 MB free.  when i tried to run update before removing the voices, the unit warned me about lack of space and aborted without creating any further problems.  maybe the mac version of home is more robust than the windows one in this respect.</p>
+<p>2) the device only supports USB 1.1 transfers which max out at a bit over 1 MB/sec and can be slower.  so doing a full backup or a map update will take quite a while (1-2 hours) and this is normal.  </p>
+<p>for me, those limitations are more than offset by the large, bright screen, text2speech capability, crowd-sourced map/route updates, and cheaper southern africa maps (we’re moving there soon).  especially given the cheap sale price i found.  i will provide updates as i put unit through paces on cross-country trip and then intercontinental move…..</p>
+</div>
+<div style="clear:left;"><i><b>Review by A. Tran: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-340-S-4-3-Inch-Portable-Navigator/dp/B001VEJEGK%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGK" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51dqdl3g-lL._SL75_.jpg"></a>I’m pretty tech savvy and have used different GPS devices in the past. I chose Tomtom over Garmin mainly due to tomtom HOME support, better user interface: tomtom has more info on the screen including the street name you’re driving on. </p>
+<p>Most negative reviews here are from issues updating map which is larger than the old one (about 5 Mb larger) and causes error.<br>
+<br>but it’s simple to go around it. </p>
+<p>1. connect to home computer. turn the unit on. select Yes to connect. Tomtom Home will install on your computer.<br>
+<br>2. on Tomtom HOME menu, go to “Manage my ONE XL”. On Items on Device, click voices. you can back up then delete all foreign computer voices (recorded voice files are small, so doesn’t matter). just keep DAVE, and Susan computer voices( you need at least one computer voice for spoken street names). You should free up about 130 Mb (much more than you need)<br>
+<br>3. now you can update new map with no problem. it does take a long time. after you’re done, you still have 125 Mb extra to download customized items, map corrections in the future. customized car symbols are really cool, as are start up and shut down images. these customized items and map corrections are so small: tiny to 0.5 Mb that with &gt; 125 Mb free, you can keep updating for years to come. </p>
+<p>Pros: 4.3 inch screen, great routing, advanced lane guidance (it does work well), IQ route (faster route based on historical traffic data), very quick GPS fix </p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-340-S-4-3-Inch-Portable-Navigator/dp/B001VEJEGK%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGK">TomTom XL 340-S 4.3-Inch Portable GPS Navigator</a> now for only Too low to display!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="6"></a>TomTom XL 340TM 4.3-Inch Portable GPS Navigator</h3>
+<p><a href="http://www.amazon.com/TomTom-340TM-4-3-Inch-Portable-Navigator/dp/B003B3P2C4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2C4" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/51-Ay-nhCCL._SL160_.jpg"></a>GPS, TOMTOM XL 340TM, LIFETIMEGet street smart with the TomTom XL 340·TM–complete widescreen navigation, featuring Lifetime Traffic and Map Updates. Outsmart traffic and minimize delays with Lifetime Traffic Updates. Based on incoming traffic events, your device will suggest alternate routes. And, with Lifetime Map Updates you’ll always drive with the latest and most accurate maps. On average, 15% of the road network changes each year, so it is important to have the most up-to-date maps. With the XL 340·TM you’ll always stay current.    Complete widescreen navigation, featuring Lifetime Traffic and Map Updates.       Expand your horizons with a 4.3″ extra-wide touchscreen.      The award-winning Fold &amp; Go EasyPort mount folds into the back of the device for maximum portability.    Switch on and go right out of the box. Spoken turn-by-turn instructions including street names will guide you to any address in the US, Canada, and Mexico–including more than 7 million preloaded points of interest. The TomTom XL 340·TM is complete, widescreen navigation. Only TomTom has IQ Routes Technology* which shaves time off even the shortest trips by calculating the fastest route based on time of day you are traveling. You’ll always drive the smartest, most efficient route while saving time, fuel and money. Advanced Lane Guidance** uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. With TomTom Map Share technology you can instantly modify street names, street direction, POIs, road speeds and turn restrictions on your own device. The “Help Me!” menu provides added safety features so you can easily access local emergency providers. The award-winning Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with
+</p><ul>
+<li>Preloaded with maps of the US, Canada and Mexico with Lifetime Map Updates</li>
+<li>Lifetime Traffic Updates included–outsmart traffic and avoid delays for life with real-time information via your TomTom</li>
+<li>Preloaded with more than 7 million points of interest in over 60 destination categories–gas stations, restaurants, hotels, ATMs and more</li>
+<li>IQ Routes Technology calculates the fastest route possible based on time of day, saving you time, fuel and money</li>
+<li>Advanced Lane Guidance indicates exactly which lane to use, so you can go confidently</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3-5.png"> (out of 372 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-340TM-4-3-Inch-Portable-Navigator/dp/B003B3P2C4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2C4" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 229.00<br><strong>Price: Too low to display</strong><br></p>
+<h4><a name="6"></a>TomTom XL 340TM 4.3-Inch Portable GPS Navigator Reviews</h4>
+<div style="clear:left;"><i><b>Review by T. E. Pickering: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-340TM-4-3-Inch-Portable-Navigator/dp/B003B3P2C4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2C4" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51-Ay-nhCCL._SL75_.jpg"></a>just received my new GPS today, plugged it into my mac, and installed tomtom’s mac version of their home software.  everything has worked well so far and the free map update installed fine.  there are two main things that purchasers need to know:</p>
+<p>1) space is very limited on the device.  there is only 2 GB of internal flash memory and out of the box there was less than 50 MB free.  the very first thing you should do is to delete voices in languages you don’t use.  this will free up a couple/three hundred MB.  they can get backed up to your computer so you could always put them back in the future.  once a bit of space is freed up you’ll be able to update the device without issue.  after removing spanish and french voices, running update which installed a new dave voice, and then installing the free map update i was left with 89 MB free.  when i tried to run update before removing the voices, the unit warned me about lack of space and aborted without creating any further problems.  maybe the mac version of home is more robust than the windows one in this respect.</p>
+<p>2) the device only supports USB 1.1 transfers which max out at a bit over 1 MB/sec and can be slower.  so doing a full backup or a map update will take quite a while (1-2 hours) and this is normal.  </p>
+<p>for me, those limitations are more than offset by the large, bright screen, text2speech capability, crowd-sourced map/route updates, and cheaper southern africa maps (we’re moving there soon).  especially given the cheap sale price i found.  i will provide updates as i put unit through paces on cross-country trip and then intercontinental move…..</p>
+</div>
+<div style="clear:left;"><i><b>Review by A. Tran: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-340TM-4-3-Inch-Portable-Navigator/dp/B003B3P2C4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2C4" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/51-Ay-nhCCL._SL75_.jpg"></a>I’m pretty tech savvy and have used different GPS devices in the past. I chose Tomtom over Garmin mainly due to tomtom HOME support, better user interface: tomtom has more info on the screen including the street name you’re driving on. </p>
+<p>Most negative reviews here are from issues updating map which is larger than the old one (about 5 Mb larger) and causes error.<br>
+<br>but it’s simple to go around it. </p>
+<p>1. connect to home computer. turn the unit on. select Yes to connect. Tomtom Home will install on your computer.<br>
+<br>2. on Tomtom HOME menu, go to “Manage my ONE XL”. On Items on Device, click voices. you can back up then delete all foreign computer voices (recorded voice files are small, so doesn’t matter). just keep DAVE, and Susan computer voices( you need at least one computer voice for spoken street names). You should free up about 130 Mb (much more than you need)<br>
+<br>3. now you can update new map with no problem. it does take a long time. after you’re done, you still have 125 Mb extra to download customized items, map corrections in the future. customized car symbols are really cool, as are start up and shut down images. these customized items and map corrections are so small: tiny to 0.5 Mb that with &gt; 125 Mb free, you can keep updating for years to come. </p>
+<p>Pros: 4.3 inch screen, great routing, advanced lane guidance (it does work well), IQ route (faster route based on historical traffic data), very quick GPS fix </p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-340TM-4-3-Inch-Portable-Navigator/dp/B003B3P2C4%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003B3P2C4">TomTom XL 340TM 4.3-Inch Portable GPS Navigator</a> now for only Too low to display!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="7"></a>TomTom ONE 140-S 3.5-Inch Portable GPS Navigator</h3>
+<p><a href="http://www.amazon.com/TomTom-140-S-3-5-Inch-Portable-Navigator/dp/B001VEJEG0%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEG0" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/41Rf%2BCDWjwL._SL160_.jpg"></a>The TomTom ONE 140-S is complete navigation. Switch on and go right out of the box. Spoken turn-by-turn instructions, including street names, will guide you to any address in the United States, Canada, and Mexico–including more than 7 million preloaded points of interest.      Complete navigation and spoken street names. Click to enlarge.     The Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. Click to enlarge.     IQ Routes Technology* gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip rather than only posted speed limits, so you’ll always travel the smartest route. Advanced Lane Guidance* uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. TomTom has the most accurate maps, and with TomTom Map Share technology, you instantly can modify street names, street direction, POIs, road speeds, and turn restrictions on your own device. With the “Help Me!” menu, added safety features enable you to easily access local emergency providers. The Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. The ONE 140-S is complete navigation. *Features only available in the United States and Canada. TomTom ONE 140-S Features  Maps of United States, Canada, and Mexico with TomTom Map Share  Spoken Street Names  7 million POIs  IQ Routes Technology  Advanced Lane Guidance  Fold &amp; Go EasyPort Mount   All TomToms Feature Plug &amp; Go–Works right out of the box. Preloaded Points of Interest–Easily find millions of gas stations, restaurants, hotels, and more
+</p><ul>
+<li>Complete navigation with the most accurate maps in a compact, portable GPS device with a 3.5-inch QVGA touchscreen</li>
+<li>Spoken street names/turn-by-turn instructions and 3D graphics will guide you to any address in the United States, Canada, and Mexico</li>
+<li>IQ Routes Technology gives fastest route every time by using actual average speeds of travel to calculate your trip rather than speed limits</li>
+<li>Advanced Lane Guidance uses photorealistic images to bring even more clarity to complex multi-lane exits</li>
+<li>With TomTom Map Share technology, you can instantly modify street names, street direction, POIs, road speeds, and turn restrictions</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3-5.png"> (out of 108 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-140-S-3-5-Inch-Portable-Navigator/dp/B001VEJEG0%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEG0" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 149.00<br><strong>Price: Too low to display</strong><br></p>
+<h4><a name="7"></a>TomTom ONE 140-S 3.5-Inch Portable GPS Navigator Reviews</h4>
+<div style="clear:left;"><i><b>Review by Damodar Chetty: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/3.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-140-S-3-5-Inch-Portable-Navigator/dp/B001VEJEG0%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEG0" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/41Rf%2BCDWjwL._SL75_.jpg"></a>After a couple of long trips out into the country, and a lot of in-city driving, here are my conclusions (comparisons are to the Magellan 1440 and the Nuvi 660).</p>
+<p>::::::::::::::::::::<br>
+<br>What works well:<br>
+<br>::::::::::::::::::::<br>
+<br>1. In standard suburban driving, I never once lost a signal. It takes about 25-50 seconds to find a signal on a cold start, which is par for the course with other GPS units I’ve used.</p>
+<p>2. The routing was pretty decent, and got me to where I was trying to go. It was able to recover fairly quickly when I went off course, and then re-plot a revised route fairly quickly.</p>
+<p>3. The unit is tiny and literally fits in my front shirt pocket. I can see this as being a great walkabout unit.</p>
+<p>4. You can charge the device from a computer or from a USB charger – a wonderful option when not using it in an automobile.</p>
+<p>5. One touch volume change. Simply click and drag … no need to click a separate OK button.</p>
+<p>6. The coolest new feature with this device is its Demo mode. You simply input your target destination, and then have it simulate a drive to that location. This worked great when I had to show a friend how to get to a location.</p>
+<p>7. A speed limit warning beeps at you when you go over either a set driving speed, or when you go over the speed limit for a highway. Unfortunately, I could only get it to warn me on the freeway (where the speed limits are mostly well known.) However, my Nuvi 660 works well even on most neighborhood streets.</p>
+<p>8. There are a ton of safety features that can be turned on – such as audible warnings when you get near a school or place of worship. I’m not yet sure how useful this will turn out to be, but its definitely a fun feature.</p>
+<p>9. It provides lots of color schemes for both day and night displays. I just went with the defaults, which were more than adequate. In particular, the night time view is very clear and easy to read.</p>
+<p>10. POIs are editable. In fact a lot about this device is user editable (incl. speed limits on streets, street names, etc.) This works for the occasional edit or error correction.</p>
+<p>::::::::::::::::::::::::::::<br>
+<br>What doesn’t work well:<br>
+<br>::::::::::::::::::::::::::::</p>
+<p>1. The screen real estate is just way too cramped. Once you factor in all the “avionics”, the map display ends up being cramped. I much prefer the roomier 1440. Of course, I cannot slip the 1440 into a shirt pocket.</p>
+<p>2. In my usage, I regularly rely on good voice prompts. The 140-S lets you pick from either a “human” or a “computer” voice. This choice is a problem for me since one voice can speak street names while the other cannot. It’s hard to imagine why the engineers felt that this  choice was relevant, especially since the text to speech feature loses it’s value (at least to me) when street names cannot be spoken. Also, depending on the voice I chose, the units changed from feet (which I liked) to yards (which I had to mentally convert).</p>
+<p>3. The speech is on par with my Nuvi 660, and not quite close to what the 1440 can do. The words often lose a syllable and sound clipped. This is slightly better than the 660.</p>
+<p>4. The unit does not Power On the vehicle is turned on, or Power Off when the vehicle is turned off. This is a biggie.</p>
+<p>5. The Magellan 1440′s Lane Assist is much more informative. On my commute, there are at least 3 interchanges off of 494 to other highways. At each such major interchange it warns me about staying on the correct lane. The 140-S seems to do so only when it thinks there is potential for confusion. I’d much prefer the extra help, esp. when in an unfamiliar city.</p>
+<p>6. The screen is difficult to see in direct sunlight, but its still slightly better than the Magellan 1440.</p>
+<p>7. The mount folds neatly into the device, and is very low profile. However, when removing a GPS unit, I almost always just unhook the device itself rather than taking along the whole mount, I’ve yet to see why this may be a design advantage. In addition, the low profile actually makes it harder to position in my Bracketron mount.</p>
+<p>8. The USB connector seats in snug, and then is really, really hard to unplug. I thought I was going to damage the connector before it finally came off.</p>
+<p>9. The POI database is very incomplete. It couldn’t find either the Best Buy, Walmart, or Sam’s Club in Woodbury, MN. Even worse, it placed the Oakdale Best Buy right in the middle of I-94.</p>
+<p>10. Strange terminology – a “roundabout” becomes a “rotary”.</p>
+<p>11. The keyboard does not default to QWERTY – and I found that a bit hard to get used to until I discovered a preference that sets this mode.</p>
+<p>:::::::::::::::<br>
+<br>Conclusion:<br>
+<br>:::::::::::::::<br>
+<br>The screen size is fairly minuscule when compared to the 4.5″ 1440. A key deciding factor is which you value higher, portability or readability/usability. This wins on portability, but I’d recommend a larger screen otherwise.</p>
+<p>The 1440 is my gold standard for data entry, voice prompts, and lane assist; and the 140-S doesn’t compare as well on those counts.</p>
+<p>(Note that while other reviewers have complained about issues when updating this device – I haven’t yet connected it to my computer.)</p>
+<p>Updated July 29:<br>
+<br>I have noticed that I cannot “click and drag” to scroll the map. Each click takes me to the routing screen. This is a major downside for my specific usage behavior. The 1440, by contrast, scrolls like a dream. </p>
+<p>Happy Driving!<br>
+<br>-Damodar</p>
+</div>
+<div style="clear:left;"><i><b>Review by C. D. Hess: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-140-S-3-5-Inch-Portable-Navigator/dp/B001VEJEG0%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEG0" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/41Rf%2BCDWjwL._SL75_.jpg"></a>I have just replaced my TomTom One 130S with the 140S. The IQ Routes Technology dramatically improves the routing. I have owned Navman, Mio, and Garmin GPS units. This one has the best routing yet! This is an excellent value!</p>
+<p>Edit: I just returned from a trip from Rochester, NY to Charleston, WV to Topsail, NC.</p>
+<p>I was very impressed with my 140S. It never suggested a faulty or weird route. One route it suggested in West Virginia was far superior to the route I normally take. </p>
+<p>The voice directions always seem to be spoken at exactly the right time. </p>
+<p>“Reality views” of expressway interchanges popped up frequently. I have really come to appreciate the feature.</p>
+<p>I love that you can set voice warnings for Rest Areas. </p>
+<p>The only negative thing I have to report is that some POIs in the Topsail, NC area were shown in wrong locations. I also found this to be the case with my Garmin 260 last year.</p>
+<p>A new section of interstate in North Carolina is in the latest map. My brother’s Garmin (with the latest map) does not yet show the new road. </p>
+<p>I have more confidence in the 140S than any GPS I have owned.</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-140-S-3-5-Inch-Portable-Navigator/dp/B001VEJEG0%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEG0">TomTom ONE 140-S 3.5-Inch Portable GPS Navigator</a> now for only Too low to display!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="8"></a>TomTom XXL 540S 5-Inch Widescreen Portable GPS Navigator (Factory Refurbished)</h3>
+<p><a href="http://www.amazon.com/TomTom-Widescreen-Portable-Navigator-Refurbished/dp/B003ES5F5A%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ES5F5A" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/519YtEIfJrL._SL160_.jpg"></a>See more and drive easily with an extra wide screen. Touch screen technology gives you the easiest operation to make using the TomTom XXL540s a pleasure.This is a refurbished GPS. Refurbished generally means that the unit has been returned to the manufacturer, who brings the navigator back to like new conditions. Some GPS may contain cosmetic blemishes.The TomTom XXL 540·S is complete navigation in a XXL widescreen device. Switch on and go right out of the box. Spoken turn-by-turn instructions including street names will guide you to any address in the US, Canada and Mexico–including more than 7 million preloaded points of interest.    Complete navigation in a XXL widescreen device. Click to enlarge.       EasyPort mount folds neatly onto the back of your device. Click to enlarge.     Advanced Lane Guidance uses photorealistic images to bring even more clarity to complex multi-lane exits. Click to enlarge.     This is a refurbished GPS. Refurbished generally means that the unit has been returned to the manufacturer, who brings the navigator back to like new conditions. Some GPS may contain cosmetic blemishes.Complete XXL Widescreen Navigation and Spoken Street Names IQ Routes<br> IQ Routes Technology* gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip rather than only posted speed limits, so you’ll always travel the smartest route. Advanced Lane Guidance<br> Advanced Lane Guidance** uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. 5-Inch Touchscreen<br> An extra-wide 5.0-inch touchscreen helps you find your way, worry-free. TomTom Map Share<br> TomTom has the most accurate maps and with TomTom Map Share technology you can instantly modify street names, street
+</p><ul>
+<li>Factory refurbished</li>
+<li>Advance Lane Guidance</li>
+<li>Spoken instructions and street names</li>
+<li>5″XXL Screen for better view</li>
+<li>Easy Port mount</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"> (out of 29 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-Widescreen-Portable-Navigator-Refurbished/dp/B003ES5F5A%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ES5F5A" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 299.95<br><strong>Price: $ 94.99</strong><br></p>
+<h4><a name="8"></a>TomTom XXL 540S 5-Inch Widescreen Portable GPS Navigator (Factory Refurbished) Reviews</h4>
+<div style="clear:left;"><i><b>Review by Warren E. Cortesi: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-Widescreen-Portable-Navigator-Refurbished/dp/B003ES5F5A%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ES5F5A" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/519YtEIfJrL._SL75_.jpg"></a>I received this for a birthday gift (that I picked out), and I can not tell it from a new one. I even got the latest map update! Not sure if that was luck or not, but I’m not complaining. I’ve had two other Tomtom’s, and they work fine for me, although the Garmin’s do have a better looking interface. I drive a semi, and although this does not have truck routes, if you use some common sense you’ll do just fine.<br>
+<br>The lane guidance is nice, as is the junction view (although a little gimmicky). I’ve even found the pronunciation of street names to be quite good, unlike what some others have said (even does a good job of saying “Puyallup”!).<br>
+<br>I can easily recommend this product, especially at this price for a 5″ unit.</p>
+<p> Do yourself a favor and get the ARKON TTEP115 TomTom EasyPort Windshield / Dash Mount to replace the near useless mount that comes with this model, though!</p>
+</div>
+<div style="clear:left;"><i><b>Review by Allan Levene: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-Widescreen-Portable-Navigator-Refurbished/dp/B003ES5F5A%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ES5F5A" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/519YtEIfJrL._SL75_.jpg"></a>I’ve used TomTom, Magellan and Garmin in the past. Rather than repeat the feature list I’ll state that this is far and away the best unit I’ve ever used. I tried the latest Magellan and Garmin, but neither had a chance against the TomTom. Stop shopping, buy one… you’ll like it.</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-Widescreen-Portable-Navigator-Refurbished/dp/B003ES5F5A%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ES5F5A">TomTom XXL 540S 5-Inch Widescreen Portable GPS Navigator (Factory Refurbished)</a> now for only $ 94.99!</strong></p>
+</div>
+<div style="border: 1px solid #ccc;padding:5px;margin-top:5px;clear:left;">
+<h3><a name="9"></a>TomTom XL 340 4.3-Inch Portable GPS Navigator</h3>
+<p><a href="http://www.amazon.com/TomTom-340-4-3-Inch-Portable-Navigator/dp/B001VEJEGA%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGA" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 20px 10px 0;" src="http://ecx.images-amazon.com/images/I/41g14KLuetL._SL160_.jpg"></a>Amazon.com Product Description The TomTom XL 340 is complete navigation in a widescreen device. Switch on and go right out of the box. Spoken turn-by-turn instructions will guide you to any address in the United States, Canada, and Mexico–including more than 7 million preloaded points of interest.    Complete navigation in a widescreen device. Click to enlarge.     The Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. Click to enlarge.    IQ Routes Technology* gives you the fastest route every time by using actual average speeds of travel on your route to calculate your trip rather than only posted speed limits, so you’ll always travel the smartest route. Advanced Lane Guidance* uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road. TomTom has the most accurate maps, and with TomTom Map Share technology, you instantly can modify street names, street direction, POIs, road speeds, and turn restrictions on your own device. With the “Help Me!” menu, added safety features enable you to easily access local emergency providers. The Fold &amp; Go EasyPort mount folds flat against the device, making it easy to take it with you from car to car. The XL 340 is complete, widescreen navigation. *Features only available in the United States and Canada. XL 340 Features  Maps of United States, Canada, and Mexico with TomTom Map Share 7 million POIs IQ Routes Technology Advanced Lane Guidance Fold &amp; Go EasyPort Mount Spoken Instructions 4.3-inch Touchscreen  All TomToms Feature Plug &amp; Go–Works right out of the box. Preloaded Points of Interest–Easily find millions of gas stations, restaurants, hotels, and more on your route. 30-Day
+</p><ul>
+<li>Complete widescreen navigation with the most accurate maps in a compact, portable GPS device with a 4.3-inch WQVGA touchscreen</li>
+<li>Spoken turn-by-turn instructions and 3D graphics will guide you to any address in the United States, Canada, and Mexico</li>
+<li>IQ Routes Technology gives you the fastest route every time by using actual average speeds of travel on your route</li>
+<li>Advanced Lane Guidance uses photorealistic images to bring even more clarity to complex multi-lane exits so you can be more confident on the road</li>
+<li>With TomTom Map Share technology, you can instantly modify street names, street direction, POIs, road speeds, and turn restrictions on your own device</li>
+</ul>
+<p><strong>Rating:</strong> <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"> (out of 74 reviews)</p>
+<p>
+</p><div style="float:right;"><a href="http://www.amazon.com/TomTom-340-4-3-Inch-Portable-Navigator/dp/B001VEJEGA%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGA" rel="nofollow"><img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/buynow-big.gif"></a></div>
+<p>List Price: $ 229.95<br><strong>Price: $ 101.92</strong><br></p>
+<h4><a name="9"></a>TomTom XL 340 4.3-Inch Portable GPS Navigator Reviews</h4>
+<div style="clear:left;"><i><b>Review by B. Altman: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/5.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-340-4-3-Inch-Portable-Navigator/dp/B001VEJEGA%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGA" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/41g14KLuetL._SL75_.jpg"></a>As soon as I bought it we went from MD to NJ so had no time to connect it to a PC and update it, but out of the box it did everything it was supposed to and was fairly easy to use (this is my first GPS device that I have used). </p>
+<p>The instructions that came with it were nothing special and I have since discovered more detailed ones online. I liked that the GPS had the speed we were going and the speed limit of the road you are on in a box at the bottom of the screen which turns red when you are going around 4.5 miles over the limit. One time it stated the limit as 55 when it was really 65 on the NJ turnpike but this was before doing a map update and in any case you can correct it on the device itself and the next time you connect to tomtom online it uploads that information to the general community as you have the option of accepting other people’s corrections (you can limit it to when many people submit the same correction instead of trusting a single person’s report and by default it will only accept Tomtom’s officially confirmed corrections). We also loved the lane assist feature – it comes up nice and clear which lanes you should be in. 2 miles before a turn it already announces what you will be doing and it re-announces it when you get closer and closer. Adjusting the sound level is a 2 touch operation. You press the bottom left part of the screen (can’t remember what the image is now) and it brings you straight to the volume level which also has a box checked that allows it to increase the volume with the speed your vehicle is going at which is nice.</p>
+<p>The only glitch we had with the unit was that during the first start up we were setting the different options and when it got to where you choose the voice, we began testing out each voice and then went back to the voice we wanted and when I hit the “test” button again I didn’t hear anything but ignored that and selected the voice. After a while though it became apparent that we were not getting any voice despite the volume being on and up etc. I went in to the preferences and found the voice selection (the manual in the box was not detailed enough to tell how to do it but it was easy enough to find) and chose another voice which tested okay then reselected the one we wanted which also tested okay and selected it again and all was well.</p>
+<p>When I got home I installed the Tomtom Home software from their website (it did not auto install after plugging it in to my PC which was good because it was better to use the latest version anyway – it can be updated after installing so don’t worry about that). Whilst doing the maps update I did a little searching around and discovered that some people had a big problem doing the 1st update where there was not enough room on the device for it and it could potentially cause problems on the GPS. Thankfully, it seems to be a problem that was fixed and the map update went well. But in line with some advise online, I went into the device through windows explorer and did a copy and paste of the entire drive which represented the device pasted to my harddrive as a backup (the Tomtom home software can also do this for you, except mine was updating so I couldn’t use it yet). My only surprise was that it took over 5 hours to download the update! After that it gave me a screen full of other updates including the software on the GPS itself. I initially deselected the install of the “Dave” voice update that it wanted to download and install, and all the rest went okay. After that though, I decided to update the “Dave” voice too and after downloading it gave me an error that the GPS was too full to install it. I went to the Tomtom site and found the answer to installing it. You load the Tomtom Home software and you can click on “Manage my Device” on page 2 (click the arrow to go to next page of options), from there you can click on on the device and see what is on it and click what you don’t want so space is freed up and you can back the files up and then remove them all from there (I removed all the foreign language voices for around an extra 80MB of free space ). After that, installing the latest “Dave” voice went without a hitch. Since I don’t use that voice I didn’t really have to update it. Apparently the voices marked “computer” (generated) on the device will pronounce all the street names while the natural voices will not. It seems to have a lot of flexibility in being able to add your own list of POI’s, voices and many other things. You can also get through the Tomtom Home software many other POI’s and stuff other people have provided for free.</p>
+<p>So far I am pleased with the purchase and would recommend it to others though probably not at the recommended retail price (at that price you can get a deal on the Garmin 765T – which has many nice features including free traffic reports – not sure how that compares to Tomtom’s IQ routes though. We bought ours on Black Friday for a significant price reduction).</p>
+</div>
+<div style="clear:left;"><i><b>Review by ohmedic88: <img alt="tomtom" src="http://affiliates-program-marketing.com/wp-content/plugins/WPShoppingPages/images/4.png"></b></i><br>
+<p><a href="http://www.amazon.com/TomTom-340-4-3-Inch-Portable-Navigator/dp/B001VEJEGA%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGA" rel="nofollow"><img alt="tomtom" style="float:left;margin: 0 10px 5px 0;" src="http://ecx.images-amazon.com/images/I/41g14KLuetL._SL75_.jpg"></a>I had a TomTom XL that my 5 year got a hold of and left it on the driveway. Needless to say it doesn’t charge well after a Honda Pilot runs over it.</p>
+<p>This one is more slender and has improved graphics but runs mostly the same as the other model. My one beef with the model is the mounting bracket on the back which is a nice design conceptionaly, However It flew apart the first time I tried to take it off my windshield. A spring that I assume was mounted inside flew into my dashboard and I haven’t been able to recover it. Of course I’ve tried to put it back together and I guess the spring had some supper power to hold it together cause I can’t get it to go. I have a Schorche mount for my ipod so I’m not worried about it.</p>
+<p>Overall the system works well. I have noticed my address is about 1/4 mile off but for the most part it can get me to the local Taco Bell a local Dentist (which I thought it would never find because its in a house) and weave me through some difficult construction on the route to Grandmas house.  I get to use it to find the Zoo tomorrow so wish me luck. </p>
+<p>I dinged it one star for my house number being in the wrong spot but lets face it knowing where your supposed to go and some common sense will fix this one. The other part specifically the mounting bracket being bad.</p>
+</div>
+<p><strong>Buy <a href="http://www.amazon.com/TomTom-340-4-3-Inch-Portable-Navigator/dp/B001VEJEGA%3FSubscriptionId%3DAKIAJEFQDM4LVH6N547Q%26tag%3Daffilprogrmar-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001VEJEGA">TomTom XL 340 4.3-Inch Portable GPS Navigator</a> now for only $ 101.92!</strong></p>
+</div>
+<p style="clear:both;">Find more tomtom products on <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb%255Fsb%255Fnoss%26y%3D0%26field-keywords%3Dtomtom%26url%3Dsearch-alias%253Daps&amp;tag=affilprogrmar-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957"><strong>Amazon</strong></a>!</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a href="http://www.addtoany.com/add_to/google_bookmarks?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Google Bookmarks" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/google.png" width="16" height="16" alt="Google Bookmarks"></a></li><li><a href="http://www.addtoany.com/add_to/hugg?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Hugg" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/hugg.png" width="16" height="16" alt="Hugg"></a></li><li><a href="http://www.addtoany.com/add_to/technorati_favorites?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Technorati Favorites" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/technorati.png" width="16" height="16" alt="Technorati Favorites"></a></li><li><a href="http://www.addtoany.com/add_to/windows_live_favorites?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Windows Live Favorites" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/live.png" width="16" height="16" alt="Windows Live Favorites"></a></li><li><a href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Twitter" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter"></a></li><li><a href="http://www.addtoany.com/add_to/taggly?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Taggly" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/taggly.png" width="16" height="16" alt="Taggly"></a></li><li><a href="http://www.addtoany.com/add_to/netvibes_share?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Netvibes Share" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/netvibes.png" width="16" height="16" alt="Netvibes Share"></a></li><li><a href="http://www.addtoany.com/add_to/linkatopia?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Linkatopia" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/linkatopia.png" width="16" height="16" alt="Linkatopia"></a></li><li><a href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Facebook" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook"></a></li><li><a href="http://www.addtoany.com/add_to/digg?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Digg" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/digg.png" width="16" height="16" alt="Digg"></a></li><li><a href="http://www.addtoany.com/add_to/dzone?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="DZone" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/dzone.png" width="16" height="16" alt="DZone"></a></li><li><a href="http://www.addtoany.com/add_to/diglog?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Diglog" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/diglog.png" width="16" height="16" alt="Diglog"></a></li><li><a href="http://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="LinkedIn" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/linkedin.png" width="16" height="16" alt="LinkedIn"></a></li><li><a href="http://www.addtoany.com/add_to/mylinkvault?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="MyLinkVault" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/mylinkvault.png" width="16" height="16" alt="MyLinkVault"></a></li><li><a href="http://www.addtoany.com/add_to/netvouz?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Netvouz" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/netvouz.png" width="16" height="16" alt="Netvouz"></a></li><li><a href="http://www.addtoany.com/add_to/tagza?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Tagza" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/tagza.png" width="16" height="16" alt="Tagza"></a></li><li><a href="http://www.addtoany.com/add_to/wink?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Wink" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/wink.png" width="16" height="16" alt="Wink"></a></li><li><a href="http://www.addtoany.com/add_to/wists?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Wists" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/wists.png" width="16" height="16" alt="Wists"></a></li><li><a href="http://www.addtoany.com/add_to/orkut?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Orkut" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/orkut.png" width="16" height="16" alt="Orkut"></a></li><li><a href="http://www.addtoany.com/add_to/amazon_wish_list?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Amazon Wish List" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/amazon.png" width="16" height="16" alt="Amazon Wish List"></a></li><li><a href="http://www.addtoany.com/add_to/blogger_post?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Blogger Post" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/blogger.png" width="16" height="16" alt="Blogger Post"></a></li><li><a href="http://www.addtoany.com/add_to/delicious?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Delicious" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/delicious.png" width="16" height="16" alt="Delicious"></a></li><li><a href="http://www.addtoany.com/add_to/phonefavs?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="PhoneFavs" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/phonefavs.png" width="16" height="16" alt="PhoneFavs"></a></li><li><a href="http://www.addtoany.com/add_to/squidoo?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="Squidoo" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/squidoo.png" width="16" height="16" alt="Squidoo"></a></li><li><a href="http://www.addtoany.com/add_to/wordpress?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="WordPress" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/wordpress.png" width="16" height="16" alt="WordPress"></a></li><li><a href="http://www.addtoany.com/add_to/youmob?linkurl=http%3A%2F%2Faffiliates-program-marketing.com%2Fgps-product-reviews%2Ftomtom-gps-product-reviews%2F&amp;linkname=TomTom%20GPS%20Product%20Reviews" title="YouMob" rel="nofollow" target="_blank"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/icons/youmob.png" width="16" height="16" alt="YouMob"></a></li><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://affiliates-program-marketing.com/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+var a2a_config = a2a_config || {};
+a2a_config.linkname="TomTom GPS Product Reviews";
+a2a_config.linkurl="http://affiliates-program-marketing.com/gps-product-reviews/tomtom-gps-product-reviews/";
+//--></script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+
+</div>      	            </div></div>
+		        	 
+ 
+<div id="respond">
+<div class="comment-wrap"><h3>Leave a Reply</h3>
+<div id="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/gps-product-reviews/tomtom-gps-product-reviews/#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+ 
+<p>You must be <a href="http://affiliates-program-marketing.com/wp-login.php?redirect_to=http://affiliates-program-marketing.com/gps-product-reviews/tomtom-gps-product-reviews/">logged in</a> to post a comment.</p></div></div>
+ 
+    	  </div>
+  <div id="sidebar">
+    <div id="sidebar-top">
+      <div style="display:block; margin:10px 0 15px 0; text-align:center;">
+      
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-6220890441661313";
+google_alternate_color = "ffffff";
+google_ad_width = "336"
+google_ad_height = "280"
+google_ad_format = "336x280_as";
+google_ad_type = "text-image";
+google_ad_channel = "4755444456";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000CC";
+google_color_url = "666666";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script> 
+  </div>
+          <div class="toptitle">
+      <h5 style="border:1px solid #D7CAB5;">Product Recommendation</h5>
+    </div>
+    <div class="sidebar-top-box">
+      <p><script type="text/javascript">
+var imgs1 = new Array("http://peerfly.com/banners/10420-600x424.jpg","http://peerfly.com/banners/9867-600x368.jpg","http://peerfly.com/banners/9468-600x353.jpg","http://peerfly.com/banners/5622-600x460.jpg","http://peerfly.com/banners/10907-300x250.gif","http://peerfly.com/banners/5543-300x250.jpg","http://peerfly.com/banners/11920-600x424.jpg","http://peerfly.com/banners/8853-300x250.jpg","http://peerfly.com/banners/4925-450x300.jpg","http://peerfly.com/banners/12595-440x377.jpg");
+var lnks1 = new Array("http://peerfly.com/x/10420/1568/16717/","http://peerfly.com/x/9867/1425/16717/","http://peerfly.com/x/9468/1381/16717/","http://peerfly.com/x/5622/757/16717/","http://peerfly.com/x/10907/1650/16717/","http://peerfly.com/x/5543/832/16717/","http://peerfly.com/x/11920/1783/16717/","http://peerfly.com/x/8853/1250/16717/","http://peerfly.com/x/4925/650/16717/","http://peerfly.com/x/12595/1916/16717/");
+var alt1 = new Array("Free iPhone & iPad","Free iPhone 4 G","Test & Keep The iPhone 4G","Free Moto Droid Phone","Free iPhone 4G","Fet G2 Phone","Free Ringtone","Car Insurance Search","Get iMac 2 for FREE");
+var currentAd1 = 0;
+var imgCt1 = 10;
+function cycle1() {
+  if (currentAd1 == imgCt1) {
+    currentAd1 = 0;
+  }
+var banner1 = document.getElementById('adBanner1');
+var link1 = document.getElementById('adLink1');
+  banner1.src=imgs1[currentAd1]
+  banner1.alt=alt1[currentAd1]
+  document.getElementById('adLink1').href=lnks1[currentAd1]
+  currentAd1++;
+}
+  window.setInterval("cycle1()",10000);
+</script>
+<a href="" http: peerfly.com x 10420 1568 16717 "" id="adLink1" target="_blank">
+<img src="http://peerfly.com/banners/10420-600x424.jpg" id="adBanner1" border="0" width="336" height="280"></a>
+</p>
+      <div style="clear:both;"></div>
+    </div>
+    <div class="toptitle">
+      <h5 style="border:1px solid #D7CAB5;">Recent Posts</h5>
+    </div>
+    <ul class="widget">
+      	<li><a href="http://affiliates-program-marketing.com/blog/electronics/cell-phones-and-accessories/1-nokia-e72/" title="1: Nokia E72">1: Nokia E72</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/camera-photo-and-video/1-canon-eos-50d-15-1mp-digital-slr-camera-with-ef-28-135mm-f-3-5-5-6-is-usm-standard-zoom-lens-8gb-deluxe-accessory-kit/" title="1: Canon EOS 50D 15.1MP Digital SLR Camera with EF 28 135mm f 3.5 5.6 IS USM Standard Zoom Lens 8GB Deluxe Accessory Kit">1: Canon EOS 50D 15.1MP Digital SLR Camera with EF 28 135mm f 3.5 5.6 IS USM Standard Zoom Lens 8GB Deluxe Accessory Kit</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/" title="Garmin Nuvi 255W 010 00718 21">Garmin Nuvi 255W 010 00718 21</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/tv-and-video/samsung-pn50c6500-is-this-tv-worth-the-price/" title="Samsung PN50C6500: Is This Tv Worth The Price?">Samsung PN50C6500: Is This Tv Worth The Price?</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/cell-phones-and-accessories/iphone4-antenna-issue-solved-with-style/" title="iPhone4 Antenna Issue Solved With Style">iPhone4 Antenna Issue Solved With Style</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/cell-phones-and-accessories/blackberry-bold-vs-blackberry-storm/" title="Blackberry Bold Vs Blackberry Storm">Blackberry Bold Vs Blackberry Storm</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/camera-photo-and-video/sony-dslr-a330-reviews/" title="Sony Dslr A330 Reviews">Sony Dslr A330 Reviews</a></li>
+    </ul>
+ 
+    <div class="toptitle">
+      <h5 style="border:1px solid #D7CAB5;">Recent Comments</h5>
+    </div>
+        
+<ul id="recentcomments" class="widget">
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-292" title="on Garmin Nuvi 255W 010 00718 21">Muck12</a>: North America of course includes Canada!! LOL ahhh 7:36...</li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-291" title="on Garmin Nuvi 255W 010 00718 21">HSN</a>: Sorry, but I don't have details. It was probably programmed ...</li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-290" title="on Garmin Nuvi 255W 010 00718 21">MrNaryal</a>: y they both stutter?...</li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-289" title="on Garmin Nuvi 255W 010 00718 21">XboxAddiction</a>: haha i heard that 2...</li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-288" title="on Garmin Nuvi 255W 010 00718 21">thisiswilli</a>: I bought it for 129.99$ CAN yerterday at Future Shop...</li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-287" title="on Garmin Nuvi 255W 010 00718 21">esanterre2</a>: you dum ass it on demo mode .......</li>
+	<li><a href="http://affiliates-program-marketing.com/blog/electronics/gps/garmin-nuvi-255w-010-00718-21/#comment-286" title="on Garmin Nuvi 255W 010 00718 21">esanterre2</a>: you buy a demo mode or the real thing demo cant be usedon th...</li>
+</ul>      </div>
+  <div style="clear:both;"></div>
+      <div id="sidebar-left">
+      	<h5>Categories</h5>
+    <ul>
+    	<li class="cat-item cat-item-3"><a href="http://affiliates-program-marketing.com/blog/category/computer-and-software/" title="Computer and Software Category">Computer and Software</a>
+<ul class="children">
+	<li class="cat-item cat-item-5"><a href="http://affiliates-program-marketing.com/blog/category/computer-and-software/laptop-and-netbook/" title="Laptop and Netbook category">Laptops &amp; Netbooks</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://affiliates-program-marketing.com/blog/category/electronics/" title="Electronics Category">Electronics</a>
+<ul class="children">
+	<li class="cat-item cat-item-13"><a href="http://affiliates-program-marketing.com/blog/category/electronics/camera-photo-and-video/" title="camera, photo and video category">Camera, Photo &amp; Video</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://affiliates-program-marketing.com/blog/category/electronics/car-audio-video/" title="Car Audio &amp; Video">Car Audio &amp; Video</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://affiliates-program-marketing.com/blog/category/electronics/cell-phones-and-accessories/" title="cell phones and accessories">Cell Phones &amp; Accessories</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://affiliates-program-marketing.com/blog/category/electronics/gps/" title="GPS">GPS</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://affiliates-program-marketing.com/blog/category/electronics/home-audio-and-theater/" title="home audio &amp; theater">Home Audio &amp; Theater</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://affiliates-program-marketing.com/blog/category/electronics/tv-and-video/" title="TV and Video category">TV &amp; Video</a>
+</li>
+</ul>
+</li>
+    </ul>
+
+        
+    <br>
+  </div>
+      <div id="sidebar-right">
+       
+   <h5>Archives</h5>
+    <ul>
+      	<li><a href="http://affiliates-program-marketing.com/blog/2010/09/" title="September 2010">September 2010</a></li>
+	<li><a href="http://affiliates-program-marketing.com/blog/2010/08/" title="August 2010">August 2010</a></li>
+    </ul>
+      </div>
+  </div>
+</div>
+<div id="footer">
+		<div id="footerfeature">
+		<div class="topshadow">
+						<!-- This is where you edit the footer ads if you don't use widgets -->
+            <center><br>
+			<iframe src="http://rcm.amazon.com/e/cm?t=affilprogrmar-20&amp;o=1&amp;p=48&amp;l=ur1&amp;category=kindlerotating&amp;f=ifr" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><p></p></center>
+        <div class="topshadow">
+			<!-- This is where you edit the footer ads if you don't use widgets -->
+            <center><br>
+			<iframe src="http://rcm.amazon.com/e/cm?t=affilprogrmar-20&amp;o=1&amp;p=48&amp;l=ur1&amp;category=electronicsrot&amp;f=ifr" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><p></p></center>    
+        <div class="topshadow">
+			<!-- This is where you edit the footer ads if you don't use widgets -->
+            <center><br>
+			<iframe src="http://rcm.amazon.com/e/cm?t=affilprogrmar-20&amp;o=1&amp;p=48&amp;l=ur1&amp;category=electronics&amp;banner=1X41A020GDRJJ8RWD282&amp;f=ifr" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><p></p></center> 
+            
+			
+						<div style="clear:both;"></div>
+		</div>
+	</div>
+		<div id="footerdark">
+		<p>This blog copyright ©
+			<script type="text/javascript" language="JavaScript"><!--
+				var today = new Date();
+				document.write(today.getFullYear());
+			//-->
+			</script>
+			<a href="http://affiliates-program-marketing.com/">Computers, Softwares &amp; Electronic Appliances Blog</a> </p>
+					<p>Powered by <a href="https://www.e-junkie.com/ecom/gb.php?ii=224006&amp;c=ib&amp;aff=129451&amp;cl=47128" rel="nofollow" target="_blank">FlexSqueeze</a></p>
+				</div>
+</div>
+<!-- footer close -->
+<div class="clearer"></div>
+</div>
+<!-- wrap close -->
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var emailL10n = {
+	ajax_url: "http://affiliates-program-marketing.com/wp-content/plugins/wp-email/wp-email.php",
+	max_allowed: "5",
+	text_error: "The Following Error Occurs:",
+	text_name_invalid: "- Your Name is empty/invalid",
+	text_email_invalid: "- Your Email is empty/invalid",
+	text_remarks_invalid: "- Your Remarks is invalid",
+	text_friend_names_empty: "- Friend Name(s) is empty",
+	text_friend_name_invalid: "- Friend Name is empty/invalid: ",
+	text_max_friend_names_allowed: "- Maximum 5 Friend Names allowed",
+	text_friend_emails_empty: "- Friend Email(s) is empty",
+	text_friend_email_invalid: "- Friend Email is invalid: ",
+	text_max_friend_emails_allowed: "- Maximum 5 Friend Emails allowed",
+	text_friends_tally: "- Friend Name(s) count does not tally with Friend Email(s) count",
+	text_image_verify_empty: "- Image Verification is empty"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://affiliates-program-marketing.com/wp-content/plugins/wp-email/email-js.js?ver=2.50"></script>
+﻿<div id="seopressor-powered"><a href="http://www.CharteredSEO.com">SEO</a> Powered By <a href="http://fxit2010.seopressor.hop.clickbank.net">SEOPressor</a></div>
+<!-- bgwrapper close -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-17804536-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div></div></body></html>
