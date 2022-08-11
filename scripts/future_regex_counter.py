@@ -127,16 +127,12 @@ class CandidatePipeline(Pipeline, abc.ABC):
                             acc_counter.add(Counter({"n_node_results": 1}))
 
                         else:
-                            print("wrong_content")
                             acc_counter.add(Counter({"n_wrong_content_type": 1}))
                     else:
-                        print("wrong_type")
                         acc_counter.add(Counter({"n_wrong_warc_type": 1}))
                 except:
-                    print("unhandled exception")
                     acc_counter.add(Counter({"n_unhandled_record_exceptions": 1}))
                     continue
-            print("finished")
             acc_counter.add(Counter({"n_finished_warc_files": 1}))
 
         return generator_factory
@@ -167,14 +163,11 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
 
         def distributed_filter(text):
             if len(text) < 1000:  # only extract long texts
-                print("too short")
                 return False
             n_matches = len(re.findall(regex, text))
             if n_matches == 0:
-                print("no future matches")
                 return False
             if not resiliparse.parse.lang.detect_fast(text)[0] == "en":  # only extract english texts
-                print("not english")
                 return False
             acc_counter.add(collections.Counter({"n_regex_matches": n_matches}))
             return True
