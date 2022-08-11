@@ -1,0 +1,799 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<title>DAWN.COM | Columnists | Battening down the hatches</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+
+<meta name="Keywords" content="pakistan news, dawn, newspaper, cricket, business, india, entertainment,Afghan,Taliban,Afghan polls,pakistan in england 2010 third odi,pakistan in england 2010,Afghan war,Pakistan,Afghanistan,US,NATO,richard holbrooke,afghan strategy,pope benedict,united kingdom papal visit, Cyril Almeida, Battening down the hatches">
+
+<meta name="Description" content="Dawn.com is updated every minute of every hour with the latest news, features, analysis and multimedia from Pakistan, South Asia and the world, as well as business, sports, cricket and entertainment">
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!--- DAWN News LIVE STREAM --->
+<script>
+function dawnnews_watchlive()
+{
+poll_resultWindow = window.open("http://www.dawn.com/dntv-live/index.html","SlideShow","width=1001,height=572,");
+}
+</script>
+<!--- DAWN News LIVE STREAM --->
+
+<link rel="stylesheet" href="/styles/default/beta/styles/default.css" type="text/css" media="all">
+
+
+
+<script src="/styles/default/beta/scripts/jquery-latest.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/styles/default/beta/scripts/jquery.jcarousel.pack.js"></script>
+<script src="/styles/default/beta/scripts/css_browser_selector.js" type="text/javascript"></script>
+<script src="/styles/default/beta/scripts/jquery.tabs.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/styles/default/beta/styles/paper.css" type="text/css" media="screen, print">
+
+
+<link rel="stylesheet" href="/styles/default/beta/styles/morenews.css" type="text/css" media="screen, print, projection">
+
+
+<script type="text/javascript" src="/styles/default/beta/scripts/local.js"></script>
+
+<link rel="stylesheet" href="/styles/default/beta/styles/detail.css" type="text/css" media="screen, print">
+
+
+
+<script type="text/javascript">
+var sn= "columnists";
+$(window).load(function(){
+$('.' + sn).addClass('current');
+});
+</script>
+
+<script type="text/javascript">
+var sn1= "Cyril-Almeida-Battening-down-the-hatches-790";
+$(window).load(function(){
+$('.' + sn1).addClass('current');
+});
+</script>
+
+<!-- PUT THIS TAG IN THE head SECTION --> 
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script> 
+<script type="text/javascript"> 
+  GS_googleAddAdSenseService("ca-pub-8258178831251847"); 
+  GS_googleEnableAllServices(); 
+</script>
+<script type="text/javascript"> 
+  GA_googleAddSlot("ca-pub-8258178831251847", "Dawn_ROS_detail_top_728x90");
+  GA_googleAddSlot("ca-pub-8258178831251847", "D_N_Columnist_Dp_BB");
+  GA_googleAddSlot("ca-pub-8258178831251847", "D_N_Columnist_Dp_Skyscraper");
+  GA_googleAddSlot("ca-pub-8258178831251847", "D_N_Columnist_Dp_TopBanner");
+  GA_googleAddSlot("ca-pub-8258178831251847", "D_N_ROS_RM");
+  GA_googleAddSlot("ca-pub-8258178831251847", "Dawn_ROS_Ip_160x600");
+</script> 
+<script type="text/javascript"> 
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
+
+</head>
+<body>
+<div id="contents">
+
+<!-- TOP LINK AND HEADER HTML Component -->
+
+<!--Header -->
+<div id="headertst">
+<!--Header Top-->
+<div class="top"><span class="text"></span><div class="top_middle"><span class="dawntv"> <a href="http://www.dawnnews.tv">DawnNews TV</a></span><span class="city"> <a href="http://www.cityfm89.com">CityFM89</a></span><span class="epaper"><a href="http://epaper.dawn.com">e-paper</a></span><span class="events"><a href="/wps/wcm/connect/dawn-content-library/dawn/services/events">Events</a></span></div><div class="top_right"></div></div>
+
+
+
+<!--Header Middle-->
+<div id="middle">
+<div style="width:740px;height:90px;margin-top:10px;margin-left:115px;">
+<div style="width:8px;border:1px;float:right;"><img src="/styles/default/beta/images/adv_top_txt.png"></div> 
+<div style="height:90px;"><div align="right">
+<!-- ROS top banner 728x90 -->
+<script type="text/javascript">
+GA_googleFillSlot("Dawn_ROS_detail_top_728x90");
+</script>
+</div></div></div>
+<div class="logo"><a href="http://www.dawn.com"><img src="/styles/default/beta/images/logo.png" alt="DAWN.COM" width="292" height="79" border="0"></a></div>
+
+</div>
+
+<!--Header Bottom-->
+<div class="right"></div>
+<div id="bottom">
+
+<!-- DATE | Menu | -->
+
+<div class="date">
+08:54 AM PST | Fri, 17 Sep, 2010
+ | 
+Shawwal 07, 1431
+</div>
+
+<!-- SEARCH | HTML |-->
+<div class="search">
+
+<form action="http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/search" id="cse-search-box">
+  <div>
+<a href="/wps/wcm/connect/dawn-content-library/dawn/services/mobile"><img src="/styles/default/beta/images/mobile_icon.jpg" border="0" align="top" alt="Mobile Friendly Page"></a>
+&nbsp; 
+<a href="/wps/wcm/connect/dawn-content-library/dawn/services/rss" target="_blank"><img src="/styles/default/beta/images/rss_feed_icon.jpg" border="0" align="top" alt="News Feed"></a>
+&nbsp; 
+<a href="http://www.facebook.com/dawndotcom" target="_blank"><img src="/styles/default/beta/images/facebook_share_icon.gif" border="0" align="top"></a>
+&nbsp; 
+<a href="http://twitter.com/Dawn_com" target="_blank"><img src="/styles/default/beta/images/twitter_share_icon.gif" border="0" align="top"></a>
+&nbsp; 
+<a href="http://www.youtube.com/dawndotcom" target="_blank"><img src="/styles/default/beta/images/youtube_share_icon.gif" border="0" align="top"></a>
+&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-8258178831251847:z3hcmr-tplu">
+    <input type="hidden" name="cof" value="FORID:11">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="31">
+    <input type="submit" name="sa" value="Search" class="button">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+</div>
+</div>
+<div class="left"></div>
+</div>
+<!-- Header end -->
+
+<!--Left First Column -->
+<div id="first">
+<!-- Left Menu Panel | HTML | -->
+  <!-- Navigation New | Navigator Component-->
+  <div id="menu">
+  <div id="nav">
+    <ul><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/home/" class="home">
+Home
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/latest-news/" class="latest-news">
+Latest News
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/pakistan/" class="pakistan">
++Pakistan
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/world/" class="world">
+World
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/business/" class="business">
+Business
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/sport/" class="sport">
+Sport
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/cricket/" class="cricket">
+- Cricket
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/sci-tech/" class="sci-tech">
+Sci-Tech
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/culture/" class="culture">
+Culture
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/media-gallery/" class="media-gallery">
+Media Gallery
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/multimedia/" class="multimedia">
+Multimedia
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/specials/" class="specials">
++ Specials
+</a>
+</li><li>
+<a href="/wps/wcm/connect/dawn-content-library/news/columnists/" class="columnists">
+Columnists
+</a>
+</li><li><a href="http://blog.dawn.com/">Dawn Blog</a></li>
+<li><a href="http://forum.dawn.com/">Dawn Forum</a></li>
+<li><a href="/wps/wcm/connect/dawn-content-library/dawn/services/tv-listings">TV Listings</a></li>
+<li><a href="http://www.dawn.com/fixed/arch/arch.htm">Archives</a></li>
+    </ul>
+  </div>
+</div>
+
+  <!-- Navigation New | Navigator Component -->
+    <div>
+
+    <img src="/styles/default/beta/images/space_live.gif" alt="" border="0">
+
+  </div>
+  <!-- Navigation New | Navigator Component -->
+
+
+    
+
+<!--Inner Left -->
+
+<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT D_N_ROS_RM -->
+<script type="text/javascript">
+  GA_googleFillSlot("D_N_ROS_RM");
+</script>
+<!--- END OF TAG FOR SLOT D_N_ROS_RM ---->
+
+<div id="left">
+  <div class="text">
+    <img src="/styles/default/beta/images/ad_head_left.jpg" alt="ad_head">
+  </div>
+<!--SkyScrapper Advertisement -->
+  <div class="skyScrapper">
+        <!----==== LEFT SKYSCRIPER ====---->
+        <!-- PUT THIS TAG IN DESIRED LOCATION OF D_N_Columnist_Dp_Skyscraper -->
+          <script type="text/javascript"> 
+              GA_googleFillSlot("D_N_Columnist_Dp_Skyscraper");
+          </script>
+        <!-- END OF TAG FOR SLOT D_N_Hm_Ip_Sky -->
+  </div>
+</div>
+<div>
+  <div>
+
+    <img src="/styles/default/beta/images/space_live.gif" alt="" border="0">
+
+  </div>
+
+<a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page">
+    <img src="/styles/default/beta/images/paper_button.png" alt="Today's Newspaper" border="0">
+</a>
+  </div>
+
+<br>
+
+  <!-- Navigation New | Navigator Component -->
+    <div>
+<a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/magazines">
+    <img src="/styles/default/beta/images/inpaper-magazines.png" alt="In paper Magazine" border="0">
+</a>
+  </div>
+  <!-- Navigation New | Navigator Component -->
+
+  <!-- Watch Live Button HTML Component -->
+  <center>
+<!-- DawnNewsButton_US -->
+<script type="text/javascript">
+GA_googleFillSlot("DawnNewsButton_US");
+</script>
+
+<!-- DawnNewsButton_USx -->
+<script type="text/javascript">
+GA_googleFillSlot("DawnNewsButton_USx");
+</script>
+</center>
+</div>
+
+<!--Main Content -->
+<div id="main_content">
+
+<!-- STORY DETAIL | HTML | -->
+<form name="frmMPME" id="frmMPME" method="post" action="?pagedesign=Dawn_PrintlyFriendlyPage" target="_Printer">
+<input id="txtStoryName" name="txtStoryName" type="hidden" value="Cyril-Almeida-Battening-down-the-hatches-790">
+<input id="txtHeadline" name="txtHeadline" type="hidden" value="Battening down the hatches">
+<input id="txtSiteArea" name="txtSiteArea" type="hidden" value="columnists">
+<input id="txtStoryURL" name="txtStoryURL" type="hidden" value="">
+<input id="txtTable" name="txtTable" type="hidden" value="MPI">
+
+<script language="javascript">
+var hiddenValueField = document.getElementById("txtStoryURL");
+hiddenValueField.value = document.URL;
+</script>
+<script type="text/javascript">
+<!--
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=350,height=500,scrollbars=no,left = 337,top = 150');
+return false;
+}
+//-->
+</script>
+<script type="text/javascript">
+<!--
+function popupWindow()
+{
+	window.open("#","_Printer", "top=10, left=10, menubar=1, scrollbars=1, resizable=1, width=600, height=445");
+	document.frmMPME.submit();
+}
+//-->
+</script>
+</form>
+<!--Story Column -->
+<div id="detailNews">
+  <div class="top">
+  </div>
+    <div id="siteArea">
+      <div class="center" style="text-transform: uppercase;">
+        <a href="#">
+          Columnists
+        </a>
+      </div>
+    </div>
+    <div id="news">
+      <div id="title">
+<!--Headline START -->
+        Battening down the hatches
+<!--Headline END -->
+      </div>
+      <div id="author">
+<!--Author START -->
+        By Cyril Almeida
+<!--Author END -->
+<br>
+<!--Date Start-->
+Friday, 17 Sep, 2010
+<!--Date End-->      </div>
+
+<!-- STORY TOOL -->
+    <div id="icons">
+      <a href="#" id="small" class="run">
+        <img src="/styles/default/beta/images/fontsize_small.jpg" alt="font-size small" border="0px">
+      </a>
+      <a href="#" class="run" id="large"><img src="/styles/default/beta/images/fontsize_large.jpg" alt="font-size large" border="0px"></a><img src="/styles/default/beta/images/fontsize.jpg" alt="font-size"><a href="javascript:void(0)" onclick="popupWindow();"><img src="/styles/default/beta/images/print.jpg" border="0" alt="print"></a><a href="javascript:void(0)" onclick="window.open('?pagedesign=Dawn_TellaFriendPage1', '_tellFriend', 'left=10,top=10,menubar=1,resizable=1,width=350,height=500')"><img src="/styles/default/beta/images/email.jpg" border="0" alt="email"></a><a onclick="return popup(this,'examplea')" href="?pagedesign=Dawn_FeedbackPage&amp;siteArea=columnists&amp;newsTitle=Battening down the hatches"></a><!-- ADDTHIS BUTTON BEGIN -->
+<script type="text/javascript">
+addthis_pub             = 'dawnadmin'; 
+addthis_logo = 'http://www.dawn.com/styles/default/beta/images/logo.jpg';
+addthis_logo_background = 'FFFFFF';
+addthis_logo_color      = '338DCC';
+addthis_brand           = 'DAWN.COM';
+addthis_options         = 'twitter, google, digg, delicious, myspace, favorites, myweb, live, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">
+<img src="/styles/default/beta/images/share.jpg" alt="share" width="57" height="20" border="0">
+</a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=" target="_blank" onclick="return fbs_click()"><img src="http://b.static.ak.fbcdn.net/images/share/facebook_share_icon.gif?8:26981" alt="" border="0"></a>
+
+<!-- ADDTHIS BUTTON END --></div>
+<!-- STORY TOOL -->
+
+<!-- IMAGE 608x325 -->
+<div id="image">
+  <img src="/wps/wcm/connect/f0ad9f0043fa98dab57aff09875fc2d3/kayani-608.jpg?MOD=AJPERES" border="0" width="608" height="325">
+</div>
+<!-- IMAGE 608x325E -->
+
+<!-- IMAGE CAPTION START-->
+<div id="image_txt" class="setfont">
+  If Kayani’s agenda is to return to the basics, the army’s plan must be to emerge from under the debris of present times to lead the country to a stronger future. - File Photo.
+<!-- IMAGE CAPTION END-->
+</div>
+
+
+<div id="story" class="setfont">
+
+
+<!-- BODY TEXT -->
+<strong>Step into the shoes of the Indispensable for a few minutes. You’re the army chief now. Linchpin of that great institution which runs the country’s national security and foreign policies and is the self-appointed custodian of the national interest.</strong> <br><br>Everywhere you look, there’s trouble. Internally, the economy is a mess and security is tenuous in swathes of the country. The pols have wrecked things as usual on the economic front: where once triage would have sent the economy to the emergency room, now it needs to be rushed into intensive care. <br><br>The Bad Taliban, diabolical and crazy like a fox, strike at will in the cities and frustratingly keep popping up in the tribal areas, drawing the army into a never-ending game of Whack-a-Mole. <br><br>CHB — Clear, Hold, Build — the foundation of COIN is stuck in the Clear and Hold phases, civilian wretchedness and military limitations thwarting the Build phase. <br><br>The American superpower is billeted in your backyard, Afghanistan, but the political will to stay is draining away as her blood and treasure are absorbed by the parched south and the rocky east, the Afghan/Good Taliban’s stamping grounds. <br><br>To your east, India is speaking with a forked tongue yet again, her prime minister talking peace, his ministers obsessing over the ghosts of Mumbai even as held Kashmir burns. <br><br>Trouble, problems, challenges everywhere. What do you do on the foreign policy front? <br><br>Remember, you’re the army chief. You lead a conservative institution. You’re a reasonably smart guy. Three years behind you, and three ahead, all spent, and likely to be spent, in a strategic crucible. What do you do? <br><br>You go back to the basics. None of that ‘the winds of history are at your back’ stuff. In a confusing, complex region in which there are few goods options, there’s nothing like the basics. <br><br>Batten down the hatches, hunker down, and hope the storm passes and leaves you relatively unscathed, eventually to emerge Noah-like, ready to fight another day, Cain-like. <br><br>What are the basics? India is the enemy. Afghanistan is your playground. And the American superpower must be milked, bilked, just the right amount, taking care to do just enough of what it asks — a modern-day, statist version of Goldilocks. <br><br>Those pretty much are the central tenets of Pakistan’s foreign policy over much of its history, and, if you think about it, there’s little reason to believe Kayani may be reaching for a new playbook at this late stage. <br><br>There’s plenty of circumstantial evidence that back to the basics is what Kayani has opted for in his time in charge. <br><br>Have a look at the India facet. Despite the Indian prime minister’s consistent talk of finding a way towards better relations, by now too consistent to be dismissed as crooked wordplay, Pakistan has stayed in fierce mode. <br><br>Coming up to two years since the Mumbai attacks, not one person here has been convicted of a single crime associated with the attacks. How many high-profile suicide or fidayeen attacks on army installations in recent years do you think match that record of abject inaction? I bet you could count them on a single finger. <br><br>Turn to Afghanistan, where the army caught a break and got a twofer in recent years: Americans present to be milked/bilked while hedging the Afghan bets, all in one place, at the same time. <br><br>Listen to Americans talk about Musharraf, about his ‘double games’, about how he played the Bushies and neo-cons, about how he took with both hands and gave the absolute minimum in return, and, projecting a few years into the future, you could say the same about Kayani’s Pakistan and Obama’s America. <br><br>Cut through the gobbledegook about a ‘strategic dialogue’ with the US and the quest for a ‘peaceful, friendly and stable’ Afghanistan, and you’re left with pretty much the same vision for Afghanistan the army has had for decades: one where Pakistan is the dominant player, where Pakistan has the best seat at the table of power and shapes the internal configuration of power, where Pakistan calls the shots, the rest of the world, and Afghans and Afghanistan, be damned. <br><br>The cherry on top? While quietly pursuing its Afghan strategy of choice, the army’s Pakistan has loudly pocketed all the goodies the Americans keep throwing our way in the risible hope it will convince us to mend our ways. Little wonder it drives American pundits batty and causes US officials to froth at the mouth occasionally. <br><br>True, the army may have accepted that revival in toto of the reign of the ’90s in Afghanistan may no longer be possible, but it hardly seems pleased about having lost the Taliban silver bullet to Afghanistan’s warlordism problems. <br><br>Anyway you cut it, you can’t shake the feeling our strategists are still hankering for the halcyon days of Taliban rule; after all, that was about as peaceful, friendly and stable as Afghanistan has been for decades, at least from the army’s perspective. <br><br>India is the enemy; Afghanistan is the backyard; and the American superpower is to be milked — the fail-safe choices of a conservative institution caught in a vortex partially of its own making. <br><br>A neat-ish triangle in a messy, dangerous part of the world that ensures several things: that no concessions are made while on the defensive, concessions the army may live to regret once the country has recovered its poise; that bills are paid in difficult times; and that the army’s relevance to this country, the region and the wider world does not stand diminished. <br><br>How can we be so sure? For this army, the only game in town is survival, and it is about as likely to reinvent the strategic wheel in times of crisis as it is to find the panacea for all that ails Pakistan internally. <br><br>The problem? To anyone who hasn’t lived and breathed the feinbild of India as the enemy for decades, as all generals have, the problem is straightforward: the conception of India as an incorrigible, recidivist foe who can never be trusted in matters big and small has hurt us in the past, and, given the present trajectories of the two countries, will hurt us even more in the future. <br><br>To give but a simple example: at present, as we have done before, we are looking to faraway America and its proxies, the international financial institutions, to keep the economy on life support; yet, right next door we have a country obsessed with economic growth and still we keep shut the door to trade (Indian non-tariff barriers notwithstanding) — a door that could lead to other, strategic benefits. <br><br>For sure, such awkward inconsistencies are rife in international politics, but think about it this way. If Kayani’s agenda is to return to the basics, the army’s plan must be to emerge from under the debris of present times to lead the country to a stronger future. It wouldn’t be the first time someone has calculated that what doesn’t kill you makes you stronger. <br><br>It also wouldn’t be the first time someone has miscalculated terribly.<br><br><a href="mailto:cyril.a@gmail.com"><strong>cyril.a@gmail.com</strong></a>  
+<!-- BODY TEXT -->
+      
+    </div>
+    <div id="icons_bottom"> <a href="#" id="small" class="run"><img src="/styles/default/beta/images/fontsize_small.jpg" alt="font-size small" border="0px"></a><a href="#" class="run" id="large"> <img src="/styles/default/beta/images/fontsize_large.jpg" alt="font-size large" border="0px"></a><img src="/styles/default/beta/images/fontsize.jpg" alt="font-size"><a href="javascript:void(0)" onclick="popupWindow();">
+<img src="/styles/default/beta/images/print.jpg" border="0" alt="print"></a><a href="javascript:void(0)" onclick="window.open('?pagedesign=Dawn_TellaFriendPage1', '_tellFriend', 'left=10,top=10,menubar=1,resizable=1,width=350,height=500')"><img src="/styles/default/beta/images/email.jpg" border="0" alt="email"></a><a onclick="return popup(this,'examplea')" href="?pagedesign=Dawn_FeedbackPage&amp;siteArea=columnists&amp;newsTitle=Battening down the hatches"></a>
+
+<!-- ADDTHIS BUTTON BEGIN -->
+<script type="text/javascript">
+addthis_pub             = 'dawnadmin'; 
+addthis_logo = 'http://www.dawn.com/styles/default/beta/images/logo.jpg';
+addthis_logo_background = 'FFFFFF';
+addthis_logo_color      = '338DCC';
+addthis_brand           = 'DAWN.COM';
+addthis_options         = 'twitter, google, digg, delicious, myspace, favorites, myweb, live, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">
+<img src="/styles/default/beta/images/share.jpg" alt="share" width="57" height="20" border="0">
+</a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=" target="_blank" onclick="return fbs_click()"><img src="http://b.static.ak.fbcdn.net/images/share/facebook_share_icon.gif?8:26981" alt="" border="0"></a>
+
+<!-- ADDTHIS BUTTON END -->
+
+ </div>
+  </div>
+  <div class="bottom"></div>
+
+<!-- STORY DETAIL | HTML | -->
+
+<!-- More Highlights -->
+<div id="container">
+  <div id="relatednews">
+   <div class="toprel"></div>
+  <div class="header">
+    HIGHLIGHTS
+  </div>
+  <div class="rel">
+    <ul>    <li>
+        <div class="img">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/12-the+real+threat+--bi-03">
+          <img src="/wps/wcm/connect/4bdba58043fbb5b291acff09875fc2d3/parliament-80.jpg?MOD=AJPERES" border="0" width="80" height="80">
+          </a>
+        </div>
+        <span class="headlines">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/12-the+real+threat+--bi-03">
+            The real threat 
+          </a>
+          <br>
+          What are our basic problems? Political instability? Terrorism? Corruption? Population? Economic meltdown?
+       </span>
+    </li>    <li>
+        <div class="img">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/editorial/drone-strikes-790">
+          <img src="/wps/wcm/connect/bf85680043faa13fb693ff09875fc2d3/drone-80.JPG?MOD=AJPERES" border="0" width="80" height="80">
+          </a>
+        </div>
+        <span class="headlines">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/editorial/drone-strikes-790">
+            Drone strikes
+          </a>
+          <br>
+          The Pakistani govt, rather the security establishment, needs to come clean about the strikes. 
+       </span>
+    </li>  </ul>
+  <div class="more">
+<br><br>
+  </div>
+</div>
+<div class="bottomrel"></div>
+</div>
+
+<!--BOX BANNER -->
+<div id="bigBox">
+  <div class="ad_txt">
+    <img src="/styles/default/beta/images/ad_bigbox.png" alt="advertisement">
+  </div>
+  <div class="ad">
+<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT D_N_Columnist_Dp_BB --> 
+  <script type="text/javascript"> 
+     GA_googleFillSlot("D_N_Columnist_Dp_BB"); 
+  </script>
+<!-- END OF TAG FOR SLOT D_N_Hm_Ip_BB -->
+  </div>
+</div>
+</div>
+</div>
+
+<div id="fourth">
+
+<!-- RELATED NEWS BOX -->
+
+
+  <div class="pannel">
+  <div class="top"></div>
+  <div class="headers">RELATED NEWS</div>
+  <div class="pannel_content">
+    <ul>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-democracy-off-track-090">
+            Democracy off track 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-questions%2C-questions%2C-questions-390">
+            Questions, questions, questions 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-rumour%2C-rumour%2C-everywhere-780">
+            Rumour, rumour, everywhere 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/coming-full-circle-violence-in-karachi-580">
+            Coming full circle: violence in Karachi
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-the-tide-of-failure-080">
+            The tide of failure 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/op-ed-contributor/19-cyril-almeida-economic-collapse-380-hh-19">
+            Economic collapse 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/19-transit-trade-a-benign-opportunity-for-kabul-980-hh-12">
+            Transit trade: a benign opportunity for Kabul
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-chasing-shadows-070">
+            Chasing shadows 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/21-cyril-almeida-the-peace-chimera-370-sk-04">
+            The peace chimera 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-a-fake-crisis-670">
+            A fake crisis 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/scepticism-in-india-over-claim-of-pakistan-hand-in-kashmir-970">
+            Scepticism in India over claim of Pakistan hand in Kashmir 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/19-cyril-almeida-a-relationship-undefined-560-hh-03">
+            A relationship undefined 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/21-cyril-almeida-lacking-fresh-ideas-860-sk-04">
+            Lacking fresh ideas 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-the-lost-years-160">
+            The lost years 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/21-cyril-almeida-notes-from-the-courtroom-460-sk-04">
+            Notes from the courtroom 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/21-cyril-almeida-normality%2C-pakistanistyle-850-sk-04">
+            Normality, Pakistani-style 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/19-cyril-almeida-a-storm-brews-150-hh-06">
+            A storm brews 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-a-better-dialogue-450">
+            A better dialogue? 
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/19-civilian-deaths-in-drone-attacks-debate-heats-up-950-hh-11">
+            Civilian deaths in drone attacks: debate heats up
+          </a>
+        </span>
+      </li>      <li>
+        <span class="arr">
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/columnists/cyril-almeida-the-infrastructure-of-jihad-750">
+            The infrastructure of jihad
+          </a>
+        </span>
+      </li>    </ul>
+    <div class="rss">&nbsp; </div>
+  </div>
+  <div class="footer"></div>
+</div> 
+
+<!-- MOST READED ITEM-->
+
+
+
+
+<!-- Load Properties File -->
+
+
+
+
+
+<div class="pannel">
+  <div class="top"></div>
+  <div class="headers">
+    MOST READ
+  </div>
+  <div class="pannel_content">
+    <ul>
+		<li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/letters-to-the-editor/iranian-embassys-clarification-210">Iranian embassy’s clarification</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/news/sport/08-asia-struggles-to-find-serious-medal-contenders-ts-04">Asia struggles to find serious medal contenders</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/news/world/afghans-head-to-polls-as-taliban-threats-mount-jd-04">Afghans head to polls as Taliban threats mount</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/news/world/11-settlers-reject-netanyahu-plea-to-reduce-tensions--il--03">Settlers reject Netanyahu plea to reduce tensions</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/news/world/14-ex-gitmo-detainees-sue-uk-to-make-evidence-public-zj-07">Ex-Gitmo detainees sue UK to make evidence public</a></span></li>
+
+    </ul>
+    <div class="rss">
+
+    </div>
+  </div>
+  <div class="footer"></div>
+</div>
+ 
+
+
+<!-- MOST EMAILED ITEM -->
+
+
+
+<!-- Load Properties File -->
+
+
+
+
+
+<div class="pannel">
+  <div class="top"></div>
+  <div class="headers">
+    MOST EMAILED
+  </div>
+  <div class="pannel_content">
+    <ul>
+		<li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/news/world/19-mqm-leader-imran-farooq-killed-in-london-reports-hh-01">MQM leader Imran Farooq killed in London: reports</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/in-paper-magazine/education/a-true-visionary-579">A true visionary</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/news/culture/35-brazil-graffiti-artists-seen-more-as-van-goghs-than-vandals-ak-03">Brazil graffiti artists seen more as Van Goghs than vandals</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/local/islamabad/mcdonalds%2C-others-allowed-a-breather-560">McDonald’s, others allowed a breather</a></span></li><li><span class="arr"><a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/us-judge-to-review-drone-attacks-790">US judge to review drone attacks in Pakistan</a></span></li>
+
+    </ul>
+    <div class="rss">
+
+    </div>
+  </div>
+  <div class="footer"></div>
+</div>
+  
+
+<div class="pannel">
+  <div class="top"></div>
+  <div class="headers">ADVERTISEMENT</div>
+  <div class="pannel_content">
+  <br>
+  <center>
+  <script type="text/javascript">
+    GA_googleFillSlot("Dawn_ROS_Ip_160x600");
+  </script>
+  </center>
+  <div class="rss">&nbsp; </div>
+  </div>
+  <div class="footer"></div>
+</div>
+
+            </div> 
+          </div>
+
+
+<!-- Footer | HTML Component -->
+  <!--Footer -->
+
+  <div id="footer">
+    <div class="top">
+    <div class="left">
+    <span>
+        <ul><h2>DAWN MEDIA GROUP SITES </h2>
+    <li><a href="/wps/wcm/connect/dawnnews/dawnnews-test/home">DawnNews TV</a></li>
+    <li><a href="http://www.cityfm89.com/">CityFM89</a></li>
+    <li><a href="http://epaper.dawn.com">e-paper</a></li>
+    <li><a href="http://spider.tm">Spider</a></li>
+    <li><a href="http://www.dawn.com/herald/">Herald</a></li>
+    </ul>
+    
+    </span>
+    <span>
+    <ul><h2>DAWN MEDIA </h2>
+    <li><a href="/wps/wcm/connect/dawn-content-library/dawn/others/contact-us">Contact Us</a></li>
+    <li><a href="/wps/wcm/connect/dawn-content-library/dawn/others/feedback">Feedback</a></li>
+    <li><a href="/wps/wcm/connect/dawn-content-library/dawn/others/reproduction-and-copyrights">Reproduction &amp; Copyrights</a></li>
+    <li><a href="/wps/wcm/connect/dawn-content-library/dawn/others/contribution-guidelines">Contribution Guidelines</a></li>
+    <li><a href="/wps/wcm/connect/dawn-content-library/dawn/others/site-map">Sitemap</a></li>
+    </ul>
+    </span>
+
+    <span>
+        <ul style="border:none;"><h2>ADVERTISE WITH US </h2>
+    <li><a href="http://dawnnationaladvertiser.com/">DAWN Classified</a></li>
+    <li><a href="http://dawnclassified.com/">Book an Ad Online</a></li><li><a href="?pageDesign=Advertise_DAWN">
+Advertise with DAWN.COM</a></li>
+    </ul>
+    </span>
+
+<span>
+  <ul style="border:none;"><h2>FOLLOW US ON </h2>
+    <li class="followup">
+	<a href="http://www.facebook.com/dawndotcom" target="_blank">
+	<img src="/styles/default/beta/images/facebook_share_icon.gif" border="0" align="top"> Facebook
+	</a>
+	</li>
+    <li class="followup">
+	<a href="http://twitter.com/Dawn_com" target="_blank">
+	<img src="/styles/default/beta/images/twitter_share_icon.gif" border="0" align="top"> Twitter
+	</a>
+	</li>
+    <li class="followup">
+	<a href="http://www.youtube.com/dawndotcom" target="_blank">
+	<img src="/styles/default/beta/images/youtube_share_icon.gif" border="0" align="top"> YouTube
+	</a>
+	</li>
+  </ul>
+</span>
+
+    </div>
+    <div class="right">
+    <div class="services">
+    <div class="header_top"><img src="/styles/default/beta/images/services_top.jpg" alt="Alert" border="0"></div>
+    <div class="sheader">SERVICES</div>
+    <div class="sContent">
+    <a href="/wps/wcm/connect/dawn-content-library/dawn/services/alerts"><img src="/styles/default/beta/images/alert_icon.jpg" alt="Alert" border="0">
+   <span> Alerts</span>
+    </a>
+      <a href="/wps/wcm/connect/dawn-content-library/dawn/services/prayer-timings"><img src="/styles/default/beta/images/prayers_icon.jpg" alt="Prayers timming" border="0">
+      <span>Prayers</span>
+      </a>
+        <a href="/wps/wcm/connect/dawn-content-library/dawn/services/rss"><img src="/styles/default/beta/images/rss_icon.jpg" alt="RSS Feeds" border="0">
+       <span>RSS</span>
+        </a>
+          <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/stocks"><img src="/styles/default/beta/images/stock_icon.jpg" alt="Stock" border="0">
+        <span>Stock</span>
+          </a>
+            <a href="/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/forex-and-gold"><img src="/styles/default/beta/images/forex_icon.jpg" alt="Forex" border="0">
+           <span>Forex</span>
+            </a>
+              <a href="/wps/wcm/connect/dawn-content-library/dawn/services/weather"><img src="/styles/default/beta/images/weather_icon.jpg" alt="Weather" border="0">
+             <span>Weather</span>
+              </a>
+    </div>
+    <div class="sbottom"><img src="/styles/default/beta/images/services_bottom.jpg"></div></div>
+    </div>
+    
+    </div>
+    <div class="line"></div>
+    <div class="bottom"><img src="/styles/default/beta/images/media_group.jpg" alt="DAWN Media Group" width="143" height="26" class="img"><span>©2010 DAWN Media Group. All rights reserved. |  <a href="/wps/wcm/connect/dawn-content-library/dawn/others/privacy-policy">Privacy policy</a>  |  <a href="/wps/wcm/connect/dawn-content-library/dawn/others/terms-conditions">Terms and Conditions</a></span> 
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3009654-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+ 
+
+
+
+
+<iframe src="?pageDesign=most_read_rc" height="1" width="1">
+</iframe></body></html><!-- new detail -->

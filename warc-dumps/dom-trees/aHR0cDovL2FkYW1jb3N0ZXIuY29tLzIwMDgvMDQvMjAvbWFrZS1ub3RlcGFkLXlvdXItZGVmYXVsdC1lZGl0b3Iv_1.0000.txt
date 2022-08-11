@@ -1,0 +1,591 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Make Notepad++ your default editor « adamcoster.com</title>
+	<meta name="robots" content="all">
+	<meta name="description" content="beware the animalcules!">
+	
+	<link rel="pingback" href="http://adamcoster.com/xmlrpc.php">
+	<link rel="stylesheet" href="http://s2.wp.com/wp-content/themes/pub/tarski/style.css?m=1282755215g" type="text/css" media="screen,projection">
+	<link rel="stylesheet" href="http://s2.wp.com/wp-content/themes/pub/tarski/print.css?m=1234413226g" type="text/css" media="print">
+	
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_badge_uber_wrapper {width:150px;}
+#flickr_www {display:block; text-align:center; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+		<script src="http://wordpress.com/remote-login.php?action=js&amp;host=adamcoster.com&amp;id=2610285&amp;t=1284771950&amp;back=adamcoster.com%2F2008%2F04%2F20%2Fmake-notepad-your-default-editor%2F" type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="adamcoster.com » Feed" href="http://adamcoster.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="adamcoster.com » Comments Feed" href="http://adamcoster.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="adamcoster.com » Make Notepad++ your default&nbsp;editor Comments Feed" href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/h4/global.css?m=1256671583g" type="text/css">
+<script type="text/javascript" src="http://s0.wp.com/wp-includes/js/comment-reply.js?m=1234413205g&amp;ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://adamcoster.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://adamcoster.wordpress.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="adamcoster.com" href="http://adamcoster.com/">
+<link rel="prev" title="LaTeX, Part (6): Other REALLY important basics–&nbsp;Spacing" href="http://adamcoster.com/2008/04/20/latex-part-6-other-really-important-basics-spacing/">
+<link rel="next" title="Super Mario Party 7, Solo&nbsp;Style" href="http://adamcoster.com/2008/04/20/super-mario-party-7-solo-style/">
+<meta name="generator" content="WordPress.com">
+<link rel="canonical" href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/">
+<link rel="shortlink" href="http://wp.me/paX3n-1v">
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/cf8c90e9e03de7e95d3f49c2a2c1cb50?s=16" sizes="16x16">
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/cf8c90e9e03de7e95d3f49c2a2c1cb50?s=16" sizes="16x16">
+<link rel="apple-touch-icon" href="http://0.gravatar.com/blavatar/85ad65a99dad159ad6f64a9e7843e0ef?s=158">
+	<style type="text/css">
+	/* <![CDATA[ */
+				div#likes { margin-top: 15px; }
+		.like-button { border: 1px solid #eee; padding: 2px 6px; font-size: 13px; font-family: arial, tahoma, sans-serif; }
+		#wpl-likebox { clear: left; font-size: 11px; font-family: arial, tahoma, verdana, sans-serif !important; min-height: 30px; margin: 10px 0 !important; padding: 5px 0 10px 0 !important; }
+		#wpl-button { float: left; background: url( /i/buttonbg.png ) top left repeat-x; margin-right: 7px; border: 1px solid #d4d4d4; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+		#wpl-button a { color: #666 !important; line-height: 130% !important; text-decoration: none !important; outline: none; float: left; padding: 3px 6px 2px 24px !important; font-size: 11px !important; background: url( /i/likestar.png ) 6px 49.8% no-repeat; }
+		#wpl-button.liked { background: #feffce; border: 1px solid #f3e389; }
+		#wpl-button.liked a { color: #ba871b !important; }
+		#wpl-likebox #wpl-count { min-height: 25px; line-height: 130% !important; float: left; padding-top: 4px; }
+		#wpl-likebox #wpl-avatars { clear: left; max-height: 98px; overflow: hidden; margin-top: 15px; line-height: 130% !important; }
+		#wpl-likebox #wpl-avatars img { border: none !important; }
+	/* ]]> */
+	</style>
+	<link rel="openid.server" href="http://adamcoster.wordpress.com/?openidserver=1">
+<link rel="openid.delegate" href="http://adamcoster.wordpress.com/">
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com">
+<link rel="search" type="application/opensearchdescription+xml" href="http://adamcoster.com/osd.xml" title="adamcoster.com">
+<style type="text/css">.recentcomments a{display:inline !important;padding: 0 !important;margin: 0 !important;}</style>
+<meta name="application-name" content="adamcoster.com"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="beware the animalcules!"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://adamcoster.com/feed/;icon-uri=http://0.gravatar.com/blavatar/cf8c90e9e03de7e95d3f49c2a2c1cb50?s=16"><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><link rel="stylesheet" href="http://adamcoster.wordpress.com/wp-content/mu-plugins/sharing/sharing.css?v=0.3" type="text/css">
+<style type="text/css">
+table.recentcommentsavatar img.avatar {border: 0px; margin:0;}
+table.recentcommentsavatar a {border: 0px !important;background-color: transparent !important}
+td.recentcommentsavatartop {padding:0px 0px 1px 0px;margin:0px; }
+td.recentcommentsavatarend {padding:0px 0px 1px 0px;margin:0px; }
+td.recentcommentstexttop { border: none !important;padding:0px 0px 0px 10px;}
+td.recentcommentstextend { border: none !important;padding:0px 0px 2px 10px;}
+</style><script type="text/javascript"> 
+	window.google_analytics_uacct = "UA-52447-2"; 
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="center  single"><div id="wrapper">
+
+<div id="header">
+
+	<div id="header-image">
+		<a title="Return to front page" href="http://adamcoster.com/"><img alt="Header image" src="http://adamcoster.files.wordpress.com/2008/04/cropped-playcards_header.jpg"></a>	</div>
+
+	<div id="title">
+		<a title="Return to front page" href="http://adamcoster.com/"><span id="blog-title">adamcoster.com</span></a>		<p id="tagline">beware the animalcules!</p>	</div>
+	
+	<div id="navigation">
+		<ul id="nav-1">
+	<li><a title="Return to front page" href="http://adamcoster.com">Home</a></li>
+	<li class="page_item page-item-157"><a href="http://adamcoster.com/the-characters/" title="the&nbsp;characters">the&nbsp;characters</a></li>
+<li class="page_item page-item-2"><a href="http://adamcoster.com/about/" title="the&nbsp;author">the&nbsp;author</a></li>
+<li class="page_item page-item-29"><a href="http://adamcoster.com/purpose/" title="purpose">purpose</a></li>
+<li class="page_item page-item-32"><a href="http://adamcoster.com/disclaimer/" title="disclaimer">disclaimer</a></li>
+<li class="page_item page-item-838"><a href="http://adamcoster.com/projects/" title="projects">projects</a></li>
+</ul>
+
+		<ul id="nav-2">
+			<li><a class="feed" title="Subscribe to the adamcoster.com feed" href="http://adamcoster.com/feed/">Subscribe to feed</a></li>
+		</ul>
+	</div>
+
+</div>
+
+<div id="content">
+
+<div id="primary">
+
+
+	<div class="entry">
+		<div class="post-meta">
+			<h1 class="post-title" id="post-93">Make Notepad++ your default&nbsp;editor</h1>
+			<p class="post-metadata">2008.04.20 in <a href="http://en.wordpress.com/tag/computerssoftware/" title="View all posts in computers/software" rel="category tag">computers/software</a> | Tags: <a href="http://en.wordpress.com/tag/default/" rel="tag">default</a>, <a href="http://en.wordpress.com/tag/editor/" rel="tag">editor</a>, <a href="http://en.wordpress.com/tag/executable/" rel="tag">executable</a>, <a href="http://en.wordpress.com/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://en.wordpress.com/tag/notepad/" rel="tag">notepad</a>, <a href="http://en.wordpress.com/tag/replacement/" rel="tag">replacement</a>, <a href="http://en.wordpress.com/tag/text/" rel="tag">text</a>, <a href="http://en.wordpress.com/tag/text-editor/" rel="tag">text editor</a>, <a href="http://en.wordpress.com/tag/windows/" rel="tag">windows</a>, <a href="http://en.wordpress.com/tag/word-processor/" rel="tag">word processor</a>			</p>
+		</div>
+		<div class="post-content">
+			<script type="text/javascript" src="http://s0.wp.com/wp-content/plugins/adverts/adsense.js?m=1253160243g&amp;1"></script><p>If you ever use Notepad, Windows’ native text editor, you should upgrade to <a href="http://notepad-plus.sourceforge.net/uk/site.htm">Notepad++</a>. Immediately. Seriously, every moment that you don’t is one more moment of sheer misery you don’t even realize you’re going through! Even if you don’t normally use a text editor, you might as well get a nice one. Just in case.</p>
+<p>So what’s the difference between a text editor and a word processor (like Microsoft Word)? Well, the name pretty much says it all. A text editor does nothing but manipulate text, just by adding or removing characters. A text editor can also be used to read any file-type, though if you open something like a jpeg you’ll have what looks like complete gibberish. Editors do absolutely no formatting. No font changes, size changes, italics, bold, etc etc. A word processor adds all of this fancy formatting, and usually uses all kinds of added code for both proprietary and useful reasons. For a good example, open up a Word document with Notepad. You’ll see the text of your document, but there is all kinds of crap between words, letters, paragraphs, and at the header and footer.</p>
+<p>You can actually edit any kind of file you want with a text editor, but chances are you’ll just make the file stop working properly. It can be fun, however, to explore different files and see what kind of stuff is added by the software that runs them. You may even find that some files store and hide some information about you…</p>
+<p><span id="more-93"></span></p>
+<p>If you’ve made it this far, the next question is “what’s the difference between Notepad and Notepad++?”</p>
+<p>First off, Notepad++ is completely <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, free, and community-maintained. There are all kinds of plugins that come with it, and others you can download to add functionality. At base, ++ does a lot of things that plain old Notepad doesn’t do. It does spell checking, for one. It also does syntax highlighting which means that ++ will read the extension of the file (the part that says <strong>.txt</strong>, <strong>.doc</strong>, <strong>.jpg</strong>, etc) and then add colors and underlining in some sort of sensible fashion. This is extremely useful for any kind of coding such as LaTeX, HTML, and other computer languages.</p>
+<p>Perhaps even more useful (for most people), ++ has a tabbed interface, and can be set up to remember what tabs it previously had open (and is set this way by default). So, you can have 10 different documents open at once, all in the same window, and if you somehow accidentally close it you can just reopen the program and everything will be there, safe and sound. Like magic.</p>
+<p>If you’ve been sold, here are the directions to make Notepad++ your default text editor (Read my <a href="http://adamcoster.com/disclaimer/">Disclaimer</a> first!):</p>
+<p>Download the Windows <a href="http://downloads.sourceforge.net/notepad-plus/npp.4.8.5.Installer.exe?modtime=1207960310&amp;big_mirror=0">executable</a> (direct link via sourceforge) and then run through the installation. That’s all that is required if you want Notepad++, but if you want to make it your default editor there are a few more things to do:</p>
+<p>Download <a href="http://notepad-plus.sourceforge.net/commun/misc/NppLauncher.bin.zip">this launcher</a> (direct link via Notepad++ <a href="http://notepad-plus.sourceforge.net/uk/site.htm">download page</a>). It comes as a .zip with a text (.txt) file and an executable (.exe) file inside. Unzip the zip. The text file gives you the directions for making ++ your default, so have at it if you don’t want my extra details. For everyone else, fire up Explorer. This can be done by double-clicking any folder around or by going to the <strong>Start menu</strong>, clicking <strong>Run</strong>, and then typing “explorer” into the box and hitting Enter. Now copy this text</p>
+<p style="text-align:center;"><em>c:\windows\system32\dllcache</em></p>
+<p style="text-align:left;">and paste it into the address bar at the top of the Explorer window. Hit Enter, and you’ll be inside the folder (also referred to as a “directory”). You’ll see all kinds of stuff in blue text– make sure that you <strong>do not delete</strong> or rename <em>any</em> of these (that might very well screw up your computer). Just in case you change your mind in the future and want Notepad back, start typing “n o t …” until a file called notepad.exe is highlighted. Right click it and then click “Rename.” Change the name to <strong>notepad.exe.bak</strong>, or anything you can easily remember. This just makes it so that Windows can’t find it, but you can just change the name back to what it was to make it findable again. By the way, this might make Windows upset so that it will warn you or recommend that you quit fooling with its guts. Don’t listen (choose whichever option means “I’ll do what I want!”).</p>
+<p style="text-align:left;">Now go back to your Desktop, or wherever you left the ++ executable, and copy it. Paste it into the <em>c:\windows\system32\dllcache</em> folder that you just opened. Notice that you have simply replaced the original Notepad.exe with something that has the same name, but contains different stuff. So Windows is going to look for Notepad.exe, and then launch the new file you stuck in there instead of the old one (which now has a different name). How sneaky of us!</p>
+<p style="text-align:left;">Unfortunately, you have to do this process two more times (Windows wants to make sure you are absolutely positive you want to do this). So, go to <em>c:\windows\system32</em> in Explorer and rename Notepad.exe, then paste in the new version. Do it again in<em> c:\windows</em>. Finally! Windows will throw some more warnings at you, and ask if you want to revert to the original files, threaten to murder your first-born child, etc. Again, tell it you’ll do what you want.</p>
+<p style="text-align:left;">Now you have replaced Notepad with Notepad++. By default, every time you double-click a .txt file you’ll end up inside Notepad++. Easy, eh? There will also be an “Edit with Notepad++” option added to your right-click context menu. Enjoy your new and improved text editor!</p>
+<div class="snap_nopreview sharing robots-nocontent">
+<ul>
+<li class="sharing_label">Share this:</li>
+<li class="share-stumbleupon share-regular"><a rel="nofollow" class="share-stumbleupon share-icon" href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/?share=stumbleupon" title="Click to share on StumbleUpon">StumbleUpon</a></li>
+<li class="share-digg share-regular"><a rel="nofollow" class="share-digg share-icon" href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/?share=digg" title="Click to Digg this post">Digg</a></li>
+<li class="share-reddit share-regular"><a rel="nofollow" class="share-reddit share-icon" href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/?share=reddit" title="Click to share on Reddit">Reddit</a></li>
+<li class="share-end"></li>
+</ul>
+<div class="sharing-clear"></div>
+</div>
+
+<!--adcode-->
+<div align="center" style="padding-top: 5px; text-align: left;" class="adcode">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3443918307802676";
+google_ad_output = "js";
+google_feedback = "on";
+google_max_num_ads = "4";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_image_size = "336x280";
+google_ad_type = "text,flash,html";
+google_ad_channel ="7770228814+6875057225+7401333398+7453468586+2794543176";
+var color_bg = 'ffffff';
+var color_text = '545454';
+var color_link = '005a80';
+var color_border = 'ffffff';
+var color_url = '005a80';
+
+google_analytics_domain_name = "none";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div style="clear: both"><br></div>
+<!--/adcode-->
+		</div>
+					</div>
+</div>
+<div id="secondary">
+
+<div class="widgets">
+
+<div id="search-2" class="widget widget_search"><div class="searchbox">
+	<form method="get" id="searchform" action="/"><fieldset>
+		<input type="text" value="" name="s" id="s" tabindex="21">
+		<input type="submit" id="searchsubmit" value="Search" tabindex="22">
+	</fieldset></form>
+</div></div><div id="categories-1" class="widget widget_categories"><h3>topics</h3>		<ul>
+			<li class="cat-item cat-item-383615"><a href="http://adamcoster.com/category/computerssoftware/" title="View all posts filed under computers/software">computers/software</a> (46)
+</li>
+	<li class="cat-item cat-item-1921"><a href="http://adamcoster.com/category/howto/" title="View all posts filed under HowTo">HowTo</a> (6)
+</li>
+	<li class="cat-item cat-item-8800"><a href="http://adamcoster.com/category/latex/" title="View all posts filed under LaTeX">LaTeX</a> (8)
+</li>
+	<li class="cat-item cat-item-124"><a href="http://adamcoster.com/category/life/" title="View all posts filed under life">life</a> (113)
+</li>
+	<li class="cat-item cat-item-35690"><a href="http://adamcoster.com/category/peace-corps/" title="View all posts filed under peace corps">peace corps</a> (34)
+</li>
+	<li class="cat-item cat-item-173"><a href="http://adamcoster.com/category/science/" title="View all posts filed under science">science</a> (25)
+</li>
+	<li class="cat-item cat-item-200"><a href="http://adamcoster.com/category/travel/" title="View all posts filed under travel">travel</a> (23)
+</li>
+	<li class="cat-item cat-item-1914"><a href="http://adamcoster.com/category/video-games/" title="View all posts filed under video games">video games</a> (2)
+</li>
+		</ul>
+</div><div id="linkcat-2665" class="widget widget_links"><h3>friends/family</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://adamlabnotebook.wordpress.com">Adam\’s Laboratory Notebook</a></li>
+<li><a href="http://sethcoster.com" rel="sibling" title="My bro’s personal site.">brother stoz</a></li>
+<li><a href="http://jcalyst.wordpress.com" rel="muse">the GF</a></li>
+<li><a href="http://woodyschneider.com" title="my wildly creative and entertaining friend from Grinnell">woody schneider</a></li>
+
+	</ul>
+</div>
+	<div id="recent-comments" class="widget widget_recent_comments">		<h3>Recent Comments</h3>		<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td title="Frank Willshire" class="recentcommentsavatartop" style="height:16px; width:16px"><img alt="" src="http://1.gravatar.com/avatar/b02413246c35dc19a082bbecaea4d962?s=16&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-16" height="16" width="16"></td><td class="recentcommentstexttop">Frank Willshire on <a href="http://adamcoster.com/2009/12/26/not-an-impossible-proble/#comment-567">not an impossible problem, jus…</a></td></tr><tr><td title="Kevin" class="recentcommentsavatarend" style="height:16px; width:16px"><img alt="" src="http://1.gravatar.com/avatar/5b71c140b84582307a0231587c744186?s=16&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-16" height="16" width="16"></td><td class="recentcommentstextend">Kevin on <a href="http://adamcoster.com/2010/07/12/life-achievement-marriage-first-home/#comment-564">Life Achievement: marriage, fi…</a></td></tr><tr><td title="Ina" class="recentcommentsavatarend" style="height:16px; width:16px"><img alt="" src="http://1.gravatar.com/avatar/13883d90cbb4a9e410738ea2d45d8da6?s=16&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-16" height="16" width="16"></td><td class="recentcommentstextend">Ina on <a href="http://adamcoster.com/2008/05/18/weighted-companion-cube-cake/#comment-563">Weighted Companion Cube&nbsp;C…</a></td></tr></tbody></table>
+	</div>	<div id="flickr" class="widget widget_flickr">	<h3>my flickr</h3><!-- Start of Flickr Badge -->
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tbody><tr><td><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tbody><tr><td align="center">
+<a href="http://www.flickr.com/photos/accoster/4792535708/"><img alt="lambda_plate" title="lambda_plate" src="http://farm5.static.flickr.com/4074/4792535708_64ede5eac3_t.jpg" border="0"></a><br><br><a href="http://www.flickr.com/photos/accoster/4792527526/"><img alt="96-well plate" title="96-well plate" src="http://farm5.static.flickr.com/4141/4792527526_c52bf095cd_t.jpg" border="0"></a><br><br><a href="http://www.flickr.com/photos/accoster/4792510134/"><img alt="me_wedding_clothes" title="me_wedding_clothes" src="http://farm5.static.flickr.com/4117/4792510134_346fc5623e_t.jpg" border="0"></a><br><br><a href="http://www.flickr.com/photos/accoster/">More Photos</a>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<!-- End of Flickr Badge -->
+
+		</div>
+</div>
+
+</div>
+
+<div id="comments" class="commentlist">
+
+	<div id="comments-meta">
+		<h2 class="comments-title">13 comments</h2>
+		<p class="comments-feed"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/feed/">Comments feed for this article</a></p>
+	</div>
+
+
+			
+	<div class="comment byuser comment-author-ridingfool even thread-even depth-1 vcard" id="comment-256">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-256" title="Permalink to this comment">2008.09.12 at 09:57</a></p>
+			<p class="comment-author"><strong class="fn">ridingfool</strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://1.gravatar.com/avatar/fb6d532bcf904a3f993268ef430fa771?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>Well, all right, but when I place notepad.exe in c:/windows/, it gets restored to the original notepad, automatically.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_256"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_256={"id":211625,"unique_id":"wp-comment-256","title":"Well, all right, but when I place notepad.exe in c:\/windows\/, it gets restored to the original notepad, automatically....","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-256","item_id":"_comm_256"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=256#respond" onclick="return addComment.moveForm(&quot;comment-256&quot;, &quot;256&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment byuser comment-author-adamcoster bypostauthor odd alt thread-odd thread-alt depth-1 vcard" id="comment-257">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-257" title="Permalink to this comment">2008.09.12 at 03:04</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://www.adamcoster.com" rel="external nofollow" class="url">adamcoster</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/a9997a07906178aea8a4143822c2dbc0?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>It shouldn’t, if you did the steps in the order shown. Does it show you a dialog box first? It’s been a while since I’ve done it, but I seem to recall Windows telling me to stop screwing with stuff and that if I hit the wrong option in the dialog it would restore the original. You can try the process again, if you’ve already renamed the original executables, by just copying the little executable and Ctrl+V-ing it into those folders in the correct order, one after another. If it still doesn’t work I’m not sure what to tell you…</p>
+<p>Hope that helps.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_257"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_257={"id":211625,"unique_id":"wp-comment-257","title":"It shouldn't, if you did the steps in the order shown. Does it show you a dialog box first? It's been a while since I've done it, but I seem to recall Windows telling me to stop screwing with stu...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-257","item_id":"_comm_257"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=257#respond" onclick="return addComment.moveForm(&quot;comment-257&quot;, &quot;257&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment even thread-even depth-1 vcard" id="comment-281">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-281" title="Permalink to this comment">2008.09.21 at 05:14</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://www.thegypsyproject.org" rel="external nofollow" class="url">Darren</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/8d7cfbab28535b87fc5c13837e660168?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>I get it installed ok, everything works great.  The only problem I have is when I double-click a text file in an archive, such as a zip file, it opens a blank file in Notepad++, rather than the text.  Even right clicking the zipped txt file and clicking edit opens a blank file.  Aside from extracting the file and opening it with Notepad++, any ideas?</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_281"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_281={"id":211625,"unique_id":"wp-comment-281","title":"I get it installed ok, everything works great.  The only problem I have is when I double-click a text file in an archive, such as a zip file, it opens a blank file in Notepad++, rather than the t...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-281","item_id":"_comm_281"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=281#respond" onclick="return addComment.moveForm(&quot;comment-281&quot;, &quot;281&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment byuser comment-author-adamcoster bypostauthor odd alt thread-odd thread-alt depth-1 vcard" id="comment-282">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-282" title="Permalink to this comment">2008.09.21 at 01:52</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://adamcoster.com" rel="external nofollow" class="url">Adam Coster</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/a9997a07906178aea8a4143822c2dbc0?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>I don’t think you can open a zipped file into Notepad++ at all. Is it possible with regular Notepad or with other editors? I’ve never actually tried to do this, so I’m not sure what to tell you.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_282"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_282={"id":211625,"unique_id":"wp-comment-282","title":"I don't think you can open a zipped file into Notepad++ at all. Is it possible with regular Notepad or with other editors? I've never actually tried to do this, so I'm not sure what to tell you....","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-282","item_id":"_comm_282"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=282#respond" onclick="return addComment.moveForm(&quot;comment-282&quot;, &quot;282&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment even thread-even depth-1 vcard" id="comment-347">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-347" title="Permalink to this comment">2008.12.15 at 11:54</a></p>
+			<p class="comment-author"><strong class="fn">Brandon M. Sergent</strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/48cfd6fd5a4ce1ca5bf37f2426855152?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>And what if I use notepad++ portable?</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_347"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_347={"id":211625,"unique_id":"wp-comment-347","title":"And what if I use notepad++ portable?...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-347","item_id":"_comm_347"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=347#respond" onclick="return addComment.moveForm(&quot;comment-347&quot;, &quot;347&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment byuser comment-author-adamcoster bypostauthor odd alt thread-odd thread-alt depth-1 vcard" id="comment-348">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-348" title="Permalink to this comment">2008.12.18 at 02:45</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://adamcoster.com" rel="external nofollow" class="url">Adam Coster</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/a9997a07906178aea8a4143822c2dbc0?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>Then you could do the same thing if you have it installed on the computer’s hard drive. If you are actually running in portably (on a thumb drive or something) then you won’t be able to make it the default, I don’t think. The operating system is what decides what is default for an extension, and so you would have to modify the host operating system to make it launch your portable installation when you open a text or other file.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_348"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_348={"id":211625,"unique_id":"wp-comment-348","title":"Then you could do the same thing if you have it installed on the computer's hard drive. If you are actually running in portably (on a thumb drive or something) then you won't be able to make it t...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-348","item_id":"_comm_348"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=348#respond" onclick="return addComment.moveForm(&quot;comment-348&quot;, &quot;348&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment even thread-even depth-1 vcard parent" id="comment-358">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-358" title="Permalink to this comment">2009.01.16 at 05:50</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://www.jrin.net" rel="external nofollow" class="url">James</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/449bcd039e98436d8debe012bf5cf2ca?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>I have done everything (replaced the notepad.exe, three times, with the one from the zip — and also made the registry edit).  Everytime I double click on a txt file, nothing happens.  I try to run the ‘new’ notepad.exe file, nothing happens.  </p>
+<p>Any suggestions?</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_358"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_358={"id":211625,"unique_id":"wp-comment-358","title":"I have done everything (replaced the notepad.exe, three times, with the one from the zip -- and also made the registry edit).  Everytime I double click on a txt file, nothing happens.  I try to r...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-358","item_id":"_comm_358"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=358#respond" onclick="return addComment.moveForm(&quot;comment-358&quot;, &quot;358&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+<ul class="children">
+		
+	<div class="comment byuser comment-author-adamcoster bypostauthor odd alt depth-2 vcard" id="comment-361">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-361" title="Permalink to this comment">2009.01.17 at 02:22</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://adamcoster.com" rel="external nofollow" class="url">Adam Coster</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/a9997a07906178aea8a4143822c2dbc0?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>I have no idea, sorry!</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_361"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_361={"id":211625,"unique_id":"wp-comment-361","title":"I have no idea, sorry!...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-361","item_id":"_comm_361"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=361#respond" onclick="return addComment.moveForm(&quot;comment-361&quot;, &quot;361&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+</ul>
+		
+	<div class="comment even thread-odd thread-alt depth-1 vcard" id="comment-373">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-373" title="Permalink to this comment">2009.01.19 at 07:10</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://www.coster3.com" rel="external nofollow" class="url">Seth</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/87c5f58ed57f6d3425eced47e153f585?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>Another way I found to change it (at least for .txt files) is to just right-click the text file you want to open, click “open with”, and then browse for Notepad++. Check the box that says “always use this program to open this type of file” and bam! Text files will always open with notepad++. Granted, it won’t be your default editor for other types of files, but at least text files will work fine with it.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_373"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_373={"id":211625,"unique_id":"wp-comment-373","title":"Another way I found to change it (at least for .txt files) is to just right-click the text file you want to open, click \"open with\", and then browse for Notepad++. Check the box that says \"always...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-373","item_id":"_comm_373"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=373#respond" onclick="return addComment.moveForm(&quot;comment-373&quot;, &quot;373&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment odd alt thread-even depth-1 vcard" id="comment-377">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-377" title="Permalink to this comment">2009.03.12 at 09:37</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://bp9.blogspot.com/" rel="external nofollow" class="url">bogdanp9</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://1.gravatar.com/avatar/56859e4778ddc2119a53ff1ac33b88ec?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>Thanks a lot ! Cheers !</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_377"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_377={"id":211625,"unique_id":"wp-comment-377","title":"Thanks a lot ! Cheers !...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-377","item_id":"_comm_377"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=377#respond" onclick="return addComment.moveForm(&quot;comment-377&quot;, &quot;377&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment even thread-odd thread-alt depth-1 vcard" id="comment-376">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-376" title="Permalink to this comment">2009.05.20 at 10:54</a></p>
+			<p class="comment-author"><strong class="fn">Mads Gren</strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/c7d17f64d9963da78afd8d1f0b73d969?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>The missing thing is this…^<br>
+You have to replace the notepad.exe in C:\WINDOWS\ServicePackFiles\i386 before you replace the other ones.</p>
+<p>This worked for me.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_376"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_376={"id":211625,"unique_id":"wp-comment-376","title":"The missing thing is this...^\nYou have to replace the notepad.exe in C:\\WINDOWS\\ServicePackFiles\\i386 before you replace the other ones.\n\nThis worked for me....","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-376","item_id":"_comm_376"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=376#respond" onclick="return addComment.moveForm(&quot;comment-376&quot;, &quot;376&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment odd alt thread-even depth-1 vcard" id="comment-375">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-375" title="Permalink to this comment">2009.05.21 at 03:35</a></p>
+			<p class="comment-author"><strong class="fn"><a href="http://coster3.com" rel="external nofollow" class="url">sacred atom</a></strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/a9997a07906178aea8a4143822c2dbc0?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>Thanks Mads Gren,</p>
+<p>I haven’t had to do that but, as we all know, Windows is a silly beast that sometimes requires different taming methods.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_375"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_375={"id":211625,"unique_id":"wp-comment-375","title":"Thanks Mads Gren,\n\nI haven't had to do that but, as we all know, Windows is a silly beast that sometimes requires different taming methods....","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-375","item_id":"_comm_375"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=375#respond" onclick="return addComment.moveForm(&quot;comment-375&quot;, &quot;375&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+		
+	<div class="comment even thread-odd thread-alt depth-1 vcard" id="comment-374">
+		<div class="comment-metadata">
+			<p class="comment-permalink"><a href="http://adamcoster.com/2008/04/20/make-notepad-your-default-editor/#comment-374" title="Permalink to this comment">2009.07.15 at 10:31</a></p>
+			<p class="comment-author"><strong class="fn">Machiner Productions</strong></p>
+			 
+		</div>
+		
+		<div class="comment-content">
+			<img alt="" src="http://0.gravatar.com/avatar/203b182e27d31b7c2c609ffa7ca511f2?s=32&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=PG" class="avatar avatar-32" height="32" width="32">			<p>I use Notepad++ 5.4.4. After I replaced Notepad with Notepad++ as the default Notepad using the steps posted above (not a comment), Notepad again became the default Notepad. Is this occurrence a bug that must be fixed in Notepad++ 5.4.5 or I’m not following the instruction by Mads Gren. Anyway, I opened a text document inside a ZIP archive with my Notepad++.</p>
+
+<div class="pd-rating" id="pd_rating_holder_211625_comm_374"></div><script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+PDRTJS_settings_211625_comm_374={"id":211625,"unique_id":"wp-comment-374","title":"I use Notepad++ 5.4.4. After I replaced Notepad with Notepad++ as the default Notepad using the steps posted above (not a comment), Notepad again became the default Notepad. Is this occurrence a ...","permalink":"http:\/\/adamcoster.com\/2008\/04\/20\/make-notepad-your-default-editor\/#comment-374","item_id":"_comm_374"}
+//--><!]]></script>		</div>
+		<div class="reply">
+				<a rel="nofollow" class="comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/?replytocom=374#respond" onclick="return addComment.moveForm(&quot;comment-374&quot;, &quot;374&quot;, &quot;respond&quot;, &quot;93&quot;)">Reply</a>		</div>
+	</div>
+
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+
+	<br>
+
+</div>
+
+	
+								<div id="respond">
+				<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2008/04/20/make-notepad-your-default-editor/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://adamcoster.com/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30"></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;pre&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment">
+							<input type="hidden" name="comment_post_ID" value="93" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+						
+<input type="hidden" name="genseq" value="1284771951">
+<p><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"> <label class="subscribe-label" id="subscribe-label" for="subscribe">Notify me of follow-up comments via email.</label></p><p><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;" tabindex="7"> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Subscribe to this site by email</label></p><input type="hidden" name="sub-type" value="comment-form-text2">					</form>
+							</div><!-- #respond -->
+						
+</div>
+
+<div id="footer">
+
+	<div id="miscellany">
+	
+	<div class="widgets">
+
+	
+		<div class="searchbox">
+	<form method="get" id="searchform" action="/"><fieldset>
+		<input type="text" value="" name="s" id="s" tabindex="21">
+		<input type="submit" id="searchsubmit" value="Search" tabindex="22">
+	</fieldset></form>
+</div>
+		
+	</div>
+
+	</div>
+
+
+	<div id="about">
+		<div class="navigation">
+					<div class="left"></div>
+			<div class="right"></div>
+		</div>		
+	</div>
+
+
+	<div id="theme-info">
+		<div class="primary content">
+			<p><span class="designer">Theme: <a href="http://tarskitheme.com/" rel="designer">Tarski</a> by Ben Eastaugh and Chris Sternal-Johnson. </span><span class="generator"><a href="http://wordpress.com/" rel="generator">Blog at WordPress.com</a>.</span></p>
+		</div>
+		<div class="secondary">
+			<p><a class="feed" title="Subscribe to the adamcoster.com feed" href="http://adamcoster.com/feed/">Subscribe to feed.</a></p>
+		</div>
+	</div>
+
+
+</div>
+
+</div><script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>
+<script type="text/javascript" src="http://wordpresscom.skimlinks.com/api/wordpress.js"></script>
+<script type="text/javascript">
+var skimlinks_pub_id = "725X1342";
+var skimlinks_sitename = 'adamcoster.wordpress.com';
+var skimlinks_domain = "go2.wordpress.com";
+skimlinks();
+</script>
+<script type="text/javascript">_qoptions={qacct:'p-18-mFEk4J448M',labels:'language.en'};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><p><img class="robots-nocontent" src="http://pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=language.en" style="display:none" height="1" width="1" alt=""></p></noscript>
+<script type="text/javascript">_acseed='Nm01fCNhbSQ6KkNjcCtlSi1hSWpdRmJpOjlDPlR1XjtZTGJLdFZKeVpZclNzdj4uTnVKcntsTlhhZEF2Zn5+N0RTUENJLzA1R2omen0oUTdfWmI1YE8yZDFCWkA9YE9YQTVYOk1ScS5xQjo8Oj9DUnwscGE9VA==';</script>
+<script type="text/javascript" src="http://s1.wp.com/wp-includes/js/jquery/jquery.js?m=1273512554g&amp;ver=1.4.2"></script>
+<script type="text/javascript" src="http://s1.wp.com/wp-content/mu-plugins/sharing/sharing.js?m=1282893758g&amp;ver=0.1"></script>
+<script type="text/javascript" src="http://i.polldaddy.com/ratings/rating.js?ver=MU"></script>
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p class="robots-nocontent"><img src="http://b.scorecardresearch.com/p?cj=1c1=2&amp;c2=7518284" alt="" style="display:none" width="1" height="1"></p></noscript><script src="http://s.stats.wordpress.com/w.js?19" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'2610285','v':'wpcom','user_id':'0','post':'93','subd':'adamcoster'});
+ex_go({'crypt':'RDZ8LFkxbXF2SHZYWn5vOStxTl10X2F1Q1VVakpwRGdob2NQW0RGMEFfcklsa3FMTFF+NS49UnJnRnFDYjNfVmVbd00/QWw/aiZqeWg/JTFVWENVR042ZGpXZndSYVhdWFNUQ1pHTFU4ZXN2SHdzan5oc0QmWmJPX01lJjFJQnJjaXpsWkQzQWxxNUtfMC1zLWg3Tl83WzFRYklbfHNrWlYsVXdCdS0uSmJjeTlnW0ZzSlFmN29dekJJYjZodG1YflVLaCUsPXdBNEgzK2pYd1lwT3FDbzhfUXVOUXNCdnBhJWNiS3JqVVt3X1loblpYS2NIaT1XX1ErUHl6LWN6XzhtY3lCUlt4SmJvajhlS1hjYl1jSi5IaXhjR0MlcTBGbC5JSUZKQyV2b1JIR0E2QUNIVVtoUUdLdG1qfCxPdzZ2clVpMzgrcS9SYjZmaj1Qd2QySURqUlhISFJLLD9UTlFkaGpqbGpdWUlOX29bZUFrRlAlcS9kP2s='});
+addLoadEvent(function(){linktracker_init('2610285',93);});
+	</script>
+
+</body></html>

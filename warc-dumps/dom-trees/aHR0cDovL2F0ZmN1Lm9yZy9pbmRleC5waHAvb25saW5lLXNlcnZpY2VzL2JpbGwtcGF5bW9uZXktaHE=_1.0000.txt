@@ -1,0 +1,190 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta name="verify-v1" content="dQjI1CQe5Ct06/NEDhTX8LU+S6QAFEf7xjBBpEsfvPA=">
+  <base href="http://atfcu.org/index.php/online-services/bill-paymoney-hq">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Austin Texas Credit Union, Austin Credit Union, Austin Telco, Austin Telco Federal Credit Union, Credit Union, Austin Banking, Great Loan Rates, Free Checking, Free Bill Pay, Online Banking, Second Chance Checking, No Chexsystems, No Telecheck, Overdraft, Austin, Cedar Park, Leander, Liberty Hill, Georgetown, Round Rock, Pflugerville, Bastrop, Smithville, Buda, Kyle, Luling, Elgin, Del Valle, Manor, Lago Vista, Travis, Hays, Cedar Creek, Mcdade, Williamson, Bastrop, Caldwell, Convenient, ATM, Home Equity Loans, Loans, Mortgage Loans, Business Loans, Commercial Real Estate Loans, NCUA, VISA Credit Cards, VISA Check Cards, Auto Loans, Boat Loans, RV Loans, Austin, Texas. Austin, TX">
+  <meta name="title" content="Bill Pay/Money HQ">
+  <meta name="description" content="Austin Telco Federal Credit Union. Serving All Residents of Austin's 5-County Metro Area.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Austin Telco Federal Credit Union - Bill Pay/Money HQ</title>
+  <link href="/templates/atfcu_leftmenu/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="/templates/atfcu/css/all.css" type="text/css">
+
+<script type="text/javascript" src="/templates/atfcu/js/main.js"></script>
+<script type="text/javascript" src="/templates/atfcu/js/inputs.js"></script>
+<!--[if lte IE 6]>
+	<link href="/templates/atfcu/css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+	<!--#set var="itemmenu" value="loans"-->
+	<!--begin main-->
+	<div id="main">
+		<!--begin inner-main-->
+		<div class="inner-main">
+			<!--begin general-->
+			<div class="general">
+			<!--begin header-->
+				<div id="header">
+					<ul class="menu_topright" id="topright"><li class="item144"><a href="http://atfcu.org/"><span>Home</span></a></li><li class="item79"><a href="/index.php/about-us"><span>About Us</span></a></li><li class="item78"><a href="/index.php/contact-us"><span>Contact Us</span></a></li><li class="item77"><a href="/index.php/locations"><span>Locations</span></a></li></ul>
+					<strong class="logo"><a href="/">AUSTIN TELCO</a></strong>
+					<!--begin input-part-->
+					<div class="input-part">
+						<div class="search-member">
+
+							<form method="post" action="/index.php/component/search/">
+								<label>Search:</label>
+							
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="50" alt="Search" class="inputbox" type="text" size="27" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="image" value="Search" class="button" src="/images/M_images/searchButton.gif" onclick="this.form.searchword.focus();">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+</form>	
+							
+						</div>
+						<div class="search-member">
+							<form action="https://www3.atfcu.org/cgi-bin/traceassure" method="post" target="_parent" onsubmit="mySubmit();" id="login_form">
+								<input type="hidden" name="verid" value="xxx">
+								<label>MemberConnect Login:</label>
+								<div>
+									<input class="input-txt" name="login" id="login" type="text" value="Account Number:" onfocus="if(this.value=='Account Number:') this.value='';" onblur="if(this.value=='') this.value='Account Number:';">
+									<input class="btn-member" type="image" name="MCWSUBMIT" src="/templates/atfcu/images/btn-arrow.gif">
+								</div>
+								<div>
+									<a class="lock" href="/index.php/security-information">Padlock</a>
+									<a class="support" href="/index.php/support">Support</a>
+								</div>
+							</form>
+						</div>
+					<!--end input-part -->
+					</div>
+						<ul class="menu_topnav" id="dropmenu"><li class="parent item53"><a href="/index.php/about-atfcu"><span>About ATFCU</span></a><ul><li class="parent item75"><a href="/index.php/about-atfcu/privacy-information"><span>Privacy Information</span></a></li><li class="item92"><a href="/index.php/about-atfcu/credit-union-philosophy"><span>Credit Union Philosophy</span></a></li><li class="item184"><a href="/index.php/about-atfcu/holiday-calendar"><span>Holiday Calendar</span></a></li><li class="item91"><a href="/index.php/about-atfcu/membership"><span>Membership</span></a></li><li class="parent item70"><a href="/index.php/about-atfcu/locations-a-hours"><span>Locations &amp; Hours</span></a></li><li class="item182"><a href="/index.php/about-atfcu/atm-locations"><span>ATM Locations</span></a></li><li class="item87"><a href="/index.php/about-atfcu/statistically-speaking"><span>Statistically Speaking</span></a></li><li class="item69"><a href="/index.php/about-atfcu/privacy-statement"><span>Privacy Statement</span></a></li><li class="item86"><a href="/index.php/about-atfcu/share-insurance-information"><span>Share Insurance Information</span></a></li><li class="item163"><a href="/index.php/about-atfcu/enewsletters"><span>eNewsletters</span></a></li><li class="item93"><a href="/index.php/about-atfcu/annual-reports"><span>Annual Reports</span></a></li><li class="item88"><a href="/index.php/about-atfcu/terms-and-conditions"><span>Terms and Conditions</span></a></li><li class="item90"><a href="/index.php/about-atfcu/wiring-instructions"><span>Wiring Instructions</span></a></li><li class="item187"><a href="/index.php/about-atfcu/routing-number"><span>Routing Number</span></a></li></ul></li><li class="parent item60"><a href="/index.php/rates"><span>Rates</span></a><ul><li class="item151"><a href="/index.php/rates/savings-rates"><span>Savings Rates</span></a></li><li class="item152"><a href="/index.php/rates/loan-rates"><span>Loan Rates</span></a></li></ul></li><li class="parent item58"><a href="/index.php/loans-a-credit-cards"><span>Loans &amp; Credit Cards</span></a><ul><li class="item96"><a href="/index.php/loans-a-credit-cards/auto-loans"><span>Auto Loans</span></a></li><li class="item97"><a href="/index.php/loans-a-credit-cards/business-loans"><span>Business Loans</span></a></li><li class="item98"><a href="/index.php/loans-a-credit-cards/home-equity"><span>Home Equity Loans</span></a></li><li class="item99"><a href="/index.php/loans-a-credit-cards/mortgage"><span>Mortgage Loans</span></a></li><li class="item101"><a href="/index.php/loans-a-credit-cards/online-application"><span>Online Application</span></a></li><li class="item102"><a href="/index.php/loans-a-credit-cards/other-loans"><span>Other Loans</span></a></li><li class="item103"><a href="/index.php/loans-a-credit-cards/preferred-auto-dealer-list"><span>Preferred Auto Dealer List</span></a></li><li class="item104"><a href="/index.php/loans-a-credit-cards/update-my-insurance"><span>Update My Insurance</span></a></li><li class="item105"><a href="/index.php/loans-a-credit-cards/visa-credit-card"><span>VISA Credit Card</span></a></li><li class="item161"><a href="/index.php/loans-a-credit-cards/lost-and-stolen-cards"><span>Lost and Stolen Cards</span></a></li></ul></li><li class="parent item54"><a href="/index.php/accounts"><span>Accounts</span></a><ul><li class="parent item106"><a href="/index.php/accounts/deposit-accounts"><span>Deposit Accounts</span></a></li><li class="parent item107"><a href="/index.php/accounts/business-accounts"><span>Business Accounts</span></a></li><li class="item108"><a href="/index.php/accounts/fees-a-charges"><span>Fees &amp; Charges</span></a></li><li class="item179"><a href="/index.php/accounts/switch-kit"><span>Switch Kit</span></a></li></ul></li><li class="parent active item59"><a href="/index.php/online-services"><span>Online Services</span></a><ul><li id="current" class="active item123"><a href="/index.php/online-services/bill-paymoney-hq"><span>Bill Pay/Money HQ</span></a></li><li class="item124"><a href="/index.php/online-services/calculators"><span>Calculators</span></a></li><li class="item125"><a href="/index.php/online-services/disabling-popup-blockers"><span>Disabling Popup Blockers</span></a></li><li class="item126"><a href="/index.php/online-services/ealerts"><span>eAlerts</span></a></li><li class="item127"><a href="/index.php/online-services/estatements"><span>eStatements</span></a></li><li class="item128"><a href="/index.php/online-services/forms-disclosures-and-fees"><span>Forms, Disclosures, and Fees</span></a></li><li class="item129"><a href="/index.php/online-services/memberconnect"><span>MemberConnect</span></a></li><li class="item130"><a href="/index.php/online-services/my-mortgage-account"><span>My Mortgage Account</span></a></li><li class="item131"><a href="http://www1.atfcu.org/chromecarbook.htm?tid=218" target="_blank"><span>New/Used Vehicle Search</span></a></li><li class="item132"><a href="/index.php/online-services/order-checks"><span>Order Checks</span></a></li><li class="item133"><a href="/index.php/online-services/theme-park-tickets"><span>Theme Park Tickets</span></a></li><li class="item134"><a href="/index.php/online-services/touch-tone-teller"><span>Touch Tone Teller</span></a></li><li class="parent item135"><a href="/index.php/online-services/additional-services"><span>Additional Services</span></a></li></ul></li><li class="item56"><a href="http://www.austintelcoinvestments.com/" target="_blank"><span>Investments</span></a></li><li class="parent item57"><a href="/index.php/learning-center"><span>Learning Center</span></a><ul><li class="item177"><a href="/index.php/learning-center/the-credit-union-difference"><span>The Credit Union Difference</span></a></li><li class="item156"><a href="/index.php/learning-center/identity-theft"><span>Identity Theft</span></a></li><li class="item157"><a href="/index.php/learning-center/buying-a-home"><span>Buying a Home</span></a></li><li class="item158"><a href="/index.php/learning-center/planning-for-college"><span>Planning for College</span></a></li><li class="item159"><a href="/index.php/learning-center/budgeting-essentials"><span>Budgeting Essentials</span></a></li><li class="item160"><a href="/index.php/learning-center/planning-for-retirement"><span>Planning for Retirement</span></a></li><li class="item190"><a href="/index.php/learning-center/financial-education"><span>Financial Education</span></a></li></ul></li><li class="parent item55"><a href="/index.php/about-atfcu/locations-a-hours"><span>Branches &amp; ATMs</span></a><ul><li class="item189"><a href="/index.php/branches-a-atms/locations-a-hours"><span>Locations &amp; Hours</span></a></li><li class="item183"><a href="/index.php/branches-a-atms/atm-locations"><span>ATM Locations</span></a></li><li class="item185"><a href="/index.php/branches-a-atms/branches-in-the-works"><span>Branches In The Works</span></a></li></ul></li></ul>
+					<div class="navigation-shadow"></div>
+				<!--end header-->
+				</div>
+				<!--begin content-->
+
+				<div id="content">
+					<!--begin main-content-left-page-->
+					<div class="main-content-left-page">
+						
+<div id="page">
+
+
+
+<h2 class="contentheading">
+	Bill Pay/Money HQ</h2>
+
+
+
+<p class="buttonheading">
+	</p>
+
+
+
+
+
+<br><a href="https://global1.onlinebank.com/mrv/Video_PR_Oct1.html" target="_blank" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');"><img src="https://secure.orcc.com/promo/VIDEOS2009/120x92why_button.jpg" border="0" alt="Learn More" title="Why use Online Bill Pay?" width="120" height="92"></a>&nbsp;<h3><br>New Bill Pay Interface Released<br></h3>The new interface is redesigned, with a new layout, making it even faster to add payees and pay bills. In addition, a new feature for all bill pay users will be eBills. With eBills, some merchants such as AT&amp;T Wireless, Macy’s, Best Buy, Verizon Wireless, and many others can display your current amount due, as well as the due date right inside our bill pay product.&nbsp; This is a great new convenient service we are excited to offer to our bill pay users. <p>To view the full functioning demo, <a href="https://demo2.onlinebank.com/vtg/login.htm?banknr=789 " target="_blank" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');">click here</a>. For a step by step look at all of the new Bill Pay features, <a href="https://demo2.onlinebank.com/mrv/Video_IBPMHQEbill.html?sec=0&amp;vid=0" target="_blank" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');">click here</a>. </p><p>If you have any questions or need help with the new interface, please call 1-877-287-1080. </p><h1>Free Bill Pay - With Direct Deposit</h1>Austin Telco’s Bill Pay service offers the convenience of paying all of your bills from one site. Bill Pay allows you to pay almost anyone, from your mortgage, car payment and even the babysitter. Plus, with our payment guarantee you can rest assured your payments will arrive on time. Get assistance with payment inquiries, making payments and adding new payees, day or night by calling 1-877-287-1080. <br><br><strong>What is the cost for Bill Pay?</strong> Austin Telco offers all members with checking accounts a two month Bill Pay trial period. After the trial period, the monthly fee of $4.25 is waived for members who pay at least three bills and have either a direct deposit or an aggregate average balance of at least $10,000 under a single account number.<br><br><strong>Can I still use Bill Pay if I don’t have direct deposit, an aggregate balance of $10,000 or pay fewer than three bills per month? </strong>Absolutely! All members with active checking accounts can use Bill Pay services for the low fee of $4.25 per month. <br><br><strong>Why should I use Bill Pay?</strong>&nbsp; Rather than mailing your personal check, Bill Pay offers the security of online payment transactions and reduces the risk of fraud. Additionally, with Bill Pay there is no need for paper checks and no more licking stamps or stuffing envelopes! Finally, Bill Pay offers the peace of mind in knowing that with our payment guarantee, if you do encounter an issue you can access our 24/7 member care line and we will work to have the issue resolved. <br><br><strong>How do I sign up for the Bill Pay service?</strong> By simply logging in to MemberConnect and clicking “Sign up for Bill Pay” under the&nbsp; “Bill Pay” tab. It is as simple as that! Canceling is just as easy.<br><strong><br>More Information on Bill Pay</strong><br><br>If you have direct deposit or maintain a monthly average balance of $10,000 in the aggregate of your checking and savings accounts (under one account number), bill pay will remain free for the first 15 bills in a calendar month and then only .35 cents for each additional bill. (You must pay at least three bills a month to maintain “Free Bill Pay Status”.) After the trial period, if you do not maintain the required $10,000 aggregate or direct deposit and pay a minimum of three bills per month, you can keep bill pay for only $4.25 a month and only .35 cents for each additional bill over 15 bills. If you want to cancel Bill Pay during the trial period, it's as easy as signing on and choosing "Discontinue Bill Pay".<br><br>If you are having an issues connecting to Bill pay call 302.5555. If you are having issues with a bill payment or setting up a payee call 877.287.1080.<br><br><h1>Money HQ</h1><strong>Money HQ - A Service Offered Through Bill Pay</strong><br>Welcome to Austin Telco Federal Credit Union's Money HQ, the next generation of on-line personal finance management. With our fully interactive Money HQ service (the "Money HQ Service") you may perform any of the following functions:<br><ul><li>Aggregate information from all your online financial accounts</li><li>Electronically transfer funds between any of your Austin Telco Federal Credit Union accounts and any of your accounts at other financial institutions</li><li>Electronically send funds to another person at this or another financial institution</li><li>Consolidate, organize and present bill information from credit card companies, utilities and other organizations offering online viewing of bills</li><li>Receive balance &amp; due date alerts</li></ul>Some of these features may not be available, or may have limited functionality, due to limits of applicable law, the ability of Austin Telco Federal Credit Union to obtain on-line financial information from other financial institutions, and the terms and conditions contained in the agreements governing your existing accounts.<br><strong><br>Description of Features</strong><br><ul><li><strong>Aggregation of Online Financial Accounts</strong></li></ul><blockquote>You may use your Money HQ Service to consolidate, organize and present certain information from your accounts at Austin Telco Federal Credit Union and with third parties such as banks, credit unions, brokerages, credit card providers, billers, and other sources of financial information ("Information Providers") on secure web pages. For each of your registered accounts on the Service you will need to provide your User ID, password and/or personal information numbers (PINs) so that Austin Telco Federal Credit Union can retrieve your account information. Based upon your setup instructions for each account, the information can be retrieved on a daily, on-login or on-demand basis.</blockquote><ul><li><strong>Funds Transfers</strong></li></ul><blockquote>You may use your Money HQ to make transfers between one of your accounts at Austin Telco Federal Credit Union and one of your accounts at another financial institution. You may also use the Service to send money from one of your accounts to another person by email, whether the recipient's account is held at Austin Telco Federal Credit Union or another financial institution.</blockquote><ul><li><strong>Account-to-Account (A2A)Transfers</strong><br><br>You can transfer funds between your primary financial institution’s accounts into your other bank, brokerage and investment accounts.</li><li><strong>Presentment of Bills</strong></li></ul><blockquote>You may use your Money HQ Service to consolidate, organize and present bill information from other service providers that offer on-line account information. Based upon Austin Telco Federal Credit Union's capability to access and aggregate online financial account information about your service provider accounts, a summary of your bill will be displayed on your Money HQ Service if the account has an amount due greater than zero and the due date is in the future or a limited days in the past.</blockquote><ul><li>Alerts</li></ul><blockquote>You may use your Money HQ Service to create email alerts about your on-line financial information. The alerts may be based upon going above or below a balance threshold or a due date for a bill.</blockquote><ul><li>Setup of the Service</li></ul><blockquote>To begin using your Money HQ Service, there are some preliminary legal and informational requirements that need to be completed.</blockquote><ul><li>Account Information</li></ul><blockquote>It is necessary for Austin Telco Federal Credit Union to access third party Web sites and databases containing information regarding your accounts and financial relationships to provide certain of the features included in the Money HQ Service. Austin Telco Federal Credit Union regards your privacy and security with the utmost importance, and we are absolutely committed to safeguarding any information that you share with us.</blockquote><ul><li>Test Transactions</li></ul><blockquote>Once you are approved for the Money HQ Service we may verify the accounts that you add to the Money HQ Service for transfers from time to time. We may use one or a combination of two methods to verify account ownership.<br></blockquote><br>You authorize us to validate the accounts through the use of a test transfer, in which one or more low value payments will be both deposited to and deducted from the account. The test deposit will always occur before the test deduction, and the deduction will always be of the same or lesser amount as the deposit, so that the balance in any of your accounts will never be less than the actual balance. Once the test transfer is complete we may ask you to access your accounts to tell us the amount of the test deposit or deduction or any additional information reported by your financial institution with this test transfer.<br><br>We may also verify accounts through requiring the entry of information you ordinarily use to access the account provider's Web site, or by requiring you to submit proof of ownership of the account.<br><br><h1>Fees and other Deductions </h1><strong>Current Schedule of Fees</strong><br><ul><li>There is a monthly service fee of $4.95 for the use of the Money HQ Service.<br>(This is an additional service through Bill Pay. You must be signed up for Bill Pay to access this service.)</li><li>The first 5 standard transfers in any month will be included in the monthly service fee; for each additional standard transfer, you will be assessed a fee of $1.50.</li></ul>For each next day transfer, you will be assessed an additional fee of $8.95 at time of transaction.<br><br><h1>Terms and Conditions</h1>Because your Money HQ Service involves a wide range of new responsibilities to be performed by Austin Telco Federal Credit Union, there are terms and conditions related to your usage of the Money HQ Service. When you click on the "I Agree" button at the bottom of the terms and conditions page, you will complete an application to receive the Money HQ Service, and you will indicate your acceptance of those terms and conditions. If you do not agree to all of the terms and conditions listed on that page, click on the "I Disagree" button and you will not be entitled to use the Service. Austin Telco Federal Credit Union will evaluate your application based on specific criteria, and may accept or reject your request to use the Money HQ Service. In any event, the acceptance or rejection of your application to use the Money HQ Service will not affect your existing services with Austin Telco Federal Credit Union.<br><br><h1>Getting Started</h1>Log in to Bill Pay through Member Connect, click on the "Bill Pay" link located to the left of the screen, then click on "Sign up for Bill Pay" to complete the application. When Online Resources accepts your application, you are ready to begin using the Money HQ/Bill Pay Service!<br><br><h1>Privacy and Security</h1>You can see a full description of our privacy and security policies by clicking on the "Privacy Policy" and "Security Policy" links on the help page for the Money HQ Service. As is more fully described in the "Security Policy" link, we have multiple levels of security that have been designed especially for us and all of your personal and financial information will be placed on a secure portion of our website. We do not use any persistent "cookies" on the browser to store any personal information.<br><br>As discussed in more detail in the "Privacy Policy" link, we will only disclose information to third parties about your account or the transfer you make:<br><ul><li>Where it is necessary for completing transfers, or</li><li>In order to verify the existence and condition of your account for a third party, such as credit bureau or merchant, or</li><li>In order to comply with government agency or court orders, or</li><li>If you give us your written permission.</li></ul>
+
+
+</div>
+
+					</div>
+					<!--begin sidebar-left-->
+					<div class="sidebar-left">
+						
+						<div class="bannergroup">
+
+<div class="banneritem"><a href="/index.php/component/banners/click/41"><img src="http://atfcu.org/images/banners/investmentservices.gif" alt="Investment Services " title="Investment Services "></a><div class="clr"></div>
+	</div>
+<div class="banneritem"><a href="/index.php/component/banners/click/32"><img src="http://atfcu.org/images/banners/debitcardrestrictions.gif" alt="Debit Card Limits Lowered on Out of State/Foreign Country Transactions" title="Debit Card Limits Lowered on Out of State/Foreign Country Transactions"></a><div class="clr"></div>
+	</div>
+<div class="banneritem"><a href="/index.php/component/banners/click/56"><img src="http://atfcu.org/images/banners/mortgage_loans.jpg" alt="Mortgage Loans
+Low Rates for your Grand Plans
+
+First Time Home-Buyers
+Dream Home
+Refinance" title="Mortgage Loans
+Low Rates for your Grand Plans
+
+First Time Home-Buyers
+Dream Home
+Refinance"></a><div class="clr"></div>
+	</div>
+
+</div>
+					<!--end sidebar-left-->
+					</div>					
+				<!--end content-->
+				</div>
+
+			<!--end general-->
+			</div>
+		<!--end inner-main-->
+		</div>
+	<!--end main-->
+	</div>
+<!--begin footer-->
+	<div id="footer">
+		<!--begin inner-footer-->
+		<div class="inner-footer">
+			<!--begin nav-footer-->
+			<div class="nav-footer">
+				<div>
+					<ul class="menu_footermenu" id="footermenu"><li class="item63"><a href="/index.php/contact-info"><span>Contact Info</span></a></li><li class="item64"><a href="/index.php/privacy-statement"><span>Privacy Statement</span></a></li><li class="item65"><a href="/index.php/employment-opportunities"><span>Employment Opportunities</span></a></li><li class="item66"><a href="/index.php/security-news"><span>Security News</span></a></li><li class="item67"><a href="/index.php/calculators"><span>Calculators</span></a></li><li class="item68"><a href="/index.php/site-map"><span>Site Map</span></a></li><li class="item169"><a href="/index.php/page-not-found"><span>Page Not Found</span></a></li></ul>
+				</div>
+			<!--end nav-footer-->
+			</div>
+			<!--begin list-ads-->
+			<div class="list-ads">
+				<div>
+					<div>
+						<span class="left-corner">&nbsp;</span>
+						<div class="bannergroup">
+
+<div class="banneritem"><a href="/index.php/component/banners/click/12" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');" target="_blank"><img src="http://www.atfcu.org/images/banners/ad4.gif
+" alt="NCUA" title="NCUA"></a><div class="clr"></div>
+	</div>
+<div class="banneritem"><a href="/index.php/component/banners/click/13" target=""><img src="http://www.atfcu.org/images/banners/ad5.gif
+" alt="Austin Alliance of Credit Unions" title="Austin Alliance of Credit Unions"></a><div class="clr"></div>
+	</div>
+<div class="banneritem"><a href="/index.php/component/banners/click/14" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');" target="_blank"><img src="http://www.atfcu.org/images/banners/ad6.gif
+" alt="MortgagePre-Approval" title="MortgagePre-Approval"></a><div class="clr"></div>
+	</div>
+<div class="banneritem"><a href="/index.php/component/banners/click/15" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');" target="_blank"><img src="http://www.atfcu.org/images/banners/eh.gif
+" alt="EqualHousingLender" title="EqualHousingLender"></a><div class="clr"></div>
+	</div>
+<div class="banneritem"><a href="/index.php/component/banners/click/50" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');" target="_blank"><img src="http://www.atfcu.org/images/banners/bbb_atfcu.gif
+" alt="NCUA" title="NCUA"></a><div class="clr"></div>
+	</div>
+
+</div>
+						<span class="right-corner">&nbsp;</span>
+					</div>
+				</div>
+			<!--end list-ads-->
+			</div>
+			<div align="center"> 			</div><p align="center">Copyright 2009 Austin Telco Federal Credit Union<br>8929 Shoal Creek Blvd., Austin, TX. 78757<br>Website Design : <a href="http://www.coldshowerdesign.com" target="_blank" onclick="alert('Attention! You are being redirected to a third-party site that is a preferred business partner of ATFCU. In order to provide you with superb financial services, you may be asked to provide certain information regarding your relationship with ATFCU.');">Cold Shower Design</a></p>
+		<!--end inner-footer-->
+		</div>
+	<!--end footer-->
+	</div>
+	 <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16066795-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>

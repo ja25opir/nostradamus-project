@@ -1,0 +1,1017 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Andhra Headlines: Andhra pradesh telugu and english news and entertainment portal
+</title>
+  <script type="text/javascript" language="JavaScript1.2" src="../js/dropdowntabs.js"></script>
+  <script type="text/javascript" language="JavaScript1.2" src="../js/ddlevelsmenu.js"></script>
+	<link rel="shortcut icon" type="image/ico" href="favicon/favicon.ico">
+<link href="App_Themes/AHL/ahl_styles.css" type="text/css" rel="stylesheet"><link href="App_Themes/AHL/ahlines.css" type="text/css" rel="stylesheet"><link href="App_Themes/AHL/AHLStyles.css" type="text/css" rel="stylesheet"><link href="App_Themes/AHL/ddcolortabs.css" type="text/css" rel="stylesheet"><link href="App_Themes/AHL/ddlevelsmenu-base.css" type="text/css" rel="stylesheet"><link href="App_Themes/AHL/OwnStyle.css" type="text/css" rel="stylesheet"></head>
+<body>
+  <form name="aspnetForm" method="post" action="/BrowseArticle.aspx?CatID=5&amp;ArtID=71811" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+
+<script src="/ScriptResource.axd?d=4pX1Q0VWeQbrOtfncRi1dpDwMKL2ALQvvGNPZDA2ga3-NZltqpcLYAygm-19id4XmAVH0vllQ1-Xtk7090PXAmDu20U2w4QneENU1lKxesU1&amp;t=ffffffffe89ed35d" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Rnyg9dHWUQHY0wmGXy+ghCs3i5+Cb10vNBIzAaFXz6DhM9KcbQ1goBF0e0np5MWm">
+    
+  <div>
+    <table cellpadding="0" cellspacing="0" border="0" width="1014" align="center">
+      <tbody><tr>
+        <td class="tdborderleft"></td>
+        <td>
+          <table cellpadding="0" cellspacing="0" border="0" width="1004" align="center">
+            <tbody><tr height="70">
+              <td background="bg/bg_logo.jpg">
+                <table cellpadding="0" cellspacing="0" border="0">
+                  <tbody><tr>
+                    <td width="340" valign="top">
+                      <table cellpadding="0" cellspacing="0" border="0" width="320">
+                        <tbody><tr><td align="left"><a href="../Default.aspx"><img src="../bg/ahl_logo1.jpg" border="0"></a></td></tr>
+                      </tbody></table>
+                    </td>
+                    <td width="655" valign="middle" style="background: transparent url(../bg/ahl_hbg.jpg); background-repeat: repeat">
+			                
+  <table style="margin-top: 5px; margin-right: 0px;" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" align="center" width="225">     
+    <tbody><tr>
+      <td align="center" valign="top">
+        <table id="ctl00_HeaderAdvert1_dlAdvert" cellspacing="0" cellpadding="0" border="0" width="225">
+	<tbody><tr>
+		<td width="225">
+          <table width="225" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody><tr>
+              <td width="100%" align="center">
+                <a href="http://www.kithabay.com" target="_blank"><img src="../ads/7_1_1.jpg" border="0" align="middle"></a>                                      
+              </td>
+            </tr>
+          </tbody></table>
+         </td>
+	</tr>
+</tbody></table>      
+      </td>
+    </tr>     
+  </tbody></table> 
+               
+
+                    </td>
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>             
+            <tr><td>
+<table width="1004" cellpadding="0" cellspacing="0" border="0"> 
+  <tbody><tr id="ctl00_Marquee1_trScroll">
+	<td colspan="2">
+      
+    </td>
+</tr>
+
+</tbody></table></td></tr>    
+            <tr>
+              <td class="tblmenu" align="center" valign="bottom">
+                     
+  <div id="ddtopmenubar">
+    <table id="ctl00_InnerMenu1_menustrip" border="0" width="1004" style="background-image:url(../bg/menubg.jpg);height:37px;" class="menustyle" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr>
+		<td align="left" width="880" valign="middle">
+           <table cellpadding="0" cellspacing="0" border="0">
+             <tbody><tr>
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../Default.aspx" class="menustyle">Home</a> </td> 
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../State/Default.aspx" class="menustyle">State</a></td> 
+                <td><img src="../Images/divider.JPG" alt=""></td>
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../National/Default.aspx" class="menustyle">India</a></td>
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../World/Default.aspx" class="menustyle">World</a></td>
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../Sports/Default.aspx" class="menustyle">Sports</a></td>
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../NRI/Default.aspx" class="menustyle">NRI</a></td>
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../Movies/Default.aspx" rel="ddsubmenu1" class="menustyle">Movies</a></td> 
+                <td><img src="../Images/divider.JPG" alt=""></td>
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="../Videos.aspx" rel="ddsubmenu2" class="menustyle">Videos</a></td> 
+                <td><img src="../Images/divider.JPG" alt=""></td>              
+                <td style="width:60px;height:37px;vertical-align:middle" align="center"><a href="#" rel="ddsubmenu4" class="menustyle">Live TV</a></td> 
+                <td><img src="../Images/divider.JPG" alt=""></td>              
+                <td style="width:80px;height:37px;vertical-align:middle" align="center"><a href="../Movies/Schedules.aspx?tab=5&amp;idx=9" class="menustyle">Schedules</a></td>
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+                <td style="width:80px;height:37px;vertical-align:middle" align="center"><a href="../Horoscope.aspx?tab=6&amp;idx=0" class="menustyle">Horoscope</a></td>
+                <td><img src="../Images/divider.JPG" alt=""></td> 
+             </tr>
+           </tbody></table>
+        </td>
+		<td width="114" valign="middle"><a href="http://telugu.andhraheadlines.com/default.aspx"><img src="../images/telugu.gif" border="0"></a></td>
+		<td width="5" valign="middle">&nbsp;</td>
+	</tr>
+</tbody></table>
+                    
+  </div>
+           
+  <!--Drop Down Menu 1 HTML-->
+   <ul id="ddsubmenu1" class="ddsubmenustyle">
+    <li><a href="../Movies/Default.aspx">Movie Home page</a></li>
+    <li><a href="#">Photo Gallery</a>
+     <ul>
+       <li><a href="../Movies/Actress.aspx?idx=0">Actress Gallery</a></li>
+       <li><a href="../Movies/Actors.aspx?idx=1">Actors Gallery</a></li>
+       <li><a href="../Movies/MovieGallery.aspx?idx=2">Movies Gallery</a></li>
+       <li><a href="../Movies/Events.aspx?idx=3">Events Gallery</a></li>
+       <li><a href="../Movies/AHLSpecial.aspx?idx=4">AHL Special Gallery</a></li>
+     </ul>
+    </li>
+    <li><a href="../Movies/CineNews.aspx?idx=5">News &amp; Gossips</a></li>
+    <li><a href="../Movies/Reviews.aspx?idx=6">Reviews</a></li>
+    <li><a href="../Movies/Videos.aspx?idx=7">Videos</a></li>
+    <li><a href="../Movies/Wallpapers.aspx?idx=8">Wallpapers</a></li>
+    <!--<li><a href="../Movies/Trailers.aspx?idx=11">Trailers</a></li>
+    <li><a href="../Movies/Audio.aspx?idx=9">Audios</a></li>
+    <li><a href="../Movies/PhotoFeature.aspx?idx=13">Photo Feature</a></li>
+    <li><a href="../Movies/Schedules.aspx?idx=14">Schedules</a></li>-->
+  </ul>           
+  
+  <ul id="ddsubmenu2" class="ddsubmenustyle">
+    <li><a href="../Videos.aspx">Videos Home</a></li>
+    <li><a href="../Movies/Videos.aspx?idx=9">Movie Videos</a></li>
+    <li><a href="../Sports/Videos.aspx">Sports Videos</a></li>
+    <li><a href="../Political/Videos.aspx">Political Videos</a></li>
+  </ul>
+
+ <ul id="ddsubmenu3" class="ddsubmenustyle">
+  <li><a href="#">Online Books</a>
+   <ul>
+       <li><a href="http://www.kithabay.com" target="_blank">Kithabay</a></li>
+       <li><a href="http://www.Amazon.com.com" target="_blank">Amazon</a></li>
+   </ul>
+  </li>
+  <li><a href="http://www.jdoqocy.com/t697js0ys-FJLIPPHPFHGLOIHIJ" target="_blank">Travel - Yatra</a></li>
+  <li><a href="#">Jewellery</a>
+   <ul>
+      <li><a href="http://www.kqzyfj.com/a073biroiq59B8FF7F576CD88DC" target="_blank">Buyz.com</a></li>
+      <li><a href="http://www.dpbolvw.net/ra98ar-xrzEIKHOOGOEGFJFHFKK" target="_blank">Ultra Diamonds</a></li>
+      <li><a href="http://www.dpbolvw.net/h8117hz74z6MQSPWWOWMONQUTWSO" target="_blank">Just Metal</a></li>
+   </ul>
+  </li>
+  <li><a href="#">Watches</a>
+   <ul>
+      <li><a href="http://www.dpbolvw.net/s797shqnhp48A7EE6E4658CB9A6" target="_blank">eWatches.com</a></li>
+      <li><a href="http://www.anrdoezrs.net/2b74dlurlt8CEBIIAI8GGDFBE9" target="_blank">WristWatch.com</a></li>
+   </ul>
+  </li>
+  <li><a href="http://www.dpbolvw.net/4s121zw41w3JNPMTTLTJLKQPSKRK" target="_blank">Designer Imports</a></li>
+  <!--<li><a href="http://www.dpbolvw.net/h166y1A719PTVSZZRZPRQVXWSSX" target="_blank">Gifts</a></li>
+  <li><a href="http://www.dpbolvw.net/54103ar-xrzEIKHOOGOEGFLNFMJN" target="_blank">Floral</a></li>
+  <li><a href="http://www.dpbolvw.net/h166y1A719PTVSZZRZPRQVXWSSX" target="_blank">Phone - Skype</a></li>
+  <li><a href="http://www.dpbolvw.net/d2100r09608OSURYYQYOQPVVUYPR" target="_blank">Back Ground Check</a></li>
+  <li><a href="http://www.tkqlhce.com/8t118biroiq59B8FF7F5EDCDB9A" target="_blank">e-Resume</a></li>
+  <li><a href="http://www.jdoqocy.com/o5122kjspjr6AC9GG8G687DF77CE" target="_blank">Vacation</a></li>-->
+</ul>
+  
+<ul id="ddsubmenu4" class="ddsubmenustyle">
+  <li><a href="../Live/Default.aspx?idx=0&amp;p=maatv">Maa TV</a></li>
+  <li><a href="../Live/Default.aspx?idx=1&amp;p=geminitv">Gemini TV</a></li>
+  <li><a href="../Live/Default.aspx?idx=2&amp;p=fc&amp;cid=31E92133109A">Sakshi TV</a></li>
+  <li><a href="../Live/Default.aspx?idx=3&amp;p=fc&amp;cid=214310A1">TV9 Telugu</a></li>
+  <li><a href="../Live/Default.aspx?idx=4&amp;p=ls&amp;ch=inewslive">iNews TV</a></li>
+  <li><a href="../Live/Default.aspx?idx=5&amp;p=fc&amp;cid=214110A2">NTV Telugu</a></li>
+  <li><a href="../Live/Default.aspx?idx=6&amp;p=fc&amp;cid=31D72135109A">Zee 24 Gantalu</a></li>
+  <li><a href="../Live/Default.aspx?idx=7&amp;p=fc&amp;cid=31E02137109B">eTV2 Telugu</a></li>
+  <li><a href="../Live/Default.aspx?idx=8&amp;p=fc&amp;cid=213510A2">TV1 Telugu</a></li>
+  <li><a href="../Live/Default.aspx?idx=9&amp;p=ls&amp;ch=hollywoodpremieres">Hollywood Premieres</a></li>
+</ul>            
+
+<ul id="ddsubmenu5" class="ddsubmenustyle">
+  <li><a href="../uShare/Default.aspx">uShare Home</a></li>
+  <li><a href="../uShare/Upload.aspx">Upload Articles</a></li>
+  <li><a href="../uShare/Upload.aspx">Upload Photoes</a></li>
+  <li><a href="#">Join</a></li>
+</ul>
+
+<ul id="ddsubmenu6" class="ddsubmenustyle">
+  <li><a href="../Sports/Default.aspx">Sports Home Page</a></li>
+  <li><a href="http://andhraheadlines.cricfeeds.com/news.html">Cricket</a></li>
+  <!--<li><a href="http://www.nba.com" target="_blank">NBA</a></li>
+  <li><a href="http://www.pga.com" target="_blank">PGA</a></li>-->
+</ul>
+          
+<ul id="ddsubmenu7" class="ddsubmenustyle">
+  <li><a href="../Movies/Schedules.aspx?idx=14">Movie Schedules</a></li>
+  <li><a href="../ESchedules.aspx">Event Schedules</a></li>
+</ul> 
+        
+  <script type="text/javascript">
+    ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
+  </script>
+              </td>
+            </tr>
+            <tr><td style="margin-top: 3px;"></td></tr>
+            <tr>
+              <td width="1004">
+                <table width="1004" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="margin-top: 2px;">
+                  <tbody><tr>
+                    <td style="width: 4px">&nbsp;</td>
+                    <td width="630" bgcolor="#ffffff" valign="top">
+                      
+  <table width="100%">
+    <tbody><tr>
+      <td width="100%" align="center">
+        <script type="text/javascript"><!--
+        google_ad_client = "pub-4175750948397823";
+        /* 468x15, created 4/15/10 */
+        google_ad_slot = "2713144296";
+        google_ad_width = 468;
+        google_ad_height = 15;
+        //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+      </td>
+    </tr>
+  </tbody></table>
+  <table width="630" cellpadding="0" cellspacing="0" border="0" align="center" style="margin-top: 5px; margin-left: 0px;">
+    <tbody><tr>
+      <td class="secbg640top1">
+      </td>
+    </tr>     
+    <tr>
+      <td class="secbg640middle">
+        <span id="ctl00_main_lblTitle" class="ArticleHeaderText" style="display:inline-block;">Capturing Laden important to national security: Obama</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="secbg640bottom">
+      </td>
+    </tr>    
+    <tr>
+      <td style="height: 5px;"></td>
+    </tr>    
+    <tr>
+      <td class="secbg640top1">
+      </td>
+    </tr>    
+    <tr>
+      <td valign="top" class="secbg640middle" align="left">
+        <table width="630" cellpadding="0" cellspacing="0" border="0" style="margin-left: 0px;">
+          <tbody><tr>
+            <td colspan="3" align="center">
+            <script type="text/javascript"><!--
+              google_ad_client = "pub-4175750948397823";
+              /* 468x60, created 3/29/10 */
+              google_ad_slot = "6234503694";
+              google_ad_width = 468;
+              google_ad_height = 60;
+              //-->
+              </script>
+              <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+              </script>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 5px;">&nbsp;</td>
+            <td width="620" valign="top">
+             <span id="ctl00_main_lblArticle" class="ArticleText" style="display:inline-block;"><img src="http://www.andhraheadlines.com/\g6\news\me\71811.JPG" hspace="10" vspace="10" align="left"><br>  <p>Washington, Sep 11: US President Barack Obama has said that capturing terror mastermind Osama bin Laden is still extremely important to national security although it won't "solve all the problems".<br><br>Nine years after masterminding the 9/11 attacks and evading the US forces, the Al Qaeda leader has "gone deep underground", but the US will continue to hunt him, Xinhua reported quoting Obama Friday. <br><br>Obama said it remains a high priority to capture or kill bin Laden, and the country's best intelligence officers and special forces are working night and day to make that happen. <br><br>The country will Saturday commemorate the deadly attacks Sep 11, 2001 that took thousands of lives. <br><br>Obama made the remarks during a news conference in the White House. He said extremist groups such as Al Qaeda are still the country's most dangerous enemies. <br><br>Reflecting on the war on terror, Obama expressed regret over the failure to close the Guantanamo Bay prison facility, which he said has been, and still is being, used by Al Qaeda for recruitment purposes. <br><br>"One where we've fallen short is closing Guantanamo. I wanted to close it sooner. We have missed that deadline. It's not for lack of trying. It's because the politics of it are difficult," said the president. <br><br>Obama promised to close the infamous facility in one year after he took office, but the facility still holds over 100 prisoners today.</p><br></span>
+            </td>            
+            <td style="width: 5px;">&nbsp;</td>
+          </tr>
+          <tr id="ctl00_main_trAd">
+	<td colspan="3" align="center"><br>
+              <script type="text/javascript"><!--
+                google_ad_client = "pub-4175750948397823";
+                /* 468x60, created 3/29/10 */
+                google_ad_slot = "6234503694";
+                google_ad_width = 468;
+                google_ad_height = 60;
+                //-->
+                </script>
+                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>              
+            </td>
+</tr>
+
+          <tr height="40" valign="middle">
+            <td align="right" colspan="3">
+              <div class="toolbar"><table width="100%"><tbody><tr>
+              <td>
+              <a title="Email this page" style="COLOR: #636363; TEXT-DECORATION: none" href="javascript:EmailCurrentPage('71811');" name="Email">
+              <img src="../Images/email.gif" alt="Email this article" border="0"></a>&nbsp;&nbsp;                    
+              <a title="Print this page" style="COLOR: #636363; TEXT-DECORATION: none" href="javascript:PrintCurrentPage('71811');" name="AKPrint">
+              <img src="../Images/print.gif" alt="Print this article" border="0"></a>
+              </td></tr></tbody></table></div>                  
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr>
+      <td class="secbg640bottom">
+        <table width="97%" cellpadding="0" cellspacing="0" style="border-left: #336699 1px solid; border-right : #336699 1px solid; border-top: #336699 1px solid;
+          margin-top: 1px; border-left: #336699 1px solid; width: 100%; border-bottom: #336699 1px solid">
+          <tbody><tr bgcolor="#336699">
+            <td><font color="#ffffff" size="2" face="arial"><b>&nbsp;Post Your Comments</b></font>
+            </td>
+          </tr>                         
+          <tr>
+              <td>
+                <table width="100%" bgcolor="#cccccc" align="center">
+                  <tbody><tr>
+                      <td align="left">
+                       <font color="black" size="1" face="arial"><b>Comment guidelines:</b> Andhra Headlines welcomes your thoughts, stories and information related to this article. 
+                        Please stay on topic and be respectful of others. Keep the conversation appropriate for interested readers across the globe.</font>
+                      </td>
+                  </tr>
+                  <tr>
+                    <td align="Left" class="ArticleText">Name:&nbsp;<font color="red"><b>*</b></font><br>
+                      <input name="ctl00$main$txtName" type="text" id="ctl00_main_txtName" class="ArticleText">
+                      
+                    </td>
+                  </tr>                                 
+                  <tr>
+                    <td align="Left" class="ArticleText">Comments:&nbsp;<font color="red"><b>*</b></font><br>
+                      <textarea name="ctl00$main$txtComments" rows="2" cols="20" id="ctl00_main_txtComments" class="ArticleText"></textarea>
+                      
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="Left" class="ArticleText">Image Verification:&nbsp;&nbsp;<br>
+                      <img id="ctl00_main_imgCI" src="http://www.andhraheadlines.com/ci/46.jpg" border="0">
+                      
+                    </td>
+                  </tr>                  
+                  <tr>
+                    <td align="Left" class="ArticleText">What code is the image?:&nbsp;<font color="red"><b>*</b></font><br>
+                      <input name="ctl00$main$txtImageText" type="text" id="ctl00_main_txtImageText" class="ArticleText">
+                      
+                    </td>
+                  </tr>                  
+                  <tr>
+                    <td style="height: 24px" align="left">
+                      <input type="submit" name="ctl00$main$btnSend" value="Post Your Comments" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$main$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_main_btnSend" class="ArticleText"><br>
+                      <span id="ctl00_main_lblMsg"><font face="Verdana" color="Green" size="1"></font></span></td>
+                  </tr>       
+              </tbody></table>   
+            </td>
+          </tr>
+          <tr bgcolor="#336699">
+            <td><font color="#ffffff" size="2" face="arial"><b>&nbsp;Comments on this news<input id="hbBlog" type="hidden" value="0" style="width: 16px"></b></font>
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <div>
+	<table cellspacing="0" cellpadding="4" border="0" id="ctl00_main_gvBlogs" width="600">
+		<tbody><tr align="left">
+			<td><font color="#333333">
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr height="20" valign="middle">
+                      <td align="left"><font face="arial" size="1" color="black">
+                        <b>Be the first to comment ...</b></font>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </font></td>
+		</tr>
+	</tbody></table>
+</div>
+              
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>  
+  </tbody></table>
+  <script type="text/javascript">
+    function PrintCurrentPage(ID)
+      {	
+	      window.open("../PrintPage.aspx?ArtID="+ ID, "","scrollbars=yes,status=no,toolbar=no,menubar=no,location=no,height=400,width=540,left=200,top=10")
+      }
+    function EmailCurrentPage(ID)
+      {	
+	      window.open("../EmailPage.aspx?ArtID="+ ID, "","scrollbars=yes,status=no,toolbar=no,menubar=no,location=no,height=350,width=340,left=250,top=150")
+      }
+   function ShowHideBlogs()
+      {	
+        var oval;
+        var odiv;
+        oval = document.getElementById("hbBlog");
+        odiv = document.getElementById("divBlog");
+        if (oval.value == 0)
+        {
+          odiv.style.display = "";
+          oval.value = 1;
+        }
+        else
+        {
+          odiv.style.display = "";
+          oval.value = 0;
+        }
+      }  
+  </script> 
+
+                    </td>
+                    <td width="350" bgcolor="#ffffff" valign="top">
+                      
+    <table style="margin-top: 5px; margin-right: 0px;" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" align="center" width="350">
+    <tbody><tr>
+      <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="350" style="margin-top: 0px;">
+          <tbody><tr>
+            <td class="secbg350top1"></td>
+          </tr>
+          <tr>
+            <td align="center" class="secbg350middle">
+              <script type="text/javascript"><!--
+                google_ad_client = "pub-4175750948397823";
+                /* 336x280, created 3/29/10 */
+                google_ad_slot = "2592817931";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+               </script>                       
+            </td>
+          </tr>
+          <tr>
+            <td class="secbg350bottom">
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+   <table style="margin-top: 5px; margin-right: 0px;" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" align="center" width="350">
+    <tbody><tr>
+      <td class="secbg350top">More News</td>
+    </tr>      
+    <tr>
+      <td align="center" valign="top" class="secbg350middle">
+        <table id="ctl00_BrowseMore1_dlMoreNews" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl00_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72142">Maoist chief Prachanda exits from Nepal PM race</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl01_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72134">MQM leader killed in London</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl02_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72117">US Govt to buy only 'Made in America' goods</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl03_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72092">Rajapaksa using Sino-Indian rivalry in SL: activist</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl04_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72074">US visa fee hike can sour ties with India</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl05_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72073">Spain will stay in Af  'as long as necessary' </a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl06_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72035">No legal action against me upon return: Musharraf</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl07_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72015">Get ready for competition from Ind, China: Obama to kids</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl08_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=72007">US bans British teenager over offensive Obama e-mail</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl09_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71984">Outsourcing ban won't affect ties: WH tech chief</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl10_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71967">Julia Gillard sworn in as Australia's PM</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl11_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71962">Threat to Hasina's life, warn intelligence agencies</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl12_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71959">Musharraf tried to protect Taliban after 9/11</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl13_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71952">US invests to compete with China, India: Obama</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl14_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71940">Remark of UN official from China embarrassing: Ban</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl15_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71924">Musharraf will be 'welcomed' by chief justice: Gilani</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl16_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71890">Surrogate mother miscarried Osama's twin grandchildren</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl17_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71847">Rival rallies over Islamic centre mark 9/11</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl18_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71833">It was Al Qaeda, not a religion that attacked us: Obama</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl19_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71828">US pastor agrees not to burn Quran</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl20_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71818">Mumbai II may provoke full blown Ind-Pak war</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl21_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71817">I've good chance of winning polls: Musharraf </a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl22_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71814">Rudd foreign minister in Gillard's new cabinet</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl23_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71807">'Church or Temple okay at ground, not Mosque?'</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl24_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71794">Obama excited about India visit: US envoy</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl25_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71779">Army not to come to power: Gilani</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl26_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71777">Nepal Muslims warn of World War III over religion</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl27_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71768">'Iran building secret underground nuclear plant'</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl28_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71761">India is emerging global player: US</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl29_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71758">Fire engulfs several homes in US</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl30_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71757">US pastor rethinking on cancelling Quran burning</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl31_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71736">Obama condemns Quran burning plan</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl32_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71719">Taliban close to victory: Mullah Omar</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl33_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71708">India is an anchor of stability: US</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl34_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71667">US looks to India for changes in liability law</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl35_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71666">Hillary Clinton condemns Koran burning plan</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl36_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71655">Wildfire forces thousands to flee in US</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl37_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71653">Obama to mark 9/11 at Pentagon</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl38_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71614">Julia Gillard returns as Australian PM</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl39_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71613">Obama launches $50 billion infrastructure plan</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl40_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71612">Ground Zero mosque overshadows 9/11 anniversary</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl41_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71609">Obama: They talk about me like a dog</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl42_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71582">British MP's wife found working as a sex worker</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl43_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71569">Blair cagey about Clinton's 'potentially sexual element'</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl44_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71545">Indian witnesses essential for 26/11 trial: Pak</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl45_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71530">SA President Jacob to become father for 22nd time</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl46_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71526">5 killed in suicide terror attack in Russia</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl47_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71514">Blair pelted with eggs, shoes</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl48_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71496">Nick Clegg puts up his house on sale</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr><tr>
+		<td align="left">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td valign="middle">&nbsp;<img src="btn/btn_red.gif" border="0">&nbsp;</td>
+                <td height="20" class="articletitle">
+                 <a id="ctl00_BrowseMore1_dlMoreNews_ctl49_lnkArt" href="BrowseArticle.aspx?CatID=5&amp;ArtID=71483">Mumbai attack trial 'stuck', admits Pak</a>                  
+               </td></tr>
+            </tbody></table>                                                                                 
+          </td>
+	</tr>
+</tbody></table>     
+      </td>
+    </tr>
+    <tr>
+      <td class="secbg350bottom">
+      </td>
+    </tr>      
+  </tbody></table> 
+               
+                      
+                    </td>     
+                    <td style="width: 2px">&nbsp;</td>
+                   </tr>
+                 </tbody></table>
+              </td>
+            </tr>
+            <tr height="25">
+              <td>
+                 
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" class="MarketText">
+  <tbody><tr style="height: 25px">
+    <td align="center">
+      <a href="../ContactUs.aspx" class="FooterLink">Contact Us</a>&nbsp;|&nbsp;
+    </td>
+    <td align="center">
+      Copyright ©&nbsp;<a href="http://www.andhraheadlines.com">Andhra Headlines</a>. All rights reserved.
+    </td>
+  </tr>
+  <tr>
+		<td>
+		<!-- Start of StatCounter Code -->
+			<script type="text/javascript">
+			var sc_project=4339190; 
+			var sc_invisible=1; 
+			var sc_partition=54; 
+			var sc_click_stat=1; 
+			var sc_security="8e1124ab"; 
+			</script>
+
+			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4339190/0/8e1124ab/1/" alt="hit counter"></a></div></noscript>
+			<!-- End of StatCounter Code -->
+		</td>
+	</tr>
+</tbody></table>
+              </td>
+            </tr>      
+          </tbody></table>
+        </td>
+        <td class="tdborderright"></td>
+      </tr>
+    </tbody></table>
+  </div>
+  
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+
+</body></html>

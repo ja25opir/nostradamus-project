@@ -1,0 +1,383 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Electronic Announcement Detail | American Astronomical Society</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/files/logos/AAS_Star_Logo_85_black.png" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fckeditor/fckeditor.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/switchtheme/switchtheme.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/print/css/printlinks.css?T">
+<link type="text/css" rel="stylesheet" media="all" href="/files/color/pixture-be1423fd/style.css?T">
+  <script type="text/javascript" src="/misc/jquery.js?T"></script>
+<script type="text/javascript" src="/misc/drupal.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?T"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?T"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/themes/pixture/fix-ie.css";</style>
+    <![endif]-->
+    <style type="text/css" media="all">@import "/files/styles/style_custom_ids_and_classes.css";</style>
+    <style type="text/css" media="all">@import "/files/styles/style_custom_tags.css";</style>
+  <script type="text/javascript"></script>
+</head>
+
+<body>
+
+<div id="wrapper" style="width: 95%;">
+
+<div id="container">
+
+<table border="0" cellpadding="0" cellspacing="0" id="header">
+<tbody><tr>
+    <td id="logo" valign="top" rowspan="2">
+      <a href="/" title="Home"><img src="/files/logos/AAS_Star_Logo_85_white_border.png" alt="Home"></a>  </td>
+  <td id="site_name">
+      <h1 class="site-name"><a href="/" title="Home">American Astronomical Society</a></h1>      <div class="site-slogan">Advocates for science since 1899</div>    </td>
+    <td id="site_search">
+      <form action="/publications/exploder_detail.php?ExploderID=214" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-b0d146a0c72e5ff9ba921969db58679e" value="form-b0d146a0c72e5ff9ba921969db58679e">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+  </td>
+</tr>
+<tr>
+    <td id="menu" colspan="2">
+            <ul class="links" id="navlist"><li class="menu-977 first"><a href="https://members.aas.org/contributions/" title="">Donate</a></li>
+<li class="menu-211"><a href="http://members.aas.org/JobReg/" title="">Job Register</a></li>
+<li class="menu-209"><a href="http://members.aas.org/directory/" title="">Member Directory</a></li>
+<li class="menu-210"><a href="http://members.aas.org/" title="">Member Pages</a></li>
+<li class="menu-772"><a href="/contact" title="">Contact Us</a></li>
+<li class="menu-537"><a href="/calendar" title="AAS Calendar Online">Calendar</a></li>
+<li class="menu-208"><a href="/journals" title="">Journals Home</a></li>
+<li class="menu-282 last"><a href="/help_about/faq.php" title="Frequently Asked Questions">FAQ</a></li>
+</ul>    </td>
+</tr>
+<tr>
+    <td colspan="3"><div></div></td>
+</tr>
+</tbody></table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" id="content">
+  <tbody><tr>
+
+    <td id="sidebar-left" class="sidebar">
+    <table id="block-menu-secondary-links" class="clear-block block block-menu">
+<tbody><tr>
+  <td class="block-tl"></td>
+  <td class="block-tc">
+          <h2>Main Menu</h2>
+      </td>
+  <td class="block-tr"></td>
+</tr>
+<tr>
+  <td class="block-bl"></td>
+  <td class="block-bc">
+    <div class="content"><ul class="menu"><li class="collapsed first"><a href="/staff" title="About AAS Executive Office">About AAS</a></li>
+<li class="collapsed"><a href="/career" title="Career Services">Career Services</a></li>
+<li class="leaf"><a href="/comms" title="Committees, Boards, Working Groups, Editors">Committees</a></li>
+<li class="collapsed"><a href="/contact" title="AAS Contacts">Contact AAS</a></li>
+<li class="collapsed"><a href="/divisions" title="AAS Divisions">Divisions</a></li>
+<li class="collapsed"><a href="/education" title="Education Services">Education Services</a></li>
+<li class="collapsed"><a href="/governance" title="Governance">Governance and Council</a></li>
+<li class="collapsed"><a href="/grants" title="Grouped Grants, Prizes, and Awards">Grants/Prizes</a></li>
+<li class="leaf"><a href="/journals" title="AAS Journals">Journals</a></li>
+<li class="collapsed"><a href="/donation" title="Book/Journal/Equipment Donation Materials Forum">Materials Donation</a></li>
+<li class="collapsed"><a href="/meetings" title="Meeting Services">Meeting Services</a></li>
+<li class="collapsed"><a href="/membership" title="Membership Services">Membership Services</a></li>
+<li class="collapsed"><a href="/policy" title="Public Policy">Public Policy</a></li>
+<li class="leaf"><a href="/press" title="AAS Press Services">Press Services</a></li>
+<li class="collapsed"><a href="/publications" title="Journals and Publications">Publications</a></li>
+<li class="collapsed last"><a href="/legal_and_policy_information" title="Legal and Policy Information">Legal &amp; Policy Information</a></li>
+</ul></div>
+  </td>
+  <td class="block-br"></td>
+</tr>
+</tbody></table>
+  </td>
+  
+  <td valign="top">
+      <div id="main">
+    <div class="breadcrumb"><a href="/">Home</a></div>          <div id="cr8"></div>
+        <div class="tabs"></div>
+            <table class="node"> 
+  
+  <tbody><tr>
+  <td class="node-tl"></td>
+  <td class="node-tc"></td>
+  <td class="node-tr"></td>
+  </tr><tr>
+
+  </tr><tr>
+  <td class="node-ml"></td>
+  <td class="node-mc">
+
+    <table>
+    <tbody><tr>
+      <td>
+        <h2 class="title"><a href="/publications/exploder_detail.php">Electronic Announcement Detail</a></h2>
+        <span class="submitted"></span>
+        <span class="taxonomy">Page Tags: <ul class="links inline"><li class="taxonomy_term_14 first last"><a href="/taxonomy/term/14" rel="tag" title="AAS publications">Publications</a></li>
+</ul></span>
+      </td>
+    </tr>
+    </tbody></table>
+        <div class="content">	
+
+<h1>Fiscal Year 2006 Budget Approved by Senate and House Conference Committee</h1>
+<h2>Informational Emails #2005-24</h2>
+
+<p><strong>Date Emailed:</strong> November 14th, 2005 12:00 am</p>
+
+<p>Fiscal Year 2006 Budget Approved by Senate and House 
+Conference Committee</p>
+<p>Kevin B. Marvel, Deputy Executive Officer</p>
+<p>Summary</p>
+<p>This Informational Email provides detailed information on 
+the Science, State, Justice and Commerce Appropriations act 
+for Fiscal Year 2006. This appropriations bill funds both 
+NASA and NSF as well as the Departments of State, Justice 
+and Commerce.</p>
+<p>Details</p>
+<p>NASA</p>
+<p>On 7 November, the House voted to accept the conference 
+committee report on the appropriations bill for Science, 
+State, Justice and Commerce. The full text of the bill can 
+be found most easily by going to this link [ http://thomas.loc.gov/home/approp/app06.html ],  
+which provides a tabular summary of all appropriations bills 
+and their current status and then clicking on the link to 
+H. Rept. 109-272. The Senate has yet to approve the 
+compromise, but they are expected to do so soon and it is 
+also likely that the President will sign this bill into 
+law. It is important to note that the details outlined in 
+the conference report are not 'law', but are generally 
+adhered to by the agency as it implements the spending plan 
+approved by Congress. Some of these detailed instructions 
+include significant spending on earmarks.</p>
+<p>NASA's budget for Fiscal Year 2006 will be $16.457B, which 
+is between the levels proposed by the House and Senate 
+independently and slightly below the President's requested 
+level. This level is also only 1.3% over FY 2005, which 
+can be considered a flat or slightly declining budget given 
+estimates for the rate of inflation. A cut across all 
+domestic discretionary programs as high as 2% is expected 
+to be agreed to by the House and Senate once all the 
+spending bills have been passed. Numbers presented in this 
+email do not include this anticipated reduction.</p>
+<p>Within the NASA budget, Science, Aeronautics and 
+Exploration funding will increase to $9.7B or 7.6% from 
+FY2005 levels, but much of this increase is in the 
+Exploration portion of the budget to support the new 
+Constellation Systems program. This program's goal is to 
+develop replacements for the shuttle and new equipment to 
+get humans to the Moon and Mars.</p>
+<p>Congress has allocated $271 million for the Hubble Space 
+Telescope in anticipation of a servicing mission to repair 
+the telescope. This amount is $50M more than the 
+President's requested level.</p>
+<p>Planetary exploration attracted a good deal of attention 
+in the spending bill. Mars exploration funding remains at 
+the FY2005 level of $680M. One interesting item in the bill 
+includes direct mention of the National Academy of Sciences 
+Decadal Survey for Planetary Sciences, in which a mission 
+to Jupiter's moon, Europa, is listed as a top priority. 
+Congress reads our decadal surveys and uses them for 
+guidance. They represent an important community activity 
+and one of the things that sets astronomy, defined broadly, 
+apart from other scientific disciplines.</p>
+<p>Although not providing any direct funding for this mission, 
+which was originally to have taken place under the defunct 
+(zeroed out in this budget) Project Prometheus program (to 
+develop nuclear powered propulsion and electricity 
+generation), Congress asked NASA to investigate a 
+conventional propulsion mission to Europa "as soon as 
+possible". Discovery missions will in the future be cost- 
+capped at $425M. In addition, Congress will now require NASA 
+to provide detailed information on the costing of selected 
+Discovery missions including the cost of spacecraft, 
+scientific instruments, launch vehicles, civil service, 
+flight readiness, launch integration and operations, 
+agency reviews and deep space network costs. The 
+cancellation of the Mars Telecommunications Orbiter 
+received Congressional interest, with the conference report 
+requesting NASA to explain how they would provide the 
+capability of MTO without an MTO. The Deep Space Network 
+also received mention, with NASA being directed to come up 
+with a ten-year funding plan including upgrades and 
+maintenance. The DSN is a vital component of our Nation's 
+solar system exploration activities.</p>
+<p>NASA's Solar Terrestrial Probes will receive $103.6M in 
+FY 2006 and Congress urged rapid development of the Magnetic 
+Multi-scale mission, planned to study the interaction of the 
+Earth's magnetic field with the solar wind. The Living with 
+a Star program will receive $239M, which is $5M above the 
+President's requested level. Specific language outlining 
+missions to be managed by the APL program office are 
+included in the report text.</p>
+<p>The Space Interferometry Mission received $10M more than 
+the President's request ending up with $119M and indicating 
+strong congressional support for this project.</p>
+<p>The James Webb Space Telescope will receive $371.6M in 
+FY2006, exactly the amount asked for by the President.</p>
+<p>Finally, Congress outdid themselves this year with an 
+earmark total of $321M, compared to $217M in last year's SAE 
+portion of the NASA appropriations bill. A full list of the 
+earmarks, many of which will come from Education programs, 
+is available on the AAS web page through this link: [ http://www.aas.org/policy/FY2006NASAEarmarks.html ]. An 
+interesting analysis of the NASA budget for FY 2006 is 
+available at the following link: [ http://www.aaas.org/spp/rd/nasa06c.pdf ].</p>
+<p>NSF</p>
+<p>In a surprise move, NSF received an increased budget over 
+both the Senate and House funding levels. The Conference 
+committee provided $5.653B to NSF, of which $4.387B goes to 
+Research and Related Activities, the portion of the NSF 
+budget that funds the various research directorates. This 
+represents at 3% increase over FY2005. Although this 
+increase is above inflation, it is well below the amount 
+authorized by the President two years ago in the so-called 
+NSF doubling bill. If the authorized levels had been 
+followed, NSF's budget would now be over $8.5B. It is 
+striking to compare this authorized level to the current 
+appropriation.</p>
+<p>The contentious polar ice-breaker issue is resolved in this 
+bill (in last year's budget NSF was to receive the polar 
+ice breakers lock, stock and barrel...along with their 
+maintenance issues), with NSF receiving funding to pay the 
+Coast Guard for their use and calling for a report on the 
+best way to provide ice breaking needs over the long term.</p>
+<p>In the Major Research Equipment and Facilities Construction 
+Account, ALMA will receive $49.24M, IceCube $50.45M and 
+other projects a total of just over $100M. The Rare 
+Symmetry Violating Processes experiment, a partnership with 
+DoE is canceled in this budget, reducing the MREFC overall 
+total by $19M.</p>
+<p>Education and Human Resources would receive $807M, above the 
+President's and the Senate's requested level. $64M of this 
+would go to support the Math and Science Partnerships, a 
+program the AAS has worked to defend in the past few years. 
+This funding level is less than half of the FY2004 level of 
+$139M. The decline of this budget represents an ongoing 
+administration effort to shift the MSP program to the 
+Department of Education, instead of remaining as a 
+partnership between NSF and DOEd.</p>
+<p>An interesting analysis of the NSF budget is available from 
+the AAAS at the following link [ http://www.aaas.org/spp/rd/nsf06c.pdf
+]. 
+&nbsp;</p></div>
+    <div class="links"><ul class="links inline"><li class="print_html first last"><a href="/print/publications/exploder_detail.php?ExploderID=214" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow">Printer-friendly version</a></li>
+</ul></div>
+  </td>
+  <td class="node-mr"></td>
+  </tr>
+
+  <tr>
+  <td class="node-bl"></td>
+  <td class="node-bc"></td>
+  <td class="node-br"></td>
+  </tr><tr>
+</tr></tbody></table>
+        </div>
+  </td>
+
+  
+  </tr>
+</tbody></table>
+
+</div><!-- end of div#container -->
+
+<div id="footer"><p>© 2010, American Astronomical Society</p><table id="block-switchtheme-0" class="clear-block block block-switchtheme">
+<tbody><tr>
+  <td class="block-tl"></td>
+  <td class="block-tc">
+          <h2>Theme</h2>
+      </td>
+  <td class="block-tr"></td>
+</tr>
+<tr>
+  <td class="block-bl"></td>
+  <td class="block-bc">
+    <div class="content"><form action="/publications/exploder_detail.php?ExploderID=214" accept-charset="UTF-8" method="post" id="switchtheme-switch-form">
+<div><div class="form-item" id="edit-theme-wrapper">
+ <select name="theme" title="Change the way this site looks." class="form-select" id="edit-theme"><option value="pixture">pixture (Default)</option></select>
+</div>
+<input type="submit" name="op" id="switchtheme-submit" value="Switch" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-e936b51c6d4c1570b2374d508af3de79" value="form-e936b51c6d4c1570b2374d508af3de79">
+<input type="hidden" name="form_id" id="edit-switchtheme-switch-form" value="switchtheme_switch_form">
+
+</div></form>
+</div>
+  </td>
+  <td class="block-br"></td>
+</tr>
+</tbody></table>
+<table id="block-block-4" class="clear-block block block-block">
+<tbody><tr>
+  <td class="block-tl"></td>
+  <td class="block-tc">
+      </td>
+  <td class="block-tr"></td>
+</tr>
+<tr>
+  <td class="block-bl"></td>
+  <td class="block-bc">
+    <div class="content"><p><a href="/help_about">Contact Us and Help</a> <a href="http://fusion.google.com/add?source=atgs&amp;feedurl=http%3A//aas.org/rss.xml"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google"></a></p>
+</div>
+  </td>
+  <td class="block-br"></td>
+</tr>
+</tbody></table>
+</div><script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?T"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-7341249-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "CToolsAJAX": { "scripts": { "/misc/jquery.js?T": true, "/misc/drupal.js?T": true, "/sites/all/modules/panels/js/panels.js?T": true, "/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?T": true, "/sites/all/modules/google_analytics/googleanalytics.js?T": true }, "css": { "/modules/aggregator/aggregator.css?T": true, "/modules/node/node.css?T": true, "/modules/poll/poll.css?T": true, "/modules/system/defaults.css?T": true, "/modules/system/system.css?T": true, "/modules/system/system-menus.css?T": true, "/modules/user/user.css?T": true, "/sites/all/modules/cck/theme/content-module.css?T": true, "/sites/all/modules/ctools/css/ctools.css?T": true, "/sites/all/modules/date/date.css?T": true, "/sites/all/modules/date/date_popup/themes/datepicker.css?T": true, "/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?T": true, "/sites/all/modules/fckeditor/fckeditor.css?T": true, "/sites/all/modules/filefield/filefield.css?T": true, "/sites/all/modules/panels/css/panels.css?T": true, "/sites/all/modules/switchtheme/switchtheme.css?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?T": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?T": true, "/modules/forum/forum.css?T": true, "/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?T": true, "/sites/all/modules/views/css/views.css?T": true, "/sites/all/modules/print/css/printlinks.css?T": true, "/files/color/pixture-be1423fd/style.css?T": true } } });
+//--><!]]>
+</script>
+
+
+</div><!-- end of div#wrapper -->
+
+
+
+</body></html>
