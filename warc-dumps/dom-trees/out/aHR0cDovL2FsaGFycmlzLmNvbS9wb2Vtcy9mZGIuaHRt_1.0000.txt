@@ -1,0 +1,1262 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Fireflies Don't Bite</title>
+<meta name="keywords" content="poems, fireflies, fireflies don't bite, poems, poetry, verse, inspirational, inspiration, lyric, lyrical, nature, philosophical, psychological, haiku, haikus, Alan Harris">
+<meta name="description" content="This book contains poems written in 2002 by Alan Harris.">
+<script language="JavaScript">
+<!--
+if (window != window.top) 
+top.location.href = self.location.href;
+//-->
+</script>
+	<script type="TEXT/JAVASCRIPT" language="JAVASCRIPT">
+		<!-- Hide script from older browsers
+
+		function toggleMenu(currElem,height) {
+			if (document.all) {
+				menuObj = eval("document.all." + currElem + ".style");
+				menuObj.pixelTop = toggleVal(menuObj.pixelTop,height);
+			}
+			else {
+				menuObj = eval("document." + currElem);
+				menuObj.top = toggleVal(menuObj.top,height);
+			}
+		}
+		
+		function toggleVal(inVal,height) {
+			if (inVal == -5) {
+				return height;
+			}
+			return -5;
+		}
+
+		// End hiding script -->
+	</script>
+	<style type="TEXT/CSS">
+<!--
+		.menu {position:absolute; font:12px/14px helvetica;
+			 width:90px; background-color:#ffffff;
+			 color:#FFFFFF}
+-->
+	</style>	
+<style type="text/css">
+<!--
+  .menuroll { font-family:Verdana; font-size:8pt; font-style:normal; font-weight:normal; letter-spacing:normal; text-decoration:none; text-transform:none; color:blue; }
+  A.menuroll:hover { color:red; }
+-->
+</style>
+<style type="text/css">
+<!--
+  .roll { font-family:Verdana; font-size:8pt; font-style:normal; font-weight:normal; letter-spacing:normal; text-decoration:none; text-transform:none; color:#009900; }
+  A.roll:hover { color:red; }
+-->
+</style>
+<script language="JavaScript">
+// Original:  Richard Cleaver (richard@cleaver.org.uk)
+// Web Site:  http://www.cleaver.org.uk
+<!-- Begin
+function floatButton () {
+if (document.all) {
+document.all.topButton.style.pixelTop = document.body.scrollTop;
+}
+else if (document.layers) {
+document.topButton.top = window.pageYOffset;
+}
+else if (document.getElementById) {
+document.getElementById('topButton').style.top = window.pageYOffset + 'px';
+   }
+}
+if (document.all)
+window.onscroll = floatButton;
+else
+setInterval ('floatButton()', 100);
+function initButton () {
+if (document.all) {
+document.all.topButton.style.pixelLeft = document.body.clientWidth - document.all.topButton.offsetWidth;
+document.all.topButton.style.visibility = 'visible';
+}
+else if (document.layers) {
+document.topButton.left = window.innerWidth - document.topButton.clip.width - 15;
+document.topButton.visibility = 'show';
+}
+else if (document.getElementById) {
+document.getElementById('topButton').style.left = (window.innerWidth - 73) + 'px';
+document.getElementById('topButton').style.visibility = 'visible';
+   }
+}
+//  End -->
+</script>
+
+
+<!-- Sliding menu code is below. -->
+<!-- <STYLE> -->
+<!--
+A.ssmItems:link		{color:black;text-decoration:none;}
+A.ssmItems:hover	{color:black;text-decoration:none;}
+A.ssmItems:active	{color:black;text-decoration:none;}
+A.ssmItems:visited	{color:black;text-decoration:none;}
+//-->
+<!-- </STYLE>
+
+<SCRIPT SRC="ssm.js" language="JavaScript1.2">
+
+//Dynamic-FX slide in menu v6.5 (By maXimus, maximus@nsimail.com)
+//Site: http://maximus.ravecore.com/
+//For full source, and 100's more DHTML scripts, visit http://www.dynamicdrive.com
+
+</SCRIPT>
+
+<SCRIPT SRC="ssmItems.js" language="JavaScript1.2"></SCRIPT> -->
+
+</head><body bgcolor="#ffffff" background="../images/stripegrad.gif" onload="initButton()">
+<span id="topButton" style="position: absolute; visibility: hidden; top: 0px;">
+<a href="javascript: window.scrollTo(0, 0); void 0" onmouseover="window.status = 'top'; return true;" onmouseout="window.status = ''; return true;"><font size="1" face="verdana,arial,helvetica" color="red"><b>Top</b></font></a>&nbsp;<br>
+<a href="javascript: window.scrollTo(0, 50000); void 0" onmouseover="window.status = 'bottom'; return true;" onmouseout="window.status = ''; return true;"><font size="1" face="verdana,arial,helvetica" color="red"><b>Bottom</b></font></a>&nbsp;
+</span>
+
+<font face="verdana,arial,helvetica" size="1">
+<a href="../index.htm">Home</a> &gt; <a href="index.htm">Collected Poems</a> &gt; Fireflies Don't Bite
+</font>
+
+<center> 
+<img src="../images/fdbred.gif" width="282" height="79" border="0" alt="Fireflies Don't Bite">
+<br><img src="../images/fdbx.gif" width="169" height="167" border="0">
+<font face="VERDANA,ARIAL,HELVETICA" size="2"><h5>by Alan Harris<br>
+2002</h5></font>
+<img src="../images/majordiv.gif" width="320" height="32"><br><br>
+<table><tbody><tr><td><font face="VERDANA,ARIAL,HELVETICA" size="2">
+<strong>Both harmlessness and light?  I bow to you, Saint Bug.<br></strong>
+</font></td></tr></tbody></table>
+<br>
+<img src="../images/majordiv.gif" width="320" height="32"><br><br><br>
+<font face="VERDANA,ARIAL,HELVETICA" size="2">
+<table border="2" bordercolor="#990000" cellspacing="0" cellpadding="8" bgcolor="#ffffcc"><tbody><tr><td align="center">
+<font face="VERDANA,ARIAL,HELVETICA" size="2">
+<b>Free PDF <a href="pdf/fdb.pdf" title="You can then print out the book and bind it.">download</a> of this entire book:</b><br>
+<b><i>Fireflies Don't Bite</i></b> in Adobe Acrobat PDF format<br>
+(27 formatted pages including color photos)<br>
+Free <a href="http://www.adobe.com/products/acrobat/readstep2.html">Adobe Acrobat Reader</a> is required.
+</font>
+</td></tr></tbody></table>
+<br>
+<h3><a name="fdbContents">Contents</a></h3>
+<font size="-1">(Click on any divider between poems to return here.)</font><br><br>
+
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+<a href="fdb.htm#Absence">Absence</a> 
+<br>
+<a href="fdb.htm#BirdOmens">Bird Omens</a> 
+<br>
+<a href="fdb.htm#BuginMyKitchen">Bug in My Kitchen</a> 
+<br>
+<a href="fdb.htm#FarmerKarma">Farmer Karma</a> 
+<br>
+<a href="fdb.htm#AnInwardEast">An Inward East</a> 
+<br>
+<a href="fdb.htm#Itinerant">Itinerant</a> 
+<br>
+<a href="fdb.htm#JanuaryAdagio">January Adagio</a> 
+<br>
+<a href="fdb.htm#JulyBrushstrokes">July Brushstrokes</a> 
+<br>
+<a href="fdb.htm#KarmaYoga">Karma Yoga</a> 
+<br>
+<a href="fdb.htm#ManWalking">Man Walking</a> 
+<br>
+<a href="fdb.htm#AMeditation">A Meditation</a> 
+<br>
+<a href="fdb.htm#NightLight">Night Light</a> 
+<br>
+<a href="fdb.htm#Ones">Ones</a> 
+<br>
+<a href="fdb.htm#OurFirstWarmDay">Our First Warm Day</a> 
+<br>
+<a href="fdb.htm#PainandPromise">Pain and Promise</a> 
+<br>
+<a href="fdb.htm#Path">Path</a> 
+<br>
+<a href="fdb.htm#PrayerinBrief">Prayer in Brief</a> 
+<br>
+<a href="fdb.htm#Remembrance">Remembrance</a> 
+<br>
+<a href="fdb.htm#SomeKindofHaiku">Some Kind of Haiku</a> 
+<br>
+<a href="fdb.htm#ThankYou">Thank You</a> 
+<br>
+<a href="fdb.htm#UnclosedLoops">Unclosed Loops</a> 
+<br>
+<a href="fdb.htm#Upbeat">Upbeat</a> 
+<br>
+<a href="fdb.htm#Urges">Urges</a> 
+<br>
+<a href="fdb.htm#TheWater">The Water</a> 
+<br>
+<a href="fdb.htm#World">World</a> 
+<br>
+</font>
+</td></tr></tbody></table>
+
+<br><br>
+
+<img src="../images/majordiv.gif" width="320" height="32">
+<br><br><br>
+<a name="TheWater"><h4>The Water</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+You cry your first in your mother's arms.<br>
+The water trickles down the drain.<br>
+<br>
+You soon grow into a toddler's knowing.<br>
+The water flows beneath the streets.<br>
+<br>
+You attend your schools for diplomas, degrees.<br>
+The water enters a nearby stream.<br>
+<br>
+You have your wedding, children, career.<br>
+The water joins a seaward-flowing river.<br>
+<br>
+You make mistakes in ethics; health goes weak.<br>
+The water reaches the peace of the sea.<br>
+<br>
+You retire from your career to savor life.<br>
+The water now is one with all the seas.<br>
+<br>
+You suffer through precursors of mortality.<br>
+The water feels a need to rise.<br>
+<br>
+Your body quits, and you leave it where it is.<br>
+The water rises through a mist into a cloud.<br>
+<br>
+You enjoy long bliss in the space of Light.<br>
+The water joins a darkening cloud.<br>
+<br>
+You feel a longing toward the physical again.<br>
+The water rains down and seeps into a well.<br>
+<br>
+Your vision of the Light has faded now.<br>
+The water is drawn from the well for drinking.<br>
+<br>
+You feel confined and utterly doomed.<br>
+The water breaks.<br>
+<br>
+You cry your first in your mother's arms.<br>
+The water trickles down the drain.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/thewater.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="JanuaryAdagio"><h4>January Adagio</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Tonight at 10:30 I went out<br>
+for my walk.  In the distance<br>
+I heard a major commotion<br>
+of geese.  At first I thought<br>
+a flock might fly overhead,<br>
+though the hour was far too late<br>
+for geese to be aloft.<br>
+<br>
+But the sound wasn't moving.<br>
+<br>
+I heard a train's rumble,<br>
+then its mournful horn.<br>
+A freight was crossing<br>
+the railroad bridge<br>
+over the Fox River<br>
+close to where the geese<br>
+were overnighting.<br>
+<br>
+As I turned around toward home<br>
+I still could hear them fret and scold<br>
+in chaotic counterpoint with<br>
+the diesel's basso continuo.<br>
+<br>
+And the stars tonight burned<br>
+bright holes in the sky, decorating<br>
+bare tree branches overhead<br>
+like lingering holiday lighting.<br>
+<br>
+After the train had rumbled off<br>
+to where nocturnal trains all go,<br>
+the neighborhood assumed a hush<br>
+perturbed only by my footsteps.<br>
+<br>
+Hardly anything is quieter<br>
+than distant sleeping geese<br>
+and star-bespeckled trees.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/januaryadagio.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="AMeditation"><h4>A Meditation</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+In the where of almost<br>
+lies more somejoy<br>
+than define inchly gives.<br>
+<br>
+Streamtake and heartgive<br>
+are so many too softness<br>
+for headly grasp to box.<br>
+<br>
+If seldom all many center<br>
+in one boundless allitude,<br>
+one oneity can still still.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/ameditation.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="PrayerinBrief"><h4>Prayer in Brief</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+I bow<br>
+with heart in hand<br>
+to offer up my life<br>
+for larger Life, for brighter Light,<br>
+for Joy.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/prayerinbrief.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="KarmaYoga"><h4>Karma Yoga</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Living every hour<br>
+in the exact middle<br>
+of my weaknesses,<br>
+I work some more.<br>
+<br>
+Knowing the ways<br>
+I fell apart before<br>
+and took poor paths,<br>
+I work some more.<br>
+<br>
+To piece together<br>
+my fragmentary<br>
+feelings for peace,<br>
+I work some more.<br>
+<br>
+Pretty sure I will<br>
+later fail to restrain<br>
+some urges within me,<br>
+I work some more.<br>
+<br>
+When all of my jobs<br>
+on earth are done and<br>
+I'm in and out of heaven,<br>
+I will work some more.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/karmayoga.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="BirdOmens"><h4>Bird Omens</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+When you go for a walk<br>
+in your nearby forest,<br>
+you see pairs of cardinals<br>
+and thrill to their singing.<br>
+<br>
+One time you overheard<br>
+two owls conversing<br>
+between bare trees.<br>
+<br>
+In summer you have<br>
+stared breathless<br>
+at a heron standing<br>
+Samadhi-like<br>
+beside your lake.<br>
+<br>
+Birds of beauty<br>
+want to be near you.<br>
+Your heart flies up<br>
+with these fliers<br>
+and knows into<br>
+their knowing.<br>
+<br>
+Today as I walked<br>
+across an open field,<br>
+hundreds of crows<br>
+flew overhead,<br>
+snidely cawing from<br>
+confusing clouds<br>
+of cacophony.<br>
+<br>
+After they were gone,<br>
+I walked on in silence<br>
+and knew nothing.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/birdomens.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Path"><h4>Path</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+One mountain to climb<br>
+One abyss to pass over<br>
+One crow cawing law<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/path.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br>	  
+<a name="FarmerKarma"></a><br>
+<img src="../images/john-deere-model-a.jpg" border="0" width="300" height="199" alt="John Deere Model A photographed in 2000--courtesy Dale Harris"><br>
+<font size="1">Our John Deere Model A with manual flywheel starting</font><br><br>
+<h4>Farmer Karma</h4> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+I was a boy farmer<br>
+because I had to be<br>
+because my father<br>
+was a man farmer<br>
+and all my granddads<br>
+back to almost Adam<br>
+had been boy farmers<br>
+and man farmers<br>
+and that was that.<br>
+I hardly even realized<br>
+that I hated farming<br>
+but just did it because<br>
+and forever because.<br>
+<br>
+I learned how to<br>
+sharpen a hoe<br>
+and cut through my<br>
+hot-day reluctance<br>
+in order to kill Canadian<br>
+thistles in mechanical<br>
+planticide.  Dad told<br>
+me that the county<br>
+thistle warden might<br>
+assess us a fine if we<br>
+had too many thistles.<br>
+Chop, chop, chop,<br>
+I spiraled into each patch<br>
+and then on to the next,<br>
+never finishing them all.<br>
+<br>
+I learned how to start<br>
+the John Deere Model A<br>
+tractor by yanking<br>
+the top of its flywheel<br>
+mightily to the left<br>
+with the petcocks open<br>
+to reduce compression<br>
+until things got to popping<br>
+then closing the petcocks<br>
+for more power.<br>
+That Model A and I were<br>
+partners who bounced<br>
+across years of bumpy soil<br>
+pulling a drag or a disk<br>
+or a 3-bottom plow.<br>
+High in the bucket seat,<br>
+teeth into the gritty air,<br>
+I was as much a slave<br>
+to the A as it to me,<br>
+as much a slave<br>
+to the farm<br>
+as any farmer is.<br>
+<br>
+I shoveled grain<br>
+inside bins where<br>
+dust polluted the air<br>
+and filled my lungs<br>
+so full that<br>
+a time or two<br>
+I almost died<br>
+from asthma.<br>
+But dying would be<br>
+a slacker's excuse,<br>
+and the grain had<br>
+to be leveled.<br>
+<br>
+In the haymow<br>
+there was also,<br>
+guess what,<br>
+dust and heat<br>
+enough to turn<br>
+my lungs into<br>
+solid protoplasm--<br>
+what bronchial tubes?<br>
+When older, I got to stay<br>
+outside and throw<br>
+the bales onto<br>
+the Mayrath hay<br>
+elevator and breathe<br>
+the same good air that<br>
+our cows all breathed.<br>
+<br>
+I was always dutiful.<br>
+I never gave Dad<br>
+a single hint that<br>
+I didn't like farming.<br>
+No hint, that is,<br>
+other than my stoic<br>
+attitude, my yes-boss<br>
+obedience, my lack<br>
+of any initiative,<br>
+and my slipshod work.<br>
+These failings didn't matter<br>
+because there was the farm<br>
+and there were we<br>
+and the earth was turning<br>
+and the weather was erratic<br>
+and new work grew up<br>
+as fast as the precious corn.<br>
+<br>
+Dad never tried to teach<br>
+me anything technical<br>
+about how to farm.<br>
+He could see my soul.<br>
+One look at me<br>
+on any day of any week<br>
+told him that this boy<br>
+would never be a farmer.<br>
+No point in telling the boy<br>
+how best to rotate crops<br>
+or how to repair a combine<br>
+or how to choose fertilizer<br>
+or when to sell the grain.<br>
+Such breath would<br>
+have been as wasted<br>
+as a cold March wind<br>
+across the railroad field.<br>
+<br>
+Dad was a good farmer<br>
+and a good man.<br>
+Farming is good, too.<br>
+We get to eat from it.<br>
+But farming gets glorified<br>
+pretty often, and I never<br>
+partook of that schmaltz.<br>
+<br>
+I was a tractor driver<br>
+who would watch train<br>
+after train go by<br>
+on the Burlington<br>
+and wave at the engineers<br>
+and caboosemen,<br>
+all of us dutifully chained<br>
+to our turning wheels.<br>
+<br>
+I was a manure pitcher<br>
+and a manure spreader<br>
+who knew the cows had<br>
+to produce this but didn't<br>
+see my future in it.<br>
+<br>
+Farmer karma was<br>
+my inherited destiny<br>
+until college days<br>
+when I learned how<br>
+to be amply engrossed<br>
+in motions of the mind<br>
+and never later hankered<br>
+for any life on any farm.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/farmerkarma.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Itinerant"><h4>Itinerant</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+On my electric wire<br>
+a bold red cardinal<br>
+brimming with eons<br>
+of joyful songs<br>
+loudly greets the day<br>
+from his overflow<br>
+<br>
+while I on my lawn<br>
+try to reconstruct<br>
+from tuneful parts<br>
+an ancient whole<br>
+before he flies<br>
+to another yard.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/itinerant.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="PainandPromise"><h4>Pain and Promise</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+If only it<br>
+How can I<br>
+When will this<br>
+Can I ever<br>
+Is there any<br>
+Why am I<br>
+This is too<br>
+<br>
+Better is later<br>
+This shall pass<br>
+Now to learn<br>
+We are loved<br>
+Never all alone<br>
+Be in being<br>
+Endure in light<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/painandpromise.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Upbeat"><h4>Upbeat</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+<img src="../images/dot.gif" height="2" width="20" hspace="200" vspace="0">and exaltations.<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="175" vspace="0">world of pitfalls<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="150" vspace="0">amazingly beautiful<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="125" vspace="0">through this<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="100" vspace="0">left-right-left<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="75" vspace="0">as we all tread<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="50" vspace="0">correctable anomalies<br>
+<img src="../images/dot.gif" height="2" width="20" hspace="25" vspace="0">pleasant days and<br>
+I wish you<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/upbeat.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="ThankYou"><h4>Thank You</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Thank most you<br>
+for all little things big.<br>
+<br>
+Beams of kindness<br>
+illumine all paths of you<br>
+<br>
+and I am days on end<br>
+in your gentle debt.<br>
+<br>
+Accept please this<br>
+as my up payment.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/thankyou.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="NightLight"><h4>Night Light</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Melancholy needs a walk,<br>
+so out I carry it at 11 p.m.<br>
+to study two universes,<br>
+out and in.<br>
+<br>
+Our neighborhood is dotted with<br>
+random porch and yard lamps<br>
+lighting the way for nobody<br>
+and me.<br>
+<br>
+An hour above setting in the west,<br>
+our less-than-first-quarter moon<br>
+smiles inscrutably like a queen<br>
+in state.<br>
+<br>
+Gliding through the trees, she<br>
+offers only used rays to my heart,<br>
+but light being now difficult to find,<br>
+I accept.<br>
+<br>
+With far-away stars shining only because<br>
+they must, above a neighborhood where<br>
+yard lamps are glowing, thanks to<br>
+owners,<br>
+<br>
+a breath now washes through my chest<br>
+inviting me to turn my melancholy<br>
+over to night's infinite matrix of Beings<br>
+who shine.<br>
+<br>
+I do, and return home with lungs full<br>
+of light from outer and inner space,<br>
+and from yard lamps left on for all<br>
+who walk.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/nightlight.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="ManWalking"><h4>Man Walking</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+There is a man<br>
+walking behind me<br>
+on Wood Street<br>
+in Chicago.<br>
+<br>
+He can't know<br>
+my heart hums<br>
+a surging theme<br>
+from Movement 1<br>
+of Mahler's Tenth.<br>
+<br>
+He can't know<br>
+why I am walking<br>
+on Wood Street<br>
+in Chicago.<br>
+<br>
+And why am I?<br>
+It takes too long<br>
+to think about.<br>
+<br>
+Who is this man<br>
+behind me,<br>
+walking?<br>
+<br>
+What flavors<br>
+his feelings?<br>
+What obstacles<br>
+has he overcome?<br>
+What song<br>
+is in him?<br>
+<br>
+I somehow am<br>
+this man walking<br>
+on Wood Street<br>
+in Chicago.<br>
+<br>
+I am<br>
+his walkingness<br>
+behind me,<br>
+his grapplingness<br>
+with his day.<br>
+<br>
+I can only know<br>
+my own form<br>
+but he and I<br>
+are breathing of<br>
+the same Breath.<br>
+<br>
+Mahler's Tenth<br>
+plays on within me<br>
+as I enter a building.<br>
+<br>
+The man continues<br>
+along the street<br>
+paying absolutely<br>
+no attention to me,<br>
+<br>
+this man walking<br>
+on Wood Street<br>
+in Chicago<br>
+who I am.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/manwalking.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="SomeKindofHaiku"><h4>Some Kind of Haiku</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Some kind of haiku<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that ignores authorities<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lies here in the grass.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/somekindofhaiku.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="OurFirstWarmDay"><h4>Our First Warm Day</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+If I were to write about our first warm day of spring,<br>
+<br>
+I would write about the stuttering<br>
+burglar-alarm honks of a car<br>
+two blocks away.<br>
+<br>
+I would write about our waving neighbor<br>
+who slowly rides his motorcycle<br>
+out into the breeze, seeming to think<br>
+nothing of his vulnerability.<br>
+<br>
+I would write about the silent force<br>
+that brings the daffodils to bloom<br>
+and emboldens secret romances.<br>
+<br>
+I would write about children loudly vying<br>
+for token goals and supremacies<br>
+in outdoor made-up games.<br>
+<br>
+I would write about the lush air<br>
+playing inside my chest in C-major.<br>
+<br>
+I would write about Celestial Light<br>
+beaming upon all and within all<br>
+while taken for granted by most.<br>
+<br>
+I would watch the setting sun,<br>
+<br>
+listen to the dusk birds,<br>
+<br>
+watch for the first star,<br>
+<br>
+pray my drop into the Beneficent Stream<br>
+that flows within every person's heart<br>
+and every star's,<br>
+<br>
+then drop into the heights<br>
+to write without a pen<br>
+upon the folds of Infinity's Cloak<br>
+about our first warm day of spring.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/ourfirstwarmday.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="World"><h4>World</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Is a world hard<br>
+like a cue ball?<br>
+Or beyond touch?<br>
+<br>
+Does it jangle<br>
+with war threats<br>
+or does it hum<br>
+soft in the heart<br>
+like tuned strings<br>
+on a fine harp?<br>
+<br>
+Is a world separate I's<br>
+on a spinning rock<br>
+engaged and enraged<br>
+with each other<br>
+while blinded by what<br>
+they can merely see?<br>
+<br>
+Or is a world precisely<br>
+who one can be<br>
+(within utmost Who)<br>
+subtler than mind<br>
+with endless stairs<br>
+from love up to Be?<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/world.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Urges"><h4>Urges</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+wild wind<br>
+blow me<br>
+safe into<br>
+all here<br>
+<br>
+all here<br>
+let me<br>
+fly out on<br>
+wild wind<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/urges.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="AnInwardEast"><h4>An Inward East</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+To calm a care or soothe an anger storm<br>
+you pause to breathe your vital inside sun<br>
+and, richly quiet with its steady glow<br>
+of coremost tenderness and flooding peace,<br>
+you reinterpret body's aching bones<br>
+as levers placed for mystic ministry,<br>
+propelled and infinitely smiled upon<br>
+by forces which, when tapped, give tenfold strength.<br>
+You find your earth eyes lidded from the room<br>
+and focused now on lightened higherness.<br>
+<br>
+In light we are as one, beloved friend.<br>
+How can a doubt or fear feel more than mere<br>
+when in and up we set our inner sight<br>
+to see a splendor further east than east?<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/aninwardeast.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="JulyBrushstrokes"><h4>July Brushstrokes</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+gradual sliding low of Sol...<br>
+<br>
+flashings out when trees allow...<br>
+<br>
+sidewalk bathed in fading light...<br>
+<br>
+yellow-green this muted hour...<br>
+<br>
+whitening sky holds twilit breath...<br>
+<br>
+shadows paint each passing trunk...<br>
+<br>
+cicadas sing "six weeks till frost"...<br>
+<br>
+hints of night inspire bird choirs...<br>
+<br>
+all scent all sound all inner yes...<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/julybrushstrokes.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Absence"><h4>Absence</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+I always thought that you,<br>
+dear friend, had been away<br>
+due to a long, far journey.<br>
+<br>
+I thought I knew you well,<br>
+although I had no memory<br>
+of ever seeing you.<br>
+<br>
+Stirring stories I heard<br>
+about your distant deeds,<br>
+and I felt a link with you<br>
+though never saw your face.<br>
+<br>
+I asked you in my heart,<br>
+"How long, how far from here<br>
+has questing taken you?<br>
+Does destiny intend for me<br>
+someday to hear your voice?"<br>
+<br>
+My white-haired years<br>
+now tell me it is I<br>
+who traveled out upon<br>
+that long, far journey.<br>
+<br>
+Soon I will be coming back<br>
+to share my life's adventures<br>
+with you in a place not<br>
+far away nor danger-filled,<br>
+a place as near as breath and pulse.<br>
+<br>
+I've missed your easy laugh<br>
+and kindly voice, dear friend,<br>
+but soon enough we'll meet again<br>
+to pray the prayers of ancient days.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/absence.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Ones"><h4>Ones</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+I spot a one.<br>
+He changes lanes abruptly<br>
+right in front of me, no signal.<br>
+My teeth clench.<br>
+He is number one in his machismo,<br>
+and I a separate one in irritation.<br>
+<br>
+Another one is following my car<br>
+close enough to fill my mirror.<br>
+I want to slow down<br>
+and teach him a lesson,<br>
+but instead I simmer along<br>
+as one trapped.<br>
+<br>
+I notice my cozy tailgater is flying<br>
+an American flag above his window,<br>
+loyal in some kind of patriotism,<br>
+separate in some kind of jingoism,<br>
+and I explore my intolerance.<br>
+<br>
+By "ones" I mean sequestered minds,<br>
+"me" people in a universe of "not me."<br>
+Ones will celebrate their personal glory<br>
+then perish into their self-created void.<br>
+Ones will say we go around just once,<br>
+done, with no later come-arounds,<br>
+so that when the gustoed body quits,<br>
+the mind joins Big Zero forever.<br>
+<br>
+Why don't I think the same as that?<br>
+With not one proof that holds a drop,<br>
+I see a future human state<br>
+unhindered by me-centric rivalries.<br>
+<br>
+Birthing time and time again,<br>
+evolving life by life eternally,<br>
+it seems to me we'll someday<br>
+give up being ones, and enter<br>
+fully the community of Unity<br>
+where competition isn't.<br>
+<br>
+Though now I seem a one<br>
+to any other one<br>
+as the other one, for now,<br>
+may seem a one to me,<br>
+I hear an inner-speaking<br>
+Spirit say that all of us<br>
+are one with Utmost One<br>
+and separated mainly by<br>
+our walled-off minds and<br>
+pretty bags of bones.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/ones.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="Remembrance"><h4>Remembrance</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+
+Remembering tells me<br>
+I was never not, nor<br>
+were you nor anyone.<br>
+<br>
+Arteries in the Cosmos<br>
+are pulsing with light<br>
+and life and love<br>
+<br>
+in a flow never ceasing<br>
+yet constantly changing<br>
+in form and expression.<br>
+<br>
+Peace it is to remember<br>
+these arteries that feed<br>
+from out of the Unseen,<br>
+<br>
+their pulsings uncountable,<br>
+their inner motions subtler<br>
+than any evening breeze.<br>
+<br>
+Remembering upward<br>
+and inward, how not feel<br>
+vitality from the One?<br>
+<br>
+I remember (don't you?)<br>
+the beauty within trust,<br>
+the safety of community,<br>
+<br>
+the triumph of cooperation,<br>
+the brave sureness of joy,<br>
+love as easy to find as air.<br>
+<br>
+Remembering as I do<br>
+and perhaps as you do,<br>
+how could one not return?<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/remembrance.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="BuginMyKitchen"><h4>Bug in My Kitchen</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Let me guess,<br>
+box-elder bug<br>
+on my kitchen floor,<br>
+that you know neither<br>
+how you came<br>
+to be lost in here<br>
+nor how you will<br>
+get out--but you will.<br>
+<br>
+Fright-propelled boat,<br>
+six-oared, you worry<br>
+the woodwork then<br>
+hasten across<br>
+the open gloss<br>
+and disappear<br>
+beneath my stove.<br>
+<br>
+I shall not hunt you<br>
+nor shall we ever<br>
+meet again.<br>
+<br>
+I am just as adrift<br>
+on this waxed world<br>
+as you were on my floor,<br>
+and yet I feel certain<br>
+I will someday find<br>
+a serendipitous stove<br>
+to mask my out-passing.<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/buginmykitchen.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+<br><br>
+<a href="fdb.htm#fdbContents"><img src="../images/divider.gif" width="85" height="32" border="0"></a>
+<br><br><br>
+<a name="UnclosedLoops"><h4>Unclosed Loops</h4></a> 
+<table><tbody><tr><td>
+<font face="VERDANA,ARIAL,HELVETICA" size="-1">
+Life after rollicking life<br>
+I have littered<br>
+and frittered<br>
+but mostly learned<br>
+within unclosed loops.<br>
+<br>
+The room where I work<br>
+is a monument to<br>
+get-out-and-leave-out<br>
+and all my other rooms<br>
+imitate such open loops.<br>
+<br>
+Shall I dare to suggest<br>
+that every spiral<br>
+is an unclosed loop?<br>
+And point out that spirals<br>
+are the basis of life<br>
+on all of its planes?<br>
+<br>
+Closed-loop people<br>
+I have seen, dazzling<br>
+in their neatness,<br>
+smilingly prompt,<br>
+dickensly proud<br>
+of their punctilious<br>
+buttoned-downishness.<br>
+<br>
+Do devotees of closed loops<br>
+expire with a snap, I wonder?<br>
+And will I expire someday<br>
+with an ambiguous sigh?<br>
+<br>
+Let's broadly hint that<br>
+perhaps people never do expire<br>
+but instead subscribe over time<br>
+to suitably-spiraled-up bodies,<br>
+incremental costumes for playing<br>
+parts in this human drama<br>
+of infinite run.  "Death" is all<br>
+the rage these eons, but only<br>
+for those who think their eyes<br>
+see all there is to see.<br>
+<br>
+Let's even risk wondering<br>
+whether supposedly closed loops<br>
+might be minor quanta within major<br>
+evolving spirals.<br>
+<br>
+Unclosed as my loops are,<br>
+I admit to irritating the tidy.<br>
+Closed, the tidy may enjoy<br>
+their control, but beyond<br>
+their cubishness a universe<br>
+swirls with intranesting<br>
+spirals that may little praise<br>
+the painful righteousness<br>
+of an organized desk drawer.<br>
+<br>
+Now, where is that CD<br>
+I bought yesterday?<br>
+Has it spiraled off?<br>
+</font>
+</td></tr></tbody></table>
+<br>
+<font size="1">
+<a href="pdf/fdb/unclosedloops.pdf" title="Above poem formatted for printing by itself">PDF for printing</a></font>
+
+
+</font><p><font face="VERDANA,ARIAL,HELVETICA" size="2">
+
+</font>
+<br><br>
+</p></center>
+<!--NOSEARCHSTART--> 
+<table width="100%"><tbody><tr>
+<td align="left" width="33%"><font face="VERDANA,ARIAL,HELVETICA" color="#FF0000" size="2">
+<b>Previous Poetry Collection:<br>
+<a href="cf.htm">Carpet Flights (2001)</a></b></font></td>
+<td align="center" width="34%"><font face="VERDANA,ARIAL,HELVETICA" color="#FF0000" size="2">
+<b><a href="index.htm">Poetry Home Page</a></b></font></td>
+<td align="right" width="33%"><font face="VERDANA,ARIAL,HELVETICA" color="#FF0000" size="2">
+<b>Next Collection:<br>
+<a href="amob.htm">A Matter of Breath (2003)</a></b></font></td>
+</tr></tbody></table>
+<script type="text/javascript" src="poemfooter.js"></script>
+<script type="text/javascript" src="../ponderables/quips.js"></script>
+<script type="text/javascript" src="../ponderables/ponderablead.js"></script>
+
+
+</body></html>

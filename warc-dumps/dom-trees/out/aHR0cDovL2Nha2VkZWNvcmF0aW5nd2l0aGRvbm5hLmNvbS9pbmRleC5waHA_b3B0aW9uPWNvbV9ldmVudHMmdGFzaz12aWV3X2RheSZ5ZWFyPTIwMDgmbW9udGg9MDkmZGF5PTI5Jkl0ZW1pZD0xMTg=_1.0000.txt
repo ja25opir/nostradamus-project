@@ -1,0 +1,298 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="learn cake decorating, gumpaste, figures, cakes, fondant figures">
+  <meta name="description" content="Learn Cake Decorating online anytime of the day or night.....">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Live Events</title>
+  <link href="/templates/js_optimus/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://cakedecoratingwithdonna.com/modules/mod_yoo_login/mod_yoo_login.css.php" type="text/css">
+  <script type="text/javascript" src="http://cakedecoratingwithdonna.com/plugins/content/denvideo/swfobject.js"></script>
+  <script type="text/javascript">
+var xajaxRequestUri="http://cakedecoratingwithdonna.com/index2.php";
+var xajaxDebug=false;
+var xajaxStatusMessages=true;
+var xajaxWaitCursor=true;
+var xajaxDefinedGet=0;
+var xajaxDefinedPost=1;
+var xajaxLoaded=false;
+function xajax_doSubmitEmail(){return xajax.call("doSubmitEmail", arguments, 1);}
+function xajax_doAddToFavourites(){return xajax.call("doAddToFavourites", arguments, 1);}
+function xajax_doSubmitVoteComment(){return xajax.call("doSubmitVoteComment", arguments, 1);}
+	</script>
+	<script type="text/javascript" src="http://cakedecoratingwithdonna.com/plugins/system/xajax_0.2.5/xajax_js/xajax.js"></script>
+	<script type="text/javascript">
+window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: http://cakedecoratingwithdonna.com/plugins/system/xajax_0.2.5/xajax_js/xajax.js'); } }, 6000);
+	</script>
+  <link href="http://cakedecoratingwithdonna.com/components/com_events/events_css.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+
+<link rel="stylesheet" href="/templates/js_optimus/css/fluid.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/templates/js_optimus/css/template_css.css" type="text/css" media="screen">
+<link href="/templates/js_optimus/css/style1.css" rel="stylesheet" type="text/css" media="screen">
+<link rel="stylesheet" href="/templates/js_optimus/css/nav.css" type="text/css" media="screen">
+
+
+<link rel="stylesheet" href="/templates/js_optimus/css/serif.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="/templates/js_optimus/css/j15.css" type="text/css" media="screen">
+
+<!--[if IE]>
+	<link rel="stylesheet" href="/templates/js_optimus/css/ie.css" media="screen" type="text/css" />
+<![endif]-->
+
+
+
+<style type="text/css" media="screen">
+#logo-graphic h1 a{display:block;text-indent:-5000em;text-decoration:none;width:400px;line-height:101px;height:101px;}
+#newsflash,#header {height:101px;}
+</style>
+
+
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.designer a,img { behavior: url(/templates/js_optimus/js/iepngfix.htc); }
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="wrap">
+	<div id="header">	
+						<div id="logo-text">
+							<h1><a href="http://cakedecoratingwithdonna.com/" title="Sugarlanes">Sugarlanes</a></h1>
+							<h2>Learn Cake Decorating Online</h2>
+						</div>
+								</div><!-- end header -->
+		<div id="mbar">
+			<div id="nav">
+					 <div class="menuleft">&nbsp;</div>
+					 <div class="menuright">&nbsp;</div>
+					<script type="text/javascript" src="/templates/js_optimus/js/barmenu.js"></script>
+		<ul id="mainlevel"><li><a href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=112" class="mainlevel">Welcome</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=113" class="mainlevel">FAQ</a></li><li><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=34&amp;Itemid=114" class="mainlevel">Cake Decorating Articles</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=139&amp;Itemid=115" class="mainlevel">Video Room</a></li><li><a href="/index.php?option=com_events&amp;Itemid=118" class="mainlevel" id="active_menu">Live Events</a></li><li><a href="http://www.cakedecoratingwithdonna.com/orders/signup.php" class="mainlevel">JOIN NOW</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=137&amp;Itemid=121" class="mainlevel">Member Benefits</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=156&amp;Itemid=124" class="mainlevel">Refund Policy</a></li><li><a href="http://www.gumpastefigurine.com/Purchase_Dvd_s.html" class="mainlevel">Store</a></li></ul>
+			</div></div>
+						<div class="path">
+			<span class="breadcrumbs pathway">
+</span>
+
+			</div>
+						<div class="clear">&nbsp;</div>
+		<div class="mainbody">			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tbody><tr>
+							    <td class="leftcol" style="width:200px;">
+							<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Member Login</h3>
+											
+<form action="/index.php?option=com_events&amp;Itemid=118" method="post" name="login">
+
+<span class="default" style="display: block;">
+	<span class="yoo-login">
+	
+				<span class="login">
+		
+			Members Login Here			
+			<span class="username">
+			
+								<input type="text" name="username" size="18" alt="Username" value="Username" onblur="if(this.value=='') this.value='Username';" onfocus="if(this.value=='Username') this.value='';">
+								
+			</span>
+			
+			<span class="password">
+			
+								<input type="password" name="passwd" size="10" alt="Password" value="Password" onblur="if(this.value=='') this.value='Password';" onfocus="if(this.value=='Password') this.value='';">
+								
+			</span>
+
+						
+			<span class="login-button-container">
+				<span class="login-button-text">
+					<button value="Login" name="Submit" type="submit" title="Login">Login</button>
+				</span>
+			</span>
+			
+						<span class="lostpassword">
+				<a href="/index.php?option=com_user&amp;view=reset">Forgot your password?</a>
+			</span>
+						
+						<span class="lostusername">
+				<a href="/index.php?option=com_user&amp;view=remind">Forgot your username?</a>
+			</span>
+						
+						<span class="registration">
+				<a href="/index.php?option=com_user&amp;task=register">Create an account</a>
+			</span>
+						
+						
+			<input type="hidden" name="option" value="com_user">
+			<input type="hidden" name="task" value="login">
+			<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWNhdGVnb3J5JmxheW91dD1ibG9nJmlkPTQ1">
+			<input type="hidden" name="b7abc0eb3a9c5b48048ab86e7fed82dc" value="1">
+		</span>
+		
+				
+	</span>
+</span>
+</form>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Testamonials</h3>
+											<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="color: #800080;">What our Members are saying about Sugarlanes</span><br></span></span></p>
+<p><span style="color: #000000;">I cannot tell you just how excited I am to be a member of your site.You are the best, I have always dreamed of learning how to make the figures, but I could not find anyone that really teaches how to make them other than the few people who do workshops but they are never in my particular area. So when I saw your site I had to sign up and I got so much more than I had expected. I look forward to each week anticipating what you are going to teach us, thanks so much for all you do. I have recently purchased your how to dvd's and let me say its like having you in my home teaching me one on one keep the coming please I want to learn it all!!!!<br></span></p>
+<p><span style="color: #000000;">Maria N. from Alaska</span></p>
+<p><span style="color: #000000;"><br></span></p>
+<p><span style="color: #000000;">&nbsp;</span></p>
+<p><span style="color: #000000;">I have learned more in 3 weeks than I have in 2 yrs of doing cakes, you really know how to explain things in detail. The biggest thing that I love is the fact that you start from beginning to end on your how to videos explaining all the techniques. There are other sites out there that do videos but they never show how to get the cake started so I appreciate that very much. The cakes that you have shown us are so exciting they deal with the latest techniques which is what I wanted to learn, not the old style things.</span></p>
+<p><span style="color: #000000;">Nikki P. San Francisco CA</span></p>
+<p><span style="color: #000000;"><br></span></p>
+<p><span style="color: #000000;">While searching the internet in the middle of the night and came across your website, wow! I was so excited to find such a fantastic resource with videos that show cake decorating. I have always dreamed of finding such a site, I have now opened my own cake business from home because of your teachings. You cover all the latest details in cake decorating which was most important to me and I want you to know I will be forever grateful for all that your website does for those of us who are visual people.</span></p>
+<p><span style="color: #000000;">Naomi P. Lancaster OH</span></p>
+<p><span style="color: #000000;">&nbsp;</span></p>
+<p><span style="color: #000000;">&nbsp;</span></p>
+<p>&nbsp;</p>					</div>
+				</div>
+			</div>
+		</div>
+	
+			    </td>
+						    <td class="maincol">
+				<div class="inside">
+								    	
+					
+<!-- JEvents v1.4.3 RC2, Copyright &copy; 2006-2008 JEvents Project Group, http://joomlacode.org/gf/project/jevents -->
+		<table class="contentpaneopen" id="jevents_header">
+			<tbody><tr>
+			<td class="contentheading" width="100%">
+			Events Calendar			</td>
+							<td align="right" width="100%" class="buttonheading">
+				<a href="http://cakedecoratingwithdonna.com/index2.php?option=com_events&amp;Itemid=118&amp;task=view_day&amp;month=09&amp;year=2008&amp;pop=1&amp;catids=40|34" onclick="window.open('http://cakedecoratingwithdonna.com/index2.php?option=com_events&amp;Itemid=118&amp;task=view_day&amp;month=09&amp;year=2008&amp;pop=1&amp;catids=40|34','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="Print">
+					<img src="/templates/js_optimus/images/printButton.png" alt="Print" align="top"></a>
+				</td>
+							</tr>
+		</tbody></table>
+		<table class="contentpaneopen" id="jevents_body">
+			<tbody><tr>
+			<td width="100%">
+	    	<div class="ev_navigation" style="width:100%">
+    		<table border="0" align="center">
+    			<tbody><tr align="center" valign="top">
+	        		<td width="10" align="center" valign="middle"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;task=view_day&amp;catids=40|34&amp;Itemid=118&amp;year=2008&amp;month=08&amp;day=29" title="Previous month"><img border="0" src="http://cakedecoratingwithdonna.com/components/com_events/images/gg_blue.gif" alt="Previous month"></a>
+</td>
+    	    		<td width="10" align="center" valign="middle"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;task=view_day&amp;catids=40|34&amp;Itemid=118&amp;year=2008&amp;month=09&amp;day=28" title="Previous day"><img border="0" src="http://cakedecoratingwithdonna.com/components/com_events/images/g_blue.gif" alt="Previous day"></a>
+</td>
+    				<td class="iconic_td" align="center" valign="middle">
+    					<div id="ev_icon_yearly" class="nav_bar_cal"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;catids=40|34&amp;task=view_year&amp;year=2010&amp;month=09&amp;day=18&amp;Itemid=118" title="See by year"> 
+    					<img src="http://cakedecoratingwithdonna.com/components/com_events/images/transp.gif" alt="See by year"></a>
+    					</div>
+                    </td>
+    				<td class="iconic_td" align="center" valign="middle">
+    					<div id="ev_icon_monthly" class="nav_bar_cal"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;catids=40|34&amp;task=view_month&amp;year=2010&amp;month=09&amp;day=18&amp;Itemid=118" title="See by month">
+    					<img src="http://cakedecoratingwithdonna.com/components/com_events/images/transp.gif" alt="See by month"></a>
+    					</div>
+                    </td>
+    				<td class="iconic_td" align="center" valign="middle">
+    					<div id="ev_icon_weekly" class="nav_bar_cal"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;catids=40|34&amp;task=view_week&amp;year=2010&amp;month=09&amp;day=18&amp;Itemid=118" title="See by week">
+    					<img src="http://cakedecoratingwithdonna.com/components/com_events/images/transp.gif" alt="See by week"></a>
+    					</div>
+                    </td>
+    				<td class="iconic_td" align="center" valign="middle">
+    					<div id="ev_icon_daily" class="nav_bar_cal"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;catids=40|34&amp;task=view_day&amp;year=2010&amp;month=09&amp;day=18&amp;Itemid=118" title="See Today"><img src="http://cakedecoratingwithdonna.com/components/com_events/images/transp.gif" alt="See by day"></a>
+    					</div>
+                    </td>
+    				<td class="iconic_td" align="center" valign="middle">
+    					<div id="ev_icon_search" class="nav_bar_cal"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;catids=40|34&amp;task=view_search&amp;year=2010&amp;month=09&amp;day=18&amp;Itemid=118" title="Search"><img src="http://cakedecoratingwithdonna.com/components/com_events/images/transp.gif" alt="Search"></a>
+    					</div>
+                    </td>                
+    				<td class="iconic_td" align="center" valign="middle">
+    					<div id="ev_icon_jumpto" class="nav_bar_cal"><a onclick="jtdisp = document.getElementById('jumpto').style.display;document.getElementById('jumpto').style.display=(jtdisp=='none')?'block':'none';" title="Jump to month"><img src="http://cakedecoratingwithdonna.com/components/com_events/images/transp.gif" alt="Jump to month"></a>
+    					</div>
+                    </td>                
+	        		<td width="10" align="center" valign="middle"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;task=view_day&amp;catids=40|34&amp;Itemid=118&amp;year=2008&amp;month=09&amp;day=30" title="Next day"><img border="0" src="http://cakedecoratingwithdonna.com/components/com_events/images/d_blue.gif" alt="Next day"></a>
+</td>
+    	    		<td width="10" align="center" valign="middle"><a href="http://cakedecoratingwithdonna.com/index.php?option=com_events&amp;task=view_day&amp;catids=40|34&amp;Itemid=118&amp;year=2008&amp;month=10&amp;day=29" title="Next month"><img border="0" src="http://cakedecoratingwithdonna.com/components/com_events/images/dd_blue.gif" alt="Next month"></a>
+</td>
+                </tr>
+    			<tr class="icon_labels" align="center" valign="top">
+	        		<td colspan="2"></td>
+    				<td class="iconic_td">See by year</td>
+    				<td class="iconic_td">See by month</td>
+    				<td class="iconic_td">See by week</td>
+    				<td class="iconic_td">See Today</td>
+    				<td class="iconic_td">Search</td>
+    				<td class="iconic_td">Jump to month</td>
+	        		<td colspan="2"></td>
+                </tr>
+    			<tr align="center" valign="top">
+ 	        		<td colspan="10" align="center" valign="top">
+ 	        		<div id="jumpto" style="display:none">
+        			<form name="BarNav" action="index.php" method="get">
+        				<input type="hidden" name="option" value="com_events">
+        				<input type="hidden" name="task" value="view_month">
+        				<input type="hidden" name="catids" value="40|34"><select name="month" id="month" style="font-size:10px;"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09" selected="selected">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><select name="year" id="year" style="font-size:10px;"><option value="2008" selected="selected">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option></select>        				<button onclick="submit(this.form)">Jump to month</button>
+        				<input type="hidden" name="Itemid" value="118">
+        			</form>
+        			</div>
+    	    		</td>
+                </tr>
+            </tbody></table>
+        </div>
+		<fieldset><legend class="ev_fieldset">Events for </legend><br>
+<table align="center" width="90%" cellspacing="0" cellpadding="5" class="ev_table">
+            <tbody><tr valign="top">
+                <td colspan="2" align="center" class="cal_td_daysnames">
+                   <!-- <div class="cal_daysnames"> -->
+                    Monday, September 29 2008                    <!-- </div> -->
+                </td>
+            </tr>
+	<tr><td align="left" valign="top" class="ev_td_right">
+No event for &nbsp;<b>Monday, September 29 2008</b></td></tr></tbody></table><br>
+</fieldset><br><br>
+		   </td>
+		   </tr>
+		</tbody></table>
+	
+				</div>    
+				</td>
+						    <td class="rightcol" style="width:200px;px">
+								<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>What Members are Saying</h3>
+											<p>Just wanted to drop you a email to let you know how much I am loving my subscription to your website I have been on here night and day watching all the how to videos that you offer as well as reading all the spectacular information that you have on the site for people like myself who are just getting started and have no clue where to begin. Thanks so much for all your encouragement, your emails have come just when I needed to to know I am not alone in this, as you know I was so overwhemled just trying to do the basics. I thank you and your staff for everything that you do for us. Have a very blessed day.</p>
+<p>Liz C. Oregon</p>
+<p>&nbsp;</p>
+<p>To the staff at Sugarlanes... This is Carol I have been a member for 4 months now, I signed up because I wanted to learn how to create your adorable figures. I have watched some of the youtube videos but they do not do any justice in comparison to what you do here on the site. I have finally finished making the sleeping baby and wanted you to see the photo of it. I am so proud of myself being able to finally create something that actually looks like the baby that you created in the how to video. My hats off to you and your sculpting abilities, now if I could be half as good as you then I would be on my way. Maybe someday huhhh! I can't wait to learn how to make more gumpaste figures Donna, we want more of them please! Thank you for all your help.</p>
+<p>Carol S. Texas</p>
+<p>&nbsp;</p>					</div>
+				</div>
+			</div>
+		</div>
+	
+			    </td>
+						  </tr>
+			</tbody></table>
+
+		</div>
+			<div id="footer">
+				
+				<div class="ftr-right">&nbsp;</div>
+				<div class="ftr-left">&nbsp;</div>
+				
+				
+			</div>
+	</div><!-- end wrap -->
+	<div class="designer"><a href="http://www.joomlashack.com" title="Joomla Templates by JoomlaShack">Joomla Templates by Joomlashack</a></div>
+</body></html>

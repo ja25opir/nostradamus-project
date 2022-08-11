@@ -1,0 +1,431 @@
+<!-- template ./templates/ca_aphrodite/xs/xs_header.tpl start --><!-- template ./templates/ca_aphrodite/overall_header.tpl start --><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-156321-2";
+urchinTracker();
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="verify-v1" content="kc2QeVaP0kikyXNP84Wx8rLlszb+HJmxRC7FXDouoE0=">
+<meta name="title" content="Sleep Apnea Support Forum">
+<meta name="keywords" content="SLEEP APNEA,SLEEP APNEA SUPPORT,SLEEP APNEA PROBLEMS, SLEEP APNEA QUESTIONS,CPAP PROBLEMS, CPAP QUESTIONS">
+<meta name="author" content="AMERICAN SLEEP APNEA ASSOCIATION">
+<meta name="robots" content="All"> 
+<meta name="rating" content="Safe For Kids">
+<meta name="copyright" content="AMERICAN SLEEP APNEA ASSOCIATION">
+<meta name="revisit-after" content="1">
+<meta name="classification" content="Health">
+<link rel="top" href="./index.php" title="Sleep Apnea Support Forum Index">
+<link rel="search" href="./search.php" title="Search">
+<link rel="help" href="./faq.php" title="FAQ">
+<link rel="author" href="./memberlist.php" title="Memberlist">
+<link rel="prev" href="ptopic1085.html" title="View previous topic">
+<link rel="next" href="ntopic1085.html" title="View next topic">
+<link rel="up" href="forum-9.html" title="Sleep Apnea FAQ">
+<link rel="chapter forum" href="forum-1.html" title="SLEEP APNEA HELP!">
+<link rel="chapter forum" href="forum-21.html" title="Ayuda en Apnea del Sueño">
+<link rel="chapter forum" href="forum-3.html" title="CPAP Mask/CPAP Machine Questions">
+<link rel="chapter forum" href="forum-20.html" title="Sleep Apnea Oral Appliance discussion">
+<link rel="chapter forum" href="forum-14.html" title="Pediatric Sleep Apnea">
+<link rel="chapter forum" href="forum-4.html" title="Sleep Studies">
+<link rel="chapter forum" href="forum-11.html" title="Interesting Links">
+<link rel="chapter forum" href="forum-24.html" title="A Place for Spouses">
+<link rel="chapter forum" href="forum-9.html" title="Sleep Apnea FAQ">
+<link rel="chapter forum" href="forum-8.html" title="AWAKE Sleep Apnea  Support Group Meetings">
+<link rel="chapter forum" href="forum-13.html" title="Late Night With Sleep Apnea">
+<link rel="chapter forum" href="forum-17.html" title="Sleep Apnea Support Forum News">
+<link rel="chapter forum" href="forum-25.html" title="Clinical Trials &amp; Research Opportunities">
+<title>Testosterone and sleep apnea</title> 
+<link rel="stylesheet" href="templates/ca_aphrodite/style.css" type="text/css">
+<script language="javascript" type="text/javascript" src="templates/ca_aphrodite/scripts.js"></script>
+ 
+<!-- IE conditional comments: http://msdn.microsoft.com/workshop/author/dhtml/overview/ccomment_ovw.asp -->
+<!--[if IE]>
+<style type="text/css">
+/* IE hack to emulate the :hover & :focus pseudo-classes
+   Add the selectors below that required the extra attributes */
+.row1h, .row1h-new { behavior: url("templates/ca_aphrodite/pseudo-hover.htc"); }
+</style>
+<![endif]-->
+<!---// START PostOptions by Wicher ---->
+<script type="text/javascript">
+/***********************************************
+* Drop Down/ Overlapping Content© Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+function getposOffset(overlay, offsettype){
+var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
+var parentEl=overlay.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+function overlay(curobj, subobjstr, opt_position){
+if (document.getElementById){
+var subobj=document.getElementById(subobjstr)
+subobj.style.display=(subobj.style.display!="block")? "block" : "none"
+var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
+var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
+subobj.style.left=xpos+"px"
+subobj.style.top=ypos+"px"
+return false
+}
+else
+return true
+}
+
+function overlayclose(subobj){
+document.getElementById(subobj).style.display="none"
+}
+
+</script>
+<!---// FIN PostOptions by Wicher ---->
+
+</head>
+<body onload="PreloadFlag = true;">
+<a name="top"></a>
+<table cellspacing="0" width="100%" id="forum">
+<tbody><tr>
+	<td class="forum-header" align="left"><a href="index.php" title="Sleep Apnea Support Forum Index"><img src="templates/ca_aphrodite/images/logo.gif" height="125" alt="Sleep Apnea Support Forum Index"></a></td>
+	<td class="forum-header header-search" align="right" valign="bottom">
+		<form action="search.php" method="get"><input name="search_keywords" type="text" class="post" style="width: 100px;"> <input type="submit" class="liteoption" value="Search"></form>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" class="forum-buttons" valign="middle"> 
+				<a href="http://www.sleepapnea.org/support/index.html" onclick="javascript:urchinTracker('/outgoing/support_asaa');">DONATE TO  THE ASAA</a> •
+				 
+				<a href="profile.php?mode=register">Register</a> • 
+                                <a href="profile.php?mode=sendpassword">I Forgot My Password</a> • 
+				 
+				 
+				<a href="search.php">Search</a> • 
+				<a href="faq.php">Help</a> • 
+								<a href="login.php">Log in</a>  
+
+				
+				<!---BEGIN switch_admin_logged_in ----> 
+			• <a href="ADMIN_REPORT_LINK"></a> 
+
+					<!---END switch_admin_logged_in ---->
+
+		</td>
+</tr>
+<tr>
+	<td colspan="2" id="content">
+
+	<!-- template ./templates/ca_aphrodite/overall_header.tpl end --><!-- template ./templates/ca_aphrodite/xs/xs_header.tpl end --><!-- template ./templates/ca_aphrodite/xs/xs_topic.tpl start --><!-- template ./templates/ca_aphrodite/viewtopic_body.tpl start --><!-- Start PostOptions by Wicher -->
+<script language="JavaScript" src="templates/subSilver/preview.js"></script>
+<link href="templates/subSilver/preview.css" rel="stylesheet" type="text/css">
+<!-- End PostOptions by Wicher -->
+
+<div class="forumline nav-div">
+	<p class="nav-header">
+		<a href="index.php">Sleep Apnea Support Forum Index</a> » <a href="forum-9.html">Sleep Apnea FAQ</a> » <a href="about1085.html" class="nav-current">Testosterone and sleep apnea</a>
+	</p>
+	<div class="nav-links">
+		<div class="nav-links-left"> 
+			The time now is Fri Sep 17, 2010 3:57 am		</div> 
+		<a href="ptopic1085.html">View previous topic</a> | <a href="ntopic1085.html">View next topic</a>
+	</div> 
+</div> 
+
+<table width="100%" cellspacing="0" class="empty-table">
+<tbody><tr> 
+	<td align="left" valign="bottom"><a href="posting.php?mode=reply&amp;t=1085"><img src="templates/ca_aphrodite/images/lang_english/post_reply.gif" alt="Reply to topic"></a></td>
+	<td align="right" valign="bottom"><span class="gen">
+		Page <b>1</b> of <b>1</b><br>
+		<span class="pagination"></span>
+	</span></td>
+</tr>
+</tbody></table>
+
+<table class="forumline" width="100%" cellspacing="0">
+<tbody><tr>
+	<td class="row-header" colspan="2"><span>Testosterone and sleep apnea</span></td>
+</tr>
+ 
+<tr>
+	<th width="150">Author</th>
+	<th>Message</th>
+</tr>
+<tr> 
+	<td class="row-post-author">
+		<span class="post-name"><a name="4534"></a>Linda</span><br>
+		<span class="post-rank">Moderator<br></span>
+				<span class="post-images"></span>
+		<div class="post-details">
+			Joined: 26 Apr 2005<br>
+			Posts: 4577<br>
+			Location: Maryland		</div><br>
+		<img src="templates/ca_aphrodite/images/spacer.gif" width="150" height="1" alt="">
+	</td>
+	<td class="row-post" width="100%">
+		<div class="post-buttons-top post-buttons"> <span class="img-main"><a href="posting.php?mode=quote&amp;p=4534"><img src="templates/ca_aphrodite/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a></span>    <a href="#" onclick="return overlay(this, 'subcontent4534', 'rightbottom')"> <!-- changed by EasyBAN --></a></div><a href="#" onclick="return overlay(this, 'subcontent4534', 'rightbottom')">
+                                       
+					<!--Do not remove outer most DIV tag with id="subcontent4534"-->
+					</a><div id="subcontent4534" style="position:absolute; border: 1px solid darkblue; background-color: 	#; width: 318px; padding: 4px; display:none"><a href="#" onclick="return overlay(this, 'subcontent4534', 'rightbottom')">
+						<span class="reason_error">
+                                                
+						<b>Linda</b><br>
+
+																		
+												
+
+											
+						
+						</span></a><a href="posts_options_reports.php?user=4&amp;f=9&amp;t=1085&amp;p=4534">Report this user and this post to administrators</a><br><!---END switch_admin_logged_in ---->
+						<br>
+                                               
+						
+						<table width="310" cellpadding="0" cellspacing="0" style="border-top: 2px solid black"><tbody><tr><td align="left" valign="bottom"><span class="gensmall"><b>Items with prefix * are permanent.</b></span></td><td align="right" valign="bottom"><span class="gensmall"><a href="#" onclick="overlayclose('subcontent4534'); return false"><b>Close</b></a></span></td></tr></tbody></table>
+					</div>
+
+
+		<div class="post-subject"><a href="post-4534.html#4534"><img src="templates/ca_aphrodite/images/icon_post.gif" width="12" height="9" alt="Post" title="Post"></a> Testosterone and sleep apnea&nbsp;</div>
+
+		<div class="post-text">
+						<strong>Q:&nbsp;&nbsp;Is there a relationship between sleep apnea and testosterone levels?</strong>
+<br>
+Some studies find a link between sleep apnea and testosterone.&nbsp;&nbsp;Review the following links on the subject:
+<br>
+
+<br>
+
+<br>
+
+<br>
+<strong><span style="text-decoration: underline">Article from the American Technion Society, 2002</span>:</strong>
+<br>
+<a href="http://www.ats.org/news.php?id=45" target="_blank">Click here for link to article</a>
+<br>
+
+<br>
+<blockquote><h6>Quote:</h6>
+<br>
+<strong>Decreased Testosterone Levels Linked To Sleep Disorder</strong>
+<br>
+July 25, 2002
+<br>
+&nbsp;
+<br>
+
+<br>
+Sleep apnea is a respiratory disorder that affects 4%-9% of adult males. Its most common manifestation is loud snoring and it may occur several hundred times throughout the night, resulting in sleep fragmentation and excessive daytime sleepiness. The current study, reported in the July issue of The Journal of Clinical Endocrinology &amp; Metabolism, found that nearly half the subjects who suffered from severe sleep apnea also secreted abnormally low levels of testosterone throughout the night.
+<br>
+
+<br>
+HAIFA, ISRAEL and NEW YORK, NY, July 25, 2002-Male patients who suffer from obstructive sleep apnea (OSA) -- the inability to breathe properly during sleep -- produce lower levels of testosterone, resulting in decreased libido and sexual activity, according to researchers at the Technion-Israel Institute of Technology. Previous studies had indicated that male sleep apnea patients had reported decreased libidos but the studies were unable to establish a scientific link. The current study, reported in the July issue of The Journal of Clinical Endocrinology &amp; Metabolism, found that nearly half the subjects who suffered from severe sleep apnea also secreted abnormally low levels of testosterone throughout the night.
+<br>
+
+<br>
+"For years we have seen sleep-disorder patients complain of decreased libido but we had no explanation for this phenomenon until now," said Professor Peretz Lavie, head of the Technion Sleep Laboratory and study leader. 
+<br>
+
+<br>
+Sleep apnea is a respiratory disorder that affects 4%-9% of adult males. Its most common manifestation is loud snoring and it may occur several hundred times throughout the night, resulting in sleep fragmentation and excessive daytime sleepiness. For many years sleep apnea sufferers have complained of decreased libidos, yet previous studies reported that patients' testosterone levels, although low, were within the normal adult male range.
+<br>
+
+<br>
+The current study adopted a different methodology. Earlier studies had only measured participants' testosterone levels once after awakening. In this study, subjects were admitted to the Technion Sleep Center for an entire night and were fitted with electrodes and catheters. They were monitored between 7 p.m. and 7 a.m. with blood samples collected every 20 minutes. At 10 p.m., lights were turned off and the participants retired to sleep. Two groups -- one of sleep apnea patients and another of normal controls of similar body weight and age -- were investigated.
+<br>
+
+<br>
+The study found that nearly half the sleep apnea patients secreted abnormally low testosterone levels throughout the night.
+<br>
+
+<br>
+"Should follow-up studies confirm these findings, then therapeutic intervention of sleep apnea could become a recommended remedy for certain forms of male sexual dysfunction," said Prof. Rephael Luboshitzky, an endocrinologist on the research team. "It is our hope that in the future, by correcting nighttime breathing patterns we will be able to stimulate hormone production and thereby raise libidos." 
+<br>
+
+<br>
+The Technion-Israel Institute of Technology is Israel's leading scientific and technological center for applied research and education. It commands a worldwide reputation for its pioneering work in computer science, biotechnology, water-resource management, materials engineering, aerospace and medicine. The majority of the founders and managers of Israel's high-tech companies are alumni.
+<br>
+
+<br>
+Based in New York City, the American Technion Society is the leading American organization supporting higher education in Israel with more than 20,000 supporters and 17 offices around the country.
+<br>
+</blockquote>
+<br>
+
+<br>
+<strong><span style="text-decoration: underline">Article from the Journal of Clinical Endocrinology and Metabolism, 1989</span>:</strong>
+<br>
+<a href="http://jcem.endojournals.org/cgi/content/abstract/68/2/352" target="_blank">Click here for link to article</a>
+<br>
+
+<br>
+<blockquote><h6>Quote:</h6>
+<br>
+<strong>Neuroendocrine dysfunction in sleep apnea: reversal by continuous positive airways pressure therapy</strong>
+<br>
+RR Grunstein, DJ Handelsman, SJ Lawrence, C Blackwell, ID Caterson and CE Sullivan 
+<br>
+Sleep Unit, Royal Prince Alfred Hospital, Sydney, Australia. 
+<br>
+
+<br>
+We studied the effects of sleep apnea on neuroendocrine function in a cross-sectional study of 225 consecutive men undergoing sleep studies and in a longitudinal study of 43 men with severe obstructive sleep apnea before and after 3 months of successful treatment with nasal continuous positive airways pressure to eliminate upper airways obstruction. Blood samples were collected at 0600-0630 h on awakening for measurement of plasma insulin-like growth factor I (IGF-I), total and free testosterone, sex hormone-binding globulin (SHBG), LH, FSH, PRL, T4, T4-binding globulin, and cortisol. The plasma hormone levels were analyzed in relation to the severity of sleep apnea, as indicated by the desaturation index (the hourly rate of episodes of arterial oxygen desaturation greater than 4% of the stable baseline) and the mean minimal oxygen saturation during the desaturation episodes. In the cross-sectional study plasma IGF-I, free and total testosterone, and SHBG levels were significantly lower in relation to the severity of sleep apnea, whereas plasma LH, FSH, PRL, T4, T4-binding globulin, and cortisol were not. The decreases in plasma IGF-I and total and free testosterone were independent of the effects of aging and adiposity by covariance analysis. In the longitudinal study plasma IGF-I, total testosterone, and SHBG, but not free testosterone, significantly increased after 3 months of nasal continuous positive airways pressure treatment. We conclude that sleep apnea causes reversible neuroendocrine dysfunction in men, which is manifested by decreased plasma. IGF-I, testosterone, and SHBG levels. This neuroendocrine dysfunction is related to the severity of the sleep apnea, as indicated by the nadir levels of arterial oxygen desaturation and the rate of desaturation episodes. These hormonal measurements may provide biochemical markers for both the severity of sleep apnea and its response to therapeutic intervention. In addition, sleep apnea may be a previously unrecognized confounder of the neuroendocrine correlates of aging. 
+<br>
+</blockquote>
+<br>
+
+<br>
+
+<br>
+<strong><span style="text-decoration: underline">Article from the NCBI, National Institutes of Health, National Library of Medicine, 1998</span>:</strong>
+<br>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=9511783&amp;dopt=Citation" target="_blank">Click here for link to article</a>
+<br>
+
+<br>
+<blockquote><h6>Quote:</h6>
+<br>
+<strong>Obstructive sleep apnea due to endogenous testosterone production in a woman.</strong>
+<br>
+
+<br>
+Dexter DD, Dovre EJ.
+<br>
+
+<br>
+Department of Neurology, Midelfort Clinic, Eau Claire, Wisconsin 54701, USA.
+<br>
+
+<br>
+Obstructive sleep apnea (OSA) is a common condition characterized by snoring, recurrent episodes of cessation of breathing (obstructive apneas), disrupted sleep, and excessive daytime somnolence. Associated serious complications are hypertension, increased risk of heart disease, stroke, and increased susceptibility to industrial and motor vehicle accidents. OSA is considerably more common in men than in women. In postmenopausal women, the incidence of OSA increases. These factors suggest that reproductive hormones have a role in the cause of OSA. Treatment with testosterone has been reported to cause OSA in men, and exogenous androgen administration has been reported to cause OSA in one woman. In a review of the English literature, we found no previous reports of OSA that was induced by endogenous testosterone in women. Herein we describe a nonobese 70-year old woman with clinically significant OSA and a benign testosterone-producing ovarian tumor. After successful removal of the tumor, her OSA resolved, and her testosterone level normalized. This unique case supports the theory of male hormonal (testosterone) influence in the OSA syndrome.
+<br>
+</blockquote>
+<br>
+
+<br>
+
+<br>
+<strong><span style="text-decoration: underline">Article from the NCBI, National Institutes of Health, National Library of Medicine, 2001</span>:</strong>
+<br>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=11238505&amp;dopt=Citation" target="_blank">Click here for link to article</a>
+<br>
+
+<br>
+<blockquote><h6>Quote:</h6>
+<br>
+<strong>Increased prevalence of obstructive sleep apnea syndrome in obese women with polycystic ovary syndrome.</strong>
+<br>
+
+<br>
+Fogel RB, Malhotra A, Pillar G, Pittman SD, Dunaif A, White DP.
+<br>
+
+<br>
+Sleep Disorders Section, Divisions of Endocrinology, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts 02115, USA.
+<br>
+
+<br>
+Obstructive Sleep Apnea (OSA) is considerably more common in men than women. Preliminary data suggest that androgens may play a role in the male predominance of apnea. Polycystic Ovary Syndrome (PCOS) is characterized by menstrual disturbances, androgen excess, and frequently obesity. These features suggest that women with PCOS may be at increased risk for OSA. To determine whether obese women with PCOS have an increased prevalence of sleep apnea compared with age and weight-matched reproductively normal women, we performed overnight polysomnography for determination of the apnea-hypopnea index (AHI) in 18 obese women with PCOS and age and weight-matched control women. Additional measurements included waist, hip, and neck circumferences, serum total testosterone, unbound testosterone, and DHEAS. Women with PCOS had a higher AHI than controls (22.5 +/- 6.0, vs. 6.7 +/- 1.0, P = 0.008). Women with PCOS were also more likely to suffer from symptomatic OSA syndrome (44.4% vs. 5.5%, P = 0.008). AHI correlated with waist-hip ratio (r = 0.51, P &lt; 0.03), serum testosterone (r = 0.52, P &lt; 0.03) and unbound testosterone (r = 0.50, P &lt; 0.05) in women with PCOS. We conclude that obese women with PCOS are at increased risk of OSA when compared with matched reproductively normal women. Women with PCOS should be carefully questioned regarding symptoms of sleep apnea.
+<br>
+</blockquote><br><br>
+			<span class="gensmall"></span>
+					</div>
+	</td>
+</tr>
+<tr>
+	<td class="row-post-date">Mon Sep 26, 2005 6:11 pm</td>
+	<td class="row-post-buttons post-buttons"><span class="img-main"></span>       </td>
+</tr>
+<tr> 
+	<td class="spaceRow" colspan="2"><img src="templates/ca_aphrodite/images/spacer.gif" width="1" height="3" alt=""></td>
+</tr>
+	<tr align="center"><td class="spaceRow" colspan="2"><!-- added by EasyBAN --></td></tr>
+<tr> 
+	<td class="catBottom" colspan="2">
+		<form method="post" action="about1085-0.html" style="display: inline;"><table cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td valign="middle" nowrap="nowrap"><span class="genmed">Display posts from previous: </span></td>
+			<td valign="middle"> <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select> <select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select> <input type="submit" value="Go" class="liteoption jumpbox" name="submit"></td>
+		</tr></tbody></table></form>
+	</td>
+</tr>
+</tbody></table>
+
+<div class="forumline nav-div">
+	<p class="nav-header">
+		<a href="index.php">Sleep Apnea Support Forum Index</a> » <a href="forum-9.html">Sleep Apnea FAQ</a> » <a href="about1085.html" class="nav-current">Testosterone and sleep apnea</a>
+	</p>
+	<div class="nav-links">
+		<div class="nav-links-left"> 
+			The time now is Fri Sep 17, 2010 3:57 am | All times are GMT - 4 Hours		</div> 
+		&nbsp;	</div> 
+</div> 
+
+<table width="100%" cellspacing="0" class="empty-table">
+<tbody><tr> 
+	<td align="left" valign="top"><a href="posting.php?mode=reply&amp;t=1085"><img src="templates/ca_aphrodite/images/lang_english/post_reply.gif" alt="Reply to topic"></a> </td>
+	<td align="right" valign="top"><span class="gen">
+		Page <b>1</b> of <b>1</b><br>
+		<span class="pagination"></span>
+	</span></td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" class="empty-table">
+<tbody><tr>
+	<td align="left" valign="top" class="gensmall">You <b>cannot</b> post new topics in this forum<br>You <b>cannot</b> reply to topics in this forum<br>You <b>cannot</b> edit your posts in this forum<br>You <b>cannot</b> delete your posts in this forum<br>You <b>cannot</b> vote in polls in this forum<br></td>
+	<td align="right" valign="top">
+		<!-- template ./templates/ca_aphrodite/xs/jumpbox.tpl start --><!-- template ./templates/ca_aphrodite/jumpbox.tpl start --><form method="get" name="jumpbox" action="viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}" style="display: inline;">
+	<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><optgroup label="Sleep Apnea Support Forum"><option value="1">SLEEP APNEA HELP!</option><option value="21">Ayuda en Apnea del Sueño</option><option value="3">CPAP Mask/CPAP Machine Questions</option><option value="20">Sleep Apnea Oral Appliance discussion</option><option value="14">Pediatric Sleep Apnea</option><option value="4">Sleep Studies</option><option value="11">Interesting Links</option><option value="24">A Place for Spouses</option></optgroup><optgroup label="Sleep Apnea Frequently Asked Questions"><option value="9">Sleep Apnea FAQ</option></optgroup><optgroup label="A.W.A.K.E. Groups"><option value="8">AWAKE Sleep Apnea  Support Group Meetings</option></optgroup><optgroup label="Off Topic"><option value="13">Late Night With Sleep Apnea</option><option value="17">Sleep Apnea Support Forum News</option><option value="25">Clinical Trials &amp; Research Opportunities</option></optgroup></select><input type="hidden" name="sid" value="cb6d3e20951b663dec2f6d9438ab9215">&nbsp;<input type="submit" value="Go" class="liteoption jumpbox">&nbsp;
+</form><!-- template ./templates/ca_aphrodite/jumpbox.tpl end --><!-- template ./templates/ca_aphrodite/xs/jumpbox.tpl end --><br>
+		<br>
+			</td>
+</tr>
+</tbody></table><!-- template ./templates/ca_aphrodite/viewtopic_body.tpl end --><!-- template ./templates/ca_aphrodite/xs/xs_topic.tpl end --><!-- template ./templates/ca_aphrodite/overall_footer.tpl start -->	<span class="admin-link"></span>
+
+	</td>
+</tr>
+<tr>
+	<td colspan="2" id="copyright">
+<div>© 2005,2006,2007,2008,2009,2010 American Sleep Apnea Association</div><div>The information provided on this site is not intended as a substitute for professional medical advice.  
+</div><div>You should not use this information on this web site or the information on links from this site to diagnose or treat a health problem or disease without consulting with a qualified healthcare provider.</div>
+<!--
+	
+
+	//
+	//	From phpBB team:
+	//
+
+
+
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the 
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected. 
+
+	The phpBB Group : 2002
+
+	//
+	//	From Vjacheslav Trushkin:
+	//
+	
+	You are allowed to use this phpBB style only if you agree to the following conditions:
+	- You cannot remove my copyright notice from style without my permission.
+	- You cannot use images from this style anywhere else without my permission.
+	- You cannot convert this style to another software without my permission.
+	- If you want to create new phpBB style based on this style you must ask my permission.
+	- If you modify this style it still should contain my copyright because it is based on my work. Modified style should not be available for download without my permission.
+
+	For support visit http://www.phpbbstyles.com
+
+
+	Powered by <a href="http://www.phpbb.com/" target="_phpbb">phpBB</a>  &copy; phpBB Group<br />
+	Design by <a href="http://www.phpbbstyles.com" target="_blank">phpBBStyles.com</a> | <a href="http://www.stylesdb.com" target="_blank">Styles Database</a><br />
+	// -->
+	</td>
+</tr>
+</tbody></table>
+
+</body></html><!-- template ./templates/ca_aphrodite/overall_footer.tpl end -->

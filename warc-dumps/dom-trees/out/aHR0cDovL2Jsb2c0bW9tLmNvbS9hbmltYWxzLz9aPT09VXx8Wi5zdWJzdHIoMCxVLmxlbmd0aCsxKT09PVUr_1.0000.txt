@@ -1,0 +1,305 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>
+Blog4Mom Animals</title>
+<meta name="description" content="All of the critters who call our home their home.">
+<meta name="keywords" content="">
+<link rel="shortcut icon" type="image/ico" href="http://blog4mom.com/animals/wp-content/themes/wpremix3/favicon.ico">
+<link rel="stylesheet" href="http://blog4mom.com/animals/wp-content/themes/wpremix3/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://blog4mom.com/animals/wp-content/themes/wpremix3/css/print.css" type="text/css" media="print">
+<link rel="alternate" type="application/rss+xml" title="Blog4Mom Animals RSS Feed" href="http://blog4mom.com/animals/?feed=rss2">
+<link rel="alternate" type="application/atom+xml" title="Blog4Mom Animals Atom Feed" href="http://blog4mom.com/animals/?feed=atom">
+<link rel="pingback" href="http://blog4mom.com/animals/xmlrpc.php">
+<script type="text/javascript" language="javascript" src="http://blog4mom.com/animals/wp-content/themes/wpremix3/js/hmenu.js"> </script>
+<script type="text/javascript" src="http://blog4mom.com/animals/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://blog4mom.com/animals/wp-content/themes/wpremix3/js/faq.js?ver=1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog4mom.com/animals/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog4mom.com/animals/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Blog4Mom Animals" href="http://blog4mom.com/animals">
+<meta name="generator" content="WordPress 2.9.2">
+<link href="http://blog4mom.com/animals/wp-content/themes/wpremix3/style.php" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div id="wrapper" class="clearfix">
+	
+	<!--top header starts -->
+	<div id="header" class="clearfix">
+		<div class="h_left">
+		  <div class="logo"> <a href="http://blog4mom.com/animals" title="Blog4Mom Animals">Blog4Mom Animals</a></div>
+		  <div class="description">Just another WordPress weblog</div>
+	   </div>  <!--hleft end -->
+		
+	   <div id="search"> <div id="search clear">
+<form method="get" id="searchform" action="http://blog4mom.com/animals">
+	<input type="text" value="Search here..." name="s" class="s" onfocus="if (this.value == 'Search here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search here...';}">
+	<input type="image" src="http://blog4mom.com/animals/wp-content/themes/wpremix3/images/none.png" alt="" class="sgo">
+</form>
+</div><!--Search End -->
+</div>
+	</div> <!--header end -->
+	
+	
+	<!--Dropdown navigation -->
+	<div id="nav">
+		 <ul id="navmenu-h">
+			<li class="page_item page-item-9"><a href="http://blog4mom.com/animals/?page_id=9" title="Info">Info</a>
+<ul>
+	<li class="page_item page-item-119"><a href="http://blog4mom.com/animals/?page_id=119" title="About">About</a></li>
+	<li class="page_item page-item-7"><a href="http://blog4mom.com/animals/?page_id=7" title="Contact">Contact</a>
+	<ul>
+		<li class="page_item page-item-523"><a href="http://blog4mom.com/animals/?page_id=523" title="Event Calendar">Event Calendar</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-604"><a href="http://blog4mom.com/animals/?page_id=604" title="Cookies Policy">Cookies Policy</a></li>
+	<li class="page_item page-item-111"><a href="http://blog4mom.com/animals/?page_id=111" title="Review Terms">Review Terms</a></li>
+	<li class="page_item page-item-132"><a href="http://blog4mom.com/animals/?page_id=132" title="Giveaways">Giveaways</a></li>
+	<li class="page_item page-item-595"><a href="http://blog4mom.com/animals/?page_id=595" title="Original Content- Copyright Notice">Original Content- Copyright Notice</a></li>
+	<li class="page_item page-item-599"><a href="http://blog4mom.com/animals/?page_id=599" title="Disclaimer">Disclaimer</a></li>
+	<li class="page_item page-item-607"><a href="http://blog4mom.com/animals/?page_id=607" title="Privacy Statement">Privacy Statement</a></li>
+</ul>
+</li>
+<li class="page_item page-item-1877"><a href="http://blog4mom.com/animals/?page_id=1877" title="Blog">Blog</a></li>
+<li class="page_item page-item-1898"><a href="http://blog4mom.com/animals/?page_id=1898" title="Home">Home</a></li>
+			
+		  </ul>
+		<div class="rss"><a href="http://blog4mom.com/animals/?feed=rss2">RSS FEED</a></div>
+	</div><!--Dropdown navigation #end -->
+
+<div id="content-wrap" class="clear">
+<div id="blog_content">
+
+<!-- This page currently show 7 posts (showposts=7) per page.  Change it to number of posts you want to display.-->
+	<div class="posts">
+		<div class="post_top"> 
+			<div class="calendar">18 <br><span class="month">Sep</span></div>
+			<div class="pright">
+				<h2 class="h1" id="post-2245">
+				<a href="http://blog4mom.com/animals/?p=2245" rel="bookmark" title="Permanent Link to Fainting Goats – background"> Fainting Goats – background </a></h2>
+				<p>Posted by <span class="i_author"><a href="http://blog4mom.com/animals/?author=1" title="Posts by Shellie">Shellie</a></span>  
+				<span class="i_comment2"><a href="http://blog4mom.com/animals/?p=2245#respond" title="Comment on Fainting Goats – background">(0) Comment</a></span> </p> 
+			</div><!-- pright #end -->
+		</div><!--post_top #end -->
+	 
+	 	 <div class="clear">  
+			<p><img class="alignleft size-medium wp-image-2246" title="fainting goat" src="http://blog4mom.com/animals/wp-content/uploads/2010/09/fainting-goat-300x165.jpg" alt="" width="300" height="165"></p>
+<p>This breed of goats has many names: Myotonic, Tennessee Fainting, Tennessee Meat, Texas Wooden Leg, Stiff, Nervous, and Scare goats. The names refer to a breed characteristic known as myotonia congenita, a condition in which the muscle cells experience prolonged contraction when the goat is startled. The transitory stiffness associated with these contractions can cause the goat to fall down. This is not a true faint, but a muscular phenomenon unrelated to the nervous system. The degree of stiffness varies from goat to goat, with some showing a consistently stiff response and others exhibiting stiffness only rarely.</p>
+<p>The breed’s history can be traced back to the 1880s. An itinerant farm laborer named John Tinsley came to central Tennessee, reputedly from Nova Scotia. Tinsley had with him four unusual, stiff goats. Goats of this type gradually became known across the region. They were less apt to climb fences and escape from pastures than other goats, and their muscular conformation and high reproductive rate were also valued. Farmers began to appreciate them, and the numbers of “stiff,” “nervous,” or “fainting” goats increased. During the 1950s, some Tennessee Fainting goats were taken to the hill country of central Texas. They were further selected for meat qualities, including larger size, and came to be known as “Wooden Leg” goats.</p>
+<p>Tennessee Fainting goats are found in almost all colors known in goats. Kidding season is always exciting, as new color combinations pop up. Does are prolific, with an extended breeding season and most does produce twins or triplets regularly with plenty of milk to raise them.</p>
+<p>Besides the myotonia, another distinguishing feature of the fainting goat is their prominently set eyes. The eyes protrude from the eye sockets, as opposed to recessed eyes seen in other breeds. The profile is straight as opposed to the convex or “roman” profile.</p>
+<p>Even though some people breed these animals for pets, “fainting” is a disorder that most producers try to keep out of their flocks bloodlines, unless they are raising the goats specifically for their fainting ability.</p>
+<p style="text-align: center;"><img class="aligncenter" style="border: 0px initial initial;" title="fainting goats" src="http://i571.photobucket.com/albums/ss159/Military_Mom/557933ee.jpg" border="0" alt="Photobucket" width="430" height="323"></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="350" height="263" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="data" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"><param name="flashvars" value="intl_lang=en-us&amp;photo_secret=07d8e05d05&amp;photo_id=4690120043&amp;flickr_show_info_box=true"><param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"><param name="src" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="350" height="263" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&amp;photo_secret=07d8e05d05&amp;photo_id=4690120043&amp;flickr_show_info_box=true" data="http://www.flickr.com/apps/video/stewart.swf?v=71377"></object></p>
+<p>Fainting goats not fainting, just enjoying morning treats with some of the roosters.</p>
+			<div class="post_paginate"> </div>					
+		</div>
+			
+		<!--Rateing-->
+				<!--Rateing end-->
+			
+		<div class="post_bottom">
+			<span class="cate"> Category : <a href="http://blog4mom.com/animals/?cat=531" title="View all posts in Goats Fainting" rel="category">Goats Fainting</a> |  <a href="http://blog4mom.com/animals/?cat=19" title="View all posts in The Animals" rel="category">The Animals</a></span>  
+			<ul class="bookmark">
+				<li>Bookmark :</li>
+				<li class="i_digg"><a href="http://www.digg.com/post?url=http://blog4mom.com/animals/?p=2245&amp;title=Fainting Goats – background">Digg</a></li>
+				<li class="i_del"><a href="http://del.icio.us/post?url=http://blog4mom.com/animals/?p=2245&amp;title=Fainting Goats – background">del.icio.us</a></li>
+				<li class="i_stumbel"><a href="http://www.stumbleupon.com/submit?url=http://blog4mom.com/animals/?p=2245&amp;title=Fainting Goats – background">Stumbleupon</a></li>
+				<li class="i_redit"><a href="http://reddit.com/submit?url=http://blog4mom.com/animals/?p=2245&amp;title=Fainting Goats – background">Redit it</a></li>
+			</ul>
+		</div><!--post bottom #end-->
+			
+	 </div><!--post #end-->
+
+	 <!-- advertisement : your ads here -->
+	<div class="postads">
+<a href="#"><img src="http://blog4mom.com/animals/wp-content/themes/wpremix3/images/advt_468x60.png" alt="" border="0"></a> 
+</div>
+
+ 
+
+	<div class="posts">
+		<div class="post_top"> 
+			<div class="calendar">14 <br><span class="month">Jul</span></div>
+			<div class="pright">
+				<h2 class="h1" id="post-2234">
+				<a href="http://blog4mom.com/animals/?p=2234" rel="bookmark" title="Permanent Link to Welcome to our farm. :)"> Welcome to our farm. :) </a></h2>
+				<p>Posted by <span class="i_author"><a href="http://blog4mom.com/animals/?author=1" title="Posts by Shellie">Shellie</a></span>  
+				<span class="i_comment2"><a href="http://blog4mom.com/animals/?p=2234#respond" title="Comment on Welcome to our farm. :)">(0) Comment</a></span> </p> 
+			</div><!-- pright #end -->
+		</div><!--post_top #end -->
+	 
+	 	 <div class="clear">  
+			<p><a href="http://blog4mom.com/animals/wp-content/uploads/2010/07/farm-pic.jpg"><img class="aligncenter size-medium wp-image-2239" title="farm pic" src="http://blog4mom.com/animals/wp-content/uploads/2010/07/farm-pic-300x195.jpg" alt="" width="300" height="195"></a><br>
+Hubby and I both have fond memories from our childhood and either living in the country, or going to visit a family farm during the summertime. For me It seems we always lived “out”, had room to run and lots of animals around to pass the time with. For my husband he would go each summer as kid to visit the family farm in North Carolina. Either way, it meant long sunny days, gardens, family and memories we would never forget.</p>
+<p>So when we found a home, that not only offered the charm of a southern home complete with front porch, but land too we knew we had to have it. We spent most of 2009 looking in the area of this home, comparing other places for sale, and even doing multiple walk throughs of this home. We knew it was right for us, and would offer up those fond memories for our kids when they are grown and out on their own as well. So we watched the for sale listing, plotted when the right time to make an offer would be, and then moved forward on creating our little farm.</p>
+<p><a href="http://blog4mom.com/animals/wp-content/uploads/2010/07/red-orange-rooster.jpg"><img class="alignleft size-medium wp-image-2240" title="red orange rooster" src="http://blog4mom.com/animals/wp-content/uploads/2010/07/red-orange-rooster-260x300.jpg" alt="" width="105" height="122"></a>He made it clear he wanted chickens, I was like WHAT? After some careful research (reading everything I could find) and asking questions of others who have or had chickens I had a list of those breeds that would best fit our needs/wants. What started out a small, this will be fun project turned into a we now have a chicken coop that is 14 feet by 20 feet with 3 separate runs and 9 or 10 different breeds of chickens. Some are brown layers, some lay colored eggs (green blue and peach). Some are bantam variety and offer us very cute extra small eggs in cream and tan. Of coarse so many birds also lends itself to lots of eggs. No worried though, we usually have a waiting list for eggs, and always have plenty on hand for us as well.</p>
+<p><a href="http://blog4mom.com/animals/wp-content/uploads/2010/07/fainting-goat1.jpg"><img class="alignleft size-full wp-image-2242" title="fainting goat" src="http://blog4mom.com/animals/wp-content/uploads/2010/07/fainting-goat1.jpg" alt="" width="223" height="122"></a>Since we have 3 acres of space, and no one here wants to mow all of that land we figure a few goats and a pasture would be nice. Again with the research and figuring out what breed would be right for us. We knew wanted a smaller breed, that was easy to care for. We both agreed Fainting Goats would be loads of fun and set off to find some for our very own. We happen to be lucky enough to have a breeder very close to where we live, and we make a day trip of going to visit her and pick up new babies when they are ready to come home. The first pair are very special, Bryson went with us in November of 2009 to pick them out. He ran all over the pasture and butted heads with the boys, and climbs the small rocks she had out for them to play on. So Loki and Oden were set to be ours. We picked them up in January and quickly came to the conclusion we needed two more. So a quick e-mail asking if any more boys were available and we had Apolo and Zeus to add to the mix. We plan to add two more this fall, and their names are still up in the air at this time. Rest assured they will go with the other 4 very nicely when we settle on them once and for all.</p>
+<p><a href="http://blog4mom.com/animals/wp-content/uploads/2010/07/Great-Pyrenees.jpg"><img class="alignleft size-full wp-image-2243" title="Great-Pyrenees" src="http://blog4mom.com/animals/wp-content/uploads/2010/07/Great-Pyrenees.jpg" alt="" width="200" height="175"></a>Now with all of these farm animals around we needed some guard dogs, but not just any dogs. We needed livestock guard dogs, dogs who would protect the other animals, and not hurt them. Hubby had a great pyreneese mix when he was a kid, and loved the dog. So I was on a mission to locate one for us to help tend the animals and keep them safe. Luck was on our side, there was a little available not far from us at all over in Ocala. So we had a very cute fluff ball little girl all picked out and set to become part of our family. Of course after having her in the house I quickly announced we needed a second, because they are like potato chips and you cant have just one. So the hunt was on, but no one in our area had any available. So the search expanded, we found a little with 2 or 3 left to pick from, only problem they were in OHIO! A quick call to my parents (who were about to be coming our way for a visit) and we were set to add a badger colored boy to the mix at our house. Now the two of them are inseparable, and at 7 months (boy – Titan) and 8.5 months (girl – Luna) they are HUGE, making my neighbors collie and golden retriever look tiny in comparison. I wouldnt have it any other way though, they are fantastic dogs, with huge hearts, and a never ending drive to work and please.</p>
+<p>As if all of those critters were not enough on their own. We have 4 very spoiled house cats of the generic and lazy sleepy breed. A 2 year old boxer, and a 5 year old long hair dachshund.</p>
+			<div class="post_paginate"> </div>					
+		</div>
+			
+		<!--Rateing-->
+				<!--Rateing end-->
+			
+		<div class="post_bottom">
+			<span class="cate"> Category : <a href="http://blog4mom.com/animals/?cat=19" title="View all posts in The Animals" rel="category">The Animals</a></span>  
+			<ul class="bookmark">
+				<li>Bookmark :</li>
+				<li class="i_digg"><a href="http://www.digg.com/post?url=http://blog4mom.com/animals/?p=2234&amp;title=Welcome to our farm. :)">Digg</a></li>
+				<li class="i_del"><a href="http://del.icio.us/post?url=http://blog4mom.com/animals/?p=2234&amp;title=Welcome to our farm. :)">del.icio.us</a></li>
+				<li class="i_stumbel"><a href="http://www.stumbleupon.com/submit?url=http://blog4mom.com/animals/?p=2234&amp;title=Welcome to our farm. :)">Stumbleupon</a></li>
+				<li class="i_redit"><a href="http://reddit.com/submit?url=http://blog4mom.com/animals/?p=2234&amp;title=Welcome to our farm. :)">Redit it</a></li>
+			</ul>
+		</div><!--post bottom #end-->
+			
+	 </div><!--post #end-->
+
+	 <!-- advertisement : your ads here -->
+	
+	<div class="posts">
+		<div class="post_top"> 
+			<div class="calendar">5 <br><span class="month">Feb</span></div>
+			<div class="pright">
+				<h2 class="h1" id="post-1714">
+				<a href="http://blog4mom.com/animals/?p=1714" rel="bookmark" title="Permanent Link to Great Pyrenees, great WHAT? LSGD"> Great Pyrenees, great WHAT? LSGD </a></h2>
+				<p>Posted by <span class="i_author"><a href="http://blog4mom.com/animals/?author=2" title="Posts by Shellie Ross">Shellie Ross</a></span>  
+				<span class="i_comment2"><a href="http://blog4mom.com/animals/?p=1714#comments" title="Comment on Great Pyrenees, great WHAT? LSGD">(11) Comment</a></span> </p> 
+			</div><!-- pright #end -->
+		</div><!--post_top #end -->
+	 
+	 	 <div class="clear">  
+			<p style="text-align: center;"><a href="http://blog4mom.com/animals/wp-content/uploads/2010/02/Luna-Christmas2.jpg"><img class="alignnone size-full wp-image-1719" title="Luna Christmas" src="http://blog4mom.com/animals/wp-content/uploads/2010/02/Luna-Christmas2.jpg" alt="" width="101" height="150"></a> <a href="http://blog4mom.com/animals/wp-content/uploads/2010/02/Luna1.jpg"><img class="alignnone size-thumbnail wp-image-1716" title="Luna" src="http://blog4mom.com/wp-content/uploads/2010/02/Luna1-150x150.jpg" alt="" width="150" height="150"></a></p>
+<p style="text-align: left;">Meet Luna, she is pictured above at 7 weeks old (on the left) and again at 10 weeks old (right). At 7 weeks old she was weighing in at 22lbs give or take. This is larger than my 5 year old mini doxie at his heaviest! Below is a stock image of a full grown adult. Adults can weigh in from 90 all the way up to 175lbs! Of coarse males are usually larger than females, but still these are LARGE imposing animals with the heart of a lamb and the bravery of a lion.</p>
+<p style="text-align: center;"><a href="http://blog4mom.com/animals/wp-content/uploads/2010/02/great_pyrenees-adult1.jpg"><img class="alignnone size-full wp-image-1718" title="great_pyrenees adult" src="http://blog4mom.com/animals/wp-content/uploads/2010/02/great_pyrenees-adult1.jpg" alt="" width="175" height="148"></a></p>
+<p style="text-align: center;">
+</p><p style="text-align: left;">Never seen a Great Pyrenees in person? You are in for a treet if you visit our home in the future then, because along with Luna who we just adore beyond our wildest dreams, we also have Fenris. Fenris is what we hope will be her new best friend and partner in crime so to speak. You see, Great Pyrenees are like potato chips, you can not have just one! So Fenris will be joining our home on Saturday, February 6th. With photos of them both together soon to follow you can be promised of this.</p>
+<p style="text-align: center;"><a href="http://blog4mom.com/animals/wp-content/uploads/2010/02/Fenris-3-week-old-Great-Pyrenees.jpg"><img class="aligncenter size-full wp-image-1725" title="Fenris 3 week old Great Pyrenees" src="http://blog4mom.com/animals/wp-content/uploads/2010/02/Fenris-3-week-old-Great-Pyrenees.jpg" alt="" width="187" height="204"></a></p>
+<p style="text-align: center;">check out Fenris above at 3 weeks old</p>
+<p style="text-align: left;">Luna – the goddess of the moon, and Fenris – meaning Wolf will be both beloved members of the family spending evenings in the house with us, as well as working dogs here on our property guarding our fainting goats Loki (god of mischief) and Odin (Loki’s father according to Norse mythology). They are joined by Polaris (our 2 year old black brindle boxer female) and Hunter (the 5 year old mini doxie). Before anyone asks, yes they all get along wonderfully, goats, dogs, chickens and cats too. We just lucky like that. We are also PRO neuter and spay, as it keeps our pets at home and safe, and prevents back yard puppies too.</p>
+<p style="text-align: left;">So let me tell you about the Great Pyrenees, it seems most people are fimilar with the boxer and mini doxie, but many have never seen or heard of a Great Pyr.</p>
+<p style="text-align: left;">
+</p><p style="text-align: center;"><span style="font-family: Arial;"><strong><span style="font-size: large;">Great Pyrenees</span><br>
+<span style="font-size: medium;">(Pyrenean Mountain Dog) (</span></strong><strong><span style="font-size: medium;">Chien  de Montagne des Pyrenees)</span></strong></span></p>
+<p>Males grow to between 110–120 pounds (50–54&nbsp;kg) and 27–32 inches (69–81&nbsp;cm), while females reach between 80–90 pounds (36–41&nbsp;kg) and 25–29 inches (63–74&nbsp;cm). They live to between 10–12 years of age.</p>
+<p>The Pyr sheds. A lot. Those who cannot abide the thought of tufts of white hair floating through the house twice a year should consider another breed. On the other hand, those who fancy exotic knit accessories may find the Pyr right up their alley. The dog’s fine undercoat can be collected when shed and spun into yarn used to make sweaters, scarves, afghans, and other items.</p>
+<p>The Pyr coat must be kept free of mats whether the hair will remain on the dog or be collected for spinning. The undercoat tangles into felted mats that can hold dirt and cause painful hot spots on the skin. A thorough weekly brushing is necessary to keep the coat in top condition.</p>
+<p>Owners should be particularly on the alert for fleas. If these pesky critters get established in the heavy Pyr coat, they can be difficult to eliminate. As thick and plush as the coat is, the Great Pyrenees should not be shaved in the summer; instead he should be given a shady spot and plenty of fresh water.</p>
+<p>The Pyr needs a fenced yard with a visible barrier to remind him to stay home. Without that barrier, he will consider the world to be his territory and think he has to guard it all. He should not be tied out regularly, for tying can cause frustration that leads to aggression.</p>
+<p>Pyr puppies grow rapidly and reach almost adult size before they are a year old. They should be well-socialized to other dogs, trained to walk on a leash, and taught basic good manners before they get too big to handle.</p>
+<p>As with other guardian breeds, motivational training works best with the Great Pyrenees. The dog does not do well with harsh corrections or repetitive training. The breed’s absence from the obedience ring is a testimony to its independence, not a comment on its intelligence. As bored as the dog gets with repetitive obedience, it takes readily to pulling a cart, patrolling the homestead perimeter, and guarding the children.</p>
+<p style="text-align: left;">While affectionate with his family and quiet and tolerant in general, if there is something to guard or protect, the Great Pyrenees can become quite territorial. Because they were bred to work independently and make decisions on their own, Pyrs may not be the star of the local obedience class. The breed should be exercised daily on leash or in a fenced area. New owners should be prepared for barking, especially at night, and brushing approximately once per week.</p>
+<p style="text-align: center;">
+</p><p style="text-align: center;"><a href="http://blog4mom.com/animals/wp-content/uploads/2010/02/pyr-sign.jpg"><img class="aligncenter size-full wp-image-1720" title="pyr sign" src="http://blog4mom.com/animals/wp-content/uploads/2010/02/pyr-sign.jpg" alt="" width="311" height="304"></a></p>
+<p style="text-align: center;"><strong>who needs a security system?</strong></p>
+			<div class="post_paginate"> </div>					
+		</div>
+			
+		<!--Rateing-->
+				<!--Rateing end-->
+			
+		<div class="post_bottom">
+			<span class="cate"> Category : <a href="http://blog4mom.com/animals/?cat=19" title="View all posts in The Animals" rel="category">The Animals</a></span>  
+			<ul class="bookmark">
+				<li>Bookmark :</li>
+				<li class="i_digg"><a href="http://www.digg.com/post?url=http://blog4mom.com/animals/?p=1714&amp;title=Great Pyrenees, great WHAT? LSGD">Digg</a></li>
+				<li class="i_del"><a href="http://del.icio.us/post?url=http://blog4mom.com/animals/?p=1714&amp;title=Great Pyrenees, great WHAT? LSGD">del.icio.us</a></li>
+				<li class="i_stumbel"><a href="http://www.stumbleupon.com/submit?url=http://blog4mom.com/animals/?p=1714&amp;title=Great Pyrenees, great WHAT? LSGD">Stumbleupon</a></li>
+				<li class="i_redit"><a href="http://reddit.com/submit?url=http://blog4mom.com/animals/?p=1714&amp;title=Great Pyrenees, great WHAT? LSGD">Redit it</a></li>
+			</ul>
+		</div><!--post bottom #end-->
+			
+	 </div><!--post #end-->
+
+	 <!-- advertisement : your ads here -->
+	
+		
+
+ <!-- Prev/Next page navigation -->
+	<div class="page-nav">
+		<div class="nav-previous">
+				</div>
+		<div class="nav-next">
+				</div>
+	</div>
+</div>
+
+<div id="blog_sidebar">
+	<div class="sidebar_top">
+    	<div class="sidebar_bottom">
+
+ <!-- advertisement : your ads here -->
+	 <div class="advt">
+     <a href="#"><img src="http://blog4mom.com/animals/wp-content/themes/wpremix3/images/advt_234x60a.png" alt="" class="ads"></a>
+<a href="#"><img src="http://blog4mom.com/animals/wp-content/themes/wpremix3/images/advt_234x60b.png" alt="" class="ads"></a>
+<a href="#"><img src="http://blog4mom.com/animals/wp-content/themes/wpremix3/images/advt_234x60c.png" alt="" class="ads"></a>
+
+   </div>
+  
+  
+  <ul>
+             <li>
+      <h5 class="sidebartitle">
+        Category      </h5>
+      <ul>
+        	<li class="cat-item cat-item-19"><a href="http://blog4mom.com/animals/?cat=19" title="View all posts filed under The Animals">The Animals</a>
+<ul class="children">
+	<li class="cat-item cat-item-531"><a href="http://blog4mom.com/animals/?cat=531" title="View all posts filed under Goats Fainting">Goats Fainting</a>
+</li>
+</ul>
+</li>
+      </ul>
+    </li>
+    <li>
+      <h5 class="sidebartitle">
+        Archives      </h5>
+      <ul>
+        	<li><a href="http://blog4mom.com/animals/?m=201009" title="September 2010">September 2010</a></li>
+	<li><a href="http://blog4mom.com/animals/?m=201007" title="July 2010">July 2010</a></li>
+	<li><a href="http://blog4mom.com/animals/?m=201002" title="February 2010">February 2010</a></li>
+      </ul>
+    </li>
+
+    <li><h5 class="sidebartitle">
+        Recent Comments      </h5>
+         	             
+<ul>
+	<li><strong><a href="http://blog4mom.com/animals/?p=1714#comment-1171" title="on Great Pyrenees, great WHAT? LSGD">Steph</a></strong>: another BABY!  luna is such a sweetheart i cannot wait to me...</li>
+	<li><strong><a href="http://blog4mom.com/animals/?p=1714#comment-1170" title="on Great Pyrenees, great WHAT? LSGD">Angela</a></strong>: your puppy is ADORABLE!
+We have a kitten ...and for now that...</li>
+	<li><strong><a href="http://blog4mom.com/animals/?p=1714#comment-1169" title="on Great Pyrenees, great WHAT? LSGD">Amanda</a></strong>: What gorgeous puppies! My grandma had a German Shepard Great...</li>
+	<li><strong><a href="http://blog4mom.com/animals/?p=1714#comment-1168" title="on Great Pyrenees, great WHAT? LSGD">Katie</a></strong>: Love them! And good for you for spay/neutering &amp; spreadi...</li>
+	<li><strong><a href="http://blog4mom.com/animals/?p=1714#comment-1167" title="on Great Pyrenees, great WHAT? LSGD">Lee</a></strong>: I'm so coming out to the farm to meet this one. I really lov...</li>
+</ul>     </li>
+    
+     </ul>
+  
+  	</div><!--sidebar bottom #end-->
+  </div><!--sidebar top #end-->
+  </div><!--sidebar #end--><!--include sidebar-->
+</div>
+<!--content-wrap end -->
+</div> 
+
+<div id="footer" class="clearfix">
+  <div id="footer-in">
+  
+  	<p>© 2010 Blog4Mom Animals. All rights reserved. - Powered by <a href="http://wordpress.org" target="_blank">WordPress</a>
+    <br></p>
+
+<!--Static Links #start -->
+  	 <ul id="flinks">
+       <li><a href="http://wpremix.com" title="your link title">Static</a></li>
+       <li><a href="http://premiumthemes.net" title="your link title">Links</a></li>
+       <li><a href="http://wordpress.org" title="your link title">Here</a></li>
+    </ul>
+<!--Static Links #end -->
+  
+    
+   </div>  <!--footer-in end-->
+</div><!--footer end-->
+
+
+
+
+</body></html><!--include footer-->

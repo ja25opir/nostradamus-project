@@ -1,0 +1,280 @@
+<html><head>
+<title>
+
+Alpaca Training with Marty McGee Bennett</title>
+
+<meta name="description" content="Alpaca and Llama training utilizing Marty McGee Bennett's Camelidynamics.">  
+<meta name="keywords" content="training alpacas breeder train alpaca">
+<meta name="revisit-after" content="2 Days">
+<meta name="expires" content="never">
+<meta name="distribution" content="global">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- training alpacas breeder train alpaca -->
+
+
+
+<style>
+a{text-decoration:none}
+a:hover{text-decoration: underline; color:}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#000000" link="#003399" alink="#003399" vlink="#003399" text="#000000" topmargin="0" leftmargin="0">
+		<link rel="shortcut icon" href="http://www.alpacanation.com/alpaca_favicon.ico"> 
+		<table border="0" cellpadding="0" cellspacing="0" width="745" height="84">
+  <tbody><tr>
+    <td bgcolor="#FFFFFF" height="84" width="745" valign="top">
+      <div align="left">
+      
+      
+      <table border="0" cellpadding="0" cellspacing="1" width="745">
+        <tbody><tr>
+
+          <td width="360" valign="bottom" bgcolor="#000000">
+            <table border="0" cellpadding="0" cellspacing="0" width="360" height="60">
+              <tbody><tr>
+                <td height="35" valign="middle"><a href="/default.aspx"><img border="0" src="/AN2.gif"></a></td>
+              </tr>
+            </tbody></table>
+          </td>
+
+          <td width="360" height="26" valign="bottom" align="center" bgcolor="#000000">
+            <table border="0" cellpadding="0" cellspacing="0" width="360" height="50">
+              <tbody><tr>
+                <td height="35" valign="middle" align="center">
+					<a href="/default.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>Home</u></font></a><font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> | </font><a href="/memberservices/03_accountinformation.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>Member Login</u></font></a> <font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> | </font><a href="/FAQ/FAQ_whatisAN.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>About AN</u></font></a> <font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> | </font><a href="/NL_join.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>Join AlpacaNation</u></font></a>
+                </td>
+              </tr>
+            	
+            </tbody></table>
+          </td>
+
+          <td width="25" valign="middle" bgcolor="#000000">&nbsp;</td>
+
+        </tr>
+
+        <tr>
+          <td width="745" height="24" valign="middle" bgcolor="#000000" colspan="3">
+          		<table border="0" width="745" height="24" bgcolor="#000000" cellspacing="0" cellpadding="0">
+          			<tbody><tr>
+          				<td width="745" height="26" bgcolor="#000000"><b>&nbsp;
+          					<a href="/alpacas-for-sale.aspx" onmouseover="popUp('HM_Menu1',event)" onmouseout="popDown('HM_Menu1')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">ALPACAS
+          					FOR SALE</font></a><font size="1" face="verdana,arial,helvetica" color="#C0C0C0">&nbsp;&nbsp;
+          					| &nbsp; </font><a href="/suri-huacaya-alpaca-breeding.aspx" onmouseover="popUp('HM_Menu2',event)" onmouseout="popDown('HM_Menu2')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">HERDSIRES</font></a><font size="1" face="verdana,arial,helvetica" color="#C0C0C0">&nbsp;&nbsp;
+          					|&nbsp;&nbsp; </font><a href="/alpaca-farming.aspx" onmouseover="popUp('HM_Menu3',event)" onmouseout="popDown('HM_Menu3')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">ALPACA
+          					FARMS</font></a><font size="1" face="verdana,arial,helvetica" color="#C0C0C0">&nbsp;&nbsp;
+          					|&nbsp;&nbsp; </font><a href="/fiber/NL_fiber.asp" onmouseover="popUp('HM_Menu4',event)" onmouseout="popDown('HM_Menu4')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">FIBER
+          					MARKET</font></a><font size="1" face="verdana,arial,helvetica" color="#C0C0C0">&nbsp;&nbsp;
+          					|&nbsp;&nbsp; </font><a href="/alpaca-services/alpaca-services.asp" onmouseover="popUp('HM_Menu5',event)" onmouseout="popDown('HM_Menu5')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">SERVICES</font></a><font size="1" face="verdana,arial,helvetica" color="#C0C0C0">&nbsp;&nbsp;
+          					|&nbsp;&nbsp; </font><a href="/alpaca-products/alpaca-products-retail.asp" onmouseover="popUp('HM_Menu6',event)" onmouseout="popDown('HM_Menu6')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">PRODUCTS</font></a><font size="1" face="verdana,arial,helvetica" color="#C0C0C0">&nbsp;&nbsp;
+          					|&nbsp;&nbsp; </font><a href="/library/NL_ANCommunity.asp" onmouseover="popUp('HM_Menu7',event)" onmouseout="popDown('HM_Menu7')"><font color="#FFFFFF" size="1" face="verdana,arial,helvetica">AN
+          					COMMUNITY</font></a></b></td>
+          			</tr>
+          		</tbody></table>
+          	</td>
+        </tr>
+      </tbody></table>
+
+
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+<script language="JavaScript1.2" src="/alpaca_HM_Loader.js" type="text/javascript"></script>
+
+
+      <table border="0" cellpadding="0" cellspacing="1" width="747" bgcolor="#C0C0C0" height="1">
+        <tbody><tr>
+          <td width="821" valign="top" height="1">
+
+      <table border="0" cellpadding="0" cellspacing="0" width="745" bgcolor="#FFFFFF" height="607">
+        <tbody><tr>
+          <td width="24" height="32" rowspan="2">&nbsp;</td>
+          <td width="480" height="32" valign="top" rowspan="2">
+            <table border="0" cellspacing="0" width="100%" height="112">
+              <tbody><tr>
+                <td width="26%" height="21">&nbsp;</td>
+                <td width="74%" height="21"></td>
+              </tr>
+              <tr>
+                <td width="26%" height="87"><a href="../../alpaca-training.aspx"><img border="1" src="Alpaca_trainer.gif" alt="Alpaca Trainer"></a></td>
+                <td width="74%" height="85" valign="middle"><a href="../../alpaca-training.aspx"><img border="0" src="alpaca_training.gif" alt="Train Alpacas"></a></td>
+              </tr>
+            </tbody></table>
+          </td>
+          <td width="215" height="22" valign="middle">
+            <p align="center">&nbsp;</p>
+          </td>
+          <td width="25" height="32" rowspan="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="215" height="122" valign="top">
+            <p align="center"><a href="../../alpaca-training.aspx"><img border="0" src="../train_alpacas.gif" alt="Alpaca Training"></a>
+          </p></td>
+        </tr>
+        <tr>
+          <td width="24" height="21">&nbsp;</td>
+          <td width="695" height="21" colspan="2">
+            <hr size="1" color="#817138">
+          </td>
+          <td width="25" height="21">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="24" height="21">&nbsp;</td>
+          <td width="695" height="21" colspan="2">
+            <p align="right"><span style="mso-bidi-font-size: 10.0pt"><font face="verdana,arial,helvetica" size="1"><i>September
+            4th, 2003 .&nbsp;</i></font></span><font face="verdana,arial,helvetica" size="1"><i><span style="mso-bidi-font-size: 10.0pt">Teaching
+            An Old "Dog" New Tricks</span></i></font></p>
+          </td>
+          <td width="25" height="21">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="24" height="484">&nbsp;</td>
+          <td width="695" valign="top" height="484" colspan="2">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" height="255">
+          <tbody><tr>
+            <td width="49%" height="21">
+              <p class="MsoNormal"><img border="0" src="../../alpaca_question.gif" alt="Alpaca Training"><font face="verdana,arial,helvetica" size="2"><span style="mso-bidi-font-weight: normal; mso-bidi-font-style: normal"><b><br>
+                          </b>
+              I have a 9 year old female.  She's never been handled before and I have high hopes of being able to get close to her someday without getting covered in spit.  I am in the process of starting her with your training methods, but I do not see any change.   Can you teach an old dog new tricks, or will she always be "my spitter" of the group?&nbsp;<br>
+              <br>
+  One more question, somehow our pasture grew a few weeds that contained these little sticky burs.... our alpacas are covered in them and I'm so afraid that they will ruin their fiber.  We've gotten rid of these weeds in the pasture, now how can I get rid of the weeds on our alpacas?  Pulling them out is not an option, we're tearing their fiber and they won't stand long enough to pull out 100 burs..... please help!<br>
+              <br>
+              <br>
+                          </span></font><span style="mso-bidi-font-size: 10.0pt"><font face="verdana,arial,helvetica" size="2"><img border="0" src="../../alpaca_answer.gif" alt="Alpaca Training">
+                          </font>
+                          </span><font face="verdana,arial,helvetica" size="2"><span style="mso-bidi-font-size: 10.0pt"><br>
+              I will address the easy part of your question first.  While my specialty these days is training and handling, I have been a spinner and fiber artist and know fiber.  I would suggest that you forget about pulling these burrs out while the fleece is still attached to the animal and start over next year by concentrating on keeping the offending weeds out of the pasture.&nbsp;<br>
+              <br>
+  The fleece currently growing on the animal is probably not ruined but will need to be de-burred by hand if they are going to be of any use.  They are probably not going to
+              be show fleeces but at least some of the fleece can be salvaged.  In my opinion this is best done after shearing.  Once the fleeces are off of the animal you can sort through the fleece without making your alpaca crazy and pick or cut the burrs out.&nbsp;<br>
+              <br>
+  If you decide to try to get the burrs out of the fleece while it is still attached to the alpaca you might consider cutting the burrs off rather than trying to pick them out- something you have already found is difficult.  The practicality of cutting the burrs off will depend on the
+              temperament of the alpaca and the number of burrs.  If the animals are difficult and you are determined to get the burrs off I would suggest a sedative.&nbsp;<br>
+              <br>
+              <br>
+              Now... as far as your nine year old female:<br>
+              <br>
+              Your female has of course been handled.  She has been shorn, medicated, wormed, herded in and out of barns caught and unless she magically appeared at your farm at the age of nine she has been transported.  Presumably these experiences have been difficult and she has responded by learning to defend herself in what ever way she could.&nbsp;<br>
+              <br>
+              Having said that, difficult animals are usually born that way-a fact substantiated by the fact that not all imported animals are not horrible spitters and difficult to handle, some are actually quite easy.  The likelihood is that your girl is the kind of animal that responds violently rather than submissively to physical restraint.  My experience is that these kinds of animals respond very quickly and positively to handling of a non physical nature.  What follows are a few specific suggestions.&nbsp;<br>
+              </span></font>
+              </p>
+              <ul>
+                <li><font face="verdana,arial,helvetica" size="2">It will be
+                  very important for you to work with her with other alpacas in
+                  the pen and to use a small catch pen. &nbsp;The lightweight 9'
+                  panels commonly used in the alpaca world make a good catching
+                  and haltering area.<br>
+                  </font><font face="verdana,arial,helvetica" size="2">&nbsp;</font>
+                </li><li><font face="verdana,arial,helvetica" size="2">Catch this gal
+                  by attaching a rope to a wand or other extension of your arms
+                  by putting the rope over the head (<a href="July03_a.aspx" target="_blank"><font color="#003399"><u>described
+                  more fully in the July 03' issue of "Ask Marty McGee
+                  Bennett</u></font></a>.)<br>
+                  &nbsp;</font>
+                </li><li><font face="verdana,arial,helvetica" size="2">Learn to put
+                  your animal in balance when you handle her. &nbsp;(This is one
+                  of those things that is best learned at one of my clinics by
+                  participating hands on.)<br>
+                  &nbsp;</font>
+                </li><li><font face="verdana,arial,helvetica" size="2">Don't take her
+                  behavior personally she is treating you badly because she has
+                  not met any humans that have changed her opinion of our
+                  species.&nbsp;Many people think that leaving older difficult
+                  animals alone is the best approach we think that the animal
+                  will realize that we are graciously giving them 361 days off a
+                  year and bothering them as little as possible. &nbsp;I don't'
+                  think alpacas think about it that way. &nbsp;The only they
+                  know is that every time humans do anything to them it is
+                  scary, annoying or painful.<br>
+                  </font><font face="verdana,arial,helvetica" size="2">&nbsp;</font>
+                </li><li><font face="verdana,arial,helvetica" size="2">Teach her to
+                  wear a halter and teach her to lead. &nbsp;<b>Make sure you
+                  understand how to fit a halter properly. </b>&nbsp;As soon as
+                  she learns to lead begin taking her for walks and make them as
+                  interesting and enjoyable as you can. &nbsp;Lots of breaks for
+                  grazing on nice grass, interesting obstacles. &nbsp;Give her
+                  lots of space when you lead her (8-10 feet from you is good)
+                  remember she is frightened of you and will be able to relax
+                  and enjoy the walk if you stay at least a arms length+ away
+                  from her make sure to lead with a light hand- pretend you are
+                  leading a butterfly.&nbsp;</font></li>
+              </ul>
+              <p class="MsoNormal"><font face="verdana,arial,helvetica" size="2"><span style="mso-bidi-font-size: 10.0pt">&nbsp;&nbsp;<br>
+              Good luck and remember that easy animals are nice, but learning to successfully handle difficult animals will make you a better animal handler and maybe a better person.&nbsp;<br>
+              <br>
+              <br>
+              <i>~ Marty McGee Bennett</i><br>
+              <span style="mso-spacerun: yes">&nbsp;</span>
+              </span></font>
+            </p></td>
+          </tr>
+        </tbody></table>
+          </td>
+          <td width="25" height="484">&nbsp;</td>
+        </tr>
+      </tbody></table>
+          </td>
+
+</tr></tbody></table>
+
+
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0" width="745" height="69">
+  <tbody><tr>
+    <td bgcolor="#000000" height="26" width="746" valign="bottom">
+      <p align="center"><a href="/default.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>AlpacaNation
+        Home</u></font></a> <font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> |
+      </font> 
+		<a href="/memberservices/03_signin.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>Member Login</u></font></a>
+      <font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> |
+      </font> <a href="/FAQ/FAQ_whatisAN.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>About
+      AN</u></font></a> <font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> |
+      </font> <a href="/contact/NL_contact.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>Contact
+        Us</u></font></a> <font color="#FFFFFF" face="verdana,arial,helvetica" size="1"> |
+      </font> <a href="/NL_join.aspx"><font face="verdana,arial,helvetica" size="1" color="#FFFFFF"><u>Join
+        AlpacaNation</u></font></a></p></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" height="22" width="746" valign="bottom">
+      <p align="center"><font face="verdana,arial,helvetica" size="1"><a href="/ConditionsofUse.aspx"><font color="#FFFFFF"><u>Conditions
+        of Use</u></font></a><font color="#FFFFFF"> | <a href="/privacynotice.aspx"><font color="#FFFFFF"><u>Privacy Notice</u></font></a><font color="#003399">&nbsp;</font><font color="#FFFFFF">&nbsp;
+      Copyright <font class="negative1" size="-1"> ©&nbsp;</font>2000-2010<font class="negative1" size="-1"> </font>AlpacaNation
+        LLC&nbsp; <a href="http://www.thegideongroup.com"><font color="#FFFFFF">
+		<span style="text-decoration: none">All Rights </span> </font></a><a href="http://charlotte-mason.blogspot.com"><font color="#FFFFFF">
+		<span style="text-decoration: none">Reserved</span></font></a>.</font> </font></font></p></td>
+  </tr>
+  <tr>
+    <td height="21" width="746">
+    </td>
+  </tr>
+</tbody></table>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7433076-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>

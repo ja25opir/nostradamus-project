@@ -1,0 +1,334 @@
+<!DOCTYPE html><html><head> 
+		<title>Standard To Vertex Form</title> 
+		
+		<meta name="keywords" content="algebra, algebra software, algebra help, algebra tutor"> 
+		<meta name="description" content="Take the best algebra help from our algebra software. It's like having your own personal algebra tutor on call. When you are still struggling with your homework given by your algebra tutor, other people are using our algebra software as their best algebra help."> 
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<script language="javascript" src="http://www.algebra-net.com/javascript/pre-load.js"></script>
+		
+		
+		<link href="http://www.algebra-net.com/styles/font.css" rel="stylesheet" type="text/css"> 
+		<link href="http://www.algebra-net.com/style.css" rel="stylesheet" type="text/css"> 
+		<link href="http://www.algebra-net.com/estilo.css" rel="stylesheet" type="text/css"> 
+
+		<link href="http://www.algebra-net.com/styles/forum/classic.css" rel="stylesheet" type="text/css"> 
+
+
+	</head>  
+	
+	<body vlink="#0000ff" alink="#5f72ba" link="#000080" leftmargin="0">  
+		
+		<table cellspacing="0" cellpadding="0" width="1007" border="0">  
+			<tbody>   	
+				<tr>    	
+					<td width="100%">        	
+						
+						<table cellspacing="0" cellpadding="0" width="100%" border="0">        
+							<tbody>         		
+								<tr>            	
+									<td width="395">										
+										<img src="http://www.algebra-net.com/algebra-net-logo.jpg" width="395" height="104" border="0">
+									</td>        	   	
+									<td width="100%">             	    		
+										<table cellspacing="0" cellpadding="0" width="100%" border="0">              
+											<tbody>               			
+												<tr> 			
+													<td width="100%" bgcolor="#6073ba" height="10"><img src="http://www.algebra-net.com/top-bkg.jpg" width="385" height="10" border="0"></td>
+												</tr>              
+												<tr>                 			
+													<td width="100%" bgcolor="#6073ba" height="94">														
+														<p style="MARGIN-TOP: 0px; MARGIN-LEFT: 2px; MARGIN-RIGHT: 2px" align="center"><font face="Arial" color="#ffffff" size="2">Our software program is like having your own personal algebra professor on call.</font></p>
+													</td>
+												</tr>
+											</tbody> 		
+										</table>
+									</td>
+								</tr>
+							</tbody> 	
+						</table>
+					</td>
+				</tr>
+			</tbody> 
+		</table>  
+																							
+		<table cellspacing="0" cellpadding="0" width="100%" border="0">  
+			<tbody>   	
+				<tr>    
+					<td width="100%" valign="top">     	
+						<table cellspacing="0" cellpadding="0" width="100%" border="0">          
+							<tbody>           		
+								<tr>          		      
+									<td valign="top"><img src="http://www.algebra-net.com/algebra-help.gif" width="178" height="31" border="0"><img src="http://www.algebra-net.com/curve.gif" width="52" height="31" border="0"></td>       		           
+								</tr>          
+							</tbody>       	
+						</table>  
+				</td></tr>  
+			</tbody> 
+		</table> 				   
+		
+		<table cellspacing="0" cellpadding="0" width="1007" border="0">  
+			<tbody>   	
+				<tr>     	  
+					<td width="100" background="http://www.algebra-net.com/fondo.gif" valign="top">          
+						<table cellspacing="0" cellpadding="0" width="100%" border="0">              
+							<tbody>              
+								<tr>                 			
+									<td width="100%"><img height="22" src="http://www.algebra-net.com/nav-top.gif" width="178" border="0"></td>
+								</tr>      
+								<tr><td width="100%" height="22" valign="bottom" background="http://www.algebra-net.com/reviews-user-comments.jpg" style="background-repeat:no-repeat; padding-bottom:2; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/reviews-user-comments.html" style="text-decoration:none;color:white;">Reviews &amp; User Comments</a></span></td>      </tr>       
+								<tr><td width="100%" height="26" valign="bottom" background="http://www.algebra-net.com/unconditional-guarantee.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"> <span class="style1"><a href="http://www.algebra-net.com/unconditional-guarantee.html" style="text-decoration:none;color:white;">Unconditional Guarantee</a></span></td>        </tr>         
+								<tr><td width="100%" height="24" valign="bottom" background="http://www.algebra-net.com/algebra-professor-vs-the-rest.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/Algebra-professor-other-software.html" style="text-decoration:none;color:white;">Algebra Prof vs The Rest</a></span></td>         </tr>         								
+								<tr><td width="100%" height="23" valign="bottom" background="http://www.algebra-net.com/features-and-benefits.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/features-benefits.html" style="text-decoration:none;color:white;">Features and Benefits</a></span></td></tr>         
+								<tr><td width="100%" height="24" valign="bottom" background="http://www.algebra-net.com/resources-and-links.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/resources.html" style="text-decoration:none;color:white;">Resources and Links</a></span></td></tr>          
+								<tr><td width="100%" height="24" valign="bottom" background="http://www.algebra-net.com/about-algebra-net.jpg" style="background-repeat:no-repeat;??> padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/about-algebra-net.html" style="text-decoration:none;color:white;">About Algebra-Net</a></span></td></tr>          
+								<tr><td width="100%" height="24" valign="bottom" background="http://www.algebra-net.com/privacy-policy.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;">	<span class="style1"><a href="http://www.algebra-net.com/privacy-policy.html" style="text-decoration:none;color:white;">Our Privacy Policy</a></span></td></tr>           
+								<tr><td width="100%" height="24" valign="bottom" background="http://www.algebra-net.com/faq-resources.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/faq-resources.html" style="text-decoration:none;color:white;">FAQ - Resources</a></span></td></tr>           
+								<tr><td width="100%" height="25" valign="bottom" background="http://www.algebra-net.com/how-to-order.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/order-Algebra-Professor.html" style="text-decoration:none;color:yellow;">How to Order!</a></span></td></tr>		   
+								<tr><td width="100%" height="24" valign="bottom" background="http://www.algebra-net.com/return-home.jpg" style="background-repeat:no-repeat; padding-bottom:3; padding-left:2;"><span class="style1"><a href="http://www.algebra-net.com/index.html" style="text-decoration:none;color:white;">Algebra Home</a></span></td> </tr>                   
+								<tr><td width="100%">  
+										<b><font color="#C0C0C0" face="Arial Narrow"><br></font><font size="2" color="#C0C0C0" face="Arial"><p><font face="Arial, Helvetica, sans-serif">Algebra-net</font><br>
+										<font face="Arial, Helvetica, sans-serif">112 Budley Street</font><br>
+										<font face="Arial, Helvetica, sans-serif">Denham Springs</font><br>										
+										<font face="Arial, Helvetica, sans-serif">LA 70726</font></p>
+										<br><font face="Arial, Helvetica, sans-serif">Ph: (206) 666-3590</font></font></b><font size="2" face="Arial">&nbsp; </font>                
+								</td></tr>
+							</tbody>
+						</table>
+					</td> 	 	
+					<td width="900" valign="top">      	 
+						<table width="90%" border="0" cellpadding="3" cellspacing="3" dwcopytype="CopyTableColumn">                 
+							<tbody>                 
+								<tr>                   
+									<td valign="top">               
+<div style="padding-top:3200px;">       
+
+
+	<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td height="3"><img src="http://www.algebra-net.com/images/spacer.gif" width="1" height="3"></td>
+			<td><img src="http://www.algebra-net.com/images/spacer.gif" width="1" height="3"></td>
+			<td><img src="http://www.algebra-net.com/images/spacer.gif" width="1" height="3"></td>
+		</tr>
+		<tr>
+			<td width="1%"><img src="http://www.algebra-net.com/images/center/11.gif" width="20" height="17"></td>
+			<td width="98%" background="http://www.algebra-net.com/images/center/12back.gif">&nbsp;</td>
+			<td width="1%"><img src="http://www.algebra-net.com/images/center/13.gif" width="16" height="17"></td>
+		</tr>
+		<tr>
+			<td background="http://www.algebra-net.com/images/center/21back.gif">&nbsp;</td>
+			<td valign="top"> 
+				<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="1%"><img src="http://www.algebra-net.com/images/center/1/11.gif" width="14" height="13"></td>
+						<td width="98%" background="http://www.algebra-net.com/images/center/1/12.gif"><img src="http://www.algebra-net.com/images/center/1/12.gif" width="14" height="13"></td>
+						<td width="1%"><img src="http://www.algebra-net.com/images/center/1/13.gif" width="14" height="13"></td>
+					</tr>
+					<tr>
+						<td background="http://www.algebra-net.com/images/center/1/21.gif">&nbsp;</td>
+						<td background="http://www.algebra-net.com/images/center/1/22.gif"><p align="center" class="title">
+							OUR USERS</p></td>
+						<td background="http://www.algebra-net.com/images/center/1/23.gif">&nbsp;</td>
+					</tr>
+					<tr>
+						<td><img src="http://www.algebra-net.com/images/center/1/31.gif" width="14" height="13"></td>
+						<td background="http://www.algebra-net.com/images/center/1/32.gif"><img src="http://www.algebra-net.com/images/center/1/32.gif" width="14" height="13"></td>
+						<td><img src="http://www.algebra-net.com/images/center/1/33.gif" width="14" height="13"></td>
+					</tr>
+				</tbody></table>
+				
+
+
+<div style="padding-left:10px;">
+			<p>
+			The Algebra Professor could replace teachers, sometime in the future. It is more detailed and more patient than my current math teacher. I, personally, understand algebra better. Thank you for creating it!<br>
+			<i><b>Jon Maning, NM</b></i>
+		</p>
+			<p>
+			My former algebra tutor got impatient whenever I couldn't figure out an equation. I eventually got tired of her so I decided to try the software. I'm so impressed with it! I can't stress enough how great it is!<br>
+			<i><b>Sonya Johnson, TX</b></i>
+		</p>
+			<p>
+			I never bought anything over the internet, until my neighbor showed me what the Algebra Professor can do, and I ordered one right away. It was a good decision! Thank you.<br>
+			<i><b>Jack Garner, IL</b></i>
+		</p>
+			<p>
+			My 12-year-old son, Jay has been using the program for a few months now. His fraction skills are getting better by the day. Thanks so much!<br>
+			<i><b>Alan Cox, TX</b></i>
+		</p>
+			<p>
+			Just when I thought I couldn't find the program to do the job, I found Algebra Professor and my algebra problems were gone! Thank you.<br>
+			<i><b>T.P., New York</b></i>
+		</p>
+	</div>
+
+	<hr>
+	<b><font face="Arial" color="#800000" size="4">Students struggling with all kinds of algebra problems find out that our software is a life-saver. Here are the search phrases that today's searchers used to find our site. Can you find yours among them?</font></b>
+	<br>
+	<p>
+		<b><font face="Arial" color="#0099CE">Search phrases used on 2009-04-22:</font></b>
+	</p>
+
+
+	<ul>
+					<li>McDougal littell Algebra 1 answers free</li>
+					<li>parabola hyperbola ellipse tutorial for college algebra</li>
+					<li>worksheets on "simple trig identities"</li>
+					<li>mcdougal littell algebra 1 chapter 7 online assessment</li>
+					<li>implicit derivative calculator</li>
+					<li>factorize 3rd order matlab</li>
+					<li>to solve non linear simultaneous equations in excel</li>
+					<li>Factorization of polynomials project in powerpoint</li>
+					<li>6th grade interger work sheet</li>
+					<li>radical program ti84</li>
+					<li>ti-84 factor program</li>
+					<li>grid pictures printable</li>
+					<li>questions on factorization</li>
+					<li>online foil</li>
+					<li>linear polynomial graph</li>
+					<li>subtracting integers for dummies</li>
+					<li>awnswers to algebra with pizzazz 112</li>
+					<li>free printable 9th grade worksheets</li>
+					<li>polynom 4th grade excel solver</li>
+					<li>can you divide square roots</li>
+					<li>creative ways to teach simultaneous equations</li>
+					<li>work out algebra online</li>
+					<li>how to subtract square root fractions</li>
+					<li>Holt California Algebra 2 key</li>
+					<li>inequalities worksheet</li>
+					<li>derivative calculator implicit</li>
+					<li>Pre Algebra Elayn Martin-gay answer key 0920</li>
+					<li>two step equation worksheets</li>
+					<li>algebra with pizzazz answers</li>
+					<li>lowest common multiple test</li>
+					<li>mcdougal littell algebra 1 answers</li>
+					<li>math solver precalculus</li>
+					<li>holt california algebra 1 answer key</li>
+					<li>creative publications algebra with pizzazz</li>
+					<li>inequalities word problems worksheet</li>
+					<li>square root of pie math</li>
+					<li>holt algebra 1 book answers</li>
+					<li> <a href="/algebra-online/radical-equations/algebra2-solution.html">algebra software</a>  for teachers</li>
+					<li>solving addition subtraction equations worksheets</li>
+					<li>sum of digits in java programs</li>
+					<li>free online parabola calculator</li>
+					<li>arithmetic progression related to life</li>
+					<li>monomial calculator</li>
+					<li>free factor tree printable</li>
+					<li>ucsmp advanced algebra answers</li>
+					<li> <a href="/algebra-online/angle-suplements/prentice-hall-advanced-algebra.html">Pre</a> - <a href="/algebra-online/difference-of-cubes/permutations--combinations-ti.html">algebra combinations</a> </li>
+					<li>test of genius worksheet answers</li>
+					<li>mcdougal littell algebra 2 answers workbook</li>
+					<li>algebra eoc nc cheat</li>
+					<li>how to solve trigonometry bearing problems</li>
+					<li>permutations and combinations worksheet with answer sheet</li>
+					<li>maths for dummies</li>
+					<li>algebra programs ti 84</li>
+					<li>free printable quadratic equation worksheets</li>
+					<li>factoring program ti-84 plus</li>
+					<li>8th grade math trivia questions</li>
+					<li>work out algebra problems online</li>
+					<li>multi step equation puzzle worksheet</li>
+					<li>McDougal Littell Algebra 1 Answers for Free</li>
+					<li>coordinate grid pictures</li>
+					<li>algebra rationalize denominator online calculator</li>
+					<li>percent of change proportion</li>
+					<li>solve my math problems for me</li>
+					<li>poems++about+algebra</li>
+					<li>decimal least to greatest calculator</li>
+					<li>9th grade algebra</li>
+					<li>formula to conver to octal, java</li>
+					<li>scale factor lesson</li>
+					<li>solving radical problems</li>
+					<li>how to solve english aptitude questions quickly</li>
+					<li>mathematic test year 8</li>
+					<li>permutation and combination word problem solver</li>
+					<li>algebra.net</li>
+					<li>radical expressions calculator dividing</li>
+					<li>parabole la algebra</li>
+					<li>hungerford algebra solution</li>
+					<li>multiplying and dividing rational expressions calculator</li>
+					<li>creative publications algebra with pizzazz objective 5-i</li>
+					<li>distributive property worksheet</li>
+					<li>surds for dummies</li>
+					<li> <a href="/homework-tutorials/polynomial-factoring-calculato.html">polynomial real</a>  life problem  <a href="/algebra-online/simplifying-expressions/solving-mole-equations.html">solving situation</a> </li>
+					<li>free math problem solver</li>
+					<li>how to solve radicals in algebra</li>
+					<li>algebra top programs</li>
+					<li>mcdougal littell algebra 2 answers</li>
+					<li>Algebra software</li>
+					<li>free online parabola solver</li>
+					<li>multiplying and dividing rational expressions solver</li>
+					<li>slope solver</li>
+			</ul>
+
+
+
+	<p>&nbsp;&nbsp;</p>
+
+	<table width="100%">
+		<tbody><tr>
+			<td width="50%">
+				<a href="/homework-tutorials/holt-algebra-1.html">Prev</a>			</td>
+			<td width="50%" align="right">
+				<a href="/homework-tutorials/how-do-you-change-mix-fraction.html">Next</a>			</td>
+		</tr>
+	</tbody></table>
+
+
+
+</td>
+			<td background="http://www.algebra-net.com/images/center/23back.gif">&nbsp;</td>
+		</tr>
+		<tr>
+			<td><img src="http://www.algebra-net.com/images/center/31.gif" width="20" height="17"></td>
+			<td background="http://www.algebra-net.com/images/center/32back.gif">&nbsp;</td>
+			<td><img src="http://www.algebra-net.com/images/center/33.gif" width="16" height="17"></td>
+		</tr>
+	</tbody></table>
+
+
+
+
+
+
+
+</div>
+<div style="position:absolute;width:800px;top:150px;left:200px;text-align:left;">
+
+	  <iframe src="http://www.softmath.com/buy.php?page=fs-103" width="650" height="3200" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;" scrolling="no"></iframe>
+
+
+</div>
+
+
+
+
+
+
+
+  </td>          </tr>          </tbody>       </table>  
+ </td></tr></tbody></table>
+ <table cellspacing="0" cellpadding="0" width="1007" bgcolor="#5f72ba" border="0">  <tbody>   	<tr>     	 			       	</tr></tbody></table><table cellspacing="0" cellpadding="0" width="1007" bgcolor="#5f72ba" border="0"><tbody>        <tr>           		<td width="1007">            <p style="MARGIN-TOP: 5px; MARGIN-BOTTOM: 0px" align="center"><font face="MS Sans
+								 Serif" color="#ffffff" size="1"><b><a href="http://www.algebra-net.com/algebra-homework.html" style="text-decoration:underline;color:white;">Algebra
+										 Homework</a> | <a href="http://www.algebra-net.com/elementary-algebra.html" style="text-decoration:underline;color:white;">Elementary
+										 Algebra</a> | <a href="http://www.algebra-net.com/algebra-solver.html" style="text-decoration:underline;color:white;">Algebra Solver</a> | <a href="http://www.algebra-net.com/pre-algebra.html" style="text-decoration:underline;color:white;">Pre-Algebra</a> | <a href="http://www.algebra-net.com/mathematical-equation.html" style="text-decoration:underline;color:white;">Mathematical Equation</a> | <a href="http://www.algebra-net.com/math-problem-solver.html" style="text-decoration:underline;color:white;">Math Solver</a><br>
+									 <a href="http://www.algebra-net.com/algebra-factoring.html" style="text-decoration:underline;color:white;">Algebra Factoring</a> | <a href="http://www.algebra-net.com/algebra-graphing.html" style="text-decoration:underline;color:white;">Algebra Graphing</a> | <a href="http://www.algebra-net.com/rational-expression.html" style="text-decoration:underline;color:white;">Rational Expression</a> | <a href="http://www.algebra-net.com/root-solve-equation.html" style="text-decoration:underline;color:white;">Algebraic Equation</a> | <a href="http://www.algebra-net.com/algebraic-calculator.html" style="text-decoration:underline;color:white;">Algebraic Calculator</a> | <a href="http://www.algebra-net.com/complex-fraction.html" style="text-decoration:underline;color:white;">Complex Fraction</a> <br>
+									 <a href="http://www.algebra-net.com/common-factor.html" style="text-decoration:underline;color:white;">Common Factor</a> |  		<a href="http://www.algebra-net.com/math-software.html" style="text-decoration:underline;color:white;">Math Software</a> | <a href="http://www.algebra-net.com/math-help.html" style="text-decoration:underline;color:white;">Math Help</a> | <a href="http://www.algebra-net.com/math-solve.html" style="text-decoration:underline;color:white;">Math Solve</a> | <a href="http://www.algebra-net.com/solving-inequalities.html" style="text-decoration:underline;color:white;">Inequalities</a> | <a href="http://www.algebra-net.com/algebra-problems.html" style="text-decoration:underline;color:white;">Algebra Problems</a> | <a href="http://www.algebra-net.com/math-problems.html" style="text-decoration:underline;color:white;">Math Problems</a> | <a href="http://www.algebra-net.com/solving-algebra-problems.html" style="text-decoration:underline;color:white;">Solving Algebra Problems</a>
+									 <br>
+									 <br>All Rights Reserved by Algebra-Net.com 2007-2009									 
+
+</b></font></p></td></tr></tbody> 	</table> 	    
+
+
+
+
+
+
+
+
+	  
+ 
+
+
+</body></html>

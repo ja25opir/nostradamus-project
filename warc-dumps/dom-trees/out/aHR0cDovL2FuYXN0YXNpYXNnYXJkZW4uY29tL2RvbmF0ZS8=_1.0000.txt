@@ -1,0 +1,467 @@
+<html><head>
+
+<title>Anastasiasgarden.com is a resource for the Ringing Cedars of Russia series / Anastasia books written by Vladimir Megre</title>
+
+		<meta name="DESCRIPTION" content="Anastasiasgarden.com serves as a resource for the Ringing Cedars of Russia series / Anastasia books and provides a vehicle for research into the visions and ideas of Anastasia and Vladimir Megre.">
+
+		<meta name="keywords" content="Anastasias Garden, Anastasia, Ringing Cedars of Russia, Ringing Cedars, Vladimir Megre, Raising Children, Co-creation, Kin's Domain, Eco Village, Intentional Community, Kin's Domains, Eco Villages, Intentional Communities, Space of Love, Healing Gardens, Healing Disease, Anastasia's Ray, Goddesses, Cedar Pendants, Pine Nuts, Healing Oil, Dolmens, Dachniks, Dacha, Purity of Thought, Speed of thought, Tiaga, Russia, Who are We, The Book of Kin, The Energy of Life, The New Civilization, Resource Library, Anastasiya, cedar trees, 978-0-9763333-0-2, 978-0-9763333-1-9, 978-0-9763333-2-6, 978-0-9763333-3-3, 978-0-9763333-4-0, 978-0-9763333-6-4, 978-0-9763333-7-1, 978-0-9763333-8-8, 978-0-9763333-9-5">
+
+
+		<meta name="resource-type" content="document">
+
+		<meta name="robots" content="ALL">
+
+		<meta name="revisit-after" content="10 days">
+
+		<meta name="DISTRIBUTION" content="global">
+
+		<meta name="GOOGLEBOT" content="index,follow"> 
+
+              <meta name="copyright" content="Anastasiasgarden.com">
+
+		
+
+		<link rel="shortcut icon" href="/favicon.ico">
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><style type="text/css">
+<!--
+body {
+	background-image: url(../images/background.jpg);
+}
+-->
+</style><script>
+
+
+
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+  if (restore) selObj.selectedIndex=0;
+
+}
+
+//-->
+
+</script><script language="JavaScript"><!--
+
+function new_window(url,width,height) {link = window.open(url,"Link","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=2,width="+width+",height="+height+",left=10,top=10");}
+
+// -->
+
+			</script><link rel="stylesheet" href="/anastasia1.css" type="text/css"><script language="JavaScript" type="text/javascript">
+
+//--------------- LOCALIZEABLE GLOBALS ---------------
+
+var d=new Date();
+
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+//Ensure correct for language. English is "January 1, 2204"
+
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+
+//---------------   END LOCALIZEABLE   ---------------
+
+</script><link rel="shortcut icon" href="/favicon.ico"><script language="JavaScript1.2">
+
+var bookmarkurl="http://anastasiasgarden.com/"
+
+var bookmarktitle="Anastasias Garden"
+
+
+
+function addbookmark(){
+
+if (document.all)
+
+window.external.AddFavorite(bookmarkurl,bookmarktitle)
+
+}
+
+</script></head>
+
+	
+
+
+
+
+
+
+
+
+
+	<body leftmargin="0" marginwidth="0" onload="window.defaultStatus='www.AnastasiasGarden.com, We are all  Seeds.';">
+
+<table width="100%" cellspacing="2" border="0">
+
+				<tbody><tr height="75">
+
+					<td><font size="2" color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><font color="black" face="Georgia, Arial" size="1"><span class="textCC"><b>
+
+									<table width="100%" border="0" cellpadding="2" cellspacing="2">
+
+										<tbody><tr>
+
+											<td width="33%" align="center">
+
+
+
+												<img src="/images/healinggardens.jpg" width="97" height="150"><br>
+
+												<font size="2"><a href="/healinggardens"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Healing Gardens</span></font></a></font><br>
+
+											</td>
+
+											<td width="33%" align="center">
+
+												<div align="center"><img src="../images/title.png" width="564" height="220"></div>
+
+										  </td>
+
+											<td width="33%" align="center">
+
+												<script type="text/javascript">
+
+
+
+var slidespeed=2000
+
+var slideimages=new Array("/images/book1.gif","/images/book2.gif","/images/book3.gif")
+
+var slidelinks=new Array("http://www.anastasiasgarden.com/bookstore","http://www.anastasiasgarden.com/bookstore","http://www.anastasiasgarden.com/bookstore")
+
+
+
+var whichlink=0
+
+var whichimage=0
+
+var imgobj, filtersupport, blenddelay
+
+var imageholder=new Array()
+
+for (i=0;i<slideimages.length;i++){ //preload images
+
+imageholder[i]=new Image()
+
+imageholder[i].src=slideimages[i]
+
+}
+
+
+
+function gotoshow(){
+
+window.location=slidelinks[whichlink]
+
+}
+
+
+
+function slideit(){
+
+if (filtersupport)
+
+imgobj.filters[0].apply()
+
+imgobj.src=imageholder[whichimage].src
+
+if (filtersupport)
+
+imgobj.filters[0].play()
+
+whichlink=whichimage
+
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+
+setTimeout("slideit()", slidespeed+blenddelay)
+
+}
+
+window.onload=function(){
+
+imgobj=document.getElementById("slideshow") //access img obj
+
+filtersupport=imgobj.filters //check for support for filters
+
+blenddelay=(filtersupport)? imgobj.filters[0].duration*1000 : 0
+
+slideit()
+
+}
+
+
+
+//-->
+
+</script>
+
+												<a href="javascript:gotoshow()"><img src="/images/book1.gif" id="slideshow" border="0" style="filter:progid:DXImageTransform.Microsoft.Fade(duration=2)" width="97" height="150"></a><br>
+
+												<font size="2"><a href="/bookstore"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Bookstore</span></font></a></font><br>
+
+
+
+											</td>
+
+										</tr>
+
+									</tbody></table>
+
+								</b></span></font></font>
+
+					<p></p>
+
+					<div align="center">
+
+						<p><font size="2"><a href="/forums"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Forums</span></font></a> | <a href="/library"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Resource Library</span></font></a> | <a href="/aboutthebooks"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">About the Anastasia Books</span></font></a> | <a href="/bookstore"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Bookstore</span></font></a> | <a href="/gallery"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Photo Gallery</span></font></a> | <a href="/links"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Links</span></font></a> | <a href="/contact"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Contact</span></font></a> | <a href="/donate"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Donate</span></font></a> | <a href="/sitemap"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Site Map</span></font></a> | <a href="/"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Home</span></font></a></font></p>
+
+						<p><font size="2"><a href="/mission"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Mission</span></font></a> | <a href="http://anastasiagroups.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Anastasia Groups</span></font></a> | <a href="http://anastasiasociety.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Anastasia Society</span></font></a> | <a href="http://anastasiasgardenfoundation.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Anastasia's Garden Foundation</span></font></a> | <a href="http://anastasiacommunities.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''">Anastasia Community</span></font></a><a href="http://anastasiacommunity.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#ffff00'" onmouseout="this.style.color=''"><br>
+
+										</span></font></a></font></p>
+
+					</div>
+
+				</td>
+
+				</tr>
+
+				<tr>
+
+					<td width="100%" bgcolor="white" align="center">
+
+						<table border="0" cellpadding="2" cellspacing="2" width="100%">
+
+							<tbody><tr>
+
+							<td valign="top"><div align="center">
+
+									<div align="center"><br>
+									  <font size="4" face="Georgia,Arial"><b>Donate to Anastasia's Garden!<br>
+
+												  <br>
+
+							  </b></font></div>
+
+									<div align="left">
+
+										<p><font size="3" face="Georgia,Arial">It is our intention to help fund various Anastasia related projects and activities around the world, especially in America.   We are creating the Anastasia's Garden Foundation to serve as a vehicle for this.  The Foundation will give and receive grants.<br>
+
+												<br>
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">If you are interested in helping us then please contact Christopher at Anastasia's Garden.  We are looking for people with experience in non-profit's, grant writing and other services.   Please won't you join us?<br>
+
+												<br>
+
+											</font></p>
+
+
+
+										<p><font size="3" face="Georgia,Arial">In the future it will be essential for people who want to financially support Anastasia related projects to have a legitimate non-profit foundation to give their money to.   We expect to have our 501c3 status in the future, thereby enabling us to receive and give grants.<br>
+
+												<br>
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">As soon as Bill and Melinda Gates, Oprah and the rest of them read these books there will surely be a huge outpouring of resources towards anything Anastasia.   We will be ready for this when it happens!<br>
+
+												<br>
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">If you have an Anastasia related project that needs funding please contact us for assistance.  While we are at the beginning of the creation of our Foundation, we still want to support people and their ideas as much as possible. <br>
+
+
+
+												<br>
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">So don't be shy!  Let us know your idea, dream or vision and we will see what we can do to help you.<br>
+
+												<br>
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">Blessings to all of you,<br>
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">Christopher<br>
+
+
+
+											</font></p>
+
+										<p><font size="3" face="Georgia,Arial">Anastasia's Garden Foundation<br>
+
+											</font></p>
+
+									</div>
+
+									<p></p><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+<input type="hidden" name="cmd" value="_s-xclick">
+
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+
+">
+
+</form><p></p>
+
+									<div align="center">
+
+										<p></p>
+
+									</div>
+
+								</div>
+
+							</td>
+
+						</tr>
+
+						</tbody></table>
+
+					<table width="100%" border="0" cellpadding="2" cellspacing="2" bgcolor="#f5f5f5">
+
+							<tbody><tr>
+
+								<td>
+
+									<div align="center">
+
+									<table width="100%" border="0" cellpadding="2" cellspacing="2">
+
+											<tbody><tr>
+
+
+
+												<td bgcolor="white">
+
+													<div align="center">
+
+														<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+															<tbody>
+
+																<tr>
+
+																	<td bgcolor="tan">
+
+																		<div align="center">
+
+																		<font size="3" color="#006400" face="georgia,verdana"><b>AnastasiasGarden.com</b></font>
+
+
+
+																		<p><font size="2"><a href="/mission"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Mission</span></font></a> | <a href="http://anastasiagroups.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Anastasia Groups</span></font></a> | <a href="http://anastasiasociety.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Anastasia Society</span></font></a> | <a href="http://anastasiasgardenfoundation.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Anastasia's Garden Foundation</span></font></a> | <a href="http://anastasiacommunities.org"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Anastasia Community</span></font></a></font></p>
+
+																		<div align="center">
+
+
+
+																			<div align="center">
+
+																				<p><font size="2"><a href="/forums"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Forums</span></font></a> | <a href="/library"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Resource Library</span></font></a>  | <a href="/aboutthebooks"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">About the Anastasia Books</span></font></a> | <a href="/bookstore"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Bookstore</span></font></a> | <a href="/gallery"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Photo Gallery</span></font></a> | <a href="/links"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Links</span></font></a> | <a href="/contact"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Contact</span></font></a> | <a href="/donate"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Donate</span></font></a> | <a href="/sitemap"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Site Map</span></font></a> | <a href="/"><font face="georgia,verdana"><span class="mainbar" onmouseover="this.style.color='#006400'" onmouseout="this.style.color=''">Home</span></font></a></font><font size="2" face="georgia,verdana"><br>
+
+
+
+																					</font></p>
+
+																			</div>
+
+																		</div>
+
+																		<p><font size="2">
+
+																				<script><!--
+
+//if the user is using IE 4+
+
+if (document.all);
+
+document.write('<a href="javascript:addbookmark()"><font color="blue"<b>Bookmark this Page!</b></font></a>');
+
+// -->
+
+																					</script>
+
+																			</font></p>
+
+																		<p><font size="2" face="arial,
+
+Arial"><font size="2" color="#006400" face="georgia,verdana">©Copyright www.AnastasiasGarden.com 2006-2010 All rights reserved.<br>
+
+																		  </font></font></p><font size="2" face="arial,
+
+Arial">
+
+
+
+																	</font></div><font size="2" face="arial,
+
+Arial">
+
+																	</font></td>
+
+																</tr>
+
+															</tbody>
+
+														</table>
+
+													</div>
+
+												</td>
+
+											</tr>
+
+										</tbody></table>
+
+
+
+								</div>
+
+								</td>
+
+							</tr>
+
+						</tbody></table>
+
+				
+
+						
+
+						
+
+					
+
+						
+
+					
+
+							
+
+				
+
+							</td></tr>
+
+						</tbody></table>
+
+	
+
+
+
+</body></html>

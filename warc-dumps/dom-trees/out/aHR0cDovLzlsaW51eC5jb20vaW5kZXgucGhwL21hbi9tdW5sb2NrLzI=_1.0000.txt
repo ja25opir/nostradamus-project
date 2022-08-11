@@ -1,0 +1,210 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>munlock(2) - Linux在线手册</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Linux手册、Linux man、Linux在线手册、Linux教程、Linux manual、linux 命令手册、linux命令速查手册、linux 学习手册、linux指令速查手册、linux 函数手册、linux vi 手册、linux man 手册、linux c函数手册"> 
+<meta name="keywords" content="Linux手册、Linux在线手册、linux 命令手册、linux指令"><style type="text/css">
+<!--
+body {color:#000000;background-color:#FFFFFF;}
+b {color:#996600;background-color:#FFFFFF}
+u {color:#008000;background-color:#FFFFFF}
+//-->
+</style>
+<link rel="shortcut icon" href="http://www.9linux.com/favicon.ico"><link type="text/css" rel="stylesheet" href="http://www.9linux.com/static/css/base.css"><link type="text/css" rel="stylesheet" href="http://www.9linux.com/static/css/index.css"><link type="text/css" rel="stylesheet" href="http://www.9linux.com/static/css/white.css"><link type="text/css" rel="stylesheet" href="http://www.9linux.com/static/css/grid.css"> </head>
+<body>
+<div id="wrap">
+<div class="container">
+<div class="span-16">
+    <div class="span-16">
+        <div class="h10"></div>
+        <div class="fl"><a href="http://www.9linux.com/index.php"><img src="http://www.9linux.com/static/image/linux.jpg"></a></div>
+        <div class="fl f16 fb mt50 ml20">
+        Search Linux Documents Online
+        </div>
+        <div class="fl mt10 ml20">
+            <form action="/" method="get">
+        <input class="keyword" type="text" size="10" name="query" value="">
+      <input type="radio" name="mode" value="man" checked="checked">Manual
+        <input type="radio" name="mode" value="search">FullText &nbsp;<input type="submit" class="search" value="Search"><p></p>
+        </form>
+        </div>
+    </div>
+    <hr>
+    <div class="span-16 last"><br>
+    	<script type="text/javascript"><!--
+google_ad_client = "pub-9100621756575515";
+google_ad_slot = "6039118129";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><pre>MLOCK(2)                   Linux Programmer's Manual                  <a href="/index.php/man/MLOCK/2">MLOCK(2)</a>
+
+
+
+<b>NAME</b>
+       mlock, munlock, mlockall, munlockall - lock and unlock memory
+
+<b>SYNOPSIS</b>
+       <b>#include</b> <b>&lt;sys/mman.h&gt;</b>
+
+       <b>int</b> <b>mlock(const</b> <b>void</b> <b>*</b><u>addr</u><b>,</b> <b>size_t</b> <u>len</u><b>);</b>
+
+       <b>int</b> <b>munlock(const</b> <b>void</b> <b>*</b><u>addr</u><b>,</b> <b>size_t</b> <u>len</u><b>);</b>
+
+       <b>int</b> <b>mlockall(int</b> <u>flags</u><b>);</b>
+
+       <b>int</b> <b>munlockall(void);</b>
+
+<b>DESCRIPTION</b>
+       <b>mlock</b>()  and  <b>mlockall</b>() respectively lock part or all of the calling process's virtual address space
+       into RAM, preventing that memory from being paged to the swap area.  <b>munlock</b>() and <b>munlockall</b>()  per-
+       form  the  converse  operation,  respectively  unlocking part or all of the calling process's virtual
+       address space, so that pages in the specified virtual address range may once more to be  swapped  out
+       if  required  by  the  kernel memory manager.  Memory locking and unlocking are performed in units of
+       whole pages.
+
+   <b>mlock()</b> <b>and</b> <b>munlock()</b>
+       <b>mlock</b>() locks pages in the address range starting at <u>addr</u> and continuing for <u>len</u>  bytes.   All  pages
+       that contain a part of the specified address range are guaranteed to be resident in RAM when the call
+       returns successfully; the pages are guaranteed to stay in RAM until later unlocked.
+
+       <b>munlock</b>() unlocks pages in the address range starting at <u>addr</u> and continuing for  <u>len</u>  bytes.   After
+       this  call, all pages that contain a part of the specified memory range can be moved to external swap
+       space again by the kernel.
+
+   <b>mlockall()</b> <b>and</b> <b>munlockall()</b>
+       <b>mlockall</b>() locks all pages mapped into the address space of the calling process.  This  includes  the
+       pages  of  the  code,  data  and  stack segment, as well as shared libraries, user space kernel data,
+       shared memory, and memory-mapped files. All mapped pages are guaranteed to be resident  in  RAM  when
+       the call returns successfully; the pages are guaranteed to stay in RAM until later unlocked.
+
+       The <u>flags</u> argument is constructed as the bitwise OR of one or more of the following constants:
+
+       <b>MCL_CURRENT</b> Lock all pages which are currently mapped into the address space of the process.
+
+       <b>MCL_FUTURE</b>  Lock  all  pages  which  will  become mapped into the address space of the process in the
+                   future. These could be for instance new pages required by a growing  heap  and  stack  as
+                   well as new memory mapped files or shared memory regions.
+
+       If  <b>MCL_FUTURE</b>  has been specified, then a later system call (e.g., <a href="/index.php/man/mmap/2">mmap(2)</a>, <a href="/index.php/man/sbrk/2">sbrk(2)</a>, <a href="/index.php/man/malloc/3">malloc(3)</a>), may
+       fail if it would cause the number of locked bytes to exceed the permitted maximum  (see  below).   In
+       the  same  circumstances,  stack  growth  may likewise fail: the kernel will deny stack expansion and
+       deliver a <b>SIGSEGV</b> signal to the process.
+
+       <b>munlockall</b>() unlocks all pages mapped into the address space of the calling process.
+
+<b>NOTES</b>
+       Memory locking has two main applications: real-time algorithms  and  high-security  data  processing.
+       Real-time  applications require deterministic timing, and, like scheduling, paging is one major cause
+       of unexpected program execution delays. Real-time applications will usually also switch  to  a  real-
+       time  scheduler  with  <a href="/index.php/man/sched_setscheduler/2">sched_setscheduler(2)</a>.  Cryptographic security software often handles critical
+       bytes like passwords or secret keys as data structures. As a result of paging, these secrets could be
+       transferred  onto  a  persistent  swap store medium, where they might be accessible to the enemy long
+       after the security software has erased the secrets in RAM and terminated.  (But  be  aware  that  the
+       suspend  mode  on  laptops  and  some desktop computers will save a copy of the system's RAM to disk,
+       regardless of memory locks.)
+
+       Real-time processes that are using <b>mlockall</b>() to prevent delays on page faults should reserve  enough
+       locked  stack pages before entering the time-critical section, so that no page fault can be caused by
+       function calls.  This can be achieved by calling a function that allocates a sufficiently large auto-
+       matic  variable  (an  array)  and writes to the memory occupied by this array in order to touch these
+       stack pages.  This way, enough pages will be mapped for the stack and can be  locked  into  RAM.  The
+       dummy writes ensure that not even copy-on-write page faults can occur in the critical section.
+
+       Memory  locks  are  not  inherited  by  a  child  created  via  <a href="/index.php/man/fork/2">fork(2)</a> and are automatically removed
+       (unlocked) during an <a href="/index.php/man/execve/2">execve(2)</a> or when the process terminates.
+
+       The memory lock on an address range is automatically removed if the address  range  is  unmapped  via
+       <a href="/index.php/man/munmap/2">munmap(2)</a>.
+
+       Memory  locks  do  not stack, i.e., pages which have been locked several times by calls to <b>mlock</b>() or
+       <b>mlockall</b>() will be unlocked by a single call to <b>munlock</b>() for the corresponding range or by  <b>munlock-</b>
+       <b>all</b>().   Pages  which are mapped to several locations or by several processes stay locked into RAM as
+       long as they are locked at least at one location or by at least one process.
+
+<b>LINUX</b> <b>NOTES</b>
+       Under Linux, <b>mlock</b>() and <b>munlock</b>() automatically round <u>addr</u> down to the nearest page boundary.   How-
+       ever,  POSIX.1-2001 allows an implementation to require that <u>addr</u> is page aligned, so portable appli-
+       cations should ensure this.
+
+   <b>Limits</b> <b>and</b> <b>permissions</b>
+       In Linux 2.6.8 and earlier, a process must be privileged (<b>CAP_IPC_LOCK</b>) in order to lock  memory  and
+       the <b>RLIMIT_MEMLOCK</b> soft resource limit defines a limit on how much memory the process may lock.
+
+       Since  Linux  2.6.9,  no limits are placed on the amount of memory that a privileged process can lock
+       and the <b>RLIMIT_MEMLOCK</b> soft resource limit instead defines a limit on how much memory an unprivileged
+       process may lock.
+
+<b>RETURN</b> <b>VALUE</b>
+       On success these system calls return 0.  On error, -1 is returned, <u>errno</u> is set appropriately, and no
+       changes are made to any locks in the address space of the process.
+
+<b>ERRORS</b>
+       <b>ENOMEM</b> (Linux 2.6.9 and later) the caller had a non-zero  <b>RLIMIT_MEMLOCK</b>  soft  resource  limit,  but
+              tried to lock more memory than the limit permitted.  This limit is not enforced if the process
+              is privileged (<b>CAP_IPC_LOCK</b>).
+
+       <b>ENOMEM</b> (Linux 2.4 and earlier) the calling process tried to lock more than half of RAM.
+
+       <b>EPERM</b>  (Linux 2.6.9 and later) the caller was not privileged (<b>CAP_IPC_LOCK</b>)  and  its  <b>RLIMIT_MEMLOCK</b>
+              soft resource limit was 0.
+
+       <b>EPERM</b>  (Linux 2.6.8 and earlier) The calling process has insufficient privilege to call <b>munlockall</b>().
+              Under Linux the <b>CAP_IPC_LOCK</b> capability is required.
+
+       For <b>mlock</b>() and <b>munlock</b>():
+
+       <b>EINVAL</b> <u>len</u> was negative.
+
+       <b>EINVAL</b> (Not on Linux) <u>addr</u> was not a multiple of the page size.
+
+       <b>ENOMEM</b> Some of the specified address range does not correspond to mapped pages in the  address  space
+              of the process.
+
+       For <b>mlockall</b>():
+
+       <b>EINVAL</b> Unknown <u>flags</u> were specified.
+
+       For <b>munlockall</b>():
+
+       <b>EPERM</b>  (Linux 2.6.8 and earlier) The caller was not privileged (<b>CAP_IPC_LOCK</b>).
+
+<b>BUGS</b>
+       In  the  2.4  series Linux kernels up to and including 2.4.17, a bug caused the <b>mlockall</b>() <b>MCL_FUTURE</b>
+       flag to be inherited across a <a href="/index.php/man/fork/2">fork(2)</a>.  This was rectified in kernel 2.4.18.
+
+       Since kernel 2.6.9, if a privileged process calls <u>mlockall(MCL_FUTURE)</u>  and  later  drops  privileges
+       (loses  the  <b>CAP_IPC_LOCK</b> capability by, for example, setting its effective UID to a non-zero value),
+       then subsequent memory allocations (e.g., <a href="/index.php/man/mmap/2">mmap(2)</a>, <a href="/index.php/man/brk/2">brk(2)</a>) will fail if the  <b>RLIMIT_MEMLOCK</b>  resource
+       limit is encountered.
+
+<b>AVAILABILITY</b>
+       On  POSIX  systems  on  which <b>mlock</b>() and <b>munlock</b>() are available, <b>_POSIX_MEMLOCK_RANGE</b> is defined in
+       &lt;unistd.h&gt; and the number of bytes in a page  can  be  determined  from  the  constant  <b>PAGESIZE</b>  (if
+       defined) in &lt;limits.h&gt; or by calling <u>sysconf(_SC_PAGESIZE)</u>.
+
+       On  POSIX  systems  on  which <b>mlockall</b>() and <b>munlockall</b>() are available, <b>_POSIX_MEMLOCK</b> is defined in
+       &lt;unistd.h&gt; to a value greater than 0. (See also <a href="/index.php/man/sysconf/3">sysconf(3)</a>.)
+
+<b>CONFORMING</b> <b>TO</b>
+       POSIX.1-2001, SVr4
+
+<b>SEE</b> <b>ALSO</b>
+       <a href="/index.php/man/mmap/2">mmap(2)</a>, <a href="/index.php/man/shmctl/2">shmctl(2)</a>, <a href="/index.php/man/setrlimit/2">setrlimit(2)</a>, <a href="/index.php/man/sysconf/3">sysconf(3)</a>, <a href="/index.php/man/capabilities/7">capabilities(7)</a>
+
+
+
+Linux 2.6.15                      2006-02-04                          <a href="/index.php/man/MLOCK/2">MLOCK(2)</a>
+</pre></div></div></div> </div><div class="footer pt10 tc">
+ <div class="tc mt30">
+ 		
+ <span style="display:none"><a href="http://www.5ape.com/">APE音乐下载</a></span><a href="http://www.9linux.com/link.php" class="orange" target="_blank">[ 友情链接 ]</a>&nbsp;&nbsp;<a href="http://www.9linux.com/top100.php" class="orange" target="_blank">[ 查询排行 ]</a>&nbsp;&nbsp;<a href="RecentQuery.php" class="orange" target="_blank">[ 最近查询 ]:</a>&nbsp;&nbsp;<a href="http://www.9linux.com/munlock.html" class="orange">munlock</a>&nbsp;&nbsp;<a href="http://www.9linux.com/ipchains.html" class="orange">ipchains</a>&nbsp;&nbsp;<a href="http://www.9linux.com/ls.html" class="orange">ls</a>&nbsp;&nbsp;<a href="http://www.9linux.com/sched_get_priority_m.html" class="orange">sched_get_priority_m</a>&nbsp;&nbsp;<a href="http://www.9linux.com/passwd.html" class="orange">passwd</a>&nbsp;&nbsp;<a href="http://www.9linux.com/passwd.html" class="orange">passwd</a>&nbsp;&nbsp;<a href="http://www.9linux.com/getpriority.html" class="orange">getpriority</a>&nbsp;&nbsp;<a href="http://www.9linux.com/sched_setscheduler.html" class="orange">sched_setscheduler</a>&nbsp;&nbsp;<a href="http://www.9linux.com/munlockall.html" class="orange">munlockall</a>&nbsp;&nbsp;<a href="http://www.9linux.com/sched_get_priority_m.html" class="orange">sched_get_priority_m</a>&nbsp;&nbsp;</div>
+ <hr>
+ <span class="gray"><a href="mailto:webmaster@linuxv.com" class="gray">Contact Me(webmaster@linuxv.com)</a></span>
+ <span class="gray"> | </span>
+ <span class="gray">@2010 <a href="http://www.linuxv.com" class="gray">LinuxV.com</a></span>
+ <span class="gray"> | </span>
+ <span class="gray">闽ICP备09061363号</span>
+
+ </div><div style="display:none"><script src="http://s110.cnzz.com/stat.php?id=1963217&amp;web_id=1963217" language="JavaScript"></script><div></div></div></body></html>

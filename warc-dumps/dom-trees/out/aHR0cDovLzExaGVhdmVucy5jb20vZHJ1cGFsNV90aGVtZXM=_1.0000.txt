@@ -1,0 +1,575 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>Packt Publishing Drupal 5 Themes reviewed | 11 heavens</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="A first release candidate of Drupal 6 was made available on December 20, 2007, that is, two days prior to the publication of this theming guide... which covers Drupal 5! Drupal 6.1 has since been released, and many of Drupal’s most popular add-on">
+<meta name="keywords" content="book,CSS,Drupal,Packt,PHP,review,Ric Shreves,theming">
+<link rel="shortcut icon" href="/files/faviconLarge.png" type="image/png">
+    <style type="text/css" media="all">@import "/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/codefilter/codefilter.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/geshifilter/geshifilter.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/logintoboggan/logintoboggan.css";</style>
+<style type="text/css" media="all">@import "/modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "/themes/garland/style.css";</style>
+    <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/compat.js"></script>
+<script type="text/javascript" src="/misc/textarea.js"></script>
+<script type="text/javascript" src="/sites/all/modules/dhtml_menu/dhtml_menu.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "dhtmlMenu": { "useEffects": [ 1, 1 ] }, "googleanalytics": { "trackDownload": "pdf|zip|mp3", "LegacyVersion": 1 } } });</script>
+<script type="text/javascript">
+  // Global Killswitch
+  if (Drupal.jsEnabled) {
+    $(document).ready(function() {
+      $("#toboggan-login").hide();
+      $("#toboggan-login-link").click(function() {
+        $(this).parent().next().slideToggle();
+        this.blur();
+        return false;
+      });
+    });
+  }</script>
+<script type="text/javascript">
+  $(function(){
+    $("span#get-inspiration-arrow").fadeIn();
+});</script>
+    <style type="text/css" media="print">@import "/themes/garland/print.css";</style>
+    <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/themes/garland/fix-ie.css";</style>
+    <script type="text/javascript" src="/themes/garland/jquerypngfix.js"></script>
+    <script type="text/javascript">
+    jQuery(function() {
+      jQuery('.feed-icon img').pngfix();
+    });
+    </script>
+    <![endif]-->
+		<!--[if lte IE 7]>
+    <style type="text/css" media="all">@import "/themes/garland/fix-ie-7.css";</style>
+    <![endif]-->
+    <meta name="verify-v1" content="AARsoRJljV6cItou6/H5fPQUgeOlf7EavwHLSk/MSg4=">
+  </head>
+  <body class="sidebars node-page">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"><div id="block-node-0" class="clear-block block block-node">
+
+  <h2>Syndicate</h2>
+
+  <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/themes/garland/images/rss_feed.png" alt="Feed" title="Feed" width="128" height="128"></a></div>
+</div>
+</div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <div><a href="/" title=""><img src="/files/garland_logo.gif" alt="" id="logo"><span></span></a></div>        </div>
+
+                  <ul class="links primary-links"><li class="first menu-1-1-2"><a href="/donate" title="Donate to 11 heavens" class="menu-1-1-2">Donate</a></li>
+<li class="menu-1-2-2"><a href="/contact" title="Link to my contact form" class="menu-1-2-2">Contact me</a></li>
+<li class="menu-1-3-2"><a href="/me" title="About me" class="menu-1-3-2">About me</a></li>
+<li class="last menu-1-4-2"><a href="/mission" class="menu-1-4-2">What for</a></li>
+</ul>                
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-user-0" class="clear-block block block-user">
+
+
+  <div class="content"><form action="/drupal5_themes?destination=node%2F299" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div id="toboggan-container" class="toboggan-container"><div class="toboggan-login-link"><a href="/user/login" id="toboggan-login-link">Log in / Sign up</a></div><div id="toboggan-login" style="display:none;" class="user-login-block"><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" tabindex="1" class="form-text required">
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" tabindex="2" class="form-text required">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" tabindex="3" class="form-submit">
+<div class="item-list"><ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+</div></div>
+</div></form>
+</div>
+</div>
+<div id="block-block-7" class="clear-block block block-block">
+
+
+  <div class="content"><a href="/blog/1" title="My inner life in its gory details."><img style="border:1px black solid;" src="/files/blog.jpg" alt="Click here to access my web log"></a></div>
+</div>
+<div id="block-menu-118" class="clear-block block block-menu">
+
+  <h2>Inspire project</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="/node/add/inspire" title="generate an inspire card">get inspiration</a></li>
+<li class="leaf"><a href="/inspire/cards/view/all">view all inspire cards</a></li>
+<li class="leaf"><a href="/inspire/about">about the inspire project</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-dhtml_menu-27" class="clear-block block block-dhtml_menu">
+
+  <h2>What you can do</h2>
+
+  <div class="content">
+<ul class="menu dhtml_menu menu-root">
+  <li class="leaf"><a href="/node/add">create content</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-dhtml_menu-1" class="clear-block block block-dhtml_menu">
+
+  <h2>Navigation</h2>
+
+  <div class="content">
+<ul class="menu dhtml_menu menu-root">
+  <li class="leaf"><a href="/popular/alltime">all-time popular content</a></li>
+  <li class="leaf"><a href="/donations">Donations</a></li>
+  <li class="leaf"><a href="/download_counter">Download counter</a></li>
+  <li class="leaf"><a href="/tracker">Recent posts</a></li>
+  <li class="leaf"><a href="/inspire/cards/view/0">view my inspire cards</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-views-popular_alltime_block" class="clear-block block block-views">
+
+  <h2>Most popular stuff</h2>
+
+  <div class="content"><div class="view view-popular-alltime-block"><div class="view-content view-content-popular-alltime-block"><table>
+ <thead><tr><th class="view-cell-header view-field-node-title">Title</th><th sort="desc" class="view-cell-header view-field-node-counter-totalcount">Hits</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/theming-the-contact-form-in-Drupal-6">Theming the contact form in Drupal 6</a></td><td class="view-field view-field-node-counter-totalcount">75662</td> </tr>
+ <tr class="even"><td class="view-field view-field-node-title"><a href="/files-in-Drupal">File download in Drupal</a></td><td class="view-field view-field-node-counter-totalcount">64615</td> </tr>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/true-or-false-in-php">True or false in php</a></td><td class="view-field view-field-node-counter-totalcount">59690</td> </tr>
+ <tr class="even"><td class="view-field view-field-node-title"><a href="/theming-Drupal">New Drupal theming ebook</a></td><td class="view-field view-field-node-counter-totalcount">55981</td> </tr>
+</tbody>
+</table>
+</div><div class="view-footer view-footer-popular-alltime-block">[<a href="/popular/alltime">more popular titles</a>]</div>
+</div>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="/">Home</a></div>                                        <h1>Packt Publishing Drupal 5 Themes reviewed</h1>          
+          
+                              
+<div id="node-299" class="node">
+
+
+
+      <span class="submitted">Thursday, 13 Mar 2008 — Caroline Schnapp</span>
+  
+  <div class="content">
+    <p>A first release candidate of Drupal 6 was made available on December 20, 2007, that is, two days prior to the publication of this theming guide... which covers Drupal 5! Drupal 6.1 has since been released, and many of Drupal’s most popular add-on modules are now ready for use on production web sites. The author mentioned on his <a href="http://ricshreves.net/?q=node/33" title="Ric Shreves's blog">blog</a> that an updated version of his book will be published, but Packt Publishing is not yet listing 'Drupal 6 Themes' among its <a href="http://www.packtpub.com/drupal-books" title="Packt Drupal publications">upcoming publications</a>. Still, I read the book, <em>and</em> worked through its examples on a Drupal&nbsp;6 install. As a somewhat seasoned Drupal developer, I still found the book helpful. I recommend it, <strong>provided that</strong>, as you read along, you refer yourself to the concise (and well-put-together) <a href="http://drupal.org/node/171179" title="Theme guide (Drupal 6)">Drupal 6 theming guide</a> available on Drupal.org. Theming has definitely taken a leap forward in D6. For instance, intercepting and overriding theming functions is a lot easier now.</p>
+<div class="overflow-hidden">
+<p class="drop-shadow"><img src="http://11heavens.com/files/drupal5_themes_cover.jpg" alt="I bookmarked quite a few pages in the book Drupal 5 Themes." title="I bookmarked quite a few pages in the book Drupal 5 Themes."></p>
+</div>
+<p style="clear:both"></p>
+
+<br>
+<h2>What this book covers</h2>
+<p>Chapter 1 ("The Elements of a Drupal Theme") presents the theming terminology used in Drupal —  and that stuff hasn’t changed in Drupal 6.</p>
+<p>Chapter 2 explains how to set up and configure a theme in Drupal in the admin interface. By way of example, we download the theme 'Gagarin' from Drupal.org and install it. We also configure 'Garland', which still is the default theme shipped with Drupal. Surprisingly, I learned quite a handful of tricks in this chapter. All of it is applicable to Drupal 6; even the neat PHP snippets used for the content &amp; visibility of custom 'blocks' work as is. For fun, I ported the Gagarin theme to Drupal 6 in less than 10 minutes, using a <a href="http://wtanaka.com/drupal/convert-theme-6" title="Converting a Drupal 5.x theme to 6.x">porting guide</a> put together by Wesley Tanaka. Your milage may vary (you may do it faster than I).</p>
+<p>Chapter 3 explains how the PHPTemplate 'engine' works. Wordy as this chapter is, the definition of a theming engine remains... somewhat ambiguous. But the rest of the book will clear that out. You may <a href="http://www.packtpub.com/drupal-5-themes/book#indetail" title="Download link to sample chapter of Drupal 5 Themes">download</a> this chapter from the publisher’s web site. Take note that the default PHPTemplate 'template' files have been moved to their respective core module folder in Drupal 6. For example, you’ll find the default page.tpl.php file under /modules/system, and node.tpl.php under modules/node.</p>
+<p>Chapter 4 is a reference guide to stylesheets and themable (ie: overridable) functions. Only a brief description (ie: one sentence) is provided for each function. The author gives us a snippet of PHP code that produces a list of the theming functions used on the page, but it’s somewhat useless because with it we don’t know which function produces what markup. In Drupal 6, a neat &amp; sexy add-on module, 'Theme developer', part of the <a href="http://drupal.org/project/devel">'Devel'</a> kit of modules, tells us which function to override — and so much more: using Firebug-style point-and-click, we can select the DOM element we wish to theme, and we learn how to do so (that is, which theming function to intercept &amp; override) by reading a tooltip. See the <a href="http://drupal.org/node/209561">screenshot and screencast</a>.</p>
+<p>Chapter 5 presents different ways to intercept &amp; override themable functions. In Drupal 6, one of these ways has been simplified, that of "placing overrides in dedicated [template] files" for which no default file exists. One needs to tell the theming engine about the presence of the template file by way of a preprocess function, setting either $vars['template_file'] or $vars['template_files']. In the instance where we want <em>additional</em> variables to become available inside the template, we use that same preprocess function, ie: <a href="http://drupal.org/node/223430"><em>engineName</em>_preprocess_<em>hook</em></a>.</p>
+<p>In Drupal 6, adding stylesheets (besides the default style.css) is as easy as adding a few lines to a <a href="http://drupal.org/node/171205">new *.info file</a> for the theme. Same with creating new regions on the page: the <em>themeName</em>.info file takes care of that. One needs not add any PHP code to template.php.</p>
+<p>In chapter 6, we modify a theme, 'Zen'. Be warned: even the Drupal 5 version of this theme has undergone significant change between the time that chapter was written and the publication of the book. </p>
+<p>In chapter 7, we learn how to create a theme from scratch —  and so much more (this chapter definitely should have been broken down). We’re finally presented with a list of the variables available in each template file. In Drupal 6, many variables have been renamed (for example, <code><span class="highlight">$sidebar_left</span></code> has become… <code><span class="highlight">$left</span></code>), and new handy ones have been created which are available in all templates, for exampe <code><span class="highlight">$logged_in</span></code> and <code><span class="highlight">$is_admin</span></code>. Note that we should use the new D6 variable <code><span class="highlight">$body_classes</span></code> to apply dynamic CSS styling, instead of the ol’ <code><span class="highlight">$layout</span></code> (still available).</p>
+<p>In chapter 8, we learn how to theme forms. I had to do some research to find how to apply the author’s solutions within Drupal 6. Some change is trivial, for example the handy hook_ form_alter function has different parameters passed to it in D6, the function’s signature has changed...</p>
+<p>From that in D5 : <code><span class="highlight">function formmod_form_alter($form_id, &amp;$form){</span></code></p>
+<p>To this in D6 : <code><span class="highlight">function formmod_form_alter(&amp;$form, $form_state, $form_id){</span></code></p>
+<p>In D6, some form-theming solutions are easier to implement... or more difficult: I still haven’t figured how to use images for the forms submit button. However, to achieve this, imo, a CSS solution is preferred in both Drupal 5 <em>and</em> 6. No need to change the markup. (Use the CSS property background-image in other words, and 'indent' the submit button text far-far to the left.)</p>
+<br>
+<h2>What this book does not cover, though I wish it did</h2>
+<ul class="square">
+<li>How to use jquery, the wondrous javascript library shipped with Drupal (there is no mention of it, really).</li>
+<li>How to create a theme with a configurable color scheme, using the Color Module. A simple tutorial where we create a theme for which we can change the color of the header and links through the 'setttings' UI would have been awesome. By the way, it was brought to my attention that a <a href="http://drupal.org/node/197243" title="GHOP #16: Make the " bluemarine" theme in drupal core recolorable">patch</a> is available to make the theme 'Bluemarine' (shipped with Drupal 6) colorable. </li>
+<li>Related to the last point, we’re not shown how to modify the theme’s settings page — to add to it, for example.</li>
+<li>How to theme Views pages, and nodes created with the Content Construction Kit (CCK). Although it becomes easy to figure it out. To theme a view, we need to know the 'internal path' of the view, and create a template file for it. For example, if the internal path is 'view/comments', then the template file to drop in our theme folder would be page-view-comments.tpl.php. (By the way, the explanation for the order of precedence among template files, ie: the working of the variable <code><span class="highlight">$suggestions</span></code>, has moved to /includes/theme.inc. in Drupal 6.) When it comes to theming a node with a particular node type, we need to know the machine-readable name of the content type. Hence, to theme nodes created with CCK that are of the type 'news', we drop a template with name node-news.tpl.php in our theme folder.</li>
+<li>How to commit a theme to Drupal.org CVS (using a freeware utility like TortoiseCVS, for example).</li>
+</ul>
+<p>This book is particulary successful at breaking down information into bits and steps. It is extremely well-written, quite technical and in-depth, and provides a handful of screen captures in most places. Lists of To-Do’s, in the form of "client’s requirements", make it all the more fun to work through the longer exercises. Finally, we can theme it _all_ in Drupal, and the author drives that point home.</p>
+<br>
+<h2>Where the book falls somewhat short in its delivery</h2>
+<ul class="square">
+<li>Although the author comes from a "design background" (so it says in the book’s preface), he fails to inspire. The theme created from scratch is particularly unappealing. Check it out:</li>
+<div class="overflow-hidden">
+<p class="drop-shadow"><img src="/files/drupal5_themes_bluemarine.jpg" alt="Bluewater, a theme created from scratch" title="Bluewater, a theme created from scratch"></p>
+</div>
+<p style="clear:both"></p>
+<li><p>When it comes to designing Drupal themes, in chapters 6 and 7, we’re faced with basically copying and pasting CSS rules scattered throughout a set of *.txt source files (that you can <a href="http://www.packtpub.com/drupal-5-themes/book#indetail">download</a> from the publisher’s web site) into one stylesheet, ie: style.css.</p></li>
+</ul>
+<p>Although, to be fair, this is not a book on CSS, nor web design...</p>  </div>
+  
+    
+    <div class="last-edit clear-block">
+      <small>Last edited by Caroline Schnapp about 1 year ago.</small>
+    </div>
+  
+  <div class="clear-block clear">
+    <div class="meta">
+    
+      
+          <div class="terms"><div class="links inline"><a href="/taxonomy/term/229" rel="tag" title="" class="taxonomy_term_229">book</a>  |  <a href="/taxonomy/term/98" rel="tag" title="" class="taxonomy_term_98">CSS</a>  |  <a href="/drupal" rel="tag" title="" class="taxonomy_term_68">Drupal</a>  |  <a href="/taxonomy/term/231" rel="tag" title="" class="taxonomy_term_231">Packt</a>  |  <a href="/taxonomy/term/10" rel="tag" title="" class="taxonomy_term_10">PHP</a>  |  <a href="/taxonomy/term/228" rel="tag" title="" class="taxonomy_term_228">review</a>  |  <a href="/taxonomy/term/230" rel="tag" title="" class="taxonomy_term_230">Ric Shreves</a>  |  <a href="/taxonomy/term/170" rel="tag" title="" class="taxonomy_term_170">theming</a></div></div><br>
+        </div>
+
+          <div class="links"><div class="links inline"><span class="statistics_counter">6093 reads</span></div></div>
+        
+    
+  </div>
+
+</div><div id="comments"><h2 class="comments">Comments</h2><a id="comment-3428"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Fri, 2008-03-14 09:50 — lync</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3428" class="active">Very detailed review.</a></h3>
+
+    <div class="content">
+      <p>Very detailed review. Thanks.</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3428" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-3429"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">Sat, 2008-03-15 09:28 — andrewfn</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3429" class="active">Very helpful review</a></h3>
+
+    <div class="content">
+      <p>I have read a number of reviews of this book, but yours is easily the most helpful. I like the way that you have inserted lots of links to other sources of information (especially re Drupal 6). I will actually bookmark this review just for this collection of links. I think one thing you have highlighted is that there is lots of room for more to be written on Drupal themeing.<br>
+Thanks!</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3429" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-3470"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Tue, 2008-03-25 23:58 — mr_dimsum</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3470" class="active">My thoughts on the book</a></h3>
+
+    <div class="content">
+      <p>I just bought this book and didn't find it that useful. Granted it has given me a more clearer vision on how theming in Drupal works, I find that it falls half flat since it does not cover Views/CCK/Panels.</p>
+<p>Just 2 weeks ago, I gave Drupal another shot after couple of years running DotNetNuke. I'd have to say that with a very vague knowledge of PHP, I was overwhelmed by the CMS.. Literally spent days on end going through the guides on the Drupal site itself, and the end result was that it really didn't bring me up to speed with everything. Hence, the search for books.</p>
+<p>The one thing I find with learning is, that books provide a progressive way of learning that supercedes many resources online. With this sentiment, I took my time and subscribed to Peachpit Safari and bought the "PHP6 &amp; MySQL5" book from Larry Ullman and a couple others and ultimately read over about 800+ pages of his books to grasp PHP a bit better. After this, I purchased Drupal 5 themes and finally understand theme function overrides! I had some huge troubles going through the Zen part of the book and was disappointed it hadn't used one of the newer revisions of the theme, but oh well. I've yet to go any further in the book, but can foresee myself disappointed in the fact that, as mentioned above, Views/CCK/Panels was not discussed at all. If anything, they are assets to theming and should not be left out.</p>
+<p>I'm grateful at least it has given me some slight perspective on the in's and out's of Drupal and the foundation that governs the entire system though.. Without it, all the documentation on the Drupal site would be utterly useless for me. Even now, I'm still flabbergasted by many of the doc's on it. While I don't have a programming background, I've done my rounds with PHP and as an independent designer and also previously from school.</p>
+<p>My conclusion is that the book just left me bitter. I will definitely go about finishing it up, but I suppose I was expecting more.. Much more. These pail in comparison to the quality of the Visual QuickPro Guides published by Peachpit Press. I just wish they'd go about covering Drupal someday now..</p>
+<p>Will post back with results on my success.</p>
+<p>P.S. Might I add you have TONS of amazing documentation on this site.</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3470" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-3510"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">Tue, 2008-04-01 11:36 — <a href="http://projects2.apc.edu.ph/~mncaballero/drupal53/">Marc Robinsone</a> (not verified)</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3510" class="active">Wonderful review!</a></h3>
+
+    <div class="content">
+      <p>This is one of the most thoughtful book reviews I've ever read in my entire life.</p>
+<p>Thanks for sharing your insights!</p>
+<p>I do have my own review which can be found <a href="http://projects2.apc.edu.ph/~mncaballero/drupal53/?q=drupal-5-themes-book-personal-review" rel="nofollow">here</a>.</p>
+<p>Happy Theming!</p>
+<p>Marc Robinsone</p>
+<p><cite>p.s. I wish Micheal C. Hall is a Drupal themer</cite></p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3510" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-3511"></a>
+<div class="comment author odd">
+
+  <div class="clear-block">
+      <span class="submitted">Wed, 2008-04-02 12:39 — Caroline Schnapp</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3511" class="active">ah ah ah</a></h3>
+
+    <div class="content">
+      <blockquote><p>p.s. I wish Micheal C. Hall is a Drupal themer</p></blockquote>
+<p>Me toooo.</p>
+<p>Thank you for posting a link to your review. I had not come across it yet. I encourage everyone who reads *this* to go read Marc's <a href="http://projects2.apc.edu.ph/~mncaballero/drupal53/?q=drupal-5-themes-book-personal-review" rel="nofollow">review</a>. By the way I agree with everything you say there... it makes me want to modify my own review, to add to it...</p>
+<p>Have a splendid day, Marc!</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3511" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-3538"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">Wed, 2008-04-09 02:41 — <a href="http://projects2.apc.edu.ph/~mncaballero/drupal53">Marc Robinsone</a> (not verified)</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3538" class="active">Dexter?</a></h3>
+
+    <div class="content">
+      <p>I hope to read more reviews from you in the future!</p>
+<p>I'm waiting for Packt Pub's next <a href="http://www.packtpub.com/drupal-6-create-powerful-websites/book" rel="nofollow">Drupal 6 book</a> to arrive at the my doorstep.</p>
+<p>A splendid day to you too!</p>
+<p>Hoping to get a peer review,</p>
+<p>Marc</p>
+<p><cite>p.s. If Mr. Hall sees this post I'll run and hide!</cite></p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3538" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-3542"></a>
+<div class="comment author odd">
+
+  <div class="clear-block">
+      <span class="submitted">Wed, 2008-04-09 13:42 — Caroline Schnapp</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-3542" class="active">Dexter</a></h3>
+
+    <div class="content">
+      <blockquote><p>I'm waiting for Packt Pub's next Drupal 6 book to arrive at the my doorstep.</p></blockquote>
+<p>Me too. :-)</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/3542" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+</div></div></div><a id="comment-4777"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">Tue, 2009-07-28 02:19 — <a href="http://lehtitarjous.info">lehtitarjous</a> (not verified)</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-4777" class="active">Review</a></h3>
+
+    <div class="content">
+      <p>Very detailed and well tought review of this book. Thanks for porting this good info here.</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/4777" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-4798"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Sun, 2009-08-02 13:21 — <a href="http://michaeldemarco.com/">Michael</a> (not verified)</span>
+  
+  
+  
+    <h3><a href="/drupal5_themes#comment-4798" class="active">I had a tough time learning</a></h3>
+
+    <div class="content">
+      <p>I had a tough time learning Drupal when I first started using it, especially after using an extremely simple CMS like wordpress where you could just go find a theme you wanted without understanding much code.  I ended up buying this book and it made a HUGE difference in my level of understanding.  I'm still not a Drupal pro, but I'm certainly much better than where I started.</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/299/4798" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<div class="box">
+
+  <h2>Post new comment</h2>
+
+  <div class="content"><form action="/comment/reply/299" accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="form-item">
+ <label for="edit-name">Your name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="Fly by night" class="form-text required">
+</div>
+<div class="form-item">
+ <label for="edit-mail">E-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text required">
+ <div class="description">The content of this field is kept private and will not be shown publicly.</div>
+</div>
+<div class="form-item">
+ <label for="edit-homepage">Homepage: </label>
+ <input type="text" maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text">
+</div>
+<div class="form-item">
+ <label for="edit-subject">Subject: </label>
+ <input type="text" maxlength="64" name="subject" id="edit-subject" size="60" value="" class="form-text">
+</div>
+<div class="form-item">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment" class="form-textarea resizable required"></textarea>
+</div>
+<ul class="tips"><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Allowed HTML tags: &lt;css&gt; &lt;html&gt; &lt;javascript&gt; &lt;mysql&gt; &lt;php&gt; &lt;span&gt; &lt;a&gt; &lt;b&gt; &lt;i&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;sup&gt; &lt;sub&gt; &lt;dd&gt; &lt;del&gt; &lt;blockquote&gt; &lt;img&gt; &lt;q&gt; &lt;p&gt; &lt;div&gt;</li><li>Lines and paragraphs break automatically.</li><li>You can enable syntax highlighting of source code with the following tags: <code>&lt;css&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;javascript&gt;</code>, <code>&lt;mysql&gt;</code>, <code>&lt;php&gt;</code>, <code>&lt;rails&gt;</code>, <code>&lt;ruby&gt;</code>.</li></ul><p><a href="/filter/tips">More information about formatting options</a></p><input type="hidden" name="form_id" id="edit-comment-form" value="comment_form">
+<div class="form-item">
+ <label class="option"><input type="checkbox" name="commentsubscribenode" id="edit-commentsubscribenode" value="1" checked="checked" class="form-checkbox"> Email me about all replies to this article.</label>
+</div>
+<fieldset class="captcha"><legend>CAPTCHA</legend><div class="description">I have to wonder if you're a human spammer or a machine, or less likely someone who cares to leave his or her thoughts behind.</div><div class="form-item">
+ <label for="edit-captcha-response">What is the third word in the phrase "owaxi gexe fine azifa urugav"?: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="captcha_response" id="edit-captcha-response" size="60" value="" class="form-text required">
+</div>
+<input type="hidden" name="captcha_token" id="edit-captcha-token" value="9a84dc6e3e94632a8d3d52f8eb8e9acd">
+</fieldset>
+<input type="submit" name="op" id="edit-preview" value="Preview comment" class="form-submit">
+
+</div></form>
+</div>
+</div>
+</div>          <span class="clear"></span>
+                    <div id="footer">All rights reserved © 2006-2010. This means that no part of this web site (text, images or files attachments) may be reproduced, or transmitted in any form or by any means, electronic or mechanical, including photocopying, or by any information storage or retrieval system, without the prior written permission of the copyright owner. You may contact any of the copyright owners of 11heavens.com through their contact form by clicking on their name, when you are logged in. Exceptions to the aforementioned rule are small quotes (less than a 100 words) when credit is given, with or without a hyperlink to the original source, that is, the url of the web page from where that small quote is taken. No animals were hurt in the making of this web site.
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-block-10" class="clear-block block block-block">
+
+
+  <div class="content"><style type="text/css">
+/* <![CDATA[ */
+a.get-inspiration {
+display:block;
+width:202px;
+height:58px;
+position:relative;
+outline:none;
+}
+a.get-inspiration:link {
+background: #ffffff url(/files/get_inspiration.gif) center bottom repeat-x;
+}
+a.get-inspiration:visited {
+background: #ffffff url(/files/get_inspiration.gif) center bottom repeat-x;
+}
+a.get-inspiration:hover {
+background: #ffffff url(/files/get_inspiration.gif) center top repeat-x;
+}
+a.get-inspiration:active {
+background: #ffffff url(/files/get_inspiration.gif) center top repeat-x;
+}
+span#get-inspiration-arrow {
+display:block;
+width:305px;
+height:262px;
+position:absolute;
+left:-305px;
+top:25px;
+z-index:0;
+background: transparent url(/files/get_inspiration_arrow.gif) center center no-repeat;
+}
+/* ]]> */
+</style>
+<a class="get-inspiration" href="/node/add/inspire" title="Get some inspiration">
+</a>
+ 
+
+
+</div>
+</div>
+<div id="block-search-0" class="clear-block block block-search">
+
+  <h2>Search</h2>
+
+  <div class="content"><form action="/drupal5_themes" accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_block_form_keys" id="edit-search-block-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
+</div>
+</div></form>
+</div>
+</div>
+<div id="block-menu-120" class="clear-block block block-menu">
+
+  <h2>Tutorials</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="/taxonomy/term/37" title="Flash and Actionscript">Actionscript</a></li>
+<li class="leaf"><a href="/taxonomy/term/39%2B98" title="CSS and XHTML">CSS</a></li>
+<li class="leaf"><a href="/drupal" title="Drupal stuff">Drupal</a></li>
+<li class="leaf"><a href="/javascript" title="JavaScript, DOM scripting and jQuery">JavaScript</a></li>
+<li class="leaf"><a href="/taxonomy/term/10%2B69" title="PHP and MySQL">PHP and MySQL</a></li>
+<li class="leaf"><a href="/shopify" title="Shopify and Liquid-related tutorials">Shopify</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-views-comments_recent" class="clear-block block block-views">
+
+  <h2>Latest talk <em>on</em> and <em>by</em></h2>
+
+  <div class="content"><div class="view view-comments-recent"><div class="view-content view-content-comments-recent"><div class="item-list"><ul><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/theming-the-register-form-in-Drupal-6#comment-5917">doing this is module form with specific form alter</a></div><div class="view-field view-data-node-title"><a href="/theming-the-register-form-in-Drupal-6">Theming the register form in Drupal 6</a> </div><div class="view-field view-data-comments-name">doublejosh (not verified)</div><div class="view-field view-data-comments-timestamp"><em>3 days 3 hours</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/true-or-false-in-php#comment-5916">EASIEST WAY TO REMEMBER IT FOR LIFE! -- NAME SPACE</a></div><div class="view-field view-data-node-title"><a href="/true-or-false-in-php">True or false in php</a> </div><div class="view-field view-data-comments-name">Cory (not verified)</div><div class="view-field view-data-comments-timestamp"><em>3 days 20 hours</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/putting-some-order-in-your-terms#comment-5879">Hide certain tags?</a></div><div class="view-field view-data-node-title"><a href="/putting-some-order-in-your-terms">Putting some order in your terms</a> </div><div class="view-field view-data-comments-name">Matt (not verified)</div><div class="view-field view-data-comments-timestamp"><em>2 weeks 4 days</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/quick-edit-and-delete-links-for-the-Administrator#comment-5863">Great tutorial</a></div><div class="view-field view-data-node-title"><a href="/quick-edit-and-delete-links-for-the-Administrator">Quick edit and delete links for the Administrator</a> </div><div class="view-field view-data-comments-name">Stephan Planken (not verified)</div><div class="view-field view-data-comments-timestamp"><em>3 weeks 3 days</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/theming-Drupal-6-from-the-module-layer#comment-5855">Got it</a></div><div class="view-field view-data-node-title"><a href="/theming-Drupal-6-from-the-module-layer">Theming Drupal 6 from the module layer</a> </div><div class="view-field view-data-comments-name">Reid (not verified)</div><div class="view-field view-data-comments-timestamp"><em>4 weeks 1 day</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/theming-the-register-form-in-Drupal-6#comment-5844">If drupal doc was like that</a></div><div class="view-field view-data-node-title"><a href="/theming-the-register-form-in-Drupal-6">Theming the register form in Drupal 6</a> </div><div class="view-field view-data-comments-name">Christophe (not verified)</div><div class="view-field view-data-comments-timestamp"><em>4 weeks 5 days</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/adding-last-edited-by-name-some-time-ago-info-to-node#comment-5833">If you want to hear a</a></div><div class="view-field view-data-node-title"><a href="/adding-last-edited-by-name-some-time-ago-info-to-node">Adding 'Last edited by name some time ago' information</a> </div><div class="view-field view-data-comments-name">Google (not verified)</div><div class="view-field view-data-comments-timestamp"><em>5 weeks 16 hours</em> ago</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/quick-edit-and-delete-links-for-the-Administrator#comment-5818">Thank you for providing the</a></div><div class="view-field view-data-node-title"><a href="/quick-edit-and-delete-links-for-the-Administrator">Quick edit and delete links for the Administrator</a> </div><div class="view-field view-data-comments-name">Fly By Night (not verified)</div><div class="view-field view-data-comments-timestamp"><em>6 weeks 1 day</em> ago</div></div>
+</li></ul></div></div><div class="view-footer view-footer-comments-recent">[<a href="/view/comments" title="All recent comments">more comments</a>]</div>
+</div>
+</div>
+</div>
+<div id="block-block-4" class="clear-block block block-block">
+
+
+  <div class="content"><a href="/dom-scripting-book" title="DOM scripting book"><img style="border:1px black solid;" src="/files/global_warming_sale.jpg" alt="Global warming sale event"></a></div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">_uacct = "UA-2028758-1";urchinTracker();</script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/downloadtracker.js"></script>
+  
+
+</body></html>

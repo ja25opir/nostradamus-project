@@ -1,0 +1,189 @@
+<html><!-- Created with the CoffeeCup HTML Editor++ --><!--     http://www.coffeecup.com/editor      --><head>
+<title>USLFans.com -- For the Fans, By the Fans</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="uslfans.com -- For the Fans, By the Fans">
+<meta name="keywords" content="USL, A-League, Soccer, Opinion, Futbol, Commentary">
+<link rel="stylesheet" href="/styles_new.css" type="text/css">
+<link rel="stylesheet" href="../usldiscussions/ubbthreads/admin/cp_style.css">
+<style>
+body {
+scrollbar-face-color: #D3D6DE;
+scrollbar-shadow-color: #435C79; 
+scrollbar-highlight-color: #EAEAEA;
+scrollbar-3dlight-color: #435C79; 
+scrollbar-darkshadow-color: #435C79;
+scrollbar-track-color: #C5C5CA; 
+scrollbar-arrow-color: #435C79;
+}
+-->
+</style></head>
+
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#FF0000" alink="#FF0800" marginheight="0" marginwidth="1" topmargin="0" leftmargin="1" rightmargin="1">
+
+<table width="850" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td bgcolor="#FFFFFF" height="20" valign="center" align="left" width="170" nowrap>&nbsp;&nbsp;<a href="http://www.uslfans.com/" border="0"><img src="/graphics/uslfans_150x14.jpg" border="0"></a>&nbsp;&nbsp;</td>
+    <td bgcolor="#000066" class="smallhead" height="20" valign="center" align="right" width="680">
+      &nbsp;&nbsp;<a href="http://www.uslsoccer.com/" target="_top"><font color="#ffb200">USLSoccer.com</font></a>
+      &nbsp;&nbsp;<font color="#ffffff">::</font>
+      &nbsp;&nbsp;<a href="http://www.usldiscussions.com/" target="_top"><font color="#ffb200">USLDiscussions.com</font></a>
+      &nbsp;&nbsp;<font color="#ffffff">::</font>
+	  &nbsp;&nbsp;<a href="http://www.nasl.com/" target="_top"><font color="#ffb200">NASL.com</font></a>&nbsp;&nbsp;<font color="#ffffff">::</font>
+	  &nbsp;&nbsp;<a href="http://www.thecup.us/" target="_top"><font color="#ffb200">TheCup.us</font></a>
+      &nbsp;&nbsp;
+      &nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr bgcolor="#ccccdd">
+    <td colspan="2">
+	  <table>
+	    <tbody><tr>
+		  <td height="20" valign="center" align="center" width="170" nowrap class="vsmallhead"><font color="af0000">For the Fans, By the Fans</font></td>
+
+		  <td height="20" valign="center" align="center" width="510" class="vsmallhead">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+	  <script language="JavaScript" type="text/javascript">
+      // Array of day names
+      var dayNames = new Array ("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday",                       "Saturday");
+      // Array of month Names
+      var monthNames = new Array ("January","February","March","April","May","June", "July","August","September","October","November","December");
+      var now = new Date();
+      document.write(dayNames[now.getDay()] + ", " + monthNames[now.getMonth()] + " " +                          now.getDate() + ", " + " " + now.getFullYear());
+      </script>
+		  </td>
+	  
+		  <td height="20" valign="center" align="right" width="170" nowrap class="vsmallhead"><a href="/archive_index.shtml"><font color="af0000">Site Archive</font></a>&nbsp;&nbsp;</td>
+
+        </tr>
+	  </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="smallhead" bgcolor="#ccccdd" align="center">
+	  <a href="/features.shtml">Features</a>&nbsp;:&nbsp;
+      <a href="/usl_news.php">USL News</a>&nbsp;:&nbsp;
+      <a href="/nasl_news.php">NASL News</a>&nbsp;:&nbsp;
+      <a href="/game_reports/2009/">Match Rpts</a>&nbsp;:&nbsp;
+      <font color="#af0000">Schedules:</font> <a href="http://ussf.demosphere.com/Schedules/2010/20952154.html">USSF 2nd Div</a> .. <a href="http://www.uslsoccer.com/schedules/2010/20382372.html">USL2</a> .. <a href="http://www.uslsoccer.com/docs/home/USL-FSC-09schedule.pdf">TV</a>
+&nbsp;:&nbsp;
+<!--
+      <a href="/soccer_shows.shtml">Soccer Shows</a>&nbsp;:&nbsp;
+-->
+      <a href="/standings/2010/">Standings</a>&nbsp;:&nbsp;
+<!--
+      <a href="/cgi-bin/TeamNews.pl"><font color="#af0000">Team News</font></a>&nbsp;:&nbsp;
+-->
+	  <a href="http://www.uslsoccer.com/stats/index_E.html">USL Stats</a>
+	</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+
+<table border="0" width="850" cellspacing="0" cellpadding="0" background="/images/aleague_wm1.jpg">
+  <tbody><tr>
+    <td width="850" valign="top">
+	  <table border="0">
+
+<!-- Page Header -->
+
+
+
+        <tbody><tr>
+          <td>
+
+            <p>
+            <span class="articleHead">A Warning Shot</span><br><br><span class="articleAuthor">by <a href="mailto:robert.wilson@a-league.com">By Robert Wilson</a>,<br>Pittsburgh Riverhounds Match Reporter</span>
+
+            </p><p>
+            <span class="articleDate">13.Mar.2002</span><br>
+            <span class="articleText">
+            The headline on the USL website said it all.  <i>Wynalda accepts Battery Offer</i>.   Although I am very happy that the Charleston Battery was able to sign such a prestigious name to their roster, I have some concerns. Frankly, I am concerned about the future of the league for the Wynalda signing may spell the beginning of the end for the A - League as we currently know it.  
+
+            </span></p><p>
+			Eric Wynalda (as reported by other news sources - ed.) will sign for roughly $75,000.  To my knowledge, this is the most an A - League player is being paid.  The National team member left MLS, where he has played for the last six years, for the sunny South Carolina coast after MLS offered him approximately $43,000 to stay with the Los Angeles Galaxy.  
+
+            </p><p>
+			MLS has already admitted that some players can make more money in the A - League.  What the A - League needs to avoid is for other players to demand and receive similar paydays.  If the USL does not have a salary cap in place it may want to consider putting one into place.
+
+            </p><p>
+			Reading the discussion boards I was surprised by how many soccer fans thought he deserved more money.  Every other day the news reports about some baseball or football player earning a million dollars a day, one would think that MLS would at least put a more serious offer on the table.
+ 
+            </p><p>
+			Is MLS in that much trouble?  That they would offer one of their stars such a small amount of money?  That is for another time and another article.  What worries me about the Wynalda signing, is that it may start a bidding war for other talent.  
+
+            </p><p>
+			In other sports we have seen what overspending for talent can do. Higher ticket and concession prices, more emphasis on luxury boxes, and pay for view.  All this has forced the common fan out of the game.  Although soccer and the USL is far from the million dollar paydays we see in other sports we have to start being careful now to avoid this in the future.  
+
+            </p><p>
+			MLS contraction and the influx of talent from overseas will only put added pressure on A - League teams to increase their player budgets.  In order for a team to be competitive in the new landscape of American soccer the team has no choice.  Currently, however, the A - League is set up so each team can sign whom they want at any price they want.  The home office in Florida has always had a belief that the teams would not pay out the nose for a player considering how hard it is for a team to make a profit.
+
+            </p><p>
+			If the teams are not careful, they may take a loss to sign a former MLS or European player with the hope that he will get more fans into the stadium.  This plan may backfire.  Pittsburgh for example signed three former MLS players to their roster last year, but only had a slight increase to attendance.  In fairness to Pittsburgh, the players were signed to help the team, not increase attendance.  The front office however had to be disappointed that the former MLS players did not generate more of a buzz in the city.  
+
+            </p><p>
+			Only a few A - League teams can afford talent like Wynalda.  The reason why I am firing off this warning shot across soccer's bow is because the USL has reached a level of stability that it has never experienced before.  Only by looking to the future can we prevent problems that have affected other sports in America.  In order for soccer to continue to grow and thrive we need to make intelligent decisions concerning what is good for the league as a whole.  A salary cap, although not the best solution, may have to be considered in the near future.
+
+            </p><p>
+			<span class="photoCredit">Robert J. Wilson - Copyright 2002</span>
+
+            </p><p>
+            
+			
+          </p></td>
+        </tr>
+
+
+	  </tbody></table>
+	</td>
+  </tr>
+
+<!--- end Main Full Width Header --->
+                        
+<!--- ##                                          --->
+<!--- ##  Site Template Change Area ends here.    --->
+<!--- ##  Make NO CHANGES BELOW this Line !       --->
+<!--- ##                                          --->
+                        
+<!-- FOOTER -->
+
+  <tr>
+	<td colspan="2" width="700" align="middle">
+	  <table border="0" width="100%">
+		<tbody><tr>
+		  <td align="middle" class="vsmalltext">Many Thanks to News Digger John Zukas who scours up the vast majority of the news links during the year.</td>
+		</tr>
+		<tr>
+		  <td align="middle" class="copyright"><font color="#af0000">[Opinion pieces written by fans do not represent the views of <nobr>uslfans.com</nobr>, but rather that of the writer.]</font></td>
+		</tr>
+		<tr><td align="middle"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td></tr>
+
+		<tr>
+		  <td class="copyright" valign="top" align="middle"><font color="#808080">
+			<nobr>Editor-in-Chief/Publisher: <a href="/comment.shtml">Dan Barnes</a></nobr>&nbsp;::&nbsp;
+			<nobr>Site Admins:<a href="/comment.shtml">Allison Andrews</a>, <a href="/comment.shtml">Dan Barnes</a></nobr>&nbsp;::&nbsp;
+			<br>
+			<nobr>Site Design: <a href="/comment.shtml">dpb &amp;  associates</a></nobr>&nbsp;::&nbsp;
+			<nobr>Site Graphics: <a href="/comment.shtml">Allison Andrews</a>, <a href="/comment.shtml">Dan Barnes</a></nobr></font></td>
+		</tr>
+		<tr><td align="middle"><img src="/images/pixel.gif" border="0" width="100%" height="1"></td></tr>
+
+		<tr>
+		  <td class="copyright">
+			Copyright © 1999-2010 <nobr>USLFans.com</nobr> LLC. All rights reserved.<br><br>© Reproduction in whole or in part without the expressed written permission of <nobr>USLFans.com</nobr> is prohibited. This page is copyrighted by <nobr>USLFans.com</nobr> and all rights in any form are reserved by <nobr>USLFans.com</nobr>.  <nobr>USLFans.com</nobr> is not the official page of the USL and is not related to the USL. All <nobr>USLFans.com</nobr> owners, volunteers, employees, and directors are not employees of the USL. <nobr>USLFans.com</nobr> is an internet communication business that promotes the interests of <nobr>USL fans</nobr>. We are free of charge to teams and fans. However, we hope to sell advertising on this page to pay our bills.<br><br><!--<center><a href="/privacy.shtml"><u>Privacy Policy</u></a></center>--><br>
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+
+<!-- end content -->
+
+
+</body></html>

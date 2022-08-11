@@ -1,0 +1,169 @@
+<!DOCTYPE html><html><head>
+<title>Adam - Biliary Atresia</title>
+<meta name="description" content="add your site description here">
+<meta name="keywords" content="add your search engine keywords here separated by commas">
+<meta name="designer" content="My Arts Desire/Round the Bend Wizards">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="imagetoolbar" content="false">
+<link rel="stylesheet" type="text/css" href="../../style.css">
+</head>
+
+<body>
+
+<div align="center">
+<table class="wrapper">
+<tbody><tr>
+<td class="date"><!--webbot bot="extrafpbot" s-class="extrafp.main" clientside PREVIEW="---- DATE ----" T="J4" TAG="p" startspan -->
+<script type="text/javascript">
+<!-- Begin
+<!-- Begin
+var X_now = new Date();
+var X_days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+var X_months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+var X_date = ((X_now.getDate()<10) ? "0" : "")+ X_now.getDate();
+
+function fourdigits(number)    {
+   return (number < 1000) ? number + 1900 : number;
+                               }
+
+X_today =  X_days[X_now.getDay()] + ", " +
+              X_months[X_now.getMonth()] + " " +
+               X_date + ", " +
+                (fourdigits(X_now.getYear())) ;
+
+document.write(X_today);
+// End -->
+</script>
+<!--webbot bot="extrafpbot" endspan --></td>
+<td class="global">
+<!--WEBBOT bot="Include" U-Include="../../Navigational Structure/global.htm" TAG="BODY" startspan -->
+
+<a href="../../index.htm">Home</a> |
+
+<a href="../../Our%20Community/forumrules.htm">Register</a> | 
+<a href="http://www.classkids.org/forum">Log In</a>&nbsp; |<a href="../../policy.htm"> Policies 
+</a>| <a href="../../contact.htm">Contact</a>
+
+<!--webbot bot="Include" i-checksum="28543" endspan --></td>
+</tr>
+<tr>
+<td colspan="2" class="bars">&nbsp;</td>
+</tr>
+</tbody></table>
+<table class="wrapper2">
+<tbody><tr>
+<td class="logoimage" style="width: 500px">
+<p style="text-align: center">
+<img border="0" src="../../images/3logo.gif" width="400" height="98"></p></td>
+<td class="mainnavigation" width="250" style="width: 250px">
+<!--WEBBOT bot="Include" U-Include="../../Navigational Structure/mainnavigation.htm" TAG="BODY" startspan -->
+
+
+<h3 style="margin-top: 0"><span style="text-transform: uppercase"><span class="heading3">SITE</span> MENU</span>:</h3>
+<ul>
+<li><a href="../../index.htm">About C.L.A.S.S.</a></li>
+<li><a href="../../founderandboard.htm">Founder and Board</a></li>
+<li><a href="../../Our%20Community/communitysupport.htm">Community Support</a></li>
+<li><a href="../ourspecialkids.htm">Our Special Kids</a></li>
+<li><a href="../../Resources/resourcecenter.htm">Resource Center</a></li>
+<li><a href="../../helpclass.htm">Help C.L.A.S.S</a>.</li>
+<li><a href="../../onlinedonationform.htm">Online Donation Form</a></li>
+<li><a href="../../supporters.htm">C.L.A.S.S. Supporters</a></li>
+<li><a href="../../store.htm">The C.L.A.S.S. Store</a></li>
+</ul>
+<!--webbot bot="Include" i-checksum="61193" endspan --></td>
+</tr>
+<tr>
+<td class="colorbar1" width="100%" colspan="2">
+Adam by his mom, Angela</td>
+</tr>
+<tr>
+<td class="maintext3" colspan="2" style="width: 100%">
+        <p align="left">
+        <img border="0" src="pictures/adam03.jpg" align="right" hspace="10" vspace="10" width="200" height="279" style="margin: 8px">Adam was born in March 1997 at The Royal Hospital for 
+        Children in Belfast, Northern Ireland, and everything seemed to be fine. 
+        As the weeks passed Adam's jaundice did not go away and I repeatedly took 
+        him to the baby club and our GP, who all but laughed and called me a 
+        first time mother! </p>
+        
+        <p align="left">Eventually I demanded a referral to the hospital and 
+        that's when the FUN began.
+        Every time I turned round another doctor would be there to stick another 
+        needle into my child. I really did feel like lifting him up and running 
+        out of the hospital, but I guess I knew it was serious this 
+        time. After a week of intensive tests, biliary atresia was diagnosed and 
+        talk of the Kasai began. They didn't know whether to do the Kasai 
+        because Adam was 12 weeks at this stage, but they decided it was a try 
+        and Adam was booked for surgery. I went with Adam while they sedated him 
+        and leaving my wee baby there was the hardest thing I have ever had to 
+        do. I passed the next 4 hours in a daze and if someone asked me now what 
+        I talked about, I could not tell them. All I could think of was my baby. 
+        I remember the surgeon telling me all about the operation and at the end 
+        asking did I have any questions. My only question was "will I get my 
+        baby back?" I think at that point that was all that mattered to me.<br>
+        <br>
+        Adam's surgery went well, although no bile ducts were found and the 
+        surgeon said he did his best to place the Kasai at the right point. 
+        After surgery he went to Intensive Care Unit and did not need the 
+        ventilator, which was great. Six years on I can still see him lying on 
+        the wee cot with his wee mouth shaking and attached to all sorts of 
+        wires -- not that I noticed the wires, I was just glad to see my baby 
+        again!<br>
+        <br>
+        After another 2 weeks in hospital we came home and with every little 
+        temperature we were back at the hospital. We soon got to know all the 
+        nurses and doctors! Adam had a bad time with the new formula and when we 
+        added the Duocal it went in one end and out the other, so Adam's weight 
+        became a problem. We don't have a children's liver specialist here in 
+        Northern Ireland, and I was not happy with the dietitians here, so this 
+        time I demanded to go to Birmingham in England to see a specialist. 
+        Things improved no end after that. They put him back on normal formula 
+        etc. and most of his tests came back in the normal ranges -- Yeah!!!<br>
+        <br>
+        Adam is doing great today. He gets blood tests every 6 months and they 
+        all come back in the normal ranges, except the platelets which can go up 
+        or down. They are low, but not dangerously low. He really is my miracle 
+        and although I wouldn't have asked for him to be born with BA, I thank 
+        God every day that he is doing so well and I know in that respect we 
+        have been really lucky. Adam has the sticky out veins on his chest but 
+        his tummy is not big and so far no ascites etc. He is a real star and 
+        goes to the hospital all the time so the student doctors can look at him 
+        and try to guess what is wrong. I believe the more doctors that see BA, 
+        the more children will be diagnosed in good time for the Kasai.<br>
+        <br>
+        To finish I would just like to thank you all there at CLASSKIDS. It has 
+        been my lifeline in the past and I'm sure it will be again in the 
+        future!</p>
+        
+        </td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" style="border-collapse: collapse" width="750">
+<tbody><tr>
+<td colspan="2" class="bars">&nbsp;</td>
+</tr>
+<tr>
+<td class="globalbottom">
+<!--WEBBOT bot="Include" U-Include="../../Navigational Structure/global.htm" TAG="BODY" startspan -->
+
+<a href="../../index.htm">Home</a> |
+
+<a href="../../Our%20Community/forumrules.htm">Register</a> | 
+<a href="http://www.classkids.org/forum">Log In</a>&nbsp; |<a href="../../policy.htm"> Policies 
+</a>| <a href="../../contact.htm">Contact</a>
+
+<!--webbot bot="Include" i-checksum="28543" endspan --></td>
+<td class="copyright">
+<!--WEBBOT bot="Include" U-Include="../../Navigational Structure/copyright.htm" TAG="BODY" startspan -->
+
+C.L.A.S.S. © 1994-2008
+
+<!--webbot bot="Include" i-checksum="48566" endspan --></td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+</body></html>

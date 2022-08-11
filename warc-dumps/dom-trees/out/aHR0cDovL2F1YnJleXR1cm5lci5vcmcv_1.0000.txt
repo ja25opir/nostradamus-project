@@ -1,0 +1,1107 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>aubreyturner.org: weblog</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.aubreyturner.org/index.php?css=orglog/weblog_css.v.1209802543"> 
+<style type="text/css" media="screen">@import "http://www.aubreyturner.org/index.php?css=orglog/weblog_css.v.1209802543";</style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aubreyturner.org/index.php?/orglog/rss_2.0/">
+
+</head>
+<body>
+<!-- ukey="17D62969" -->
+<!-- aubreyturner.org Javascript support -->
+<script type="text/javascript" src="/support.js"></script>
+<script type="text/javascript" src="/obama.js"></script>
+
+<div id="wrapper">
+<div id="sidebar">
+
+<div id="picture">
+</div>
+
+<p><b>Members:</b>
+<br>
+
+
+ <a href="http://www.aubreyturner.org/index.php?/member/login/">Login</a> | <a href="http://www.aubreyturner.org/index.php?/member/register/">Register</a>
+
+ | <a href="http://www.aubreyturner.org/index.php?/member/memberlist/">Member List</a>
+
+</p>
+
+<h2 class="sidetitle">§ About</h2>
+<p>Occasional rants and items that catch my interest. Something to offend everyone.</p>
+
+<form method="post" action="http://www.aubreyturner.org/index.php?">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="15">
+<input type="hidden" name="XID" value="e6abc487e88d91465de390bc33467092eeba6d49">
+<input type="hidden" name="RP" value="search/results">
+<input type="hidden" name="NRP" value="">
+<input type="hidden" name="RES" value="">
+<input type="hidden" name="status" value="">
+<input type="hidden" name="weblog" value="orglog">
+<input type="hidden" name="search_in" value="everywhere">
+<input type="hidden" name="where" value="all">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+<h2 class="sidetitle">Search</h2>
+<p>
+<input type="text" name="keywords" value="" class="input" size="18" maxlength="100">
+<br>
+<a href="http://www.aubreyturner.org/index.php?/search/">Advanced Search</a>
+</p>
+
+<p><input type="submit" value="submit" class="submit"></p>
+
+</form>
+
+
+<h2 class="sidetitle">Categories</h2>
+<!-- p -->
+<ul id="nav_categories" class="nav_categories">
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C4/">Bloodsuckers</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C5/">Civil Rights</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C6/">Computing</a>
+
+		<ul>
+			<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C39/">Off With Their Heads</a>
+</li>
+		</ul>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C36/">Disaster</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C7/">Domestic Affairs</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C8/">Education</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C9/">Guns</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C10/">Humor</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C11/">It's A Dog's Life</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C40/">Keller Stuff</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C12/">Libertarianism</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C13/">Miscellaneous</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C14/">Movies</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C15/">Music</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C45/">Paranormal</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C16/">Personal Life Stuff</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C17/">Police State</a>
+
+		<ul>
+			<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C29/">Privacy</a>
+</li>
+		</ul>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C18/">Politics</a>
+
+		<ul>
+			<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C28/">Guns</a>
+</li>
+			<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C37/">Keller Library</a>
+</li>
+			<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C41/">Keller Politics</a>
+</li>
+		</ul>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C31/">Preparedness</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C19/">Privacy</a>
+
+		<ul>
+			<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C38/">RFID</a>
+</li>
+		</ul>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C20/">Random Ramblings</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C21/">Space</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C22/">Technology</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C46/">The Suck</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C47/">Things That Go Bang</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C23/">War</a>
+</li>
+	<li>
+<a href="http://www.aubreyturner.org/index.php?/orglog/C24/">What the heck?</a>
+</li>
+</ul>
+
+<!-- /p -->
+
+<h2 class="sidetitle">§ Monthly Archives</h2>
+<ul>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/12/">December 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/10/">October 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/09/">September 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/08/">August 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/07/">July 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/06/">June 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/05/">May 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/03/">March 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/02/">February 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2009/01/">January 2009</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2008/12/">December 2008</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/2008/11/">November 2008</a></li>
+
+<li>...</li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/archive_monthly/">Full list of monthly archives</a></li><li>
+</li><li><a href="http://www.aubreyturner.org/index.php?/orglog/archives/">Complete Archives</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/categories/">Category Archives</a></li>
+</ul>
+
+<h2 class="sidetitle">§ Most recent entries</h2>
+
+<ul>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/merry_christmas1/">Merry Christmas!</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/music_finder_opening_theme_from_the_shift/">Music Finder: Opening Theme from The Shift</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/wired1/">Wired!</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/a_plea_on_naming/">A Plea On Naming</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/meditations_on_the_ways_in_which_xm_radio_customer_service_doth_suck/">Meditations On The Ways In Which XM Radio “Customer Service” Doth Suck</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/sneaky_and_underhanded/">Sneaky and Underhanded</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/doggone_bad_time_in_north_keller/">Doggone Bad Time In North Keller</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/what_were_they_thinking1/">What Were They Thinking?</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/another_lesson/">Another Lesson</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/snares_for_the_unwary/">Snares For The Unwary</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/pinnacle_security_fail/">Pinnacle Security: FAIL</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/going_round-and-round_with_my_tires/">Going Round-and-Round With My Tires</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/grimly_amused/">Grimly Amused</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/blood_and_sweat/">Blood and Sweat…</a></li>
+
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/voting_with_our_feet_and_our_wallets/">Voting With Our Feet And Our Wallets</a></li>
+
+</ul>
+
+<h2 class="sidetitle">§ Syndicate</h2>
+
+<ul>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/rss_2.0/">RSS 2.0</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/rss_atom/">Atom</a></li>
+</ul>
+
+
+
+<!-- Weather Pixie -->
+<div align="center">
+<a href="http://weatherpixie.com/" target="_blank"><img src="http://weatherpixie.com/displayimg.php?place=KAFW&amp;trooper=32&amp;type=F" width="124" height="175" border="0" alt="The WeatherPixie"></a>
+<p>(Ft. Worth, TX, USA)</p><br>
+
+<!-- Ammo Day -->
+<a href="http://www.ammoday.com/"><img src="/imgs/NAD.jpg" alt="National Ammo Day" width="150" height="145"></a>
+<!-- end center div -->
+<!--
+<!--NetworkedBlogs Start--><style type="text/css"><!--.networkedblogs_widget a {text-decoration:none;color:#3B5998;font-weight:normal;}.networkedblogs_widget .networkedblogs_footer a {text-decoration:none;color:#FFFFFF;font-weight:normal;}--></style><div id="networkedblogs_container" style="height:180px;padding-top:20px;"><div id="networkedblogs_above"></div><div id="networkedblogs_widget" style="width:120px;margin:0px auto;padding:0px 0px 3px 0px;font-family:'lucida grande',tahoma,Verdana,Arial,Sans-Serif;font-size:11px;font-weight:normal;text-decoration:none;background:#3B5998 none repeat scroll 0% 0%;border:none;line-height:13px;"><div id="networkedblogs_header" style="padding:1px 1px 2px 3px;text-align:left;"><a href="http://www.facebook.com/apps/application.php?id=9953271133" style="text-decoration:none;color:#FFFFFF;font-weight:normal;font-size:11px;background-repeat:no-repeat;">NetworkedBlogs</a></div><div id="networkedblogs_body" style="background-color:#FFFFFF;color:#444444;padding:4px;border-left:1px solid #D8DFEA;border-right:1px solid #D8DFEA;text-align:left;"><table cellpadding="0" cellspacing="0"><tbody><tr><td><span style="color:#777777;">Blog:</span></td></tr><tr><td><a target="_blank" href="http://www.networkedblogs.com/blog/aubreyturner.org/" style="text-decoration:none;color:#3B5998;">aubreyturner.org</a></td></tr><tr><td><div style="padding:0px;padding-top:5px;color:#777777;">Topics:</div></td></tr><tr><td><a target="_blank" href="http://www.networkedblogs.com/topic/guns" style="text-decoration:none;color:#3B5998;">guns</a>, <a target="_blank" href="http://www.networkedblogs.com/topic/freedom" style="text-decoration:none;color:#3B5998;">freedom</a>, <a target="_blank" href="http://www.networkedblogs.com/topic/annoyances" style="text-decoration:none;color:#3B5998;">annoyances</a></td></tr><tr><td><div id="networkedblogs_badges">&nbsp;</div></td></tr><tr><td><div style="padding:0px;text-align:center;"><a target="_blank" href="http://www.networkedblogs.com/blog/aubreyturner.org/?ahash=917b3328b68b32a32904edd6a7263c45" style="text-decoration:none;color:#666666;font-weight:normal;font-size:10px;">Join my network</a></div></td></tr></tbody></table></div></div><div id="networkedblogs_below" class="networkedblogs_below"></div></div><script type="text/javascript"><!--
+if(typeof(networkedblogs)=="undefined");networkedblogs.blogId=117528;networkedblogs.shortName="aubreyturner.org";}
+--></script><script type="text/javascript" src="http://widget.networkedblogs.com/getwidget?bid=117528"></script><!--NetworkedBlogs End-->
+--&gt;
+</div>
+
+<!-- NRA/ILA "ticker"/sticker -->
+<!-- script language="Javascript" src="http://www.nraila.org/XML/StickerThin.aspx" type="text/javascript"></script -->
+
+</div>
+
+<div id="main">
+
+<div id="blogtitle"><h1>aubreyturner.org</h1></div>
+
+<div id="menubar">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a href="http://www.aubreyturner.org/index.php?">Home</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/about/">About</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/archives/">Archives</a></li>
+<li><a href="http://www.aubreyturner.org/armory/">Guns</a></li>
+<li><a href="http://www.aubreyturner.org/gunshows/">DFW Gun Shows</a></li>
+<li><a href="http://www.aubreyturner.org/index.php?/orglog/orglinks">Links</a></li>
+<li><a href="http://www.aubreyturner.org/contact.php?target=org" onclick="OpenContactForm(this.href); return false">Contact</a></li>
+</ul>
+</div>
+<br class="spacer">
+</div>
+
+<div id="blog">
+
+<script type="text/javascript">addParaBold();</script>
+
+<div id="rightbar">
+
+<h2 class="myhead">Texans</h2>
+<ul>
+<li><a href="http://www.rachellucas.com/" target="br2">Rachel Lucas</a></li>
+<li><a href="http://www.nicedoggie.net/" target="br2">The Anti-Idiotarian Rottweiler</a></li>
+<li><a href="http://www.thefatguy.com/" target="br2">The Fat Guy</a></li>
+<li><a href="http://thelawdogfiles.blogspot.com/" target="br2">The LawDog Files</a></li>
+<li><a href="http://crystalgable.wordpress.com/" target="br2">Crystal Gable</a></li>
+<li><a href="http://cowtowncop.blogspot.com/" target="br2">Cowtown Cop</a></li>
+</ul>
+
+<h2 class="myhead">Others</h2>
+<ul>
+<li><a href="http://www.instapundit.com/" target="br2">Instapundit</a></li>
+<li><a href="http://www.vodkapundit.com/" target="br2">Vodka Pundit</a></li>
+<li><a href="http://www.lileks.com/bleats/index.html" target="br2">James Lileks</a></li>
+<li><a href="http://www.thebitchgirls.us/" target="br2">Bitchin’ in the Kitchen</a> (<a href="http://thebitchgirls.blogspot.com/" target="br2">backup</a>)</li>
+<!-- li><a href="http://www.littlegreenfootballs.com/weblog/weblog.php" target="br2">Little Green Footballs</a></li -->
+<li><a href="http://www.samizdata.net/blog/" target="br2">Samizdata.net</a></li>
+<li><a href="http://www.adamsmith.org/blog/" target="br2">Adam Smith Institute Blog</a></li>
+<li><a href="http://meganmcardle.theatlantic.com/" target="br2">Megan McCardle</a></li>
+<li><a href="http://volokh.com/" target="br2">The Volokh Conspiracy</a></li>
+<li><a href="http://ncobrief.com/" target="br2">The Daily Brief</a></li>
+<li><a href="http://spleenville.com/v2/index.php" target="br2">Andrea Harris</a></li>
+<li><a href="http://www.alphecca.com/" target="br2">Alphecca</a></li>
+<li><a href="http://www.grouchyoldcripple.com/" target="br2">Grouchy Old Cripple</a></li>
+<li><a href="http://www.ejectejecteject.com/" target="br2">Bill Whittle</a></li>
+<li><a href="http://blogblivion.com/" target="br2">Blogblivion</a></li>
+<li><a href="http://www.isfullofcrap.com/" target="br2">Full Of Crap</a></li>
+<li><a href="http://bigarmwoman.wordpress.com/" target="br2">Tightly Wound</a></li>
+<li><a href="http://geekwitha45.blogspot.com/" target="br2">GeekWithA.45</a></li>
+<li><a href="http://www.drhelen.blogspot.com/" target="br2">Dr. Helen</a></li>
+<li><a href="http://blog.dreamhost.com/" target="br2">Dreamhost Blog</a></li>
+<li><a href="http://www.hackingnetflix.com/" target="br2">Hacking Netflix</a></li>
+<li><a href="http://xavierthoughts.blogspot.com/" target="br2">Xavier Thoughts</a></li>
+<li><a href="http://www.countertopchronicles.com/" target="br2">Countertop Chronicles</a></li>
+<li><a href="http://www.saysuncle.com/" target="br2">Say Uncle</a></li>
+<li><a href="http://www.snowflakesinhell.com/" target="br2">Snowflakes in Hell</a></li>
+<li><a href="http://booksbikesboomsticks.blogspot.com/" target="br2">View From The Porch</a></li>
+<li><a href="http://twowheeledmadwoman.blogspot.com/" target="br2">Roberta X</a></li>
+<li><a href="http://www.squeakywheelseeksgrease.com/blog/" target="br2">Squeaky Wheel Seeks Grease</a></li>
+<li><a href="http://thebredafallacy.blogspot.com/" target="br2">The Breda Fallacy</a></li>
+<li><a href="http://blog.robballen.com/" target="br2">sharp as a marble</a></li>
+<li><a href="http://thedesertgrrlreport.blogspot.com/" target="br2">The Desert Grrl Report</a></li>
+<li><a href="http://www.caerdroia.org/blog/" target="br2">Caerdroia</a></li>
+<li><a href="http://weckuptothees.blogspot.com/" target="br2">WeckUpToThees!</a></li>
+<li><a href="http://pajamasmedia.com/richardfernandez/" target="br2">Belmont Club</a></li>
+<li><a href="http://imao.us/" target="br2">IMAO</a></li>
+<li><a href="http://www.coldfury.com/" target="br2">Cold Fury</a></li>
+<li><a href="http://www.freedomunderfire.com/" target="br2">Freedom Under Fire</a></li>
+<li><a href="http://www.tonecluster.com/" target="br2">Tonecluster</a></li>
+</ul>
+
+<h2 class="myhead">Keller, TX</h2>
+<ul>
+<li><a href="http://beyondrightfield.wordpress.com/" target="br2">Beyond Right Field</a></li>
+<li><a href="http://www.kellercitylimits.com/" target="br2">kellercitylimits.com</a> (defunct)</li>   <br>
+<li><a href="http://www.cityofkeller.com/" target="br2">City of Keller</a></li>
+<li><a href="http://www.kellerpd.com/" target="br2">Keller Police Dept.</a></li>
+<li><a href="http://www.kellerfd.com/" target="br2">Keller Fire-Rescue</a></li>
+<li><a href="http://www.kellerisd.net/" target="br2">Keller ISD</a></li>
+<li><a href="http://www.petfinder.org/pet.cgi?action=1&amp;pet.Shelterid=TX361&amp;preview=1" target="br2">Keller Animal Adoptions</a></li><br>
+<li><a href="http://www.kellercert.org/" target="br2">Keller CERT</a></li>
+</ul>
+
+<h2 class="myhead">Inactive</h2>
+<ul>
+<li><a href="http://www.theothersideofkim.com/" target="br2">Kim du Toit</a></li>
+<li><a href="http://www.mrsdutoit.com/" target="br2">Mrs. du Toit</a></li>
+<li><a href="http://www.gutrumbles.com/" target="br2">Gut Rumbles</a></li>
+<li><a href="http://theramblingsofaolddad.blogspot.com/" target="br2">Ramblings of an Old Dad</a></li>
+<!-- li><a href="http://www.defenselink.mil/home/dodupdate/index-b.html" target="br2">For the Record</a></li -->
+<li><a href="http://www.insultsunpunished.com/" target="br2">Robert Prather</a></li>
+<li><a href="http://www.ibiblio.org/esrblog/" target="br2">Eric S. Raymond</a></li>
+<li><a href="http://www.roadsassy.com/spicedsass/" target="br2">Spiced Sass</a></li>
+<li><a href="http://publicola.mu.nu/" target="br2">Publicola</a></li>
+<li><a href="http://www.thespoonsexperience.com/" target="br2">The Spoons Experience</a></li>
+<li><a href="http://www.yuppiesofzion.com/" target="br2">Yuppies of Zion</a></li>
+<li><a href="http://tundramedicinedreams.blogspot.com/" target="br2">Tundra Medicine Dreams</a></li>
+<!-- li><a href="http://cinomed.blog-city.com/" target="br2">Cinomed's Tower</a></li -->
+<!-- li><a href="http://sheepdog.blog-city.com/" target="br2">Sheepdog Blog</a></li -->
+<!-- li><a href="http://www.beatcanvas.com/" target="br2">Brett Rogers</a></li -->
+<!-- li><a href="http://www.harshlymellow.com/" target="br2">Harshly Mellow</a></li -->
+</ul>
+
+<h2 class="myhead">Other Links</h2>
+<ul>
+<li><a href="http://www.thehighroad.org/" target="br2">The High Road</a></li>
+<li><a href="http://www.texasshooting.com/TexasCHL_Forum/index.php" target="br2">Texas CHL Forum</a></li>
+<li><a href="http://www.boortz.com/" target="br2">Neal Boortz</a></li>
+<li><a href="http://www.lvrj.com/columnists/Vin_Suprynowicz.html" target="br2">Vin Suprynowicz</a></li>
+</ul>
+
+<h2 class="myhead">Technical</h2>
+<ul>
+<li><a href="http://slashdot.org/" target="br2">Slashdot</a></li>
+<li><a href="http://www.news.com/" target="br2">C|Net News.com</a></li>
+</ul>
+
+<h2 class="myhead">Civil Rights Links</h2>
+<ul>
+<li><a href="http://www.txdps.state.tx.us/administration/crime_records/chl/chlsindex.htm" target="br2">Texas DPS CHL Info</a></li>
+<li><a href="http://www.tsra.com/" target="br2">Texas State Rifle Association</a></li>
+<li><a href="http://www.mynra.com/" target="br2">National Rifle Association</a></li>
+<li><a href="http://www.gunowners.org/" target="br2">Gun Owners of America</a></li>
+<li><a href="http://www.saf.org/" target="br2">Second Amendment Foundation</a></li>
+<li><a href="http://www.eff.org/" target="br2">Electronic Frontier Foundation</a></li>
+<li><a href="http://www.jpfo.org" target="br2">Jews for the Preservation of Firearms Ownership</a></li>
+<li><a href="http://www.pinkpistols.org/" target="br2">Pink Pistols</a></li>
+<li><a href="http://www.2asisters.org/" target="br2">Second Amendment Sisters</a></li>
+<!-- li><a href="http://www.armedfemalesofamerica.com/" target="br2">Armed Females of America</a></li -->
+</ul>
+
+</div>
+
+
+
+
+
+
+
+<h3 class="date"> Friday, December 25, 2009 </h3>
+
+
+<h2 class="title">Merry Christmas!</h2>
+
+
+
+<p>Merry Christmas, y’all!</p>
+
+<p>I’m in sunny East Texas this morning, but a quick check of my camera shows that those of you back in Keller got a white Christmas:<br>
+<a href="http://www.aubreyturner.org/imgs/Christmas2009SnowInKeller.JPG" onclick="window.open('http://www.aubreyturner.org/imgs/Christmas2009SnowInKeller.JPG','popup','width=655,height=495,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.aubreyturner.org/imgs/Christmas2009SnowInKeller_thumb.JPG" width="540" height="405"></a></p>
+
+<p>Be safe.&nbsp; See ‘ya next year…
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 12/25/2009 at 08:45 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C7/">Domestic Affairs</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2093/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2093/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/merry_christmas1/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Sunday, October 25, 2009 </h3>
+
+
+<h2 class="title">Music Finder: Opening Theme from The Shift</h2>
+
+
+
+<p>Like many viewers of <a href="http://investigation.discovery.com/tv/the-shift/the-shift.html" target="_blank">The Shift</a>, I have been looking for the opening theme music from the show.&nbsp; So far, all of my searches only turned up others who were searching for the same thing.</p>
+
+<p>Taking a guess that the music might be a custom composition for the show, I looked up the show on <a href="http://www.imdb.com/" target="_blank">IMDb</a> and discovered that the music for season one was done mostly by someone named <a href="http://chaditskowitz.com/#/menu-about" target="_blank">Chad Itskowitz</a>.</p>
+
+<p>For fans, here’s a link to a video of the <a href="http://chaditskowitz.com/#/vid-the-shift" target="_blank">opening credits</a> from his site.</p>
+
+<p>As a web design note, I have to comment on the fact that while Mr. Itskowitz’s site looks great, it does not do him any service for those seeking him via Google or other search engines.&nbsp; The problem is that all of his content is locked up in Shockwave Flash and is not indexed.&nbsp; So even if you knew that he did the opening credits, searching for both his name and “The Shift” would not produce any results.&nbsp; In fact, the only “keyword” that Google can extract from his site is “Shockwave Flash”.&nbsp;  <img src="http://www.aubreyturner.com/images/smileys/raspberry.gif" width="19" height="19" alt="raspberry" style="border:0;"> </p>
+
+<p><img src="http://www.aubreyturner.org/imgs/ChadItskowitzSiteResults.png" width="606" height="240"></p>
+
+<p>Yet another reason that real content should exist in <acronym title="HyperText Markup Language">HTML</acronym>, like the designers of the web intended.&nbsp; Otherwise it’s almost inaccessible and invisible to search engines.</p>
+
+<p><b>Update Note</b>:&nbsp; It should be noted that I’m referring to the music that is played during the opening credits of the show.&nbsp; There is also a song that is used in the promo for Season Two that many people are searching for.&nbsp; According to <a href="http://wiki.answers.com/Q/Who_sings_the_theme_song_for_the_television_show_The_Shift" target="_blank">WikiAnswers</a>, that song is <a href="http://www.westonemusic.com/album?catno=WOM_WOM_0106" target="_blank">“Something is Wrong” by David Ayers &amp; Felix Tod</a>.
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 10/25/2009 at 02:26 PM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C15/">Music</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2079/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2079/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/music_finder_opening_theme_from_the_shift/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Monday, October 19, 2009 </h3>
+
+
+<h2 class="title">Wired!</h2>
+
+
+
+<p>Between work, personal commitments, and my own geeky obsessions, I keep getting distracted from updating this blog (I am interrupt driven and I have a limited call stack).</p>
+
+<p>Anyhow, for the past few weeks something has been bugging me and I finally did something about it over the weekend.&nbsp; When we teach CERT there is a section on eliminating hazards in the home and workplace.&nbsp; One of the things we emphasize is to use electrical outlets and power strips safely and to eliminate the “electrical octopus” which is so familiar to many of us.&nbsp; Every time I mentioned that I kind of felt bad about it because I knew that I was violating the rule myself.&nbsp; </p>
+
+<p>So I set out to see how I could get control of the rat’s nest of cables under my desk and in my office.&nbsp; I researched “DIY cable management” and came across some interesting ideas from various sites.&nbsp; After absorbing as much info as I could, I solidified my own requirements:</p><ul><li>Must not have any power strips plugged into another power strip (bad form!).</li><li>Wires must not be lying on the floor.</li><li>All wall warts would have their own outlet saver</li><li>All computer equipment must go into a single rack.</li><li>No wires would be run exposed on walls and wires on the desktop surface must be minimized (i.e. run as direct as possible).</li></ul>
+
+<p>Given the above I set about trying to assemble all of the supplies that I would need.&nbsp; First, I tried finding a suitable rack.&nbsp; It turns out that even entry-level rack hardware is mind-numbingly expensive.&nbsp; A simple 24-inch wide <a href="http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1881529&amp;CatId=1037" target="_blank">LAN Station</a> started at $500 and went up as you added features.&nbsp; Taking a cue from <a href="http://blog.deadlycomputer.com/2006/09/17/458/" target="_blank">these guys</a> I contemplated building my own.&nbsp; I drew up some sketches and came up with a parts list, which when I estimated the cost came to about $150 just for the parts.&nbsp; A little more searching turned up a <a href="http://shelving.com/Merchant2/merchant.mvc?Screen=PROD&amp;Product_Code=WS242454-S&amp;Category_Code=WS2454&amp;Store_Code=WSS" target="_blank">24x24x54 wire shelving unit</a> for $166 with shipping (and an extra shelf).</p>
+
+<p>That settled, I started figuring out how to set up my workspace so that the monitors, keyboard, and mouse would work.&nbsp; I ordered extra long video and power cables along with a <acronym title="Universal Serial Bus">USB</acronym> hub and 15-ft cable.&nbsp; I also took the opportunity to order a new keyboard and mouse.&nbsp; The old keyboard I’d been using was PS/2 and the mouse was 6 years old and starting to get a bit flaky (every so often it would stall and you’d have to bang the mouse on the desk to wake it up).&nbsp; I also ordered outlet savers in bulk.&nbsp; </p>
+
+<p>For wire management, I thought about some of the lessons I’d seen in various <a href="http://www.instructables.com/" target="_blank">Instructables</a>&nbsp; and bought some multicable staples, cable-tie mounting bases, and a bag of reusable cable-ties.&nbsp; I also bought some on-wall J-channel raceway to run just behind the desk to catch all the cables that go to the various items there.</p>
+
+<p>So… here’s how things looked before.&nbsp; Not only was it a tangled mess, it was impossible to keep clean because you couldn’t vacuum and separating the cables for cleaning was hopeless.</p>
+
+<p>The overall mess:<br>
+<img src="http://www.aubreyturner.org/imgs/MainDeskBefore_400.jpg" width="402" height="301"></p>
+
+<p>The electrical octopus: (a.k.a. the rat’s nest)<br>
+<img src="http://www.aubreyturner.org/imgs/RatsNest1_400.jpg" width="402" height="301"><br>
+<img src="http://www.aubreyturner.org/imgs/RatsNest2_400.jpg" width="402" height="301"> </p>
+
+<p>After ripping out all the wiring (if you look closely you can make out the five(!) power strips):<br>
+<img src="http://www.aubreyturner.org/imgs/RemovedWiring_400.jpg" width="402" height="301"> </p>
+
+<p>I also took the opportunity to clean out the insides of the server (this is two years of gunk; the heatsink fins under the fan are 100% blocked; it’s a miracle the system stayed as cool as it did):<br>
+<img src="http://www.aubreyturner.org/imgs/TwoYearsOfGunk_400.jpg" width="402" height="301"> </p>
+
+<p>What it looked like when I installed it (for reference):<br>
+<img src="http://www.aubreyturner.org/imgs/OriginalMinilith_400.jpg" width="402" height="301"> </p>
+
+<p>My home brew under desk power distribution unit.&nbsp; This was made from a 2U rack shelf, a rack-mount surge protector, a 1U blank, and two 14-inch rack rails.&nbsp; I had everything but the rails already on hand.&nbsp; If I were building a “real” rack to support more weight I’d have to have used some additional support, but since this is so short there’s no wobble from not having a back section.&nbsp; All “non-essential” equipment is plugged into this surge protector, and all wall warts have an outlet saver, allowing them to rest on the rack shelf.&nbsp; This keeps them off the carpet and makes the whole thing (somewhat) movable for cleaning underneath the desk.<br>
+<img src="http://www.aubreyturner.org/imgs/HomeMadePDU_400.jpg" width="402" height="301"> </p>
+
+<p>All the wires under the desk are now tied up off the floor (not exactly neat, but serviceable):<br>
+<img src="http://www.aubreyturner.org/imgs/UnderDeskWiringAfter_400.jpg" width="402" height="301"> </p>
+
+<p>A small rack I added for the power supply to one of the monitors (this one is plugged into the second UPS) along with the <acronym title="Universal Serial Bus">USB</acronym> hub for the keyboard, monitor, and Palm sync cradle:<br>
+<img src="http://www.aubreyturner.org/imgs/HubAndWartRack_400.jpg" width="402" height="301"> </p>
+
+<p>The rack with the main UPS, the server, and both desktops (there’s also a second UPS behind the HP box on the right):<br>
+<img src="http://www.aubreyturner.org/imgs/Rack_400.jpg" width="402" height="301"> </p>
+
+<p>The whole thing:<br>
+<img src="http://www.aubreyturner.org/imgs/DeskAfterFull_400.jpg" width="402" height="301"> </p>
+
+<p>I spent about 6 hours Saturday night and another 8 hours or so on Sunday working on this.&nbsp; It doesn’t look like a whole lot after it’s all installed, but the fact that most wires are hidden belies the effort it took to hide them (i.e. drilling holes, putting up hangers, routing wires, fishing wires into awkward places, and general annoyance at hitting your head on the slide-out keyboard tray for the 15th time in one night as you come out from under the desk).
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 10/19/2009 at 01:57 PM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C7/">Domestic Affairs</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2078/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2078/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/wired1/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Thursday, September 03, 2009 </h3>
+
+
+<h2 class="title">A Plea On Naming</h2>
+
+
+
+<p>Please, people, stop naming your girls <a href="http://en.wikipedia.org/wiki/Aubrey" target="_blank">Aubrey</a>.&nbsp; </p>
+
+<p>As noted in the above linked Wikipedia entry, it’s a traditionally male name that, unfortunately, is also used for girls in the United States.&nbsp; 
+</p><blockquote><p>
+Of Teutonic origin, “Aubrey” means “Fair Ruler of the Little People”, or “King of the Elves” [1]. The name Alberich is a more common Germanic variant, with the syllable ‘Alb’ translating as “Elf” and ‘Ric’ representing “power”. In the twelfth century, a Christian saint and abbot named St. Aubrey founded the Cistercian Order, seeking to operate under the Rule of St. Benedict, continuing Benedict of Nursia’s tradition of solitary scholarship in a community of monasticism.</p>
+
+<p>The name is traditionally male, but is also used as a feminine name in the United States. It was the 69th most popular name given to girls born in the United States in 2007. It was last ranked among the top 1,000 most common names for boys in the United States in 2002. It was the 479th most common name for all males in the United States in the 1990 census.[2] “Aubrey” can also be spelled “Aubre”,or “Aubrie”.</p></blockquote>
+
+<p>It’s not too late to stop, though.&nbsp; If we stop the madness now, in a generation or two things will be less confusing for those who come after us.</p>
+
+<p>It will also mean I don’t have to share a name with a <a href="http://www.nydailynews.com/gossip/2009/09/02/2009-09-02_aubrey_oday_calls_hitler_and_castro_brilliant_men_on_the_sean_hannity_show.html" target="_blank">complete and total moron</a>.
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 09/03/2009 at 12:36 PM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C24/">What the heck?</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2054/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2054/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/a_plea_on_naming/">Permalink</a></div>
+
+
+
+
+
+
+
+<h2 class="title">Meditations On The Ways In Which XM Radio “Customer Service” Doth Suck</h2>
+
+
+
+<p>I received an email last night from XM Radio reminding me that the credit card I’m using with them is expiring.&nbsp; This also reminded me that I needed to cancel the second radio on my account, since I’d taken that radio out of my home entertainment center a while back and had forgotten about it (and with automatic payments every quarter, it was easy for it to get lost in the noise).</p>
+
+<p>Since I wanted to do two things, I decided to give their phone service a try, hoping against hope that it would be better than the last time I tried to use it.&nbsp; When I called I got one of those obnoxious voice systems that expects you to talk to it.&nbsp; I <a href="http://www.aubreyturner.org/index.php?/orglog/first_lets_kill_all_the_robots/" target="_blank">loathe</a> these things with a passion.&nbsp; First, I feel silly talking to a computer.&nbsp; But more importantly, I have so little trust in customer service computer systems in the first place that putting a voice recognition system in front of it that half the time doesn’t understand what I’m saying feels like a recipe for disaster to me.&nbsp; Finally, I know that most companies won’t let you cancel any kind of service without talking to a person, so why not skip the nonsense and get right to the person?</p>
+
+<p>This system asked me for my phone number, and fortunately allowed me to key it in, along with my zip code.&nbsp; Then it said that my credit card had expired and demanded that I say “yes” or “no” to the question of whether I wanted to update it now.&nbsp; I simply hit zero, to see if it would break out and let me talk to a person.&nbsp; I was pleasantly surprised that it worked.&nbsp; At least at first.&nbsp; Because it immediately put me on hold, and then dropped the line after about 30 seconds.&nbsp; Since I’m a glutton for punishment, I tried this three or four more times and got the same result each time.</p>
+
+<p>XM phone FAIL!</p>
+
+<p>So, I went to xmradio.com and was bombarded with a landing page that used Flash video with sound.&nbsp; This is what I consider a major sin of web design and a major irritant. </p>
+
+<p>XM web design FAIL!</p>
+
+<p>Once I got past that and onto the main XM page I logged into my account and was dumped into the account information page with a pop up that informed me that I needed to update my credit card info to continue.&nbsp; However, the credit card info was inactive (grayed out) and I saw no obvious way to change it, so I clicked the “Change Info” button at the bottom of the page.&nbsp; This turns out to be a major tactical blunder, as the system interpreted this as me wanting to save the data.&nbsp; With a properly designed system this wouldn’t be a problem, but XM’s system <b>LOCKS YOUR ACCOUNT FOR 10 MINUTES</b> while it “updates.”&nbsp; This means if you try to do anything but look at the account summary during that time you get a pop up that tells you the account is “being updated” and to wait for 10 minutes.&nbsp; </p>
+
+<p>XM system design FAIL!</p>
+
+<p>So, after stewing for 10 minutes I went back into the account info page and finally saw the “Change” link above the credit card info which activated the data fields (and made some new ones visible).&nbsp; I was able to enter the new expiration date and save the data.&nbsp; Which was good.&nbsp; But it locked the account again for another 10 minutes.&nbsp;  <img src="http://www.aubreyturner.com/images/smileys/blank.gif" width="19" height="19" alt="blank stare" style="border:0;"> </p>
+
+<p>After duly waiting ten minutes (actually, after impatiently hitting “Radios &amp; Subscription” about 10 times), I was able to see the list of radios on the account.&nbsp; But there is no way to cancel a radio from the website (I was afraid this would be the case, as it was this way the last time I tried to use their brain-dead site a couple of years ago; I was just hoping that they might have seen the error of their ways in the interim and that I might be able to avoid going back to XM phone hell).&nbsp; </p>
+
+<p>XM user experience FAIL!</p>
+
+<p>As a parting gift, I discovered a bug with their caching/session code when I clicked back to the account summary page and I got another pop up informing me that my credit card had expired.&nbsp; This did not inspire confidence, so just to be sure I logged out, closed the window, and logged in from another window to confirm that the changes had indeed been made (which means I had to go through the stupid Flash video landing page again, etc).</p>
+
+<p>XM session caching FAIL!</p>
+
+<p>At this point I’m already a bit annoyed and frustrated with them, and not very happy about having to go back to the phones.&nbsp; But I’m nothing if not persistent.&nbsp; So, once more into the breach, dear friends…</p>
+
+<p>I dialed their 800 number and I got the phone company’s ‘unable to complete this call as dialed’ message.&nbsp; WTF?&nbsp; I checked the number and tried again.&nbsp; Same result.&nbsp; Hmm…</p>
+
+<p>Waited a few minutes and tried again (counting the first attempts and the uncompleted calls, this is attempt number 8).&nbsp; This time I got an actual person instead of Chatty Cathy the Computer.&nbsp; He had a faint Indian accent, but was otherwise understandable.&nbsp; Could this be an improvement?&nbsp;  Alas, this was not to be…</p>
+
+<p>The person was nice enough, and took down the radio ID and looked up my account.&nbsp; When he did he tried to confirm the information, which was weird because his computer showed my old phone number in Denton, which I hadn’t used since 2003 (this didn’t give exactly give me the warm fuzzies about their systems, since I was still on the website which showed my current phone number in the account summary; further, Chatty Cathy the Computer was able to look up my account using my current number earlier).</p>
+
+<p>XM multiple system synchronization FAIL!</p>
+
+<p>Whatever the issue, he updated the number (which scares me deep down in the dark chambers of my IT Architect heart) and said he’d have to transfer me to the right department and for me to stay on the line.&nbsp; *Groan*&nbsp; Knowing where this was going, but not having much choice, I stayed on the line.&nbsp; For all of about 30 seconds, at which point the background hiss turns to silence, which means I’ve been dropped.&nbsp; Again.</p>
+
+<p>XM phone transfer FAIL!</p>
+
+<p>Call number 9.&nbsp; Get another friendly person who asks all the same questions as the first and then transfers me to the other department.&nbsp; Another drop.&nbsp; </p>
+
+<p>XM phone transfer FAIL!</p>
+
+<p>Did I mention that like the <a href="http://www.youtube.com/watch?v=x7wc55oXWf8" target="_blank">Monty Python Monks</a>, I’m a glutton for punishment?&nbsp; I decide to give it another try (<i>Thank you, sir.&nbsp; May I have another?</i>).&nbsp; </p>
+
+<p>Call number 10.&nbsp; Got another friendly person with a faint Indian accent who asked the same questions again.&nbsp; This time I ask if perhaps there’s some way for her to stay on the line as I’ve been dropped numerous times.&nbsp; She agrees, but I still hear the familiar click as she puts me on hold.&nbsp;  <img src="http://www.aubreyturner.com/images/smileys/longface.gif" width="19" height="19" alt="long face" style="border:0;"> </p>
+
+<p>After about 30 seconds, just as I was fearing that I was going to be dropped again, I heard a very low voice.&nbsp; It was so low that I thought at first that it might be cross-talk from another line, but after it paused and said something again, I tried talking to it (afraid I might be talking to myself) and it responded!&nbsp; I cranked up the volume on my headset to STUN and although every single little background sound in my office was now reverberating through my skull I was actually able to converse with this person.&nbsp; Amazingly I’d finally made it through to the almost mythical XM cancellation department!</p>
+
+<p>She asked me all of the same questions as the other people (doesn’t anyone share info in these damn callcenters?&nbsp; I know it’s possible, since I’ve worked on systems in the past that did it) and canceled the second radio.&nbsp; Or at least she said so.&nbsp; I’m not at all confident that it actually worked and I fully expect to have to call them again in a few weeks when the quarterly billing goes through.&nbsp; </p>
+
+<p>Why does this have to be so damn hard?&nbsp; Why do companies insist on treating their customers so shabbily?&nbsp; Something as simple as updating credit card info and canceling a single radio on an account shouldn’t take two hours and a multitude of web site visits and phone calls.&nbsp; Someone at XM has seriously dropped the ball when it comes to prioritizing their customer service operation.&nbsp; </p>
+
+<p>XM customer experience FAIL!</p>
+
+<p><b>Update</b>: As a final stick in the eye, I received the following email after updating my credit card expiration date in the system:</p>
+
+<blockquote><p>
+Thank you for your recent payment to XM Satellite Radio.&nbsp; Please allow two (2)<br>
+days for your payment to be posted to your XM account.&nbsp; </p>
+
+<p>This confirms that you have authorized recurring payments for your XM<br>
+Satellite Radio service.&nbsp; The payments will be automatically debited from the<br>
+account or debit card you provided to us.&nbsp; The timing of payments will be<br>
+based on the payment plan associated with each individual radio on your<br>
+account.&nbsp; Please contact us at 1-800-XM-RADIO if you have any questions<br>
+regarding your account.</p>
+
+<p>Thank you for using XM Satellite Radio.&nbsp; 
+</p></blockquote>
+
+<p>This, once again, doesn’t fill me with confidence in their system, as I didn’t make a payment.&nbsp; I simply updated some billing information.&nbsp; </p>
+
+<p>XM appropriate update message FAIL!
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 09/03/2009 at 07:57 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C22/">Technology</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2053/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2053/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/meditations_on_the_ways_in_which_xm_radio_customer_service_doth_suck/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Tuesday, September 01, 2009 </h3>
+
+
+<h2 class="title">Sneaky and Underhanded</h2>
+
+
+
+<p>I received a replacement for my old, worn-out, Chase debit card in the mail today.&nbsp; They issue them for three year periods and the old one had been swiped so many times that it was fraying on the edges and the numbers were nearly unreadable.</p>
+
+<p>Anyhow, the first thing that annoyed me was when I called the number to activate the card.&nbsp; Their system took a total of three minutes to “activate” the card, of which 2.5 minutes was devoted to trying to sell me their identity theft protection (and you were not allowed to ignore the offer, as you had to select ‘2’ on the phone to get past it).&nbsp; </p>
+
+<p>But I discovered the really sneaky and underhanded thing when I started looking into their “Free Debit Rewards Program.”&nbsp; The new debit card included an insert for the rewards program that said I could get points for using the card and that enrolling was “EASY—AND FREE!”&nbsp; This triggered my <acronym title="There Ain't No Such Thing As A Free Lunch">TANSTAAFL</acronym> sensors, as there has to be some kind of catch (i.e. someone is paying for these “free rewards”).&nbsp; The main trick appears to be that you have to use the debit card as a credit card (i.e. don’t use a PIN), which I think triggers fees for the merchant.&nbsp; But the other trick is that there is a $25.00 annual fee.&nbsp; Which is pretty underhanded, because all of their brochures and *all* of their <acronym title="Frequently Asked Questions">FAQ</acronym> answers stress that it is free to enroll.&nbsp; It’s only in the  Terms And Conditions that you learn about the “annual fee.”&nbsp; After parsing that for a minute I realized that they were legally correct, but morally bankrupt.&nbsp; <img src="http://www.aubreyturner.com/images/smileys/grin.gif" width="19" height="19" alt="grin" style="border:0;">&nbsp;   It’s free to enroll.&nbsp; It just costs money to stay in the program.</p>
+
+<p>What the <acronym title="Frequently Asked Questions">FAQ</acronym> promises…<br>
+<img src="http://www.aubreyturner.org/imgs/ChaseExtrasFAQAbout.png" width="503" height="94"></p>
+
+<p>... is taken away by the T’s and C’s:<br>
+<img src="http://www.aubreyturner.org/imgs/ChaseExtrasTsAndCsAnnualFee.png" width="484" height="70"></p>
+
+<p>That said, the program may still be worth it, especially since I use the card so often.&nbsp; But the way they hid the fee bothers me enough that I am going to pass on the program.&nbsp; In the interest of full disclosure they should have had at least one <acronym title="Frequently Asked Questions">FAQ</acronym> answer that covers the fact that there is an annual fee (and I skimmed *every* <acronym title="Frequently Asked Questions">FAQ</acronym> just to be sure; I could find no mention of it there, only in the T’s and C’s).&nbsp; 
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 09/01/2009 at 09:27 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C4/">Bloodsuckers</a> •
+
+(2) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2052/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2052/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/sneaky_and_underhanded/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Monday, August 24, 2009 </h3>
+
+
+<h2 class="title">Doggone Bad Time In North Keller</h2>
+
+
+
+<p>When I read about this incident  yesterday I was wondering what the heck is going on up there in North Keller.&nbsp; This morning’s story update helped answer that when the fact that both parties had been drinking was added.</p>
+
+<p>Anyhow, <a href="http://www.star-telegram.com/804/story/1553722.html?storylink=omni_popular" target="_blank">this</a> is why I bring Malcolm in if it looks like he’s going to bark for an extended period of time:</p>
+
+<blockquote><p>
+KELLER—A 38-year-old man begged his neighbor not to shoot him a second time early Sunday after the two argued over a barking dog, police said Monday.</p>
+
+<p>The shooter didn’t, but he said, “Get off my ... property,” to another person who tried to help the wounded victim, police said.</p>
+
+<p>Police identified the suspect as Edward M. Stewart of Keller who was free Monday after posting bail Sunday night.</p>
+
+<p>Stewart, 49, was arraigned late Sunday on a charge of attempted murder, two counts of aggravated assault with a deadly weapon and one charge of deadly conduct.</p>
+
+<p>The 38-year-old neighbor remained in a Fort Worth hospital Monday suffering from a gunshot wound to the stomach.</p>
+
+<p>Along with his neighbor, Stewart accidently wounded his own wife during the incident, police said.</p>
+
+<p>The shooting happened at about 12:34 a.m. Sunday in the 1300 block of Robin Court after Stewart and the victim had been arguing through a fence about the dog.</p>
+
+<p>According to police reports, the victim was having a fantasy football party and the dog had been barking.</p>
+
+<p>“The two were at the fence when the suspect told the victim that he would fight him if he climbed over into his backyard,” Keller police Lt. Brenda Slovak said Monday. “The victim climbed over the fence into the backyard.”</p>
+
+<p>Stewart and the victim were both intoxicated, according to police reports.</p>
+
+<p>The two pushed each other for a few minutes, police said Monday. At one point, Stewart’s wife tried to stop it, police said.</p>
+
+<p>Within minutes, Stewart is accused of pulling out a revolver and shooting his neighbor in the abdomen, police said. The bullet went through the man and lodged in the leg of the Stewart’s wife, who was trying to stop the argument, police said.</p>
+
+<p>“One of the friends of the victim was at the back fence, saw what happened and jumped over to help his friend,” Slovak said. “But he jumped back over when the suspect threatened him.”</p>
+
+<p>Stewart’s wife was treated and released from a local hospital a few hours after the shooting.</p>
+
+<p>Police had no record of responding to calls between the neighbors before Sunday.
+</p></blockquote>
+
+<p>Most of my neighbors also have dogs, and those dogs bark a lot, but fortunately they don’t do it too much at night.&nbsp; Malcolm is also a prodigious barker, and if left to his own devices will bark for hours.&nbsp; So I make sure to bring him in if he’s having a barking fit.&nbsp; Heck, it annoys me, and he’s my dog. </p>
+
+<p>It’s going to be interesting to watch this case to see how it unfolds.&nbsp; There may be a chance the shooter can claim self-defense.&nbsp; But given that both of these kuckleheads were drinking and fighting, it makes things more murky (i.e. depending on what was said by the shooter, the shootee might be able to claim mutual combat).&nbsp; I suppose it will depend on who tells the best story to the grand jury.&nbsp; </p>
+
+<p>But regardless of the court outcome, I suspect that one or the other of them will probably have to end up moving.&nbsp; Shooting your neighbor / being shot by your neighbor, doesn’t exactly make for warm-and-fuzzy future relations.&nbsp; 
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 08/24/2009 at 08:27 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C9/">Guns</a> • 
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C11/">It's A Dog's Life</a> • 
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C40/">Keller Stuff</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2050/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2050/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/doggone_bad_time_in_north_keller/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Tuesday, August 04, 2009 </h3>
+
+
+<h2 class="title">What Were They Thinking?</h2>
+
+
+
+<p>I was in the store last night and did a double-take when I saw a pallet of “Old Yeller” brand dog food.&nbsp; It seems to me naming a brand of dog food for a dog that gets rabies and has to be shot would lead to unfortunate associations in the minds of buyers.&nbsp; At least it does so for me.&nbsp; I must not be the norm, though, as some Google searching shows that the brand has been around since 2005.
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 08/04/2009 at 08:24 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C24/">What the heck?</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2049/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2049/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/what_were_they_thinking1/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Friday, July 24, 2009 </h3>
+
+
+<h2 class="title">Another Lesson</h2>
+
+
+
+<p>Aside from “don’t show your ass to the police in public,” there seems to me to be another lesson to be learned from the <a href="http://www.foxnews.com/politics/2009/07/24/cambridge-police-unit-demands-apology-obama-stupidly-remark/" target="_blank">Cambridge Incident</a>:&nbsp; make sure your neighbors know you.&nbsp; </p>
+
+<p>Now you don’t have to go over and spend a lot of time with your neighbors, but it certainly helps if they at least know you by sight, if not by name.&nbsp; It would have saved everyone a lot of grief if the neighbor who spotted Professor Gates breaking into his house knew that it was him, and not some random thief.&nbsp; If I were to have to break into my house at some point, I know that at least the neighbors around me know that I belong here.&nbsp; And if I saw one of my neighbors trying to get in through a window, I’d probably go over and see if I could help somehow.&nbsp; But it sounds like in Professor Gates’ neighborhood no one knows anyone else, which is truly unfortunate.&nbsp; 
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 07/24/2009 at 12:24 PM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C20/">Random Ramblings</a> •
+
+(1) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2048/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2048/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/another_lesson/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Wednesday, July 08, 2009 </h3>
+
+
+<h2 class="title">Snares For The Unwary</h2>
+
+
+
+<p>One of the things that I absolutely hate about Texas law is the pansy-ass way we treat fireworks.&nbsp; They can only be sold during certain dates around Christmas and Independence Day, and a large number of cities and towns not only ban their use in the city limits, they also ban simple possession. </p>
+
+<p>I can understand the prohibition on using fireworks in town, given that urban environments are not the best places for them.&nbsp; But the possession ban is bad because it creates a legal nightmare for people who are traveling and have to go through one or more cities to get from point A (where they are legal) to point B (where they are also legal).&nbsp; If caught in one of these cities, someone simply transporting fireworks could end up having them confiscated and find themselves being issued a fairly expensive ticket (I seem to recall McKinney posting a sign touting a $250 fine).&nbsp; Worse, some cities (*cough* Waco *cough*) have even gone so far as to sit outside fireworks stands and follow people (who were just passing through) into town to confiscate their fireworks and fine them.&nbsp; It was so bad at one point that one Waco fireworks stand owner was sending out decoys so that his real customers could escape.&nbsp; </p>
+
+<p>If I had my way, Texas law would be changed to treat fireworks more like firearms.&nbsp; Texas cities are forbidden by law from prohibiting possession of firearms, but they do have the ability to regulate the discharge of firearms in the city limits.&nbsp; The current system just encourages contempt for the law, in that I have absolutely no compunction about violating one of these stupid ordinances when I’m traveling and I happen to have fireworks.&nbsp; Of course some people might say that you shouldn’t travel with fireworks and that you should just buy them close to where you’re going to use them.&nbsp; My response to that is that there are some serious fireworks stores out on I-20 that have a massive selection that is hard to match elsewhere (although I noticed this year that one has sprouted up in Big Sandy, so perhaps I could get them there in future).&nbsp; Further, bans on simple possession of some item when it is not being used in a harmful manner (or not being used at all), are not compatible with a truly free society.</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 07/08/2009 at 07:22 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C47/">Things That Go Bang</a> •
+
+(2) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2042/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2042/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/snares_for_the_unwary/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Thursday, July 02, 2009 </h3>
+
+
+<h2 class="title">Pinnacle Security: FAIL</h2>
+
+
+
+<p>I am finding of late that despite my “NO SOLICITORS” sign a number of people are still ringing my bell during the day.&nbsp; One of these days I will get another one for the religious people (as they all seem to think they aren’t solicitors, but are doing “God’s work” or something).&nbsp; Anyhow, most of the remaining non-religious solicitors are ones who want to argue with you as to whether they are a solicitor or not.</p>
+
+<p>Today’s award for “reading comprehension FAIL” goes to the representative for <a href="http://pinnaclesecurity.com/" target="_blank">Pinnacle Security</a> who rang the bell even though he clearly saw the sign.&nbsp; I opened the door and he immediately launched into his spiel about how he was visiting with people in the neighborhood who had security systems.&nbsp; I immediately stopped him and asked if he’d seen the sign and knew about Keller’s <a href="http://library7.municode.com:80/default-test/template.htm?view=browse&amp;doc_action=setdoc&amp;doc_keytype=tocid&amp;doc_key=9bd001e28ce4b1c6cba2773c1a400e6c&amp;infobase=11073" target="_blank">soliciting ordinance</a>.&nbsp; His answer was that he was not a solicitor and he didn’t need a permit because he didn’t take money; instead he was just doing “marketing.”&nbsp; I told him that I a) I considered him a solicitor, and b) I had an alarm and didn’t need or want any “upgrades.”&nbsp; He tried once again to launch into his spiel, but I stopped him and told him to leave.&nbsp; He gave me a strange look like he was considering something, but instead said, “I’ll leave whenever you want.”&nbsp; Which had me thinking, <i>Why are you still here, then?</i>, but I didn’t say it, as he finally got the message from my expression that he was quickly moving from annoyance to potential threat and decided to leave. </p>
+
+<p>It only occurred to me afterwards that perhaps he got a glimpse of the Springfield XD 40 that I was carrying.&nbsp; It was not intentional, but earlier I had been fiddling with the radio in my truck and my garage was hot so I took off my outer shirt.&nbsp; When he arrived I was just wearing an undershirt and I had to scramble to get my shirt to cover the gun.&nbsp; I left it unbuttoned, though, which is why in hindsight it’s possible that he saw it.&nbsp; Of course, this being Texas, if you freak out when you discern that the resident of the house has a gun you’re probably not cut out for door-to-door solicitation jobs.
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 07/02/2009 at 02:58 PM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C4/">Bloodsuckers</a> • 
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C16/">Personal Life Stuff</a> •
+
+(4) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2041/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2041/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/pinnacle_security_fail/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Monday, June 29, 2009 </h3>
+
+
+<h2 class="title">Going Round-and-Round With My Tires</h2>
+
+
+
+<p>Last week I finally bit the bullet and bought a new set of tires for the Avalanche.&nbsp; While the OEM Goodyears still had decent tread depth (they only had about 35K miles on them), they sucked in the rain.&nbsp; Further, the right rear tire had a plug in it from a previous encounter with a screw, and the left rear had a slow leak.&nbsp; They were due for rotation soon and I didn’t want to rotate the plugged tire to the front, but at the same time the fronts had developed an uneven wear pattern, so just swapping them from side to side wouldn’t probably be enough.</p>
+
+<p>Anyway, all things considered, I thought it was time to replace them.&nbsp; So I started looking online at the various brands and models of tires and all of the reviews on them.&nbsp; The wealth of information that was available (some tires had over 1000 reviews on Tire Rack’s website) was what really led me down a rat hole.&nbsp; After about a month of dithering, I finally narrowed it down to specific models from Hankook, Continental, and Michelin.&nbsp; All were fairly expensive, with the Hankook’s being the least expensive at just over $850 installed, up to the Michelin, which were quoted on Discount Tire’s website at $1049 installed.&nbsp; </p>
+
+<p>After a final round of dithering due to the cost, I called Discount Tire on Wednesday and they suggested I come into the store to see the tires in person.&nbsp; They didn’t have the Hankook in stock, but did have the Continental ContiCrossContact LX and Michelin LTX M/S in stock. </p>
+
+<p>Wednesday was also the dogs’ yearly vet visit day, so after picking them up at about 5:30 (and dropping $560 into Parkside’s coffers), I rushed over to Discount Tire.&nbsp; I got there about 5:45 and after looking at the tires and discussing it with Aaron (the sales rep), I decided on the Michelin tires (which came out to $997 in the store; I wasn’t completely sure what was different from the online quote, but I wasn’t adverse to keeping the extra $50).&nbsp; By then it was just about 6:00pm and they were supposed to be closing.&nbsp; Because of the delay with the vet, and the fact that I had the dogs in the truck, I wasn’t really expecting to have the tires changed right then, but the manager suggested that they could install them right then and that it wouldn’t be a problem. </p>
+
+<p>I have to say that they were very quick and efficient about it all.&nbsp; They even let me bring the dogs inside while we waited.&nbsp; They had the tires installed and I was out the door by 6:15pm.&nbsp; If you should be in the market for new tires, go see Aaron at Discount Tire in Keller.&nbsp; Other than the hit to the pocketbook (and just when did tires get so damn expensive?), the process was pretty painless.</p>
+
+<p>Now to wait for the first good rainstorm to see how these tires handle.&nbsp; In my short time with them so far they seem to ride smoother and quieter than the old ones.&nbsp; Although I should note for the record that my garage now smells like a tire store.&nbsp; 
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 06/29/2009 at 11:46 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C16/">Personal Life Stuff</a> •
+
+(7) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2040/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2040/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/going_round-and-round_with_my_tires/">Permalink</a></div>
+
+
+
+
+
+
+
+<h2 class="title">Grimly Amused</h2>
+
+
+
+<p>When I got my medical first responder certificate I built myself a first aid kit using the recommendations from the textbook.&nbsp; I used several online suppliers to get some of the things you can’t find in stores so now I get emails from a couple of them with their specials.</p>
+
+<p>I was slightly amused to open my email a few minutes ago to see that one of them was running a July 4th special on products for treating “burns, blisters, infections and 4th of July injuries,”&nbsp; including the <a href="http://www.waterjel.com/buy-online/fire-blankets-wraps/5-x-6-fire-blanket-canister/" target="_blank">WaterJel 5’x6’ Fire Blanket</a>.&nbsp; </p>
+
+<p>Let’s hope that none of us has the kind of 4th that requires a fire blanket.
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 06/29/2009 at 11:38 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C20/">Random Ramblings</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2039/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2039/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/grimly_amused/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Sunday, June 28, 2009 </h3>
+
+
+<h2 class="title">Blood and Sweat…</h2>
+
+
+
+<p>... but no tears, unless you count the sweat getting in my eyes.&nbsp; </p>
+
+<p>I bought a dual-band radio (Yaesu FT-7800) for the truck about a month ago, but had been procrastinating the installation.&nbsp; First, because of the heat.&nbsp; Second, because I hate dealing with automotive installs.&nbsp; This install did nothing to relieve me of my dislike.&nbsp; It was almost as if GM intentionally designed the vehicle to be difficult to install after-market equipment into (and I’ve got the scrapes and bruises to prove it).&nbsp; I think that I’ll take my next (non-GM) vehicle to a custom stereo shop or something and let the pros handle it.</p>
+
+<p>Anyhow, I eventually managed to get everything wired and installed.&nbsp; But I nearly gave myself heat exhaustion in the process.</p>
+
+<p>The first problem to solve was how to mount the antenna.&nbsp; The best location for an antenna is generally in the center of the roof to give maximum height to the antenna and to maximize the ground plane.&nbsp; However, in this case my Avalanche has a sunroof and I also wanted to be able to park it in the garage.&nbsp; Because of its size and ground clearance (it’s the Z71 model), there is only about 3 or 4 inches clearance between the roof and the garage door, leaving no room for an antenna.&nbsp; After a lot of searching I came across the <a href="http://www.pro-fit-intl.com/shopantenna" target="_blank">Pro.Fit antenna mount model AVANTPF</a>, which mounts to an existing bolt under the hood (see <a href="http://www.theantennafarm.com/catalog/index.php?main_page=product_info&amp;products_id=1183" target="_blank">here</a> for a better picture).&nbsp; </p>
+
+<p><a href="http://www.aubreyturner.org/imgs/Av_Antenna.JPG" onclick="window.open('http://www.aubreyturner.org/imgs/Av_Antenna.JPG','popup','width=815,height=615,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.aubreyturner.org/imgs/Av_Antenna_thumb.JPG" width="500" height="375"></a></p>
+
+<p>While it claims to be a fit for the 2004-2006 Avalanches, I found that it didn’t quite fit into the slot in the left fender, so I had to take my Dremel and cut a small notch in the upper left part of the bracket to get everything to line up.&nbsp; Unfortunately, while the antenna shown easily clears the garage door, it has a bad SWR reading (1.9:1).&nbsp; I have another antenna that gets a 1.2:1 reading, but it is about 2 inches too long to clear the door.&nbsp; For now I will just install the big antenna when I leave if I plan to use the radio.&nbsp; In the meantime, I will be continuing the search for a decent antenna that’s short enough to clear the door.&nbsp; </p>
+
+<p>The next problem was where to put the radio itself.&nbsp; There was no option to mount the entire radio in the console without cutting up the center console, so I ended up using the remote-head option.&nbsp; The main body of the radio is in the center console under the cup holders (which are contained in a fairly easy to remove insert, so it will be easy to get to the radio in the future).&nbsp; I put the remote head on the dash bezel, just above the top of the center console.&nbsp; The speaker is mounted on the right lower dash (just above the driver’s knee).&nbsp; The last thing I installed was the mic bracket.&nbsp; Unfortunately, I think the heat was getting to me by then, because it turns out that you can’t shift into Drive if the mic is on the bracket.&nbsp; That will teach me to always check clearances before installing something (I did it for everything else besides the bracket; I guess I just got in a hurry).&nbsp; My next task will be to find a new place for the mic.&nbsp; I’ll probably just get another bracket, since I’m reluctant to remove the one that’s already there because it will expose the holes I drilled for the screws.&nbsp;  <img src="http://www.aubreyturner.com/images/smileys/longface.gif" width="19" height="19" alt="long face" style="border:0;"> </p>
+
+<p><a href="http://www.aubreyturner.org/imgs/Av_FT7800.JPG" onclick="window.open('http://www.aubreyturner.org/imgs/Av_FT7800.JPG','popup','width=815,height=615,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.aubreyturner.org/imgs/Av_FT7800_thumb.JPG" width="500" height="375"></a></p>
+
+<p>Damn, that flash really shows how dirty my center console storage bin is.&nbsp; Looks like it’s time for a thorough detail job.</p>
+
+<p>Oh, yeah, it was like this all day long in the garage:<br>
+<a href="http://www.aubreyturner.org/imgs/AV_Install_95Degrees.JPG" onclick="window.open('http://www.aubreyturner.org/imgs/AV_Install_95Degrees.JPG','popup','width=815,height=615,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.aubreyturner.org/imgs/AV_Install_95Degrees_thumb.JPG" width="500" height="375"></a></p>
+
+<p>If I’m going to do much more work like this I’m going to have to break down and buy a shop fan.&nbsp; The stand-fan I have is just too puny to move enough air to matter when it’s this hot.
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 06/28/2009 at 06:48 PM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C22/">Technology</a> •
+
+(0) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2038/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2038/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/blood_and_sweat/">Permalink</a></div>
+
+
+
+
+
+
+<h3 class="date"> Tuesday, June 09, 2009 </h3>
+
+
+<h2 class="title">Voting With Our Feet And Our Wallets</h2>
+
+
+
+<p><a href="http://pajamasmedia.com/instapundit/79741/" target="_blank">Instapundit</a> points us to <a href="http://www.rasmussenreports.com/public_content/business/auto_industry/just_42_of_gm_owners_likely_to_buy_gm_again" target="_blank">this poll</a> about current attitudes towards GM after the government bailout.</p>
+
+<blockquote><p>
+Only 42% of those who currently own a General Motors car are even somewhat likely to buy a GM product for their next car. That figure includes just 30% who are Very Likely to do so.</p>
+
+<p>The latest Rasmussen Reports national telephone survey shows that 43% of current GM owners are not likely to buy another GM car, while 16% are not sure. </p>
+
+<p>...</p>
+
+<p>Fifty-one percent (51%) of Americans nationwide say they are now more likely to buy a Ford since that company did not take any bailout funding. Only 12% are less likely to buy from Ford.</p>
+
+<p>There is an interesting political twist to the attitudes about buying GM. Currently, among those who hold populist or Mainstream political views, 46% own a GM car. But just 15% of those in the Mainstream are Very Likely to buy their next car from GM. 
+</p></blockquote>
+
+<p>This corresponds with the informal discussions that I’ve had with several people, both current and past GM vehicle owners.&nbsp; It also corresponds to my own attitudes.&nbsp; I currently own an Avalanche.&nbsp; My next vehicle will NOT be a GM as long as it’s owned by the government and the unions.&nbsp; And this is coming from someone who was strongly considering a Traverse before the bailout.&nbsp; But now I will look at Ford or one of the foreign brands that builds their vehicles in America instead of GM.&nbsp; 
+</p>
+
+
+
+<div class="posted">Posted by <a href="http://www.aubreyturner.org/index.php?/member//">Aubrey Turner</a> on 06/09/2009 at 06:52 AM PDT
+<br>
+
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/C46/">The Suck</a> •
+
+(4) <a href="http://www.aubreyturner.org/index.php?/orglog/comments/2016/#comments">Comments</a> |  <a href="http://www.aubreyturner.org/index.php?/orglog/comment_pop/2016/" onclick="OpenCommentsForm(this.href); return false">Pop-up Comments</a> •
+
+<a href="http://www.aubreyturner.org/index.php?/orglog/voting_with_our_feet_and_our_wallets/">Permalink</a></div>
+
+
+
+
+
+<div class="paginate">
+
+<span class="pagecount">Page 1 of 110 pages</span>  &nbsp;<strong>1</strong>&nbsp;<a href="http://www.aubreyturner.org/index.php?/orglog/P15/">2</a>&nbsp;<a href="http://www.aubreyturner.org/index.php?/orglog/P30/">3</a>&nbsp;<a href="http://www.aubreyturner.org/index.php?/orglog/P15/">&gt;</a>&nbsp;&nbsp;<a href="http://www.aubreyturner.org/index.php?/orglog/P1635/">Last »</a>
+
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+<div id="footer">
+
+<h2 class="sidetitle">Statistics</h2>
+<p>This page has been viewed 1826337 times<br>
+Page rendered in 1.1332 seconds<br>
+40 queries executed<br>
+
+</p>
+<br>
+<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<a href="http://s14.sitemeter.com/stats.asp?site=s14aubreyturnerorg" target="_top">
+<img src="http://s14.sitemeter.com/meter.asp?site=s14aubreyturnerorg" alt="Site Meter" border="0"></a>
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
+<br>
+
+<p><br><a href="http://www.pmachine.com/">Powered by ExpressionEngine</a></p>
+
+</div>
+
+
+</body></html>

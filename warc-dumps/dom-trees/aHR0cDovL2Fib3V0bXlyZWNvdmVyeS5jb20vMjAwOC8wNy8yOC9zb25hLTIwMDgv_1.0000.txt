@@ -1,0 +1,1591 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<title>SONA 2008: A Mother’s Hope | A Filipina Mom Blogger</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="description" content="Parenting, Health, Wellnes, Family&amp; New Media">
+	<link rel="stylesheet" type="text/css" href="http://aboutmyrecovery.com/wp-content/themes/personal/style.css">
+	<link rel="alternate" type="application/rss+xml" href="http://aboutmyrecovery.com/feed/" title="A Filipina Mom Blogger Posts RSS feed">
+	<link rel="alternate" type="application/rss+xml" href="http://aboutmyrecovery.com/comments/feed/" title="A Filipina Mom Blogger Comments RSS feed">
+	<link rel="pingback" href="http://aboutmyrecovery.com/xmlrpc.php">
+
+
+<link rel="shortcut icon" href="/favicon5.ico">
+<script type="text/javascript">
+   var infolink_pid = 80575;
+   var infolink_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-484442-3";
+urchinTracker();
+</script>
+<meta name="msvalidate.01" content="D1E99C97CDFD47CFA93A545893E8EA17">
+
+
+	<link rel="alternate" type="application/rss+xml" title="A Filipina Mom Blogger » SONA 2008: A Mother’s Hope Comments Feed" href="http://aboutmyrecovery.com/2008/07/28/sona-2008/feed/">
+<script type="text/javascript" src="http://aboutmyrecovery.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://aboutmyrecovery.com/wp-content/plugins/commentluv/js/hoverIntent.js?ver=abc"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cl_settings = {
+	name: "author",
+	url: "url",
+	comment: "comment",
+	email: "email",
+	prepend: "",
+	badge: "http://aboutmyrecovery.com/wp-content/plugins/commentluv/images/CL91x17-white2.gif",
+	show_text: "CommentLuv Enabled",
+	badge_text: "",
+	heart_tip: "on",
+	default_on: "checked",
+	select_text: "choose a different post to show",
+	cl_version: "276",
+	images: "http://aboutmyrecovery.com/wp-content/plugins/commentluv/images/",
+	api_url: "http://api.comluv.com/cl_api/commentluvapi.php",
+	refer: "http://aboutmyrecovery.com/2008/07/28/sona-2008/"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://aboutmyrecovery.com/wp-content/plugins/commentluv/js/commentluv.js?ver=abc"></script>
+<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share?ver=abc"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aboutmyrecovery.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aboutmyrecovery.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="A Filipina Mom Blogger" href="http://aboutmyrecovery.com">
+<link rel="start" title="The Launch" href="http://aboutmyrecovery.com/2006/02/24/my-blog-is-launched/">
+<link rel="prev" title="It’s Okay to Feel our Feelings" href="http://aboutmyrecovery.com/2008/07/24/its-okay-to-feel-our-feelings/">
+<link rel="next" title="Philippine Blog Awards on September 21 at One Esplanade" href="http://aboutmyrecovery.com/2008/07/31/philippine-blog-awards-on-september-21-at-one-esplanade/">
+
+<meta name="description" content="Share
+Share">
+<meta name="keywords" content="current-affairs">
+
+<!-- Powered by AdSense-Deluxe WordPress Plugin v0.7 - http://www.acmetech.com/blog/adsense-deluxe/ -->
+
+<!-- All in One SEO Pack 1.6.8.1 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
+<meta name="description" content="To capture my initial reaction of the President's SONA, I wrote this entry while watching the SONA 2008 live coverage. I care about my children who will">
+<meta name="keywords" content="current affairs">
+<link rel="canonical" href="http://aboutmyrecovery.com/2008/07/28/sona-2008/">
+<!-- /all in one seo pack -->
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content-main");
+			if( !content )
+				content = document.getElementById("content");
+			if( content )
+			{
+				addComment.parentNode.removeChild(addComment);
+				content.appendChild(addComment);
+			}
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	/*width: 					100%;	*/
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+ 
+#commentform textarea {
+	width: 97%;
+}
+
+.btc_gravatar {
+	float: right;
+	margin: 3px 3px 4px 4px;
+}
+</style>
+<link rel="stylesheet" href="http://aboutmyrecovery.com/wp-content/plugins/commentluv/style/cl_style.css" type="text/css"><meta name="tweetmeme-title" content="SONA 2008: A Mother’s Hope"><style type="text/css" media="screen">
+
+/* Begin Contact Form CSS */
+.contactform {
+	position: static;
+	overflow: hidden;
+	width: 95%;
+}
+
+.contactleft {
+	width: 25%;
+	white-space: pre;
+	text-align: right;
+	clear: both;
+	float: left;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contactright {
+	width: 70%;
+	text-align: left;
+	float: right;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contacterror {
+	border: 1px solid #ff0000;
+}
+
+.contactsubmit {
+}
+/* End Contact Form CSS */
+
+	</style>
+
+
+<!-- Start Of Script Generated By WP-PostViews 1.50 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery.ajax({type:'GET',url:'http://aboutmyrecovery.com/wp-content/plugins/wp-postviews/wp-postviews.php',data:'postviews_id=2085',cache:false});/* ]]> */
+</script>
+<!-- End Of Script Generated By WP-PostViews 1.50 -->
+
+<style type="text/css">
+#headimg {
+	float: left;
+	margin: 0 0 0 15px;
+	width: 670px;
+	height: 200px;
+	background: url(http://aboutmyrecovery.com/wp-content/themes/personal/images/headimg.jpg) no-repeat;
+	overflow: hidden;
+	display: inline;
+}
+
+#headimg h1, #headimg #desc {
+	display: none;
+}
+
+</style>
+
+
+</head>
+<body class="personal">
+<div id="wrapper">
+<script type="text/javascript" src="http://track.mybloglog.com/js/jsserv.php?mblID=2006031205112946"></script>
+	<div id="header">
+		<h1><a href="http://aboutmyrecovery.com" title="A Filipina Mom Blogger home page">A Filipina Mom Blogger</a></h1>
+		<div id="search">
+			<form method="get" id="searchform" action="http://aboutmyrecovery.com/">
+				<div class="keyword"><input type="text" value="" name="s" id="s" size="30"></div>
+				<div class="go"><input type="image" src="http://aboutmyrecovery.com/wp-content/themes/personal/images/bg-search-button.gif" alt="Search" title="Search" name="searchsubmit" id="searchsubmit"></div>
+			</form>
+		</div>
+	</div>
+
+	<div class="container outter">
+		<div class="container inner">
+
+			<div id="menu">
+				<ul id="nav">
+					<ul><li><a href="http://aboutmyrecovery.com/">Home</a> </li><li> <a href="http://aboutmyrecovery.com/about/">About Me</a> </li><li> <a href="http://aboutmyrecovery.com/about-the-site/">About My Blog</a> </li> <li><a href="http://aboutmyrecovery.com/archives/">Archives</a></li><li><a href="http://aboutmyrecovery.com/suicide-prevention/">Suicide Prevention</a> </li><li> <a href="http://aboutmyrecovery.com/contact-me/">Contact Me</a></li>
+					
+				</ul>
+			</ul></div>
+			<div class="top"></div><div class="clear"></div>
+
+			<div id="headimg"></div>
+
+			<div id="content">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0197993005347291";
+/* 336x280recovery, created 4/17/08 */
+google_ad_slot = "9823170609";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br>
+
+				
+				<div id="post-2085" class="post">
+
+					<h2 class="entry-title"><a href="http://aboutmyrecovery.com/2008/07/28/sona-2008/" title="SONA 2008: A Mother’s Hope">SONA 2008: A Mother’s Hope</a></h2>
+					<div class="entry-meta">
+						<span class="author">blogged by <a href="http://aboutmyrecovery.com/author/noemi/" title="Posts by Noemi Lardizabal-Dado">Noemi Lardizabal-Dado</a> with 7,317 views </span>
+					</div>
+
+					<div class="entry-date">
+						<span class="month">Jul</span>
+						<span class="day">28</span>
+					</div>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Faboutmyrecovery.com%2F2008%2F07%2F28%2Fsona-2008%2F&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:60px"></iframe>
+					<div class="entry-content">
+
+
+						<a name="fb_share" type="button_count" share_url="http://aboutmyrecovery.com/2008/07/28/sona-2008/">Share</a><div class="tweetmeme_button" style="float: right; margin-left: 10px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Faboutmyrecovery.com%2F2008%2F07%2F28%2Fsona-2008%2F&amp;style=compact" height="20" width="90" frameborder="0" scrolling="no"></iframe></div>
+<p><i>To  capture my initial reaction of the President’s SONA, I wrote this entry while watching  the SONA 2008 live coverage.</i></p>
+<p>I care about my children who will inherit the country’s future.</p>
+<p>President Gloria Macapagal-Arroyo thinks of the poor and her fellow Filipinos in her State of the Nation Address (SONA 2008) (View <a href="http://www.justin.tv/livephtv/174926" rel="nofollow">SONA 2008 Video Archive</a> and <a href="http://newsinfo.inquirer.net/breakingnews/nation/view/20080728-151233/Full-text-State-of-the-Nation-Address-2008" rel="nofollow">SONA 2008 Full Text</a>). She kept saying “I care…”</p>
+<p></p><center><img src="http://aboutmyrecovery.com/wp-content/uploads/2008/07/sona2008-gma.jpg" alt="" title="sona2008-gma" width="300" height="224" class="aligncenter size-full wp-image-2101"></center><p></p>
+<p>Madam President, I think of my children all the time. I had high hopes for the Philippines. I refused  the US immigrant application in 1986 when Lauren was still a baby because I wanted my children to stay here and work for the future of their country. Sometimes, I think I made a mistake after seeing the state of our country through no fault of ours, you say. </p>
+<p>To address these global challenges, you said that “we have to reach out to those we need and who may need us, yet we strive for self-reliance.” </p>
+<p><span id="more-2085"></span></p>
+<p>Madam President, I start with my children first of all because I cannot possibly save the Philippines on my own. </p>
+<p>You say “How do we solve these complex challenges. The answer is special care and attention in this great hour of need. We have to have targeted strategies to target price increases, less energy dependence, self-sustainability, self-independence, and self-reliance.” </p>
+<p>I am not helpless. I can solve most of my problems. I have the power to solve the problems that is mine to solve.  In my own little way, I contribute to the society through my children. Self-reliance begins in our homes.  I hope to instill self-reliance in my children even if they have to  inherit this crappy economy. </p>
+<p>1. I tell then to save their money. Even if we have a extra funds, I train them to think of investments and money management. I do not buy every single material wants if it is merely a luxury item such as fancy cellphones, or computer toys.</p>
+<p>2. I encourage my children to expand their knowledge through education and to think out of the box. I encourage them to speak their minds even if it goes against mine.</p>
+<p>3. I tell them to turn off the appliances and the lights. I encourage them to commute because  I can’t possibly drive them  around due to the high prices of gas.</p>
+<p>As president, you ended SONA 2008  with “We have our disagreements, but we are one nation with one fate. As your President, I care too much for this nation to let anyone stand in the way of the people’s well-being. I will let no one threaten our nation’s survival. We must be there for them now.”</p>
+<p>I care about my children like all parents do, so please live up to your promises.</p>
+<p>In the meantime, I hope you continue to fight this battle every single day. It is difficult times for all of us.</p>
+<p>I believe that hard times can motivate us to bring out our best. That choice is ours. We don’t need to have stress or hard times to change ourselves but if it happens, we can learn to channel it into achieving what’s good in our life.</p>
+<p>We are not victims of life. We can learn to remove ourselves as victims of life. Letting go of the belief that life has to be hard and difficult makes our life much easier.</p>
+<p>So what are other ways to getting through hard times? </p>
+<div class="wptouch-adsense-ad"><!-- google_afm --></div><a name="fb_share" type="button_count" share_url="http://aboutmyrecovery.com/2008/07/28/sona-2008/">Share</a>						
+						<br><br>
+
+
+
+					</div><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Faboutmyrecovery.com%2F2008%2F07%2F28%2Fsona-2008%2F&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:60px"></iframe>
+					<div class="entry-foot">
+
+						<span class="cat-links">Filed under: <a href="http://aboutmyrecovery.com/category/current-affairs/" title="View all posts in Current Affairs" rel="category tag">Current Affairs</a>, <a href="http://aboutmyrecovery.com/tag/gloria-macapagal-arroyo/" rel="tag">Gloria Macapagal-Arroyo</a>, <a href="http://aboutmyrecovery.com/tag/gma/" rel="tag">GMA</a>, <a href="http://aboutmyrecovery.com/tag/sona/" rel="tag">SONA</a></span>
+					</div>
+				</div>
+
+				<div id="comments"><ul><b>RELATED POSTS</b>:
+<dl><a href="http://aboutmyrecovery.com/2009/07/27/sona-2009/" rel="bookmark" title="Permanent Link: State of the Nation Address 2009: Nothing New">State of the Nation Address 2009: Nothing New</a></dl><dl><a href="http://aboutmyrecovery.com/2008/09/24/kippy-cat-travels/" rel="bookmark" title="Permanent Link: Kippy Cat Travels">Kippy Cat Travels</a></dl><dl><a href="http://aboutmyrecovery.com/2008/02/06/the-presidents-sons-are-spoiled-brats/" rel="bookmark" title="Permanent Link: The President’s Sons are Spoiled Brats">The President’s Sons are Spoiled Brats</a></dl><dl><a href="http://aboutmyrecovery.com/2008/11/07/the-hope-of-obama/" rel="bookmark" title="Permanent Link: The Hope of Obama and A Mother’s Hope">The Hope of Obama and A Mother’s Hope</a></dl><dl><a href="http://aboutmyrecovery.com/2009/04/30/kiko-pangilinan-with-hope-and-reform/" rel="bookmark" title="Permanent Link: Kiko Pangilinan with Hope and Reform">Kiko Pangilinan with Hope and Reform</a></dl><dl><a href="http://aboutmyrecovery.com/2008/11/21/gratitude-is-my-name/" rel="bookmark" title="Permanent Link: Hello, My Name is Gratitude">Hello, My Name is Gratitude</a></dl><dl><a href="http://aboutmyrecovery.com/2009/01/12/a-talk-with-mar-roxas/" rel="bookmark" title="Permanent Link: A Soiree with Mar Roxas">A Soiree with Mar Roxas</a></dl><dl><a href="http://aboutmyrecovery.com/2008/11/13/bloggers-join-the-impeach-gma-drive/" rel="bookmark" title="Permanent Link: Bloggers Join The Impeach-Arroyo Drive">Bloggers Join The Impeach-Arroyo Drive</a></dl><dl><a href="http://aboutmyrecovery.com/2009/05/06/ako-mismo-campaign/" rel="bookmark" title="Permanent Link: Ako Mismo Campaign and My Conditional Support">Ako Mismo Campaign and My Conditional Support</a></dl><dl><a href="http://aboutmyrecovery.com/2008/05/02/proudly-filipina/" rel="bookmark" title="Permanent Link: QTV Proudly Filipina and Charlene Gonzales">QTV Proudly Filipina and Charlene Gonzales</a></dl> </ul>
+<center>
+
+
+<!-- nuffnang -->
+<!-- nuffnang -->
+<script type="text/javascript"> 
+nuffnang_bid = "c9a3fa9e3935a17b779078540932ee7d";
+</script>
+<script type="text/javascript" src="http://synad2.nuffnang.com.ph/j.js"></script>
+<!-- nuffnang--></center><br>
+
+<!-- You can start editing here. -->
+<br><br>
+<b>You can also get Email Updates of any new posts by adding your email address below:</b><br>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=716143" name="url"><input type="hidden" value="Touched by an Angel" name="title"><input type="submit" value="Subscribe"><p>Delivered by <a href="http://www.feedburner.com" target="_blank">FeedBurner</a></p></form>
+<b>If you enjoyed this post, then make sure you <a href="http://feeds.feedburner.com/aboutmyrecovery" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="border:0"></a><a href="http://feeds.feedburner.com/aboutmyrecovery" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">subscribe to my RSS Feed</a>.</b><br><br>
+<font color="red">The comments posted on my blog are moderated.  I reserve the right to remove comments, words or phrases that are defamatory, abusive, incite hatred and advertise an email address or commercial services or just plain spammy. I also reserve the right to remove posts that to my opinion are off-topic, irrelevant, ad-hominem, personal attacks and or just plain rude. (January 16, 2009)</font>
+
+<p><a href="http://aboutmyrecovery.com/2008/07/28/sona-2008/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed</a> 
+| <a href="http://aboutmyrecovery.com/2008/07/28/sona-2008/trackback/">Trackback <acronym title="\&quot;Uniform" resource identifier\">URI</acronym></a>
+</p>
+
+<h2 id="comments">28 Comments 
+<a href="#postcomment" title="Leave a comment">»</a>
+</h2>
+<div class="#commentlist">
+			<div id="div-comment-259290" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/235730777399c53aa9ca2a2768ab6ce3?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259290" id="comment-259290"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259290&quot;)">
+					<cite>Comment by <a href="http://brianong.blogspot.com/" rel="external nofollow" class="url">brian</a><a href="#comment-259290"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 17:32:24 						
+					</div>					
+					<div class="content">
+						<p>very well said! i love this post. i’ll share this with my contacts!</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259290&quot;, 259290, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259292" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259292" id="comment-259292"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259292&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-259292"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 17:35:41 						
+					</div>					
+					<div class="content">
+						<p>Thanks Brian.  I was live-blogging and expressing my sentiments as GMA spoke. It’s my heartfelt response to her SONA.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259292&quot;, 259292, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259304" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/6518788231eee0b652fad769d66cff63?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259304" id="comment-259304"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259304&quot;)">
+					<cite>Comment by <a href="http://abbieunreal.blogspot.com" rel="external nofollow" class="url">Abbie</a><a href="#comment-259304"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 18:06:06 						
+					</div>					
+					<div class="content">
+						<p>Nice post as usual, Noemi! <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  </p>
+<p>I am still at the office and haven’t read/heard/watched the SONA yet. But judging from your post reply, seemed there were a lot of promises and motherhood statements as usual. Oh well.</p>
+<p>Abbies last blog post..<a href="http://feeds.feedburner.com/~r/AbbieUnreal/~3/346781106/david-cook-in-manila-january-29-2009.html" rel="nofollow">DAVID COOK IN MANILA – JANUARY 27, 2009!</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259304&quot;, 259304, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259308" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259308" id="comment-259308"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259308&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-259308"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 18:09:06 						
+					</div>					
+					<div class="content">
+						<p>@abbie- yes there were promises. As a mom,  I couldn’t help but react as I can’t possibly care for everyone in the country and fix their problems. I start in my own household…</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259308&quot;, 259308, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259327" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/409ebb9184fffee7e03dbf948e030e02?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259327" id="comment-259327"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259327&quot;)">
+					<cite>Comment by <a href="http://www.arpeelazaro.com" rel="external nofollow" class="url">arpee lazaro</a><a href="#comment-259327"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 18:51:53 						
+					</div>					
+					<div class="content">
+						<p>i’m an optimist myself and i believe that if everyone will do as you did, the country will be a better place, regardless of whoever is president.</p>
+<p>arpee lazaros last blog post..<a href="http://feeds.feedburner.com/~r/arpeelazaro/jtLG/~3/344823569/" rel="nofollow">Ayala Land’s ALVEO lunches at Red</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259327&quot;, 259327, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259367" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/73941321471607502c0a35f859804eb1?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259367" id="comment-259367"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259367&quot;)">
+					<cite>Comment by <a href="http://teacherjulie.com/" rel="external nofollow" class="url">julie</a><a href="#comment-259367"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 19:49:26 						
+					</div>					
+					<div class="content">
+						<p>I believe in self-reliance which she stressed out. And the use of renewable energy sources and being self-sufficient. I teach these things to my children too <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+<p>I watched Noemi, even if I said I don’t want to be disappointed.</p>
+<p>julies last blog post..<a href="http://feeds.feedburner.com/~r/Teacherjuliecom/~3/348085743/" rel="nofollow">Another Burgoo Dinner with Mommy Bloggers</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259367&quot;, 259367, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259368" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/4dfb3e5c033915a2b4da2e4d15886233?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259368" id="comment-259368"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259368&quot;)">
+					<cite>Comment by <a href="http://www.RadiantView.com" rel="external nofollow" class="url">Lorna Dietz</a><a href="#comment-259368"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 19:50:38 						
+					</div>					
+					<div class="content">
+						<p>I’d like to know what Madame President meant by ONE FAITH. Is it the religion thing? If it is, then her speech writer is truly dumb (oops, Tita Lupita will see this comment and inform the speech writer). If it isn’t the religion thing, what is the context of ONE FAITH? It would be better to hear her say that “the Philippines is truly diverse yet united by a strong leap of faith in the future.”</p>
+<p>In 2002, I wrote Madame President an open letter (I was invited to do this when she visited San Francisco in October 2002) which was published in Manila Bulletin USA’s Kababayan edition. I encouraged her to set up a “Committee of Deep Listening,” which the revered Buddhist monk Thich Nhat Hanh encourages government leaders to do for their countries. I thought this monk’s suggestion (during his overcrowded session at UC Berkeley two days after 9-11 that I attended) was revolutionary and so practical. He had successfully conducted a retreat for Palestinian and Israeli leaders in France for two weeks — and guess what, these leaders weren’t quarreling.</p>
+<p>Well, blogs can be “committess of deep listening,” right?</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259368&quot;, 259368, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259377" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259377" id="comment-259377"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259377&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-259377"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-28 20:10:36 						
+					</div>					
+					<div class="content">
+						<p>@Arpee- yes my optimism is not a denial but a sincere effort to make things work</p>
+<p>@Julie- it was disappointing in a way because she was tooting her horns all the way. But I wanted to be informed.</p>
+<p>@lorna- not sure if it is FAITH or FATE.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259377&quot;, 259377, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259838" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/7946cbdbaf69913a03d91254ba7d8263?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259838" id="comment-259838"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259838&quot;)">
+					<cite>Comment by <a href="http://scroochchronicles.com/" rel="external nofollow" class="url">Cookie</a><a href="#comment-259838"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 09:39:07 						
+					</div>					
+					<div class="content">
+						<p>I’ve always believed that there is hope for our nation.  But change has to start from the top.  Without sounding like I know too much, whatever little hope this country has is largely pinned on her..Madame President.  She can’t just keep on mouthing off on her promises and showing statistics of so-called improvements in the economy.  Anybody can do that.  </p>
+<p>It is my personal opinion that what this country needs is a benevolent dictator.  Someone who has good intent and a strong hand.  Someone who can get things done, the way they should be done. </p>
+<p>Maybe I’m wishing for the moon on this one pero malay natin baka may talagang magaling na pwedeng baguhin ang bayan natin <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+<p>Cookies last blog post..<a href="http://scroochchronicles.com/?p=470" rel="nofollow">Lucky Charm</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259838&quot;, 259838, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259850" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259850" id="comment-259850"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259850&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-259850"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 10:03:15 						
+					</div>					
+					<div class="content">
+						<p>cookie, the idea of a benevolent dictator crossed my mind. Whenever i am in singapore i sometimes wish we had a ströng president.  Look at fast their progress is.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259850&quot;, 259850, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259978" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/d94e8ae7bf3a89c1588b087058194247?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259978" id="comment-259978"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259978&quot;)">
+					<cite>Comment by jing<a href="#comment-259978"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 13:24:16 						
+					</div>					
+					<div class="content">
+						<p>Yes it is really disappointing seeing how this administration loots everything they can, even the dignity of their fellow Filipinos. I really didn’t want to watch the SONA yesterday because I knew I would just make myself rant and be upset the rest of the day. But just like you, I took a glimpse of her lies and the promises she has for this country. What a pity.</p>
+<p>Prof. Randy David, who was interviewed at ANC right after the SONA said that everything was just another denial of the truth. He was so disappointed of GMA’s speech and even called her a callous person. I totally agree with him.</p>
+<p>I,too am a mother. Just like you, I am worried about the future that my kids would have. Yes, we need to start with ourselves but it just comes back to me that whatever we do, having these selfish leaders would never free us from this pit of corruption and colonial mentality.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259978&quot;, 259978, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-259979" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/5385dc940b32efe6461a27d772fc2361?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-259979" id="comment-259979"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-259979&quot;)">
+					<cite>Comment by <a href="http://www.simplybelle.net/" rel="external nofollow" class="url">Belle</a><a href="#comment-259979"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 13:25:48 						
+					</div>					
+					<div class="content">
+						<p>i am all for a benevolent dictator, too who put the country’s effort into building the economy and raising the living standards of the populace. if South Korea and Singapore can do it, why can’t we?</p>
+<p>Belles last blog post..<a href="http://www.simplybelle.net/livin-on-a-prayer-cover-by-stephanie-mae/" rel="nofollow">Livin’ On A Prayer – Cover by Stephanie Mae</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-259979&quot;, 259979, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-260017" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/0f60d90585b5aed29f9b9659f308bfed?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-260017" id="comment-260017"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-260017&quot;)">
+					<cite>Comment by <a href="http://www.edelweiza.com" rel="external nofollow" class="url">edelweiza</a><a href="#comment-260017"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 14:17:57 						
+					</div>					
+					<div class="content">
+						<p>I used to be a pessimist but I’ve learned to be an optimist over the years. Self-reliance is really a must, especially if we are living in a country beset by challenges and where people are gradually losing hope. Let’s not surrender. We can get through the hard times by making the best of whatever little we have. Prayers do wonders, too so let’s ask God to show us the way and be on our side always.</p>
+<p>edelweizas last blog post..<a href="http://www.edelweiza.com/2008/07/cisco-certifications-giving-you-edge-in.html" rel="nofollow">Cisco Certifications: Giving You an Edge in the IT Industry</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-260017&quot;, 260017, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-260022" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/0f60d90585b5aed29f9b9659f308bfed?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-260022" id="comment-260022"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-260022&quot;)">
+					<cite>Comment by <a href="http://www.edelweiza.com" rel="external nofollow" class="url">edelweiza</a><a href="#comment-260022"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 14:27:09 						
+					</div>					
+					<div class="content">
+						<p>Ms. Noemi, hope it’s ok with you if I share the link of this post with my readers, too. I have this Blogger Buzz Project where I list links to other bloggers’ post that I find interesting, captivating, amusing, and the likes. Thanks!  <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+<p>edelweizas last blog post..<a href="http://www.edelweiza.com/2008/07/cisco-certifications-giving-you-edge-in.html" rel="nofollow">Cisco Certifications: Giving You an Edge in the IT Industry</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-260022&quot;, 260022, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-260080" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-260080" id="comment-260080"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-260080&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-260080"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 15:47:02 						
+					</div>					
+					<div class="content">
+						<p>@edelweiza- sure you can link. Nice project you have. Will comment more . I have low battery.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-260080&quot;, 260080, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-260329" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/f151d8745bbe5e05c36980bdc10bcd35?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-260329" id="comment-260329"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-260329&quot;)">
+					<cite>Comment by <a href="http://jesterinexile.blogspot.com" rel="external nofollow" class="url">the jester-in-exile</a><a href="#comment-260329"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-29 23:30:19 						
+					</div>					
+					<div class="content">
+						<p>benevolent dictator = tempting, noemi?</p>
+<p>cripes.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-260329&quot;, 260329, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-260460" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-260460" id="comment-260460"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-260460&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-260460"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-30 03:32:45 						
+					</div>					
+					<div class="content">
+						<p>@Jester- almost tempting especially if you are parent desperate for a good future for our country,</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-260460&quot;, 260460, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-260924" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/8892b27a62b1279b528ba013ca477993?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-260924" id="comment-260924"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-260924&quot;)">
+					<cite>Comment by <a href="http://www.zaldydalisay.com" rel="external nofollow" class="url">major</a><a href="#comment-260924"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-07-30 17:25:19 						
+					</div>					
+					<div class="content">
+						<p>is there anything that materialized from whoever the president is in every SONA? I can’t find one but I still hope that all won’t be seen by me as plans til the day I die. <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"> </p>
+<p>Anyway, nicely written madam!</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-260924&quot;, 260924, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-263153" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/848b5aa6248f658cb21ed2dab0b21988?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-263153" id="comment-263153"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-263153&quot;)">
+					<cite>Comment by <a href="http://yahoo" rel="external nofollow" class="url">shibelle</a><a href="#comment-263153"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-08-02 21:05:58 						
+					</div>					
+					<div class="content">
+						<p>hmmm…i also want to experience marcos time…the benevolent dictator..even im not yet a mother, I am so worried about what future awaits us.<br>
+ Let’s pray that time will come that we can conquer all this conflicts and problems in our country. Mabuhay ang Pilipinas!!</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-263153&quot;, 263153, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-265282" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/112ac4e796397f66630b23ab365ad197?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-265282" id="comment-265282"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-265282&quot;)">
+					<cite>Comment by jason gujilde<a href="#comment-265282"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-08-05 20:22:24 						
+					</div>					
+					<div class="content">
+						<p>Her goal in this year’s SONA has to find a solution in every problem our fellowmen suffered much. I had always believed that there is hope for our nation.</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-265282&quot;, 265282, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-269478" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/b4d2641b08d0da9d9afeeb3855cfed1d?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-269478" id="comment-269478"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-269478&quot;)">
+					<cite>Comment by <a href="http://www.rationalhumanbeing.blogspot.com" rel="external nofollow" class="url">Dani</a><a href="#comment-269478"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-08-12 19:15:47 						
+					</div>					
+					<div class="content">
+						<p>thanks for this post… i loved the part in which you said that you rejected the idea of migrating to the US… i think, as a Filipino you have to first think about helping the country… your country… instead of going elsewhere… my parents actually have an opposite view… that leaving is part of my goal… i’m now in 4th year high school… and i was able to watch the SONA… and like my classmates… i thought it was actually pointless… sorry about that… but thanks for this post <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+<p>Danis last blog post..<a href="http://rationalhumanbeing.blogspot.com/2008/06/my-favorite-shows-watched-reviewed.html" rel="nofollow">My favorite shows… watched &amp; reviewed</a></p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-269478&quot;, 269478, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-272355" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/1b4b8d93a3a61909a5a423b0a2e8313d?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-272355" id="comment-272355"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-272355&quot;)">
+					<cite>Comment by Roxanne<a href="#comment-272355"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2008-10-21 08:20:33 						
+					</div>					
+					<div class="content">
+						<p>While researching about PGMA’s  government including her SONA for my final thesis statement this december, I came to this site. You’re comments were very optimistic. I hope Filipinos are like you. However, we both understand why some of them throw “harsh” words regarding her SONA statement. </p>
+<p>I love how you think about your children because “we” (I am nineteen years old) are the FUTURE of this country. </p>
+<p>When its time for us to pay taxes, we should get better benefits such as roads, retirement, security, and school for our kids. Salamat nanay! </p>
+<p>Roxanne</p>
+					</div>
+					<div class="reply">
+												 
+						<a href="#" onclick="moveAddCommentBelow(&quot;div-comment-272355&quot;, 272355, true); return false;">Reply to this comment</a>
+																	</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+</div>
+<div id="addcomment" class="comment">
+<a id="addcommentanchor" name="addcommentanchor"></a>
+<form action="http://aboutmyrecovery.com/wp-comments-post.php" method="post" id="commentform">
+<div class="add">
+	<div id="reroot" style="display: none;">
+		<small><a href="#" onclick="reRoot(); return false;">
+			Click here to cancel "reply".
+		</a></small>
+	</div>
+	<small>
+		Name (required)	</small>
+	<div>
+		<input type="text" name="author" id="author" class="textarea" value="" size="28" tabindex="1">
+	</div>
+	<small>
+		E-mail (required - never shown publicly)	</small>
+	<div>
+		<input type="text" name="email" id="email" value="" size="28" tabindex="2">
+	</div>
+	<small>
+		<acronym title="Uniform Resource Identifier">URI</acronym>	</small>
+	<div>
+		<input type="text" name="url" id="url" value="" size="28" tabindex="3">	
+	</div>
+		<div>
+		<input type="checkbox" name="subscribe" id="subscribe" value="subscribe">
+		<small>Subscribe to comments via email</small>
+	</div>		
+	<small>
+		Your Comment (<a href="#" onclick="changeCommentSize(-80); return false;">smaller size</a> | <a href="#" onclick="changeCommentSize(80); return false;">larger size</a>)
+	</small>
+	<div style="width: 100%;">
+		<textarea name="comment" id="comment" cols="60" rows="14" tabindex="4"></textarea>
+	</div>
+	<small>
+		You may use 
+		&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; 		in your comment.
+	</small>
+	<div>
+		<input type="hidden" name="comment_post_ID" value="2085">
+		<input type="hidden" name="redirect_to" value="/2008/07/28/sona-2008/">
+		<input onclick="if(typeof(onAddComment) == 'function') { onAddComment(); } else { alert('ERROR:\nIt looks like the website administrator hasn\'t activated the Brians Threaded Comments plugin from the plugin page'); };" name="addcommentbutton" type="button" id="addcommentbutton" value="Add comment" tabindex="5">
+	</div>
+</div>
+<input type="hidden" id="comment_reply_ID" name="comment_reply_ID" value="0"><input type="hidden" name="cl_type"><input type="hidden" name="choice_id"><input type="hidden" name="request_id"><input type="hidden" name="cl_post" id="cl_post"><div id="commentluv"><input type="checkbox" id="doluv" name="doluv" checked="checked" style="width:25px;"><span id="mylastpost" style="clear: both"><a href="http://comluv.com" target="_blank"><img src="http://aboutmyrecovery.com/wp-content/plugins/commentluv/images/CL91x17-white2.gif" border="0" alt="CommentLuv Enabled" title="CommentLuv Enabled"></a></span><img class="clarrow" id="showmore" src="http://aboutmyrecovery.com/wp-content/plugins/commentluv/images/down-arrow.gif" alt="show more" style="display:none;"></div><div id="lastposts" style="display: none;"></div>
+
+	<p style="clear: both;" class="subscribe-to-comments">
+	<input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;">
+	<label for="subscribe">Notify me of followup comments via e-mail</label>
+	</p>
+
+
+</form>
+</div>
+<h3>Trackback responses to this post</h3>
+  <ul>
+                                                        <li><a href="http://www.philippinesnewsvote.com/story.php?id=26" rel="external nofollow" class="url">http://www.philippinesnewsvote.com</a></li>
+          <li><a href="http://www.filipinovoices.com/the-state-of-tough-choices" rel="external nofollow" class="url">The State of Tough Choices | Filipino Voices</a></li>
+          <li><a href="http://www.quezon.ph/1913/sonambulism/" rel="external nofollow" class="url">Manuel L. Quezon III</a></li>
+          <li><a href="http://blogs.inquirer.net/current/2008/07/28/sonambulism/" rel="external nofollow" class="url">Current » SONAmbulism</a></li>
+                                                                                              <li><a href="http://aboutmyrecovery.com/2009/07/16/getting-to-know-senator-manny-villar/" rel="external nofollow" class="url">Getting to Know Senator Manny Villar | A Filipina Mom Blogger</a></li>
+          <li><a href="http://aboutmyrecovery.com/2009/07/27/sona-2009/" rel="external nofollow" class="url">State of the Nation Address 2009 | A Filipina Mom Blogger</a></li>
+    </ul>
+
+<br><br><h3>My Advocacy</h3><br>
+
+<a href="http://compassionatefriends.info"><img id="image1567" src="http://aboutmyrecovery.com/wp-content/uploads/2008/02/compassionate_friends.jpg" alt="grief support after the death of a child"></a><br><center>
+<a href="http://compassionatefriends.info">Grief Support in the Philippines</a> <br>
+After the Death of a Child</center>
+
+<p class="info">
+	<a href="http://www.filipinaimages.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/filipina_icon.jpg" alt="filipina" align="left" border="0"></a><br>
+<a href="http://www.filipinaimages.com">FilipinaImages.com</a> is a collaborative effort of all the bloggers who believe that The Filipina of the Future deserves a more empowered, diverse image online.  Join the <a href="http://www.filipinaimages.com">Filipina Image Online Campaign</a></p>
+
+<p class="note"><a href="http://aboutmyrecovery.com/suicide-prevention/"><img id="image1374" src="http://aboutmyrecovery.com/wp-content/uploads/2007/11/suicide.jpg" alt="suicide" align="left"></a>
+<br><a href="http://aboutmyrecovery.com/suicide-prevention/">Suicide prevention</a> is everybody's business. <a href="http://aboutmyrecovery.com/2007/11/08/children-and-adolescent-suicide/">Educate our  community</a> that suicide is a preventable public health problem in the Philippines. Suicide should no longer be considered a  taboo topic, and that through raising awareness and educating the public, we can SAVE lives.
+
+</p>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+				
+				
+			</div>
+
+			<div id="primary" class="sidebar">
+				<ul>
+
+<li><h3>Be Updated with My Blog via Email</h3>
+<form style="border: 0px none rgb(204, 204, 204); padding: 3px; text-align: left;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><input style="width: 150px;" value="Enter your email address..." id="email-form" onfocus="if (this.value == 'Enter your email address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address...';}" name="email" type="text" < p>
+</p><p><input value="http://feeds.feedburner.com/~e?ffid=716143" name="url" type="hidden"><input value="Aboutmyrecovery.com" name="title" type="hidden"><input value="Subscribe" type="submit">  
+     
+</p></form></li><a href="http://feeds2.feedburner.com/aboutmyrecovery"><img src="http://feeds2.feedburner.com/~fc/aboutmyrecovery?bg=66CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a>
+
+					
+<li><h3>About Me</h3>
+		<img id="image1338" src="http://aboutmyrecovery.com/wp-content/uploads/2007/10/me_and_luijoe_icon.jpg" alt="luijoe and me" align="left" hspace="4"> This is about me ( a <a href="http://filipinaimages.com">Filipina</a> mom) and my  journey to a "new normal" after the death of <a href="http://angel-luijoe.net/">Luijoe</a> , my beautiful 6 year old son. Recovery is  a work in progress.... <a href="http://aboutmyrecovery.com/about/">read more?</a><br><br>
+		Now, it's your turn to <a href="http://aboutmyrecovery.com/2006/03/12/tell-me-about-you/">tell me about you</a> or read <a href="http://aboutmyrecovery.com/2007/12/28/blog-posts-you-should-read/">my best and popular blog posts</a>.<br><br>
+<!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Momblogger/121348374582695" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Momblogger">Momblogger</a><br><a href="http://www.facebook.com/pages/Momblogger/121348374582695" target="_TOP" title="Momblogger"><img src="http://badge.facebook.com/badge/121348374582695.926.1678202820.png" width="120" height="251" style="border: 0px;"></a><br><a href="http://www.facebook.com/business/dashboard/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END -->
+<br>
+<iframe src="http://www.formspring.me/widget/view/momblogger?&amp;size=medium&amp;bgcolor=%23fff&amp;fgcolor=%23333" frameborder="0" scrolling="no" width="170" height="275" style="border:none;"><a href="http://www.formspring.me/momblogger">http://www.formspring.me/momblogger</a></iframe>
+</li><li><h3>Hot Topics</h3>
+
+<ul><a href="http://blogwatch.ph"><img src="http://aboutmyrecovery.com/wp-content/uploads/2009/08/blogwatchface125.jpg" alt="voters education"></a><br>
+Visit <a href="http://blogwatch.ph">blogwatch.ph</a> - Citizen Watchdog<br>
+Philippine Elections</ul>
+
+
+<ul>- Who is this <a href="http://aboutmyrecovery.com/2008/04/03/mayens-story-on-alleged-scam/" <b>Tim Cumper, <b>tierramariauk</b> or <b>Ellumbra</b></a>? </ul>
+
+<ul>- Visit <a href="http://timcumper.com">timcumper.com</a></ul>
+
+
+
+
+
+</li>
+
+
+
+
+
+<li id="categories"><h3>Navigate</h3>
+						<ul>
+
+<li class="page_item page-item-2"><a href="http://aboutmyrecovery.com/about/">About Me</a>
+<ul>
+	<li class="page_item page-item-367"><a href="http://aboutmyrecovery.com/about/about-me/">More About Me</a></li>
+</ul>
+</li>
+<li class="page_item page-item-34"><a href="http://aboutmyrecovery.com/about-the-site/">About My Blog</a></li>
+<li class="page_item page-item-66"><a href="http://aboutmyrecovery.com/archives/">Archives</a></li>
+<li class="page_item page-item-31"><a href="http://aboutmyrecovery.com/contact-me/">Contact</a></li>
+<li class="page_item page-item-36"><a href="http://aboutmyrecovery.com/disclaimer/">Disclosure, Commentary, Privacy Policy</a></li>
+<li class="page_item page-item-1191"><a href="http://aboutmyrecovery.com/links/">Links</a></li>
+<li class="page_item page-item-3127"><a href="http://aboutmyrecovery.com/subscribe/">Subscribe For Free</a></li>
+<li class="page_item page-item-1375"><a href="http://aboutmyrecovery.com/suicide-prevention/">Suicide Prevention</a></li>
+<li class="page_item page-item-1759"><a href="http://aboutmyrecovery.com/videos/">Videos</a></li>
+<li class="page_item page-item-7357"><a href="http://aboutmyrecovery.com/voters-education/">Voters Education For Philippine Election 2010</a></li>
+
+							
+						</ul>
+					</li>
+
+
+
+
+	<li>
+<h3>Top Commentators</h3>
+<ul><li><a href="http://aboutmyrecovery.com">Noemi Lardizabal-Dado</a> (5)
+</li>
+<li>Agnes Dela Cruz (3)
+</li>
+<li>ryan m. (2)
+</li>
+<li><a href="http://simplyabbie.com">abbie</a> (2)
+</li>
+<li>lovely (2)
+</li>
+<li><a href="http://everydaysweetnotes.blogspot.com">Smarla</a> (2)
+</li>
+<li>april (2)
+</li>
+<li><a href="http://www.pensivethoughts.com">Tetcha</a> (1)
+</li>
+<li>Lindy (1)
+</li>
+<li><a href="http://www.mitch/moreno.com">MAUREEN</a> (1)
+</li>
+</ul>
+</li>
+
+<li><h3>Ads</h3>
+			<ul>
+<!-- nuffnang -->
+<script type="text/javascript">
+nuffnang_bid = "c9a3fa9e3935a17b779078540932ee7d";
+</script>
+<script type="text/javascript" src="http://synad2.nuffnang.com.ph/lmn.js"></script>
+<!-- nuffnang-->
+			</ul>
+
+	</li><li><h3>Most Recent Comments</h3>
+			<ul>
+				<li></li><li><strong>Melanie Magno:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287747" title="View the entire comment by Melanie Magno">My family is the typical</a></li><li><strong>Cecile:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287740" title="View the entire comment by Cecile">Cebuanon drinks COKE with sparkling</a></li><li><strong>Smarla:</strong> <a href="http://aboutmyrecovery.com/2010/09/16/the-myth-of-closure/#comment-287738" title="View the entire comment by Smarla">Hi Noemi, I will continue</a></li><li><strong>april:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287737" title="View the entire comment by april">Coca-Cola has remained our favorite</a></li><li><strong>april:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287736" title="View the entire comment by april">Coca-Cola has remained our favorite</a></li><li><strong>tata:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287735" title="View the entire comment by tata">sabi ng mama ko always</a></li><li><strong>Smarla:</strong> <a href="http://aboutmyrecovery.com/2010/09/14/ebook-touched-by-an-angel/#comment-287733" title="View the entire comment by Smarla">Congratulations! <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  This is yet</a></li><li><strong>Gelo Guison:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287732" title="View the entire comment by Gelo Guison">Love love love to drink</a></li><li><strong>Jam:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287725" title="View the entire comment by Jam">Certainly, The best time for</a></li><li><strong>Agnes Dela Cruz:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287719" title="View the entire comment by Agnes Dela Cruz">I uploaded Mama's bday photos</a></li>
+			</ul>
+		
+
+</li><li><h3>Most Commented</h3>
+			<ul>
+					<a href="http://aboutmyrecovery.com/2007/03/07/college-sweethearts/">Our Love Story: College Sweethearts</a><br><a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/" title="Happy Kainan Monday: Eating Together = Family Happiness">Happy Kainan Monday: Eating Together = Family Happiness</a> (28)<br><a href="http://aboutmyrecovery.com/2010/06/03/should-parents-be-taught-on-sex-education/" title="Should parents be taught sex education?">Should parents be taught sex education?</a> (15)<br><a href="http://aboutmyrecovery.com/2010/05/26/where-i-am-today/" title="Where I am today">Where I am today</a> (12)<br><a href="http://aboutmyrecovery.com/2010/08/10/when-i-look-at-my-daughters-i-see-myself-only-better/" title="When I look at my daughters I see myself…only better.">When I look at my daughters I see myself…only better.</a> (11)<br><a href="http://aboutmyrecovery.com/2010/05/24/ambivalent-towards-erap/" title="Ambivalent towards Erap">Ambivalent towards Erap</a> (7)<br><a href="http://aboutmyrecovery.com/2010/08/14/divorce-in-the-philippines/" title="A Divorce Law is just a start">A Divorce Law is just a start</a> (6)<br><a href="http://aboutmyrecovery.com/2010/09/01/the-natasha-goulbourn-foundation-bringing-depression-to-light/" title="The Natasha Goulbourn Foundation: Bringing depression to light">The Natasha Goulbourn Foundation: Bringing depression to light</a> (6)<br><a href="http://aboutmyrecovery.com/2010/07/04/fighting-for-your-marriage/" title="On second chances">On second chances</a> (5)<br>			</ul>
+		</li>
+
+
+<li><h3>Most Recent Posts</h3>
+			<ul>
+
+				
+<img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/16/the-myth-of-closure/" rel="bookmark" title="Permanent Link: The myth of closure">The myth of closure</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/14/ebook-touched-by-an-angel/" rel="bookmark" title="Permanent Link: Vee Press to launch the ebook version of my blog on Sept 17 at the Book Fair ">Vee Press to launch the ebook version of my blog on Sept 17 at the Book Fair </a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/" rel="bookmark" title="Permanent Link: Happy Kainan Monday: Eating Together = Family Happiness  ">Happy Kainan Monday: Eating Together = Family Happiness  </a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/06/walking-tour-of-historic-intramuros-with-carlos-celdran/" rel="bookmark" title="Permanent Link: If these walls could talk by Carlos Celdran">If these walls could talk by Carlos Celdran</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/04/manila-us-embassy-invites-bloggers-to-us-cultural-affairs-reception/" rel="bookmark" title="Permanent Link: Embassy of the United States in Manila invites bloggers">Embassy of the United States in Manila invites bloggers</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/03/the-secret-language-is-a-secret/" rel="bookmark" title="Permanent Link: The secret language is a secret">The secret language is a secret</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/01/the-natasha-goulbourn-foundation-bringing-depression-to-light/" rel="bookmark" title="Permanent Link: The Natasha Goulbourn Foundation: Bringing depression to light ">The Natasha Goulbourn Foundation: Bringing depression to light </a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/08/30/that-grief-is-light-which-can-take-counsel/" rel="bookmark" title="Permanent Link: That grief is light which can take counsel">That grief is light which can take counsel</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/08/29/birthday-greetings-to-the-love-of-my-life/" rel="bookmark" title="Permanent Link: Birthday greetings to the love of my life">Birthday greetings to the love of my life</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/08/28/showing-compassion-a-grief-shared/" rel="bookmark" title="Permanent Link: Showing compassion, a grief shared">Showing compassion, a grief shared</a><br>			</ul>
+		</li>
+
+<li><h3>Twitter Updates</h3>
+
+<div id="twitter_div">
+<h2 class="sidebar-title">Twitter Updates</h2>
+<ul id="twitter_update_list"></ul>
+<a href="http://twitter.com/momblogger" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+</div>
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/momblogger.json?callback=twitterCallback2&amp;count=6"></script></li>
+
+<a href="http://t.extreme-dm.com/?login=noemid" target="_top"><img src="http://t1.extreme-dm.com/i.gif" name="EXim" border="0" height="38" width="41" alt="eXTReMe Tracker"></a>
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script type="text/javascript"><!--
+var EXlogin='noemid' // Login
+var EXvsrv='s9' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e0.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><noscript><img height="1" width="1" alt="" src="http://e0.extreme-dm.com/s9.g?login=noemid&amp;j=n&amp;jv=n">
+
+
+</noscript>
+<script type="text/javascript" src="http://track.mybloglog.com/js/jsserv.php?mblID=2006031205112946" defer="defer"></script>
+
+	<br>		
+	
+<!--NetworkedBlogs Start--><style type="text/css"><!--.networkedblogs_widget a {text-decoration:none;color:#3B5998;font-weight:normal;}.networkedblogs_widget .networkedblogs_footer a {text-decoration:none;color:#FFFFFF;font-weight:normal;}--></style><div id="networkedblogs_container" style="height:180px;padding-top:20px;"><div id="networkedblogs_above"></div><div id="networkedblogs_widget" style="width:120px;margin:0px auto;padding:0px 0px 3px 0px;font-family:'lucida grande',tahoma,Verdana,Arial,Sans-Serif;font-size:11px;font-weight:normal;text-decoration:none;background:#3B5998 none repeat scroll 0% 0%;border:none;line-height:13px;"><div id="networkedblogs_header" style="padding:1px 1px 2px 3px;text-align:left;"><a href="http://www.facebook.com/apps/application.php?id=9953271133" style="text-decoration:none;color:#FFFFFF;font-weight:normal;font-size:11px;background-repeat:no-repeat;">NetworkedBlogs</a></div><div id="networkedblogs_body" style="background-color:#FFFFFF;color:#444444;padding:4px;border-left:1px solid #D8DFEA;border-right:1px solid #D8DFEA;text-align:left;"><table cellpadding="0" cellspacing="0"><tbody><tr><td><span style="color:#777777;">Blog:</span></td></tr><tr><td><a target="_blank" href="http://www.networkedblogs.com/blog/filipina_mom_blogger/" style="text-decoration:none;color:#3B5998;">Filipina Mom Blogger</a></td></tr><tr><td><div style="padding:0px;padding-top:5px;color:#777777;">Topics:</div></td></tr><tr><td><a target="_blank" href="http://www.networkedblogs.com/topic/parenting" style="text-decoration:none;color:#3B5998;">parenting</a>, <a target="_blank" href="http://www.networkedblogs.com/topic/child+health" style="text-decoration:none;color:#3B5998;">child health</a>, <a target="_blank" href="http://www.networkedblogs.com/topic/advocacy" style="text-decoration:none;color:#3B5998;">advocacy</a></td></tr><tr><td><div id="networkedblogs_badges">&nbsp;</div></td></tr><tr><td><div style="padding:0px;text-align:center;"><a target="_blank" href="http://www.networkedblogs.com/blog/filipina_mom_blogger/?ahash=25aa04fcbe1f682e4b06cd2084d6b079" style="text-decoration:none;color:#666666;font-weight:normal;font-size:10px;">Follow my blog</a></div></td></tr></tbody></table></div></div><div id="networkedblogs_below" class="networkedblogs_below"></div></div><script type="text/javascript"><!--
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=72012;networkedblogs.shortName="filipina_mom_blogger";}
+--></script><script type="text/javascript" src="http://widget.networkedblogs.com/getwidget?bid=72012"></script><!--NetworkedBlogs End-->
+
+<br><br>
+
+
+<a href="http://filipinaimages.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/filipina.jpg" alt="filipina"></a><br>
+Reshaping the <a href="http://filipinaimages.com">Filipina</a> Images Online<br><br>
+<li><h3>Visit my Daughter's Blog </h3>
+
+<ul><a href="http://iambourgeois.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/2006/02/i-am-bourgeois-2.jpg"></a><br>
+<a href="http://iambourgeois.com">Makeup Reviews</a><br></ul>
+			<ul>
+
+<a href="http://ukaymanila.com"><img src="http://www.aboutmyrecovery.com/photos/d/9078-1/ukay+manila+banner.jpg" alt="ukay-ukay"></a><br>
+<a href="http://ukaymanila.com">ukay-ukay &amp; vintage clothes shopping</a></ul><br><br>
+
+
+<a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://aboutmyrecovery.com"><img src="http://static.technorati.com/pix/fave/tech-fav-1.png" alt="Add to Technorati Favorites"></a>	<br>
+
+<a href="http://www.topblogs.com.ph/home-living/"><img style="border:none" src="http://www.topblogs.com.ph/track_1120.gif" alt="Home &amp; Living - Top Blogs Philippines"></a>
+<br><br>
+
+					
+				</li></ul>
+
+			</div>
+			<div class="clear"></div><div class="bottom"></div>
+		</div>
+
+		<div id="secondary" class="sidebar">
+			<ul>
+
+				
+
+				<li id="rss-links"><h3>RSS Feeds</h3>
+					<ul>
+						<li><a href="http://aboutmyrecovery.com/feed/" title="Posts RSS feed" rel="alternate" type="application/rss+xml">Posts Feed</a></li>
+						<li><a href="http://aboutmyrecovery.com/comments/feed/" title="Comments RSS feed" rel="alternate" type="application/rss+xml">Comments Feed</a></li>
+					</ul>
+				</li>
+
+				<li id="linkcat-54" class="linkcat"><h3>Best Entries</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://aboutmyrecovery.com/2008/01/20/what-is-a-blog/">*What is a Blog?</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/03/14/words-to-comfort/">*Words of Comfort</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/05/29/a-healthy-attraction-to-people/">A Healthy Attraction to People</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/01/10/blogger-conversation-in-the-family/">Blogger Conversation</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/03/05/financial-responsibility/">Financial Responsibility</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/05/10/gossip/">Gossip</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/08/19/healthy-apologies/">Healthy Apologies</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/03/04/heaven-is-a-real-place/">Heaven is A Real Place</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/04/26/how-personal-should-a-personal-blog-be/">How Personal Should A Personal Blog Be?</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/11/04/how-to-live-an-exceptional-superb-and-powerful-life/">How to Live A Superb Life</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/01/06/how-to-promote-your-blog/">How to Promote Your Blog</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/08/08/how-to-smile/">How To Smile</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/04/15/laughter-is-the-best-medicine/">Laughter is the Best Medicine</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/06/27/letting-out-anger/">Letting Out Anger</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/05/12/me-time-nurturing-myself/">Nurturing Yourself</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/09/16/positive-mental-energy-and-affirmations">Positive Mental Enery</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/07/25/dedma-or-dead-malice/">Practice Dedma</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/07/21/sex-education-in-the-philippines/">Sex Education</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/02/19/ten-reasons-to-getting-through-hard-times">Ten Reasons to Getting Through Hard Times</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/06/29/the-lessons-of-pain/">The Lessons of Pain</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-50" class="linkcat"><h3>Cited-Media Mentions</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://aboutmyrecovery.com/2006/05/16/ali-sottos-special-mothers-day-feature/">ALI’s Mother Day Feature</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/02/27/welcome-to-visitors-of-shop-talk-anc-channel">ANC Shop Talk</a></li>
+<li><a href="http://newsinfo.inq7.net/breakingnews/infotech/view_article.php?article_id=23855">Bloggers chronicle typhoon’s fury in Metro Manila</a></li>
+<li><a href="http://showbizandstyle.inquirer.net/sim/sim/view_article.php?article_id=91588">Catching the Blog</a></li>
+<li><a href="http://newsinfo.inquirer.net/breakingnews/infotech/view_article.php?article_id=58235">Cozy reunion for small but growing RP blog community</a></li>
+<li><a href="http://filipinaimages.com/filipinaimagescom-on-tv/">Filipina Images on She Ka</a></li>
+<li><a href="http://news.inq7.net/sunday/index.php?index=2&amp;story_id=75740&amp;col=94">Gathering stories from wounded healers</a></li>
+<li><a href="http://www.yehey.com/gadgets/articles.aspx?pn=3&amp;id=167289">Her Life as a Blogger</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/03/10/in-sunday-inquirer-magazine-an-interview-with-the-compassionate-friends/">Interview with Sunday Inquirer Magazine</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/04/27/kapuso-mo-jessica-soho-features-blogging/">Kapuso Ko Jessica Soho Feature on Blogging</a></li>
+<li><a href="http://www.mb.com.ph/issues/2006/04/10/TECH2006041061111.html">Manila Bulletin “Blog-O-Rama”</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/02/02/marie-claire-magazine-features-countrys-female-bloggers/">Marie Claire</a></li>
+<li><a href="http://filipinaimages.com/filipinaimagescom-featured-on-modernong-maria-clara-at-100-pinoy-gma-7/">Modernong Maria Clara on 100% Pinoy, GMA 7</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/08/25/youtube-video-of-mom-bloggers-at-momworks-lifestyle-show/">Mom Bloggers at Lifestyle Channel</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/03/07/my-first-tv-interview/">MOMS QTV Interview</a></li>
+<li><a href="http://showbizandstyle.inquirer.net/lifestyle/lifestyle/view_article.php?article_id=66913">Mother Bloggers at Lifestyle Inquirer</a></li>
+<li><a href="http://www.gmanews.tv/story/36555/Philippine-Blog-Awards-cites-22-best-blogs-in-RP">Philippine Blog Awards cites 22 best blogs in RP</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/05/02/proudly-filipina/">Proudly Filipina</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/07/01/qtv-sweet-life-on-a-childs-grief/">QTV Sweet Life on Child’s Grief</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/12/28/using-the-cellphone-for-therapy">Salamat Doc</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/06/03/the-grief-interview-with-cheche-lazaro/">Straight Talk</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-34" class="linkcat"><h3>Elsewhere</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.alveoland.com.ph/">Philippine Properties For Sale</a></li>
+<li><a href="http://aboutmyrecovery.com/archives">Thursday Thirteen Blogroll</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-25" class="linkcat"><h3>Grief Recovery</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://mourningtojoy.blogspot.com/">Grief Is A Journey</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-52" class="linkcat"><h3>Me &amp; My Mission</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.compassionatefriends.info" rel="me">The Compassionate Friends</a></li>
+<li><a href="http://news.inq7.net/sunday/index.php?index=1&amp;story_id=62334">What Do You Call Someone WHo Lost A Child? from the Sunday Inquirer Magazine</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-48" class="linkcat"><h3>My Family Sites</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://radiantview.com">Filipino American Marketing Consultant</a></li>
+<li><a href="http://laurganism.com">Lauren</a></li>
+<li><a href="http://nogirlydrama.com">Love &amp; Relationships Advice</a></li>
+<li><a href="http://marielli.misteryosa.com">Marielli</a></li>
+<li><a href="http://angel-luijoe.net" rel="child">My Angel, Luijoe</a></li>
+<li><a href="http://oscar-v-lardizabal.memory-of.com/about.aspx" rel="sibling">My brother, Oscar</a></li>
+<li><a href="http://reuben-v-lardizabal.memory-of.com">My brother, Ruben</a></li>
+<li><a href="http://jose-p-lardizabal.memory-of.com/About.aspx" rel="parent">My daddy Joe</a></li>
+<li><a href="http://thewarriorlawyer.com">Philippine Lawyer</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-47" class="linkcat"><h3>Projects</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://host.the-protagonist.net/?host=wordpress-hosting">Blog Hosting</a></li>
+<li><a href="http://weddingbellsblog.com">Bridal Gowns</a></li>
+<li><a href="http://goodnewsbalikbayan.com">Good News Balikbayan</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/08/12/myspace-layouts-popular-and-free/">Mommy Myspace Layouts</a></li>
+<li><a href="http://aboutmyrecovery.com/photos">My Digital Scrapbooks</a></li>
+<li><a href="http://pinoyfoodblog.com/celebrations/noche-buena/noche-buena-and-holiday-cooking-ideas/">Noche Buena Recipes</a></li>
+<li><a href="http://pinoytravel.nimrodel.net/">Online Travel Booking</a></li>
+<li><a href="http://photos.the-protagonist.net">Paradise Philippines</a></li>
+<li><a href="http://pinoywebhosting.net" rel="me">Philippines Webhosting</a></li>
+<li><a href="http://pinoyfood.nimrodel.net">Pinoy Food PhotoBlog</a></li>
+<li><a href="http://pinoyidolblog.com">Pinoy Idol</a></li>
+<li><a href="http://www.yourpinoybroker.com">Pinoy Real Estate Broker</a></li>
+<li><a href="http://thenuvali.com/">Real Estate Investment In the Philippines</a></li>
+<li><a href="http://host.the-protagonist.net/?host=reseller">Reseller Hosting Plans</a></li>
+<li><a href="http://nimrodel.net" rel="me">Shopping Finds</a></li>
+<li><a href="http://filipinaimages.com">The Filipina</a></li>
+<li><a href="http://thevoipresources.com">VoIP Resources</a></li>
+<li><a href="http://globalizedecommerce.com/web-content-writing/">Web Content Writing Services</a></li>
+<li><a href="http://resources.the-protagonist.com">Web Development Resources</a></li>
+<li><a href="http://host.the-protagonist.net/?host=wordpress-hosting">Wordpress Blog Hosting</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-53" class="linkcat"><h3>Talks &amp; Seminars</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://filipinaimages.com/filipinaimagescom-at-iblog-4-summit/">Blogging for Advocacy- FilipinaImages.com</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/01/06/how-to-promote-your-blog/">Personal Blogging Experience</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/04/15/iblog-3-personal-blogging-success/">Personal Blogging Success for iBlog 3</a></li>
+<li><a href="http://filipinaimages.com/using-technology-in-uplifting-the-image-of-the-filipina/">Using Technology in Uplifting the Image of the Filipina</a></li>
+
+	</ul>
+</li>
+
+
+				<li id="meta"><h3>Recovery Resources</h3>
+
+<ul>
+<ul>
+<li> <a href="http://www.hair-thinning.co.uk">Nourkrin</a> </li>
+<li> <a href="http://www.treatment-centers.net/drug-treatment.html">Drug Treatment</a> </li>
+<li> <a href="http://www.murad.com/acne-complex-treatments/">Acne Treatments</a> </li>
+<li> <a href="http://www.acnecomplex.com">Acne Solutions</a> </li>
+<li> <a href="http://www.acnecomplex.com">Murad Acne Products</a> </li>
+<li> <a href="http://www.casketoptions.com">Casket</a> </li>
+<li> <a href="http://www.nhc.com.au/">hearing tests</a> </li>
+<li> <a href="http://healthinsurancetx.net">Health insurance</a> in Texas</li>
+<li> <a href="http://www.naymz.com/andrew_embiricos_3404353">Andrew Embiricos</a> </li>
+<li> <a href="http://www.rachaelwestdesigns.com/medifastcoupons/medifast-coupons-for-2010/">Medifast Coupon Codes</a> </li>
+</ul></ul> </li>
+
+
+
+<li><h3>Visit My Blogs</h3>
+
+<ul>
+<br>
+<a href="http://www.timcumper.com"><img src="http://img232.imageshack.us/img232/3486/tcw120x240.jpg" alt="The Tim Cumper Watch" border="0" width="120" height="240"></a><br>
+
+<a href="http://techiegadgets.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/2008/11/techiegadgets.jpg"></a><br>
+<a href="http://techiegadgets.com">Techie Gadgets</a><br>
+
+
+<a href="http://pinoyfoodblog.com"><img src="http://photos.the-protagonist.net/albums/album78/kare.thumb.jpg" border="1" alt="pinoy food blog"></a><br><a href="http://pinoyfoodblog.com">Pinoy Food</a> for my Baking and <a href="http://pinoyfoodblog.com/recipes/ ">Filipino food recipes</a>.
+<br>
+
+
+<a href="http://yourpinoybroker.com"><img id="image1490" src="http://yourpinoybroker.com/wp-content/uploads/2007/09/picture-of-turnover-unit-outside1.thumbnail.jpg" border="1" alt="pinoy real estate broker"></a><br>
+<a href="http://yourpinoybroker.com">Philippines' Real Estate Broker</a><br><a href="http://yourpinoybroker.com/sentosia-condominiums/">Bay City Living in the Philippines</a><br><br>
+
+
+
+
+
+
+<a href="http://twoserendra.net"><img id="image1647" src="http://aboutmyrecovery.com/wp-content/uploads/2008/03/two_serendra_condos.jpg" border="1" alt="two serendra"></a><br>
+<a href="http://twoserendra.net">Two Serendra</a>
+
+<br><br>
+
+<a href="https://www.paypal.com/row/mrb/pal=CZ8N5X8347F9A"><img id="image1539" src="http://aboutmyrecovery.com/wp-content/uploads/2008/01/paypal_logo.gif" alt="paypal"></a><br>
+Sign Up For <a href="https://www.paypal.com/row/mrb/pal=CZ8N5X8347F9A">Paypal Philippines</a>
+<br><br></ul>
+</li>
+
+				<li id="meta">
+					<h3>Meta</h3>
+					<ul>
+						
+						<li><a href="http://aboutmyrecovery.com/wp-login.php">Log in</a></li>
+						<li>
+</li>
+
+					</ul>
+				</li>
+
+				
+
+			</ul>
+		</div>
+	</div>
+
+	<div id="footer"><p>© A Filipina Mom Blogger. Using <a href="http://www.wpdesigner.com/2008/01/30/personal-wordpress-theme/">Personal</a> by Wpdesigner.</p></div>
+
+
+
+
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dllW5Qd_ir3PfTab7jrHtB&amp;s=2"></script>
+	
+</div>
+</body></html>

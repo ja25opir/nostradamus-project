@@ -1,0 +1,615 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<!-- 
+**** This credit note should not be removed ****************
+Imagination - Free WordPress Theme by CSSJockey.com
+Grab Your Copy Now: http://imagination.cssjockey.com/
+**** This credit note should not be removed ****************
+-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> 211info Blog: For those who spend their lives helping others</title>
+<link rel="alternate" type="application/rss+xml" title="211info Blog: For those who spend their lives helping others RSS Feed" href="http://211info.org/blog/feed">
+<link rel="alternate" type="application/atom+xml" title="211info Blog: For those who spend their lives helping others Atom Feed" href="http://211info.org/blog/feed/atom">
+<link rel="pingback" href="http://211info.org/blog/xmlrpc.php">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/stylereset.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/styleheader.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/stylecontent.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/stylecomments.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/stylesidebar.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/stylefooter.css" media="screen">
+<script type="text/javascript" src="http://211info.org/blog/wp-content/themes/imagination/js/jquery.js"></script>
+
+<script type="text/javascript" src="http://211info.org/blog/wp-content/themes/imagination/js/DD_roundies.uicornerfix.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){ DD_roundies.addRule('.post, .sticky, .curved, .footer, .navigation', 12, true); })
+</script>
+<script type="text/javascript" src="http://211info.org/blog/wp-content/themes/imagination/js/custom.js"></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/styleie7.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/styleie6.css" media="screen" />
+<script src="http://211info.org/blog/wp-content/themes/imagination/js/pngfix.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://211info.org/blog/wp-content/themes/imagination/stylecustom.php" media="screen">
+<!--[if lte IE 6]>
+<style type="text/css" media="screen">
+.sticky{
+	background-image:none !important;
+}
+</style> 
+<![endif]-->
+<link rel="shortcut icon" href="http://211info.org/blog/wp-content/themes/imagination/images/favicon.ico">
+<!-- Enter Valid Code for Head tag --><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://211info.org/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://211info.org/blog/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="211info Blog: For those who spend their lives helping others" href="http://211info.org/blog">
+<meta name="generator" content="WordPress 3.0.1">
+</head>
+<body>
+	
+<div id="wrapper">
+	<div id="header">
+		<div id="logo" class="floatleft">
+			<a href="http://211info.org/blog/" title="Get Oregon and SW Washington the Answers They Need">
+			<img src="http://www.211info.org/images/blog_banner_no_red.gif" class="pngfix" alt="Get Oregon and SW Washington the Answers They Need">
+			</a>
+		</div><!-- /logo -->
+		<div id="logoright" class="floatright">
+			<ul>
+		<li><a href="http://211info.org/blog/" title="home">Home</a></li>
+<li class="page_item page-item-2"><a href="http://211info.org/blog/about" title="About">About</a></li>
+			</ul><!-- /toplinks -->
+			<div id="toprss" class="clearfix">
+				<div id="toprssimg" class="floatright">
+					<a target="_blank" href="http://feeds.feedburner.com/211info/HKvG" title="Subscribe via RSS">
+						<img src="http://211info.org/blog/wp-content/themes/imagination/images/toprss.png" width="54" height="54" class="pngfix" alt="Subscribe via RSS">
+					</a>
+				</div><!-- /toprssimg -->
+
+<!-- THIS IS THE CODE THAT'S BREAKING -->
+<!-- NAUGHTY CODE ENDS HERE -->
+
+				<div id="toprssinfo" class="floatright">
+					<h1><span class="toprsscolor"></span> <span class="colororange">Stay up-to-date via RSS!</span></h1>
+					<a target="_blank" href="http://feeds.feedburner.com/211info/HKvG">Subscribe via RSS</a> | <a target="_blank" href="http://feeds.feedburner.com/211info/HKvG">Subscribe via Email</a>
+				</div><!-- /toprssinfo -->
+			</div><!-- /toprss -->
+		</div><!-- /logoright -->
+	</div><!-- /header -->
+	<div id="topmsg">
+		<div id="welcome" class="floatleft">
+			<h2><span style="font-style: italic;">For those who spend their lives helping others</span><span style="font-weight: bold;"><span style="text-decoration: underline;"></span></span></h2>		</div>
+		<div id="topsearch" class="floatright pngfix">
+			<form method="get" id="searchform1" action="http://211info.org/blog/">
+			<div>
+			<input title="enter keywords and hit enter" type="text" value="enter keywords and hit enter" name="s" id="tops" onfocus="if ( this.value == this.defaultValue ) this.value = '';" onblur="if ( this.value == '' ) this.value = this.defaultValue">
+			<input type="submit" id="topsearchsubmit" value="Search">
+			</div>
+			</form>
+		</div><!-- /toprssinfo -->
+	</div>
+	<div id="contentcontainer">
+		<div id="content" class="floatleft">
+
+	
+		
+			<div class="post-236 post type-post hentry category-community-resources tag-dhs tag-ohp pngfix clearfix curved" id="post-236">
+				<h2><a href="http://211info.org/blog/drawing-add-35000-adults-oregon-health-plan" rel="bookmark" title="Permanent Link to Drawing to Add 35,000 Adults to Oregon Health Plan">Drawing to Add 35,000 Adults to Oregon Health Plan</a></h2>
+
+				<div class="entry">
+					<p>The Oregon Department of Human Services just released information about a drawing that will give 35,000 Oregon adults health care coverage.</p>
+<p>Here are the details from their release:</p>
+<p style="padding-left: 90px;">Demand for the Oregon Health Plan is so high that the state is maintaining a reservation list of people who want to apply for OHP, and then drawing from that list to find people who qualify based on income. In the next month there will be drawings on May 3 and May 21. People are encouraged to sign up for the list before the drawings.</p>
+<p style="padding-left: 90px;"><strong>The state has funding to add some 35,000 adult Oregonians to the Oregon Health Plan Standard thanks to legislation passed in 2009. The state estimates that some 140,000 qualify based on income. </strong></p>
+<p style="padding-left: 90px;"><em> </em></p>
+<p style="padding-left: 90px;"><strong>In order to ensure that all qualified Oregonians receive an equal opportunity for care, the Oregon Health Authority maintains an open reservation list and holds regular drawings. People whose names are drawn will receive an application packet that asks them questions about income and residency that determine if they are qualified for OHP. </strong></p>
+<p style="padding-left: 90px;">To be added to the reservation list, low-income Oregonians should <strong><a href="http://www.oregon.gov/DHS/open%20or%20call%201-800-699-9075"><strong>call 1-800-699-9075</strong></a> or 711 TTY</strong><strong>, or visit the website at </strong><strong><a href="http://www.ohplist.oregon.gov/">www.ohplist.oregon.gov</a></strong>. <strong>Reservation request forms are also available at local Department of Human Services’ offices, local county health departments, and most hospitals and health care clinics. </strong></p>
+<p style="padding-left: 90px;">While there is a reservation list for adults and income limits for the Oregon Health Plan, health officials point out that with the Oregon Healthy Kids program, all Oregon children — regardless of their parents’ income or status on the OHP list — are eligible for health care.</p>
+<p style="padding-left: 90px;">“Even if parents are still on the waiting list for their health care, they can add their children today,” says Mohr Peterson. “We hope that people will sign their kids up right away.”</p>
+<p style="padding-left: 90px;">To sign up for the Healthy Kids Plan, call 1-877-314-5678 or visit the Healthy Kids website at <strong><a href="http://www.oregonhealthykids.gov/">www.oregonhealthykids.gov</a>.</strong></p>
+<p>If you work in an organization where this information might be helpful please post or send it around.</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						29.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/community-resources" title="View all posts in community resources" rel="category tag">community resources</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/drawing-add-35000-adults-oregon-health-plan#respond" title="Comment on Drawing to Add 35,000 Adults to Oregon Health Plan">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-219 post type-post hentry category-community-resources tag-911 tag-oregon-emergency-managment pngfix clearfix curved" id="post-219">
+				<h2><a href="http://211info.org/blog/life-911-lessons-211-disaster-preparedness" rel="bookmark" title="Permanent Link to Life without 911: Lessons for 211 and Disaster Preparedness">Life without 911: Lessons for 211 and Disaster Preparedness</a></h2>
+
+				<div class="entry">
+					<p><img class="alignright" title="Call 911" src="http://ktar.net/blogs/crummey/wp-content/uploads/2009/11/911.gif" alt="" width="184" height="163">In a post this morning the Oregon Emergency Management and Disaster Preparedness blog asked the intriguing question: <a href="http://oem-oregon.blogspot.com/2010/04/do-you-remember-time-when-there-was-no.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+OregonEmergencyManagementPreparednessAndDisasterBlog+%28Oregon+Emergency+Management+Preparedness+and+Disaster+Blog%29&amp;utm_content=Google+Reader" target="_blank">“Do  you remember a time when there was no 911 system</a>?” And yesterday they asked: <a href="http://oem-oregon.blogspot.com/2010/04/did-you-know-you-can-dial-211-for-help.html">Did  you know you can dial 211 for help?</a> (thanks for spreading the word OEM!).</p>
+<p>Two questions, in two days, that are&nbsp; relevant to 211info’s work and our community’s safety.</p>
+<p><strong>What about disaster preparedness?</strong><br>
+A while ago I posted about <a href="http://211info.org/blog/emergency-turn-211">using 211 in an emergency</a>, but OEM’s point is: what do you do if the phones or numbers don’t work? 911 and 211 can’t be accessed via text message (currently).</p>
+<p>800-megahertz radios and satellite phones might be an option. But how many of us have those?</p>
+<p>Here is OEM’s response:</p>
+<p style="padding-left: 60px;">When the 911 system is interrupted, it is often during the worst  possible time so we are reminding everyone to have the phone numbers to  the police, fire, Veterinarian, and ambulance posted by your phones or  in a location known by each member of the family.</p>
+<p style="padding-left: 60px;">Phone service  may also be interrupted.  It is important to check your home and cell  phones by calling neighbors and establishing your own communication  system in the event of an emergency. Neighbors should maintain contact  with each other for mutual support. Being ready for the unexpected is  what emergency preparedness is all about.</p>
+<p><strong>Learning from 911</strong><br>
+The other question that popped to my mind is one I hear from time to time around the office or in 211 meetings. How did 911 become <span style="text-decoration: underline;">so</span> integrated in our society that we all take it for granted? And how do we move 211 to that place?</p>
+<p>I think the short answer is: it wasn’t easy for 911 and it won’t be easy for us. It will take a lot of people in the community, in our state and in our nation as a whole standing up and saying: hey, we need this service. People’s lives will be better for it.</p>
+<p>I have written these little equations down in the past:</p>
+<p style="padding-left: 60px;">211 + community services + public knowledge = improved lives</p>
+<p style="padding-left: 60px;">911 + emergency services + public knowledge = improved lives</p>
+<p>Are they simplistic? Yes. Do they drive home a point? Hopefully.</p>
+<p>So I guess I’ll pose two questions for you to ponder:</p>
+<p style="padding-left: 60px;">1) What would YOU do in an emergency, when some of the things we all take for granted stop working?</p>
+<p style="padding-left: 60px;">2) How do we bring the 211 movement to the tipping point that 9-1-1 reached some time ago?</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						29.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/community-resources" title="View all posts in community resources" rel="category tag">community resources</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/life-911-lessons-211-disaster-preparedness#comments" title="Comment on Life without 911: Lessons for 211 and Disaster Preparedness">1 Comment</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-228 post type-post hentry category-community-resources tag-partners-for-a-hunger-free-oregon pngfix clearfix curved" id="post-228">
+				<h2><a href="http://211info.org/blog/update-partners-hungerfree-oregon" rel="bookmark" title="Permanent Link to Partners for a Hunger-Free Oregon Open House and Job Announcement [Partner Update]">Partners for a Hunger-Free Oregon Open House and Job Announcement [Partner Update]</a></h2>
+
+				<div class="entry">
+					<table border="0" cellspacing="0" cellpadding="5" width="100%">
+<tbody>
+<tr>
+<td colspan="2" width="100%" height="90" bgcolor="#ffffff">
+<table id="content_LETTER.BLOCK2" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="center"><span style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; color: #000000; font-size: large;"><p></p>
+<div><a href="http://r20.rs6.net/tn.jsp?et=1103333145592&amp;s=899&amp;e=00141c4glSVpsgjVmHnqlvlaKqNE7GK_7Qzu_KPtVTqEpLfcwhaHyAweNOSibN1C6oTxwPcmU8pKZu62Hh4tCjCl07dErg9fqX2RWLzhvlOiWFBXVCmXWpuFA==" target="_blank"><img src="http://ih.constantcontact.com/fs045/1101794210113/img/16.jpg" border="0" alt="OHRTF  logo with a photo collage of children eating." width="376" height="86" align="left"></a><p></p>
+</div>
+<p></p></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td width="175" valign="top" bgcolor="#666600"></td>
+<td width="425" align="center" valign="top" bgcolor="#666600"></td>
+</tr>
+<tr>
+<td colspan="2" width="100%" bgcolor="#666600"><a name="LETTER.BLOCK3"></a><p></p>
+<table id="content_LETTER.BLOCK3" border="0" cellspacing="0" cellpadding="5" width="100%" bgcolor="#ffffff" background="http://img.constantcontact.com/letters/images/1101093164665/events_hip_bg.gif" bordercolor="#f7970c">
+<tbody>
+<tr>
+<td align="left"><span style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; color: #308999; font-size: x-small;"> </span><p></p>
+<div><span style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; color: #308999; font-size: x-small;"><span style="font-family: Trebuchet MS,Verdana,Helvetica,sans-serif; color: #80755f; font-size: medium;"><img src="http://ih.constantcontact.com/fs045/1101794210113/img/17.jpg" border="0" alt="Sunflower" hspace="5" vspace="5" width="117" height="176" align="right"><span>Open House</span></span></span></div>
+<p><span style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; color: #308999; font-size: x-small;"> </span></p>
+<div><span style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; color: #308999; font-size: x-small;"><br>
+Just a reminder that you’re invited to  our open house on May 5th! Stop by to meet us and learn more about what  we do.<p></p>
+<p>We’ll have refreshments and great raffle gifts for a few  lucky winners!</p>
+<p>Please share this invitation with others who may  be interested.<br>
+We look forward to seeing you!&nbsp;<a href="http://r20.rs6.net/tn.jsp?et=1103333145592&amp;s=899&amp;e=00141c4glSVpsgIZLWTUW7jFvEJbB9cTZILMMKtbzoLoNbT4IPbMIDS3r1s7eUFOzERmcql78G_3_kTQrUBaEaeFI7q9NEYJD_tpV46OLserEMzynDivXz0LfDK2wsMNIG_WLAAIWYdhdI=" target="_blank">More Information</a></p>
+<p></p>
+<div><span style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; color: #308999; font-size: x-small;"><span>Where &amp;  When</span><br>
+712 SE  Hawthorne Blvd.<br>
+Suite 202<br>
+Portland, OR<br>
+May 5, 2010<br>
+4:00 PM – 7:00 PM </span></div>
+</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Job Announcement</strong></p>
+<p>Partners for a Hunger-Free Oregon is looking for an organized and highly motivated person to expand SNAP outreach to rural communities in Oregon.</p>
+<p>This is a full-time, temporary position (May 2010 through Sept. 2010).</p>
+<p>Position information and application instructions:<br>
+<a href="http://r20.rs6.net/tn.jsp?et=1103345738503&amp;s=899&amp;e=001xvTHqvj6cQXWkSXnLVKSDsPOQBHIRSJ8EocGU472fXwFmf3PdSo8SH2YT881WH_D-0YlCaeV41ahMyv9RJj0UMbyZm33pYdgdYXVvuiS21wT8A68kBLMIHKPDmL8gECs4JC_HBWBn5oDxARLfp2kd-mTRMuEqTZK" target="_blank">http://www.oregonhunger.org/SNAP-Rural-Outreach-Organizer</a></p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						29.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/community-resources" title="View all posts in community resources" rel="category tag">community resources</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/update-partners-hungerfree-oregon#respond" title="Comment on Partners for a Hunger-Free Oregon Open House and Job Announcement [Partner Update]">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-207 post type-post hentry category-media-releases tag-collins-foundation tag-funding tag-grants tag-meyer-memorial-trust tag-ocf pngfix clearfix curved" id="post-207">
+				<h2><a href="http://211info.org/blog/money-talks-large-foundations-statewide-helpline" rel="bookmark" title="Permanent Link to Money Talks, Large Foundations Back Statewide Helpline">Money Talks, Large Foundations Back Statewide Helpline</a></h2>
+
+				<div class="entry">
+					<p><strong>PRESS RELEASE</strong><br>
+April 28, 2010</p>
+<p>Contact:<br>
+Liesl Wendt, CEO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matt Kinshella, External Relations Coordinator<br>
+503-416-2619&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 503-416-2649<br>
+liesl@211info.org&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; matt@211info.org</p>
+<p><strong> </strong></p>
+<div id="attachment_210" class="wp-caption alignright" style="width: 310px"><strong><strong><a href="http://211info.org/blog/wp-content/uploads/2010/04/BoardOCF1.jpg"><img class="size-medium wp-image-210  " title="BoardOCF" src="http://211info.org/blog/wp-content/uploads/2010/04/BoardOCF1-300x131.jpg" alt="211info Board of Directors" width="300" height="131"></a></strong></strong><p class="wp-caption-text">211info Board members receive grant check from Oregon Community Foundation representative Jeri Holt</p></div>
+<p><strong>Portland, OR – </strong>In an economic climate where every dollar spent by Oregon’s charitable foundations is scrutinized, three of the largest grant-makers –The Collins Foundation, Meyer Memorial Trust and the Oregon Community Foundation — have invested $190,000 in 2-1-1, the health and community information equivalent of 9-1-1.</p>
+<p>The latest grant to 211info is from The Collins Foundation,&nbsp;an independent private foundation created in 1947 by Truman W. Collins and other family members. The foundation exists to advance humanitarian endeavors in the state of Oregon and to assist in improving the quality of life for Oregonians.&nbsp;It announced a $50,000&nbsp;grant to&nbsp;211info to be used over the next two years&nbsp;to expand 2-1-1 services statewide.</p>
+<p>“We are pleased to support an endeavor that has the potential of serving the entire state,” says Cynthia Addams, Executive Vice President of The Collins Foundation. “Imagine needing help and being able to call one number from anywhere in Oregon to get a local referral to vital social services. A statewide 2-1-1 system is one of the best investments that can be made to help coordinate information in a complex social service system.”</p>
+<p>The foundation community is looking to 211info to serve a broad cross-section of Oregonians, while working to make a vast system of nonprofit and public agencies more efficient. Nationwide, 2-1-1 covers more than 80% of Americans and in parts of Oregon (currently seven counties) 2-1-1 has operated and expanded since 2004.</p>
+<p>2-1-1 was established because of a demand for a single, easy-to-remember number for residents to call for life-improving services and as a service that could take administrative strain off of those who normally spend hours searching for services for clients or constituents.</p>
+<p>“A few things about our 2-1-1 system are unique. One is the fact that we use a single call center for the entire state. Administrative costs associated with starting a call center are greatly decreased for counties – many of whom could never afford to start one from scratch. And two – all the resources collected and utilized by our call center are gathered locally, in each county, to ensure, accuracy and relevance to the user,” explains 211info CEO Liesl Wendt.</p>
+<p>Last year, 211info provided referrals more than 260,000 times through the phones and their online database. The economic crisis is driving up call volume – especially for basic needs. For instance, more than 18,000 calls from people searching for food came in last year, an increase of 66%. Internet searches have also increased more than 64% in one year.</p>
+<p>211info is hoping to have a complete statewide 2-1-1 system by 2013. Lane, Marion, Polk and Jackson are among the counties expressing interested in bringing on 2-1-1.</p>
+<p style="text-align: center;">###</p>
+<p><strong><span style="text-decoration: underline;">About 211info</span></strong></p>
+<p>211info is a nonprofit that connects the people of Oregon and Southwest Washington to the community resources they need. Last year, people relied on 211info more than 260,000 times for referrals to food, shelter, housing and utility assistance, counseling and much more. 211info operates 2-1-1 — the free, the easy-to-remember health and community helpline, in addition to maintaining an online database with more than 4,200 resources. 2-1-1 coverage extends to seven counties in Oregon and four counties in Southwest Washington. 211info is leading Oregon’s efforts to join 28 other states that provide statewide 2-1-1 coverage.</p>
+<p>211info is a strategic partner of the <a href="http://www.unitedway-pdx.org/">United Way of the Columbia-Willamette</a>. For more information, visit <a href="http://www.211info.org/">www.211info.org</a>.</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						28.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/media-releases" title="View all posts in Media Releases" rel="category tag">Media Releases</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/money-talks-large-foundations-statewide-helpline#respond" title="Comment on Money Talks, Large Foundations Back Statewide Helpline">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-200 post type-post hentry category-uncategorized category-community-resources tag-homelessness tag-multnomah-county tag-winter-shelter pngfix clearfix curved" id="post-200">
+				<h2><a href="http://211info.org/blog/lifesaving-lessons-coordinating-multnomah-county-winter-shelters" rel="bookmark" title="Permanent Link to Life-saving Lessons – Coordinating Multnomah County Winter Shelters">Life-saving Lessons – Coordinating Multnomah County Winter Shelters</a></h2>
+
+				<div class="entry">
+					<p><a href="http://211info.org/blog/wp-content/uploads/2010/04/WinterShelter.jpg"><img class="alignright size-medium wp-image-203" title="WinterShelter" src="http://211info.org/blog/wp-content/uploads/2010/04/WinterShelter-300x225.jpg" alt="" width="300" height="225"></a>With an abusive situation left in Montana, Marjorie and Myesha came to Portland with the prospect of a new job and a new life <img src="file:///C:/Users/MKINSH%7E1/AppData/Local/Temp/moz-screenshot.png" alt="">awaiting them. But in this economy, nothing is a sure bet. The position closed and the family was in a new town, in the harsh winter months of December, with no leads.</p>
+<p>Their only income was TANF and SNAP. They had never been homeless before. But with a quick call they were placed in a Multnomah county winter shelter.</p>
+<p>Today, Marjorie is working full-time, Myesha is in school and they have their own home to enjoy. But what happened to bring this about? What are the steps nonprofits and government can take to ensure such success stories?</p>
+<p>211info is proud to be a part of a team led by <a href="http://www.humansolutions.org/" target="_blank">Human Solutions</a>. And we are proud to partner with <a href="http://www.goosehollowfamilyshelter.org/" target="_blank">Portland Homeless Family Solutions</a>, <a href="http://www.firstunitarianportland.org/" target="_blank">First Unitarian Church</a>, <a href="http://commoncupshelter.org/" target="_blank">Common Cup</a>, <a href="http://www.co.multnomah.or.us/dchs/" target="_blank">Multnomah County</a> Department of County Human Services and <a href="http://www.joinpdx.com/" target="_blank">JOIN</a>.</p>
+<p>All told the team produced amazing results:</p>
+<ul>
+<li>10,145 nights of shelter provided</li>
+<li>87 families served</li>
+</ul>
+<p style="padding-left: 60px;">–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 129 adults</p>
+<p style="padding-left: 60px;">–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 138 children</p>
+<p style="padding-left: 60px;">–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 267 total in families</p>
+<ul>
+<li>85 single women or pregnant couples served</li>
+<li>41 families housed, 11 more pending</li>
+</ul>
+<p><strong>How the system works</strong></p>
+<p>Having one phone number for people to call is crucial. The time it would take to call the different shelters – assuming you could even find their numbers – is certainly more than anyone can spare. In our case, 211info handles the Winter Shelter line and extends our hours to meet demand.</p>
+<p>When someone calls, they speak to a call center specialist who explains what the shelter is going to be like. They can answer any questions and then they place the family in the appropriate shelter. This places both call center duties and scheduling duties in the hands of one organization – saving administrative headaches.</p>
+<p>Once, the person or family enters the shelter they meet with a housing specialist who will discuss options for housing, provide case management and offer other services that will help the individual and their family.</p>
+<p>In Myesha’s case, she got help enrolling in school. Meanwhile, Marjorie worked with Housing and Employment Specialists who worked with her on a frequent basis to secure a new job and to find rental assistance for three month’s rent until her income could support the family.</p>
+<p>This year 41 people were placed in permanent housing situations with eleven more pending. This couldn’t happen without the amazing work of those in the shelter, a coordinated effort between multiple groups and the funding provided by the county.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong>Lessons Learned</strong></p>
+<p><strong> </strong></p>
+<p>Emily Berndt, 211info Call Center manager and one of the project leads, sees two lessons that can be learned by anyone hoping to establish a winter shelter program:</p>
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Private and public sector partnerships are key. </strong>When government, independent nonprofits and the faith based community communicate effectively, coordinate efforts and leave ego out of it – the system serves people much more efficiently than if each group were doing their own thing.<strong> </strong></p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Compassion and knowledge is crucial for inspiring action. </strong>There can be stigma associated with needing shelter or being homeless. Having one point of contact for everyone to call removes the hassle of scheduling a shelter for those who need it. But more importantly, if the person answering that initial call is knowledgeable and compassionate then the opportunity to motivate someone to seek shelter when otherwise they may be too ashamed is invaluable. Then, when that compassion and knowledge is embodied by those in the shelters, a family has a strong chance of moving to a much more stable environment.<strong> </strong></p>
+<p><strong>Have you had experience sheltering the homeless in winter months or otherwise? What are your experiences and lessons learned?</strong></p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						23.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/uncategorized" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>, <a href="http://211info.org/blog/category/community-resources" title="View all posts in community resources" rel="category tag">community resources</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/lifesaving-lessons-coordinating-multnomah-county-winter-shelters#respond" title="Comment on Life-saving Lessons – Coordinating Multnomah County Winter Shelters">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-188 post type-post hentry category-volunteers tag-volunteers pngfix clearfix curved" id="post-188">
+				<h2><a href="http://211info.org/blog/8-quick-lessons-running-volunteer-program" rel="bookmark" title="Permanent Link to 8 Quick Lessons About Running a Volunteer Program">8 Quick Lessons About Running a Volunteer Program</a></h2>
+
+				<div class="entry">
+					<p><em>By Jenny Dodd, 211info Volunteer Coordinator</em></p>
+<p>In honor of National Volunteer Week I wanted to share a little bit about what I have learned as 211info’s Volunteer Coordinator. We started our Volunteer Program in July 2009 in response to increased community demand for 211info’s services. Since then, 26 volunteers have joined 211info to help answer calls, update the resource database, and provide administrative support. Volunteers have dramatically increased capacity and improved service delivery, and have become a vital part of 211info’s work in the community.</p>
+<p>Here are 8 quick lessons I’ve learned along the way about starting a volunteer program…</p>
+<ul>
+<li>Be flexible</li>
+<li>Recognize and thank volunteers</li>
+<li>Invest in organizational staffing to manage a volunteer program—it’s a big job!</li>
+<li>Recognize that training is an initial and ongoing process</li>
+<li>Consider the role of staff in integrating volunteers into the agency</li>
+<li>Foster relationships with the many amazing volunteer-matching, work experience, and school-based programs in the community</li>
+<li>Be accessible, your volunteers need to have one person to turn to for anything!</li>
+<li>Tap into the experiences of local volunteer experts – such as Hands on Greater Portland, NOVAA and other volunteer support organizations.</li>
+</ul>
+<p>211info’s Volunteer Program would not be possible without invaluable partnerships with<a href="http://www.handsonportland.org/HomePage/index.php/home.html" target="_blank"> Hands on Greater Portland</a>, Seniors Make Sense, <a href="http://dwp.bigplanet.com/steps2success" target="_blank">Mount Hood Community College Steps to Success</a>, Portland State University’s Social Work program, <a href="http://www.ssw.pdx.edu/" target="_blank">Portland State University’s Public Health program</a>, <a href="http://www.mhcc.edu/docs/MentalHealth/MHHS_Brochure.pdf" target="_blank">Mount Hood Community College Mental Health and Human Services</a> program, and the <a href="http://www.up.edu/moreaucenter/default.aspx?cid=8525&amp;pid=3644" target="_blank">University of Portland’s Moreau Center work study program</a>. THANK YOU VOLUNTEERS AND PARTNERS for all of your support!</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						20.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/volunteers" title="View all posts in Volunteers" rel="category tag">Volunteers</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/8-quick-lessons-running-volunteer-program#respond" title="Comment on 8 Quick Lessons About Running a Volunteer Program">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-183 post type-post hentry category-uncategorized pngfix clearfix curved" id="post-183">
+				<h2><a href="http://211info.org/blog/ya-gonna-call" rel="bookmark" title="Permanent Link to Who ya gonna call? Community partnerships work best.">Who ya gonna call? Community partnerships work best.</a></h2>
+
+				<div class="entry">
+					<p><em>Guest Post by Mark Noonan</em></p>
+<div id="attachment_190" class="wp-caption alignright" style="width: 146px"><a href="http://211info.org/blog/wp-content/uploads/2010/04/Mark_web_ready.jpg"><img class="size-medium  wp-image-190" title="Elders in Action Mark Noonan" src="http://211info.org/blog/wp-content/uploads/2010/04/Mark_web_ready-214x300.jpg" alt="" width="136" height="191"></a><p class="wp-caption-text">Mark Noonan</p></div>
+<p><em>Mark Noonan is the Volunteer Engagement&nbsp; &amp; Social Media Manager at Elders in Action, a nonprofit whose mission is to make sure the quality of life should never depend on age.</em></p>
+<p>Our community just works better when organizations with similar purposes partner together.</p>
+<p>Last Monday, I was training one of our Personal Advocates on being an intake volunteer for Elders in Action.&nbsp; During the training I picked up the <strong>2009-2010 211info<em> </em>Community Resource Directory </strong>and made the statement that it was the bible for information and referral resources in our area. It made me stop and think about the importance of the collaboration between 211info and Elders in Action.</p>
+<p>Elders in Action helps older adults in the Portland metro area who are struggling with issues surrounding housing, healthcare, or criminal activities such as elder fraud or abuse.&nbsp; In FY 2008-2009, our Personal Advocates assisted 3,561 individuals and many of these individuals just needed a resource or referral to one of the great agencies providing services to the aging community – often times they’d turn to 211info.</p>
+<p>Elder in Action’s Personal Advocates receive training so they know how to utilize resources such as 211info, but their biggest assets are their abilities to draw on their own knowledge and experience while keeping an empathetic and objective perspective.&nbsp; The unique services that Elders in Action provides to the community are needed more than ever.</p>
+<p><a href="http://211info.org/blog/wp-content/uploads/2010/04/EIA-CMYK-Hi-Res.jpg"><img class="alignright size-medium wp-image-191" title="EIA CMYK Hi Res" src="http://211info.org/blog/wp-content/uploads/2010/04/EIA-CMYK-Hi-Res-300x114.jpg" alt="" width="300" height="114"></a>Last year we served 74% more people than the previous year.&nbsp; In the past nine months our 52 Personal Advocates have logged over 2,484 volunteer hours&nbsp;and recouped over $284,000 in cost recovery or avoidance.</p>
+<p>For the more complex problems, Elders in Action brings in our Personal Advocates who provide free personalized problem solving assistance and support to individuals 60 years or older living independently in Clackamas, Multnomah, and Washington counties.&nbsp; These trained volunteers work collaboratively to provide the spark that helps an older adult overcome an obstacle and find a solution that keeps them living independently.</p>
+<p>10,000 people a day are turning 60 and we at Elders in Action look for innovative ways to capture the talent and wisdom of older adults who are looking for active and meaningful ways to make a difference in their community.</p>
+<p>Our 150 volunteers provide programs and services, not available anywhere else in Oregon, to thousands of residents in Clackamas, Multnomah, and Washington Counties.&nbsp; We would like to invite you to meet our talented and dedicated staff and volunteers to find out the multiple ways you can get involved.</p>
+<p>To learn more about our fine programs, volunteers and events, visit &nbsp;our website <a href="http://www.eldersinaction.org" target="_blank"><strong>www.eldersinaction.org</strong></a> or on Facebook <a href="http://www.facebook.com/EldersinAction">www.facebook.com/EldersinAction</a></p>
+<p><strong> </strong></p>
+<p>Regardless if we are providing a referral to a local agency or hours of focused attention by one of our Personal Advocates, we are all thankful to have the support from 211info and other local agencies to help us navigate the maze of health and community service offerings which can often overwhelm an older adult.</p>
+<p style="text-align: center;">###</p>
+<p>Another great way to get to know Elders in Action is to attend their Annual Open House on April 20, 2010 from 2-4pm. 1411 SW Morrison Ave., Suite 290, Portland, OR&nbsp; 97205.&nbsp; Join EiA friends, partners, and volunteers for an afternoon of good cheer and conversation.</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						15.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/uncategorized" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/ya-gonna-call#respond" title="Comment on Who ya gonna call? Community partnerships work best.">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-178 post type-post hentry category-about-211info tag-address tag-future tag-liesl pngfix clearfix curved" id="post-178">
+				<h2><a href="http://211info.org/blog/future-211info" rel="bookmark" title="Permanent Link to The Future of 211info">The Future of 211info</a></h2>
+
+				<div class="entry">
+					<p>Today, access to vital  information is more important than ever. Watch excerpts of CEO Liesl Wendt’s address that outline  the future of 211info and the future of increasing access to information  that will improve the lives of every Oregonian and Southwest  Washingtonian.</p>
+<p style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="505" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/SIweiIJYqQY&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="640" height="505" src="http://www.youtube.com/v/SIweiIJYqQY&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>Listen to <a href="http://www.youtube.com/watch?v=Sp5fwfPiKXw">211info</a> CEO Liesl Wendt’s full address.</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						13.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/about-211info" title="View all posts in About 211info" rel="category tag">About 211info</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/future-211info#respond" title="Comment on The Future of 211info">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-170 post type-post hentry category-community-resources tag-census pngfix clearfix curved" id="post-170">
+				<h2><a href="http://211info.org/blog/sixtyseven-percent-oregonians-returned-census-mailing" rel="bookmark" title="Permanent Link to Sixty-seven percent of Oregonians have returned census mailing">Sixty-seven percent of Oregonians have returned census mailing</a></h2>
+
+				<div class="entry">
+					<p style="text-align: left;">Our friends at the US Census Bureau have asked for our help to spread the word about mailing back census forms. 211info is encouraging people on the phones to do this, but we all need to work together. The bottom line (literally) is&nbsp; summed up in a US Census Bureau press release:</p>
+<p style="padding-left: 60px;">As of Friday, April 9, the national mail back participation rate was 65 percent.&nbsp;Oregon was slightly&nbsp;ahead the national average with 67 percent. The&nbsp;counties with the highest participation rates were&nbsp;Benton (71%),&nbsp;Polk (70%)&nbsp;and&nbsp;Linn (70%)&nbsp;counties.&nbsp; Lagging behind were&nbsp;Gilliam County, with&nbsp;51 percent, and&nbsp;Sherman County, with&nbsp;54 percent.</p>
+<p style="padding-left: 60px;">The Census Bureau saves about $85 million in operational costs for every percentage point increase in the nation’s mail-participation rate. It costs the government just the price of a postage stamp when a household mails back the form. However, it costs the Census Bureau $57 to follow up with a non-responsive household.</p>
+<p>When I got the form at home, I filled it out immediately and mailed it. All told, it probably took less than five minutes. Now I know we are all busy, but if you don’t have a couple minutes to spare in order to save 57 dollars then you might have to re-evaluate your schedule.</p>
+<p>All joking aside, this is important for Oregon. The Census Bureau has created tools to help communities track their census participation. The Take 10 Challenge Map shows the latest participation rates, giving users the option to download and embed a local rate tracker “widget” on their own website.</p>
+<p>If you did not receive a Census form or have misplaced it, visit: <a href="http://2010.census.gov/2010census/take10map/" target="_blank">http://2010.census.gov/2010census/take10map/ </a>to find a “Be Counted” or questionnaire assistance center site in your neighborhood, where forms are available. Both the questionnaire assistance centers and the “Be Counted” sites are operational until April 19 and can be found in public areas, such as libraries and community centers donated by businesses and organizations.</p>
+<p>Or, call the Telephone Questionnaire Assistance Center hotlines for assistance seven days a week from 8 a.m. to 9 p.m. local time.&nbsp;The phone numbers are: English: 1-866-872-6868, Spanish: 1-866-928-2010, Chinese: 1-866-935-2010, Korean: 1-866-955-2010, Russian: 1-866-965-2010, Vietnamese: 1-866-945-2010, TDD (hearing impaired): 1-866-783-2010.</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						12.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/community-resources" title="View all posts in community resources" rel="category tag">community resources</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/sixtyseven-percent-oregonians-returned-census-mailing#respond" title="Comment on Sixty-seven percent of Oregonians have returned census mailing">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+			<div class="post-159 post type-post hentry category-about-211info tag-211info tag-multnomah-county tag-public-health-heroes pngfix clearfix curved" id="post-159">
+				<h2><a href="http://211info.org/blog/celbrating-public-heroes-multnomah-county" rel="bookmark" title="Permanent Link to Celebrating Public Heroes in Multnomah County">Celebrating Public Heroes in Multnomah County</a></h2>
+
+				<div class="entry">
+					<div id="attachment_164" class="wp-caption alignright" style="width: 265px"><a href="http://211info.org/blog/wp-content/uploads/2010/04/2010-04-08-12.07.29.jpg"><img class="size-medium wp-image-164" style="margin: 5px;" title="Mult. Co. Health Hero Nomination" src="http://211info.org/blog/wp-content/uploads/2010/04/2010-04-08-12.07.29-300x224.jpg" alt="Thanks Multnomah County for the nomination!" width="255" height="190"></a><p class="wp-caption-text">Thanks Multnomah County for the kind words!</p></div>
+<p>It’s an honor just to be nominated…really.</p>
+<p>Sitting in the commissioners board room watching six well deserving individuals be recognized as <a href="http://www.mchealth.org/phh/index.shtml" target="_blank">Multnomah County Public Health Heroes</a> made me appreciate living in Oregon and working for an organization recognized (as our nifty certificate said) for our “outstanding dedication and service to Public Health.” The organizations and individuals who were recognized as Public Health  Heroes were very deserving. Although 211info didn’t win the award,&nbsp; we couldn’t possibly feel bad about not winning considering our company in the Community Based Organization or Program category.&nbsp; So hats off to these Public Health Heroes:</p>
+<p><strong>Katie Jeans-Gail Award for Young Heroes: <a href="http://www2.co.multnomah.or.us/OurCommissionOrg/EntryPoint?ch=51344ac9c9668110VgnVCM1000003bc614acRCRD" target="_blank"><br>
+Multnomah County Youth Commission</a>.</strong></p>
+<div id="attachment_163" class="wp-caption alignright" style="width: 240px"><a href="http://211info.org/blog/wp-content/uploads/2010/04/2010-04-08-11.15.281.jpg"><img class="size-medium  wp-image-163" title="Multnomah County Commissioners  " src="http://211info.org/blog/wp-content/uploads/2010/04/2010-04-08-11.15.281-300x208.jpg" alt="" width="230" height="159"></a><p class="wp-caption-text">Multnomah County Commissioners </p></div>
+<p>The Multnomah Youth Commission, the official youth policy body for both  Multnomah County and the City of Portland, is a group of young people,  ages 13-21, that strives to provide a voice for youth in the County  &amp; City’s work. Housed within the Multnomah County Commission on  Children, Families &amp; Community and the City of Portland’s Office of  the Mayor the MYC works to change policy affecting young people, as well  as negative community perception about youth.</p>
+<p><strong>Josiah Hill, III Community Leadership Award: S. Renee Mitchell</strong><br>
+S. Renee Mitchell is a Pulitzer Prize-nominated former newspaper columnist, poet, playwright, teacher and small business owner and speaks passionately against verbal, sexual and physical abuse. Renee is the co-founder of the Healing Roots Center, a four-year-old referral center for black women who are experiencing domestic violence.</p>
+<p><strong><strong> </strong></strong></p>
+<div class="mceTemp">
+<dl id="attachment_161" class="wp-caption alignright" style="width: 197px;">
+<dt class="wp-caption-dt"><strong><strong><strong><a href="http://211info.org/blog/wp-content/uploads/2010/04/2010-04-08-11.35.13.jpg"><img class="size-medium wp-image-161" title="Jill Fuglister, Coalition for a Livable Future" src="http://211info.org/blog/wp-content/uploads/2010/04/2010-04-08-11.35.13-218x300.jpg" alt="" width="187" height="256"></a></strong> </strong></strong></dt>
+<dd class="wp-caption-dd"><strong><strong><strong>Jill  accepts CLF’s award for community based organization</strong> </strong></strong></dd>
+</dl>
+</div>
+<p><strong><strong> </strong>Business: Oregon Museum of Science and Industry (OMSI)</strong><br>
+The  <a href="http://www.omsi.edu/mission" target="_blank">Oregon Museum of Science and Industry (OMSI)</a> is a scientific,  educational, and cultural resource center dedicated to improvingthe  public’s understanding of science and technology. OMSI makes science  exciting and relevant through exhibits, programs, and experiences that  are presented in an entertaining and participatory fashion.</p>
+<p><strong>Community Based Organization or Program: Coalition for a Livable Future<br>
+</strong>The <a href="http://clfuture.org/" target="_blank">Coalition for a Livable Future</a> unites over 100 diverse organizations  and hundreds of individuals to promote healthy and sustainable  communities. By connecting issues, people and organizations, CLF  empowers communities to take action together to shape the big decisions  affecting the Portland region’s future.</p>
+<p><strong>Governor John Kitzhaber Public Health Policy Leadership Award: ReneeHackenmiller-Paradis</strong><br>
+Renee is the Environmental Program Director at the Oregon Environmental Council and works to unite health professionals and environmental advocates in developing and promoting policies to protect children’s health from toxic pollution.</p>
+<p><strong>Multnomah County Employee: Susan Kirchoff</strong><br>
+Susan is the architect of the Building Better Care model, which promotes patient-centered approach to health care services.</p>
+				</div>
+
+				<p class="postmetadata clearfix">
+					<span class="icondate floatleft">
+						08.04.2010 
+					</span>
+					<span class="iconcat floatleft">
+						<a href="http://211info.org/blog/category/about-211info" title="View all posts in About 211info" rel="category tag">About 211info</a>   
+					</span>
+					<span class="iconcomment floatright">
+						<a href="http://211info.org/blog/celbrating-public-heroes-multnomah-county#respond" title="Comment on Celebrating Public Heroes in Multnomah County">No Comments</a>					</span>
+				</p>
+			</div>
+
+		
+		<div class="navigation curved pngfix clearfix">
+			<div class="floatleft"><a href="http://211info.org/blog/page/4">Previous Entries</a></div>
+			<div class="floatright"><a href="http://211info.org/blog/page/2">Newer Entries</a></div>
+		</div>
+
+	</div><!-- /content -->
+<div id="sidebar" class="floatleft">
+
+ 
+<div id="toptwitter" class="pngfix">
+	<h2><a target="_blank" href="http://twitter.com/211info" title="Follow Me">Follow me on Twitter<i>!</i></a></h2>
+	<div class="toptwittermsg">
+		<ul id="twitter_update_list"><li></li></ul>
+		<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+		<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/211info.json?callback=twitterCallback2&amp;count=1"></script>
+	</div><!-- /twittermsg -->
+</div><!-- /top twitter -->
+<div class="widget pngfix curved widget_text clearfix">			<div class="textwidget"><!-- BEGIN: Constant Contact Bubble Opt-in Email List Form -->
+<div align="center">
+<table width="170" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="#FFFFFF" valign="top">
+<td width="9" rowspan="2"><img src="http://img.constantcontact.com/ui/images/visitor/tl_brdr2_trans.gif" width="9" height="9" border="0"></td>
+<td width="152" height="1" bgcolor="#FFFFFF"><img src="http://img.constantcontact.com/ui/images/spacer.gif" border="0" width="1" height="1"></td>
+<td width="9" rowspan="2" align="right"><img src="http://img.constantcontact.com/ui/images/visitor/tr_brdr2_trans.gif" width="9" height="9" border="0"></td>
+</tr>
+<tr>
+<td width="152" height="8" bgcolor="#ffffff"><img src="http://img.constantcontact.com/ui/images/spacer.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+<td width="170" colspan="3" style="border-left: 1px solid #FFFFFF;border-right: 1px solid #FFFFFF;"><div align="center">
+<form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;">
+<font style="font-weight: bold; font-family:Arial; font-size:18px; color:#006699;">Join Our Email List</font><br>
+<font style="font-weight: normal; font-family:Arial; font-size:10px; color:#000000;">Email:</font> <input type="text" name="ea" size="14" value="" style="font-family: Arial; font-size:10px; border:1px solid #999999;">&nbsp;<input type="submit" name="go" value="Join" class="submit" style="font-family:Arial,Helvetica,sans-serif; font-size:11px;">
+<input type="hidden" name="m" value="1101414053242">
+<input type="hidden" name="p" value="oi">
+</form>
+</div></td>
+</tr>
+<tr bgcolor="#FFFFFF" valign="bottom">
+<td rowspan="2"><img src="http://img.constantcontact.com/ui/images/visitor/bl_brdr2_trans.gif" width="9" height="9" border="0"></td>
+<td width="152" height="8" bgcolor="#ffffff"><img src="http://img.constantcontact.com/ui/images/spacer.gif" border="0" width="1" height="1"></td>
+<td rowspan="2" align="right"><img src="http://img.constantcontact.com/ui/images/visitor/br_brdr2_trans.gif" width="9" height="9" border="0"></td>
+</tr>
+<tr>
+<td width="152" bgcolor="#FFFFFF"><img src="http://img.constantcontact.com/ui/images/spacer.gif" border="0" width="1" height="1"></td>
+</tr>
+</tbody></table>
+</div>
+<!-- END: Constant Contact Bubble Opt-in Email List Form --></div>
+		</div><div class="widget pngfix curved widget_text clearfix"><h2>Check out our fan page!</h2>			<div class="textwidget"><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("a9d92ba216c544f61a752bf756df9a10");</script><fb:fan profile_id="42296973038" stream="0" connections="0" logobar="1" width="280"></fb:fan><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/pages/211info/42296973038">211info</a> on Facebook</div></div>
+		</div><div class="widget pngfix curved widget_links clearfix"><h2>211info</h2>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.211info.org" rel="me" title="Find out more about 211info, access our online resource database, and view/order materials." target="_top">211info.org</a></li>
+<li><a href="http://www.irissoft.com/INFO/" rel="me" title="Search more than 4,200 of 211info extensively researched community resources." target="_top">Online Resource Database</a></li>
+
+	</ul>
+</div>
+<div class="widget pngfix curved widget_links clearfix"><h2>Blogroll</h2>
+	<ul class="xoxo blogroll">
+<li><a href="http://independencenw.wordpress.com/" rel="acquaintance" title="Independence Northwest is an Oregon nonprofit organization serving the Portland metropolitan area. You may visit our website here. The Independence Northwest Blog is intended to be a comprehensive resource for our community, regularly updated to include i" target="_blank">Independence Northwest</a></li>
+<li><a href="http://uwcw.blogspot.com/2010/01/mlk-weekend-of-service-in-news.html" rel="acquaintance">United Way of the Columbia-Willamette Blog</a></li>
+
+	</ul>
+</div>
+<div class="widget pngfix curved widget_rss clearfix"><h2><a class="rsswidget" href="http://www.google.com/reader/shared/10145856922140090957" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://211info.org/blog/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="" title="">211info Google Reader Shared Items</a></h2><ul><li><a class="rsswidget" href="http://feedproxy.google.com/~r/portlandhousingblogspot/~3/-1w6JATZBaU/economy-reality-check.html" title="Regardless of how many times you hear or read the word &quot;recovery&quot; from the main stream media, reality seems to paint quite a different picture when one steps back from the MSM spin machine and looks at information readily available, but not prepackaged for consumption.Tim Duy via the Oregonian describes what appears to be a dead cat bounce for Oreg […]">The Economy: A Reality Check</a><div class="rssSummary">Regardless of how many times you hear or read the word "recovery" from the main stream media, reality seems to paint quite a different picture when one steps back from the MSM spin machine and looks at information readily available, but not prepackaged for consumption.Tim Duy via the Oregonian describes what appears to be a dead cat bounce for Oreg […]</div></li><li><a class="rsswidget" href="http://www.oregonlive.com/opinion/index.ssf/2010/07/2-1-1_service_emergency_respon.html" title="To coordinate disaster and public health response efforts in Oregon, we would be well-served to create a statewide 2-1-1 system as a companion to crucial ...See all stories on this topic » […]">2-1-1 service: Emergency response we can all count on</a><div class="rssSummary">To coordinate disaster and public health response efforts in Oregon, we would be well-served to create a statewide 2-1-1 system as a companion to crucial ...See all stories on this topic » […]</div></li><li><a class="rsswidget" href="http://www.google.com/reader/bundle/user/10145856922140090957/bundle/HousingConnections" title="HousingConnections Oregon Housing Blog Google Alerts - housingconnections.org Google Alerts - housing assitance oregon Google Alerts - &quot;housing conntections&quot; Oregon Google Alerts - foreclosure Oregon Preview this bundle […]">HousingConnections</a><div class="rssSummary">HousingConnections Oregon Housing Blog Google Alerts - housingconnections.org Google Alerts - housing assitance oregon Google Alerts - "housing conntections" Oregon Google Alerts - foreclosure Oregon Preview this bundle […]</div></li><li><a class="rsswidget" href="http://www.facebook.com/notes/careoregon/what-does-the-recent-health-care-reform-mean-for-oregonians/116291068386754" title="CareOregon wrote a note titled What does the recent health care reform mean for Oregonians? Read the full text here. www.facebook.com/notes/.../what.../116291068386754 […]">CareOregon: What does the recent health care reform mean for ...</a><div class="rssSummary">CareOregon wrote a note titled What does the recent health care reform mean for Oregonians? Read the full text here. www.facebook.com/notes/.../what.../116291068386754 […]</div></li><li><a class="rsswidget" href="http://www.stopbuyingcrap.com/personal-finance/earned-income-tax-credit-do-i-qualify/" title="If You Qualify, Your State/Local Government May Have EITC Too! ... New Mexico, New York, North Carolina, Oklahoma, Oregon, Rhode Island (partial), Vermont ... www.stopbuyingcrap.com/personal-finance/earned-income-tax-credit-do-i-qualify/ […]">Earned Income Tax Credit: Do I Qualify?</a><div class="rssSummary">If You Qualify, Your State/Local Government May Have EITC Too! ... New Mexico, New York, North Carolina, Oklahoma, Oregon, Rhode Island (partial), Vermont ... www.stopbuyingcrap.com/personal-finance/earned-income-tax-credit-do-i-qualify/ […]</div></li></ul></div><div class="widget pngfix curved widget_archive clearfix"><h2>Get Connected Archive</h2>		<ul>
+			<li><a href="http://211info.org/blog/2010/09" title="September 2010">September 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/07" title="July 2010">July 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/06" title="June 2010">June 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/05" title="May 2010">May 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/04" title="April 2010">April 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/03" title="March 2010">March 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/02" title="February 2010">February 2010</a></li>
+	<li><a href="http://211info.org/blog/2010/01" title="January 2010">January 2010</a></li>
+	<li><a href="http://211info.org/blog/2009/12" title="December 2009">December 2009</a></li>
+		</ul>
+</div><div class="widget pngfix curved widget_categories clearfix"><h2>Categories</h2><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="7">211info grants</option>
+	<option class="level-0" value="20">About 211info</option>
+	<option class="level-0" value="4">Community Data</option>
+	<option class="level-0" value="8">community resources</option>
+	<option class="level-0" value="60">Community Service Tips</option>
+	<option class="level-0" value="33">Health Informations</option>
+	<option class="level-0" value="19">Media Releases</option>
+	<option class="level-0" value="59">Partner Update</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="37">Volunteers</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://211info.org/blog/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</div></div><!-- /sidebar -->
+
+
+
+</div> <!-- /content container -->
+<div id="footer" class="clearfix curved pngfix">
+	<div id="footleft" class="floatleft">
+		© 2009 | 211info | 621 SW Alder, Suite 810 | Portland, OR 97205 | p: 503-226-3099 | Business Hours: Monday-Friday 8am-6pm | contact@211info.org  <a href="http://211info.org/blog/" title="Get Connected"><b>Get Connected</b></a> 
+	</div><!-- /footleft -->
+	<div id="footright" class="floatleft">
+		Powered by <a target="_blank" href="http://www.wordpress.org/" title="WordPress"><b>WordPress</b></a> |
+		<!-- ******** CREDIT LINK SHOULD NOT BE REMOVED ********* -->
+			<a target="_blank" href="http://www.cssjockey.com/imagination" title="Imagination"><b>Imagination</b></a> by <a href="http://www.cssjockey.com/" title="Unique &amp; Practical Web Presense"><b>CSSJockey</b></a>
+		<!-- ******** CREDIT LINK SHOULD NOT BE REMOVED ********* -->	
+	</div><!-- /footright -->
+</div><!-- /footer -->
+</div><!-- /wrapper -->
+<div class="hidden">
+	<!-- Enter Valid Code Here --></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9790889-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<br><br>
+
+
+</body></html>

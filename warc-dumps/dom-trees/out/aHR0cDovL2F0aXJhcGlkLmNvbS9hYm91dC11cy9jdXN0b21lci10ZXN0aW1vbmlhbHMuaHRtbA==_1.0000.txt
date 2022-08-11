@@ -1,0 +1,157 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <base href="http://atirapid.com/about-us/customer-testimonials.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="rapid prototyping, rapid parts, rapid castings, rapid tooling, injection molding, low-volume production, production sourcing, design consultancy, design for manufacture, rapid prototypes, rapid plastics">
+  <meta name="title" content="Customer Testimonials">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Accelerated Technologies offers a full suite of product development services including rapid prototyping, injection molding, rapid castings and plastics, rapid tooling and low-volume production">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Customer Testimonials</title>
+  <link href="http://www.atirapid.com/templates/inner/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://atirapid.com/plugins/system/shadowbox/examples/build/shadowbox.css" type="text/css">
+  <link rel="stylesheet" href="http://atirapid.com/modules/mod_superfishmenu/tmpl/css/superfish.css" type="text/css">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://atirapid.com/plugins/system/shadowbox/examples/build/shadowbox.js"></script>
+  <script type="text/javascript" src="http://atirapid.com/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
+  <script type="text/javascript" src="http://atirapid.com/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
+  <script type="text/javascript" src="http://atirapid.com/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();
+jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:300, animation:{opacity:'show'}, speed:1, autoArrows:0, dropShadows:0}) });
+jQuery.event.special.hover.delay = 100;
+jQuery.event.special.hover.speed = 100;
+
+  </script>
+  <script type="text/javascript">Shadowbox.init({ animSequence: "wh", autoDimensions: true, initialHeight: 250, initialWidth: 400, viewportPadding: 1 });</script>
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css"> 
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css"> 
+<link rel="stylesheet" href="/templates/inner/css/template.css" type="text/css">
+<link rel="stylesheet" href="/templates/inner/css/highslide.css" type="text/css">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5717855-1");
+pageTracker._trackPageview();
+</script>
+<title>ATI Inner Template</title>
+</head>
+<body>
+<div id="wrapper">
+	<div id="logo">
+		<a href="/index.php"><img src="/templates/inner/images/logo.png" alt="ATI Logo, Accelerated Technologies Inc."></a>
+	</div>
+	<div id="header">
+            <div id="callus">
+                <img src="/templates/inner/images/call.png" alt="Call Us at 800-600-8121">
+             </div>
+             <div id="rapidquote">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td nowrap="nowrap"><a href="/component/ati/?task=rapidquote" class="mainlevel"> <img src="/images/stories/rapidq.png" border="0" alt="Rapid Quote"></a></td></tr></tbody></table> </div>    
+    </div>
+	<div id="left">
+			
+	</div>
+	<div id="menu_back">
+           
+                    <ul class="menu sf-menu sf-horizontal"><li class="parent item18"><a href="/markets.html"><span>Markets</span></a><ul><li class="first-child item68"><a href="/markets/automobile-a-transportation.html"><span>Automobile &amp; Transportation</span></a></li><li class="item43"><a href="/markets/aerospace-a-defense.html"><span>Aerospace &amp; Defense</span></a></li><li class="item44"><a href="/markets/computers-a-electronics.html"><span>Computers &amp; Electronics</span></a></li><li class="item69"><a href="/markets/agriculture-a-construction.html"><span>Agriculture &amp; Construction</span></a></li><li class="item70"><a href="/markets/power-tools-a-outdoor-equipment.html"><span>Power Tools &amp; Outdoor Equipment</span></a></li><li class="item71"><a href="/markets/medical-devices-a-health-care.html"><span>Medical Devices &amp; Health Care</span></a></li><li class="last-child item46"><a href="/markets/consumer-products.html"><span>Consumer Products</span></a></li></ul></li><li class="parent item19"><a href="/services.html"><span>Services</span></a><ul><li class="first-child item55"><a href="/services/consulting-services.html"><span>Consulting Services</span></a></li><li class="item32"><a href="/services/rapid-prototyping.html"><span>Rapid Prototyping</span></a></li><li class="item56"><a href="/services/traditional-and-hybrid-tooling.html"><span>Traditional and Hybrid Tooling</span></a></li><li class="item33"><a href="/services/rapid-tooling.html"><span>Rapid Castings</span></a></li><li class="item57"><a href="/services/plastic-molding.html"><span>Plastic Molding</span></a></li><li class="item58"><a href="/services/direct-digital-manufacturing.html"><span>Direct Digital Manufacturing</span></a></li><li class="item59"><a href="/services/surface-coating-technologies.html"><span>Surface Coating Technologies</span></a></li><li class="item60"><a href="/services/bridge-and-short-run-production.html"><span>Bridge &amp; Short Run Production</span></a></li><li class="last-child item61"><a href="/services/production-sourcing.html"><span>Production Sourcing</span></a></li></ul></li><li class="parent item20"><a href="/materials-a-processes.html"><span>Materials &amp; Processes</span></a><ul><li class="first-child item24"><a href="/materials-a-processes/polyjet-3d-printing-3dp.html"><span>PolyJet 3D Printing (3DP)</span></a></li><li class="item62"><a href="/materials-a-processes/stereolithography-sla.html"><span>Stereolithography (SLA)</span></a></li><li class="item63"><a href="/materials-a-processes/selective-laser-sintering-sls.html"><span>Selective Laser Sintering (SLS)</span></a></li><li class="item64"><a href="/materials-a-processes/fused-deposition-modeling-fdm.html"><span>Fused Deposition Modeling (FDM)</span></a></li><li class="item65"><a href="/materials-a-processes/direct-metal-laser-sintering-dmls.html"><span>Direct Metal Laser Sintering (DMLS)</span></a></li><li class="last-child item66"><a href="/materials-a-processes/rtv-molding--cast-urethanes.html"><span>RTV Molding / Cast Urethanes</span></a></li></ul></li><li class="parent active item21"><a href="/about-us.html"><span>About Us</span></a><ul><li class="first-child item25"><a href="/about-us/in-the-news.html"><span>In The News</span></a></li><li class="item47"><a href="/about-us/quality-certifications.html"><span>Quality Certifications</span></a></li><li id="current" class="active item48"><a href="/about-us/customer-testimonials.html"><span>Customer Testimonials</span></a></li><li class="item49"><a href="/about-us/employment-opportunities.html"><span>Employment Opportunities</span></a></li><li class="item74"><a href="/component/ati/?task=contact"><span>Contact Us</span></a></li><li class="item84"><a href="/about-us/knowledge-library.html"><span>Knowledge Library</span></a></li><li class="last-child item94"><a href="/about-us/home.html"><span>Home</span></a></li></ul></li></ul>
+
+           
+    </div>
+	<div id="right">
+			
+	</div>
+	<div id="left_side">
+            
+            <br>	<table border="0" cellpadding="0" cellspacing="0">
+	   <tbody><tr>
+	      <td><img src="http://atirapid.com//administrator/components/com_pagewisebanner15/pagebanner/Partners (210x350).jpg"></td>
+	   </tr>
+	</tbody></table>
+	    
+    </div>
+    
+
+	<div id="content_part">
+	
+			<div id="content_heading">
+			 
+              Customer Testimonials
+				
+
+   		 </div>
+   		 <div id="content_text">
+               
+<table class="contentpaneopen">
+
+
+
+<tbody><tr>
+<td valign="top">
+<p>"ATI continually provides us with great customer service, high quality parts and quick turn times. Their reliability and commitment to unsurpassed quality is exactly what we look for in a product development partner." <br>Kurt J.<br>Microsoft Corporation <br><br>"When we first started using the services of ATI, they were basically one of our many service providers for prototypes. Through the years, they have grown to be an important member of our product development team. They have added considerably to the products they can offer for our development needs in testing and prototype builds. ATI consistently delivers in both quality and timing and has gone above what would be expected of your standard service provider several times to help us when we had problems. The individuals we work with at ATI have taken the time to get to know our needs, especially for the long-term, and they are constantly seeking out and offering new technologies that could benefit us. <br>Eric B.<br>Harley-Davidson <br><br>"On behalf of RPI SAE Formula Racing, we want to thank you again for all your generosity over the years. We are making some amazing improvements in engine development because of the rapid prototyping that you make available to our team, and we are immeasurably thankful. During our meeting this Wednesday, the team will be discussing the upcoming trade show in Detroit, and we will attempt to have the details of our meeting available to you by the end of the week. Attached you will find STL's of each of the intake parts that we are requesting. The quantity for each part is one, except for the part titled "2005 clamp", which we would like 4 of. If you find any problems with these parts please contact me at this email address. Our spring break begins in three weeks, and we are hopeful to be able to finish all intake post-processing by the end of our break. I understand that 3 weeks will come and go very quickly, so if you are unable to make these parts in that time we will certainly understand. Thank you so much for your help. It is becoming increasingly difficult to find companies that are willing to help educational projects such as Formula SAE, and the team is very thankful that ATI recognizes the value of furthering education via sponsorship." <br>Patrick D.<br>SAE Formula Racing <br><br>"Cummins, Inc. counts on ATI as our primary supplier of rapid prototyping. The proactive measures of facility expansion and addition of new technology assures me that they will continue to deliver to our demanding standards." <br>Chad B.<br>Cummins, Inc. <br><br>"Just sending a very special thank-you to you and everyone that helped make the urethane parts for us that went to NeoCon this year. We are very proud to say that our IF System took the gold award in the Best of Neocon new product furniture category." <br>John and Evon<br>Haworth <br><br>"I would surely recommend ATI in a New York minute. It is interesting to travel through the U.S. with other clients that discuss ATI as one of the best in the industry. Most of the time clients try to encourage us to use their rapid prototyping source, but when ATI is mentioned, they back off. Keep up the excellent work." <br>Conrad G.<br>Senco <br><br>"I received the parts this morning. Please extend my thanks to your staff for the excellent quality and delivery. ATI will be my first choice for any future rapid prototypes." <br>Sean D.<br>Lightware, Inc. <br><br>"I want to thank you for your help with our latest project. Your timely response and follow thru allowed us to get the models we needed a day sooner than the short lead time I gave you. Your professionalism and service are the reasons we continue to use ATI." <br>Gary B.<br>The Campbell Group <br><br>"Thank you for your quick action in getting the parts made and delivered. Your service was impeccable from my end of the spectrum, and I look forward to working with you in the future."<br>Eric H.<br>Chatsworth Products, Inc. <br><br>"I just wanted to let you know of the outstanding work during this past week. As has happened in the past, we needed parts quicker than normally possible. We ordered large quantities of parts on at least three consecutive days and your team was able to get us those parts shipped desk to desk the same day or the next day. Your people came in early, stayed late, or went home and came back to work to get us what we needed. This was far and above what I personally expected and I appreciate every effort made. <br><br>ATI has consistently delivered superior customer service time and again, even when we request the nearly impossible. Your staff also went the extra mile and was able to get parts driven to Louisville to meet our driver with parts we needed that night. My personal thanks to ATI for their efforts."<br>Shannon C.<br>Hunter Douglas <input type="hidden" id="gwProxy"><input type="hidden" onclick="jsCall();" id="jsProxy"></p>
+
+</td>
+</tr>
+
+</tbody></table>
+<span class="article_separator">&nbsp;</span>
+</div>
+               <div id="jg_mod"></div>
+			   
+
+            
+    </div>
+	<div id="bar">
+		<img src="/templates/inner/images/bar.png" width="3" height="426" alt="">
+	</div>
+	<div id="right_position">
+				<div id="myati">
+						<div id="myatitextheading">MY ATI SPACE</div>
+						 <div id="myatitext">Coming Soon  
+						  </div>  
+				</div>
+				<div id="video">
+
+								 <a href="#"></a>
+								<table style="padding-top:10px;"></table> 
+						
+				</div>
+
+						
+				<div id="pdfs" style="border-width: thin; border: 1px solid">
+							<div id="pdfheading">Downloads</div>
+							 <div id="pdflisting">
+<table width="175"><tbody><tr><td colspan="2"><b>Brochures &amp; Collateral</b></td></tr><tr><td width="20px"><img src="http://atirapid.com/administrator/components/com_ati/images/pdf_logo.gif"></td><td width="200px"><a href="http://atirapid.com/administrator/components/com_ati/images/ATI Capabilities Brochure Final 052110.pdf" target="_blank">ATI Capabilities</a></td></tr></tbody></table>	</div>
+ </div>
+
+							
+			
+	</div>
+	
+	<div id="footer">
+            <div id="search">
+	               	<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="10" value="SEARCH" onblur="if(this.value=='') this.value='SEARCH';" onfocus="if(this.value=='SEARCH') this.value='';">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+</form>   
+        	</div>
+            <div id="copyright">
+                <div id="copyright_text">Copyright © 2010 Accelerated Technologies Inc. All rights reserved. | </div>
+                <div id="contact"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/component/ati/?task=contact" class="mainlevel">Contact Us</a><span class="mainlevel"> | </span><a href="/home.html" class="mainlevel">Home</a><span class="mainlevel"> | </span><a href="/sitemap.html" class="mainlevel">Sitemap</a></td></tr></tbody></table></div>
+            </div>
+            
+    
+    </div>
+		<div id="bottom">
+		</div>
+        
+</div>
+
+</body></html>

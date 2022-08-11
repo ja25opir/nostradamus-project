@@ -1,0 +1,1094 @@
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html;charset=windows-1252">
+	<title>Feedbacks : E-Currency Trading : E-Bullion : Centregold.ca</title>
+	<meta name="description" content="Arrive at Centregold.ca, which has been helping people to find E-Currency Trading, E-Bullion &amp; more.">
+	<meta name="keywords" content="E-Currency Trading, E-Bullion">
+	<meta name="robots" content="index, follow">
+
+		<meta http-equiv="Content-Language" content="en">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link href="http://centregold.ca/style.css" rel="stylesheet" type="text/css">
+	<script language="JavaScript" src="http://centregold.ca/scripts.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://centregold.ca/menu.js"></script>
+
+	<script type="text/javascript" language="JavaScript">
+	<!--
+		ua=navigator.userAgent;
+		l='<LINK rel="stylesheet" type="text/css" href="http://centregold.ca/';
+		c='.css">';
+		if (ua.indexOf('Opera')!=-1) document.write(l+'op'+c);
+		if (ua.indexOf('Netscape')!=-1) document.write(l+'nn'+c);
+	// -->
+	</script>
+	
+<script language="JavaScript" type="text/javascript">
+<!-- Yahoo! Inc.
+window.ysm_customData = new Object();
+window.ysm_customData.conversion = "transId=,currency=,amount=";
+var ysm_accountid = "1JEDTF13352HE8QMMPIFVTJQO0K";
+document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
++ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid
++ "></SCR" + "IPT>");
+// -->
+</script>
+
+</head>
+
+
+<!-- <body onLoad="MM_preloadImages('http://centregold.ca/images/ul_on.jpg');"> -->
+<body>
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" class="table_h100">
+<tbody><tr>
+	<td height="85" class="header padding1">
+		<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
+		<tbody><tr>
+			<td style="padding-left: 15px; padding-right: 20px;">
+				<a href="http://centregold.ca/index.php"><img src="http://centregold.ca/images/logoen.jpg" alt="centregold" width="375" height="85" border="0"></a>
+			</td>
+			<td width="100%" align="center">
+							<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="400" height="85" id="flash8" align="middle">
+					<param name="allowScriptAccess" value="sameDomain">
+					<param name="movie" value="http://centregold.ca/images/flash.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#468fbf">
+					<object name="flash" data="http://centregold.ca/images/flash.swf"></object>
+									</object>
+							</td>
+			
+			<td>
+
+		  			<form action="https://centregold.ca/Account/saeLoginMessage.php" method="POST">
+		  <table align="CENTER" border="0" cellpadding="0" cellspacing="0" width="150">
+		  <tbody><tr>
+			<td class="text_header_login" nowrap>
+				e-Mail:			</td>
+			<td><input type="text" name="username" value="" maxlength="64" class="input_text2"></td>
+			</tr>
+			<tr>
+				<td class="text_header_login">
+		      Password:		    </td>
+		    <td><input type="password" name="password" value="" maxlength="32" class="input_text2"></td>
+		  </tr>
+		  <tr>
+		    <td colspan="2" align="right">
+		      <input type="hidden" name="ecurrency" value="">
+		      <input type="hidden" name="page" value="">
+			  <input type="hidden" name="accid" value="*3lso35ne9d0kek">
+		      <input type="submit" name="Submit" value="Login" class="btnHeader">
+			</td>
+		  </tr>
+		  </tbody></table>
+		  </form>
+		  		   </td>
+  		   <td align="right" style="padding-left: 0px;"> <img src="http://centregold.ca/images/moneta.gif" alt="" width="110" height="76" border="0"><br>
+						</td>
+			<td valign="top" style="padding-top: 10px;">
+				<table border="0">
+					<tbody><tr> 
+				<!-- flags -->
+						<td>
+															<img src="http://centregold.ca/images/flags_en.jpg">
+													</td>
+						<td>
+															<a href="/public/feedback.php?newlang=fr"><img src="http://centregold.ca/images/flags_fr.jpg" border="0" alt="French version"></a>
+													</td>
+				<!-- flags -->
+					</tr>
+				</tbody></table>
+			</td>			
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td class="table_h100">
+		<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%" class="table_h100">
+		<tbody><tr>
+			<td width="184" valign="top">
+				<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tbody><tr>
+					<td height="80">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" style="height:80px;">
+						<tbody><tr>
+							<td width="11" style="background: url(http://centregold.ca/images/bg_block.gif) repeat-x;">&nbsp;</td>
+							<td class="left_block">
+								<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%" class="left_table">
+								<tbody><tr>
+									<td valign="bottom"><img src="http://centregold.ca/images/sign_corner_lb.gif" alt="" width="5" height="5" border="0"></td>
+									<td width="100%" class="text_left_block">Not registered?<br><form method="get" name="sign" action="https://centregold.ca/Account/register.php"><input type="submit" name="sign_up" value="Sign up!" class="button_black"></form>	</td>
+									<td valign="bottom"><img src="http://centregold.ca/images/sign_corner_rb.gif" alt="" width="5" height="5" border="0"></td>
+								</tr>
+								</tbody></table>
+							</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="3"><img src="http://centregold.ca/images/spacer.gif" alt="" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td style="background: url(http://centregold.ca/images/bg_menu.gif) no-repeat; padding-top: 12px; padding-bottom: 11px;" height="275" width="184">
+					<!-- menu -->
+                    <ul class="left_menu">
+						<li><a href="http://centregold.ca/" title="Home">Home</a></li>
+								        <li><a href="https://centregold.ca/Account/register.php">Sign Up!</a></li>
+										<li><a href="https://centregold.ca/Account/index.php">Login</a></li>
+						<li><a href="https://centregold.ca/exchange/" title="Buy or Sell">Buy or Sell</a></li>
+								
+						<li><a href="https://centregold.ca/public/partnership.php" title="Partnership">Partnership</a></li>
+						<li><a href="http://cg4wm.com/public/feedback.php" title="Buy WebMoney (switch to CG4WM.com)" onclick="window.location.href='http://cg4wm.com/public/feedback.php'; return false;">Buy WebMoney<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(switch to CG4WM.com)</a></li>
+                    </ul>
+                    
+                    <ul class="left_menu">
+						<li><a href="http://centregold.ca/electronic_money/" title="Digital Currencies">Digital Currencies</a></li>
+						<li><a href="http://centregold.ca/public/options.php" title="Payment Methods">Payment Methods</a></li>
+						<li><a href="http://centregold.ca/conversion_rates/" title="Currency Conversion Rates">Our Fees</a></li>
+						<li><a href="http://centregold.ca/public/faq.php" title="F.A.Q.">FAQ</a></li>
+                    </ul>
+                    
+                    <ul class="left_menu">
+						<li><a href="http://centregold.ca/public/news.php" title="What's New">What's New?</a></li>
+						<li><a href="http://centregold.ca/public/about.php" title="About Us">About Us</a></li>
+						<li><a href="http://centregold.ca/public/contact.php" title="Contact Us">Contact Us</a></li>
+                    </ul>
+					<!-- menu -->
+					</td>
+				</tr>
+				<tr>
+					<td style="height: 15px"></td>
+				</tr>
+			   <tr>
+	    		  <td align="center" height="2" style="padding-left:19px;">
+						<a target="_blank" href="http://www.gdcaonline.com/business.php?memberid=18">
+							<img border="0" alt="" src="http://centregold.ca/images/gdca_r3.jpg" width="74" height="85">
+						</a>
+	    		  </td>
+			   </tr>
+			   <tr>
+					<td style="height: 15px"></td>
+				</tr>
+			   <tr>
+					<td align="center" height="2" style="padding-left:19px;">
+						<a href="http://moneyfacture.com/forum/forumdisplay.php/57-CentreGold" target="_blank" title="Moneyfacture - Gold Digital Currency Forums">
+							<img src="http://centregold.ca/images/mf-button-01.png" width="120" height="36" alt="120x36 Moneyfacture Button" border="0">
+						</a>
+	    		  </td>
+			    </tr>
+				<tr>
+					<td style="height: 15px"></td>
+				</tr>
+							    <tr>
+	    		  <td align="center" height="2" style="padding-left:19px;"><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe" language="JavaScript" type="text/javascript"></script></td>
+			    </tr>
+							        <tr>
+		          <td height="15"></td>
+        		</tr>
+				</tbody></table>
+			</td>
+			<td width="100%" valign="top">
+				<table cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tbody><tr>
+					<td height="28">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+						<tbody><tr>
+							<td style="padding-left: 13px;" width="100%" class="header_small link_menu">
+					  												<a class="link_menu" href="https://centregold.ca/Account/Login.php">login</a>
+																 &nbsp;|&nbsp;<a class="link_menu" href="https://centregold.ca/Account/">my account</a>
+								 &nbsp;|&nbsp;<a class="link_menu" href="https://centregold.ca/exchange/">exchange</a>
+								 &nbsp;|&nbsp;<a class="link_menu" href="http://centregold.ca/public/contact.php">contact us</a>
+								 &nbsp;|&nbsp;<a class="link_menu" href="http://centregold.ca/sitemap.php">site map</a>
+							
+							<!--<img src="images/flags.gif" alt="" width="445" height="16" border="0">-->
+							</td>
+							<td align="right" width="43" valign="top" class="header_small"><img src="http://centregold.ca/images/header_corner.gif" alt="" width="43" height="28" border="0"></td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td class="corner padding1">
+						<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%" class="table_h100">
+						<tbody><tr>
+							<td height="20">
+								&nbsp;
+							</td>
+						</tr>
+												<tr>
+							<td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<!-- headline_orange: begin -->
+<tbody><tr>
+	<td class="line_orange" colspan="3">
+		<table width="165" align="left" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td><img src="http://centregold.ca/images/button_left.gif" alt="" width="8" height="23" border="0"></td>
+			<td class="headline_orange">Feedbacks</td>
+			<td><img src="http://centregold.ca/images/button_right.gif" alt="" width="8" height="23" border="0"></td>
+		</tr>
+		<tr><td colspan="3" bgcolor="#ffffff"><img src="http://centregold.ca/images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	
+<!-- headline_orange: end -->	
+<tr>
+	<td colspan="4" valign="top" style="padding: 15px 10px 10px 10px">
+		<table align="center" cellspacing="0" cellpadding="0" border="0" width="70%">
+		<tbody><tr>
+			<td colspan="4" bgcolor="#cccccc" style="padding: 5px 5px 5px 5px;">
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td nowrap><b>Total feedbacks: 1231</b></td>
+					<td width="100%">&nbsp;</td>
+					<td nowrap align="right"><b>Total rate: 1072</b></td>
+				</tr>
+				</tbody></table>			
+			</td>
+		</tr>		
+		<tr>
+			<td colspan="4" height="10">
+				<img src="http://centregold.ca/images/spacer.gif" alt="" width="1" height="10" border="0">
+			</td>
+		</tr>
+						
+		  	  			  
+		<tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>yannick</b></td>
+			<td class="cell" align="left" width="30%"><b>September 17, 2010</b></td>
+			<td class="cell" align="left">c'est rapide</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/neitral.gif" alt="Neutral comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>George</b></td>
+			<td class="cell" align="left" width="30%"><b>September 17, 2010</b></td>
+			<td class="cell" align="left">Transaction took a bit longer than I expected, but everything worked out in the end. </td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>R. V.</b></td>
+			<td class="cell" align="left" width="30%"><b>September 17, 2010</b></td>
+			<td class="cell" align="left">good but its much better if you can lower the fee.. thanks</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>CG36919</b></td>
+			<td class="cell" align="left" width="30%"><b>September 17, 2010</b></td>
+			<td class="cell" align="left">Very Good. Thank you !</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Anonymous</b></td>
+			<td class="cell" align="left" width="30%"><b>September 16, 2010</b></td>
+			<td class="cell" align="left">The last transfer I submitted was excellently fast. I will definitely use CG again and again.
+
+Thank you.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Dennis</b></td>
+			<td class="cell" align="left" width="30%"><b>September 16, 2010</b></td>
+			<td class="cell" align="left">Fast service and reliable!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Dennis</b></td>
+			<td class="cell" align="left" width="30%"><b>September 16, 2010</b></td>
+			<td class="cell" align="left">Fast and Efficient!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Alex</b></td>
+			<td class="cell" align="left" width="30%"><b>September 16, 2010</b></td>
+			<td class="cell" align="left"> great !!!!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Anonymous</b></td>
+			<td class="cell" align="left" width="30%"><b>September 15, 2010</b></td>
+			<td class="cell" align="left">Brilliant service!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Kilian</b></td>
+			<td class="cell" align="left" width="30%"><b>September 15, 2010</b></td>
+			<td class="cell" align="left">Excellent job!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/neitral.gif" alt="Neutral comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Nicholas</b></td>
+			<td class="cell" align="left" width="30%"><b>September 15, 2010</b></td>
+			<td class="cell" align="left">Did not get a response to support ticket.  I was not aware of transaction taking place after support ticket was placed.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>asad</b></td>
+			<td class="cell" align="left" width="30%"><b>September 15, 2010</b></td>
+			<td class="cell" align="left">good service</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>pises</b></td>
+			<td class="cell" align="left" width="30%"><b>September 15, 2010</b></td>
+			<td class="cell" align="left">Payment received , thanks.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Anonymous</b></td>
+			<td class="cell" align="left" width="30%"><b>September 14, 2010</b></td>
+			<td class="cell" align="left">Really fast ! now waiting for card Approval...</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Gavin Ray</b></td>
+			<td class="cell" align="left" width="30%"><b>September 12, 2010</b></td>
+			<td class="cell" align="left">You guys are the best. I'll never use anybody else. You are super fast and you have a very good verification system by phone. Amazing - way to go!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Egor</b></td>
+			<td class="cell" align="left" width="30%"><b>September 12, 2010</b></td>
+			<td class="cell" align="left">txx y</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>CG36309</b></td>
+			<td class="cell" align="left" width="30%"><b>September 11, 2010</b></td>
+			<td class="cell" align="left">OK 5/5</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Daniel</b></td>
+			<td class="cell" align="left" width="30%"><b>September 11, 2010</b></td>
+			<td class="cell" align="left">Thank you for excellent service</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>CG3xx12</b></td>
+			<td class="cell" align="left" width="30%"><b>September 11, 2010</b></td>
+			<td class="cell" align="left">Transaction take too long to complete </td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Franco</b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">Merci pour la rapidité du paiement,bien reçu sur LR</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Franco</b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">Merci pour la rapidité du paiement,bien reçu sur LR</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Franco</b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">Merci pour la rapidité ,bien reçu le paiement sur LR</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>CG29110</b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">This has been my 5th order and again I am very impressed with your speed of each order being processed.  Thank you and keep up the great job to all!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Radhwan</b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">This is my first time using Center Gold, and I was very pleased with the ease and rapidity of the service. I will gladly use Center Gold again!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Dennis </b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">Made this transaction with Credit Card. Excellent service especially phone confirmation is an added security feature. The updates on the status of transaction were constant. Good work. Thanks</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Dennis </b></td>
+			<td class="cell" align="left" width="30%"><b>September 10, 2010</b></td>
+			<td class="cell" align="left">Made 2 transfers to LR Euro and USD accounts. Both went excellent and fast. Got confirmation emails and updates of status. Will use them in the future. Thanks</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>CG351xx</b></td>
+			<td class="cell" align="left" width="30%"><b>September 9, 2010</b></td>
+			<td class="cell" align="left">Fast, Easy, Secure 24hr Service. Best I have found.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>miguel</b></td>
+			<td class="cell" align="left" width="30%"><b>September 9, 2010</b></td>
+			<td class="cell" align="left">all ok.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Hakan</b></td>
+			<td class="cell" align="left" width="30%"><b>September 8, 2010</b></td>
+			<td class="cell" align="left">thank you very much for fast delivered.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>john bolton</b></td>
+			<td class="cell" align="left" width="30%"><b>September 8, 2010</b></td>
+			<td class="cell" align="left">Thanks Very Much Hope Not Late Nex Time Cuz The Last Time Late a little bit</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>ferdinand</b></td>
+			<td class="cell" align="left" width="30%"><b>September 7, 2010</b></td>
+			<td class="cell" align="left">very positive
+
+thank you</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Jelena</b></td>
+			<td class="cell" align="left" width="30%"><b>September 7, 2010</b></td>
+			<td class="cell" align="left">excellent job </td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Alex</b></td>
+			<td class="cell" align="left" width="30%"><b>September 6, 2010</b></td>
+			<td class="cell" align="left">your service is very well.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>H. H.</b></td>
+			<td class="cell" align="left" width="30%"><b>September 6, 2010</b></td>
+			<td class="cell" align="left">Thanks admin, order completed within 1 day</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>H. H.</b></td>
+			<td class="cell" align="left" width="30%"><b>September 6, 2010</b></td>
+			<td class="cell" align="left">Good work, I am satisfied.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>H. H.</b></td>
+			<td class="cell" align="left" width="30%"><b>September 6, 2010</b></td>
+			<td class="cell" align="left">Thanks admin, done in a short time</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/negative.gif" alt="Negative comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>ryan</b></td>
+			<td class="cell" align="left" width="30%"><b>September 5, 2010</b></td>
+			<td class="cell" align="left">Bought 11.25 LR through visa with a stated 8.75 Fee. Card was charged 21.17 then 0.64 cents the next day. Thanks for the $35 overdraft fee guys. ryan</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>vijay</b></td>
+			<td class="cell" align="left" width="30%"><b>September 5, 2010</b></td>
+			<td class="cell" align="left">Thanks. Your fees are too high.</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>john bolton</b></td>
+			<td class="cell" align="left" width="30%"><b>September 5, 2010</b></td>
+			<td class="cell" align="left">Really Very Very Cool Company To Fast !!!!!Tx</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>J. T.</b></td>
+			<td class="cell" align="left" width="30%"><b>September 4, 2010</b></td>
+			<td class="cell" align="left">The best I found so far!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>J. T.</b></td>
+			<td class="cell" align="left" width="30%"><b>September 4, 2010</b></td>
+			<td class="cell" align="left">Very good exchanger!</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>john bolton</b></td>
+			<td class="cell" align="left" width="30%"><b>September 3, 2010</b></td>
+			<td class="cell" align="left">Good Company Really Very Fast And Good Customer Support Help
+
+
+Thanks A Lot</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Thobile</b></td>
+			<td class="cell" align="left" width="30%"><b>September 3, 2010</b></td>
+			<td class="cell" align="left">My order was suprisingly quicker after having had such an experience where my previous order was declined. Tx</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Sue</b></td>
+			<td class="cell" align="left" width="30%"><b>September 2, 2010</b></td>
+			<td class="cell" align="left">i hope to get quicker deposits when my account is more seasoned. thank you </td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Sue</b></td>
+			<td class="cell" align="left" width="30%"><b>September 2, 2010</b></td>
+			<td class="cell" align="left">good service</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>PREVANE NOVEMBRE</b></td>
+			<td class="cell" align="left" width="30%"><b>September 2, 2010</b></td>
+			<td class="cell" align="left">OK 5/5</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>ghazi</b></td>
+			<td class="cell" align="left" width="30%"><b>September 2, 2010</b></td>
+			<td class="cell" align="left">it is ok</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/neitral.gif" alt="Neutral comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Thobile</b></td>
+			<td class="cell" align="left" width="30%"><b>August 31, 2010</b></td>
+			<td class="cell" align="left">This order took longer than previous, may be it was a weekend, not sure, ordered on friday and processed Monday</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Thobile</b></td>
+			<td class="cell" align="left" width="30%"><b>August 31, 2010</b></td>
+			<td class="cell" align="left">Was done with speed thank you</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+							
+		  	  			  
+		</tr><tr>				
+			<td class="cell" align="center" width="5%">
+				<img src="http://centregold.ca/images/positive.gif" alt="Positive comment" width="12" height="12" border="0"> 
+			</td>
+			<td class="cell" align="center"><b>Thobile</b></td>
+			<td class="cell" align="left" width="30%"><b>August 31, 2010</b></td>
+			<td class="cell" align="left">Was happy with the service provided</td>
+		</tr>	
+		<tr>
+			<td colspan="4">
+				<div><hr class="break2"></div>
+			</td>
+		</tr><tr>					
+				
+		</tr></tbody></table>	
+	</td>
+</tr>
+	<tr><td align="center" width="33%">
+	&nbsp;	</td>
+	<td align="center" width="33%">&nbsp;</td>
+	<td align="center" width="33%">
+		<a href="http://centregold.ca/public/feedback.php?p=2">Next Page</a>
+		</td></tr>	
+<tr><td align="center" colspan="3" height="20">&nbsp;</td></tr>
+<tr><td align="center" colspan="3">
+<a href="http://centregold.ca/"><img border="0" src="https://centregold.ca/images/main_page.jpg" width="108" height="26" alt="Go to Main Page"></a></td></tr>
+</tbody></table>
+							</td>
+											</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td height="28" class="link_menu_footer" style="padding-top: 15px;"><a class="link_menu_footer" href="http://centregold.ca/">Home</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/public/terms.php">Terms &amp; Conditions</a> |
+<!--	<a class="link_menu_footer" href="http://centregold.ca/public/limits.php">Account Limits</a> | -->
+	<a class="link_menu_footer" href="http://centregold.ca/public/policy.php">Privacy Policy</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/public/faq.php">F.A.Q.</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/public/contact.php">Contact Us</a> |
+		<a class="link_menu_footer" href="http://centregold.ca/public/feedback.php">Feedbacks (1072)</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/public/advertising.php">Advertising</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/links/">Link Exchange</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/sitemap.php">Site Map</a> |
+	<a class="link_menu_footer" href="http://centregold.ca/public/newsRSS.php"><img src="http://centregold.ca/images/rss.png" border="0" align="absmiddle"></a> <a class="link_menu_footer" href="http://centregold.ca/public/newsRSS.php">RSS</a></td>
+</tr>
+<tr>
+	<td height="10" bgcolor="#9F9C9C" align="right"><img src="http://centregold.ca/images/footer_corner.gif" alt="" width="44" height="10" border="0"></td>
+</tr>
+<tr>
+	<td height="36" class="footer">
+		<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" class="table_h100">
+		<tbody><tr>
+			<td class="text_footer">Copyright © 2010, Centre Gold Limited. All rights reserved.</td>
+			<td align="right" class="text_footer"></td>
+		</tr>
+		
+				</tbody></table>
+	</td>
+</tr>
+
+
+<tr>
+  	<td height="1" align="center">
+		<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td>
+								<!-- <noindex> -->
+				<!-- Place for counters :: start -->
+				
+				<!-- Start of SimpleHitCounter Code -->
+				<div align="center"><img src="http://simplehitcounter.com/hit.asp?uid=290371&amp;f=16777215&amp;b=0" border="0" height="0" width="0" alt="free hit counters"></div>
+				<!-- End of SimpleHitCounter Code -->
+				
+				<!-- Place for counters :: end -->
+				<!-- </noindex> -->
+							</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-7699297-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

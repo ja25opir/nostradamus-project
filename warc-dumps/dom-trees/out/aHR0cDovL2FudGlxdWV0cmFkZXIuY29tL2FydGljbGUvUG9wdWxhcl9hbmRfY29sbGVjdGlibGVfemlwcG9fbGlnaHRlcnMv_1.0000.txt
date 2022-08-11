@@ -1,0 +1,1377 @@
+<!DOCTYPE html><html><head>
+    
+<title>Antique Trader - Light My Fire! Zippo the first name in lighters</title>
+
+
+
+    
+<meta name="keywords" content="zippo lighter, zippo history, collectible zippo lighter, George Blaisdell, vintage zippo lighter">
+
+
+
+    
+<meta name="description" content="Light My Fire! Zippo the first name in lighters">
+
+
+
+
+
+    
+    <script type="text/javascript" language="javascript"><!--//
+      function addBookmark(url, title) { 
+        if (!url) url = location.href; 
+        if (!title) title = document.title; 
+        var sErrMessage = 'Sorry! Your browser doesnt support this function. Please press CTRL-D (Firefox/Netscape) or CTRL-T (Opera) to bookmark.';
+        if ((typeof window.sidebar == "object") && (typeof window.sidebar.addPanel == "function")) {  //Gecko
+          window.sidebar.addPanel (title, url, ""); 
+        } else if (typeof window.external == "object") {  //IE4+ 
+          window.external.AddFavorite(url, title); 
+        } else if (window.opera && document.createElement) { //Opera7+ 
+          var a = document.createElement('A'); 
+          if (a) {
+            a.setAttribute('rel','sidebar'); 
+            a.setAttribute('href',url); 
+            a.setAttribute('title',title); 
+            a.click(); 
+          } else {  //IF Opera 6
+             alert(sErrMessage);
+             return false; 
+          }
+        } else {
+          alert(sErrMessage);
+          return false;
+        }
+        return true; 
+      } 
+    //--></script>
+
+    
+    <link rel="stylesheet" href="/styles.css" type="text/css">
+    
+
+    
+    <!-- BEGIN ARTISTS NETWORK RICH-MEDIA BURST! CODE -->	
+      <script language="JavaScript">
+        rnum=Math.round(Math.random() * 100000);
+        document.write('<SCR'+'IPT SRC="http://ads.addesktop.com/cgi-bin/ads/ad12946a.cgi/RS=1X1A-234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A;120X600A;160X600A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-336X280A-336X280B/KW=ATRFeatures,ATRLight_My_Fire_Zippo_the_first_name_in_lighters,NOFORUM/V=3.0R/'+rnum+'/CNW/RETURN-CODE/"></'+'IPT>');
+      </script>					
+    <!-- END ARTISTS NETWORK BURST CODE -->
+
+    
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+_uacct = "UA-493701-2";
+_udn = "antiquetrader.com";
+urchinTracker();
+-->
+</script>
+
+  </head>
+  <body>
+    
+    <!--START PageLayout //-->
+    <div id="PageLayout">
+      
+<div class="Advertisement"><div class="Item">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_468X60A_728X90A();
+</script>
+<!-- END BURST CODE -->
+</div></div>
+
+      <div id="PageLayoutContent">
+	<div>
+	<div class="header_bg_img"></div>
+        <!--START Page Header //-->
+        
+      <!-- begin: Header -->
+      <table cellpadding="0" cellspacing="0" border="0" id="Header">
+        <tbody><tr>
+          <td>
+	<table width="977" height="103" border="0" cellpadding="0" cellspacing="0" class="header_bg_img">
+	   <tbody><tr>
+	      <td width="415" rowspan="2" align="left" valign="top">
+	 <a href="/GeneralMenu/"> <img src="/upload/images/ATRLogo.gif" hspace="4" border="0"></a> 
+	</td>
+	<td colspan="2" valign="top">
+ 		
+    <div id="ServiceMenu">
+	<a href="http://shop.collect.com/?r=antiquenav3">Books</a>
+	<span class="separator">|</span>
+
+	<a href="https://secure.palmcoastd.com/pcd/document?ikey=07608IC01" target="_blank">Subscribe &amp; Save</a>
+	<span class="separator">|</span>
+
+	<a href="/magazine/">Magazine</a>
+	<span class="separator">|</span>
+
+	<a href="/contactus/">Contact Us</a>
+    </div>
+
+	      </td>
+       	  </tr>
+	  <tr>
+	<td width="235">
+	<div class="Banner">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_234X60A();
+</script>
+<!-- END BURST CODE -->
+</div>
+	</td>
+	<td width="318">
+          	
+<form method="GET" action="/googlesearch/" id="searchForm">
+   <input type="text" size="255" class="input" value="Enter keyword(s)" name="SearchString" onfocus="if (this.value=='Enter keyword(s)') { this.value=''}" onblur="if (this.value=='') {this.value='Enter keyword(s)'}">
+   <input type="image" src="/upload/images/search_button.jpg" value="SEARCH" class="button">
+</form>
+
+          </td>
+        </tr>
+ 	</tbody></table>
+	</td>
+	</tr>
+        <tr>
+          <td align="left">
+	     <div id="HeaderMenu">
+            <!--begin: HeaderMenu -->
+            
+  <table height="24" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3611')" onmouseout="MenuItemOut();" href="/GeneralMenu/">Home</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3700')" onmouseout="MenuItemOut();" href="/news/">News</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3702')" onmouseout="MenuItemOut();" href="/community/">Community</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('4703')" onmouseout="MenuItemOut();" href="/features_temp/">Features</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3703')" onmouseout="MenuItemOut();" href="/commentary/">Commentary</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3704')" onmouseout="MenuItemOut();" href="http://secure.adpay.com/Marketplace.aspx?pid=2087&amp;page=ATRLanding">FREE Classifieds</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3705')" onmouseout="MenuItemOut();" href="/multimedia/">Multimedia</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3706')" onmouseout="MenuItemOut();" href="/events/">Events</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3707')" onmouseout="MenuItemOut();" href="/collectorresources/">Resources</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('5007')" onmouseout="MenuItemOut();" href="/sweepstakes/">Contests</a>
+    </td><td class="separator">|</td>
+
+    <td class="Item">
+     	<a onmouseover="MenuItemOver('3590')" onmouseout="MenuItemOut();" href="/eStore/">Shop</a>
+    </td>
+
+  </tr></tbody></table>
+
+
+<script type="text/javascript" language="javascript">
+  var nDefaultMenuItemId= '0';
+</script>
+
+
+
+            <!--end: HeaderMenu -->
+	     </div>
+          </td>
+        </tr>
+        <tr>
+          <td height="27" onmouseover="SubMenuOver()" onmouseout="SubMenuOut();" id="Sub_Menu_Box">
+            <!--begin: HeaderSubMenu -->
+             
+<div id="submenu_3611" style="display: none;height:25px; line-height:25px;" class="Item">
+
+</div>
+
+
+
+<div id="submenu_3700" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="/Newsstories/">News stories</a>
+
+<div class="separator">|</div>
+
+<a href="/auctions/">Auctions</a>
+
+<div class="separator">|</div>
+
+<a href="/shows/">Shows</a>
+
+</div>
+
+
+
+<div id="submenu_3702" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="/messageboard/">Message Board</a>
+
+<div class="separator">|</div>
+
+<a href="/blogs/">Blogs</a>
+
+<div class="separator">|</div>
+
+<a href="/antiqueslinks/">Antiques Links</a>
+
+<div class="separator">|</div>
+
+<a href="/letters/">Letters to the editor</a>
+
+</div>
+
+
+
+<div id="submenu_4703" style="display: none;height:25px; line-height:25px;" class="Item">
+
+</div>
+
+
+
+<div id="submenu_3703" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="/blogs/">Blogs</a>
+
+<div class="separator">|</div>
+
+<a href="/letters/">Letters to the editor</a>
+
+<div class="separator">|</div>
+
+<a href="/EditorsPicks/">Editor's Picks</a>
+
+<div class="separator">|</div>
+
+<a href="/columns/">Columns</a>
+
+</div>
+
+
+
+<div id="submenu_3704" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="http://secure.adpay.com/Marketplace.aspx?pid=2087&amp;page=ATRLanding">Browse Listings</a>
+
+<div class="separator">|</div>
+
+<a href="http://secure.adpay.com/Marketplace.aspx?pid=2087&amp;page=ATRLanding">Place a FREE Ad</a>
+
+</div>
+
+
+
+<div id="submenu_3705" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="/video/">Video</a>
+
+<div class="separator">|</div>
+
+<a href="/audio/">Audio</a>
+
+</div>
+
+
+
+<div id="submenu_3706" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="/Antique_Shows_Spotlight/">Antique Shows Spotlight</a>
+
+<div class="separator">|</div>
+
+<a href="/showcalendar/">Antique Show Calendar</a>
+
+<div class="separator">|</div>
+
+<a href="/auctioncalendar/">Antique Auction Calendar</a>
+
+</div>
+
+
+
+<div id="submenu_3707" style="display: none;height:25px; line-height:25px;" class="Item">
+
+<a href="/traveler/">Traveler</a>
+
+<div class="separator">|</div>
+
+<a href="/VIP/">Collecting Insider</a>
+
+<div class="separator">|</div>
+
+<a href="/productsandservices/">Products and Services</a>
+
+<div class="separator">|</div>
+
+<a href="/storelocator/">Store Locator</a>
+
+<div class="separator">|</div>
+
+<a href="/antiqueslinks/">Antiques links</a>
+
+</div>
+
+
+
+<div id="submenu_5007" style="display: none;height:25px; line-height:25px;" class="Item">
+
+</div>
+
+
+
+<div id="submenu_3590" style="display: none;height:25px; line-height:25px;" class="Item">
+
+</div>
+
+
+
+            <!--end: HeaderSubMenu -->
+          </td>
+        </tr>
+      </tbody></table>
+<script type="text/javascript" language="javascript"><!--//
+
+ var nCurrentMenuItemId = nDefaultMenuItemId;
+  var nComingMenuItemId = nDefaultMenuItemId;
+
+  var bSkipUpdate = false;
+
+
+  function displaySubMenu(nMenuItem) {
+    var aSubItem = document.getElementById("submenu_" + nMenuItem);
+    if (aSubItem) {
+      aSubItem.style.display='block';
+    }
+    return false;    
+  }
+
+
+  function hiddenSubMenu(nMenuItem) {
+    var aSubItem = document.getElementById("submenu_" + nMenuItem);
+    if (aSubItem) {
+      aSubItem.style.display='none';
+    }
+    return false;    
+  }
+
+  function updateSubMenuDisplay(){
+    if ( !bSkipUpdate  &&  nCurrentMenuItemId != nComingMenuItemId ) {
+      bSkipUpdate = true;
+      hiddenSubMenu(nCurrentMenuItemId); 
+      nCurrentMenuItemId = nComingMenuItemId;
+      displaySubMenu(nCurrentMenuItemId);
+      setTimeout('bSkipUpdate = false;', 400);       
+    }
+    return false;
+  }
+  
+ function MenuItemOver(nMenuItemId) {
+    nComingMenuItemId = nMenuItemId;
+    setTimeout('updateSubMenuDisplay()', 500);    
+    return false;
+ }
+
+  function MenuItemOut() {
+    nComingMenuItemId = nDefaultMenuItemId;
+    setTimeout('updateSubMenuDisplay()', 500);    
+    return false;
+  }
+
+  function SubMenuOver() {
+    bSkipUpdate = true;
+    nComingMenuItemId = nCurrentMenuItemId;
+  }
+
+  function SubMenuOut() {
+    nComingMenuItemId = nDefaultMenuItemId;
+    setTimeout('bSkipUpdate = false;', 400);       
+    setTimeout('updateSubMenuDisplay()', 500);    
+    return false;
+  }
+  
+  displaySubMenu(nCurrentMenuItemId);
+//--></script>
+      <!--end: Header -->
+
+        <!--END Page Header //-->
+	</div>
+
+        <!--START Page Content //-->
+        
+    <!--BEGIN PageContent-->
+    <table id="PageContent" cellspacing="0" cellpadding="0"><tbody><tr>
+      
+      <!--BEGIN Content Column Left TD //-->
+      
+<td id="PageColumnLeft">
+
+<table cellpadding="0" cellspacing="0" border="0" class="NewsLetter">
+   <tbody><tr>
+    <td>
+    <p align="center">Free E-Newsletter</p>
+    <!-- ***** FIELD: [Email] ***** -->
+    Sign up for Antique Trader's weekly eNewsletter and you'll get a FREE chapter from the new 4<sup>th</sup> edition of Warman's Jewelry!
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <!--
+          The ValidateForm on submit is for two operation.
+          1.  Check to make sure the email address is formed correctly.
+          2.  Take the valid email address and put it in the the subscriber key.
+        -->
+        <form action="http://cl.s4.exct.net/subscribe.aspx" name="subscribeForm" method="post" onsubmit="return validateForm()"></form>
+       <tbody><tr>
+          <td valign="middle" style="padding:10px 0 5px 5px;">
+            <!--
+              This is the thank you page.  This value is not set here but in
+              the javascript so that the users email can be passed to the 
+              thank you page.
+            -->
+            <input type="hidden" id="thx" name="thx" value="newsletter_thanks">
+            <!--
+              This value is to define a error page of our making that explains
+              that there has been an error on submittal to Exact Target.
+            -->
+            <input type="hidden" id="err" name="err" value="NewsletterError">
+            <!--
+              This is a predifined action by Exact Target.  This command
+              will add a new email address or update an existing one.
+            -->
+            <input type="hidden" name="SubAction" value="sub_add_update">
+            <!--
+              This is the business unit number
+            -->
+            <input type="hidden" name="MID" value="1017387">
+            <!--
+              This is the list id for the business unit.  This forms a tuple
+              that will decide where the email address will be saved. To add to
+              multiple lists just duplicate the line below and change the
+              value to the next list id.
+            -->
+            <input type="hidden" name="lid" value="443">
+            <input type="hidden" name="lid" value="447">
+	    <input type="hidden" name="lid" value="448">
+            <!--
+              The Email Address must be present for any sub_add_update command. 
+            -->
+            <input type="text" id="EmailAddress" name="Email Address" value="" maxlength="4000" style="width:107px;">
+            <!--
+              The Exact Target Subscriber Key must be present for any
+              sub_add_update command and must be exactly the same as the
+              Email Address.  This value is filled by the javascript on
+              submittal of the form.
+            -->
+            <input type="hidden" id="ETSubscriberKey" name="ETSubscriberKey" value="">
+          </td>
+          <td style="padding:5px 0 5px 5px;"><input type="image" name="submit" src="/upload/images/go_button.gif" class="button" value="Go" align="top"></td>
+        </tr>        
+        
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<script language="Javascript">
+  // Basic checks for valid formed email address
+  function echeck(str)
+  {
+    var at="@"
+    var dot="."
+    var lat=str.indexOf(at)
+    var lstr=str.length
+    var ldot=str.indexOf(dot)
+    if (str.indexOf(at)==-1)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    if (str.indexOf(at,(lat+1))!=-1)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    if (str.indexOf(dot,(lat+2))==-1)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    if (str.indexOf(" ")!=-1)
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      return false
+    }
+    return true          
+  }
+  // Main function to Validate the whole form
+  function validateForm()
+  {
+    var emailID=document.getElementById('EmailAddress')
+    if ((emailID.value==null)||(emailID.value==""))
+    {
+      alert("You have entered an invalid email address.  Please try again.")
+      emailID.focus()
+      // poorly formed email address try again.
+      return false
+    }
+    if (echeck(emailID.value)==false)
+    {
+      emailID.value=""
+      emailID.focus()
+      // form will not submit because nothing was entered
+      return false
+    }
+    // we have a good email address at this point
+    // put the valid email address in the ETSubscriberKey.
+    document.getElementById('ETSubscriberKey').value=emailID.value
+    // This is the site where the thank you page will live.  This is the main
+    // domain where all your pages live.
+    var site="http://www.antiquetrader.com/"
+    // This is the thank you page
+    // This can be any url passed the site domain part of the url from above
+    var thanksPage="newsletter_thanks"
+    // This defines the user email to be sent to the thank you page,
+    // This should not be changed
+    var userDirect="?user="
+    // This variable should not be changed. 
+    var redirecturl=site+thanksPage+userDirect+encodeURIComponent(emailID.value)
+    // This sets the thank you page element in the html, this should not be
+    // changed.
+    document.getElementById('thx').value=redirecturl
+    // This returns true so the form will be submitted.
+    return true
+  }
+</script>
+
+
+  <!-- BEGIN Page Menu -->
+  <!-- END Page Menu -->
+  <div class="Advertisement">
+    <div class="Item">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_120X240A_120X600A_160X600A();
+</script>
+<!-- END BURST CODE -->
+</div>
+    <div class="Item">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_120X240B_120X600B_160X600B();
+</script>
+<!-- END BURST CODE -->
+</div>
+  </div>
+</td>
+
+      <!--END Content Column Left TD //-->
+
+      <td id="PageContentBodyTD">
+        <div id="PageContentBody">
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="728" height="90" id="AdPay_Banner" align="middle" viewastext>
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="http://secure.adpay.com/spotlightads/flash/AdPay_Banner.swf?pid=34484D4645615961733173502F695365765564574E773D3D&amp;ft=3&amp;icat=1000JWL, 100AMR, 1100KIT, 1200MIL, 1300NAU, 1400RRD, 1500RES, 1600EVT, 1700SPO, 1800MSC, 200CG, 300DOL, 400DIS, 500EPH, 600VEH, 700ART, 800FIR, 900FRN">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="wmode" value="opaque">
+<embed src="http://secure.adpay.com/spotlightads/flash/AdPay_Banner.swf?pid=34484D4645615961733173502F695365765564574E773D3D&amp;ft=3&amp;icat=1000JWL, 100AMR, 1100KIT, 1200MIL, 1300NAU, 1400RRD, 1500RES, 1600EVT, 1700SPO, 1800MSC, 200CG, 300DOL, 400DIS, 500EPH, 600VEH, 700ART, 800FIR, 900FRN" quality="high" bgcolor="#FFFFFF" width="728" height="90" name="AdPay_Banner" align="middle" allowscriptaccess="sameDomain" wmode="opaque" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+
+        <!--BEGIN Right Corner //-->
+        
+<div id="PageContentRightCorner" class="artmArticleRightCorner">
+  
+
+<div id="fbContainer" style="width:95px;float:right;">
+
+<style type="text/css">
+
+#fbContainer {
+position:relative;
+padding:0 0 0 0;
+margin:0 0 0 0;
+clear:both;
+}
+
+.fbcButton {
+position:absolute;
+top:0;
+left:0;
+}
+
+</style>
+
+
+<div id="fbButtonDIV" style="padding:5px 5px 10px 5px;width:95px;height:25px;">
+</div>
+
+<div id="fbShareButtonDIV" style="padding:5px 5px 10px 5px;width:95px;height:25px;">
+</div>
+
+</div> 
+
+<div style="clear:both;height:0px;width:0px;"></div>
+
+<div id="FBJSDIV">
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+
+
+<script type="text/javascript">
+
+function submitFeed() {
+	var template_data =
+		{
+		'name':'Light My Fire! Zippo the first name in lighters',
+		'caption':'{*actor*} thinks you should check out this article:',
+		'description':'George Grant Blaisdell was born on June 5, 1895, in Bradford, Pa. In 1931, at the Bradford Country Club, Mr. Blaisdell met a gentleman who was using a lighter made in Austria. The lighter worked exceptionally well, ...',
+		'href':'http://www.antiquetrader.com/article/Popular_and_collectible_zippo_lighters',
+                  'media':[{'type': 'image','src':'http://antiquetrader.com/upload/images/ATRLogo.gif','href':'http://www.antiquetrader.com'},{'type': 'image','src':'http://antiquetrader.com/upload/images/atr_subs_main_promo_072808.gif','href':'http://www.antiquetrader.com'}]
+		};
+
+//	FB.Connect.showFeedDialog("192590909898",template_data);
+         FB.Connect.streamPublish('', template_data);
+}
+
+
+var autoSubmitFeed = false;
+
+function display_share_button()
+{
+	//alert('logged in');
+	var fbButtonDIV = document.getElementById("fbButtonDIV");
+	var fbShareButtonDIV = document.getElementById("fbShareButtonDIV");
+
+	if(fbButtonDIV) {
+		fbButtonDIV.style.display = "none";
+		fbButtonDIV.style.height = "20px";
+		fbButtonDIV.style.width = "0px";
+	}
+
+	if(fbShareButtonDIV) {
+	fbShareButtonDIV.style.display = "block";
+	fbShareButtonDIV.style.height = "20px";
+	fbShareButtonDIV.style.width = "110";
+	fbShareButtonDIV.innerHTML = '<A HREF="javascript:submitFeed();"><img src="/upload/images/fbshare.png" border="0" height="21"><\/A>';
+
+	// XFBML - need to tell Facebook to re-process the document
+	FB.XFBML.Host.parseDomTree();
+
+		//if they did just login, display the feed submission window for this article or feature.
+
+		if(autoSubmitFeed == true) {
+			setTimeout("submitFeed()",1200);
+		}
+
+	}
+
+	// XFBML - need to tell Facebook to re-process the document
+	FB.XFBML.Host.parseDomTree();
+
+}
+
+
+function display_connect_button()
+{
+
+	//alert('not logged in');
+	// Handle displaying the feed window if they login vs just see a share button.
+	autoSubmitFeed = true;
+
+	var fbButtonDIV = document.getElementById("fbButtonDIV");
+	var fbShareButtonDIV = document.getElementById("fbShareButtonDIV");
+
+	if(fbShareButtonDIV) {
+		fbShareButtonDIV.style.display = "none";
+		fbShareButtonDIV.style.height = "20px";
+		fbShareButtonDIV.style.width = "0px";
+	}
+
+	if(fbButtonDIV) {
+		fbButtonDIV.style.display = "block";
+		fbButtonDIV.style.height = "20px";
+		fbButtonDIV.style.width = "110";
+		fbButtonDIV.innerHTML = '' + '<fb:login-button size="medium" background="light" length="short" onlogin="display_share_button();"><\/fb:login-button>' + '';
+
+		// XFBML - need to tell Facebook to re-process the document
+		FB.XFBML.Host.parseDomTree();
+
+	}
+
+	// XFBML - need to tell Facebook to re-process the document
+	FB.XFBML.Host.parseDomTree();
+}
+
+</script>
+
+
+<script type="text/javascript">
+	FB.init("2c16ecd55ab10dbfab76d522457d9e45", "http://www.antiquetrader.com/xd_receiver.htm",{"ifUserConnected":display_share_button,"ifUserNotConnected":display_connect_button} );
+</script>
+</div>
+
+
+  
+<div class="PageServices" style="width:297px;">
+  <div class="bookmark"><a href="#" onclick="javascript:addBookmark(location.href, 'Antique Trader - Light My Fire! Zippo the first name in lighters');">BOOKMARK</a></div>
+  <div class="print"><a href="#" onclick="window.open('/article/Popular_and_collectible_zippo_lighters/?print=1','test','toolbar=yes,scrollbars=yes,width=800,height=600')">PRINT</a></div>
+  <div class="email"><a href="/emailtoafriend/?requested_url=article/popular_and_collectible_zippo_lighters&amp;p_ArticleId=6517">EMAIL</a></div>
+  <div class="SolidLine clear"><img src="/upload/images/Common/pix.gif" border="0" alt="" height="1" width="1"></div>
+  <p>Did you enjoy this article? Please share it!</p>
+  <div class="SocialNetworkWidjet">
+
+<style>
+    html .fb_share_button{
+    display: -moz-inline-block;
+    display:inline-block;
+    padding:1px 20px 0 5px;
+    height:15px;
+    border:1px solid #d8dfea;
+    background:url(http://b.static.ak.fbcdn.net/rsrc.php/zAB5S/hash/4273uaqa.gif) no-repeat top right;
+   }
+    html .fb_share_button:hover{
+    color:#fff; border-color:#295582;
+    background:#3b5998 url(http://b.static.ak.fbcdn.net/rsrc.php/zAB5S/hash/4273uaqa.gif) no-repeat top right;
+    text-decoration:none;
+    }
+</style>
+<script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=tweettrackjs&amp;apiKey=R_7e9987b2fd13d7e4e881f9cbb168f523"></script>
+<script type="text/javascript" charset="utf-8" src="http://s.bit.ly/TweetAndTrack.js?v=1.01"></script>
+
+<script type="text/javascript">
+function fbs_click(){
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}
+</script>
+
+
+    <!-- AddThis Bookmark Button BEGIN -->
+    <script type="text/javascript">
+    <!--//
+    addthis_url    = location.href;   
+    addthis_title  = document.title;  
+    addthis_pub    = 'fwpublications';     
+    //-->
+    </script>
+
+    <a onclick="return TweetAndTrack.open(this, location.href)" href="#">
+    <span style="display:none;">Antique Trader - Light My Fire! Zippo the first name in lighters</span><img width="21px" height="21px" border="0" src="/upload/images/twitter.png"></a>
+    &nbsp;
+    <a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank"><img border="0" width="21px" height="21px" src="http://b.static.ak.fbcdn.net/rsrc.php/zAB5S/hash/4273uaqa.gif" alt=""></a>
+    &nbsp;
+
+    <script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+    <!-- AddThis Bookmark Button END -->
+  </div>
+</div>
+
+  <div class="Advertisement"><div class="Item">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_300X250A();
+</script>
+<!-- END BURST CODE -->
+</div></div>
+  
+      <div class="Images">
+        <div class="Item">
+          <img src="/upload/contents/290/field_1745/AT 5-27 002History.JPG" alt="The image of George Blaisdell, creator of the Zippo phenomenon, is emblazoned on this lighter." title="The image of George Blaisdell, creator of the Zippo phenomenon, is emblazoned on this lighter.">
+          <div class="caption">The image of George Blaisdell, creator of the Zippo phenomenon, is emblazoned on this lighter.</div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1748/AT 5-27 003History1.JPG" alt="This philosophy has been the foundation of the Zippo company." title="This philosophy has been the foundation of the Zippo company.">
+          <div class="caption">This philosophy has been the foundation of the Zippo company.</div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1751/AT 5-27 004Collecting.JPG" alt="Every Zippo collection needs to start somewhere." title="Every Zippo collection needs to start somewhere.">
+          <div class="caption">Every Zippo collection needs to start somewhere.</div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1754/AT 5-27 33701JamesDean.JPG" alt="James Dean Zippo lighter, 2001, $30-$35." title="James Dean Zippo lighter, 2001, $30-$35.">
+          <div class="caption">James Dean Zippo lighter, 2001, $30-$35.</div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1757/AT 5-27 ZippoBarcroft.JPG" alt="A Zippo Barcroft #4 Cartech Carpenter Technology in its box with felt bag and an unused white wick. Photo courtesy International Vintage Lighter Exchange. " title="A Zippo Barcroft #4 Cartech Carpenter Technology in its box with felt bag and an unused white wick. Photo courtesy International Vintage Lighter Exchange. ">
+          <div class="caption">A Zippo Barcroft #4 Cartech Carpenter Technology in its box with felt bag and an unused white wick. Photo courtesy International Vintage Lighter Exchange. </div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1760/AT 5-27 21304Graffiti.JPG" alt="" graffiti" by zippo, 2004; retail $32.95." title="">
+          <div class="caption">"Graffiti" by Zippo, 2004; retail $32.95.</div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1763/AT 5-27 20003PlayPink.JPG" alt="Playboy Zippo lighter, 2003, retail $32.95." title="Playboy Zippo lighter, 2003, retail $32.95.">
+          <div class="caption">Playboy Zippo lighter, 2003, retail $32.95.</div>
+        </div>
+        <div class="Item">
+          <img src="/upload/contents/290/field_1766/AT 5-27 Z0161.JPG" alt="Warman’s® Zippo Lighters Field Guide, Values and Identification
+By Robin and Dana Baumgartner 
+Item No. #Z0161
+Retail: $12.99
+Your price: $8.00
+Available at www.krausebooks.com." title="Warman’s® Zippo Lighters Field Guide, Values and Identification
+By Robin and Dana Baumgartner 
+Item No. #Z0161
+Retail: $12.99
+Your price: $8.00
+Available at www.krausebooks.com.">
+          <div class="caption">Warman’s® Zippo Lighters Field Guide, Values and Identification
+By Robin and Dana Baumgartner 
+Item No. #Z0161
+Retail: $12.99
+Your price: $8.00
+Available at www.krausebooks.com.</div>
+        </div>
+      </div>
+
+  
+            <script type="text/javascript" language="javascript">
+              var xmlHttp;
+
+              function getArticles(link)
+              { 
+                xmlHttp = GetXmlHttpObject();
+                if (xmlHttp == null)
+                {
+                  alert ("Your browser does not support AJAX!");
+                  return;
+                } 
+
+                var url = link;
+                url = url;
+                xmlHttp.onreadystatechange = ArticlesChanged;
+                xmlHttp.open("GET", url, true);
+                xmlHttp.send(null);
+             }
+
+              function ChangeClass(currclass) {
+                if (currclass == 'MR') {
+                 document.getElementById("MR").className = "Active border";
+                 document.getElementById("MP").className = "Item";
+                } else {
+                 document.getElementById("MR").className = "Item  border";
+                 document.getElementById("MP").className = "Active";
+                }
+              }
+
+
+             function ArticlesChanged() 
+             { 
+               if (xmlHttp.readyState==4)
+               { 
+                 document.getElementById("Articles_List").innerHTML=xmlHttp.responseText;
+               }
+             }
+
+             function GetXmlHttpObject()
+             {
+               var xmlHttp = null;
+               try
+               {
+                 // Firefox, Opera 8.0+, Safari
+                 xmlHttp = new XMLHttpRequest();
+               }
+               catch (e)
+               {
+                 // Internet Explorer
+                 try
+                 {
+                   xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+                 }
+                 catch (e)
+                 {
+                   xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+                 }
+               }
+
+               return xmlHttp;
+             }
+           </script>
+
+<script type="text/javascript" language="javascript">
+getArticles('/Most_Recent_Articles/');
+</script>
+<div class="RightColumnBox">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+   <tbody><tr>
+    <td id="MR" class="Active border"><span onclick="ChangeClass('MR');getArticles('/Most_Recent_Articles/')">Most Recent</span></td>
+    <td id="MP" class="Item"><span onclick="ChangeClass('MP');getArticles('/Most_Popular_Articles/')">Most Popular</span></td><td width="50" bgcolor="#E6E6CD"></td>
+   </tr>
+  </tbody></table>
+  <div id="Articles_List"></div>
+</div>
+
+  
+<div class="RightColumnBox">
+  <p class="Active">Special Offers from Antique Trader</p>
+  <ul>
+
+	<li> <a href="http://shop.collect.com/category/software/?r=ATRRP41010" target="_blank">Inventory Your Collectibles with Ease</a></li>
+
+  </ul>
+</div>
+
+
+  
+
+
+<div class="RightColumnBox">
+
+ <p class="Active">Best Selling Books for Collectors</p>
+
+  <!--
+
+            <p>Best Selling Books for Collectors</p>
+
+
+
+
+-->
+
+  <ol>
+
+
+            <li><a href="http://shop.collect.com/product/antique-trader-price-guide/?r=ATRBSL4251010" target="_blank">Antique Trader Antiques &amp; Collectibles 2010 Price Guide</a></li>
+
+            <li><a href="http://shop.collect.com/product/years-of-dolls/?r=ATRBSL4251020" target="_blank">200 Years of Dolls</a></li>
+
+            <li><a href="http://shop.collect.com/product/answers-to-questions-about-old-jewelry/?r=ATRBSL4251030" target="_blank">Answers to Questions About Old Jewelry</a></li>
+
+            <li><a href="http://shop.collect.com/product/warmans-mccoy-pottery/?r=ATRBSL4251040" target="_blank">Warman's McCoy Pottery</a></li>
+
+            <li><a href="http://shop.collect.com/product/toys-prices-2010/?r=ATRBSL4251050" target="_blank">Toys &amp; Prices 2010</a></li>
+
+
+  </ol>
+</div>
+
+
+
+  
+<div class="RightColumnBox">
+  <p class="Active">Related Links</p>
+  <ul>
+
+	<li> <a href="http://worldcoinnews.net/Default.aspx?tabid=2405/?r=ATRRL41010" target="_blank">Like Coins? See How Chicago Feels About Coins!</a></li>
+
+	<li> <a href="http://www.cbgxtra.com/Default.aspx?tabid=42&amp;view=topic&amp;forumid=16&amp;postid=54411/?r=ATRRL41010">Vote for Your Favorite Comics</a></li>
+
+	<li> <a href="http://www.cbgxtra.com/Default.aspx?tabid=42&amp;view=topic&amp;forumid=16&amp;postid=54411/?r=ATRRL41010">Vote for Your Favorite Comics</a></li>
+
+  </ul>
+</div>
+
+
+</div>
+
+        <!--END Right Corner //-->
+
+        <!--BEGIN Page Menu Path -->
+        
+      <div id="PageMenuPath">
+        <a href="/GeneralMenu/" class="breadcrumb">Home</a>&nbsp;»&nbsp;
+        <a href="/features/" class="breadcrumb">Features</a>&nbsp;»&nbsp;
+        Light My Fire! Zippo the first name in lighters
+      </div>
+
+        <!--END Page Menu Path -->
+
+        <!--BEGIN Page Title -->
+        <div id="PageTitle">Light My Fire! Zippo the first name in lighters</div>
+
+        <!--END Page Title -->
+
+        <!--BEGIN Content Body //-->
+        
+  
+     <div id="artmArticle">
+  <div class="inscription">May 14, 2009<br>by&nbsp;&nbsp;Dana &amp; Robin Baumgartner</div>
+  <div id="artmArticleSummary">Summary<br></div> 
+  <div class="Images">
+    <div class="Item">
+      <img src="/upload/contents/290/field_1742/AT 5-27 1963 Zippo.JPG" alt="A Zippo 1963 Dale DLG-19 Town and Country Plankowner in its red stripe box, hailed as a great ship lighter from an original member of the crew.  Photo courtesy International Vintage Lighter Exchange. " title="A Zippo 1963 Dale DLG-19 Town and Country Plankowner in its red stripe box, hailed as a great ship lighter from an original member of the crew.  Photo courtesy International Vintage Lighter Exchange. ">
+      <div class="caption">A Zippo 1963 Dale DLG-19 Town and Country Plankowner in its red stripe box, hailed as a great ship lighter from an original member of the crew.  Photo courtesy International Vintage Lighter Exchange. </div>
+    </div>
+  </div>
+  <div id="artmArticleContent"><br>
+George Grant Blaisdell was born on June 5, 1895, in Bradford, Pa. In 1931, at the Bradford Country Club, Mr. Blaisdell met a gentleman who was using a lighter made in Austria. The lighter worked exceptionally well, especially in the wind; however, it required the use of both hands. It intrigued Mr. Blaisdell, who envisioned improving upon the design. The word “Zippo” is a spin-off of the word “zipper.” <br>
+<br>
+The zipper had recently been patented in a nearby town, and Mr. Blaisdell liked the sound of the word. He established Zippo in October 1932 in Bradford and the first Zippo lighter was produced in January 1933. Mr. Blaisdell’s lighter had the lid attached to the body and required the use of only one hand to light it, making it less awkward to use and better looking.<br>
+<br>
+The first Zippo lighters retailed for $1.95 each—a costly investment for most people at that time. But with Mr. Blaisdell’s guarantee and marketing strategy, “It works or we fix it for free,” folks were more willing to part with that kind of money.<br>
+<br>
+The original patent was applied for on May 17, 1934, and patent number 2032695 was granted on March 3, 1936. The 2517191 patent number was issued on August 1, 1950. The Zippo lighter basically remains the same to this day, with just minor improvements.<br>
+<br>
+In the mid-1930s, Kendall Refining Company placed an order for 500 Zippo lighters. These are believed to be the first company-advertised lighters produced by Zippo and are highly collectible. Decades later, companies continue to use Zippo lighters as an advertising medium.<br>
+<br>
+Zippo Manufacturing Company, Canada, Ltd., was established in Ontario, Canada, in 1949 to negate import duties. The facility closed on July 31, 2002.<br>
+<br>
+In 1954, construction began on new offices at 33 Barbour St. in Bradford, and an open house was held in September 1955. The headquarters remain there today.<br>
+<br>
+Mr. Blaisdell passed away on October 3, 1978. He is remembered not only for inventing the Zippo lighter, a great American icon, but also for his generous and kind spirit. After his passing, his daughters, Mrs. Harriett B. Wick and Mrs. Sarah B. Dorn, inherited the business. <br>
+<br>
+Robert Galey was chosen to lead the company. He retired in 1986, and the controller, Michael Schuler, was appointed president and chief executive officer. Today, Mrs. Sarah Dorn and her son, Mr. George B. Duke, own Zippo Manufacturing Company. Gregory W. Booth is president and CEO.<br>
+<br>
+In 1994, Zippo Manufacturing Company began hosting a yearly “National Zippo Day” celebration. Every other year, an international swap meet is held at the same time. Eight thousand people attended the 2004 swap meet.<br>
+<br>
+The Zippo/Case Visitors Center opened in July 1997. It is a 15,000-square-foot facility that includes a store, museum, and the famous Zippo Repair Clinic, where the Zippo lighter repair process can be viewed through expansive windows.<br>
+<br>
+In the fall of 2002, Zippo obtained trademark registration for the “shape” of the Zippo lighter. This was a major milestone for the company. Zippo lighters are often imitated by inferior replicas, but by obtaining this right, Zippo has legally been able to curtail much counterfeiting.<br>
+<br>
+<table width="220" cellspacing="5" cellpadding="8" border="0" align="left">
+    <caption><strong>Fake Zippo Lighter</strong></caption>
+    <tbody>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="300" align="bottom" alt="fake zippo lighter" src="/upload/images/AT 5-27 005Fake.jpg"><br>
+            <font size="1">Fake Zippo lighter featuring Dale Earnhardt and the Brickyard 400.</font></td>
+        </tr>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="67" align="bottom" alt="Fake zippo lighter bottom" src="/upload/images/AT 5-27 006FakeBot.jpg"><br>
+            <font size="1">This copy of a lighter design produced by Zippo is a fake. Directly above is the bottom of the lighter, showing the fake manufacturer marks.</font></td>
+        </tr>
+    </tbody>
+</table>
+The Zippo Click Collectors Club was formed in 2002 and debuted at that year’s international swap meet. At the Zippo/Case International Swap Meet 2004, a members-only get together was held at the Pennhills Country Club, where 54 years earlier Mr. Blaisdell shot a hole-in-one. At this writing, Zippo Click has 9,000+ members from around the world.<br>
+<br>
+By 2004, Zippo lighters had appeared in thousands of movies, on more than 120 television shows, and on stage about 30 times.<br>
+<br>
+Today, though most products are simply disposable or available with limited warranties, the Zippo lighter still comes with its famous lifetime guarantee, “It works or we fix it for free.<sup>TM</sup>” No one has ever spent a cent on the repair of a Zippo lighter regardless of the lighter’s age or condition.<br>
+<br>
+The great news is Zippo lighters can turn up anywhere. With more than 400 million produced to date, you’re bound to spot them in a variety of places. Garage sales, flea markets, and antiques shops are good places to start. We also wouldn’t be surprised if your friends and/or family have a special Zippo lighter tucked away. The Internet is chock full of good online shopping, too. <br>
+<br>
+Displaying your collection is relatively easy due to the small size of the lighters. Later on, we’ll talk about lighter collector clubs, which are a haven for buying, trading and selling Zippo lighters.<br>
+<br>
+Our collection consists of approximately 600 pieces. Six hundred may sound like a lot to some people, but there are collectors who have thousands. On the other hand, some collections may consist of five or 10 Zippo lighters. It’s not necessarily about the number of lighters a person has accumulated in his or her collection—it’s the love of these small pieces of art and history or perhaps a piece that strikes a personal feeling that is more important.<br>
+<br>
+Because of the popularity of Zippo lighter collecting, you must be aware of “fakes.” Fakes are Zippo lighter look-a-likes, which can sometimes almost fool a seasoned collector. As we already mentioned, Zippo has been granted trademark registration for the shape of the Zippo lighter; however, fakes do continue to slip through the cracks. <br>
+<br>
+Indications of fakes are a misspelled advertisement on the front of the case or an incorrect stamping on the bottom of the case. In the photo, you’ll see the letter “U” to the left of the word Zippo. The letter should indicate the month of production: A=January through L=December. “U” is an invalid month code. Also, notice the “R” instead of the correct “P” in “Bradford, RA.”<br>
+<br>
+Repainted lighters may be nice in your collection, but only if you know they are repainted and don’t mind them not being totally original. If the paint is 100 percent but there is brass showing through the chrome plating, for example, the lighter has most likely been repainted. <br>
+<br>
+Zippo Manufacturing Company offers the service of repainting your Zippo lighter for a fee. It should be noted that paint color variances do appear between Zippo lighters manufactured in America and those produced in Canada, as well as artwork produced in different years.<br>
+<br>
+<table width="220" cellspacing="5" cellpadding="5" border="0" align="left">
+    <caption><strong>Zippo Advertising Lighters</strong></caption>
+    <tbody>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="305" align="bottom" src="/upload/images/AT 5-27 09861Popsicle.jpg" alt="popsicle zippo lighter"><br>
+            <font size="1">Popsicle Zippo lighter, Pemico Foods, Perry, Iowa, 1961, $500-$600.</font></td>
+        </tr>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="307" align="bottom" src="/upload/images/AT 5-27 11466RichWhip.jpg" alt="rich whip zippo lighter"><br>
+            <font size="1">Rich Whip Topping Zippo lighter, 1966, $225-$250.</font></td>
+        </tr>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="349" align="bottom" src="/upload/images/AT 5-27 14773CoffeeRich.jpg" alt="coffee whip zippo lighter"><br>
+            <font size="1">Coffee Rich Zippo lighter, 1973, $100-$125.</font></td>
+        </tr>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="322" align="bottom" src="/upload/images/AT 5-27 16176Marlboro.jpg" alt="Marlboro zippo lighter"><br>
+            <font size="1">Marlboro Zippo lighter, 1976, $100-$125.</font></td>
+        </tr>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="361" align="bottom" src="/upload/images/AT 5-27 16577CokeA.jpg" alt="Coke zippo lighter"><br>
+            <font size="1">Coca-Cola Zippo lighter, 1977, $125-$150.</font></td>
+        </tr>
+        <tr>
+            <td><img width="200" vspace="5" hspace="5" height="305" align="bottom" src="/upload/images/AT 5-27 18896CamelPopArt.jpg" alt="camel pop-art zippo lighter"><br>
+            <font size="1">Camel pop-art Zippo lighter, 1996, $125-$135.</font></td>
+        </tr>
+    </tbody>
+</table>
+The insert—the removable, inner mechanism—often gets exchanged for one reason or another. Distinguishing different model years of inserts is based on the material composition, the verbiage and its position on the insert, the number of holes in the chimney, and numerous other factors. Detailed reference material is a must to correctly identify the exact year of an insert. A good rule of thumb is an insert can possibly be older than the case by a year or so and be the original insert. The flip side is if an insert is newer than the case, it is most likely not the original insert.<br>
+<br>
+The packaging for Zippo lighters has evolved over time. Again, like inserts, your Zippo lighter may be purchased or found in a container that is not original. <br>
+<br>
+As with any collectible, preserving all original components increases the value of a piece. If you are looking for an investment, the complete and original packaging, guarantee paperwork, insert and mint case are more important than they might be to a casual collector.<br>
+<br>
+Another lively topic of conversation is whether to remove price and safety stickers from Zippo lighters. Every new Zippo lighter distributed in the U.S. has an orange safety sticker on the back of the case and quite often a price sticker on the front of the case. You’ll also find vintage lighters with their original price stickers still intact. So, do you remove the stickers or leave them as is? Welcome to the great sticker debate. These stickers, over time, will cause damage to the lighter’s finish. <br>
+<br>
+Stickers placed on the lighters by sellers at garage sales or antique shops will do the same damage. The greatest concern is discoloration and glue residue. Discoloration is extremely noticeable on a brass finish. If you remove an older sticker, you risk exposing the damage. In our opinion, by removing an older sticker, you are also removing some of the originality of the product. If your lighter has a sticker on it, the lighter is most likely in mint condition; if you remove the sticker and find damage, you will then need to find a method to return the case to its original mint condition, if possible. This, in itself, may cause more damage to the case. <br>
+<br>
+High polish chrome is prone to scratching easily. On the other hand, the majority of collectors immediately remove all stickers from recently released lighters, i.e. manufactured within the last 10 years, hoping to prevent damage before it starts. So, do you remove the stickers or leave them as is? <br>
+<br>
+We’ll leave that sticky decision up to you. Please note we do recommend you immediately remove the flint from any collectible Zippo lighter you currently own or purchase in the future. The flints deteriorate over time and become lodged in the flint tube, which in turn will freeze the flint wheel and can severely damage the tube.<br>
+<br>
+<strong>Advertizing lighters</strong><br>
+<br>
+Zippo lighters have been used as an advertising medium since 1935. What began as a company’s way to promote its name and/or services has evolved into an avenue to promote practically anything. <br>
+Zippo lighters can be found bearing artwork depicting a variety of special events, people, places and things. Some of these Zippo lighters may spark a memory in you. <br>
+<br>
+While many folks choose to collect whatever tickles their fancy, some folks focus on a particular theme.<br>
+<br>
+Zippo Manufacturing Company does produce personalized Zippo lighters through its Zippo Promotional Products Division, with a 50-piece minimum order required. The company will take your submitted artwork (some restrictions apply) and create a design of your preference. You may see some of these in your hunting expeditions. <br>
+<br>
+Joining a lighter collector club is a delightful way to increase your knowledge of Zippo lighters and add to your collection. Many of the clubs publish newsletters, and all of them hold a minimum of one swap meet a year. <br>
+<br>
+Numerous clubs exist throughout the world, and their contact information may be found at the Zippo Click Collectors Club Web site (<a target="_blank" href="http://www.zippoclick.com"><em>www.zippoclick.com</em></a>); a few of them are listed here.<br>
+<br>
+Zippo Click Collectors Club<br>
+Sponsored by Zippo Manufacturing Company<br>
+Web site: <a target="_blank" href="http://www.zippoclick.com"><em>www.zippoclick.com</em></a><br>
+<br>
+OTLS (On the Lighter Side)<br>
+Judith Sanders<br>
+E-mail: <a href="javascript:location.href='mailto:'+String.fromCharCode(105,110,102,111,64,111,116,108,115,46,99,111,109)+'?'"><em>info@otls.com</em></a><br>
+Web site: <a target="_blank" href="http://www.OTLS.com"><em>www.OTLS.com</em></a><br>
+<br>
+PLPG (Pocket Lighter Preservation Guild)<br>
+Larry Marshall<br>
+E-mail: <a href="javascript:location.href='mailto:'+String.fromCharCode(80,76,80,71,49,64,97,111,108,46,99,111,109)+'?'"><em>PLPG1@aol.com</em></a><br>
+Web site: <a target="_blank" href="http://webpages.charter.net/buylighter"><em>webpages.charter.net/buylighter</em></a><br>
+<br>
+SLLC (Southern Lights Lighter Club)<br>
+Bob Whittal<br>
+E-mail: <a href="javascript:location.href='mailto:'+String.fromCharCode(107,105,110,122,105,101,122,111,111,50,64,99,115,46,99,111,109)+'?'"><em>kinziezoo2@cs.com</em></a><br>
+Web site: <a target="_blank" href="http://www.southernlights.homestead.com"><em>www.southernlights.homestead.com</em></a><br>
+<br>
+GLLC (Great Lakes Lighter Club)<br>
+Len Shorter<br>
+E-mail: <a href="javascript:location.href='mailto:'+String.fromCharCode(76,83,72,79,51,56,50,48,53,55,64,97,111,108,46,99,111,109)+'?'"><em>LSHO382057@aol.com</em></a><br>
+Web site: <a target="_blank" href="http://www.greatlakeslighterclub.homestead.com"><em>www.greatlakeslighterclub.homestead.com</em></a>
+<div style="text-align: center;"><br>
+<em><strong><a href="http://forum.antiquetrader.com/">Click here to share your thoughts in</a></strong></em><br>
+<em><strong><a href="http://forum.antiquetrader.com/">the Antique Trader Message Boards</a></strong></em><em>.<br>
+</em></div>
+<em><br>
+<br>
+<br>
+<br>
+</em><br></div>
+</div>
+
+     
+
+            <div style="width:485px;"><br>
+<br>
+&nbsp;&nbsp; <a target="_blank" href="http://www.krausebooks.com/category/antiques_collectibles/?r-ATRART">Click here for&nbsp;reference books about your favorite collectibles</a></div>
+
+
+
+
+  <div class="clear"></div>
+  <center><div class="Advertisement"><div class="box7">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_468X60B_728X90B();
+</script>
+<!-- END BURST CODE -->
+</div></div></center>
+
+
+        <!--END Content Body //-->            
+        </div>
+        </td>
+    
+
+        </tr>
+	<tr>
+		<td colspan="2">
+<div id="LinkSpace">
+<div class="GLinks">
+<div class="LinkHeader">Google Sponsored Links</div>
+<div class="LinkBody">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9670108431615045";
+/* WDG 250x250, bottom page */
+google_ad_slot = "0799939045";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+<div class="SpLinks">
+<div class="LinkHeader">Sponsored Links</div>
+<div class="LinkBody">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_336X280A();
+</script>         
+<!-- END BURST CODE -->
+</div>
+</div>
+<div class="FLinks">
+<div class="LinkHeader">Featured Links</div>
+<!--<div class="LinkBody">Sample Text<br /></div>-->
+<div class="LinkBody">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_336X280B();
+</script>         
+<!-- END BURST CODE -->
+</div>
+</div>
+</div>
+</td>
+	</tr>
+</tbody></table>
+    <!--END PageContent-->
+
+
+        <!--END Page Content //-->
+
+      <!--START Page Footer //-->
+      
+      <div id="Footer" align="center">
+        <!--begin nested table for footer links-->
+        
+      <div class="footermargin">&nbsp;</div>
+      <table id="FooterMenu" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+        <td class="Item"><a href="/AboutUs/">About Us</a></td>
+
+       <td class="separator">
+       |
+       
+       </td>
+
+        <td class="Item"><a href="/advertise/">Advertise</a></td>
+
+       <td class="separator">
+       |
+       
+       </td>
+
+        <td class="Item"><a href="/ContactUs/">Contact Us</a></td>
+
+       <td class="separator">
+       |
+       
+       </td>
+
+        <td class="Item"><a href="/PrivacyPolicy/">Privacy Policy</a></td>
+
+       <td class="separator">
+       |
+       
+       </td>
+
+        <td class="Item"><a href="/TermsofUse/">Terms of Use</a><!--</td>
+
+       <td class="separator">
+       |
+       -->
+       </td>
+
+      </tr></tbody></table>
+
+        <!--end nested table for footer links-->	
+        <div class="clear"></div>
+      </div>
+
+      <!--END Page Footer //-->
+
+      
+    <div id="SiteLinks">
+      <center>
+<table cellspacing="1" cellpadding="1" border="0">
+    <colgroup><col align="right"><col width="5"><col align="left" width="300"></colgroup>
+    <tbody>
+        <tr>
+            <td align="right" valign="top"><img height="30" width="30" vspace="2" src="/upload/images/FW_logo.gif" alt=""></td>
+            <td>&nbsp;</td>
+            <td valign="bottom">Learn more about related publications and services produced by F+W Publications for collectors.</td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<table cellspacing="1" cellpadding="1" border="0">
+    <colgroup><col align="right"><col width="5"><col align="left" width="470"></colgroup>
+    <tbody>
+        <tr>
+            <td align="right" valign="top">MAGAZINES:</td>
+            <td>&nbsp;</td>
+            <td><a href="http://www.numismaticnews.net">Numismatic News</a><span class="separator">|</span><a href="http://www.oldcarsweekly.com">Old Cars Weekly</a><span class="separator">|</span>
+            <a href="http://www.militarytrader.com">Military Trader</a><br><a href="http://www.cbgxtra.com">Comic Buyer's Guide</a><span class="separator">|</span><a href="http://www.goldminemag.com">Goldmine</a><span class="separator">|</span><a href="http://www.sportscollectorsdigest.com">Sports Collectors Digest</a> </td>
+        </tr>
+        <tr>
+            <td align="right">BOOKS &amp; CLUBS:</td>
+            <td>&nbsp;</td>
+            <td><a href="http://www.krausebooks.com/category/antiques_collectibles">Antiques &amp; Collectibles Books</a><span class="separator">|</span><a href="http://www.krausebooks.com">Krause Bookstore</a></td>
+        </tr>
+        <tr>
+            <td align="right">CORPORATE:</td>
+            <td>&nbsp;</td>
+            <td><a href="http://www.fwpublications.com">F+W Publications</a><span class="separator">|</span><a href="http://www.fwpublications.com/careers.asp">Career Opportunities</a></td>
+        </tr>
+    </tbody>
+</table>
+</center>
+    </div>
+
+
+      </div>
+
+      
+        <!--begin nested table for copyright blurb-->
+        <div id="Copyright">Copyright (c) <script language="JavaScript">var dteNow = new Date();
+<!--
+var intYear = dteNow.getFullYear();
+document.write(intYear);
+//-->
+</script><span id="copyrightorg"><a href="http://www.fwpublications.com"> F+W Media</a></span>, Inc.</div>		
+        <!--end nested table for copyright blurb-->
+
+
+    </div>
+    
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_1X1A();
+</script>
+<!-- END BURST CODE -->
+
+    <!--END PageLayout //-->
+
+
+    
+<script type="text/javascript">
+<!-- 
+var tmcProperties = {tmcids:{tmcid:'X0A1B6007' },selectivity:1};
+//--></script>
+
+  
+
+</body></html>

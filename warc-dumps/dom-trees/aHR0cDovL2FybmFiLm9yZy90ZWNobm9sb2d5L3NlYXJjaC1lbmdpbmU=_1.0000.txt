@@ -1,0 +1,341 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta property="og:site_name" content="Arnab's blog">
+    <title>search engine | arnab's world</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="canonical" href="http://arnab.org/technology/search-engine">
+<meta name="keywords" content="search engine">
+<link rel="alternate" type="application/rss+xml" title="RSS - search engine" href="/technology/search-engine/feed">
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_bbe2d986e140ef2041d7771f3e73fbe6.css">
+      </head>
+  <body>
+<!-- Layout -->
+    <div id="wrapper">
+    <div id="wrapper2">
+
+      <div id="header">
+	  <a title="home" id="logo" href="http://arnab.org"><span>arnab's world</span></a>
+	  <div id="nav">
+          <a href="/contact" id="contacttab"><span>contact</span></a>
+ 	  <a class="last" href="/blog/feed">feed</a> 
+          <a href="/work">work</a>
+	  <a href="/blog">blog</a>
+	  </div>
+     </div>
+
+      <div id="container">
+
+        <div id="center">
+        
+             <!--          <div class="breadcrumb"><a href="/">Home</a></div>-->
+                              <h2 class="title">search engine</h2>                                        
+  					<div id="node-1142" class="node">
+
+
+  <h2><a href="/blog/visualizations-navigation-experiments-my-blog" title="Visualizations for Navigation : Experiments on my blog">Visualizations for Navigation : Experiments on my blog</a></h2>
+
+  <div class="content">
+    <p><em>This is a meta post describing two features on this blog that I don’t think I’ve documented before. Apologies for the navel-gazing, I hope there’s enough useful information here to make it worth reading</em></p>
+<p>Most folks read my blog through the RSS feed, but those who peruse the web version get to see many different forms of navigational aids to help the user around the website. Since the blog runs on <a href="http://drupal.org">Drupal</a> , I get to deploy all sorts of fun stuff.  One example is the <a href="http://drupal.org/project/similar">Similar Entries</a> module, that uses MySQL’s FULLTEXT similarity to show possibly related posts<a href="#fn13606611194c92ed6c34a91">1</a>. This allows you to jump around on the website reading posts similar to each other, which is especially useful for readers who come in from a search engine result page. For example, they may come in looking for <a href="http://arnab.org/blog/magic-bus-iphone">Magic Bus for the iPhone</a> , but given that they’re probable iPhone users, they may be interested in the amusing <a href="http://arnab.org/blog/diy-iphone-amplifier">DIY iPhone Speakers</a> post.</p>
+<p><img src="http://farm3.static.flickr.com/2616/4190979300_c6c709f4d6.jpg" alt="" width="500" height="199"></p>
+<p><strong>The Timeline Footer</strong></p>
+<p>However, given that this blog has amassed <em>about a thousand posts</em> over seven years now, it becomes hard to expose an “overview” of that much information to the reader in a concise manner. Serendipitous browsing can only go so far. Since this is a personal blog, it is interesting to appreciate the chronological aspect of posts. Many blogs have a “calendar archive” to do this, but somehow I find them unappealing; they occupy too much screen space for the amount of information they deliver. My answer to this is a chronological histogram, which shows the frequency of posts over time:</p>
+<p><img src="http://farm5.static.flickr.com/4011/4190175733_97b7432224_o.png" alt="" width="423" height="116"></p>
+<p>Each bar represents the number of blog posts I posted that month, starting from August 2002 until now<a href="#fn11219565914c92ed6faa102">2</a>. Moving your mouse over each bar tells you which month it is. This visualization presents many interesting bits of information. On a personal note, it clearly represents many stages of my life. June of 2005 was a great month for my blog — it had the highest number of posts, possibly related to the fact that I had just moved to Bangalore, a city with and active Blogging community. There are noticeable dips that reflect extended periods of travel and bigger projects.</p>
+<p>In the background, this is all done by a simple <code>SELECT COUNT(*) FROM nodes GROUP BY month</code> type query. Some smoothing is applied to the counts due to the high variance, for my usage, <em>Height = Log base 4 (frequency) </em> gave me pretty good results. This goes into a PHP block, which is then displayed at the footer of every blog page. The Drupal <a href="http://drupal.org/handbook/customization/php-snippets">PHP snippets</a> section is a great place to start to do things like this. Note that the chart is pure HTML / CSS; there is no Javascript involved<a href="#fn17403600954c92ed6fab872">3</a>.</p>
+<p><strong>The Dot Header</strong></p>
+<p>Many of my posts are manually categorized using Drupal’s excellent taxonomy system. A traditional solution to this is to create <em>sections</em>, so that the user can easily browse through all my <a href="http://arnab.org/taxonomy/term/30">Poems</a> or my <a href="http://arnab.org/calais-document-category/technology">nerdy</a> posts. The problem is that this blog contains notes and links to things that I think are “interesting”, a classification that has constantly evolved as my interests have changed over the past decade. Not only is it hard for me to box myself into a fixed set of categories, maintaining the evolution of these categories across 7+ years is not something I want to deal with every day.</p>
+<p><img src="http://farm5.static.flickr.com/4012/4190163065_4bbd815085.jpg" alt="" width="500" height="145"></p>
+<p>This is where tags and automatic term extraction come in. As you can see in the top footer of the <a href="http://arnab.org/blog">blog mainpage</a> , each <em>dot</em> is a topic, automatically extracted from all posts on the website. I list the top 60 topics in alphabetical order, where each topic is also a valid taxonomy term. The aesthetics are inspired by the RaphaelJS <a href="http://raphaeljs.com/github/dots.html">dots</a> demo, but just like the previous visualization, it is done using pure CSS + HTML. The size and color of the dot is based on the number of items that contain that term. Hovering over each dot gives you the label and count for that dot, clicking them takes you to an index of posts with that term. This gives me a concise and maintainable way to tell the user what kinds of things I write about. It also addresses a problem that a lot of my readers have — they either care <em>only</em> about the tech-related posts (click on the biggest purple dot!), or <em>only</em> about the non-tech posts (look for the “poetry” dot in the last row!).</p>
+<p>This visualization works by first automatically extracting terms from each post. This is done using the  <a href="http://drupal.org/project/opencalais">OpenCalais</a> module (I used to previously use Yahoo’s Term Extractor, but switched since it seems Yahoo!‘s extractor is scheduled to be decommissioned soon). The visualization is updated constantly using a cached <code>GROUP BY</code> block similar to the previous visualization, this time grouped on the taxnomy term. This lets me add new posts as often as I like, tags are automatically generated and are reflected in the visualization without me having to do anything.</p>
+<p>So that’s it, two simple graphical ways to represent content. I know that the two visualizations aren’t the best thing since sliced bread and probably wont solve World Peace, but it’s an attempt to encourage discoverability of content on the site. Comments are welcome!</p>
+<p>—<br>
+<em>Footnotes:</em></p>
+<p id="fn13606611194c92ed6c34a91" class="footnote">1 I actually <a href="http://drupalcode.org/viewvc/drupal/contributions/modules/similar/README.txt?annotate=1.1">created</a> that module (and the CAPTCHA module) over four years ago; they’ve been maintained and overhauled by other good folks since.</p>
+<p id="fn11219565914c92ed6faa102" class="footnote">2 <em>Arnab’s World</em> is older than that (possibly 1997 — hence the childish name!), but that’s the oldest blog post I could recover.</p>
+<p id="fn17403600954c92ed6fab872" class="footnote">3 I have nothing against Javascript, it’s just that CSS tends to be easier to manage and usually more responsive. Also, the HTML generated is probably not valid and is SUPER inefficient + ugly. Hopefully I will have time to clean this up sometime in the future.</p>  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 16 Dec 2009 - 3:45pm</span>| <span class="links"><ul class="links inline"><li class="comment_comments first last"><a href="/blog/visualizations-navigation-experiments-my-blog#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+</ul></span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1665"><a href="/city/bangalore" rel="tag" title="">Bangalore</a></li>
+<li class="taxonomy_term_1496"><a href="/tag/data" rel="tag" title="Everything is data.">data</a></li>
+<li class="taxonomy_term_2398"><a href="/tag/experiment" rel="tag" title="">experiment</a></li>
+<li class="taxonomy_term_2402"><a href="/position/extractor" rel="tag" title="">extractor</a></li>
+<li class="taxonomy_term_1626"><a href="/technology/html" rel="tag" title="">html</a></li>
+<li class="taxonomy_term_1564"><a href="/calais-document-category/human-interest" rel="tag" title="">Human Interest</a></li>
+<li class="taxonomy_term_2400"><a href="/tag/information-architecture" rel="tag" title="">information architecture</a></li>
+<li class="taxonomy_term_2397"><a href="/tag/infoviz" rel="tag" title="">infoviz</a></li>
+<li class="taxonomy_term_1865"><a href="/product/iphone" rel="tag" title="">iPhone</a></li>
+<li class="taxonomy_term_13"><a href="/taxonomy/term/13" rel="tag" title="">meta</a></li>
+<li class="taxonomy_term_2399"><a href="/tag/navigation" rel="tag" title="">navigation</a></li>
+<li class="taxonomy_term_1568"><a href="/technology/php" rel="tag" title="">php</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1655"><a href="/calais-document-category/social-issues" rel="tag" title="">Social Issues</a></li>
+<li class="taxonomy_term_1558"><a href="/calais-document-category/technology" rel="tag" title="">Technology</a></li>
+<li class="taxonomy_term_2401"><a href="/tag/visualization" rel="tag" title="">visualization</a></li>
+<li class="taxonomy_term_1646 last"><a href="/company/yahoo" rel="tag" title="">Yahoo!</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-1121" class="node">
+
+
+  <h2><a href="/blog/hamster" title="HAMSTER: Using Search Clicklogs for Schema and Taxonomy Matching">HAMSTER: Using Search Clicklogs for Schema and Taxonomy Matching</a></h2>
+
+  <div class="content">
+    <p>Just got done with the HAMSTER presentation; here is <a href="http://www.vldb.org/pvldb/2/vldb09-124.pdf">the paper</a>, and here are my abstract and slides:</p>
+<blockquote><p>We address the problem of unsupervised matching of schema information from a large number of data sources into the schema of a data warehouse. The matching process is the first step of a framework to integrate data feeds from third-party data providers into a structured-search engine’s data warehouse. Our experiments show that traditional schema- based and instance-based schema matching methods fall short. We propose a new technique based on the search engine’s clicklogs. Two schema elements are matched if the distribution of keyword queries that cause click-throughs on their instances are similar. We present experiments on large commercial datasets that show the new technique has much better accuracy than traditional techniques.</p></blockquote>
+<p><object width="425" height="355"><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=hamsternandibernsteinvldb2009-090825075318-phpapp02&amp;stripped_title=hamster-using-search-clicklogs-for-schema-and-taxonomy-matching" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></object></p>
+<p>I received a few questions after the talk, hence I thought I’d put up a quick FAQ:</p>
+<p><strong>Q: Doesn’t the time(period) of the clicklog affect your integration quality?</strong></p>
+<p>A: Yes. And we consider this a good thing. This allows trend information to come into the system, e.g. “pokemon” queries will start coming in, and merge “japanese toys” with “children’s collector items”. Unpopular items that are not searched for may not generate a mapping, but then again, this may be ok since the end goal was to integrate searched-for items.</p>
+<p><strong>Q: You use clicklogs. I am a little old company/website owner X. Since my company’s name doesn’t start with G, M or Y, I don’t have clicklogs. How do I use your method?</strong></p>
+<p>A: You already have clicklogs. Let’s say you are trying to merge your company/website X’s data with company Y’s data. Since both you (X) and Y have websites, you both run HTTP servers, which  have the facility to log requests. Look through your HTTP server referral logs for strings like:<code><br>
+<i>URL:</i> <a href="http://x.com" title="http://x.com">http://x.com</a><br>
+<i>REFERRER:</i> http://www.google.com/?q=$search_string$<br>
+</code></p>
+<p>This is your clicklog. The url <em>http://x.com</em> has the query $search_string$. You can grep both websites to create clicklogs, which can then be used to integration. </p>
+<p><strong>Q: My website is not very popular and I don’t have that many clicks from search engines. What do I do?</strong></p>
+<p>A: Yup, this is a very real case. Specifically, you might have a lot of queries for some of your items, but not for others. This can be balanced out. See the section in our paper about <strong>Surrogate Clicklogs</strong>. Basically you can use a popular website’s clicklog as a “surrogate” log for your database. From the paper:</p>
+<blockquote><p>...we propose a method by which we identify <strong>surrogate clicklogs</strong> for any data source without significant web presence. For each candidate entity in the feed that does not have a significant presence in the clicklogs (i.e. clicklog volume is less than a threshold), we look for an entity in our collection of feeds that is most similar to the candidate, and use its clicklog data to generate a query distribution for the candidate object.</p></blockquote>
+<p><strong>Q:  I am an academic and do not have access to a public clicklog, or a public website to do get clicklogs from. How do I use this technique?</strong></p>
+<p>A: Participate in the <a href="http://lemurstudy.cs.umass.edu/">Lemur</a> project and get your friends to participate too.</p>  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 25 Aug 2009 - 9:00am</span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1739"><a href="/position/collector" rel="tag" title="">collector</a></li>
+<li class="taxonomy_term_1496"><a href="/tag/data" rel="tag" title="Everything is data.">data</a></li>
+<li class="taxonomy_term_2434"><a href="/technology/data-warehouse" rel="tag" title="">Data Warehouse</a></li>
+<li class="taxonomy_term_2136"><a href="/technology/http" rel="tag" title="">HTTP</a></li>
+<li class="taxonomy_term_2368"><a href="/url/http/wwwgooglecom/qsearch_string" rel="tag" title="">http://www.google.com/?q=$search_string$</a></li>
+<li class="taxonomy_term_2369"><a href="/url/http/xcom" rel="tag" title="">http://x.com</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1558 last"><a href="/calais-document-category/technology" rel="tag" title="">Technology</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-658" class="node">
+
+
+  <h2><a href="/blog/switch" title="switch">switch</a></h2>
+
+  <div class="content">
+    <p>From “Greg”:http://glinden.blogspot.com/2006/02/motivating-switching-from-google.html:<br>
+</p><blockquote>As Mike points out, one way to get people to switch is to be obviously better. That’s what Google did to Altavista to steal the crown.</blockquote><p></p>
+<p>
+No, that’s not true. The real reason Google is popular is because <em>Yahoo!</em> <a href="http://searchenginewatch.com/sereport/article.php/2165081">switched</a> from Inktomi(in a way, AV) to Google as their search engine, complete with “powered by google” signage. So you have the #1 website on the Interweb telling everyone that Search = Google. Then, when search became important (because the Internet exploded in terms of content, and hence usefulness of web search), people had no trouble to switching from a huge portal to a dedicated search engine they already used.</p>  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 9 Feb 2006 - 7:54pm</span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1559"><a href="/events-facts/company-technology" rel="tag" title="">Company Technology</a></li>
+<li class="taxonomy_term_1586"><a href="/company/google" rel="tag" title="">Google</a></li>
+<li class="taxonomy_term_2202"><a href="/url/http/glindenblogspotcom/2006/02/motivating-switching-googlehtml" rel="tag" title="">http://glinden.blogspot.com/2006/02/motivating-switching-from-google.html</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1558"><a href="/calais-document-category/technology" rel="tag" title="">Technology</a></li>
+<li class="taxonomy_term_1646 last"><a href="/company/yahoo" rel="tag" title="">Yahoo!</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-486" class="node">
+
+
+  <h2><a href="/blog/on-the-importance-of-timepass" title="on the importance of timepass">on the importance of timepass</a></h2>
+
+  <div class="content">
+    <p>A friend said this, I somehow think this is a nontrivial sentence:</p>
+<blockquote><p>“I am not looking for quality here. I am looking for passing time.”
+</p></blockquote>
+<p>Another quote from one of the Brit ads on Virgin Radio, which could be such an apt slogan for a search engine company:</p>
+<blockquote><p>“Why go anywhere else? Search Me!”</p></blockquote>  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 17 Jun 2005 - 6:36am</span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1559"><a href="/events-facts/company-technology" rel="tag" title="">Company Technology</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1737"><a href="/radio-station/virgin-radio" rel="tag" title="">Virgin Radio</a></li>
+<li class="taxonomy_term_1738 last"><a href="/company/virgin-radio" rel="tag" title="">Virgin Radio</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-268" class="node">
+
+
+  <h2><a href="/blog/2004/02/18/yahoo-vs-google" title="yahoo vs google">yahoo vs google</a></h2>
+
+  <div class="content">
+    <p><a href="http://news.com.com/2100-1024_3-5160710.html?tag=nefd_top">Yahoo</a> dumps Google. They're powered by their own search engine now, thanks to the acquisitions the made last year. It's amusing to see how the browser wars have turned out. In the very beginning, we had the following players:</p>
+<p><strong>Altavista</strong> - One time leader in the websearch engine. Commited harakiri by tranforming into a portal, among other things.<br>
+<strong>AllTheWeb</strong> - Indexes a LOT of pages. I used it for pages I couldn't find anywhere else. But that's about all I used it for.<br>
+<strong>Yahoo</strong> - Search, mostly dependent on the then-huge human-managed directory. Plus points: search quality, and portal features.</p>
+  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 18 Feb 2004 - 10:45pm</span>| <span class="links"><ul class="links inline"><li class="node_read_more first last"><a href="/blog/2004/02/18/yahoo-vs-google" title="Read the rest of yahoo vs google.">Read more</a></li>
+</ul></span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1615"><a href="/events-facts/acquisition" rel="tag" title="">Acquisition</a></li>
+<li class="taxonomy_term_2063"><a href="/company/alltheweb" rel="tag" title="">AllTheWeb</a></li>
+<li class="taxonomy_term_2064"><a href="/company/altavista" rel="tag" title="">Altavista</a></li>
+<li class="taxonomy_term_1559"><a href="/events-facts/company-technology" rel="tag" title="">Company Technology</a></li>
+<li class="taxonomy_term_1586"><a href="/company/google" rel="tag" title="">Google</a></li>
+<li class="taxonomy_term_1751"><a href="/company/ibm" rel="tag" title="">IBM</a></li>
+<li class="taxonomy_term_2066"><a href="/position/leader" rel="tag" title="">leader</a></li>
+<li class="taxonomy_term_1607"><a href="/company/microsoft" rel="tag" title="">Microsoft</a></li>
+<li class="taxonomy_term_2065"><a href="/company/overture" rel="tag" title="">Overture</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1558"><a href="/calais-document-category/technology" rel="tag" title="">Technology</a></li>
+<li class="taxonomy_term_1646 last"><a href="/company/yahoo" rel="tag" title="">Yahoo!</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-252" class="node">
+
+
+  <h2><a href="/blog/2003/12/16/google-book-search" title="google book search">google book search</a></h2>
+
+  <div class="content">
+    <p>Our favourite search engine <a href="http://print.google.com/print/faq.html">joins</a> the <a href="http://www.wired.com/news/print/0,1294,60948,00.html" title="Wired News Feature: Amazon's Look-Inside-The-Book Search">fray</a>.  <small><em>via <a href="http://kottke.org">kottke</a></em></small></p>
+  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 17 Dec 2003 - 12:10am</span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1592 last active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-235" class="node">
+
+
+  <h2><a href="/blog/2003/11/25/this-is-cool" title="[this is cool]">[this is cool]</a></h2>
+
+  <div class="content">
+    <p><a href="http://www.search-this.com/search_engine_decoder.asp">Search Engine Decoder:</a> gives you the skinny on the who's-feeding-who dynamics of the search engine world. <small><em>via <a href="http://evhead.com">Ev</a></em></small></p>
+  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 25 Nov 2003 - 1:17pm</span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1592 last active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-163" class="node">
+
+
+  <h2><a href="/blog/2003/08/13/nutch" title="nutch">nutch</a></h2>
+
+  <div class="content">
+    <p>I found this new search engine project called <a href="http://nutch.org">Nutch</a> via <a title="Davenet: Nutch, an Open Source Search Engine" href="http://davenet.userland.com/2003/08/13/nutchAnOpenSourceSearchEngine">DaveNet</a>:</p>
+<blockquote><p>Nutch is a nascent effort to implement an open-source web search engine. (It) provides a transparent alternative to commercial web search engines. Only open source search results can be fully trusted to be without bias. (Or at least their bias is public.) </p></blockquote>
+<p><acronym title="In My Humble Opinion">IMHO</acronym>, this is like finding an <a href="http://pajhome.org.uk/crypt/rsa/intro.html">RSA</a> encryption algorithm for information retrieval. While many encryption systems base themselves upon the premise that their inner algorithms are kept secret; RSA, or any other publicly described methods are strong because the <em>actual</em> algorithm is tough to crack.</p>
+  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 13 Aug 2003 - 10:17pm</span>| <span class="links"><ul class="links inline"><li class="node_read_more first last"><a href="/blog/2003/08/13/nutch" title="Read the rest of nutch.">Read more</a></li>
+</ul></span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_2022"><a href="/technology/encryption" rel="tag" title="">encryption</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1558 last"><a href="/calais-document-category/technology" rel="tag" title="">Technology</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-93" class="node">
+
+
+  <h2><a href="/blog/2003/02/16/oh-dang-didly-doo" title="oh dang didly doo!">oh dang didly doo!</a></h2>
+
+  <div class="content">
+    <p><a href="http://google.com">Google</a> buys <a href="http://www.pyra.com">Pyra</a>! This is <em>major</em>. Ev, Jason and the gang rollerblading in the GooglePlex... hmm.</p>
+<p>Everyone seems to be wondering <em>why</em> this happened - as in, what use is a content hosting service to a search company?<br>
+A lot of people are saying that there's going to be a "Blogs" tab now, beside the News and other tabs. Some people are also wondering if Blogspot sites will get a better pagerank.</p>
+<p>But why buy Pyra? Why not just get 20 people to build Blogger in a month? Here's what I think: <b><em>It's all about the data™</em></b>. In Page and Brin's <a href="http://www-db.stanford.edu/~backrub/google.html">paper</a> - <em>The Anatomy of a Large-Scale Hypertextual Web Search Engine</em> - the base assumption was that the WWW is a huge interlinked connection of information. And you know what's incredibly funny? The <a href="http://www.microcontentnews.com/articles/blogosphere.htm">Blogosphere</a> is just that - a small scale WWW.</p>
+  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 16 Feb 2003 - 5:47pm</span>| <span class="links"><ul class="links inline"><li class="node_read_more first last"><a href="/blog/2003/02/16/oh-dang-didly-doo" title="Read the rest of oh dang didly doo!.">Read more</a></li>
+</ul></span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1615"><a href="/events-facts/acquisition" rel="tag" title="">Acquisition</a></li>
+<li class="taxonomy_term_1586"><a href="/company/google" rel="tag" title="">Google</a></li>
+<li class="taxonomy_term_1982"><a href="/position/major" rel="tag" title="">Major</a></li>
+<li class="taxonomy_term_1980"><a href="/product/olympus-3-dlx-film-camera" rel="tag" title="">Olympus IS-3 DLX Film Camera</a></li>
+<li class="taxonomy_term_1981"><a href="/company/pyra" rel="tag" title="">Pyra! This</a></li>
+<li class="taxonomy_term_1592 active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+<li class="taxonomy_term_1558 last"><a href="/calais-document-category/technology" rel="tag" title="">Technology</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div id="node-70" class="node">
+
+
+  <h2><a href="/blog/2002/12/14/towards-a-blog-wiki" title="towards a blog~wiki">towards a blog~wiki</a></h2>
+
+  <div class="content">
+    <p>Nilesh wrote about <a href="http://www.usemod.com/cgi-bin/wiki.pl?WhatIsaWiki" title="UseMod.com : About Wikis">Wikis</a>, and the need for keyword based browsing in a weblog. A discussion followed in the comments on that entry, and it seems there are quite a few people who like the Wiki concept, but are intimidated by usage.</p>
+<p>Wikis are really useful for <em>learning</em> stuff, because of the way content is divided in to sizable, highly interlinked chunks of information. Jumping from one chunk to other is <em>one action</em> - a simple click. But for readers who want to "learn" stuff on a weblog, they do have the <a href="/search" title="Arnab's World :: Search">search engine</a> at hand, but it's still too complex - yet another text box to fill, and a button to press.</p>
+  </div>
+
+    <div class="meta">
+          <span class="submitted">written on 14 Dec 2002 - 7:23pm</span>| <span class="links"><ul class="links inline"><li class="comment_comments first"><a href="/blog/2002/12/14/towards-a-blog-wiki#comments" title="Jump to the first comment of this posting.">9 comments</a></li>
+<li class="node_read_more last"><a href="/blog/2002/12/14/towards-a-blog-wiki" title="Read the rest of towards a blog~wiki.">Read more</a></li>
+</ul></span>| <span class="terms"><ul class="links inline"><li class="taxonomy_term_4 first"><a href="/blog" rel="tag" title="">blog</a></li>
+<li class="taxonomy_term_1592 last active"><a href="/technology/search-engine" rel="tag" title="" class="active">search engine</a></li>
+</ul></span>
+        
+    </div>    
+
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/technology/search-engine?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="/technology/search-engine?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/technology/search-engine?page=1" title="Go to last page" class="active">last »</a></li>
+</ul></div>
+          <div id="footer"><div id="block-block-11" class="block block-block">
+
+
+  <div class="content"><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-92006-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+</div>
+</div>
+      <div id="copyright">everything © arnab nandi. please do not steal.</div>          
+          
+        </div> <!-- /#center -->
+
+        <span class="clear"></span>
+      </div> <!-- /container -->
+      <span class="clear"></span>
+    </div>
+    </div>
+<!-- /layout -->
+
+    
+
+</body></html>

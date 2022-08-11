@@ -1,0 +1,27 @@
+<html><head><title>Help</title></head>
+<body bgcolor="#ffffcc">
+<font face="arial" size="2">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="navy" height="20">
+<tbody><tr>
+<td align="center" width="25%"><a style="color: #FFFFFF; text-decoration: none" href="http://bayareaamusements.com/cgi-bin/classifieds/classifieds.cgi?session_key=&amp;popup_help=on&amp;helptopic=topics"><font face="MS SANS SERIF" size="1" color="ivory"><b>Help Topics</b></font></a></td>
+<td align="center" width="20%"><a style="color: #FFFFFF; text-decoration: none" href="javascript:history.go(-1)"><font face="MS SANS SERIF" size="1" color="ivory"><b>Back</b></font></a></td>
+<td align="center" width="20%"><a style="color: #FFFFFF; text-decoration: none" href="http://bayareaamusements.com/cgi-bin/classifieds/classifieds.cgi?session_key=&amp;popup_help=on&amp;helptopic=upload"><font face="MS SANS SERIF" size="1" color="ivory"><b>&lt;&lt;</b></font></a></td>
+<td align="center" width="20%"><a style="color: #FFFFFF; text-decoration: none" href="http://bayareaamusements.com/cgi-bin/classifieds/classifieds.cgi?session_key=&amp;popup_help=on&amp;helptopic=update_profile"><font face="MS SANS SERIF" size="1" color="ivory"><b>&gt;&gt;</b></font></a></td>
+<td align="center" width="15%"><a style="color: #FFFFFF; text-decoration: none" href="javascript:close()"><font face="MS SANS SERIF" size="1" color="ivory"><b>Exit</b></font></a></td>
+</tr>
+</tbody></table>
+<p>
+
+<font size="4">User Registration</font></p><p>
+To access many of the features of this system, you need to be a registered user.  Registration is required in order to ensure that you, and only you, are able to edit the ads that you have been posted.  If you haven't already registered, you can register at any time by clicking on the My Profile link in the navigation bar (once you have registered, you can use this link to update your regisration details).  Otherwise, when you perform an activity that requires registration, such as posting a new ad, you will see a logon form.
+</p><p>
+If you haven't already registered, click on the "Register For An Account" link.  On the following page, please enter the relevant information into the form fields, making sure to carefully read the instructions at the top of the page.  Required fields are denoted by *.  Fields that are not denoted by a * are optional, although filling them in will make it more convenient for you when you post ads in the future, as this information will be automatically filled into the ad posting form for you.  Once you have entered your information, click on the Submit Information button.  If you have entered the information correctly, you will see a page informing you that you have been successfully added to the user registration database.  Click on the Return to Logon Screen button to login using your new username and password.  Once you have done so, you will be able to access the feature that you had selected, such as posting a new ad.
+</p><p>
+Please make a note of the username and password that you select, as you will need these anytime you come back in the future to access certain features of this system.  If you ever forget your username or password, you can click on the appropriate link on the logon form.  The system will allow you to attempt to retrieve your information by entering either your username (if you forgot your password) or your e-mail address (if you forgot your username).
+</p><p>
+<img src="http://bayareaamusements.com/classifieds/graphics/triangle.gif"> <a href="http://bayareaamusements.com/cgi-bin/classifieds/classifieds.cgi?session_key=&amp;popup_help=on&amp;helptopic=topics">Additional Help Topics</a>
+<br>
+<br>
+
+</p></font></body></html>

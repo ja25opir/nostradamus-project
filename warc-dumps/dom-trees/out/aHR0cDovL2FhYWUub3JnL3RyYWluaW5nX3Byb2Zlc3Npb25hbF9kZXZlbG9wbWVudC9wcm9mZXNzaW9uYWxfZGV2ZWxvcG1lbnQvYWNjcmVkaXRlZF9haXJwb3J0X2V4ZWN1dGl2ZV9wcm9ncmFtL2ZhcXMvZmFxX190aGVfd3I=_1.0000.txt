@@ -1,0 +1,116 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>AAAE | FAQ:  The Writing Requirement</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+	<meta name="Robots" content="index,follow">
+	
+	<link rel="shortcut icon" href="http://www.aaae.org/assets/images/favicon.gif" type="image/gif">
+	<link rel="icon" href="http://www.aaae.org/assets/images/favicon.gif" type="image/gif">
+	
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.aaae.org/?e=rsd">
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.aaae.org/wlwmanifest.xml">
+	
+	<link rel="stylesheet" type="text/css" href="/assets/styles/main.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/assets/styles/table.css" media="screen">
+	
+	<script src="/assets/scripts/jquery.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/assets/scripts/swfobject.js"></script>
+	
+    <script type="text/javascript">
+		function showMenuLayer() {
+			$('#flnav').height(360);
+		}
+		
+		function hideMenuLayer() {
+			$('#flnav').height(90);
+		}
+    </script>
+    
+	
+</head>
+<body>
+	<div id="content">	
+		<div id="header">
+			<p><a href="/"><img src="/assets/images/aaae_masthead.png" alt="American Association of Airport Executives" title="American Association of Airport Executives" border="0"></a></p>
+			<div id="logo">
+				<h1>American Association of Airport Executives</h1>
+			</div>
+	
+		</div>
+		
+
+		<div id="flnav" style="position:absolute; overflow:hidden; height:90px; width:980px; z-index:2;">
+			<div id="nav3">
+			<ul id="sfnav">
+				<li>
+					<a href="/about_aaae/">AAAE</a>
+				</li>
+				<li>
+					<a href="/federal_affairs/">Federal Affairs</a>
+				</li>
+				<li>
+					<a href="/meetings/">Meetings</a>
+				</li>
+				<li>
+					<a href="/training_professional_development/">Training/Professional Development</a>
+				</li>
+				<li>
+					<a href="/products/">Products/Services</a>
+				</li>
+				<li>
+					<a href="/news_publications/">News/Publications</a>
+				</li>
+				<li>
+					<a href="/membership/">Membership</a>
+				</li>
+				
+				<li>
+					<form id="sform" action="http://search.aaae.org/search" method="get"><input type="text" name="q" class="searchbox" value="SEARCH AAAE"></form>
+				</li>
+				
+			</ul>
+			</div>
+		</div>
+		<!-- <div style="clear: both; margin-bottom: 40px;"></div> -->
+
+
+		<div style="clear: both; margin-top: 50px;">&nbsp;</div>
+		
+
+		<div id="sidebar">
+			<ul id="sidemenu">
+				<li><a href="/training_professional_development/professional_development/accredited_airport_executive_program/faqs/faq_general/">FAQ: General</a></li><li><a href="/training_professional_development/professional_development/accredited_airport_executive_program/faqs/faq__the_writing_requirement/">FAQ:  The Writing Requirement</a></li><li><a href="/training_professional_development/professional_development/accredited_airport_executive_program/faqs/faq_final_interview/">FAQ: Final Interview</a></li>
+			</ul>
+			<!--%7-->
+		</div>
+		<div class="story">
+			<h2>FAQ:  The Writing Requirement</h2>
+			<p><a name="TopofPage"></a></p>  <li><a href="#Q1">How should I choose a topic for my research paper or case study?</a> </li>  <li><a href="#Q2">I've chosen my topic. What's the next step?</a> </li>  <li><a href="#Q3">What if someone else has already written a paper on my topic?</a> </li>  <li><a href="#Q4">How long must my paper or case study be?</a> </li>  <li><a href="#Q5">May I submit a paper or case study I've already written?</a> </li>  <li><a href="#Q6">How do I submit my paper or case study for review?</a> </li>  <li><a href="#Q7">What do members of the Board of Examiners look for when they review my paper or case study?</a> </li>  <li><a href="#Q8">How long will it take to find out if a paper or case study has been approved?</a> </li>  <li><a href="#Q9">What happens if my paper is not approved by the BOE?</a> </li>  <li><a href="#Q10">Where may I see sample approved papers and case studies?</a> </li>  <li><a href="#Q11">What happens to my paper after it's been accepted?</a> </li>  <li><a href="#Q12">How do I complete the proctored essay?</a> </li>  <li><a href="#Q13">How will the proctored essay be evaluated?</a> </li>  <li><a href="#Q14">Will a master's degree satisfy the writing requirement</a> </li>  <li><a href="#Q15">I have a question that's not answered here. Whom should I contact?</a>     <hr size="1" width="100%" noshade="noshade">    <p><a name="Q1"></a><strong>How should I choose a topic for my research paper or case study?</strong>      </p><p><em>For the management research paper</em>--</p> Your topic should be an expression of your professional and personal interest. Recognize that many topics are too narrow to be developed into a management paper. It's important that your paper be relevant and valuable to other airport managers; given this criterion, your subject should not be a description of a unique activity, incident, or process at your airport. Rather, in a management research paper, you propose a set of guidelines for managing a problem or sets forth an argument for implementing a project or using a methodology. Focusing on a topic that is broadly applicable to many airports, you bring your experience and research findings to bear on your analysis. Both the examples cited and the research data (including personal interviews and surveys) that are used to support your analysis come from more than a few sources.<p></p>    <p><em><strong>For the case study</strong></em>--A case study is essentially a report in which you recount/analyze the steps or measures taken by your airport or airport system (same ownership) in implementing a project or managing a problem. It is essentially a how-we-did-it kind of process analysis, complete with data used by your airport or airport system for the project. Your topic should, therefore, be one that lends itself to such an analysis. The study should contribute something innovative and unique to airport management.</p>    <p>For a list of management paper topics available in the AAAE library, view <a href="http://www.aaae.org/membership/information_library/" target="_blank">Library Management Papers</a>. To view a listing of possible airport topics, <a href="Management_Research_Paper_Topics.cfm">view here</a>. <a href="http://www.aaae.org/Topics.html"></a></p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q2"></a><strong>I've chosen my topic. What's the next step?</strong>       <br>You are encouraged to send the topic along with a proposed paragraph outline to <a href="mailto:accreditation@aaae.org">accreditation@aaae.org</a>.&nbsp; For your reference, a sample topic outline is available in the <a href="http://www.aaae.org/index.cfm?e=showfile&amp;l=OARTSU">AAAE Accreditation Program Study Guide</a>.&nbsp; Your topic and outline will be assessed and, if necessary, be returned to you with suggested revisions. Please allow at least one week to receive your assessment.</p>    <p>This outline must include a stated objective for the paper or case study, as well as a short description of each section and subsection. A sample topic outline is available in the <a href="http://www.aaae.org/index.cfm?e=showfile&amp;l=OARTSU">AAAE Accreditation Program Study Guide</a>, along with further guidance in the Management Research Paper and Case Study sections.</p>    <p>Please note that, if you do not develop an approved outline into the first draft of your paper within a year of the outline's approval, the topic and outline must be revalidated by the accreditation department.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q3"></a><strong>What if someone else has already written a paper on my topic?</strong>       <br>Since different candidates may have different perspectives on a particular topic, AAAE allows four to six management papers or case studies on the same topic. However, if it is determined that a particular subject has been thoroughly explored and cannot be effectively investigated further, you will be required to choose a new topic.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q4"></a><strong>How long must my paper or case study be?</strong>       <br>Your paper or case study must be between 20 and 30 pages double-spaced, excluding cover sheets, tables of contents, notes, bibliography, exhibits, and appendices.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q5"></a><strong>May I submit a paper or case study I've already written?</strong>      <br>Yes, but you must be the sole author, and your paper or case study must conform to the formatting guidelines as well as meet all the standards set by the Board of Examiners; the subject matter and the data must be up to date, and you must retain rights to republish the work if it has been published.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q6"></a><strong>How do I submit my paper or case study for review?</strong>       <br>Your paper or case study should be double-spaced and formatted for 8 x 11 inch paper using a 12-point Times New Roman font. The final draft must be in a Word document with all necessary information (cover page, bibliography, etc. contained in one file. The AAAE Accreditation Program Study Guide contains a sample management research paper and guidelines on formatting. Be sure to consult this guide before submitting the first draft of your paper. Please send the first draft paper or case study to <a href="mailto:accreditation@aaae.org">accreditation@aaae.org</a>.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q7"></a><strong>What do members of the Board of Examiners look for when they review my paper or case study?</strong>       <br><strong><em><font color="#ff0000">For the management research paper, papers are evaluated on three basic criteria:</font></em></strong></p>    <blockquote>     <p><strong>Topic:&nbsp; </strong>Topic is related to the airport management field, broadly applicable, and important to professional airport management.</p>   </blockquote>    <blockquote>     <p><strong>Depth:</strong>&nbsp; Discusses the topic and sources' general applicability. The facts of the paper are relevant, accurate, and correct.</p>   </blockquote>    <blockquote>     <p><strong>Quality:&nbsp; </strong>An excellent, well-organized essay that presents a focused, coherent, and convincing interpretation of ideas.</p>   </blockquote>    <p><strong><em><font color="#ff0000">For the case study, case studies are evaluated on three basic criteria:</font></em></strong></p>    <blockquote>     <p><strong>Topic:&nbsp; </strong>The topic is both related to and important to the airport management field.</p>   </blockquote>    <blockquote>     <p><strong>Depth:</strong>&nbsp; An effective case study is an in-depth analysis of a situation or a unique solution to a problem or a project undertaken at a specific airport. The information and data presented are both relevant and accurate. The insights gained from the study contribute to knowledge about airport management.</p>   </blockquote>    <blockquote>     <p><strong>Quality:</strong>&nbsp; An effective case study is well organized, focused, cohesive, clear, and free from major errors in grammar, punctuation, and usage.</p>   </blockquote>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q8"></a><strong>How long will it take to find out if a paper or case study has been approved?</strong>       <br>AAAE will notify you via e-mail if your paper has been approved within 6-8 weeks after the paper is submitted to the Board of Examiners for formal reveiw.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q9"></a><strong>What happens if my paper is not approved by the BOE?</strong>       <br>Unsuccessful papers are returned to the candidate with comments and suggestions for revising the paper. After the revision, the paper can then be resubmitted.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q10"></a><strong>Where may I see sample approved papers and case studies?</strong>       <br>Browse previously submitted papers and case studies at <a href="http://www.aaae.org/membership/information_library/" target="_blank">AAAE's library</a>. Note that not all papers are available online. However, all available titles are listed, and you may use the search function to see if your topic has been heavily covered and to download a PDF version to view or request from AAAE.&nbsp;&nbsp; Additionally, the <a href="http://www.aaae.org/index.cfm?e=showfile&amp;l=OARTSU" target="_blank">AAAE Accreditation Study Guide</a> includes a sample Management Research Paper and Case Study in Appendices D &amp; E, respectfully.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q11"></a><strong>What happens to my paper after it's been accepted?</strong>       <br>Your paper or case study will enter <a href="http://www.aaae.org/membership/information_library/" target="_blank">AAAE's library</a>, one of the few authoritative sources in the country with information on airport management. Here, your paper is available as a resource to airport managers worldwide.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q12"></a><strong>How do I complete the proctored essay?</strong>       <br>The policy guidelines are as follows:</p>    <blockquote>     <p>(1) Arrange for an eligible proctor to administer the essay exam. Eligible proctors includes: an active A.A.E., a high school principal, a college professor, the administrator of a testing center, or an AAAE staff member who is not an executive candidate.</p>   </blockquote>    <blockquote>     <p>(2) <font color="#ff0000"><strong>At least two weeks before the exam, the proctor must send a signed letter on a letterhead to the accreditation department</strong>,</font> indicating the candidate's name, member number, and the place and time of the essay exam.</p>   </blockquote>    <blockquote>     <p>(3) Access to the Internet via a laptop or PC is required. You will be permitted to consult reference materials and access the Internet during the exam.</p>   </blockquote>    <blockquote>     <p>(4) You will be required to answer two industry-related questions in essay form within a four-hour time limit. Upon gaining access to the proctored essay site, you will be prompted to select two topics relative to airport management.&nbsp; One question per topic will be automatically generated based on your selections. The topics include:</p>   </blockquote>    <blockquote>     <p>Legislative Affairs, Marketing and Communications, and Air Service Development        <br>Operations and Maintenance         <br>Planning, Construction, and Environmental         <br>Administration and Finance.</p>   </blockquote>    <p>You will be expected to address each of the questions from the standpoint that they are the Executive Director of an airport, and that the response is an executive level memo or report to be provided to a board, council or other legislative body.&nbsp; A minimum of 600 words is required for each response.</p>    <blockquote>     <p>(5) If you fail to answer both questions correctly, you may retake the essay exam in full after a 90-day waiting period. There is no limit to the number of times you can retake the essay exam; however, there is a $75 re-take fee.</p>   </blockquote>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q13"></a><strong>How will the proctored essay be evaluated?</strong>       <br>The proctored essay will be evaluated according to the following criteria:</p>    <blockquote>     <p><strong>Organization:</strong>&nbsp; An effective essay response has a clear beginning-middle-end structure and the discussion flows smoothly from one point to the next.</p>   </blockquote>    <blockquote>     <p><strong>Quality:</strong>&nbsp; In an effective essay response, the sentences are clear, concise, coherent, and free from errors in grammar, punctuation and usage.</p>   </blockquote>    <blockquote>     <p><strong>Depth:</strong>&nbsp; An effective essay correctly responds to the question and supports generalizations with ample and accurate details, examples, or facts.</p>   </blockquote>    <p>Both responses must meet the above criteria in order for the candidate to successfully complete the proctored essay.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q14"></a><strong>Will a master's degree satisfy the writing requirement</strong>       <br>If you have earned an advanced degree (master's and above) from an accredited university, you should request the university to send your transcript of records to the accreditation department at:</p>    <p>601 Madison Street, Suite 400      <br>Alexandria, VA 22314</p>    <p>You will receive official notification via e-mail after your transcript has been verified.</p>    <p><a href="#topofpage">Return to top</a>      </p><p></p>   <p></p>    <p><strong></strong><a name="Q15"></a><strong>I have a question that's not answered here. Whom should I contact?</strong>       <br>You may contact the accreditation department at <a href="http://www.aaae.org/mailtaccreditation@aaae.org">accreditation@aaae.org</a>.</p>    <p><strong>Helpful Links?</strong>       <br>For external sites that offer helpful guides to writing, click on the <a href="http://www.aaae.org/training_professional_development/professional_development/accredited_airport_executive_program/program_study_materials/links.cfm">links</a> here.</p>    <p></p> </li>
+		</div>
+		<div style="clear: both;"></div>
+		<div class="breadcrumbs"><a href="/">AAAE.org</a><span>&gt;</span><a href="/training_professional_development">Training &amp; Professional Development</a><span>&gt;</span><a href="/training_professional_development/professional_development">Professional Development</a><span>&gt;</span><a href="/training_professional_development/professional_development/accredited_airport_executive_program">Accredited Airport Executive Program</a><span>&gt;</span><a href="/training_professional_development/professional_development/accredited_airport_executive_program/faqs">FAQs</a><span>&gt;</span><em>FAQ:The Writing Requirement</em></div>
+	</div>
+
+	<div id="footer">
+		<p class="right">
+			<a href="#">Sitemap</a><a href="/privacy_policy.cfm">Privacy Policy</a>
+			<a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.aaae.org" target="_blank"><img height="36" width="124" style="border: none" align="top" src="//privacy-policy.truste.com/certified-seal/wps/en/www.aaae.org/seal.png"></a>
+		</p>
+		<p>© Copyright 2008 - 2009, <a href="#">American Association of Airport Executives</a></p>
+	</div>
+
+	<script type="text/javascript">
+	   var so = new SWFObject("/menubar_0_1_22.swf", "flash_menu", "980", "360", "8", "#FFFFFF");
+	   so.addParam("wmode", "transparent");
+	   so.addParam("allowscriptaccess", "always");
+	   so.addParam("swfliveconnect","true");
+	   so.addVariable("currentPage","http%3A%2F%2Faaae%2Eorg%2Ftraining%5Fprofessional%5Fdevelopment%2Fprofessional%5Fdevelopment%2Faccredited%5Fairport%5Fexecutive%5Fprogram%2Ffaqs%2Ffaq%5F%5Fthe%5Fwriting%5Frequirement%2Findex%2Ecfm");
+	   so.write("flnav");
+	</script>
+
+	<script src="/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		urchinTracker();
+	</script>
+
+
+</body></html>

@@ -1,0 +1,1118 @@
+<html><head>
+<title>AmericaJR.com [ EARTH TALK - Questions and Answers About Our Environment ]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#000000">
+  <tbody><tr> 
+    <td> <div align="center"><b><font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="2">AMERICAJR 
+        NETWORK :: <a href="http://coachscornerproshop.com/"><font color="#FFFF00">COACH'S 
+        CORNER PRO SHOP</font></a> :: <a href="http://sandcreekrecords.com/"><font color="#FFFF00">SAND 
+        CREEK RECORDS</font></a> :: <a href="http://www.lifemadeeasyprograms.com/"><font color="#FFFF00">LIFE 
+        MADE EASY</font></a></font></b></div></td>
+  </tr>
+</tbody></table>
+<table width="100%" height="131" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="24%" height="106"> <div align="center"> 
+        <p><img src="http://americajr.com/graphics/americajr-logo.jpg" width="235" height="106"></p>
+      </div></td>
+    <td width="49%" height="106"> <div align="center"><img src="http://americajr.com/graphics/skyline5.png" width="480" height="99" border="1"></div></td>
+    <td width="27%" height="106"> <div align="right"><img src="http://americajr.com/graphics/bestcoverage-home.png" width="271" height="98"></div></td>
+  </tr>
+  <tr bgcolor="#99FF99"> 
+    <td colspan="3"> <div align="center"><b><font face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="2"> 
+        :: DETROIT, MICHIGAN USA</font> <font color="#009900">&lt;&lt;</font><font color="#555555"><font size="3" color="#FF6600"> 
+        <script language="JavaScript">
+<!--
+// Store the date in a variable
+d = new Date()
+dateText = ""
+
+// Get the current day and convert it to the name of the day
+dayValue = d.getDay()
+if (dayValue == 0)
+    dateText += "Sunday,"
+else if (dayValue == 1)
+    dateText += "Monday,"
+else if (dayValue == 2)
+    dateText += "Tuesday,"
+else if (dayValue == 3)
+    dateText += "Wednesday,"
+else if (dayValue == 4)
+    dateText += "Thursday,"
+else if (dayValue == 5)
+    dateText += "Friday,"
+else if (dayValue == 6)
+    dateText += "Saturday,"
+
+// Get the current month and convert it to the name of the month
+monthValue = d.getMonth()
+dateText += " "
+if (monthValue == 0)
+    dateText += "January"
+if (monthValue == 1)
+    dateText += "February"
+if (monthValue == 2)
+    dateText += "March"
+if (monthValue == 3)
+    dateText += "April"
+if (monthValue == 4)
+    dateText += "May"
+if (monthValue == 5)
+    dateText += "June"
+if (monthValue == 6)
+    dateText += "July"
+if (monthValue == 7)
+    dateText += "August"
+if (monthValue == 8)
+    dateText += "September"
+if (monthValue == 9)
+    dateText += "October"
+if (monthValue == 10)
+    dateText += "November"
+if (monthValue == 11)
+    dateText += "December"
+
+// Get the current year; if it's before 2000, add 1900
+if (d.getYear() < 2000) 
+    dateText += " " + d.getDate() + ", " + (1900 + d.getYear())
+else 
+    dateText += " " + d.getDate() + ", " + (d.getYear())
+
+// Get the current minutes
+minuteValue = d.getMinutes()
+if (minuteValue < 10)
+    minuteValue = "0" + minuteValue
+
+// Get the current hours
+hourValue = d.getHours()
+
+// Customize the greeting based on the current hours
+if (hourValue < 12)
+    {
+    greeting = ""
+    timeText = " @ " + hourValue + ":" + minuteValue + " am EST"
+    }
+else if (hourValue == 12)
+    {
+    greeting = ""
+    timeText = " @ " + hourValue + ":" + minuteValue + " pm EST"
+    }
+else if (hourValue < 17)
+    {
+    greeting = ""
+    timeText = " @ " + (hourValue-12) + ":" + minuteValue + " pm EST"
+    }
+else
+    {
+    greeting = ""
+    timeText = " @ " + (hourValue-12) + ":" + minuteValue + " pm EST"
+    }
+// Write the greeting, the date, and the time to the page
+document.write(greeting + "  " + dateText + timeText)
+//-->
+</script>
+        </font> <font face="Arial, Helvetica, sans-serif" color="#009900">&gt;&gt;</font></font></font></b> 
+        <b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+        <a href="http://americajr.com/news/livestocks.html">LIVE STOCK TICKER</a> 
+        </font><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">:: 
+        <a href="http://americajr.proboards15.com/">MESSAGE BOARDS</a> ::</font></b></div></td>
+  </tr>
+</tbody></table>
+<div align="center"> </div>
+<table width="100%" border="0" cellspacing="1" cellpadding="1" height="646">
+  <tbody><tr> 
+    <td width="230" height="674" valign="top" background="http://americajr.com/graphics/purple.png"> 
+      <div align="center"></div>
+      <table width="85%" border="0">
+        <tbody><tr> 
+          <td height="34" bgcolor="#FFFFFF"> <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.americajr.com/">Homepage</a></strong> 
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td height="179" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFFFF"><b>NEWS</b></font></p>
+              <table width="96%" border="0" align="center" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/news/newsindex.html">Current 
+                    News Index</a></font></td>
+                </tr>
+                <tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/news/localnews.html">Local 
+                    Detroit News</a></font></td>
+                </tr>
+                <tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/news/nationalnews.html">National 
+                    News</a></font></td>
+                </tr>
+                <tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/news/pictures.html">Pictures 
+                    (NEW)</a></font></td>
+                </tr>
+                <tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/news/liveinterviews.html"><strong>Exclusive 
+                    LIVE Interviews</strong></a></font></td>
+                </tr>
+                <tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/entertainment/hoedown/budhoedown.html">Downtown 
+                    Hoedown</a></font></td>
+                </tr>
+                <tr> 
+                  <td bordercolor="#FFFFFF" bgcolor="#FFFFFF"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/news/naias/naias-coverage.html">Detroit 
+                    Auto Show</a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="176" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFFFF"><b>SPORTS </b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/sports/sportsindex.html">Current 
+                    Sports Index</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://sports.americajr.com/">Detroit 
+                    Sports News</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/sports/hockey.html">NHL/OHL 
+                    Hockey </a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/sports/basketball.html">NBA/NCAA 
+                    Basketball </a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/sports/football.html">NFL/NCAA 
+                    Football </a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/sports/baseball.html">MLB 
+                    Baseball</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/sports/autoracing.html">NASCAR 
+                    Auto Racing</a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="120" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font><font size="2" face="Verdana" color="#FFFFFF"><b>WEATHER</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/weather/weatherindex.html">Weather 
+                    Index</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/weather/detroitradar.html">LIVE 
+                    Detroit Radar</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/weather/regionalradar.html">LIVE 
+                    Regional Radar</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/weather/usa.html">U.S. 
+                    Forecasts</a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="78" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFFFF"><b>TRIVIA</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/trivia/triviaindex.html">New 
+                    Trivia Questions</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/trivia/triviaindex.html">Archived 
+                    Trivia </a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="270" bgcolor="#FF0000"> <div align="center"> 
+              <p><font face="Verdana" size="2" color="#FFFFFF"><b>ENTERTAINMENT</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/entertainment/entertainmentindex.html">Entertainment 
+                    Index</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial,Helvetica" size="2"><a href="http://americajr.com/entertainment/concerts.html">Detroit's 
+                    #1 Concert Listing</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/entertainment/newmovies.html">New 
+                    Movie Releases</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/entertainment/reviews.html">New 
+                    Movie Reviews</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/entertainment/cdreleases.html">New 
+                    Music Releases</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/entertainment/musicreviews.html">New 
+                    Music Reviews</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/entertainment/restaurants.html">Restaurant 
+                    Reviews</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/entertainment/videogames.html">Video 
+                    Game Reviews</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/entertainment/hoedown/budhoedown.html">Downtown 
+                    Hoedown</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/entertainment/strawberry/bellevillestrawberry.html">Belleville 
+                    Strawberry Festival</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/entertainment/hotelguide.html">Detroit 
+                    Hotel Guide</a></font></td>
+                </tr>
+                <tr> 
+                  <td height="22"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/entertainment/parkingguide.html">Detroit 
+                    Parking Guide</a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="78" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFFFF"><b>CONTESTS</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/contests.html"><strong>Register 
+                    to Win Prizes</strong></a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/halloffame.html">Meet 
+                    The Winners</a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="140" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFF00"><b>YOUR OPINION</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.proboards15.com/">Message 
+                    Boards</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.proboards15.com/index.cgi?action=register">Become 
+                    a Member</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/guestbook.html" target="_blank">Sign 
+                    Guestbook</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/guestbook.html" target="_blank">View 
+                    Guestbook</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/testimonials.html">Testimonials</a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr> 
+          <td height="120" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFFFF"><b>ABOUT US</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://americajr.com/webteam.html">Meet 
+                    the Web Team</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/ourhistory.html">Read 
+                    About Our History</a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/thankyou.html">Corporate 
+                    Thank You's </a></font></td>
+                </tr>
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://americajr.com/advertising/advertising.html"><b>Advertise 
+                    on Our Site</b></a></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td width="245"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr> 
+          <td height="165" bgcolor="#FF0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFFFF"><b>COPYRIGHT</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td bgcolor="#FFFFFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">© 
+                    2008 <a href="mailto:AmericaJR@yahoo.com">AmericaJR.com</a>. 
+                    <br>
+                    All Rights Reserved.</font><font size="2"><br>
+                    <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><i>Unauthorized 
+                    duplication or use of Text, Photos, Videos, Site Template, 
+                    Graphics and or Site Design is Prohibited by Federal and International 
+                    laws. See our <a href="http://geocities.com/americajr/noticeindex.html">Notice/Disclaimer</a> 
+                    and <a href="http://www.americajr.com/privacypolicy.html">Privacy 
+                    Policy</a>.</i></font></font></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td height="216" bgcolor="#CC0000"> <div align="center"> 
+              <p><font size="2" face="Verdana" color="#FFFF00"><b>AMERICAJR EMAIL</b></font></p>
+              <table width="96%" border="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td bgcolor="#FFFFFF"> <table width="47" height="65" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#000000">
+                      <tbody><tr align="center" valign="middle"> 
+                        <td height="69"> <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                            <form name="login_form" action="http://americajr.mail.everyone.net/email/scripts/loginuser.pl" method="post"></form>
+                              <tbody><tr bgcolor="#CC0000"> 
+                                <td colspan="2" height="3"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2">Email 
+                                  Login</font><br> <input type="text" name="loginName" size="15" value="" maxlength="32"> 
+                                </td>
+                              </tr>
+                              <tr bgcolor="#CC0000"> 
+                                <td colspan="2" height="2"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2">Password</font><br> 
+                                  <input type="password" name="user_pwd" size="15" maxlength="32"> 
+                                </td>
+                              </tr>
+                              <tr bgcolor="#EEEEEE"> 
+                                <td height="2"> <input type="submit" name="login" value="Login"> 
+                                </td>
+                                <td height="2" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" color="#EEEEEE" size="1">New 
+                                  users</font><br> <a href="http://americajr.mail.everyone.net/email/scripts/serviceMenu.pl?user=new"><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="1"><b>sign 
+                                  up</b></font></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="1">!</font></td>
+                              </tr>
+                            
+                          </tbody></table></td>
+                      </tr>
+                    </tbody></table>
+                    <p align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Detroit's 
+                      Only FREE E-mail Provider</strong></font></p></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td height="250" bgcolor="#FF6600"> <input type="hidden" name="lr" value="cbajr"> 
+            <input type="hidden" name="siteid" value="ajr003np02"> <input type="hidden" name="use" value="all"> 
+            <table width="160" height="200" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ff6600">
+              <tbody><tr> 
+                <td style="padding: 3px 0px 5px 8px; font: bold  22px arial; color: #ff6;">Find 
+                  a Job</td>
+              </tr>
+              <tr> 
+                <td style="padding: 4px 0px 2px 8px;font: bold 14px arial; color: #fff;">Keywords:</td>
+              </tr>
+              <tr> 
+                <td style="padding: 0px 0px 1px 8px;"><input type="text" name="s_rawwords" id="s_rawwords" style="width:146px;font-size: 9px;" value="e.g., registered nurse" onclick="javascript:if(this.value == 'e.g., registered nurse')this.value='';"> 
+                </td>
+              </tr>
+              <tr> 
+                <td style="padding: 0px 0px 2px 8px;font: bold 14px arial; color: #fff;">Location:</td>
+              </tr>
+              <tr> 
+                <td style="padding: 0px 0px 2px 8px ;"><input type="text" name="s_freeloc" id="s_freeloc" style="width:146px;font-size: 9px;" value="Detroit, MI" onclick="javascript:if(this.value == 'City, State or Zip')this.value='';"> 
+                </td>
+              </tr>
+              <tr> 
+                <td style="padding: 0px 0px 2px 8px;font: bold 14px arial; color: #fff;">Job 
+                  category:</td>
+              </tr>
+              <tr> 
+                <td style="padding: 0px 0px 2px 8px ;"><select name="s_jobtypes" id="s_jobtypes" style="width:146px;font-size: 9px;">
+                    <option value="ALL">- Select a Category -</option>
+                    <option value="jn001">Accounting</option>
+                    <option value="jn002">Admin &amp; Clerical</option>
+                    <option value="jn054">Automotive</option>
+                    <option value="jn038">Banking</option>
+                    <option value="jn053">Biotech</option>
+                    <option value="jn019">Business Development</option>
+                    <option value="jn059">Business Opportunity</option>
+                    <option value="jn043">Construction</option>
+                    <option value="jn020">Consultant</option>
+                    <option value="jn003">Customer Service</option>
+                    <option value="jn021">Design</option>
+                    <option value="jn027">Distribution - Shipping</option>
+                    <option value="jn031">Education</option>
+                    <option value="jn004">Engineering</option>
+                    <option value="jn022">Entry Level</option>
+                    <option value="jn018">Executive</option>
+                    <option value="jn017">Facilities</option>
+                    <option value="jn005">Finance</option>
+                    <option value="jn060">Franchise</option>
+                    <option value="jn006">General Business</option>
+                    <option value="jn051">General Labor</option>
+                    <option value="jn046">Government</option>
+                    <option value="jn055">Grocery</option>
+                    <option value="jn023">Health Care</option>
+                    <option value="jn040">Hospitality - Hotel</option>
+                    <option value="jn007">Human Resources</option>
+                    <option value="jn008">Information Technology</option>
+                    <option value="jn056">Installation - Maint - Repair</option>
+                    <option value="jn034">Insurance</option>
+                    <option value="jn015">Inventory</option>
+                    <option value="jn030">Legal</option>
+                    <option value="jn041">Legal Admin</option>
+                    <option value="jn037">Management</option>
+                    <option value="jn029">Manufacturing</option>
+                    <option value="jn009">Marketing</option>
+                    <option value="jn047">Media - Journalism - Newspaper</option>
+                    <option value="jn058">Nonprofit - Social Services</option>
+                    <option value="jn050">Nurse</option>
+                    <option value="jn010">Other</option>
+                    <option value="jn049">Pharmaceutical</option>
+                    <option value="jn024">Professional Services</option>
+                    <option value="jn016">Purchasing - Procurement</option>
+                    <option value="jn025">QA - Quality Control</option>
+                    <option value="jn057">Real Estate</option>
+                    <option value="jn026">Research</option>
+                    <option value="jn035">Restaurant - Food Service</option>
+                    <option value="jn033">Retail</option>
+                    <option value="jn011">Sales</option>
+                    <option value="jn012">Science</option>
+                    <option value="jn013">Skilled Labor - Trades</option>
+                    <option value="jn028">Strategy - Planning</option>
+                    <option value="jn014">Supply Chain</option>
+                    <option value="jn048">Telecommunications</option>
+                    <option value="jn032">Training</option>
+                    <option value="jn044">Transportation</option>
+                    <option value="jn045">Warehouse</option>
+                  </select></td>
+              </tr>
+              <tr> 
+                <td style="padding-left: 6px;"><table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr> 
+                      <td valign="top" style="padding-top: 6px;"><a href="http://www.careerbuilder.com/?lr=cbajr&amp;siteid=cbajr003np02" target="_blank"><img src="http://img.icbdr.com/images/plink/images/cbLogo.gif" border="0"></a></td>
+                      <td style="padding-top: 4px;"><input name="image" type="image" src="http://img.icbdr.com/images/plink/images/btnSearch.gif"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+            <div align="center"></div></td>
+        </tr>
+        <tr> 
+          <td height="20">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="106" bgcolor="#0099FF"> <div align="center"> 
+              <p><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>SPONSOR</strong></font></p>
+              <table width="96%" border="0" align="center">
+                <tbody><tr> 
+                  <td bgcolor="#FFFFFF"> <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://click.linksynergy.com/fs-bin/click?id=jlXtecKHCMU&amp;offerid=80901.10000019&amp;type=4&amp;subid=0"><img width="120" height="60" alt="Banner " border="0" src="http://www.mac.com/1/partners/125x60_C_affiliate.gif"></a></font></div></td>
+                </tr>
+              </tbody></table>
+            </div></td>
+        </tr>
+        <tr> 
+          <td height="20">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="192" bgcolor="#0099FF"> <p align="center"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>SPONSOR</strong></font></p>
+            <table width="96%" border="0" align="center">
+              <tbody><tr> 
+                <td bgcolor="#FFFFFF"> <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Get 
+                    your NHL hockey tickets such as <a href="http://www.gotickets.com/sports/nhl/central/detroit_red_wings.php">Detroit 
+                    Red Wings Tickets</a>, <a href="http://www.gotickets.com/sports/nba/central/detroit_pistons.php">Detroit 
+                    Pistons tickets</a> if you like NBA, as well as <a href="http://www.gotickets.com/sports/college_football/bowl_games/rose_bowl.
+php">Rose Bowl</a>, <a href="http://www.gotickets.com/sports/college_football/bowl_games/sugar_bowl
+.php">Sugar Bowl</a>, and <a href="http://www.gotickets.com/sports/college_football/bowl_games/orange_bow
+l.php">Orange Bowl Tickets</a> for exciting college football.&nbsp;</font></div></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td height="20">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#0099FF"> 
+            <p align="center"><font size="2" face="Verdana" color="#FFFFFF"><b>SPONSOR</b></font></p>
+            <table width="96%" border="0" align="center" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+              <tbody><tr> 
+                <td height="156" bgcolor="#FFFFFF"> <div align="center"> 
+                    <!-- TN Search box start -->
+                    <div class="tn_searchbox" style=" text-align: center; padding: 0px 0px 5px 0px; width:200px; border: 4px solid; border-color: #7BC7DE; "> 
+                      <span style=" font-family: Verdana, Arial;font-size: 17px;padding: 5px 5px 5px 5px; width: 100%; font-weight: bold; line-height: 30px" ;> 
+                      Need Tickets ? </span> 
+                      <hr style="width: 90%; height: 3px; background-color:#7BC7DE; ">
+                      <span style=" font-family: Arial, Verdana;font-size: 11px;padding: 2px 10px 5px 10px; width: 100%; font-weight: bold; text-align: left;"> 
+                      Search Artist or Event Name </span> <br>
+                      <span style="padding: 2px 10px 5px 10px; width: 100%;"> 
+                      <input name="text" type="text" id="txtTNSearchPhrase" style="border-color: black; border: 1px solid;">
+                      <input name="button" type="button" onclick="tn_SubmitSearch()" value="Go!">
+                      </span> 
+                      <hr style="width: 90%; height: 3px; background-color:#7BC7DE; ">
+                      <div align="center"><span style=" font-family: Arial, Verdana;font-size: 11px;padding: 2px 10px 5px 10px; width: 100%; font-weight: bold; text-align: left;"> 
+                        Our Suggestions </span> <br>
+                        <a style="font-family: Verdana, Arial; font-size: 11px;" target="_blank" href="http://tickets.americajr.com/ResultsGeneral.aspx?kwds=Detroit%20Red%20Wings">Detroit 
+                        Red Wings</a><br>
+                        <a style="font-family: Verdana, Arial; font-size: 11px;" target="_blank" href="http://tickets.americajr.com/ResultsGeneral.aspx?kwds=Detroit%20Pistons">Detroit 
+                        Pistons</a><br>
+                        <a style="font-family: Verdana, Arial; font-size: 11px;" target="_blank" href="http://tickets.americajr.com/ResultsGeneral.aspx?kwds=Detroit%20Tigers">Detroit 
+                        Tigers</a><br>
+                        <a style="font-family: Verdana, Arial; font-size: 11px;" target="_blank" href="http://tickets.americajr.com/ResultsGeneral.aspx?kwds=Detroit%20Lions">Detroit 
+                        Lions</a><br>
+                        <a style="font-family: Verdana, Arial; font-size: 11px;" target="_blank" href="http://ticketsplus.com">And 
+                        Many More ...</a><br>
+                      </div>
+                    </div>
+                    <script type="text/javascript">
+function tn_SubmitSearch()
+{
+var SearchPhrase = document.getElementById('txtTNSearchPhrase').value;
+if(SearchPhrase != '') window.open('http://tickets.americajr.com/ResultsGeneral.aspx?kwds='+escape(SearchPhrase));
+}
+
+function tn_KeyDownHandler(e) 
+{ 
+if (e == null) e = window.event;
+ if (e.keyCode == 13) tn_SubmitSearch();
+}
+
+document.getElementById('txtTNSearchPhrase').onkeypress=tn_KeyDownHandler;
+
+</script>
+                    <!-- TN Search box end -->
+                  </div></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td width="861" bgcolor="#FFFFFF" bordercolor="#FFFFFF" height="674" valign="top"><div align="center"> 
+        <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b><font color="#FF0000" size="5"><font color="#000000" size="7">&lt;&lt; 
+          News &gt;&gt;</font></font></b></font> 
+          <p></p>
+        </div>
+        <table cols="2" width="100%">
+          <tbody><tr> 
+            <td bgcolor="#009900" height="26"> <table width="100%" border="0" cellspacing="1" cellpadding="1" height="31">
+                <tbody><tr> 
+                  <td width="76%" bgcolor="#009900" height="35"> <div align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFFFF">Environmental 
+                      News </font></b></div></td>
+                  <td width="76%" bgcolor="#009900"><div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFFFF"> 
+                      <select name="select" size="1" onchange="jump(this.form)">
+                        <option value="">Go to a Section</option>
+                        <option value="">-------------</option>
+                        <option value="http://www.geocities.com/americajr/news/newsindex.html">News</option>
+                        <option value="http://www.geocities.com/americajr/sports/sportsindex.html">Sports</option>
+                        <option value="http://www.geocities.com/americajr/weather/weatherindex.html">Weather</option>
+                        <option value="http://www.geocities.com/americajr/trivia/triviaindex.html">Trivia</option>
+                        <option value="http://www.geocities.com/americajr/entertainment/entertainmentindex.html">Entertainment</option>
+                        <option value="">-------------</option>
+                        <option value="http://geocities.com/americajr">Home</option>
+                        <option value="http://www.GuestForum.com/forum.mx?Account=americajr&amp;Session=americajr.101971092891341">Message 
+                        Boards</option>
+                        <option value="http://http://us.geocities.yahoo.com/gb/sign?member=americajr">Guestbook</option>
+                        <option value="http://www.geocities.com/americajr/lettersindex.html">History</option>
+                        <option value="http://www.geocities.com/americajr/topten.html">Top 10 Pages</option>
+                        <option value="http://www.geocities.com/americajr/sitemap.html">Sitemap</option>
+                      </select>
+                      <script>
+<!--
+function land(ref, target)
+{
+lowtarget=target.toLowerCase();
+if (lowtarget=="_self") {window.location=loc;}
+else {if (lowtarget=="_top") {top.location=loc;}
+else {if (lowtarget=="_blank") {window.open(loc);}
+else {if (lowtarget=="_parent") {parent.location=loc;}
+else {parent.frames[target].location=loc;};
+}}}
+}
+function jump(menu)
+{
+ref=menu.choice.options[menu.choice.selectedIndex].value;
+splitc=ref.lastIndexOf("*");
+target="";
+if (splitc!=-1)
+{loc=ref.substring(0,splitc);
+target=ref.substring(splitc+1,1000);}
+else {loc=ref; target="_self";};
+if (ref != "") {land(loc,target);}
+}
+//-->
+</script>
+                      </font></b></div></td>
+                </tr>
+              </tbody></table>
+              <div align="right"> 
+                <div align="center"></div>
+              </div></td>
+          </tr>
+        </tbody></table>
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tbody><tr> 
+            <td height="34"> <p align="center"><font color="#FF0000" size="5" face="Arial, Helvetica, sans-serif"><strong>"EARTH 
+                TALK" </strong></font></p>
+              <p align="center"><i><font face="Arial, Helvetica, sans-serif">From 
+                the Editors of E / The Environmental Magazine</font></i><br>
+              </p></td>
+          </tr>
+          <tr> 
+            <td bgcolor="#0066FF"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFF00">THIS 
+              WEEK'S COLUMN</font></b></td>
+          </tr>
+          <tr> 
+            <td height="2111"> 
+              <p><font face="Arial, Helvetica, sans-serif"> </font> 
+              <table width="99%" height="88%" border="0">
+                <tbody><tr>
+                  <td width="72%" height="2080"> <p align="left"><font face="Arial, Helvetica, sans-serif"><strong>Dear 
+                      EarthTalk:</strong><em> Should we expect to see “plug-in” 
+                      hybrid cars anytime soon? I’ve been hearing they are 
+                      on the horizon but I wonder if that means in one year or 
+                      10.</em><br>
+                      -- Bill A., Stratford, CT</font> 
+                    <table width="99%" border="0">
+                      <tbody><tr> 
+                        <td width="50%" height="129"> <div align="center"><b><font size="3" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><img src="http://www.emagazine.com/images/upload/1216651521ET_Plug-inHybrids.jpg" width="225" height="225" border="1"></font></b></div></td>
+                        <td width="50%" height="129"> <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The 
+                            electricity cost for powering a plug-in hybrid is 
+                            only about one-quarter of the cost of powering a like-sized 
+                            gasoline vehicle. Pictured here: a regular Toyota 
+                            hybrid Prius converted to a 100 miles-per-gallon (avg.) 
+                            plug-in by the California Cars Initiative, a nonprofit 
+                            group dedicated to accelerating the availability of 
+                            the technology.<br>
+                            <strong>© jurvetson, courtesy Flickr</strong></font></div></td>
+                      </tr>
+                    </tbody></table>
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">Gasoline-electric 
+                      hybrids now, like Toyota’s popular Prius, don’t 
+                      need to plug in—you just fill their tanks with gasoline 
+                      and the battery keeps charged by the internal combustion 
+                      engine and by energy generated from the wheels when braking 
+                      (a feature known as “regenerative braking”). 
+                      The battery then powers the electric motor when it is called 
+                      into service during idling, backing-up, crawling in gridlock, 
+                      maintaining speed while cruising, and for extra uphill power 
+                      when needed. As such, the electric motor is essentially 
+                      a back-up engine while the hybrid relies mainly on the gasoline 
+                      engine.</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">Plug-in 
+                      hybrids take the concept further by plugging into a regular 
+                      electric outlet to enable the vehicle to operate solely 
+                      on its electric motor for ranges of 40-50 miles or more 
+                      on a single charge. This has profound implications for commuters 
+                      who need only drive short distances to and from work every 
+                      day and who may be able to do so solely on electric power. 
+                      The gasoline engine then becomes the supplemental one for 
+                      when the car needs to travel farther than the electric engine 
+                      can take it.</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">According 
+                      to researchers at the University of California Davis, the 
+                      electricity cost for powering a plug-in hybrid is only about 
+                      one-quarter of the cost of powering a like-sized gasoline 
+                      vehicle. Other benefits include far fewer fill-ups at gas 
+                      stations and the convenience of recharging at home.</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">Toyota, 
+                      currently the world’s largest producer of hybrid vehicles 
+                      by far thanks to the success of its Prius, announced that 
+                      it expects to have a commercially viable plug-in hybrid 
+                      available to consumers as early as 2010 and is now testing 
+                      prototype versions of plug-in hybrids at two California 
+                      universities.</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">Felix 
+                      Kramer of the California Cars Initiative (CCI), a non-profit 
+                      dedicated to promoting plug-ins, called Toyota’s announcement 
+                      “stunning and very welcome,” and says that these 
+                      vehicles will be the cleanest practical cars on the road 
+                      in a world where gas stations dot just about every intersection. 
+                      The promise of such cars, says CCI on its website, is that 
+                      drivers will have a “cleaner, cheaper, quieter car 
+                      for local travel, and the gas tank is always there should 
+                      you need to drive longer distances.”</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">U.S. 
+                      automakers are also jumping onto the plug-in bandwagon. 
+                      General Motors says that it will have mass-market plug-in 
+                      hybrids—modifications of its Saturn Vue and Chevrolet 
+                      Volt—on the road by 2010. Ford has also developed 
+                      a small fleet of plug-ins, but is not yet ready to offer 
+                      them to the public. Fisker, a U.S. start-up focusing on 
+                      the creation of high performance, energy efficient vehicles, 
+                      plans to sell an $80,000 plug-in hybrid sports car by late 
+                      2009. Chrysler’s Sprinter van was the first plug-in 
+                      from a major U.S. manufacturer, but it is only presently 
+                      available to a limited number of institutions as a fleet 
+                      vehicle.</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif">Plug-ins 
+                      have also caught on elsewhere. Chinese carmaker BYD plans 
+                      to sell a plug-in hybrid sedan in the U.S. within five years. 
+                      And Volkswagen hopes to have a plug-in hybrid Golf ready 
+                      to roll by 2010.</font> 
+                    </p><p align="left"><font face="Arial, Helvetica, sans-serif"><strong>CONTACTS: 
+                      </strong><a href="http://www.calcars.org/" target="_blank">California 
+                      Cars Initiative</a>; <a href="http://www.byd.com/" target="_blank">BYD</a>; 
+                      <a href="http://www.gm.com/experience/fuel_economy/news/2008/hybrids/plug_in_vue_011008.jsp" target="_blank">General 
+                      Motors</a>; <a href="http://jalopnik.com/344419/detroit-auto-show-fisker-karma-luxury-hybrid-only-80000" target="_blank">Fisker</a>.</font> 
+                    </p><p align="left">&nbsp; 
+                    <table width="90%" border="0" align="center" bgcolor="#CCCCCC">
+                      <tbody><tr> 
+                        <td>&nbsp;</td>
+                      </tr>
+                    </tbody></table>
+                    </p><p>&nbsp;</p>
+                    <p><font face="Arial, Helvetica, sans-serif"><strong>Dear 
+                      EarthTalk:</strong> <em>I was intrigued to hear that there 
+                      were a number of ways one could modify or construct a roof 
+                      on a house or office facility that would provide great environmental 
+                      benefit. Can you enlighten?</em><br>
+                      -- Bill Teague, Menlo Park, CA</font></p>
+                    <table width="99%" border="0">
+                      <tbody><tr> 
+                        <td width="51%" height="135"> <div align="center"><img src="http://www.emagazine.com/images/upload/1216651562ET_GreenRoofs.jpg" alt="" width="200" height="300" border="1"></div></td>
+                        <td width="49%" height="135"> <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Green 
+                            roofs utilize living plant matter and soil on top 
+                            of a building in order to absorb, collect and reuse 
+                            rainwater while preventing run-off. Pictured: A green 
+                            roof demonstration project at the Chicago Center for 
+                            Green Technology.<br>
+                            <strong>© Andrew Ciscel, courtesy Flickr</strong></font></div></td>
+                      </tr>
+                    </tbody></table>
+                    <p><font face="Arial, Helvetica, sans-serif">Most buildings 
+                      are designed to shed rain, and as such are built with hard, 
+                      impenetrable roofing surfaces. As a result, rainwater bounces 
+                      off and collects as runoff, picking up impurities—including 
+                      infectious bacteria from animal waste as well as harmful 
+                      pesticides and fertilizers—on the way to municipal 
+                      storm sewers, which in turn eventually empty out into local 
+                      bodies of water.</font></p>
+                    <p><font face="Arial, Helvetica, sans-serif">Minimizing this 
+                      run-off means that more impurities will remain in local 
+                      soils where they can be broken down more easily into their 
+                      constituent elements than if they are concentrated downstream. 
+                      In order to achieve this goal, landscape architects have 
+                      developed so-called “green roofs,” which utilize 
+                      living plant matter and soil on top of a building in order 
+                      to absorb, collect and reuse rainwater while preventing 
+                      run-off. Many buildings employing green roofs are able to 
+                      find abundant uses for the water they collect, from watering 
+                      exterior plantings at ground level to flushing toilets inside.</font></p>
+                    <p><font face="Arial, Helvetica, sans-serif">According to 
+                      Steven Peck of the Toronto-based non-profit Green Roofs 
+                      for Healthy Cities, green roofs can play an important role 
+                      in maintaining ecological integrity within otherwise paved 
+                      over areas. “The roofscapes of our cities are the 
+                      last urban frontier—from 15 percent to 35 percent 
+                      of the total land area—and the green roof industry 
+                      can turn these wasted spaces into a force for cleaner air, 
+                      cleaner water, energy savings, cooling, beauty and recreation,” 
+                      he says.</font></p>
+                    <p><font face="Arial, Helvetica, sans-serif">The U.S. Environmental 
+                      Protection Agency (EPA) encourages the creation of green 
+                      roofs for mitigating the urban “heat island effect,” 
+                      whereby temperatures in crowded cities can soar some 10 
+                      degrees Fahrenheit higher than in less developed areas nearby. 
+                      Other benefits, says the EPA, include: providing amenity 
+                      space for tenants (in effect replacing a yard or patio); 
+                      reducing building heating and cooling costs due to the buffering 
+                      effect of the plant matter and soil; filtering pollutants 
+                      like carbon dioxide out of the air and heavy metals out 
+                      of rainwater; and increasing bird habitat in otherwise built-up 
+                      areas.</font></p>
+                    <p><font face="Arial, Helvetica, sans-serif">Beyond going 
+                      all out to build a “living” green roof, certain 
+                      inorganic materials can also make an existing roof greener. 
+                      The non-profit Cool Roof Rating Council (CRRC), for instance, 
+                      suggests roofing surfaces that reflect the sun’s heat 
+                      so as to reduce the urban heat island effect while improving 
+                      residential energy efficiency. According to the group, “a 
+                      cool roof reflects and emits the sun’s heat back to 
+                      the sky.” Builders can check out CRRC’s website 
+                      for a database of information on the radiative properties 
+                      of various roofing surfaces so as to make the smartest choice 
+                      for clients and the environment.</font></p>
+                    <p><font face="Arial, Helvetica, sans-serif">Another quality 
+                      that makes certain roofs greener than others is how long 
+                      they last. Metal roofs are known to be relatively maintenance 
+                      free and last longer than shingles in most situations. Slate 
+                      roofs also have an excellent reputation for lasting long, 
+                      although getting work done on them can be expensive when 
+                      they do need repairs. The Slate Roofing Contractors Association 
+                      reports that sea green slates can last anywhere from one 
+                      to two centuries, depending on where the slate is quarried 
+                      and how well it’s eventually installed.</font></p>
+                    <p><font face="Arial, Helvetica, sans-serif"><strong>CONTACTS:</strong> 
+                      <a href="http://www.greenroofs.org/" target="_blank">Green 
+                      Roofs for Healthy Cities</a>; <a href="http://www.coolroofs.org/" target="_blank">CRRC</a>.</font></p></td>
+                  <td width="24%" valign="top" height="2041"> <div align="center"> 
+                      <p align="center"><img src="http://www.americajr.com/news/earth_talk_logo.jpg" width="189" height="150"></p>
+                      <p align="center"><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A 
+                        SYNDICATED COLUMN ONLY ON AMERICAJR.COM</strong></font></p>
+                      <p align="center"><a href="http://americajr.com/advertising/advertising.html"><img src="http://americajr.com/advertising/revenue.jpg" width="130" height="100" border="1"></a></p>
+                      <p align="center"><a href="http://www.plymouthwhalers.com/"><img src="http://americajr.com/contests/plymouth.jpg" width="130" height="100" border="1"></a>&nbsp;</p>
+                      <p align="center">&nbsp; 
+                        <script type="text/javascript"><!--
+google_ad_client = "pub-5687715704020510";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "B0E0E6";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "336699";
+google_color_text = "333333";
+//--></script>
+                        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                      </p>
+                    </div></td>
+                </tr>
+              </tbody></table>
+            </p></td>
+          </tr>
+          <tr> 
+            <td height="19" bgcolor="#0066FF"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFF00">SEND 
+              IN YOUR QUESTIONS...</font></b></td>
+          </tr>
+          <tr> 
+            <td height="541" valign="top"> <table width="99%" border="0">
+                <tbody><tr> 
+                  <td width="61%" height="270"> <p><font face="Arial, Helvetica, sans-serif"><strong>GOT 
+                      AN ENVIRONMENTAL QUESTION?</strong> Send it to: EarthTalk, 
+                      c/o E/The Environmental Magazine, P.O. Box 5098, Westport, 
+                      CT 06881; submit it at: <a href="http://www.emagazine.com/earthtalk/thisweek/">www.emagazine.com/earthtalk/thisweek/</a>, 
+                      or e-mail: <a href="mailto:earthtalk@emagazine.com">earthtalk@emagazine.com</a>. 
+                      Read past columns at: <a href="http://www.emagazine.com/earthtalk/archives.php">www.emagazine.com/earthtalk/archives.php</a>.</font></p></td>
+                  <td width="39%" valign="top"><p align="center">&nbsp;</p>
+                    <form method="get" action="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx" style="margin: 0;" onsubmit="javascript:if(this.s_rawwords.value == 'e.g., registered nurse')this.s_rawwords.value='';javascript:if(this.s_freeloc.value == 'City, State or Zip')this.s_freeloc.value='';">
+                      <div align="center"> 
+                        <input type="hidden" name="lr2" value="cbajr">
+                        <input type="hidden" name="siteid2" value="ajr003np02">
+                        <input type="hidden" name="use2" value="all">
+                        <table width="160" height="200" border="0" cellpadding="0" cellspacing="0" bgcolor="#ff6600">
+                          <tbody><tr> 
+                            <td style="padding: 3px 0px 5px 8px; font: bold  22px arial; color: #ff6;">Find 
+                              a Job</td>
+                          </tr>
+                          <tr> 
+                            <td style="padding: 4px 0px 2px 8px;font: bold 14px arial; color: #fff;">Keywords:</td>
+                          </tr>
+                          <tr> 
+                            <td style="padding: 0px 0px 1px 8px;"><input type="text" name="s_rawwords2" id="s_rawwords2" style="width:146px;font-size: 9px;" value="e.g., registered nurse" onclick="javascript:if(this.value == 'e.g., registered nurse')this.value='';"> 
+                            </td>
+                          </tr>
+                          <tr> 
+                            <td style="padding: 0px 0px 2px 8px;font: bold 14px arial; color: #fff;">Location:</td>
+                          </tr>
+                          <tr> 
+                            <td style="padding: 0px 0px 2px 8px ;"><input type="text" name="s_freeloc2" id="s_freeloc2" style="width:146px;font-size: 9px;" value="Detroit, MI" onclick="javascript:if(this.value == 'City, State or Zip')this.value='';"> 
+                            </td>
+                          </tr>
+                          <tr> 
+                            <td style="padding: 0px 0px 2px 8px;font: bold 14px arial; color: #fff;">Job 
+                              category:</td>
+                          </tr>
+                          <tr> 
+                            <td style="padding: 0px 0px 2px 8px ;"><select name="select" id="select" style="width:146px;font-size: 9px;">
+                                <option value="ALL">- Select a Category -</option>
+                                <option value="jn001">Accounting</option>
+                                <option value="jn002">Admin &amp; Clerical</option>
+                                <option value="jn054">Automotive</option>
+                                <option value="jn038">Banking</option>
+                                <option value="jn053">Biotech</option>
+                                <option value="jn019">Business Development</option>
+                                <option value="jn059">Business Opportunity</option>
+                                <option value="jn043">Construction</option>
+                                <option value="jn020">Consultant</option>
+                                <option value="jn003">Customer Service</option>
+                                <option value="jn021">Design</option>
+                                <option value="jn027">Distribution - Shipping</option>
+                                <option value="jn031">Education</option>
+                                <option value="jn004">Engineering</option>
+                                <option value="jn022">Entry Level</option>
+                                <option value="jn018">Executive</option>
+                                <option value="jn017">Facilities</option>
+                                <option value="jn005">Finance</option>
+                                <option value="jn060">Franchise</option>
+                                <option value="jn006">General Business</option>
+                                <option value="jn051">General Labor</option>
+                                <option value="jn046">Government</option>
+                                <option value="jn055">Grocery</option>
+                                <option value="jn023">Health Care</option>
+                                <option value="jn040">Hospitality - Hotel</option>
+                                <option value="jn007">Human Resources</option>
+                                <option value="jn008">Information Technology</option>
+                                <option value="jn056">Installation - Maint - Repair</option>
+                                <option value="jn034">Insurance</option>
+                                <option value="jn015">Inventory</option>
+                                <option value="jn030">Legal</option>
+                                <option value="jn041">Legal Admin</option>
+                                <option value="jn037">Management</option>
+                                <option value="jn029">Manufacturing</option>
+                                <option value="jn009">Marketing</option>
+                                <option value="jn047">Media - Journalism - Newspaper</option>
+                                <option value="jn058">Nonprofit - Social Services</option>
+                                <option value="jn050">Nurse</option>
+                                <option value="jn010">Other</option>
+                                <option value="jn049">Pharmaceutical</option>
+                                <option value="jn024">Professional Services</option>
+                                <option value="jn016">Purchasing - Procurement</option>
+                                <option value="jn025">QA - Quality Control</option>
+                                <option value="jn057">Real Estate</option>
+                                <option value="jn026">Research</option>
+                                <option value="jn035">Restaurant - Food Service</option>
+                                <option value="jn033">Retail</option>
+                                <option value="jn011">Sales</option>
+                                <option value="jn012">Science</option>
+                                <option value="jn013">Skilled Labor - Trades</option>
+                                <option value="jn028">Strategy - Planning</option>
+                                <option value="jn014">Supply Chain</option>
+                                <option value="jn048">Telecommunications</option>
+                                <option value="jn032">Training</option>
+                                <option value="jn044">Transportation</option>
+                                <option value="jn045">Warehouse</option>
+                              </select></td>
+                          </tr>
+                          <tr> 
+                            <td style="padding-left: 6px;"><table border="0" cellpadding="0" cellspacing="0">
+                                <tbody><tr> 
+                                  <td valign="top" style="padding-top: 6px;"><a href="http://www.careerbuilder.com/?lr=cbajr&amp;siteid=cbajr003np02" target="_blank"><img src="http://img.icbdr.com/images/plink/images/cbLogo.gif" border="0"></a></td>
+                                  <td style="padding-top: 4px;"><input name="image2" type="image" src="http://img.icbdr.com/images/plink/images/btnSearch.gif"></td>
+                                </tr>
+                              </tbody></table></td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    </form>
+                    <div align="center">&nbsp; 
+                      <p></p>
+                    </div></td>
+                </tr>
+              </tbody></table>
+              <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><font color="#FF0000">&gt;&gt; 
+                </font><a href="http://americajr.com/homepage.html">Bookmark This 
+                Site Now!</a></strong></font><font color="#FF0000"><strong> &lt;&lt;</strong></font> 
+              </p><p align="center"> 
+                <!--- XSPP/doteasy.com Tell-A-Friend script starts.  Please do not modify --->
+                <script language="JavaScript"><!--
+document.write('<script language="JavaScript" src="http://tellafriend01.xspp.com/TellAFriend.php?xsppTFid=HHHSJ747L842,' + Math.random() + ',2"><\/script>');
+//--></script>
+              </p><div align="center" id="HHHSJ747L842_div" name="HHHSJ747L842_div"><a href="http://www.doteasy.com" id="HHHSJ747L842_a" name="HHHSJ747L842_a"><img src="http://tellafriend01.xspp.com/logo.php?xsppRSlogo=VDAIENKJEO" id="HHHSJ747L842_img" name="HHHSJ747L842_img" border="0" alt="doteasy.com - free web hosting. Free hosting with no banners."></a></div>
+              <div align="center"> 
+                <noscript>
+                </noscript>
+              </div>
+              <noscript>
+              <div align="center" style="font-family:arial,helvetica;font-size=10px;">please 
+                enable browser's Javascript to use the Tell-A-Friend tool.<br>
+                Powered by <a href="http://www.doteasy.com" id="HHHSJ747L842_a" name="HHHSJ747L842_a"><img src="http://tellafriend01.xspp.com/logo.php?xsppRSlogo=VDAIENKJEO" id="HHHSJ747L842_img" name="HHHSJ747L842_img" border="0" alt="doteasy.com - free web hosting. Free hosting with no banners."></a></div>
+              </noscript> 
+              <!--- XSPP/doteasy.com Tell-A-Friend script ends. See www.doteasy.com for info. --->
+              &nbsp;</td>
+          </tr>
+        </tbody></table>
+        
+      </div>
+      <center>
+        <p>
+          <!-- SiteSearch Google -->
+        </p><form method="get" action="http://www.google.com/custom" target="_top">
+          <div align="center"> 
+            <table border="0" bgcolor="#ffffff">
+              <tbody><tr> 
+                <td nowrap valign="top" align="left" height="32"> <a href="http://www.google.com/"> 
+                  <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google"></a> </td>
+                <td nowrap> <input type="hidden" name="domains" value="www.americajr.com"> 
+                  <input type="text" name="q" size="31" maxlength="255" value=""> 
+                  <input type="submit" name="sa" value="Search"> </td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+                <td nowrap> <table>
+                    <tbody><tr> 
+                      <td> <input type="radio" name="sitesearch" value="" checked> 
+                        <font size="-1" color="#000000">Web</font> </td>
+                      <td> <input type="radio" name="sitesearch" value="www.americajr.com"> 
+                        <font size="-1" color="#000000">AmericaJR.com</font> </td>
+                    </tr>
+                  </tbody></table>
+                  <input type="hidden" name="client" value="pub-5687715704020510"> 
+                  <input type="hidden" name="forid" value="1"> <input type="hidden" name="ie" value="ISO-8859-1"> 
+                  <input type="hidden" name="oe" value="ISO-8859-1"> <input type="hidden" name="cof" value="GALT:#0066CC;GL:1;DIV:#999999;VLC:336633;AH:center;BGC:FFFFFF;LBGC:FF9900;ALC:0066CC;LC:0066CC;T:000000;GFNT:666666;GIMP:666666;LH:45;LW:100;L:http://www.americajr.com/americajr100.jpg;S:http://www.americajr.com/;LP:1;FORID:1;"> 
+                  <input type="hidden" name="hl" value="en"> </td>
+              </tr>
+            </tbody></table>
+          </div>
+        </form>
+        <div align="center"> 
+          <!-- SiteSearch Google -->
+        </div>
+        <p align="center">&nbsp;</p>
+        <p align="center"><font face="Times New Roman, Times, serif" size="4">BACK 
+          TO THE <a href="http://www.americajr.com/">AMERICAJR ONLINE</a> HOMEPAGE</font></p>
+        <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Copyright 
+          © 2007 <a href="mailto:AmericaJR@yahoo.com">AmericaJR.com</a>. 
+          All Rights Reserved.</font><font size="2"><br>
+          <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><i>Unauthorized 
+          duplication or use of Text, Site Template, Graphics and or Site Design 
+          is Prohibited by Federal and International laws. See our <a href="http://geocities.com/americajr/noticeindex.html">Notice/Disclaimer</a> 
+          and <a href="http://americajr.com/privacypolicy.html">Privacy Policy</a>.</i></font></font></p>
+      </center>
+      </td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#000000">
+  <tbody><tr> 
+    <td> <div align="center"><b><font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="2">AMERICAJR 
+        NETWORK :: <a href="http://coachscornerproshop.com/"><font color="#FFFF00">COACH'S 
+        CORNER PRO SHOP</font></a> :: <a href="http://sandcreekrecords.com/"><font color="#FFFF00">SAND 
+        CREEK RECORDS</font></a> :: <a href="http://www.lifemadeeasyprograms.com/"><font color="#FFFF00">LIFE 
+        MADE EASY</font></a></font></b></div></td>
+  </tr>
+</tbody></table>
+</body></html>

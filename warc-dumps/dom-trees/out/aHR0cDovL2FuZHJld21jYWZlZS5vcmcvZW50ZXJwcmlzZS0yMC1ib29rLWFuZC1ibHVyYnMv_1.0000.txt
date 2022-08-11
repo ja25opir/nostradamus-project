@@ -1,0 +1,481 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Enterprise 2.0: The Book and the Blurbs</title>
+<meta name="robots" content="noodp, noydir">
+<meta name="description" content="My book Enterprise 2.0: New Collaborative Tools for Your Organization’s Toughest Challenges will be published this fall by Harvard Business Publishing. It represents the culmination of research I’ve been doing since the spring of 2006, when I coined the phrase">
+<link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/style.css?071610-11944" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/custom/layout.css?081610-94522" type="text/css" media="screen, projection">
+<!--[if lte IE 8]><link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/lib/css/ie.css?071610-11933" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/custom/custom.css?082310-133131" type="text/css" media="screen, projection">
+<link rel="canonical" href="http://andrewmcafee.org/enterprise-20-book-and-blurbs/">
+<link rel="alternate" type="application/rss+xml" title="Andrew McAfee's Blog RSS Feed" href="http://andrewmcafee.org/feed/">
+<link rel="pingback" href="http://andrewmcafee.org/xmlrpc.php">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://andrewmcafee.org/xmlrpc.php?rsd">
+				
+	<!-- Google Analytics for WordPress by Yoast v4.0 | http://yoast.com/wordpress/google-analytics/ -->
+	<script type="text/javascript">//<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-7140989-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+	<!-- End of Google Analytics for WordPress by Yoast v4.0 -->
+<link rel="alternate" type="application/rss+xml" title="Andrew McAfee's Blog » Enterprise 2.0: The Book and the Blurbs Comments Feed" href="http://andrewmcafee.org/enterprise-20-book-and-blurbs/feed/">
+<link rel="stylesheet" href="http://disqus.com/stylesheets/andrewmcafee/disqus.css?v=2.0" type="text/css" media="screen"><link rel="shortcut icon" href="http://andrewmcafee.org/favicon.ico" type="image/x-icon"><!-- Favi -->
+</head>
+<body class="custom enterprise-20-book-and-blurbs">
+<div id="header_area" class="full_width">
+<div class="page">
+	<div id="header">
+  <a href="http://andrewmcafee.org/" id="photo">Photo of Andrew McAfee</a>  
+  <form method="get" id="searchform" action="http://andrewmcafee.org/"> 
+    <input type="text" id="query" value="" name="s">
+    <button type="submit" id="submit" name="submit">Search</button>
+  </form>
+  <div id="headlinks"> 
+    <ul style="align:right;" id="nav">
+      <li id="menu_home"><a href="/">Home</a></li>
+      <li id="menu_blog"><a href="/blog/">Blog</a></li> 
+      <li id="menu_about"><a href="/about/">About</a></li> 
+  		<li id="menu_rss"><a href="http://andrewmcafee.org/feed/">RSS</a></li> 
+  	</ul> 
+  </div>
+		<p id="logo"><a href="http://andrewmcafee.org">Andrew McAfee's Blog</a></p>
+		<p id="tagline">The Business Impact of IT</p>
+	</div>
+</div>
+</div>
+<div id="content_area" class="full_width">
+<div class="page">
+	<div id="content_box">
+		<div id="content">
+
+			<div class="post_box top" id="post-1066">
+				<div class="headline_area">
+  <div style="float:right;margin:0 10px 10px 10px;">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  </div>
+					<h1>Enterprise 2.0: The Book and the Blurbs</h1>
+				</div>
+				<div class="format_text">
+<p><a href="http://www.amazon.com/gp/product/1422125874?ie=UTF8&amp;tag=andmcaswebsit-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1422125874"><img src="http://andrewmcafee.org/wp-content/uploads/2009/08/51nANsxCKcL._SL160_3.jpg" border="4" alt=""></a>My book <em><a href="http://www.amazon.com/gp/product/1422125874?ie=UTF8&amp;tag=andmcaswebsit-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1422125874">Enterprise 2.0: New Collaborative Tools for Your Organization’s Toughest Challenges</a><img style="border:none !important; margin:0px !important;" src="http://www.assoc-amazon.com/e/ir?t=andmcaswebsit-20&amp;l=as2&amp;o=1&amp;a=1422125874" border="0" alt="" width="1" height="1"></em> will be published this fall by <a href="http://harvardbusiness.org/?cm_mmc=google-_-Brand+-+Harvard+Business-_-harvard+business+press-_-Broad|-|100000000000000007516&amp;cm_guid=1-_-100000000000000007516-_-3797450325">Harvard Business Publishing</a>. It represents the culmination of research I’ve been doing since the spring of 2006, when I coined the phrase “Enterprise 2.0″ in a <a href="http://sloanreview.mit.edu/"><em>Sloan Management Review</em></a> <a href="http://sloanreview.mit.edu/the-magazine/articles/2006/spring/47306/enterprise-the-dawn-of-emergent-collaboration/">article</a> and started a <a href="http://andrewmcafee.org/blog/">blog</a>. The book is about the business use and business impact of emergent social software platforms (ESSPs). These technologies, which include wikis, blogs, prediction markets, Facebook, and Twitter, have given rise to Web 2.0. <em>Enterprise 2.0</em> relates how ESSPs are now being used within and between organizations, and are delivering novel capabilities and powerful results.</p>
+<blockquote><p><strong>With Enterprise 2.0, Andrew  McAfee has identified a truly disruptive innovation. If you want to  profit from it, read this book.</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.claytonchristensen.com/"><strong>Clayton Christensen</strong></a>, Robert and Jane Cizik Professor of Business Administration    at the Harvard Business School, and author of <a href="http://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Essentials/dp/0060521996"><em>The Innovator’s Dilemma</em></a></p>
+<p><strong>We are on the cusp of a management  revolution that is likely to be as profound and unsettling as the one  that gave birth to the modern industrial age.</strong> Driven by the emergence  of powerful new collaborative technologies, this transformation will  radically reshape the nature of work, the boundaries of the enterprise,  and the responsibilites of business leaders. &nbsp;In Enterprise 2.0, Andrew  McAfee delivers essential insights into the critical and fast-changing  interface between IT and the organization. &nbsp;<strong>If you’re intent on positioning  your business for the future, and would rather lead than follow, you  need to read this book.</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.garyhamel.com/"><strong>Gary Hamel</strong></a>, author    of <a href="http://www.amazon.com/Leading-Revolution-Gary-Hamel/dp/0452283248"><em>Leading the Revolution</em></a> and <a href="http://www.amazon.com/Competing-Future-Gary-Hamel/dp/0875847161"><em>Competing for the Future</em></a></p>
+<p>As businesses and organizations leverage the power of networked Web 2.0 technologies, we will see companies and countries drive the next significant phase of Internet productivity. <strong>In <em>Enterprise 2.0</em>, McAfee articulates both the opportunities and the challenges ahead of us that will require a shift in thinking as well as new business models.</strong> This book is a valuable resource that underlines the importance of staying ahead of this market transition or risk missing the opportunity to capture the power of collaboration, new innovations and operational efficiencies.</p>
+<p style="padding-left: 30px;"><a href="http://newsroom.cisco.com/dlls/execs/chambers-john.html">John Chambers</a>, CEO of Cisco</p>
+</blockquote>
+<h2><strong>Contents</strong></h2>
+<p>The book is divided into two parts: part I explains what Enterprise 2.0 is and why it’s valuable, while part II offers guidance for managers about how to deploy the new tools and practices of collaboration successfully.</p>
+<p>Chapter 2 kicks off part I by presenting four recent case studies of organizations facing familiar challenges; these case studies are not resolved in the chapter, but instead left hanging. Chapter 3 then takes a short step backward in time to describe how a group of new collaborative technologies and communities appeared on the Internet over the past few years. Chapter 4then returns to the case studies, discussing how each of the organizations adopted the new technologies and collaborative greatly from them. This chapter also places the case studies within a broader framework that illustrates the value of Enterprise 2.0 for four different categories of user: strongly tied colleagues (in other words close ones), weakly tied colleagues, potential collaborators who are not yet working together, and “professional strangers.” Chapter 5 concludes part I by discussing the concrete business benefits provided by successful Enterprise 2.0 deployments.</p>
+<p>Part II explains how to successfully apply the new technologies of collaboration and the work practices that make use of them. Chapter 6 begins by listing the most common concerns that deter organizations and their leaders from embarking on an Enterprise 2.0 effort. Chapter 7 offers both technologists and general managers guidelines for overcoming these concerns and succeeding in the use of Enterprise 2.0 initiatives. Chapter 8 concludes the book by making some grounded projections about the future of collaborative work, taking into account both the largest threats and the greatest opportunities associated with the tools now available.</p>
+<blockquote><p><strong>Andrew McAfee is the king of  Enterprise 2.0. He’s written a book that is low on hype and high on  business value. There is much to gain from exploring these participative  technologies, and little to fear.</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.tomdavenport.com/"><strong>Thomas H. Davenport</strong></a>,    President’s Distinguished Professor of IT and Management, Babson College,    and co-author of <a href="http://www.amazon.com/Competing-Analytics-New-Science-Winning/dp/1422103323"><em>Competing on Analytics</em></a></p>
+<p>Andrew<strong> McAfee coined the term  Enterprise 2.0 to describe a phenomenon that has changed the way the  world does business. Now, he takes it a step further. Whether</strong> your firm  is already deeply embedded in Enterprise 2.0 or you are trying to communicate  its value to your staff and your customers, <strong>you will soon wear out this  book by repeatedly referring to its thoughtful descriptions, advice,  and insights.</strong></p>
+<p style="padding-left: 30px;"><a href="http://runningahospital.blogspot.com/"><strong>Paul F. Levy</strong></a>, President    and CEO, Beth Israel Deaconess Medical Center</p>
+</blockquote>
+<h2><strong>Availability</strong></h2>
+<p><em>Enterprise 2.0</em> will be available in late November (a <a href="http://andrewmcafee.org/2009/07/release-the-enterprise-2/">grassroots effort</a> to get it released sooner ran up against the stern realities of the publisher’s editorial calendar and other titles). It will be available on the <a href="http://www.google.com/aclk?sa=L&amp;ai=Cs8NRA514Som7HteZlQePhZSMBoWKgXT9p8q6DPeku-oqCAAQASC2VFCuo6umBmDJlu6IhKTsD8gBAaoEGU_Q7BsmUIWkk5pPXKk8z82jRW4L-FPU9e8&amp;ggladgrp=4119556516232147530&amp;gglcreat=15792973868432853077&amp;sig=AGiWqtwN8eP4PLdH2H16Ki0HODQU829-7g&amp;q=http://www.amazon.com/dp/B00154JDAI/%3Ftag%3Dgooghydr-20%26hvadid%3D3254144061%26ref%3Dpd_sl_177pa6cuyf_e">Kindle</a>, and perhaps on other ebook readers as well.</p>
+<blockquote><p><strong>Web 2.0 has opened a new frontier for coordinating work, presaging a revolution in innovation and productivity. Andrew McAfee’s book provides the best guide yet to this new terrain.&nbsp; The wise executive will master it before the competition does.</strong></p>
+<p style="padding-left: 30px;"><a href="http://ebusiness.mit.edu/erik/"><strong>Erik Brynjolfsson</strong></a>, Schussel Family Professor at the MIT Sloan School of Management, director  of the MIT <a href="http://ebusiness.mit.edu/">Center for Digital Business</a>, and Co-author of <a href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11848"><em>Wired for  Innovation</em></a></p>
+<p><strong>Technology continues to increase  transparency and visibility into companies’ business decisions, enabling  transformation and driving competitive advantage. McAfee clearly understands  the role of IT to create superior customer value.</strong> His straightforward  approach and the frameworks presented in this book will help organizations  derive maximum value from their investments.</p>
+<p style="padding-left: 30px;"><a href="http://www.charlierose.com/view/content/9901"><strong>Leo Apotheker</strong></a>, CEO,    SAP AG</p>
+</blockquote>
+<h2><strong>Chapter Downloads </strong></h2>
+<p>The book’s <a href="http://reg.accelacomm.com/servlet/Frs.frs?Context=LOGENTRY&amp;Source=MCAFEE&amp;Source_BC=72&amp;Script=/LP/50492064/reg&amp;">first chapter is now available for download</a> from the HBP Web site (registration required). I am told that other chapters might also become available for download later this year.</p>
+<blockquote><p><strong>McAfee combines enlightening  anecdotes with in-depth case studies and sensible recommendations on  how to think about and use Web 2.0 technologies in organizations. This  book will persuade anyone skeptical of the value of Enterprise 2.0.</strong></p>
+<p style="padding-left: 30px;"><a href="http://domino.watson.ibm.com/cambridge/research.nsf/pages/irene_greif.html"><strong>Irene Greif</strong></a>, Director, Collaborative  User Experience, IBM</p>
+<p><strong>This is an intensely practical  book on what the Web 2.0 Revolution is and what it means to managers.</strong> Highly readable, it succinctly describes the new web 2.0 technologies,  what capabilities they can bring to an organization and their challenges  of implementation. <strong>Whether or not you are familiar with Web 2.0, this  book is a mandatory read.</strong></p>
+<p style="padding-left: 30px;"><strong><a href="http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=bio&amp;facEmId=fmcfarlan">F. Warren McFarlan</a></strong>,    Albert H. Gordon Professor of Business Administration, Emeritus, Harvard    Business School</p>
+</blockquote>
+<h2><strong>Related Information</strong></h2>
+<p>I’m working on an article about Enterprise 2.0 for the November 2009 issue of <a href="http://hbr.harvardbusiness.org/"><em>Harvard Business Review</em></a>, and also continuing to <a href="http://andrewmcafee.org/blog/">blog</a> on the topic.</p>
+<blockquote><p><strong>Professor McAfee has written an important book for the true “silent majority”—the hundreds of millions of workers globally who have had expensive technology dumped on their desks. Here he shows how non-IT managers can leverage the new wave of free, collaborative software that they actually enjoy using.</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.amrresearch.com/AboutUs/AnalystsDetails.aspx?AuthorID=tcm:7-13963"><strong>Bruce Richardson</strong></a>, Chief Research  Officer, AMR Research</p>
+<p><strong>Andrew McAfee spotted and shaped  the trend toward Enterprise 2.0 early on</strong>, and shows a clear perspective  on where value will be created as this new wave of technology applications  changes some of the longstanding rules of business. &nbsp;<strong>He very effectively  keeps the focus not on the technologies themsleves but rather on the  implications for how executives will run their businesses in the future.</strong> The insights from his fieldwork provide today’s business leaders with  a pragmatic view of the opportunities and challenges these trends and  technologies will create for their organizations.</p>
+<p style="padding-left: 30px;"><a href="http://whatmatters.mckinseydigital.com/author/Jacques+Bughin,+James+Manyika,+and+Roger+Roberts/"><strong>Roger Roberts</strong></a>, Partner, McKinsey and  Company and leader of McKinsey’s Business Technology Strategy service  line in North America.</p>
+<p><strong>Afraid of anything and everything 2.0? This is the book for you. </strong>McAfee captures why it matters – and highlights case studies that demonstrate how you can make collaboration work for you. And I love that a government example is among the case studies. It is <strong>a must read for those looking to build their sea legs for the changing times ahead.</strong></p>
+<p><a href="http://www.federalnewsradio.com/?nid=149"><strong>Chris Dorobek</strong></a>, co-host of “<a href="http://www.federalnewsradio.com/index.php?nid=18&amp;sid=1553778">The Daily Debrief”</a> on federalnewsradio.com and former editor-in-chief of Federal Computer Week.</p></blockquote>
+				</div>
+			</div>
+
+<div id="disqus_thread">
+				<div id="comments">
+				<div id="comments_intro" class="comments_intro">
+					<p><span class="bracket">{</span> <span>17</span> comments… read them below or <a href="#respond" rel="nofollow">add one</a> <span class="bracket">}</span></p>
+				</div>
+
+				<dl id="comment_list">
+					<dt class="comment even thread-even depth-1" id="comment-18779">
+<span class="avatar"><img alt="" src="http://0.gravatar.com/avatar/c9399c60d58939bfe88dff0f6f93d4a0?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">jbholston</span>
+<span class="comment_time"><a href="#comment-18779" title="Permalink to this comment" rel="nofollow">September 10, 2009 at 5:29 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-18779">
+<p>Andy, where can we pre-order?</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-18859">
+<span class="avatar"><a href="http://best-free-ebooks-library.blogspot.com/" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/67af1e79b5e101804627670f00a27b44?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://best-free-ebooks-library.blogspot.com/" rel="external nofollow" class="url">Free eBooks</a></span>
+<span class="comment_time"><a href="#comment-18859" title="Permalink to this comment" rel="nofollow">September 26, 2009 at 5:03 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-18859">
+<p>is this book really nice</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19034">
+<span class="avatar"><img alt="" src="http://0.gravatar.com/avatar/e233051f3ce3acfa4a7be1d46492766a?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">drthakur</span>
+<span class="comment_time"><a href="#comment-19034" title="Permalink to this comment" rel="nofollow">November 10, 2009 at 3:58 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-19034">
+<p>Being from a Service IT company, we interact with clients from multiple business domains (aero, life sciences, travel, retail, manufacturing, to mention only a few) and although most of our clients are pretty tech-savvy, they are more excited about the business problems our IT solutions will address, than about the technologies we use to address them. Looking forward to reading the rest of your book.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19193">
+<span class="avatar"><a href="http://twitter.com/Cathjanson" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/Cathjanson" rel="external nofollow" class="url">Catherine Janson</a></span>
+<span class="comment_time"><a href="#comment-19193" title="Permalink to this comment" rel="nofollow">December 9, 2009 at 7:40 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-19193">
+<p>Your book is just excellent. I am a Norwegian project manager for making a big international consultant company a 2.0 enterprise and the challenges are lining up.</p>
+<p>You are explaining your view in a an easy and brilliant way. Had a reading for top management yesterday on the story about the blogging assignment for the executive management in one of your classes. It's so great and really makes people think. Using the humour on your own resistance to web 2.0 is another of my favourites. Skinheads got a new meaning to me for ever!</p>
+<p>My focus is mainly on change mangement. Just read the first 80 pages. Looking forward to reading the rest and to get your insight in my top topic. </p>
+<p>Thank you for sharing and writing such a good book.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19217">
+<span class="avatar"><img alt="" src="http://1.gravatar.com/avatar/354952c1a79f20ea94a1b033d59e56cd?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">macfee</span>
+<span class="comment_time"><a href="#comment-19217" title="Permalink to this comment" rel="nofollow">December 12, 2009 at 4:28 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-19217">
+<p><a href="http://www.macfee.org" rel="nofollow">http://www.macfee.org</a></p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19371">
+<span class="avatar"><img alt="" src="http://1.gravatar.com/avatar/fabaedbaa619d08eac79c5bb88ed86bb?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">piotrmacieja</span>
+<span class="comment_time"><a href="#comment-19371" title="Permalink to this comment" rel="nofollow">January 5, 2010 at 2:16 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-19371">
+<p>Excellent book, indeed. Smooth reading, interesting cases and examples of implementations.</p>
+<p>I liked very much the description of E2.0 technologies in the context of ties, as well as a very practical and in-depth description of potential obstacles on the road to become E2.0 organization. I find the book very practical. </p>
+<p>I am Polish, working at a company introducing SaaS solutions in the Central and Eastern Europe. We are now contemplating introducing some technologies internally e.g. corporate wiki, so the book is going to be helpful with the discussions and the implementation.</p>
+<p>Looking forward to reading your next book soon!</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19386">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-19386" title="Permalink to this comment" rel="nofollow">January 7, 2010 at 12:21 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-19386">
+<p>Thank you for the kind words – they make an author feel good!</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19544">
+<span class="avatar"><a href="http://twitter.com/damra_muminovic" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/damra_muminovic" rel="external nofollow" class="url">Damra Muminovic</a></span>
+<span class="comment_time"><a href="#comment-19544" title="Permalink to this comment" rel="nofollow">February 14, 2010 at 2:34 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-19544">
+<p>Read the book over Christmass holidays. Summary:</p>
+<p>+ good introduction for a manager novice to Enterprise 2.0<br>+ interesting ROI-approach</p>
+<p>- nothing new for Enterprise 2.0-enlighted reader. dissapointed.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19586">
+<span class="avatar"><img alt="" src="http://0.gravatar.com/avatar/6fb300e4b18d539635958caee63723b6?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">henrysinger</span>
+<span class="comment_time"><a href="#comment-19586" title="Permalink to this comment" rel="nofollow">February 25, 2010 at 8:24 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-19586">
+<p>Enjoying the book so far.</p>
+<p>I think that it is somewhat ironic that Linneaus' taxonomy is referenced as it is under attack as failing to account for the genetic relationship of living things, being that it is primarily based upon morphology as the basis for the classification.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19661">
+<span class="avatar"><img alt="" src="http://1.gravatar.com/avatar/b4f2e3f5ecfe71492de80a6b2bc0f67e?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">chrishewitt63</span>
+<span class="comment_time"><a href="#comment-19661" title="Permalink to this comment" rel="nofollow">March 8, 2010 at 1:57 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-19661">
+<p>I joined an intranet professional group on LinkedIn and one of the discussion threads was around intranet governance. Sadly, most professionals still talk about very traditional command and control models. I talked about the emergence of Enterprise 2.0 and the response was that my view was 'extreme'. Perhaps you might want to take a look and comment if you want to help corporate communicators to think out of the box, particularly when they are expending a great deal of time thinking about governance issues!</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19749">
+<span class="avatar"><a href="http://twitter.com/bonniecheuk" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/bonniecheuk" rel="external nofollow" class="url">bonnie cheuk</a></span>
+<span class="comment_time"><a href="#comment-19749" title="Permalink to this comment" rel="nofollow">March 28, 2010 at 3:08 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-19749">
+<p>Andrew, I just finished your new book within 2 days. Love it. I especially like the challenges you point out in the last chapter. I am both a researcher and a practitioner in this area. My experience is telling me that aligning with business process/work process is key in terms of driving user-generated content in the workplace. I have attached here a recent exciting examples how I have introduced Web2.0 tools to support the development of a new business strategy for my company. It has made cover story in the recent issue of Inside Knowledge Magazine. <br><a href="http://bonniecheuk.blogspot.com/2010/03/applying-km-approaches-and-intranet20.html" rel="nofollow"></a><a href="http://bonniecheuk.blogspot.com/2010/03/applyin.." rel="nofollow">http://bonniecheuk.blogspot.com/2010/03/applyin..</a>.</p>
+<p>In this case study, I align the use of E2.0 closely with the work process in developing the strategy, I work closely with the senior leaders, I coach them to allow dissent (and I call this Leadership 2.0 which I think address your challenges you mentioned in the book). </p>
+<p>In other cases when voluntary contribution is called for, I noted our staff are busy, with a workforce of 3300 people, only 50 – 100 staff will actively contribute on a voluntary basis (and this rate has done up from 10 – 30 people 3 years ago). This is not enough for to allow emergence.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19750">
+<span class="avatar"><a href="http://twitter.com/bonniecheuk" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/bonniecheuk" rel="external nofollow" class="url">bonnie cheuk</a></span>
+<span class="comment_time"><a href="#comment-19750" title="Permalink to this comment" rel="nofollow">March 28, 2010 at 3:08 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-19750">
+<p>Andrew, I just finished your new book within 2 days. Love it. I especially like the challenges you point out in the last chapter. I am both a researcher and a practitioner in this area. My experience is telling me that aligning with business process/work process is key in terms of driving user-generated content in the workplace. I have attached here a recent exciting examples how I have introduced Web2.0 tools to support the development of a new business strategy for my company. It has made cover story in the recent issue of Inside Knowledge Magazine. <br><a href="http://bonniecheuk.blogspot.com/2010/03/applying-km-approaches-and-intranet20.html" rel="nofollow"></a><a href="http://bonniecheuk.blogspot.com/2010/03/applyin.." rel="nofollow">http://bonniecheuk.blogspot.com/2010/03/applyin..</a>.</p>
+<p>In this case study, I align the use of E2.0 closely with the work process in developing the strategy, I work closely with the senior leaders, I coach them to allow dissent (and I call this Leadership 2.0 which I think address your challenges you mentioned in the book). </p>
+<p>In other cases when voluntary contribution is called for, I noted our staff are busy, with a workforce of 3300 people, only 50 – 100 staff will actively contribute on a voluntary basis (and this rate has done up from 10 – 30 people 3 years ago). This is not enough for to allow emergence.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19917">
+<span class="avatar"><a href="http://twitter.com/stollerschai" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/stollerschai" rel="external nofollow" class="url">Daniel Stoller-Schai</a></span>
+<span class="comment_time"><a href="#comment-19917" title="Permalink to this comment" rel="nofollow">April 29, 2010 at 7:15 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-19917">
+<p>Enterprise 2.0 – Good starting point ro get into the topic.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20144">
+<span class="avatar"><a href="http://twitter.com/stollerschai" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/stollerschai" rel="external nofollow" class="url">Daniel Stoller-Schai</a></span>
+<span class="comment_time"><a href="#comment-20144" title="Permalink to this comment" rel="nofollow">April 29, 2010 at 1:15 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20144">
+<p>Enterprise 2.0 – Good starting point ro get into the topic.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20353">
+<span class="avatar"><a href="http://hareton.myopenid.com/" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://hareton.myopenid.com/" rel="external nofollow" class="url">samuel</a></span>
+<span class="comment_time"><a href="#comment-20353" title="Permalink to this comment" rel="nofollow">August 4, 2010 at 12:49 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20353">
+<p>All the experts whose interviews i listened to found by <a href="http://www.mp3hunting.com" rel="nofollow">http://www.mp3hunting.com</a> SE have the same conclusion that ernterpirse 2.0 has grown rapidly. current media companies should take advantage of social networks like facebook, twitter, plurk to sell products or services. human culture has changed, some people choose to communicate via social networking rather than visiting a friend’s house and call or send SMS. in the social networking site saved millions of data that can be managed by the company. how color trends are favored by young people, what services are desired by parents, until the trend clothes favored by men. all existing data in social networks, companies must be entered and interacted with them. Delighted that your book is now available. I'll check locally and get a copy or more.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20429">
+<span class="avatar"><a href="http://twitter.com/globalshiksha" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=44" class="avatar avatar-44 photo avatar-default" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/globalshiksha" rel="external nofollow" class="url">Globalshiksha</a></span>
+<span class="comment_time"><a href="#comment-20429" title="Permalink to this comment" rel="nofollow">August 24, 2010 at 12:13 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20429">
+<p>All the experts whose interviews i listened to found by <a href="http://www.mp3pa.com" rel="nofollow">http://www.mp3pa.com</a> SE have the same conclusion that ernterpirse 2.0 has grown rapidly. current media companies should take advantage of social networks like facebook, twitter, plurk to sell products or services. human culture has changed, some people choose to communicate via social networking rather than visiting a friend’s house and call or send SMS. in the social networking site saved millions of data that can be managed by the company. how color trends are favored by young people, what services are desired by parents, until the trend clothes favored by men. all existing data in social networks, companies must be entered and interacted with them. Delighted that your book is now available. I’ll check locally and get a copy or more.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20438">
+<span class="avatar"><img alt="" src="http://1.gravatar.com/avatar/d18b0c97d77615bf02dbbae974d0123c?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">Scyang</span>
+<span class="comment_time"><a href="#comment-20438" title="Permalink to this comment" rel="nofollow">August 25, 2010 at 2:14 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20438">
+<p>I just bought this book and soon will share it with my team-members at Wattminder.<br>
+Mr. McAfee’s illustrative book inspires us to become better innovators, as well as pointing out opportunities to be discovered and mined in the evolving trends of  Web 2.0 and 3.0.  The behavioral change is the tough challenge.<br>
+Thanks Andrew.<br>
+-Steve</p>
+</div>
+					</dd>
+				</dl>
+				<div id="respond">
+					<div id="respond_intro">
+						<p>Leave a Comment</p>
+					</div>
+					<form action="http://andrewmcafee.org/wp-comments-post.php" method="post" id="commentform">
+						<p><input class="text_input" type="text" name="author" id="author" value="" tabindex="1" aria-required="true"><label for="author">Name <span class="required" title="Required">*</span></label></p>
+						<p><input class="text_input" type="text" name="email" id="email" value="" tabindex="2" aria-required="true"><label for="email">E-mail <span class="required" title="Required">*</span></label></p>
+						<p><input class="text_input" type="text" name="url" id="url" value="" tabindex="3"><label for="url">Website</label></p>
+						<p class="comment_box">
+							<textarea name="comment" id="comment" tabindex="4" cols="40" rows="8"></textarea>
+						</p>
+						<p class="remove_bottom_margin">
+							<input name="submit" class="form_submit" type="submit" id="submit" tabindex="5" value="Submit">
+<input type="hidden" name="comment_post_ID" value="1066" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+					</form>
+				</div>
+				<div id="trackbacks_intro" class="comments_intro">
+					<p><span class="bracket">{</span> <span>1</span> trackback <span class="bracket">}</span></p>
+				</div>
+
+				<ul id="trackback_list">
+					<li><a href="http://andrewmcafee.org/2010/08/mcafee-mix-mission_statements0-technology-enterprise2/" rel="nofollow">We’re About to Find Out if Companies Mean What’s in Their Mission Statements</a></li>
+				</ul>
+			</div>
+</div>
+
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<script type="text/javascript">
+	var disqus_url = 'http://andrewmcafee.org/enterprise-20-book-and-blurbs/ ';
+	var disqus_identifier = '1066 http://andrewmcafee.org/?page_id=1066';
+	var disqus_container_id = 'disqus_thread';
+	var disqus_domain = 'disqus.com';
+	var disqus_shortname = 'andrewmcafee';
+	var disqus_title = "Enterprise 2.0: The Book and the Blurbs";
+		var disqus_config = function () {
+	    var config = this; // Access to the config object
+
+	    /* 
+	       All currently supported events:
+	        * preData — fires just before we request for initial data
+	        * preInit - fires after we get initial data but before we load any dependencies
+	        * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+	        * afterRender - fires when template is rendered but before we show it
+	        * onReady - everything is done
+	     */
+
+		config.callbacks.preData.push(function() {
+			// clear out the container (its filled for SEO/legacy purposes)
+			document.getElementById(disqus_container_id).innerHTML = '';
+		});
+		config.callbacks.onReady.push(function() {
+			// sync comments in the background so we don't block the page
+			DISQUS.request.get('?cf_action=sync_comments&post_id=1066');
+		});
+	};
+	var facebookXdReceiverPath = 'http://andrewmcafee.org/wp-content/plugins/disqus-comment-system/xd_receiver.htm';
+</script>
+
+<script type="text/javascript">
+	var DsqLocal = {
+		'trackbacks': [
+			{
+				'author_name':	'We’re About to Find Out if Companies Mean What’s in Their Mission Statements',
+				'author_url':	'http://andrewmcafee.org/2010/08/mcafee-mix-mission_statements0-technology-enterprise2/',
+				'date':			'08/26/2010 11:23 AM',
+				'excerpt':		'[...] Gary Hamel has been a prolific and provocative thinker about management for quite some time now, and he&amp;#8217;s pulled ...',
+				'type':			'pingback'
+			}
+		],
+		'trackback_url': 'http://andrewmcafee.org/enterprise-20-book-and-blurbs/trackback/'
+	};
+</script>
+
+<script type="text/javascript">
+(function() {
+	var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+	dsq.async = true;
+	dsq.src = 'http://' + disqus_shortname + '.' + disqus_domain + '/embed.js?pname=wordpress&pver=2.41';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+		</div>
+
+		<div id="sidebars">
+			<div id="sidebar_1" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_text" id="text-3">			<div class="textwidget"><span id="twitter"><a href="http://twitter.com/amcafee">Follow me on twitter</a></span></div>
+		</li><li class="widget widget_links" id="linkcat-9"><h3>Featured</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://andrewmcafee.org/about/">About Andrew McAfee</a></li>
+<li><a href="http://andrewmcafee.org/enterprise-20-book-and-blurbs/" title="Information and advance praise for Andrew McAfee’s book Enterprise 2.0">Enterprise 2.0: The Book and the Blurbs</a></li>
+<li><a href="http://andrewmcafee.org/media">Media Appearances</a></li>
+
+	</ul>
+</li>
+<li class="widget aktt_widget" id="twitter-tools"><h3>Twitter Feed</h3><div class="aktt_tweets">
+	<ul>
+		<li>More on #<a href="http://search.twitter.com/search?q=%23E20" class="aktt_hashtag">E20</a> from the MIX website: <a href="http://bit.ly/9buCLE" rel="nofollow">http://bit.ly/9buCLE</a> <a href="http://twitter.com/amcafee/statuses/24775113048" class="aktt_tweet_time">7 hrs ago</a></li>
+		<li>RT @<a href="http://twitter.com/rita_ferrari" class="aktt_username">rita_ferrari</a>: @<a href="http://twitter.com/amcafee" class="aktt_username">amcafee</a> Will you be sharing responses re: who runs great conferences and why? Pls. ;-) &gt;&gt; search for #<a href="http://search.twitter.com/search?q=%23andyasks" class="aktt_hashtag">andyasks</a> <a href="http://twitter.com/amcafee/statuses/24505389428" class="aktt_tweet_time">3 days ago</a></li>
+		<li>Who runs great conferences, and what makes them so good? #<a href="http://search.twitter.com/search?q=%23andyasks" class="aktt_hashtag">andyasks</a> <a href="http://twitter.com/amcafee/statuses/24503829868" class="aktt_tweet_time">3 days ago</a></li>
+		<li>Heard economist Simon Johnson speak today. Now eager to read baselinescenario.com and his book 13 bankers: <a href="http://amzn.to/buYpr3" rel="nofollow">http://amzn.to/buYpr3</a> <a href="http://twitter.com/amcafee/statuses/24502572741" class="aktt_tweet_time">3 days ago</a></li>
+		<li>RT @<a href="http://twitter.com/peepf" class="aktt_username">peepf</a>: #<a href="http://search.twitter.com/search?q=%23e2conf" class="aktt_hashtag">e2conf</a> agenda is live! Learn to leverage tech to support HR, People &amp; Performance, Customer Support, Product Dev -... <a href="http://twitter.com/amcafee/statuses/24502453746" class="aktt_tweet_time">3 days ago</a></li>
+		<li>Great follow-up to the Gov2.0 Summit by @<a href="http://twitter.com/digiphile" class="aktt_username">digiphile</a> : <a href="http://oreil.ly/dCmUHB" rel="nofollow">http://oreil.ly/dCmUHB</a>  #<a href="http://search.twitter.com/search?q=%23g2s" class="aktt_hashtag">g2s</a> <a href="http://twitter.com/amcafee/statuses/24486671175" class="aktt_tweet_time">3 days ago</a></li>
+		<li class="aktt_more_updates"><a href="http://twitter.com/amcafee">More updates...</a></li>
+</ul></div></li><li class="widget widget_killer_recent_entries" id="widget_killer_recent_entries-2">
+<h3>Recent Posts</h3>
+<ul>
+	<li><a href="http://andrewmcafee.org/2010/09/oreilly_gov20_summit_bureaucracy/" title="Click to read Gov 2.0 vs. the Beast of Bureaucracy" rel="bookmark">Gov 2.0 vs. the Beast of Bureaucracy</a></li>
+	<li><a href="http://andrewmcafee.org/2010/09/frustration_to_delight/" title="Click to read From Frustration to Delight" rel="bookmark">From Frustration to Delight</a></li>
+	<li><a href="http://andrewmcafee.org/2010/08/mcafee-mix-mission_statements0-technology-enterprise2/" title="Click to read We’re About to Find Out if Companies Mean What’s in Their Mission Statements" rel="bookmark">We’re About to Find Out if Companies Mean What’s in Their Mission Statements</a></li>
+	<li><a href="http://andrewmcafee.org/2010/08/mcafee-foldit-protein-folding-nature/" title="Click to read You Get To Know How To Fold ‘Em…" rel="bookmark">You Get To Know How To Fold ‘Em…</a></li>
+	<li><a href="http://andrewmcafee.org/2010/08/dispatch-from-techonomy/" title="Click to read Dispatch from Techonomy" rel="bookmark">Dispatch from Techonomy</a></li>
+	<li><a href="http://andrewmcafee.org/2010/07/augustine-tips-for-knowledge-workers/" title="Click to read St. Augustine’s Tips for Knowledge Workers" rel="bookmark">St. Augustine’s Tips for Knowledge Workers</a></li>
+	<li><a href="http://andrewmcafee.org/2010/07/why-is-customer-service-still-so-lousy/" title="Click to read Why is Customer Service Still So Lousy?" rel="bookmark">Why is Customer Service Still So Lousy?</a></li>
+	<li><a href="http://andrewmcafee.org/2010/07/mcafee-carr-turkle-keen-lanier-zittrain/" title="Click to read I Know I’m Not the Only Internet Optimist…" rel="bookmark">I Know I’m Not the Only Internet Optimist…</a></li>
+	<li><a href="http://andrewmcafee.org/2010/06/why-some-geeks-hate-the-ipad-so-much/" title="Click to read Why Some Geeks Hate the iPad So Much" rel="bookmark">Why Some Geeks Hate the iPad So Much</a></li>
+	<li><a href="http://andrewmcafee.org/2010/06/my-ipad-a-great-bundle-of-sticks/" title="Click to read My iPad? A Great Bundle of Sticks" rel="bookmark">My iPad? A Great Bundle of Sticks</a></li>
+</ul>
+</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="footer_area" class="full_width">
+<div class="page">
+	<div id="footer">
+  <div id="footlinks">
+  	<a href="/" title="Return to homepage">Home</a> | <a href="/about" title="About Andrew McAfee">About</a> | <a href="/feed" title="Subscribe to this blog's RSS feed">RSS</a> | <a href="/privacy-policy" title="Read my Privacy Policy">Privacy Policy + Terms &amp; Conditions</a>
+  </div>
+	<script type="text/javascript">
+	// <![CDATA[
+		var disqus_shortname = 'andrewmcafee';
+		var disqus_domain = 'disqus.com';
+		(function () {
+			var nodes = document.getElementsByTagName('span');
+			for (var i = 0, url; i < nodes.length; i++) {
+				if (nodes[i].className.indexOf('dsq-postid') != -1) {
+					nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+					url = nodes[i].parentNode.href.split('#', 1);
+					if (url.length == 1) url = url[0];
+					else url = url[1]
+					nodes[i].parentNode.href = url + '#disqus_thread';
+				}
+			}
+			var s = document.createElement('script'); s.async = true;
+			s.type = 'text/javascript';
+			s.src = 'http://' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	//]]>
+	</script>
+	</div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<div id="ie_clear"></div>
+<![endif]-->
+
+</body></html>

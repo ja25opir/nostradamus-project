@@ -1,0 +1,221 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Advanced Energy</title>
+	<link rel="stylesheet" type="text/css" href="/assets/styles/newmaster.css">
+	<link rel="stylesheet" type="text/css" media="print" href="/assets/styles/print.css">
+</head>
+
+<body>
+<table cellspacing="1" width="95%" align="center" bgcolor="#ffffff" border="0">
+	<tbody><tr>
+    	<td bgcolor="#990000" colspan="2">
+					<table cellspacing="0" width="100%" border="0">
+        		<tbody><tr>
+					<td width="158"><a href="http://www.advancedenergy.org/"><img height="96" alt="aelogo" src="/assets/images/flash/aelogo.jpg" width="159" border="0"><br></a></td>
+					<td>
+					<div align="right">
+		            <table border="0" align="right" cellpadding="2" cellspacing="0">
+	        		      <tbody><tr>
+			                <td align="center" valign="middle"><br><br><br><div class="mainheader"><a href="/corporate/">ABOUT US</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/corporate/news/">NEWS</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/corporate/contact/">CONTACT US</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/corporate/careers/">CAREERS</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/site_map.html">SITE INDEX</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
+							<td valign="top">&nbsp;
+
+							<div id="search"><br><br>
+
+							<form action="/searchpro/index.php" method="get" enctype="application/x-www-form-urlencoded" name="qs" id="qs">
+							<table border="0" align="center" cellpadding="2" cellspacing="0">
+								<tbody><tr>
+									<td valign="top"><input class="sp2_field" name="q" type="text" id="q" value="" maxlength="255" size="20"></td>
+									<td valign="top"><input type="image" name="Search" src="/assets/images/flash/search.gif" alt="Search" id="searchButton" align="middle"><img height="13" alt="space" src="/assets/images/flash/spacer.jpg" width="13">  
+								</td>
+								</tr>
+							</tbody></table>						
+							</form></div></td>
+						  </tr>
+						</tbody></table>
+					</div></td>
+				</tr>
+			</tbody></table>
+<!-- BEGIN Google Analytics Code -->
+<script src="http://www.advancedenergy.org/scripts/gatag.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-6886301-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+<!-- END Google Analytics Code -->
+		</td>
+	</tr>
+	<tr>
+    	<td colspan="2" class="topmenu">
+		<!-- begin top menu header -->
+
+			<table cellspacing="0" align="left" border="0" cellpadding="10" class="topmenu">
+				<tbody><tr>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/ci/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>COMMERCIAL AND <br>&nbsp;&nbsp;INDUSTRIAL</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/md/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>MOTORS AND DRIVES</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/buildings/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>BUILDINGS</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/transportation/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>TRANSPORTATION</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="http://www.ncgreenpower.org" target="_blank"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>N.C. GREENPOWER</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/corporate/initiatives/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>QUICK LINKS</strong></font></a></td>
+					<td width="98" bgcolor="#000000">&nbsp;</td>
+				</tr>
+			</tbody></table>
+
+<!-- end top menu header -->
+		</td>
+	 </tr>
+	 <tr>
+	 	<td width="158" valign="top" bgcolor="#000000" class="leftmenu">
+		<!-- begin Buildings left menu -->
+<!--  be sure the cellspacing for the table is set at "5" and not "1" -->
+
+<script type="text/javascript" src="/assets/includes/menus/bldgs/bldgsmenu_scr.js">
+</script>
+
+<table id="m1mainSXMenu2" cellspacing="0" cellpadding="4" style=";width:">
+<tbody><tr><td onmouseover="chgBg(m1,'m1tlm0',3);exM(m1,'m1mn1','m1tlm0',event)" onmouseout="chgBg(m1,'m1tlm0',0);coM(m1,'m1mn1')" id="m1tlm0" onmousedown="f58('m1tlm0a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm0a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/about/">ABOUT</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm1',3);exM(m1,'m1mn2','m1tlm1',event)" onmouseout="chgBg(m1,'m1tlm1',0);coM(m1,'m1mn2')" id="m1tlm1" onmousedown="f58('m1tlm1a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm1a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/services/">SERVICES</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm2',3);exM(m1,'m1mn3','m1tlm2',event)" onmouseout="chgBg(m1,'m1tlm2',0);coM(m1,'m1mn3')" id="m1tlm2" onmousedown="f58('m1tlm2a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm2a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/courses/">COURSES</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm3',3);exM(m1,'m1mn4','m1tlm3',event)" onmouseout="chgBg(m1,'m1tlm3',0);coM(m1,'m1mn4')" id="m1tlm3" onmousedown="f58('m1tlm3a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm3a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/knowledge_library/">KNOWLEDGE LIBRARY</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm4',3);exM(m1,'m1mn5','m1tlm4',event)" onmouseout="chgBg(m1,'m1tlm4',0);coM(m1,'m1mn5')" id="m1tlm4" onmousedown="f58('m1tlm4a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm4a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/programs/">PROGRAMS</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm5',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm5',0,1)" id="m1tlm5" onmousedown="f58('m1tlm5a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm5a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/newsletter/newsletter.html">NEWSLETTER</a></td><td style="text-align:right;width:8px"></td></tr></tbody></table></td>
+</tr>
+</tbody></table>
+
+
+	
+<!-- end Buildings left menu -->
+
+
+		</td>
+		<td valign="top">
+			<table>
+				<tbody><tr>
+					<td valign="top" width="80%">
+						<div id="content">
+
+						<h1>Buildings</h1>
+
+						<div id="breadcrumb">
+						<!-- begin breadcrumb includes file -->
+
+
+<p><script type="text/javascript" src="/assets/scripts/MPBackLinks.js"></script><br></p>
+
+<!-- end breadcrumb includes file -->
+						</div>
+
+						<table width="100%">
+							<tbody><tr>
+								<td valign="top" width="77%">
+								
+				<!-- start text below here -->
+
+								<p class="heading">Sizes of Heat Pumps and AC’s</p>
+                <p>by <a href="/buildings/about/specialists/arnie_katz.html">Arnie Katz</a></p>
+
+<p><a href="/buildings/about/specialists/arnie_katz.html"><img src="/assets/images/arnie.gif" border="0" width="146" height="200" align="right" hspace="20" alt="Arnie"></a></p>
+<p><strong>Q:
+
+We're getting ready to build a house, and I've decided to be my own general contractor. I put the heating and cooling out to bid to several contractors, and each one came back with a different system, ranging from two and a half tons to four tons. How do I make sure I get a system that's big enough?
+
+</strong></p>
+<p><b>A:</b> In twenty years of building houses, looking at houses, and diagnosing problems in houses, I honestly don't think I've ever run across a new house with a heating or air-conditioning system that was too small. I often see houses with systems that are too big. So I think you need to re-phrase your question a bit, and ask, "How do I make sure I get a system that is the right size? </p>
+<p>Most contractors over-size the systems in order to make sure that you will be comfortable no matter what happens outside. The one thing they don't want is to get a call at two in the morning, when it's zero degrees outside, with an angry customer on the line who's unable to get his house above 60o and his elderly mother is shivering under four blankets. </p>
+<p>In the winter, this strategy has a certain logic to it. The system will provide comfort despite the fact that the insulation isn't installed very well, the house is fairly leaky, the ducts are sealed with duct tape which will fail within a year or two, and you're such a wuss that if you have to wear a sweater inside one or two days every couple of years during record-breaking cold spells you're going to whine to the contractor. </p>
+<p>The only down side to this strategy is money. You'll pay more up-front for the bigger equipment. You'll pay more to operate it, since it usually won't run long enough to reach peak efficiency, and you'll pay to replace it sooner, since it will cycle on and off more frequently and therefore wear out faster. But this is only money, and we know you don't care about money. </p>
+<p>In the summer, however, over-sizing the air conditioner or heat pump not only costs you money — for all the reasons mentioned above — but will also result in less comfort. As re-blooded Americans, one of the things we grow up knowing, to the very core of our souls, is that bigger is always better. With this notion so strongly imbedded in our national psyche, it's very difficult for us — and for our air conditioning contractors — to accept the idea that smaller is actually better when it comes to air conditioners. </p>
+<p>The problem, as anyone who has spent more than a few days here in North Carolina knows, it's not the heat as much as it's the humidity. In order for us to get comfortable, our house needs to be both cooled and dehumidified. If the air conditioner is too big, it will cool the space without running long enough to take the moisture out of house. If we want it to run longer to dehumidify, we have to turn down the thermostat, making the house colder than we want. If the system is over-sized a lot, we wind up being cold &amp; clammy instead of cool and dry. </p>
+<p>This logic will make many contractors uncomfortable. They're thinking about the record-breaking day in August when you've got thirty people over to meet your cousin's wife who's running for County Commissioner. You, on the other hand, may rather think about the 99% of the time when you and your family simply want to be comfortable without spending a fortune. </p>
+<p>The first thing to do is to insist that the contractor base his equipment sizing on a heat loss/heat gain calculation, not on some rule-of-thumb like "one ton for every 600 square feet." The Air Conditioning Contractors Association (ACCA) publishes a procedure to do this calculation called "Manual J, " which any contractor can get. There are also computer programs based on Manual J. The key is to calculate the heat losses and gains for your particular house in your location. How much insulation are you using? </p>
+<p>How many windows, of what types, and which way are they facing? Will the ducts be inside the insulated "envelope" or outside it? How tight is the house going to be built? If all of this information isn't on the plans, and the contractor doesn't ask for it, you can cross that contractor off your list. Ask to see the calculations along with the bid, and look at them closely to make sure the information used was accurate. </p>
+<p>Many utilities will perform these load calculations for you, since they're interested in their customers being comfortable. Having the utility do this is a good way to double-check what you're getting from the contractors. </p>
+<p>Proper sizing of the equipment is, of course, only one piece of the puzzle of getting a comfortable house, at an affordable price, that's affordable to live in for years to come. Proper design and installation of the ductwork is crucial, and no system will work well in a poorly built, sloppily insulated, leaky house. </p>
+
+
+								</td><td width="3%">&nbsp;</td>
+					
+								<td width="20%" valign="top" align="left">&nbsp;
+								
+						</td>
+						</tr>
+					</tbody></table>
+					
+				<!-- end text above here -->
+					
+					</div></td>
+				</tr>
+			</tbody></table>
+			
+		</td>
+	</tr>
+
+
+
+
+
+	<tr>
+    	<td bgcolor="#990000" colspan="2">
+		<!-- BEGIN footer include -->
+
+
+
+<!--VISISTAT SNIPPET//-->
+<script type="text/javascript">var DID=13287;</script>
+<script src="http://sniff.visistat.com/sniff.js" type="text/javascript"></script>
+<!--VISISTAT SNIPPET//-->
+
+
+			<table width="100%" cellspacing="5">
+				<tbody><tr>
+					<td width="50%" valign="top" bgcolor="#990000"><div class="contact">
+					&nbsp;&nbsp;&nbsp;919 857-9000 &nbsp;&nbsp; | &nbsp;&nbsp; 800 869-8001 [toll free] &nbsp;&nbsp; | &nbsp;&nbsp; 919 832-2696 [fax]<br>
+		  			&nbsp;&nbsp;&nbsp;909 Capability Drive, Suite 2100 &nbsp;&nbsp; | &nbsp;&nbsp; Raleigh, NC 27606-3870<br>
+					</div></td>
+					<td width="50%" align="right" valign="top"><div class="contact">
+					<strong>Creating economic, environmental and societal benefits through</strong>&nbsp;&nbsp;&nbsp;<br>
+					<strong>innovative and market-based approaches to energy issues</strong>&nbsp;&nbsp;&nbsp;</div></td>
+				</tr>
+			</tbody></table>
+
+
+<!--end footer include-->
+		</td>
+	</tr>
+</tbody></table>
+
+<!-- begin copyright includes file -->
+<p>&nbsp;</p>
+
+<div id="copyright">
+
+<a href="/corporate/disclaimer.html">© Advanced Energy.</a>  All rights reserved. This material may not be copied, sold or redistributed in any form without the written permission of Advanced Energy. 
+
+<p>&nbsp;</p>
+
+</div>
+
+<!-- end copyright includes file -->
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+</body></html>

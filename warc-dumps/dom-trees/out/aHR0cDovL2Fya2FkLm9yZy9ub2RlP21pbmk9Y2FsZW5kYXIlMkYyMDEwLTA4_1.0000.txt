@@ -1,0 +1,715 @@
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Arkansas Association for the Deaf</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/rss+xml" title="Arkansas Association for the Deaf RSS" href="http://arkad.org/rss.xml">
+<link rel="shortcut icon" href="/sites/all/themes/arkad/favicon.ico" type="image/x-icon">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/timeentry.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus_default.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/simplenews/simplenews.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/shipping/uc_quote/uc_quote.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/uc_attribute/uc_attribute.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/uc_file/uc_file.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/uc_order/uc_order.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/uc_product/uc_product.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/uc_store/uc_store.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/video/css/video.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_gallery/views_gallery.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/jcalendar/jcalendar.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ubercart/uc_catalog/uc_catalog.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/arkad/style.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/arkad/layout.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/arkad/typography.css?c">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/arkad/nice_menus_aad.css?c">
+<script type="text/javascript" src="/misc/jquery.js?c"></script>
+<script type="text/javascript" src="/misc/drupal.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/superfish.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/ubercart/uc_file/uc_file.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/video/js/video.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/calendar/jcalendar/jcalendar.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/base.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/ajax_view.js?c"></script>
+<script type="text/javascript" src="/sites/all/themes/arkad/script.js?c"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": "10", "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.6", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": "0", "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "loop_items": 0, "node_link_text": "", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "img.inline,img.flickr-photo-img,img.flickr-photoset-img,img.ImageFrame_image,img.ImageFrame_none,img.image-img_assist_custom,img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "nice_menus_options": { "delay": 800, "speed": 1 }, "views": { "ajax_path": "/views/ajax", "ajaxViews": [ { "view_name": "blog_list", "view_display_id": "block_1", "view_args": "", "view_path": "node", "view_base_path": "articles-temp", "view_dom_id": 3, "pager_element": 0 } ] } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var var_path = "/sites/all/modules/calendar/jcalendar";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var var_base_path = "/";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var var_path = "/sites/all/modules/calendar/jcalendar";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var var_base_path = "/";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var var_path = "/sites/all/modules/calendar/jcalendar";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var var_base_path = "/";
+//--><!]]>
+</script>
+<script src="/sites/all/themes/arkad/swfobject.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body class="sidebar-left">
+
+<div id="wrapper"> <!-- WRAPPER begins -->
+	<div id="wrapper_top"> <!-- WRAPPER_TOP begins -->
+	
+	<div id="date"> <!-- DATE begins -->	
+		<div id="fontSizes"> <!-- FONTSIZES begins -->
+			<input type="image" onclick="document.body.style.fontSize = '62.8%'" src="/sites/all/themes/arkad/images/text_small.png">
+			<input type="image" onclick="document.body.style.fontSize = '76%';" src="/sites/all/themes/arkad/images/text_medium.png">
+			<input type="image" onclick="document.body.style.fontSize = '90%'" src="/sites/all/themes/arkad/images/text_large.png">
+		</div> <!-- FONTSIZES ends -->
+		
+		<div id="date_text"> <!-- DATE_TEXT begins -->
+			September 17, 2010		</div> <!-- DATE_TEXT ends -->
+		
+					        <div id="search-box"><form action="/node?mini=calendar%2F2010-08" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-543032efa96b32b382174ec198d874c1" value="form-543032efa96b32b382174ec198d874c1">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+</div>
+	    	</div> <!-- DATE ends -->
+	
+	</div> <!-- WRAPPER_TOP ends -->
+	
+	<div id="header_splash"> <!-- HEADER_SPLASH begins -->
+		<!-- FLASH CONTENT begins -->
+		<div id="flash_header"> <!-- flash_header begins -->
+				<br>You either don't have javascript turned on,<br>or you need to <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank" title="Get the Flash Player plugin now!">get the Flash Player plugin</a>.
+				</div> <!-- flash_header ends -->
+				<script language="JavaScript" type="text/javascript">
+		var fo = new FlashObject("/sites/all/themes/arkad/header.swf", "flash_header", "920", "270", "6", "#FFFFFF");
+		fo.addParam("quality", "high");
+		fo.addParam("WMode","transparent");
+		
+		fo.write("flash_header");
+		        </script>
+		<!-- FLASH CONTENT ends -->
+		
+		</div> <!-- HEADER_SPLASH ends -->
+	
+	<!-- NAVIGATION BEGINS HERE -->
+	<div id="nav"> <!-- NAV begins -->
+				<div id="navMenu">
+		<div class="block block-nice_menus" id="block-nice_menus-1">
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-1" class="menu-path-front active-trail"><a href="/" class="active">Home</a></li>
+<li id="menu-2601" class="menu-path-calendar"><a href="/calendar" title="">Calendar</a></li>
+<li id="menu-44" class="menuparent menu-path-node-2"><a href="/about_us">About Us</a><ul><li id="menu-46" class="menu-path-node-4"><a href="/about-us/history">History</a></li>
+<li id="menu-47" class="menu-path-node-5"><a href="/about-us/constitution">Constitution</a></li>
+<li id="menu-62" class="menu-path-node-15"><a href="/about_us/objectives">Objectives</a></li>
+<li id="menu-1388" class="menuparent menu-path-2009-2011-officers"><a href="/2009-2011-officers" title="">Officers</a><ul><li id="menu-1387" class="menu-path-node-3"><a href="/2007-2009-officers" title="">2007-2009 Officers</a></li>
+<li id="menu-69" class="menu-path-node-20"><a href="/about_us/officers/2005-2007_officers">2005-2007 Officers</a></li>
+</ul>
+</li>
+<li id="menu-63" class="menu-path-node-16"><a href="/about_us/programs_and_services">Programs &amp; Services</a></li>
+<li id="menu-70" class="menu-path-node-21"><a href="/about_us/officers/past_officers">Past Officers</a></li>
+</ul>
+</li>
+<li id="menu-48" class="menuparent menu-path-node-7"><a href="/programs">Programs</a><ul><li id="menu-49" class="menu-path-node-6"><a href="/programs/resources">Resources</a></li>
+<li id="menu-68" class="menu-path-node-19"><a href="/programs/memorial-garden">Memorial Garden</a></li>
+<li id="menu-94" class="menu-path-node-29"><a href="/scholarships">Scholarships</a></li>
+<li id="menu-646" class="menu-path-node-58"><a href="/programs/itransition" title="iTransition College Camp">iTransition</a></li>
+<li id="menu-60" class="menu-path-node-14"><a href="/programs/awards">Awards</a></li>
+</ul>
+</li>
+<li id="menu-65" class="menuparent menu-path-publications"><a href="/publications" title="">Publications</a><ul><li id="menu-2631" class="menu-path-node-115"><a href="/publications/aad-brochure" title="AAD Brochure">AAD Brochure</a></li>
+<li id="menu-2635" class="menu-path-node-119"><a href="/publications/aad-constitution" title="AAD Constitution">AAD Constitution</a></li>
+<li id="menu-2636" class="menu-path-node-120"><a href="/publications/aad-history" title="AAD History">AAD History</a></li>
+<li id="menu-2634" class="menu-path-node-118"><a href="/publications/arkansas-deaf-community-directory" title="Arkansas Deaf Community Directory">Arkansas Deaf Community Directory</a></li>
+<li id="menu-2632" class="menu-path-node-116"><a href="/publications/deaf-arkansan" title="Deaf Arkansan">Deaf Arkansan</a></li>
+<li id="menu-2633" class="menu-path-node-117"><a href="/publications/directory-services-deaf" title="Directory of Services for the Deaf">Directory of Services for the Deaf</a></li>
+</ul>
+</li>
+<li id="menu-51" class="menu-path-node-9"><a href="/advocacy">Advocacy</a></li>
+<li id="menu-53" class="menuparent menu-path-node-10"><a href="/pdf/membership">Membership</a><ul><li id="menu-58" class="menu-path-node-11"><a href="/membership/benefits_and_privileges">Benefits &amp; Privileges</a></li>
+<li id="menu-2612" class="menu-path-node-110"><a href="/form/directory-submission-form" title="Directory Submission Form">Directory Submission Form</a></li>
+<li id="menu-59" class="menu-path-node-12"><a href="/membership/member-dues">Member Dues</a></li>
+</ul>
+</li>
+<li id="menu-660" class="menu-path-catalog"><a href="/catalog" title="">AAD eShop</a></li>
+<li id="menu-50" class="menu-path-node-8"><a href="/links">Links</a></li>
+<li id="menu-3337" class="menu-path-node-123"><a href="/photo-gallery" title="Photo Gallery">Gallery</a></li>
+</ul>
+</div>
+</div>
+
+		</div>
+				
+	</div> <!-- NAV ends -->
+	<div id="nav_bottom"> <!-- NAV_BOTTOM begins -->
+	</div> <!-- NAV_BOTTOM ends -->
+	<!-- NAVIGATION ENDS HERE -->
+	
+	<div id="content">
+	<div id="left_column"> <!-- LEFT_COLUMN begins -->
+		<div id="left_top"> <!-- LEFT_TOP begins -->
+		</div> <!-- LEFT_TOP ends -->
+		<div id="left_body"> <!-- LEFT_BODY begins -->
+				        <div id="sidebar-left" class="sidebar">
+         	<div class="block block-block" id="block-block-3">
+  <div class="content"><p><a href="http://arkad.org/programs/itransition" title="learn more about iTransition"><img src="/files/itransitionlogo_0.jpg" border="0" alt="iTransition logo" title="iTransition logo" width="200" height="90"></a></p></div>
+</div>
+
+<div class="block block-simplenews" id="block-simplenews-4">
+<h2 class="title"><span>AAD eNews</span></h2>
+  <div class="content">      <p>Stay informed on our latest news!</p>
+  
+      <form action="/node?mini=calendar%2F2010-08" accept-charset="UTF-8" method="post" id="simplenews-block-form-4">
+<div><div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">Email: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="mail" id="edit-mail" size="20" value="" class="form-text required">
+</div>
+<div class="form-radios"><div class="form-item" id="edit-action-subscribe-wrapper">
+ <label class="option" for="edit-action-subscribe"><input type="radio" id="edit-action-subscribe" name="action" value="subscribe" checked="checked" class="form-radio"> Subscribe</label>
+</div>
+<div class="form-item" id="edit-action-unsubscribe-wrapper">
+ <label class="option" for="edit-action-unsubscribe"><input type="radio" id="edit-action-unsubscribe" name="action" value="unsubscribe" class="form-radio"> Unsubscribe</label>
+</div>
+</div><input type="submit" name="op" id="edit-submit" value="Save" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-309dbd66a4b3ad10d1bc89d887f8a228" value="form-309dbd66a4b3ad10d1bc89d887f8a228">
+<input type="hidden" name="form_id" id="edit-simplenews-block-form-4" value="simplenews_block_form_4">
+
+</div></form>
+  
+      <div class="issues-link"><a href="/category/newsletter/aad-enews">Previous issues</a></div>
+  
+  
+      <a href="/taxonomy/term/4/0/feed" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="AAD eNews feed" width="16" height="16"></a>  </div>
+</div>
+
+<div class="block block-views" id="block-views-calendar-block_1">
+<h2 class="title"><span>Upcoming Events</span></h2>
+  <div class="content"><div class="view view-calendar view-id-calendar view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+          <div class="row first last odd">
+        
+  <div class="views-field-title">
+                <span class="field-content"><a href="/aad-convention-arid-conference-2011">AAD Convention &amp; ARID Conference 2011</a></span>
+  </div>
+  
+  <div class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-start">July 7, 2011 (All day)</span><span class="date-display-separator"> - </span><span class="date-display-end">July 11, 2011 (All day)</span></span>
+  </div>
+    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div class="block block-views" id="block-views-calendar-calendar_block_1">
+<h2 class="title"><span>Calendar of Events</span></h2>
+  <div class="content"><div class="view view-calendar view-id-calendar view-display-id-calendar_block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      
+<div class="calendar-calendar">
+        <div class="date-nav clear-block">
+  <div class="date-prev">
+          <span class="next"> <a href="http://arkad.org/node?mini=calendar%2F2010-07" title="Navigate to previous month" rel="nofollow">« </a></span>
+      &nbsp;</div>
+  <div class="date-heading">
+    <h3><a href="/calendar/2010-09" title="View full page month">August</a></h3>
+  </div>
+  <div class="date-next">&nbsp;
+          <span class="next"> <a href="http://arkad.org/node?mini=calendar%2F2010-09" title="Navigate to next month" rel="nofollow"> »</a></span>
+      
+  </div>
+</div>
+</div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="calendar-calendar"><div class="month-view">
+ 
+<table class="mini">
+  <thead>
+    <tr>
+              <th class="days sun">
+          S        </th>
+              <th class="days mon">
+          M        </th>
+              <th class="days tue">
+          T        </th>
+              <th class="days wed">
+          W        </th>
+              <th class="days thu">
+          T        </th>
+              <th class="days fri">
+          F        </th>
+              <th class="days sat">
+          S        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="calendar-2010-08-01" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-01?mini=calendar%2F2010-08">1</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-02" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-02?mini=calendar%2F2010-08">2</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-03" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-03?mini=calendar%2F2010-08">3</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-04" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-04?mini=calendar%2F2010-08">4</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-05" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-05?mini=calendar%2F2010-08">5</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-06" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-06?mini=calendar%2F2010-08">6</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-07" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-07?mini=calendar%2F2010-08">7</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2010-08-08" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-08?mini=calendar%2F2010-08">8</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-09" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-09?mini=calendar%2F2010-08">9</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-10" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-10?mini=calendar%2F2010-08">10</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-11" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-11?mini=calendar%2F2010-08">11</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-12" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-12?mini=calendar%2F2010-08">12</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-13" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-13?mini=calendar%2F2010-08">13</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-14" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-14?mini=calendar%2F2010-08">14</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2010-08-15" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-15?mini=calendar%2F2010-08">15</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-16" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-16?mini=calendar%2F2010-08">16</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-17" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-17?mini=calendar%2F2010-08">17</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-18" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-18?mini=calendar%2F2010-08">18</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-19" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-19?mini=calendar%2F2010-08">19</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-20" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-20?mini=calendar%2F2010-08">20</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-21" class="sat mini past has-events">
+            <div class="month mini-day-on"> <a href="http://arkad.org/calendar/2010-08-21?mini=calendar%2F2010-08">21</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2010-08-22" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-22?mini=calendar%2F2010-08">22</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-23" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-23?mini=calendar%2F2010-08">23</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-24" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-24?mini=calendar%2F2010-08">24</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-25" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-25?mini=calendar%2F2010-08">25</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-26" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-26?mini=calendar%2F2010-08">26</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-27" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-27?mini=calendar%2F2010-08">27</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-28" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-28?mini=calendar%2F2010-08">28</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2010-08-29" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-29?mini=calendar%2F2010-08">29</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-30" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-30?mini=calendar%2F2010-08">30</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-08-31" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> <a href="http://arkad.org/calendar/2010-08-31?mini=calendar%2F2010-08">31</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-09-01" class="wed mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-09-02" class="thu mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-09-03" class="fri mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2010-09-04" class="sat mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div class="block block-uc_catalog" id="block-uc_catalog-0">
+<h2 class="title"><span>AAD eShop</span></h2>
+  <div class="content"><ul class="catalog menu"><li class="leaf"><a href="/catalog/books">Books (1)</a></li>
+<li class="leaf"><a href="/catalog/video">Video (2)</a></li>
+</ul></div>
+</div>
+
+       	</div> <!-- /sidebar-left -->
+      		
+		</div> <!-- LEFT_BODY ends -->
+		<div id="left_bottom"> <!-- LEFT_BOTTOM begins -->
+		</div> <!-- LEFT_BOTTOM ends -->
+	</div> <!-- LEFT_COLUMN ends -->
+	
+	
+	<div id="right_column"> <!-- RIGHT_COLUMN begins -->
+		<div id="right_top"> <!-- RIGHT_TOP begins -->
+		</div> <!-- RIGHT_TOP ends -->
+		<div id="right_body"> <!-- RIGHT_BODY begins -->
+			
+			<div id="main">
+			
+						
+																												<div class="content">
+								<div id="node-1" class="node sticky teaser page">
+    <h2 class="title"><a href="/welcome-arkansas-association-deaf-web-site">Welcome to Arkansas Association of the Deaf web site!</a></h2>
+  <div class="content"><p>Founded on March 11, 1893 by alumni of the Arkansas School for the Deaf, the Arkansas Association of the Deaf (AAD) is a state association affiliated with the National Association of the Deaf. AAD is an all volunteer, non-profit organization, with membership open to anyone who supports and advocates for the rights and equal treatment for Deaf, Deaf-Blind and Hard of Hearing individuals. That includes educational choices.  While most members of AAD are fluent in sign language, it is not required at all. The AAD seeks to include the "deaf community" as a whole--hearing impaired as well as hearing individuals. That includes parents, siblings, children, family, educators, interpreters and everyone else who support the constitution and goals of the AAD.  The primary goal of the AAD is that it will help pave the way for all individuals to achieve full participation into the mainstream of life and community with the least barriers possible.  AAD desires to use this web site as an information sharing and educational tool to achieve that goal. If you have questions about the content of this website, please contact Carel Dunaway, Chair of the Website Committee, at <a href="mailto:webchair@arkad.org">webchair@arkad.org</a> or any of the AAD Board Members.</p></div>
+
+
+</div>
+<div id="node-152" class="node teaser vblog cal">
+    <div class="calendar"><div>
+  <span class="month">Aug</span>
+  <span class="day">27</span>
+  <span class="time">22:47</span>
+  </div></div>
+    <h2 class="title"><a href="/aad-financial-support-letter-explanation">AAD Financial Support Letter Explanation</a></h2>
+  <div class="content"><div class="field field-type-emvideo field-field-emfield">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <div class="emvideo emvideo-video emvideo-youtube"><div class="emfield-emvideo emfield-emvideo-youtube">        <div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/W1Q-JEZnvgU&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="http://www.youtube.com/v/W1Q-JEZnvgU&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
+          <param name="allowScriptAccess" value="sameDomain">
+          <param name="quality" value="best">
+          <param name="allowFullScreen" value="true">
+          <param name="bgcolor" value="#FFFFFF">
+          <param name="scale" value="noScale">
+          <param name="salign" value="TL">
+          <param name="FlashVars" value="playerMode=embedded">
+          <param name="wmode" value="transparent">
+        </object></div></div></div>        </div>
+        </div>
+</div>
+</div>
+
+
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/node?page=1&amp;mini=calendar%2F2010-08" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="/node?page=1&amp;mini=calendar%2F2010-08" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/node?page=1&amp;mini=calendar%2F2010-08" title="Go to last page" class="active">last »</a></li>
+</ul></div><div class="block block-views" id="block-views-blog_list-block_1">
+<h2 class="title"><span>Recent Announcements</span></h2>
+  <div class="content"><div class="view view-blog-list view-id-blog_list view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+          <div class="row first odd">
+        
+  <span class="views-field-created">
+                <span class="field-content">09/16/2010</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/aad-convention-arid-conference-2011-registration">AAD Convention &amp; ARID Conference 2011 Registration</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">For the first time, AAD and ARID have joined together to host an exciting event for both the Deaf and Interpreting Communities. This convention will take place next summer in down-town Little Rock at the Peabody Hotel.
+Planning is underway to make this the most exciting event ever. Convention planners are working hard to have work-shops, and entertainment that are sure to please.
+Please download...</span>
+  </div>
+    </div>
+      <div class="row even">
+        
+  <span class="views-field-created">
+                <span class="field-content">08/30/2010</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/aad-financial-support-letter-video">AAD Financial Support Letter Video</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">We finally have an easy way to add video to our website! We will try to post video announcements more frequently.
+Please take a moment to watch an informative video explaining the financial support letter&nbsp;we recently sent out:
+You can view the video here.</span>
+  </div>
+    </div>
+      <div class="row odd">
+        
+  <span class="views-field-created">
+                <span class="field-content">08/18/2010</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/asd-football-schedule-2010">ASD Football Schedule 2010</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">Sorry to send this out so many times. We have been trying to fix the link to the PDF file. Hopefully, we have it working now!</span>
+  </div>
+    </div>
+      <div class="row even">
+        
+  <span class="views-field-created">
+                <span class="field-content">06/28/2010</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/nad-ceo-finalists">NAD CEO Finalists</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">June 18, 2010
+NAD CEO Search Process - Announcement of Finalists
+&gt;&gt; Click here to view ASL vlog with captions
+Hello! I am Bobbie Beth Scoggins, president of the National Association of the Deaf. This is a special announcement on the CEO Search process, begun in the summer of 2009 by the NAD Board of Directors.
+In October 2009, the Board established an ad hoc CEO Search Committee (CSC)...</span>
+  </div>
+    </div>
+      <div class="row odd">
+        
+  <span class="views-field-created">
+                <span class="field-content">06/28/2010</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/fcc-adopted-rates-2010-2011-vrs-and-other-relay-services">FCC adopted rates for 2010-2011 for VRS and other Relay services.</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">Submitted by NAD on Mon, 06/28/2010 - 14:02 
+The Federal Communications Commission (FCC) adopted rates for 2010-2011 for Video Relay Services (VRS) and other relay services. The FCC is also starting a comprehensive review of VRS to ensure that this vital program is effective, efficient, and sustainable in the future.
+FCC Rates for VRS and Other Relay Services
+The FCC approved the following VRS...</span>
+  </div>
+    </div>
+      <div class="row even">
+        
+  <span class="views-field-created">
+                <span class="field-content">04/14/2010</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/2010-census-form">2010 Census Form</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">It is important for deaf/hh folks to understand how to fill out the 2010 U.S. Cenus form. It's easy - Amercian Sign Language on the youtube.
+
+
+
+
+
+
+</span>
+  </div>
+    </div>
+      <div class="row odd">
+        
+  <span class="views-field-created">
+                <span class="field-content">09/18/2009</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/h1n1-flu-informationwebsite-sign-language">H1N1 Flu Information/Website in Sign Language</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">H1N1 Flu (Swine Flu) educational information is available in Sign Language for deaf and hard of hearing people and the topics including Overview, Symptoms, Medication, Prevention of H1N1 flu (Swine Flu), etc.http://www.cdc.gov/h1n1flu/deaf.htm
+What is swine flu?
+Swine flu, also called Influenza A H1N1, is a respiratory disease of pigs caused by type A influenza viruses that causes regular...</span>
+  </div>
+    </div>
+      <div class="row even">
+        
+  <span class="views-field-created">
+                <span class="field-content">08/12/2009</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/information-about-aad-encyclopedia-arkansas-history-culture">Information about AAD in Encyclopedia of Arkansas History &amp; Culture</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">Here is information about AAD in Encyclopedia of Arkansas History &amp; Culture. Thanks to Glenn Anderson who wrote this with the help of others. http://www.encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?sea... √</span>
+  </div>
+    </div>
+      <div class="row odd">
+        
+  <span class="views-field-created">
+                <span class="field-content">07/30/2009</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/new-aad-board-2009-2011">The New AAD Board 2009-2011</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">Congratulations to the new AAD Board 2009-2011!
+President: Holly Ketchum
+1st Vice President: Billie Jordan
+2nd Vice President: Flint Fears
+Secretary: Robert Brannan
+Treasurer: Ernest Northup
+Deaf Arkansan Editor: Glenn Anderson
+Trustees:
+Martin West
+Rita Jordan
+Judy Brint-Murphy
+Rondale Ketchum
+Amy Hebert
+A picture of each board member will be taken on August 15&nbsp;and then&nbsp;be posted on...</span>
+  </div>
+    </div>
+      <div class="row last even">
+        
+  <span class="views-field-created">
+                <span class="field-content">07/27/2009</span>
+  </span>
+      |  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/newsletter/fcc-consumer-facts">FCC CONSUMER FACTS</a></span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <span class="field-content">Frequently Asked Questions on New Ten-Digit Numbering Requirements for VRS&nbsp;and IP Relay</span>
+  </div>
+    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+				</div>
+				
+							</div> <!-- End Main -->
+			
+		</div> <!-- RIGHT_BODY ends -->
+		<div id="right_bottom"> <!-- RIGHT_BOTTOM begins -->
+		</div> <!-- RIGHT_BOTTOM ends -->
+	</div> <!-- RIGHT_COLUMN ends -->
+	
+	</div> <!-- End content -->
+	
+	<div id="footer"> <!-- FOOTER begins -->
+		<div id="footer_top"> <!-- FOOTER_TOP begins -->
+		</div> <!-- FOOTER_TOP ends -->
+			<div id="footer_body"> <!-- FOOTER_BODY begins -->
+				<p>Copyright © 2010 • Arkansas Association for the Deaf • All Rights Reserved.<br>Site design by <a href="http://www.monstorgraphix.com" target="_blank" title="Visit the Monstor Graphix website">Monstor Graphix</a></p>
+			</div> <!-- FOOTER_BODY ends -->
+	</div> <!-- FOOTER ends -->
+	
+	<div id="wrapper_bottom"> <!-- WRAPPER_BOTTOM begins -->
+		
+	</div> <!-- WRAPPER_BOTTOM ends -->
+	
+</div> <!-- WRAPPER ends -->
+
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?c"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-7753112-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+
+
+</body></html>
