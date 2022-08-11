@@ -1,0 +1,829 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Adactio: Journal—Streaming my life away</title>
+<meta name="description" content="Squishing RSS feeds together.">
+<meta name="author" content="Jeremy Keith">
+<meta name="copyright" content="Jeremy Keith">
+<meta name="ICBM" content="50.825000,-0.157115">
+<meta name="robots" content="index,follow">
+<link rel="search" type="application/opensearchdescription+xml" href="http://adactio.com/opensearch.php" title="Adactio">
+<link rel="openid.server" href="http://www.myopenid.com/server">
+<link rel="openid.delegate" href="http://adactio.myopenid.com/">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/journal/rss">
+<link rel="accessibility" href="/about/accessibility.php" title="Accessibility details">
+<link rel="author" href="/about/myself.php" title="About the author">
+<link rel="home" href="/" title="Home page">
+<link rel="meta" type="application/rdf+xml" title="FOAF" href="/foaf.rdf">
+<link rel="Shortcut Icon" type="image/ico" href="/favicon.ico">
+<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/includes/css/print.css" media="print" type="text/css" title="print">
+<link rel="alternate stylesheet" href="/includes/css/zoom.css" media="screen" type="text/css" title="high contrast">
+<link rel="stylesheet" href="/skins/adactizilla/styles/basic.css" media="screen" type="text/css">
+<script type="text/javascript">
+if (window.top !== window.self) window.top.location.replace(window.self.location.href);
+</script>
+<script type="text/javascript" src="/mint/?js"></script>
+<script type="text/javascript" src="/includes/javascript/_global.js"></script>
+<script type="text/javascript" src="/includes/javascript/ajax.js"></script>
+<script type="text/javascript" src="/includes/javascript/forms.js"></script>
+<script type="text/javascript" src="/includes/javascript/slideshow.js"></script>
+<script type="text/javascript" src="/includes/javascript/toggleExtras.js"></script>
+
+<!-- Ah, I see you want a peek at the source code. -->
+<!-- That's the great thing about the web: -->
+<!-- reverse engineering. -->
+<!-- If you have any questions, feel free to write to me: -->
+<!-- jeremy at adactio dot com -->
+
+</head>
+<body>
+
+<!-- Begin with the logo -->
+
+<div id="logo">
+<h1><a rel="home" href="http://adactio.com" accesskey="1" title="Home (access key: 1)"><span>adactio</span></a></h1>
+</div>
+
+
+<!-- Show any nice pictures here -->
+
+<div id="eyecandy">
+<div class="journal"></div>
+</div>
+
+<!-- Now we have the navigation -->
+
+<div id="navigation">
+<p class="warning">
+{<a href="#content" accesskey="2" title="access key: 2">Skip navigation</a>}
+</p>
+<ul>
+<li><a class="here" href="/journal/" title="My thoughts and ramblings">Journal</a></li>
+<li><a href="/portfolio/" title="My work to date">Portfolio</a></li>
+<li><a href="/articles/" title="Longer thoughts and ramblings">Articles</a></li>
+<li><a href="/about/" title="A short biography">About</a></li>
+<li><a href="/contact/" accesskey="9" title="Get in touch">Contact</a></li>
+</ul>
+</div>
+
+<!-- Here's the main content -->
+
+<div id="content">
+<h2>
+Streaming my life away
+</h2>
+
+<p>I’ve been playing around with <a href="http://twitter.com/">Twitter</a>, a neat little service from the people who brought you <a href="http://odeo.com/">Odeo</a>. You send it little text updates via SMS, the website, or Jabber. It’s intended as a piece of social software, but I think it has potential for more selfish uses.</p>
+
+<p>Every time I ping Twitter, the message is time stamped. Every time I post a link to <a href="http://del.icio.us">Del.icio.us</a>, that’s time stamped. Every time I upload a picture to <a href="http://flickr.com/">Flickr</a>, a time stamp of when the picture was taken is also sent. Whenever I listen to a song on iTunes, the track information is sent to <a href="http://last.fm">Last.fm</a> with a time stamp. And of course whenever I blog, be it here, at <a href="http://domscripting.com/blog/">the DOM Scripting blog</a> or <a href="http://principiagastronomica.com/">Principia Gastronomica</a>, each entry has a permalink and a time stamp.</p>
+
+<p>Just about every time somebody publishes something on the Web, it gets time stamped. Wouldn’t it be nice to pull in all these disparate bits of time stamped information and build up a timeline of online activity?</p>
+
+<p>The technology is already in place. Most of the services I mention above have APIs. In this case, a fully-blown API isn’t even necessary. Each service already offers an easily parsable XML file of activity ordered by time: RSS.</p>
+
+<p>At the recent <a href="http://ironfire.org/takebacktheweb/index.php?title=TBTW_Brighton">Take Back The Web</a> event here in Brighton, <a href="http://importantprojects.co.uk/about/rob.php">Rob Purdie</a> talked about RSS being the vaseline that’s greasing the wheels of Web 2.0. He makes a good point.</p>
+
+<p>Over the course of any particular day, I could be updating five or six RSS feeds, depending on how much I’m blogging, how many links I’m posting, or how much music I’m listening to. I’d like to take those individual feeds and mush ‘em all up together.</p>
+
+<p>There are a couple of services out there for mashing up RSS. <a href="http://www.feedburner.com/">FeedBurner</a> is probably the most well known, but you are limited to a pre-set choice of RSS feeds that you can mix in. <a href="http://www.rssmix.com/">RSS Mix</a> offers a more open-ended splicing service but <a href="http://www.rssmix.com/u/16755/">it seems a bit confused</a> when it comes to date ordering. There’s some other service I was playing around with last week but for the life of me, I can’t remember the name of it. All I remember is that it had an extremely annoying interface full of gratuitous Ajax.</p>
+
+<p>I’ve mocked up <a href="http://adactio.com/extras/stream/">my own little life stream</a>, tracking my Twitter, Flickr, Del.icio.us, Last.fm, and blog posts. It’s a quick’n’dirty script that isn’t doing any caching. The important thing is that it’s keeping the context of the permalinks (song, link, photo, or blog post) and displaying them ordered by date and time. What I’d really like to do is display the same information in a more time-based interface: a calendar, or timeline.</p>
+
+<p>Annoyingly, the Last.fm feed of recently listened to tracks disappears if you don’t listen to anything for a while. Grrr…</p>
+
+<p><strong>Update:</strong> Here’s the <a href="http://adactio.com/extras/stream/stream.phps">PHP source code</a>.</p>
+
+
+<p class="time">
+<abbr title="2006-11-07T12:31:59">
+Tuesday,
+November 7th, 2006
+12:31pm
+</abbr>
+</p>
+
+<p class="time">
+Tagged with
+<a rel="tag" href="/journal/tag/rss">rss</a>
+<a rel="tag" href="/journal/tag/mashups">mashups</a>
+<a rel="tag" href="/journal/tag/twitter">twitter</a>
+<a rel="tag" href="/journal/tag/last.fm">last.fm</a>
+<a rel="tag" href="/journal/tag/flickr">flickr</a>
+<a rel="tag" href="/journal/tag/del.icio.us">del.icio.us</a>
+<a rel="tag" href="/journal/tag/blogging">blogging</a>
+</p>
+
+<div id="comment-container">
+
+<h2>Comments</h2>
+<div class="comment" id="comment62">
+
+<p>Pretty cool quick’n’dirty script to visualize your online timestamped life. It’s interested to see, even in this small amount (relatively) of data, a pattern. Photos on Flickr, then journal post.</p>
+
+<p>It’d be interesting to see what research people do (via delicious) before they post about a certain topic. This could even be a bibliography of that entry… cool.</p>
+
+
+<p class="time vcard">
+<a href="#comment62">#</a>
+Posted by
+<a class="url fn" href="http://www.trovster.com">
+trovster
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+1:06pm
+</p>
+
+</div>
+<div class="comment" id="comment63">
+
+<p>There’s also Suprglu (<a href="http://www.suprglu.com/">http://www.suprglu.com/</a>) which does this sort of thing.</p>
+
+
+<p class="time vcard">
+<a href="#comment63">#</a>
+Posted by
+<a class="url fn" href="http://harriyott.com">
+Simon Harriyott
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+1:14pm
+</p>
+
+</div>
+<div class="comment" id="comment64">
+
+<p>interesting.. i believe this was the idea of Nokia’s LifeBlog (pete, please correct me :)</p>
+
+<p>although from a mobile perspective, every picture, sms, calendar event etc..</p>
+
+<p>very cool. what you’ve done is basically a method of tracking you online. it give’s a really good contextual journey of your day to day life!</p>
+
+
+<p class="time vcard">
+<a href="#comment64">#</a>
+Posted by
+<a class="url fn" href="http://www.joshrussell.com">
+Josh
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+1:25pm
+</p>
+
+</div>
+<div class="comment" id="comment65">
+
+<p>An interesting observation, which made me think of a little geek-story I heard yesterday from a guy here at work.</p>
+
+<p>He sails a lot, and when he does, he uses a GPS, which of course tracks his position and timestamps it. And when he sails he also takes photos a lot, which of course are also timestamped. Combine the two, and you have geo-tagging a go-go.</p>
+
+<p>Carry a GPS around and you’ve pretty soon got a pretty accurate record of your entire life.</p>
+
+<p>Now, how do I <em>protect</em> all that information? :)</p>
+
+<p>Anyway, this is actually quite a cool idea, and one that has also crossed my mind—though in a somewhat more crude form—in recent times, though more specifically to keep track of last.fm and allconsuming, to track my entertainment input.</p>
+
+<p>Hmm… I would actually love to work on a project like that. I wonder…</p>
+
+
+<p class="time vcard">
+<a href="#comment65">#</a>
+Posted by
+<a class="url fn" href="http://binarybonsai.com">
+Michael Heilemann
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+1:35pm
+</p>
+
+</div>
+<div class="comment" id="comment66">
+
+<p>Jeremy ,</p>
+
+<p>(previous comment may have been deleted)</p>
+
+<p><a href="http://simile.mit.edu/timeline/">http://simile.mit.edu/timeline/</a></p>
+
+<p>Uses JSON or XML as the datasource.
+Very very cool.</p>
+
+
+<p class="time vcard">
+<a href="#comment66">#</a>
+Posted by
+<a class="url fn" href="http://sxoop.wordpress.com">
+Walter Higgins
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+2:31pm
+</p>
+
+</div>
+<div class="comment" id="comment67">
+
+<p>Jeff Croft has something similar here:</p>
+
+<p><a href="http://www2.jeffcroft.com/tumblelog/">http://www2.jeffcroft.com/tumblelog/</a></p>
+
+<p>He calls it a "tumblelog", but i think tumblelogs are generally seen as less automated?…</p>
+
+<p>I’d really like to see some more RSS mashup tools develop too, to see those timelines in action…</p>
+
+
+<p class="time vcard">
+<a href="#comment67">#</a>
+Posted by
+<a class="url fn" href="http://markhadley.co.uk/">
+Mark Hadley
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+2:55pm
+</p>
+
+</div>
+<div class="comment" id="comment68">
+
+<p>Do you ever get concerned about the amount of information that you are putting ‘out there’ about yourself?</p>
+
+<p>I’m not in any way suggesting that you have anything to hide, and I’m sure you don’t publish anything that is too personal or private. When such a large chunk of your life however, is logged and detailed for everyone to see (especially when it comes to times / dates / whereabouts etc.), surely you are putting yourself at some risk…?</p>
+
+<p>You just need to add a list of desirable items you own to Listal, and you have a ready-made shopping list for any IT-savvy burglars out there!</p>
+
+<p>Perhaps I am being a little paranoid, but it is something that has made me rather cautious about sharing too much information. As you are such a passionate adopter of such technologies, I would be interested to know your thoughts on this issue…</p>
+
+
+<p class="time vcard">
+<a href="#comment68">#</a>
+Posted by
+<span class="fn">
+David Swallow
+</span>
+on
+Tuesday,
+November 7th, 2006
+at
+3:01pm
+</p>
+
+</div>
+<div class="comment" id="comment69">
+
+<p>Jeff Croft’s site has a nice tumblelog of all his data spread across multiple systems. Also I think the ability to maybe drilldown the data (by time, service, area etc) would be very useful to someone simply perusing through.</p>
+
+
+<p class="time vcard">
+<a href="#comment69">#</a>
+Posted by
+<a class="url fn" href="http://hybridlogic.co.uk">
+Luke L
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+5:30pm
+</p>
+
+</div>
+<div class="comment" id="comment70">
+
+<p>This is a fantastic Idea, and one I think will spread. As out information gets increasingly spread over multiple services, our personal sites are just turning into a collection of these accounts’ information.</p>
+
+<p>I can imagine a home page with all my doings, navigatable by a simple javascript, perhaps a simply as check-boxes along the top to see only what you want.</p>
+
+<p>I see the future, and the future is APIs.</p>
+
+
+<p class="time vcard">
+<a href="#comment70">#</a>
+Posted by
+<a class="url fn" href="http://abscond.org">
+James Darling
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+6:02pm
+</p>
+
+</div>
+<div class="comment" id="comment71">
+
+<p>It’d be great if you gave this script away for free to those that might want to use it. Even if it’s not perfect, it’s exactly what I’ve been looking for. :)</p>
+
+
+<p class="time vcard">
+<a href="#comment71">#</a>
+Posted by
+<span class="fn">
+Bob Hope
+</span>
+on
+Tuesday,
+November 7th, 2006
+at
+8:12pm
+</p>
+
+</div>
+<div class="comment" id="comment72">
+
+<p>I absolutely love this idea, and all I can think of saying is please share the source code, I love the possibilities this presents.</p>
+
+
+<p class="time vcard">
+<a href="#comment72">#</a>
+Posted by
+<a class="url fn" href="http://textonic.slickplaid.net">
+Zeerus
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+8:39pm
+</p>
+
+</div>
+<div class="comment" id="comment73">
+
+<p>You could use something like Gregarius to aggregate the feeds and republish the combined feed.  That’ll store the entries in a database so that you can make the output feed longer than the input feeds.  And that’d give you more control than an external service.</p>
+
+
+<p class="time vcard">
+<a href="#comment73">#</a>
+Posted by
+<a class="url fn" href="http://markjaquith.com/">
+Mark Jaquith
+</a>
+on
+Tuesday,
+November 7th, 2006
+at
+9:11pm
+</p>
+
+</div>
+<div class="comment" id="comment74">
+
+<p>You wouldn’t be willing to release that "quick’n’dirty script" to the rest of us to experiment with, would you?</p>
+
+
+<p class="time vcard">
+<a href="#comment74">#</a>
+Posted by
+<a class="url fn" href="http://semistereo.com/">
+Zach Hale
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+12:50am
+</p>
+
+</div>
+<div class="comment" id="comment75">
+
+<p>FASCINATING! The first thing that came to mind was that the "life stream" could certainty use some hCalendar mark-up, but you beat me to it!</p>
+
+<p>There is a Web-based time-lining app that works in a similar fashion to Google Maps. It is called "Timeline" <a href="http://simile.mit.edu/timeline/">http://simile.mit.edu/timeline/</a> and it takes either an XML or JSON as input to map to the timeline. It is possible for the hCalendar Microformatted data to be converted to an input for "Timeline". "Oblivious Development", Instant mashup!</p>
+
+
+<p class="time vcard">
+<a href="#comment75">#</a>
+Posted by
+<a class="url fn" href="http://suda.co.uk/">
+Brian
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+12:44pm
+</p>
+
+</div>
+<div class="comment" id="comment76">
+
+<p>Take Back the Web looked like a really good event .. how come I didn’t hear about it .. guess I need to update my RSS feeds</p>
+
+
+<p class="time vcard">
+<a href="#comment76">#</a>
+Posted by
+<a class="url fn" href="http://brainoff.com/weblog/">
+Mikel Maron
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+1:47pm
+</p>
+
+</div>
+<div class="comment" id="comment77">
+
+<p>Jeremy - Brian Suda forwarded this link to me. It’s an awesome read. I must confess that I’m trying, albeit accomplishing slowly, to create this very system over at Dandelife.com. If you want to help, I’d be grateful for any attention you could afford us. Either way, keep up the good work. Your original musings on the subject of feed aggregation to track an individual’s bits were a part of my inspiration to create the site. </p>
+
+<p>Peace,
+Kelly, co-founder, Dandelife.com</p>
+
+
+<p class="time vcard">
+<a href="#comment77">#</a>
+Posted by
+<a class="url fn" href="http://dandelife.com/kga245">
+Kelly Abbott
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+3:28pm
+</p>
+
+</div>
+<div class="comment" id="comment78">
+
+<p>I had been thinking about doing this for a while now too, integrating it into my new site design (someday I’ll finish that…). I dig the life stream page you have, though I have some thoughts on how to make it a) more readable and b) more timeline related.</p>
+
+<p>As for twitter, thanks for pointing that out. I hadn’t used it before, and it’s really easy to play around with. I just wonder if there isn’t an easier way to get that information without a separate service dedicated to "what I’m doing right now."</p>
+
+
+<p class="time vcard">
+<a href="#comment78">#</a>
+Posted by
+<a class="url fn" href="http://patrickhaney.com">
+Patrick Haney
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+3:49pm
+</p>
+
+</div>
+<div class="comment" id="comment79">
+
+<p>This is great. I saw this Life Stream on Jeff Croft’s Blog a while back, but never figured out how to do it. Thank you. </p>
+
+
+<p class="time vcard">
+<a href="#comment79">#</a>
+Posted by
+<a class="url fn" href="http://useless-list.com">
+Nik Steffen
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+7:22pm
+</p>
+
+</div>
+<div class="comment" id="comment80">
+
+<p>So pretty, Jeremy!</p>
+
+<p>I’ve had just the same idea. Wouldn’t it be fantastic to offer a service that pulls together all your disparate interactions on the web into one location? I hate having so many different components of my online identity strewn across the web. Especially since a certain Mr Adams is drawing public attention[1] to my lack of such a space</p>
+
+<p>Something else to put on the list of things to do</p>
+
+<p>[1] <a href="http://themaninblue.com/writing/perspective/2006/11/08/">http://themaninblue.com/writing/perspective/2006/11/08/</a></p>
+
+
+<p class="time vcard">
+<a href="#comment80">#</a>
+Posted by
+<a class="url fn" href="http://flickr.com/photos/lachlanhardy">
+Lachlan Hardy
+</a>
+on
+Wednesday,
+November 8th, 2006
+at
+8:35pm
+</p>
+
+</div>
+<div class="comment" id="comment81">
+
+<p>Hmmm.. you just gave me an idea for another use for my multi-contextual aggregator system, based on WordPress and SimplePie, which I have dubbed "ggalaxy" (in honor of "planet").
+<a href="http://bopuc.levendis.com/ggalaxy/">http://bopuc.levendis.com/ggalaxy/</a></p>
+
+<p>See, now I am not interested in tracking my own output on the web, I would love to have one place where I cna pull in all my friends’ output. And this I can do. Cool. </p>
+
+
+<p class="time vcard">
+<a href="#comment81">#</a>
+Posted by
+<a class="url fn" href="http://bopuc.levendis.com/">
+Boris Anthony
+</a>
+on
+Thursday,
+November 9th, 2006
+at
+1:38am
+</p>
+
+</div>
+
+</div>
+
+<h3>Illustrations</h3>
+
+<p>Thanks to the magic of <a href="http://adactio.com/journal/1274/">machine tags</a>, you can illustrate this post by tagging a picture on <a href="http://flickr.com/">Flickr</a> with: <input type="text" value="adactio:post=1202" onfocus="this.select();" onclick="this.select();" readonly="readonly"></p>
+<a href="http://www.flickr.com/photos/96941606@N00/322926178"><img src="http://farm1.static.flickr.com/124/322926178_557e8c073f_s.jpg" alt="lifestream"></a>
+
+<h2>Related</h2>
+
+<div id="delicious">
+<h3><a rel="me" href="http://del.icio.us/adactio">Del.icio.us</a></h3>
+<p id="delicious-tags">Find links I've tagged with
+<a rel="nofollow" href="?delicious-tag=rss#delicious-results">rss</a>,
+<a rel="nofollow" href="?delicious-tag=mashups#delicious-results">mashups</a>,
+<a rel="nofollow" href="?delicious-tag=twitter#delicious-results">twitter</a>,
+<a rel="nofollow" href="?delicious-tag=last.fm#delicious-results">last.fm</a>,
+<a rel="nofollow" href="?delicious-tag=flickr#delicious-results">flickr</a>,
+<a rel="nofollow" href="?delicious-tag=del.icio.us#delicious-results">del.icio.us</a>,
+<a rel="nofollow" href="?delicious-tag=blogging#delicious-results">blogging</a>,
+etc. on Del.icio.us.
+</p>
+<div id="delicious-results">
+</div>
+</div>
+
+
+<h3><a rel="me" href="http://www.flickr.com/photos/adactio">Flickr</a></h3>
+<div id="flickr">
+<p>Find photos I've tagged with
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=rss#flickr-results">rss</a>,
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=mashups#flickr-results">mashups</a>,
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=twitter#flickr-results">twitter</a>,
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=last.fm#flickr-results">last.fm</a>,
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=flickr#flickr-results">flickr</a>,
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=del.icio.us#flickr-results">del.icio.us</a>,
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-tags=blogging#flickr-results">blogging</a>,
+etc. on Flickr.
+</p>
+<p>Find photos that I took on 
+<a rel="nofollow" href="?flickr-user_id=74105777@N00&amp;flickr-min_taken_date=2006-11-07+00%3A00%3A00&amp;flickr-max_taken_date=2006-11-07+23%3A59%3A59#flickr-results">November 7th, 2006</a>.
+</p>
+</div>
+<div id="flickr-results">
+</div></div>
+
+<div id="extra">
+
+<h2>More information</h2>
+
+<!-- Begin the extra content -->
+
+<div class="box">
+
+<h3>About this site</h3>
+
+<address class="vcard">
+<a href="http://adactio.com/" class="url" rel="me">Adactio</a> is the online home of <a href="mailto:jeremy@adactio.com" class="email fn">Jeremy Keith</a>, a <span class="title">web developer</span> living and working in <span class="adr"><span class="locality">Brighton</span>, <span class="country-name">England</span></span>.
+</address>
+</div>
+
+<div class="box">
+
+<h3>Customise</h3>
+
+<form method="get" action="/journal/1202/" id="skinselection">
+<p>
+<span class="warning">If your browser was up to it, you'd be able to </span>
+<label for="skin">Choose a theme...</label><br>
+<select name="skin" id="skin">
+<option value="default">default</option>
+<option value="tatemodern">tatemodern</option>
+<option value="hi-tech">hi-tech</option>
+<option value="seaside">seaside</option>
+<option value="zeldman">zeldman</option>
+<option value="adactizilla" selected="selected">adactizilla</option>
+<option value="sci-fi">sci-fi</option>
+<option value="renaissance">renaissance</option>
+<option value="hirnlego">hirnlego</option>
+</select>
+<input type="submit" value="Go!" id="submitskin">
+<a href="/about/site.php#skinslist" title="what is this?">?</a>
+</p>
+</form>
+<p>Nowhere is safe from the ravages of this beast that is in no way affiliated with the Toho corporation.</p>
+
+</div>
+
+<div class="box">
+
+<h3>Search</h3>
+
+<form action="/journal/search/" method="get">
+<p><label for="query">Search the journal:</label><br><input accesskey="4" type="text" name="query" id="query" value="your search" class="searchbox">
+<input type="submit" value="Go!"></p>
+</form>
+<ul>
+<li>Peruse the <a rel="contents" href="/journal/archive/" title="chronologically ordered">archive</a></li>
+<li>Browse the <a href="/journal/tag/">tags</a></li>
+</ul>
+
+</div>
+<div class="box">
+
+<h3>Subscribe</h3>
+
+<p><abbr title="Really Simple Syndication">RSS</abbr> is an <abbr title="eXtensible Markup Language">XML</abbr>-based format for syndicating website content. I have some feeds that you can subscribe to:</p>
+
+<ul id="rsslinks">
+<li><a href="/journal/rss" rel="alternate" type="application/rss+xml" title="Journal RSS">My journal</a></li>
+<li><a href="http://feeds.delicious.com/v2/rss/adactio" type="application/rss+xml" title="Links RSS">My Delicious links</a></li>
+<li><a href="http://feeds2.feedburner.com/adactio" rel="alternate" type="application/rss+xml" title="Journal and links RSS">My journal and links together</a></li>
+</ul>
+
+</div>
+
+<div class="box">
+
+<h3>Elsewhere</h3>
+
+<p><a href="http://elsewhere.adactio.com/">Adactio Elsewhere</a> has small pieces of me, loosely joined:</p>
+
+<ul>
+<li>Pictures from <a rel="me" href="http://flickr.com/photos/adactio/" title="my photos">Flickr</a></li>
+<li>A wishlist from <a rel="me" href="http://www.amazon.co.uk/exec/obidos/registry/3PBQ2UYNJ5RNJ/" title="precious things">Amazon</a></li>
+<li>Links from <a rel="me" href="http://delicious.com/adactio" title="links I've tagged and bagged">Delicious</a></li>
+<li>Events from <a rel="me" href="http://upcoming.org/user/11683/" title="my calendar">Upcoming</a></li>
+<li>An RSS reader.</li>
+</ul>
+
+<p>You can also find me scattered across these sites:</p>
+
+<ul>
+<li>Podcasting on <a rel="me" href="http://huffduffer.com/adactio/" title="what I'm listening to">Huffduffer</a></li>
+<li>Updating <a rel="me" href="http://twitter.com/adactio/" title="what I'm doing">Twitter</a></li>
+<li>Collecting on <a rel="me" href="http://adactio.tumblr.com/" title="quotes and videos">Tumblr</a></li>
+<li>Broadcasting with <a rel="me" href="http://www.last.fm/user/adactio/" title="my music">Last.fm</a></li>
+<li>Travelling at <a rel="me" href="http://www.dopplr.com/traveller/adactio/public" title="where I'm going">Dopplr</a></li>
+<li>Uploading to <a rel="me" href="http://www.vimeo.com/user196031" title="videos">Vimeo</a></li>
+<li>Curating on <a rel="me" href="http://ffffound.com/home/adactio/found/" title="images, collected">Ffffound</a></li>
+<li>Reading at <a rel="me" href="http://readernaut.com/adactio" title="books, listed">Readernaut</a></li>
+<li>Drinking at <a rel="me" href="http://97bottles.com/people/adactio/" title="beers, described">97 Bottles</a></li>
+</ul>
+
+</div>
+
+<div class="box">
+
+<h3>Bedroll</h3>
+
+<p>I had the pleasure of welcoming these people into <a href="http://plazes.com/plazes/22232_jeremy_and_jessi">my home</a>:</p>
+
+<ul>
+<li class="vcard">
+<a class="fn url" href="http://www.easy-reader.net/" rel="friend met colleague">Aaron Gustafson</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://ben-ward.co.uk/" rel="friend met colleague">Ben Ward</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://suda.co.uk/" rel="friend met colleague">Brian Suda</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://themaninblue.com/" rel="friend met colleague">Cameron Adams</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://cindyli.com/" rel="friend met colleague">Cindy Li</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://boudist.com/" rel="friend met">Daniel Boud</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://deltatangobravo.com/" rel="friend met colleague">Daniel Burka</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://superfluousbanter.org/" rel="friend met colleague">Dan Rubin</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://mezzoblue.com/" rel="friend met colleague">Dave Shea</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://boxofchocolates.ca/" rel="friend met colleague">Derek Featherstone</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://schepers.cc/" rel="friend met colleague">Doug Schepers</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://elsakawai.com/" rel="friend met colleague">Elsa Kawai</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://ebdesign.se/" rel="friend met colleague">Emil Björklund</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://fberriman.com/" rel="friend met colleague">Frances Berriman</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://blog.hannahdonovan.com/" rel="friend met colleague">Hannah Donovan</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://www.indiyoung.com/" rel="acquaintance met colleague">Indi Young</a>
+</li>
+<li class="vcard">
+<a class="fn n url" href="http://jasonsantamaria.com/" rel="friend met colleague"><span class="given-name">Jason</span> <span class="family-name">Santa Maria</span></a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://www.blackphoebe.com/" rel="friend met colleague">Jenifer Hanen</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://jinabolton.com/" rel="friend met colleague">Jina Bolton</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://fawny.org/" rel="friend met colleague">Joe Clark</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://binarytales.co.uk" rel="acquaintance met colleague">Jon Linklater-Johnson</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://scenariogirl.com/" rel="friend met colleague">Lisa Herrod</a>
+</li>
+<li class="vcard">
+<a class="fn n url" href="http://cackhanded.net/" rel="friend met colleague"><span class="given-name">Mark</span> <span class="additional-name">Norman</span> <span class="family-name">Francis</span></a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://themattharris.com/" rel="friend met colleague">Matt Harris</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://dracos.co.uk/" rel="friend met colleague">Matthew Somerville</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://www.marxandmarzipan.com/" rel="friend met colleague">Maxine Sherrin</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://molly.com/" rel="friend met colleague">Molly Holzschlag</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://notes.natbat.net/" rel="friend met colleague">Natalie Downe</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://sonspring.com/" rel="acquaintance met colleague">Nathan Smith</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://htmldog.com/" rel="friend met colleague">Patrick Griffiths</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://stephaniehobson.ca/" rel="friend met colleague">Stephanie Hobson</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://tantek.com/" rel="friend met colleague">Tantek Çelik</a>
+</li>
+<li class="vcard">
+<a class="fn url" href="http://www.pollenation.net/journal/tim" rel="acquaintance met colleague">Tim Parkin</a>
+</li>
+</ul>
+
+</div>
+
+<div class="box">
+
+<h3>Buy my book</h3>
+
+<p class="screenshot"><a rev="vote-for" href="http://books.alistapart.com/"><img src="/images/html5_cover_small.gif" alt="HTML5 for Web Designers"></a></p>
+
+</div>
+
+</div>
+
+
+<!-- The large print giveth and the small print taketh away -->
+
+<div id="footer">
+<p class="smallprint">© 1998 - 2010 <a href="mailto:jeremy@adactio.com" title="jeremy@adactio.com">Jeremy Keith</a>.</p>
+<p class="smallprint"><a href="http://validator.w3.org/check/referer" title="I came, I saw, I validated">Veni, vidi, validatio</a>. <a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS too">Et tu, CSS?</a>.</p>
+<p class="smallprint"><a accesskey="0" href="/about/accessibility.php" title="access key: 0">Accessibility statement</a></p>
+</div>
+
+</body></html>

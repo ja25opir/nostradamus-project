@@ -1,0 +1,703 @@
+<html><head>
+		<!-- -->
+
+		<!-- --> 
+			<title>24. Genetic Testing</title>
+			 
+		<!-- --><style type="text/css" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><!--
+		.hiColor{color: #DDE4EC;}
+		.hiBackColor{background-color: #DDE4EC;}
+		.loColor{color: #125A66;}
+		.loBackcolor{background-color: #125A66;}
+		-->
+</style><script language="JavaScript" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><!--
+                    
+				var SiteSearchCommon_ie4 = (((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )));
+				var SiteSearchCommon_ns3 = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )));
+
+				function executeSearch(form){
+					var strValue = "";
+					if (SiteSearchCommon_ie4 || SiteSearchCommon_ns3) {
+						if (form.cmbSearch.options[form.cmbSearch.selectedIndex].value!='') {
+							strValue = form.cmbSearch.options[form.cmbSearch.selectedIndex].value;
+							switch (strValue){
+								case "22012640-9f91-11d4-ad36-00508b6cbb35":  //HealthInformation
+									document.frmHealthInfoSearch.search1.value = form.txtSearchFor.value;
+									document.frmHealthInfoSearch.submit();
+									break;
+								case "22012641-9f91-11d4-ad36-00508b6cbb35": //LocalInformation
+									document.frmLocalInfoSearch.qu.value = form.txtSearchFor.value;
+									document.frmLocalInfoSearch.submit();
+									break;
+								case "22012642-9f91-11d4-ad36-00508b6cbb35":  //MedlineInformation
+									document.frmMedlineInfoSearch.search1.value = form.txtSearchFor.value;
+									document.frmMedlineInfoSearch.submit();
+									break;
+								case "22012643-9f91-11d4-ad36-00508b6cbb35": //Guid To Drugs
+									break;
+								case "22012644-9f91-11d4-ad36-00508b6cbb35": //MedicalDictionary
+									document.frmMedicalDictSearch.search1.value = form.txtSearchFor.value;
+									document.frmMedicalDictSearch.submit();
+									break;
+							}
+						}
+					}
+				}
+
+				//--></script></head><body><form name="frmHealthInfoSearch" method="post" action="healthcontent.asp?form=1&amp;page=/transfer/search/processSearchRequest&amp;featureid=HGConsumerContent&amp;siteid=" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><input type="hidden" name="q1"><input type="hidden" name="search1"><input type="hidden" name="Action" value="Go"><input type="hidden" name="featureid" value="HGConsumerContent"></form>
+<form name="frmLocalInfoSearch" method="get" target="_top" action="/LocalSearch.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><input type="hidden" name="qu"><input type="hidden" name="language"><input type="hidden" name="COL" value="alaskaregional"><!--Leave this comment here!--></form>
+<form name="frmMedlineInfoSearch" method="post" action="healthcontent.asp?form=1&amp;page=/transfer/search/processSearchRequest&amp;featureid=SearchMedLine&amp;siteid=" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><input type="hidden" name="q1"><input type="hidden" name="query"><input type="hidden" name="range" value="Explicit"><input type="hidden" name="search1"><input type="hidden" name="f" value="S"><input type="hidden" name="ReADER" value="1"><input type="hidden" name="2YR" value="on"><input type="hidden" name="stem" value="0"><input type="hidden" name="d" value="fmedl"><input type="hidden" name="word"><input type="hidden" name="search_option" value="exact"><input type="hidden" name="featureid" value="SearchMedLine"></form>
+<form name="frmGuideToDrugs" method="post" action="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><!--Leave this comment here!-->
+</form>
+<form name="frmMedicalDictSearch" method="post" action="healthcontent.asp?form=1&amp;page=/transfer/search/processSearchRequest&amp;featureid=SearchMedDict&amp;siteid=" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><input type="hidden" name="word"><input type="hidden" name="search_option" value="exact"><input type="hidden" name="search1"><input type="hidden" name="featureid" value="SearchMedDict"></form>
+		<!-- -->
+	<!--*************************************Java Include********************************************-->
+	<!--*********************************************************************************************-->
+	<script language="javascript">
+	<!--
+	var grcid; //this variable helps to support the print this page functionality. Do not remove! -CM
+
+	function fnICUNavigate(strUrl,strTarget,strPopupUrl,strPopupName,strPopupFeatures)
+	{
+		//First check for the popup, if it exists then pop it..
+		if(strPopupUrl != null && strPopupUrl != "")
+		{
+			window.open(strPopupUrl,strPopupName,strPopupFeatures);
+		}
+		//Now let's look for the 
+		if( strUrl != null && strUrl != '')
+		{
+			var win = fnWindowObjectFromTargetName(strTarget);
+			win.location = strUrl;
+		}
+	}
+
+	function fnWindowObjectFromTargetName (strTarget)
+	{
+		switch (strTarget)
+		{
+			//case undefined:
+			//case null : 
+			case '':
+			case '_self' : return window;
+			case '_parent' : return window.parent;
+			case '_top' : return window.top;
+			case '_blank' : return window.open();
+			default : return window.open('about:blank', strTarget, '', true);
+		}
+	}
+	//-->
+	</script>
+	<!--*********************************************************************************************-->
+	<!--*********************************************************************************************-->
+
+		<!-- --><script language="JavaScript" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><!--
+		
+		function PrintThisPage(logo) 
+		{
+			var html = "";
+			
+			if(navigator.appName.indexOf("Microsoft") > -1 && parseInt(navigator.appVersion.substring(0,1)) >= 4)
+			{ 
+				if(document.all["spanMainContent"])	
+					html = document.all["spanMainContent"].innerHTML; 
+			}
+			else if(navigator.appName.indexOf("Netscape") > -1 && parseInt(navigator.appVersion.substring(0,1)) >= 5)
+			{ 
+				if(document.getElementById("spanMainContent"))
+					html = document.getElementById("spanMainContent").innerHTML; 
+			}
+
+			if( html.length == 0 )
+			{
+				window.print();
+				return;
+			}
+
+			var iHtml = 
+				'<table border="0" width="100%">' +
+				'<tr><td align="left"><a href="javascript:window.print();">Print</a></td>' +
+				'<td align="right"><a href="javascript:window.close();">Close</a></td></tr>';
+			if( logo.length > 0 )
+			{
+				iHtml += '<tr><td colspan="2" align="center"><img src="' + logo + '" /></td></tr>';
+			}
+			iHtml += '<tr><td colspan="2">' + html + '</td></tr>' +
+				'</table>';
+
+			var wnd = window.open("","PrintWindow","height=440,width=600,menubar=0,status=0,scrollbars=1,toolbar=0");
+
+			var isready = false;
+			while (isready == false)
+			{
+				if( wnd.document.body )
+					isready = true;
+			}
+
+			var doc = wnd.document;
+			doc.title = document.title;
+			doc.open();
+			doc.write('<HTML><BODY>' + iHtml + '</BODY></HTML>');
+			doc.close();
+		}
+	
+		//--></script>
+		<!-- --><link href="images/superthemes/Fawcett/FawcettStyles.css" type="text/css" rel="stylesheet"><link href="/Cpm/FawcettStyles.css" type="text/css" rel="stylesheet">
+				<!-- -->
+
+	
+	
+		
+		<!-- QuickMenu Pro, Copyright (c) 1998-2003, OpenCube Inc., All Rights Reserved. 
+     Visit www.opencube.com for current QuickMenu Pro downloads and information. -->
+		<script language="JavaScript1.2">dqm__codebase = "images/superthemes/Fawcett/"</script>
+
+
+		<script language="JavaScript1.2" src="/CPM/site_menu.txt"></script>
+
+	
+		<!--BEGIN FLYOUT LINKS-->
+		
+		<script language="javascript1.2">
+		<!--
+		
+		function GetOpenCubeUrlTarget(strTarget)
+		{
+			if(strTarget == "_top")
+				return "_parent";
+			else if(strTarget == "_blank")
+				return "_new";
+			else
+				return strTarget;
+		}
+		dqm__urltarget = GetOpenCubeUrlTarget("_self")
+		/*************BEGIN MENU 0"*************/
+		dqm__maindesc0="Our Services"
+		dqm__subdesc0_0="Cancer Care Center"
+		dqm__url0_0="CustomPage.asp?guidCustomContentID=F4AA4720-2EEC-4609-B3F4-2AEC851C338A"
+		dqm__subdesc0_1="Cardiovascular Services"
+		dqm__url0_1="CustomPage.asp?guidCustomContentID=B08DDC5D-92B5-43FA-B889-381CA4321A24"
+		dqm__subdesc0_2="Cradle Club"
+		dqm__url0_2="CustomPage.asp?guidCustomContentID=C1BCD8FA-F51D-4DAA-A841-539ED9A24F61"
+		dqm__subdesc0_3="Emergency Services"
+		dqm__url0_3="CustomPage.asp?guidCustomContentID=55701BF7-4D81-11D4-A2E2-00508B62BE1F"
+		dqm__subdesc0_4="LifeFlight"
+		dqm__url0_4="CustomPage.asp?guidCustomContentID=55701C90-4D81-11D4-A2E2-00508B62BE1F"
+		dqm__subdesc0_5="Neuroscience Center"
+		dqm__url0_5="CustomPage.asp?guidCustomContentID=CDB99AE1-A313-4749-9FAE-1D64E27B972B"
+		dqm__subdesc0_6="Orthopedic &amp; Spine Center"
+		dqm__url0_6="CustomPage.asp?guidCustomContentID=4D110DA8-54BE-46A9-ABC2-6D85DFB241EC"
+		dqm__subdesc0_7="Robotic Surgery"
+		dqm__url0_7="CustomPage.asp?guidCustomContentID=3EAD4114-6058-413C-8313-D58C7B0B4229"
+		dqm__subdesc0_8="Stroke Center"
+		dqm__url0_8="CustomPage.asp?guidCustomContentID=1C762403-23FD-4EEC-B885-289C7CD12554"
+		dqm__subdesc0_9="Web Babies"
+		dqm__url0_9="cpm/w-index.html"
+		dqm__subdesc0_10="Women's and Children's Services"
+		dqm__url0_10="CustomPage.asp?guidCustomContentID=402ED993-338E-4CA5-BF4C-D86DE1B003AE"
+		/*************BEGIN MENU 1"*************/
+		dqm__maindesc1="Patient Safety"
+		dqm__subdesc1_0="The Joint Commission"
+		dqm__url1_0="CustomPage.asp?guidCustomContentID=18AC05C6-BA1B-4865-A441-82AC3CD639B6"
+		dqm__subdesc1_1="CAMTS Accreditation"
+		dqm__url1_1="CustomPage.asp?guidCustomContentID=FB223D26-3A6B-4DF1-87B9-84FF5EEB9031"
+		dqm__subdesc1_2="H1N1 Virus"
+		dqm__url1_2="CustomPage.asp?guidCustomContentID=2D79563B-C885-47B4-8A1C-48CDF4EB46AF"
+		dqm__subdesc1_3="MRSA"
+		dqm__url1_3="CustomPage.asp?guidCustomContentID=A238FA22-7172-4A4E-AC02-D50650767BE9"
+		/*************BEGIN MENU 2"*************/
+		dqm__maindesc2="Online Tools"
+		dqm__subdesc2_0="Find a Physician"
+		dqm__url2_0="PhysRef.asp"
+		dqm__subdesc2_1="Maps and Directions"
+		dqm__url2_1="Map.asp"
+		dqm__subdesc2_2="Bill Payment"
+		dqm__url2_2="BillingInq.asp"
+		dqm__subdesc2_3="Events Calendar"
+		dqm__url2_3="CommCal.asp"
+		dqm__subdesc2_4="Phone Directory"
+		dqm__url2_4="PhoneDir.asp"
+		dqm__subdesc2_5="Local News"
+		dqm__url2_5="LocalNews.asp"
+		dqm__subdesc2_6="Registration"
+		dqm__url2_6="RegInfo.asp"
+		dqm__subdesc2_7="Best Flowers"
+		dqm__url2_7="clickthru.asp?http://ehc.bestflowers.com/gate.cfm?AffiliateID={41FF6FAD-DF58-11D3-AD19-00508B91A0DD}"
+		dqm__subdesc2_8="Virtual Petals"
+		dqm__url2_8="Cards.asp"
+		dqm__subdesc2_9="Cheercards ®"
+		dqm__url2_9="Cards.asp"
+		dqm__subdesc2_10="Volunteer Opportunities"
+		dqm__url2_10="VolOpp.asp"
+		dqm__subdesc2_11="Genus MD"
+		dqm__url2_11="GenusHome.asp"
+		dqm__subdesc2_12="Physician Portal"
+		dqm__url2_12="http://portal.alaskaregional.com"
+		dqm__subdesc2_13="Hospital Affiliation Letters for Medical Center Staff"
+		dqm__url2_13="CustomPage.asp?guidCustomContentID=E3D3DB12-8CA7-4F0F-8D43-5492FD422D3C"
+		/*************BEGIN MENU 3"*************/
+		dqm__maindesc3="Your Health"
+		dqm__subdesc3_0="UpToDate Medical Answers for Patients"
+		dqm__url3_0="http://www.uptodate.com/patients/index.html"
+		dqm__urltarget3_0=GetOpenCubeUrlTarget("_blank")
+		dqm__subdesc3_1="Conditions InBrief"
+		dqm__url3_1="healthcontent.asp?page=/contentSelection/dci/index"
+		dqm__subdesc3_2="Procedures inMotion"
+		dqm__url3_2="healthcontent.asp?page=/animations/index"
+		dqm__subdesc3_3="Virtual Body"
+		dqm__url3_3="VBody.asp"
+		dqm__subdesc3_4="Health Library"
+		dqm__url3_4=" http://alaskaregional.kramesonline.com/"
+		dqm__subdesc3_5="Guide to Breast Cancer"
+		dqm__url3_5="http://www.alaskaregional.com/CustomPage.asp?guidCustomContentID={192C3D28-4927-11D4-A2E1-00508B62BE1F}"
+		dqm__subdesc3_6="Free BSE DVD"
+		dqm__url3_6="cpm/video.htm"
+		dqm__urltarget3_6=GetOpenCubeUrlTarget("_blank")
+		/*************BEGIN MENU 4"*************/
+		dqm__maindesc4="Career Center"
+		dqm__subdesc4_0="Career Center"
+		dqm__url4_0="CustomPage.asp?guidCustomContentID=070A3B10-4BC3-4679-B695-293D358A3A14"
+		/*************BEGIN MENU 5"*************/
+		dqm__maindesc5="About Us"
+		dqm__subdesc5_0="Our History"
+		dqm__url5_0="CustomPage.asp?guidCustomContentID=09548006-BC70-4124-8FE9-18E6B507E40B"
+		dqm__subdesc5_1="We Believe"
+		dqm__url5_1="CustomPage.asp?guidCustomContentID=98419C5B-2E22-467C-9772-00534037D308"
+		dqm__subdesc5_2="Meet Our CEO"
+		dqm__url5_2="CustomPage.asp?guidCustomContentID=DD869D74-7918-490D-9368-8226C234C504"
+		dqm__subdesc5_3="Meet Our Executive Team"
+		dqm__url5_3="CustomPage.asp?guidCustomContentID=B3B3A6B3-3E00-4DE5-BA6C-FDF49EBB687B"
+		dqm__subdesc5_4="Contact Us"
+		dqm__url5_4="CustomPage.asp?guidCustomContentID=B10D90C2-9731-11D4-81F3-00508B1249D5"
+		
+		//-->
+		</script>
+		<!-- WEB SPIDERING LINKS  -->
+		<a href="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=F4AA4720-2EEC-4609-B3F4-2AEC851C338A" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=B08DDC5D-92B5-43FA-B889-381CA4321A24" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=C1BCD8FA-F51D-4DAA-A841-539ED9A24F61" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=55701BF7-4D81-11D4-A2E2-00508B62BE1F" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=55701C90-4D81-11D4-A2E2-00508B62BE1F" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=CDB99AE1-A313-4749-9FAE-1D64E27B972B" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=4D110DA8-54BE-46A9-ABC2-6D85DFB241EC" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=3EAD4114-6058-413C-8313-D58C7B0B4229" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=1C762403-23FD-4EEC-B885-289C7CD12554" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="cpm/w-index.html" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=402ED993-338E-4CA5-BF4C-D86DE1B003AE" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=18AC05C6-BA1B-4865-A441-82AC3CD639B6" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=FB223D26-3A6B-4DF1-87B9-84FF5EEB9031" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=2D79563B-C885-47B4-8A1C-48CDF4EB46AF" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=A238FA22-7172-4A4E-AC02-D50650767BE9" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="PhysRef.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="Map.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="BillingInq.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CommCal.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="PhoneDir.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="LocalNews.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="RegInfo.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="clickthru.asp?http://ehc.bestflowers.com/gate.cfm?AffiliateID={41FF6FAD-DF58-11D3-AD19-00508B91A0DD}" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="Cards.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="Cards.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="VolOpp.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="GenusHome.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="http://portal.alaskaregional.com" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=E3D3DB12-8CA7-4F0F-8D43-5492FD422D3C" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="http://www.uptodate.com/patients/index.html" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="healthcontent.asp?page=/contentSelection/dci/index" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="healthcontent.asp?page=/animations/index" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="VBody.asp" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href=" http://alaskaregional.kramesonline.com/" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="http://www.alaskaregional.com/CustomPage.asp?guidCustomContentID={192C3D28-4927-11D4-A2E1-00508B62BE1F}" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="cpm/video.htm" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=070A3B10-4BC3-4679-B695-293D358A3A14" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=09548006-BC70-4124-8FE9-18E6B507E40B" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=98419C5B-2E22-467C-9772-00534037D308" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=DD869D74-7918-490D-9368-8226C234C504" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=B3B3A6B3-3E00-4DE5-BA6C-FDF49EBB687B" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+<a href="CustomPage.asp?guidCustomContentID=B10D90C2-9731-11D4-81F3-00508B1249D5" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"></a>
+
+		<!--END FLYOUT LINKS-->
+		<script language="JavaScript1.2" src="images/superthemes/Fawcett/tdqm_loader.js"></script>
+		
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+
+<script language="JavaScript">
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="dcs.ehc.com";
+var gDcsId="dcs5uu3e0gkevmfvbwza1hh3a_9h3z";
+var gDcsId_GLOBAL="dcsst9aeb6aw53iynoz2r7ijk_6g7w"; //GLOBAL REPORTING
+
+if (gDcsId==""){
+	var gTagPath=gDomain;
+}
+else{
+	var gTagPath=gDomain+"/"+gDcsId;
+}
+
+if (gDcsId_GLOBAL==""){ //GLOBAL REPORTING
+	var gTagPath_GLOBAL=gDomain;
+}
+else{
+	var gTagPath_GLOBAL=gDomain+"/"+gDcsId_GLOBAL;
+}
+
+
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	WT.ti=document.title;
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+//	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsuri=window.location.pathname;
+	DCS.dcsqry=window.location.search;
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsdat=dCurrent.getTime();
+}
+
+function A(N,V){
+	return "&"+N+"="+escape(V);
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(TagImage){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+TagImage+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag(gTagPath);
+dcsTag(gTagPath_GLOBAL); //GLOBAL REPORTING
+//-->
+</script>
+<noscript>
+<img border="0" name="DCSIMG" width="1" height="1" src="	http://dcs.ehc.com/dcs5uu3e0gkevmfvbwza1hh3a_9h3z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><img border="0" name="DCSIMG" width="1" height="1" src="	http://dcs.ehc.com/dcsst9aeb6aw53iynoz2r7ijk_6g7w/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com">
+</noscript>
+
+		<div class="logoimage">
+			<table height="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" width="400"><!--VPM META DATA--DO NOT DELETE--VPM-formatted text; this disables auto linebreak formatting: <table --><img src="/CPM/AlaskaHeader.jpg">
+</td>
+					<td valign="bottom" width="320">
+						<div class="searchstyle"><form class="SearchForm" name="frmSearch" action="javascript:executeSearch(document.frmSearch)" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com">
+<table border="0" cellpadding="0" cellspacing="0" class="searchtable">
+<tbody><tr>
+<td nowrap class="searchstyle" align="right">Search in&nbsp;&nbsp;</td>
+<td>
+<div id="SearchHide"><select name="cmbSearch" class="searchdropdown"><option value="22012640-9f91-11d4-ad36-00508b6cbb35">Health Information</option>
+<option value="22012641-9f91-11d4-ad36-00508b6cbb35">Local Information</option>
+<option value="22012642-9f91-11d4-ad36-00508b6cbb35">Medline Information</option>
+<option value="22012644-9f91-11d4-ad36-00508b6cbb35">Medical Dictionary</option></select></div>
+</td>
+<td nowrap class="searchstyle" align="right">&nbsp;&nbsp;for&nbsp;&nbsp;</td>
+<td><input name="txtSearchFor" type="text" class="searchtextbox" size="15"></td>
+<td nowrap class="searchimagecell"><a href="javascript:executeSearch(document.frmSearch)" class="searchgourl">Go</a></td>
+</tr>
+</tbody></table>
+</form></div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div class="menubar">
+			<script language="javascript1.2">generate_mainitems()</script>
+			</div>
+		<table class="maincontent" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td class="sidemenu" valign="top" width="150">
+					<div class="sidemenu"><style xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com">
+		.secondarynavAnchor A{}
+		.secondarynavAnchor A:active{}
+		.secondarynavAnchor A:visited{}
+		.secondarynavAnchor A:hover{}
+	</style>
+<table border="0" cellspacing="0" cellpadding="0" style="border:;
+			Width:100%;" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com">
+<tbody><tr>
+<td colspan="2">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+<td class="secnavheadertop">
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="100%" class="secnavheader" style="secnavheaderstyle">Alaska Regional</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="secnavheaderbottom">
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" width="100%">
+<tbody><tr>
+<td valign="top" align="left" width="100%" class="secnavanchor" style="secnavanchorstyle">
+<div class="secnavdiv"><a class="secnavanchor" target="" href="Default.asp">Home</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+						<!-- --></div>
+					<div class="submenu"></div>
+				</td>
+				<td class="maincontentarea" valign="top">
+					<div class="maincontentarea"><span id="spanMainContent"><!--VPM META DATA--DO NOT DELETE--VPM-formatted text; this disables auto linebreak formatting: <table -->
+<script language="JavaScript" src="http://www.hcacancerguide.com/cpm/quicknav.js_" type="text/JavaScript"></script>
+
+<h3>GENETIC TESTING</h3>A small percentage of patients who develop breast cancer (5-10%) do so on the basis of an inherited mutation in one of two breast cancer susceptibility genes. A woman can inherit a cancer-causing gene from either her mother or her father. 
+<p></p>
+<p>Families with an inherited cancer syndrome generally have multiple members who are affected in multiple generations. There are people with bilateral breast cancer and there are family members who are affected by cancer at young ages. Sometimes there are also family members who have had other forms of cancer, particularly ovarian cancer. If you have several close relatives with breast cancer, you should speak with your healthcare provider about genetic counseling. Two genes have been found which can lead to a lifetime risk of acquiring breast cancer that approaches 90%. They are called BRCA1 and BRCA2. Sensitive tests can be done to see whether these mutations are present in a person who has been affected by cancer. The tests can also be done on family members who are not affected. </p>
+<p>The information obtained from genetic testing can be useful in many ways. It can allow a person who has had cancer in one breast to be extremely vigilant about screening tests on the other breast. It can also allow a patient to choose to have preventive surgery to reduce cancer risk. Knowledge of genetic testing results can help advise family members who are unaffected by cancer but worried about their chances for developing it in the future. </p>
+<p>Just because testing has shown that a specific person has the gene, it cannot be determined when, or even if, cancer will inevitably follow. Before making the decision to have genetic testing, contact your physician and genetic counselor to help you make an informed decision. The possible risks, benefits, and alternatives must be addressed. </p>
+<table cellspacing="0" cellpadding="3" width="100%" border="0">
+
+<tbody><tr valign="center">
+<td align="left"><a href="CustomPage.asp?guidCustomContentID=6CCA0D91-59BD-4EE0-A0F9-71A698F7F7A0"><img height="25" src="http://www.hcacancerguide.com/cpm/back.gif" width="25" border="0"></a></td>
+<td align="middle">.: 24 :.</td>
+<td align="right"><a href="CustomPage.asp?guidCustomContentID=639DA771-90EA-42C6-8705-8E4324D6E418"><img height="25" src="http://www.hcacancerguide.com/cpm/next.gif" width="25" border="0"></a></td></tr></tbody></table>
+<script language="JavaScript" src="http://www.hcacancerguide.com/cpm/updated.js_" type="text/JavaScript"></script><script language="javascript">
+<!--
+		var pagePath = "CPM:Breast Cancer Guide:24. Genetic Testing";//-->
+</script>
+<script language="Javascript">
+<!--
+var grcid = "41ff6b79-df58-11d3-ad19-00508b91a0dd";
+// -->
+</script>
+</span></div>
+				</td>
+				<td class="sidesyncontent" valign="top">
+</td>
+			</tr>
+		</tbody></table>
+		<div class="bottombar"></div>
+		<table class="maincontent">
+			<tbody><tr>
+				<td class="bottomcell" valign="top" align="left" width="50%"><table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com">
+<tbody><tr>
+<td align="left" valign="middle" nowrap class="terms"><a target="_self" href="http://www.ehc.com"><img border="0" src="images/superthemes/Fawcett/poweredbyehc.gif"></a></td>
+</tr>
+<tr>
+<td align="left" valign="middle" nowrap class="terms">
+						Copyright © 1999-2010<br></td>
+</tr>
+<tr>
+<td align="left" valign="middle" nowrap class="terms"><a class="terms" target="" href="http://www.ehc.com" color="">ehc.com</a>; All rights reserved.
+					</td>
+</tr>
+<tr>
+<td align="left" valign="middle" nowrap class="terms"><a class="terms" target="" href="http://www.ehc.com/CustomPage.asp?guidCustomContentID={46F9B152-EBE0-11D4-81F5-00508B1249D5}" color="">Terms &amp; Conditions of Use</a></td>
+</tr>
+<tr>
+<td align="left" valign="middle" nowrap class="terms"><a class="terms" target="" href="http://www.ehc.com/CustomPage.asp?guidCustomContentID={46F9B14D-EBE0-11D4-81F5-00508B1249D5}" color="">Privacy Statement</a></td>
+</tr>
+</tbody></table></td>
+				<td class="bottomcell" valign="top" align="right" width="50%"><font size="2" face="Arial, Helvetica, sans-serif" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ehcsitesearch="http://www.ehc.com" xmlns:ehccopyright="http://www.ehc.com" xmlns:ehcopencube="http://www.ehc.com"><b>Alaska Regional Hospital</b><br><font size="1">2801 DeBarr Road<br>Anchorage,&nbsp;
+				AK&nbsp;
+				99508<br>
+				Telephone:
+				(907) 276-1131<br></font>
+</font>
+</td>
+			</tr>
+		</tbody></table>
+	
+
+
+<script language="JavaScript" type="text/javascript" src="/WebAnalyticsGlobalJS.asp"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+// set s.charset to match your page character encoding.
+s.charSet="ISO-8859-1"
+
+// Defaults
+s.pageName=""
+s.server="a.ehc.com"
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+s.eVar6=""
+s.eVar7=""
+s.eVar8=""
+
+// Look for Javascript variables placed by components
+if("undefined" != typeof(pagePath))
+{
+	var path = pagePath.toLowerCase().split(":")
+
+		// pageName
+		if(path.length != 0) s.pageName = path.pop();
+		path.reverse();
+
+		// channel
+		if(path.length != 0) s.channel = path.pop();
+
+		// prop1
+		if(path.length != 0) s.prop1 = s.channel + ":" + path.pop();
+
+		// prop2
+		if(path.length != 0) s.prop2 = s.prop1 + ":" + path.pop();
+
+		// prop3
+		if(path.length != 0) s.prop3 = s.prop2 + ":" + path.pop();
+
+		// prop4
+		if(path.length != 0) {
+			s.prop4 = s.prop3;
+			while(path.length != 0) {
+				s.prop4 += ":" + path.pop();
+			}
+		}
+}
+else
+{
+	var pageName = window.location.pathname.toLowerCase();
+		if("/" == pageName.substring(0, 1)) pageName = pageName.substring(1);
+		s.pageName = pageName;
+}
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.15.1. --></body></html><!-- SiteCatalyst code version: H.15.1.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->

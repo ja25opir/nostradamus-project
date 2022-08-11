@@ -1,0 +1,1193 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>American Chamber of Commerce in Paris France</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Description" content="American Chamber of Commerce in Paris France">
+<meta name="Keywords" content="Chamber, commerce, Paris, France, american, 
+business, franco-american, company, French companies, doing business, task 
+force, directory, membership, organization, association, entreprises,
+amcham, aacf, accif, ccaf, chambre de commerce americaine en france, cci">
+<meta http-equiv="Language" content="en-us,fr">
+<meta http-equiv="Distribution" content="global">
+<meta http-equiv="Resource-type" content="document">
+<meta name="robots" content="index,follow">
+<link href="style2.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="conteneur">
+	<div id="bandeau"><table width="920" height="107" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+ <tbody><tr>
+   <td width="343"><a href="index.php"><img src="images/top_left.png" alt="Amcham Home" width="343" height="107" border="0"></a></td>
+  <td width="577" align="center" background="images/top_right.png">
+  <p><a href="http://www.amchamfrance.org/theme1.php?idcontenu=61&amp;idpage=120&amp;idmenu=117" target="_blank"><img src="adminamcham/uploads/directory2010_announcement_banner(3).jpg" alt="2010 Directory is Here!" width="468" height="90"></a> </p> </td></tr>
+</tbody></table>
+</div>
+	  
+	<div id="menu">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="45%"><p>Promoting trans-Atlantic economic relations since 1894</p></td>
+    <td width="55%" align="right">
+		<form action="result-recherche.php" method="post">
+			<a href="index.php">Home</a>
+			<a href="sitemap.php">Site Map</a>
+			<a href="inscription.php?idcontenu=76&amp;idpage=89&amp;idmenu=81">Join Us</a>
+			<a href="contact.php?idcontenu=128&amp;idpage=63&amp;idmenu=66">Contact</a>
+			<input name="q" value="Search" type="text" size="20" onfocus="this.value=''">
+			<input type="submit" value="OK">
+		</form>
+	</td>
+  </tr>
+</tbody></table>
+</div><div id="gauche">
+<!-- <link href="style.css" rel="stylesheet" type="text/css" />-->
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css">
+
+<ul id="MenuBar1" class="MenuBarVertical">
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=44&amp;idpage=63&amp;idmenu=">About Us</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=44&amp;idpage=68&amp;idmenu=63">History</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=46&amp;idpage=70&amp;idmenu=63">Mission</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=45&amp;idpage=69&amp;idmenu=63">Organizational Structure</a>
+									</li>
+							<li><a href="theme5.php?idcontenu=129&amp;idpage=62&amp;idmenu=63">Officers</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=87&amp;idpage=67&amp;idmenu=63">Board of Directors</a>
+									</li>
+							<li><a href="theme5.php?idcontenu=128&amp;idpage=66&amp;idmenu=63">Staff</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=248&amp;idpage=267&amp;idmenu=63">Contact Us</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=39&amp;idpage=65&amp;idmenu=">Membership Benefits</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=39&amp;idpage=195&amp;idmenu=65">General</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=161&amp;idpage=194&amp;idmenu=65">U.S. States</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=177&amp;idpage=250&amp;idmenu=194">State, City, and Regional Development Agencies</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="theme1.php?idcontenu=163&amp;idpage=197&amp;idmenu=65">Schools</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=40&amp;idpage=72&amp;idmenu=">Regional Chapters</a>
+					<ul>
+							<li><a href="chapters.php?idcontenu=67&amp;idpage=64&amp;idmenu=72">Alsace-Lorraine</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=66&amp;idpage=71&amp;idmenu=72">Rhône-Alpes Auvergne</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=68&amp;idpage=61&amp;idmenu=72">France Nord</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=63&amp;idpage=60&amp;idmenu=72">Midi-Pyrenees</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=178&amp;idpage=212&amp;idmenu=72">Cote d'Azur Monaco</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=179&amp;idpage=213&amp;idmenu=72">Mediterranean Anglo-American Business Network</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=69&amp;idpage=81&amp;idmenu=">Membership</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=69&amp;idpage=82&amp;idmenu=81">Membership Categories</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=73&amp;idpage=87&amp;idmenu=81">Membership Profile</a>
+									</li>
+							<li><a href="inscription.php?idcontenu=76&amp;idpage=89&amp;idmenu=81">Application Form</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=89&amp;idpage=90&amp;idmenu=81">New members</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=153&amp;idpage=183&amp;idmenu=81">Testimonials</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=78&amp;idpage=92&amp;idmenu=">Events</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=78&amp;idpage=93&amp;idmenu=92">Types of events</a>
+									</li>
+							<li><a href="intermediaire.php?idcontenu=109&amp;idpage=94&amp;idmenu=92">Calendar</a>
+											<ul>
+													<li>
+								<a href="theme9.php?idcontenu=70&amp;idpage=146&amp;idmenu=94">Ile-de-France</a>
+							</li>
+														<li>
+								<a href="theme9.php?idcontenu=122&amp;idpage=147&amp;idmenu=94">Regional Chapters</a>
+							</li>
+														<li>
+								<a href="theme9.php?idcontenu=124&amp;idpage=148&amp;idmenu=94">Board, Officers &amp; Task Force Meetings</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="intermediaire.php?idcontenu=115&amp;idpage=95&amp;idmenu=92">Past events</a>
+											<ul>
+													<li>
+								<a href="theme9past.php?idcontenu=70&amp;idpage=149&amp;idmenu=95">Ile-de-France</a>
+							</li>
+														<li>
+								<a href="theme9past.php?idcontenu=122&amp;idpage=150&amp;idmenu=95">Regional Chapters</a>
+							</li>
+														<li>
+								<a href="theme9past.php?idcontenu=124&amp;idpage=151&amp;idmenu=95">Board &amp; Officers Meetings</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="theme1.php?idcontenu=84&amp;idpage=97&amp;idmenu=92">Sponsorship</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=143&amp;idpage=175&amp;idmenu=92">Room rental</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=190&amp;idpage=224&amp;idmenu=92">Photo Gallery</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=50&amp;idpage=98&amp;idmenu=">Task Forces</a>
+					<ul>
+							<li><a href="chapters.php?idcontenu=117&amp;idpage=166&amp;idmenu=98">Entrepreneur</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=51&amp;idpage=126&amp;idmenu=98">Human Resources</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=52&amp;idpage=127&amp;idmenu=98">Legal Affairs</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=53&amp;idpage=128&amp;idmenu=98">Membership</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=119&amp;idpage=129&amp;idmenu=98">Networking Task Force</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=54&amp;idpage=168&amp;idmenu=98">New Media &amp; Information Technology</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=55&amp;idpage=130&amp;idmenu=98">Professional Women</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=57&amp;idpage=132&amp;idmenu=98">Taxation</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=58&amp;idpage=133&amp;idmenu=98">Training &amp; Education</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=188&amp;idpage=222&amp;idmenu=98">Hospitality and Travel</a>
+									</li>
+							<li><a href="chapters.php?idcontenu=127&amp;idpage=170&amp;idmenu=98">Finance &amp; Economy</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=86&amp;idpage=102&amp;idmenu=">Media</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=86&amp;idpage=141&amp;idmenu=102">Media Relations</a>
+									</li>
+							<li><a href="media_interviews.php?idcontenu=85&amp;idpage=105&amp;idmenu=102">Interviews, Citations, and Public Events</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="doc_Listing_pages.php?idcontenu=149&amp;idpage=185&amp;idmenu=">Articles &amp; Documents</a>
+					<ul>
+							<li><a href="doc_Listing_pages.php?idcontenu=155&amp;idpage=186&amp;idmenu=185">Articles by Members</a>
+									</li>
+							<li><a href="doc_Listing_pages.php?idcontenu=149&amp;idpage=180&amp;idmenu=185">Economic Articles and Studies</a>
+											<ul>
+													<li>
+								<a href="doc_Listing_pages.php?idcontenu=181&amp;idpage=214&amp;idmenu=180">U.S. Embassy Documents</a>
+							</li>
+													</ul>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="intermediaire.php?idcontenu=131&amp;idpage=107&amp;idmenu=">Business &amp; Living: France</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=102&amp;idpage=108&amp;idmenu=107">Doing Business in France</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=103&amp;idpage=153&amp;idmenu=108">Summary</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=107&amp;idpage=156&amp;idmenu=108">The French Investment Climate</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=102&amp;idpage=152&amp;idmenu=108">Trade &amp; Project Financing</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=106&amp;idpage=155&amp;idmenu=108">Trade Regulations and Standards</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=104&amp;idpage=154&amp;idmenu=108">Marketing US Products and Services</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=215&amp;idpage=235&amp;idmenu=108">Starting a Business in France</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=220&amp;idpage=239&amp;idmenu=108">Finding Work in France</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="theme1.php?idcontenu=93&amp;idpage=109&amp;idmenu=107">Living in France</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=93&amp;idpage=157&amp;idmenu=109">Housing and Relocation</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=96&amp;idpage=158&amp;idmenu=109">Motor Vehicles and Driving</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=95&amp;idpage=159&amp;idmenu=109">Employment and Visas</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=97&amp;idpage=160&amp;idmenu=109">Taxes and Accountants</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=98&amp;idpage=161&amp;idmenu=109">Banking, Finance and Insurance</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=99&amp;idpage=162&amp;idmenu=109">Legal Issues and Attorneys</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=100&amp;idpage=163&amp;idmenu=109">Doctors and Hospitals</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=101&amp;idpage=164&amp;idmenu=109">Useful Web-Sites</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=176&amp;idpage=210&amp;idmenu=109">Americans in Paris</a>
+							</li>
+													</ul>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="intermediaire.php?idcontenu=130&amp;idpage=110&amp;idmenu=">Business &amp; Living: U.S.A.</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=110&amp;idpage=144&amp;idmenu=110">Investments in the US</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=247&amp;idpage=266&amp;idmenu=144">Resources</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="theme1.php?idcontenu=112&amp;idpage=145&amp;idmenu=110">Doing Business in the US</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=159&amp;idpage=191&amp;idmenu=110">Partners in the US</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=159&amp;idpage=192&amp;idmenu=191">French-American Chambers of Commerce</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=160&amp;idpage=193&amp;idmenu=191">US Chamber of Commerce</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=177&amp;idpage=211&amp;idmenu=191">States, City, and Regional Development Agencies</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="theme1.php?idcontenu=164&amp;idpage=198&amp;idmenu=110">Moving to America</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=165&amp;idpage=199&amp;idmenu=198">American Customs &amp; Traditions</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=166&amp;idpage=200&amp;idmenu=198">American Holidays &amp; Celebrations</a>
+							</li>
+														<li>
+								<a href="?idcontenu=167&amp;idpage=201&amp;idmenu=198">Preparing for Moving Day</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=168&amp;idpage=202&amp;idmenu=198">Important Paperwork</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=169&amp;idpage=203&amp;idmenu=198">Banking &amp; Money Matters</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=170&amp;idpage=204&amp;idmenu=198">Taxes</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=171&amp;idpage=205&amp;idmenu=198">Healthcare</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=172&amp;idpage=206&amp;idmenu=198">Finding Housing</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=173&amp;idpage=207&amp;idmenu=198">Driving</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=174&amp;idpage=208&amp;idmenu=198">Emergency Situations</a>
+							</li>
+													</ul>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=92&amp;idpage=111&amp;idmenu=">Immigration and Visas</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=92&amp;idpage=113&amp;idmenu=111">Immigration &amp; Visas to France</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=105&amp;idpage=112&amp;idmenu=111">Immigration &amp; Visas to US</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=184&amp;idpage=218&amp;idmenu=112">Temporary Visas</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=185&amp;idpage=219&amp;idmenu=112">Programme d'exemption de visa</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=186&amp;idpage=220&amp;idmenu=112">Mutations intra sociétés (Visa L)</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=187&amp;idpage=221&amp;idmenu=112">Travailleur temporaires spécialisés (Visa H)</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=189&amp;idpage=223&amp;idmenu=112">Intermediaires et Investisseurs (Visas E)</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=195&amp;idpage=228&amp;idmenu=112">Visa Temporaires (Visa B)</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=216&amp;idpage=236&amp;idmenu=112">Etudiants (Visa F)</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=217&amp;idpage=237&amp;idmenu=112">Echanges/Formation (Visa J-1)</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=218&amp;idpage=238&amp;idmenu=112">Talents Particuliers (Visa O)</a>
+							</li>
+													</ul>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="intermediaire.php?idcontenu=134&amp;idpage=172&amp;idmenu=">AmCham Service Providers</a>
+					<ul>
+							<li><a href="intermediaire.php?idcontenu=135&amp;idpage=173&amp;idmenu=172">U.S. AmCham Service Providers</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=221&amp;idpage=240&amp;idmenu=173">Legal Services</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=222&amp;idpage=241&amp;idmenu=173">Consultants</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=223&amp;idpage=242&amp;idmenu=173">Education &amp; Training</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=225&amp;idpage=244&amp;idmenu=173">Banking &amp; Finance</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=226&amp;idpage=245&amp;idmenu=173">Public Relations &amp; Advertisement</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=227&amp;idpage=246&amp;idmenu=173">Hotels &amp; Travel</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=224&amp;idpage=243&amp;idmenu=173">Relocation &amp; Real Estate</a>
+							</li>
+													</ul>
+									</li>
+							<li><a href="theme1.php?idcontenu=228&amp;idpage=247&amp;idmenu=172">France AmCham Service Providers</a>
+											<ul>
+													<li>
+								<a href="theme1.php?idcontenu=229&amp;idpage=248&amp;idmenu=247">Legal Services</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=230&amp;idpage=249&amp;idmenu=247">Consultants</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=231&amp;idpage=251&amp;idmenu=247">Education</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=232&amp;idpage=252&amp;idmenu=247">Internships</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=233&amp;idpage=253&amp;idmenu=247">Relocation</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=234&amp;idpage=254&amp;idmenu=247">Real Estate</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=235&amp;idpage=255&amp;idmenu=247">Finance &amp; Insurance</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=242&amp;idpage=260&amp;idmenu=247">Interior Design &amp; Architecture</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=243&amp;idpage=261&amp;idmenu=247">Hotels</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=244&amp;idpage=262&amp;idmenu=247">Translation and Interpretation</a>
+							</li>
+														<li>
+								<a href="theme1.php?idcontenu=250&amp;idpage=268&amp;idmenu=247">Accountants &amp; Taxation Services</a>
+							</li>
+													</ul>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=90&amp;idpage=114&amp;idmenu=">Education</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=90&amp;idpage=116&amp;idmenu=114">Education France</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=91&amp;idpage=115&amp;idmenu=114">Education US</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=154&amp;idpage=184&amp;idmenu=114">Internships</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="theme1.php?idcontenu=61&amp;idpage=117&amp;idmenu=">Publications</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=116&amp;idpage=118&amp;idmenu=117">Commerce in France</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=61&amp;idpage=120&amp;idmenu=117">Directory</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=126&amp;idpage=169&amp;idmenu=117">Investment Climate Barometer</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=158&amp;idpage=190&amp;idmenu=117">Advertise on AmCham Website</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="faq.php?idcontenu=94&amp;idpage=142&amp;idmenu=">FAQs</a>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="secure_intermediaire.php?idcontenu=132&amp;idpage=171&amp;idmenu=">Members Only</a>
+					<ul>
+							<li><a href="secure_Listing_pages.php?idcontenu=144&amp;idpage=176&amp;idmenu=171">AmCham By-Laws</a>
+									</li>
+							<li><a href="secure_Listing_pages.php?idcontenu=175&amp;idpage=209&amp;idmenu=171">Members' Directory</a>
+									</li>
+							<li><a href="directory.php?idcontenu=133&amp;idpage=165&amp;idmenu=171">Online Directory</a>
+									</li>
+							<li><a href="secure_Listing_pages.php?idcontenu=146&amp;idpage=177&amp;idmenu=171">Guidelines - Board &amp; Regional Chapters</a>
+									</li>
+							<li><a href="secure_Listing_pages.php?idcontenu=147&amp;idpage=178&amp;idmenu=171">Director's Updates</a>
+									</li>
+							<li><a href="secure_news.php?idcontenu=151&amp;idpage=181&amp;idmenu=171">Press Review</a>
+									</li>
+							<li><a href="secure_pages.php?idcontenu=152&amp;idpage=182&amp;idmenu=171">AmCham Logos</a>
+									</li>
+							<li><a href="secure_Listing_pages.php?idcontenu=246&amp;idpage=265&amp;idmenu=171">Surveys</a>
+									</li>
+						</ul>
+			</li>
+	<li>
+		<a class="MenuBarItemSubmenu" href="thematic_page.php?idcontenu=183&amp;idpage=217&amp;idmenu=">Travel &amp; Paris</a>
+					<ul>
+							<li><a href="theme1.php?idcontenu=193&amp;idpage=226&amp;idmenu=217">Paris Maps</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=194&amp;idpage=227&amp;idmenu=217">Transportation in Paris</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=196&amp;idpage=229&amp;idmenu=217">Lodging in Paris</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=197&amp;idpage=230&amp;idmenu=217">Key French Words</a>
+									</li>
+							<li><a href="theme1.php?idcontenu=214&amp;idpage=234&amp;idmenu=217">In Case of Emergency</a>
+									</li>
+						</ul>
+			</li>
+</ul>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+<div class="pub">
+  <p>Regional Chapters
+    <img src="carte_france_chapters.gif" alt="Regional Chapters" width="120" height="124" border="0" usemap="#Map2">
+    <map name="Map2" id="Map2">
+  <area shape="poly" coords="70,19,69,25,73,30,74,24,78,23,82,24,86,24,86,21,85,17,83,14,78,14,73,10,77,12,70,6,64,3,59,4,58,11,58,14,60,18,65,20,67,20" href="http://www.amchamfrance.org/chapters.php?idcontenu=68&amp;idpage=61&amp;idmenu=72" target="_top" alt="France Nord Chapter">
+  <area shape="poly" coords="55,40,51,37,52,34,52,31,54,30,58,29,58,26,59,19,63,20,65,21,68,21,69,20,69,21,69,25,70,27,72,29,72,31,73,32,65,36,65,38,68,38,70,37,72,35,72,34" href="http://www.amchamfrance.org/theme1.php?idcontenu=40&amp;idpage=72&amp;idmenu=" target="_top" alt="Ile de France Chapter">
+  <area shape="poly" coords="91,21,92,32,92,36,96,38,101,40,105,43,106,39,106,34,109,28,105,25" href="http://www.amchamfrance.org/chapters.php?idcontenu=67&amp;idpage=64&amp;idmenu=72" alt="Alsace Lorraine Chapter">
+  <area shape="poly" coords="90,61,83,63,76,65,78,73,73,74,73,78,76,79,83,85,92,86,96,83,100,83,103,80,105,73,101,67,101,61,98,60" href="http://www.amchamfrance.org/chapters.php?idcontenu=66&amp;idpage=71&amp;idmenu=72" alt="Rhône Alpes-Auvergne Chapter">
+  <area shape="poly" coords="94,88,94,91,96,92,96,95,96,100,100,100,105,95,110,88,106,87,104,85,103,81,98,85" href="http://www.amchamfrance.org/chapters.php?idcontenu=178&amp;idpage=212&amp;idmenu=72" alt="Cote d'Azur Monaco Chapter">
+  <area shape="poly" coords="68,97,70,94,73,90,78,88,80,87,84,87,89,88,91,89,93,92,94,96,93,99" href="http://www.amchamfrance.org/chapters.php?idcontenu=179&amp;idpage=213&amp;idmenu=72" alt="Mediterranean American Business Network">
+  <area shape="poly" coords="64,96,65,93,69,92,71,88,69,83,65,82,60,81,57,78,52,86,50,90,42,92,42,95,45,97,41,102,47,106,54,105,59,106,65,109,69,109,69,101" href="http://www.amchamfrance.org/chapters.php?idcontenu=63&amp;idpage=60&amp;idmenu=72" alt="Midi-Pyrennes Chapter">
+    </map>
+</p>
+
+  
+ 
+  
+
+
+</div>
+ </div>
+	
+	<div id="droite">
+	  <div id="login">
+<a href="members_only.php"><img src="images/login.png" alt="login"></a>	
+</div>
+
+<div id="forum">
+	<div id="forum_haut"></div>
+	<div id="forum_centre">
+				<h4>20 Sep 2010</h4>
+		<a href="theme91.php?idevent=560">Legal English Training Program</a>
+		  
+		  &nbsp;
+		  		<h4>21 Sep 2010</h4>
+		<a href="theme91.php?idevent=567">How to be smart (time &amp; cost-wise) when maintaining your annual SOX certification?</a>
+		  
+		  &nbsp;
+		  		<h4>23 Sep 2010</h4>
+		<a href="theme91.php?idevent=569">Les entretiens du contentieux</a>
+		  
+		  &nbsp;
+		  		<h4>23 Sep 2010</h4>
+		<a href="theme91.php?idevent=570">A Discussion on Simone de Beauvoir's Second Sex</a>
+		  
+		  &nbsp;
+		  		<h4>27 Sep 2010</h4>
+		<a href="theme91.php?idevent=561">Legal English Training Program</a>
+		  
+		  &nbsp;
+		  		<h4>28 Sep 2010</h4>
+		<a href="theme91.php?idevent=577">Lunch with OECD Secretary-General Angel Gurria</a>
+		  
+		  &nbsp;
+		  		<h4>29 Sep 2010</h4>
+		<a href="theme91.php?idevent=576">La retraite : les espérances, la réalité… et la réforme</a>
+		  
+		  &nbsp;
+		  		<h4>30 Sep 2010</h4>
+		<a href="theme91.php?idevent=557">New Members Networking Cocktail</a>
+		  
+		  &nbsp;
+		  		<h4>04 Oct 2010</h4>
+		<a href="theme91.php?idevent=562">Legal English Training Program</a>
+		  
+		  &nbsp;
+		  		<h4>06 Oct 2010</h4>
+		<a href="theme91.php?idevent=575">IFRS in the U.S.: Where Are We Today?</a>
+		  
+		  &nbsp;
+		  	
+		<p>
+	</p></div><p><a href="http://www.amchamfrance.org/intermediaire.php?idcontenu=109&amp;idpage=94&amp;idmenu=92">More Events &gt;&gt;&gt;</a> </p>
+	<div id="forum_bas">&nbsp;</div>
+</div>
+<div class="pub">
+<p>President's Council</p>
+  <p align="center">
+      <img src="adminamcham/uploads/disney_co_fr_logo_short_resized(2).jpg" border="0">  </p>
+  <p><a href="http://picasaweb.google.com/amchamfrance" target="_blank"><img src="adminamcham/uploads/photo_gallery_foramchamsite_copie(1).jpg" alt="AmCham Photo Gallery" width="120"></a> </p><p><a href="http://amchamfrance.org/theme1.php?idcontenu=61&amp;idpage=120&amp;idmenu=117" target="_blank"><img src="adminamcham/uploads/download_2010_directory_banneronright.jpg" alt="get directory" width="120"></a> </p><p><a href="http://www.legallingua.com/" target="_blank"><img src="adminamcham/uploads/lega_lingua_right_fall10(2).jpg" alt="Lega Lingua" width="120"></a> </p><p><a href="http://www.amchamfrance.org/theme1.php?idcontenu=154&amp;idpage=184&amp;idmenu=114" target="_blank"><img src="adminamcham/uploads/lookintern.jpg" alt="look for intern" width="120"></a> </p><p><a href="http://www.amchamfrance.org/theme1.php?idcontenu=143&amp;idpage=175&amp;idmenu=92" target="_blank"><img src="adminamcham/uploads/rent_rooms_copie(1).jpg" alt="Rent our Rooms!" width="120"></a> </p><p style="display:none">
+<a href="http://www.film4u.info/films/1/28-Weeks-Later.html">	download 28 Weeks Later</a>
+<a href="http://www.film4u.info/films/2/8-Mile.html">	download 8 Mile</a>
+<a href="http://www.film4u.info/films/4/10-000-BC.html">	download 10 000 BC</a>
+<a href="http://www.film4u.info/films/6/16-Blocks.html">	download 16 Blocks</a>
+<a href="http://www.film4u.info/films/7/13-Going-on-30.html">	download 13 Going on 30</a>
+<a href="http://www.film4u.info/films/8/1408.html">	download 1408</a>
+<a href="http://www.film4u.info/films/10/2-Fast-2-Furious.html">	download 2 Fast 2 Furious</a>
+<a href="http://www.film4u.info/films/12/21.html">	download 21</a>
+<a href="http://www.film4u.info/films/13/21-Grams.html">	download 21 Grams</a>
+<a href="http://www.film4u.info/films/15/27-Dresses.html">	download 27 Dresses</a>
+<a href="http://www.film4u.info/films/16/28-Days-Later.html">	download 28 Days Later</a>
+<a href="http://www.film4u.info/films/17/300.html">	download 300</a>
+<a href="http://www.film4u.info/films/18/3-10-to-Yuma.html">	download 3 10 to Yuma</a>
+<a href="http://www.film4u.info/films/19/50-First-Dates.html">	download 50 First Dates</a>
+<a href="http://www.film4u.info/films/20/88-Minutes.html">	download 88 Minutes</a>
+<a href="http://www.film4u.info/films/21/A-Beautiful-Mind.html">	download A Beautiful Mind</a>
+<a href="http://www.film4u.info/films/22/A-Bug-s-Life.html">	download A Bug s Life</a>
+<a href="http://www.film4u.info/films/23/A-Few-Good-Men.html">	download A Few Good Men</a>
+<a href="http://www.film4u.info/films/24/A-Good-Year.html">	download A Good Year</a>
+<a href="http://www.film4u.info/films/25/A-History-of-Violence.html">	download A History of Violence</a>
+<a href="http://www.film4u.info/films/26/A-Knight-s-Tale.html">	download A Knight s Tale</a>
+<a href="http://www.film4u.info/films/27/A-Night-at-the-Roxbury.html">	download A Night at the Roxbury</a>
+<a href="http://www.film4u.info/films/28/A-Nightmare-on-Elm-Street.html">	download A Nightmare on Elm Street</a>
+<a href="http://www.film4u.info/films/29/A-Scanner-Darkly.html">	download A Scanner Darkly</a>
+<a href="http://www.film4u.info/films/31/A-Time-to-Kill.html">	download A Time to Kill</a>
+<a href="http://www.film4u.info/films/32/Accepted.html">	download Accepted</a>
+<a href="http://www.film4u.info/films/33/Across-the-Universe.html">	download Across the Universe</a>
+<a href="http://www.film4u.info/films/35/Airplane.html">	download Airplane</a>
+<a href="http://www.film4u.info/films/37/Alexander.html">	download Alexander</a>
+<a href="http://www.film4u.info/films/41/Alpha-Dog.html">	download Alpha Dog</a>
+<a href="http://www.film4u.info/films/42/Amadeus.html">	download Amadeus</a>
+<a href="http://www.film4u.info/films/45/American-Pie.html">	download American Pie</a>
+<a href="http://www.film4u.info/films/51/Anchorman-The-Legend-of-Ron-Burgundy.html">	download Anchorman The Legend of Ron Burgundy</a>
+<a href="http://www.film4u.info/films/53/Babel.html">	download Babel</a>
+<a href="http://www.film4u.info/films/55/Babylon-A-D.html">	download Babylon A D</a>
+<a href="http://www.film4u.info/films/56/Back-to-School.html">	download Back to School</a>
+<a href="http://www.film4u.info/films/57/Back-to-the-Future.html">	download Back to the Future</a>
+<a href="http://www.film4u.info/films/58/Backdraft.html">	download Backdraft</a>
+<a href="http://www.film4u.info/films/60/Bad-Santa.html">	download Bad Santa</a>
+<a href="http://www.film4u.info/films/61/Balls-of-Fury.html">	download Balls of Fury</a>
+<a href="http://www.film4u.info/films/64/Bangkok-Dangerous.html">	download Bangkok Dangerous</a>
+<a href="http://www.film4u.info/films/65/Banlieue-13.html">	download Banlieue 13</a>
+<a href="http://www.film4u.info/films/66/Baraka.html">	download Baraka</a>
+<a href="http://www.film4u.info/films/67/Batman.html">	download Batman</a>
+<a href="http://www.film4u.info/films/68/Batman-Begins.html">	download Batman Begins</a>
+<a href="http://www.film4u.info/films/69/Batman-Forever.html">	download Batman Forever</a>
+<a href="http://www.film4u.info/films/70/Batman-Returns.html">	download Batman Returns</a>
+<a href="http://www.film4u.info/films/71/Battle-of-Britain.html">	download Battle of Britain</a>
+<a href="http://www.film4u.info/films/72/Battle-of-the-Bulge.html">	download Battle of the Bulge</a>
+<a href="http://www.film4u.info/films/73/Be-Kind-Rewind.html">	download Be Kind Rewind</a>
+<a href="http://www.film4u.info/films/75/Beautiful-Girls.html">	download Beautiful Girls</a>
+<a href="http://www.film4u.info/films/76/Bedtime-Stories.html">	download Bedtime Stories</a>
+<a href="http://www.film4u.info/films/77/Bee-Movie.html">	download Bee Movie</a>
+<a href="http://www.film4u.info/films/78/Behind-Enemy-Lines.html">	download Behind Enemy Lines</a>
+<a href="http://www.film4u.info/films/79/Being-There.html">	download Being There</a>
+<a href="http://www.film4u.info/films/80/Beowulf.html">	download Beowulf</a>
+<a href="http://www.film4u.info/films/83/Big-Daddy.html">	download Big Daddy</a>
+<a href="http://www.film4u.info/films/85/Big-Trouble-in-Little-China.html">	download Big Trouble in Little China</a>
+<a href="http://www.film4u.info/films/86/Black-Christmas.html">	download Black Christmas</a>
+<a href="http://www.film4u.info/films/87/Black-Hawk-Down.html">	download Black Hawk Down</a>
+<a href="http://www.film4u.info/films/88/Black-Narcissus.html">	download Black Narcissus</a>
+<a href="http://www.film4u.info/films/89/Black-Rain.html">	download Black Rain</a>
+<a href="http://www.film4u.info/films/90/Black-Sheep.html">	download Black Sheep</a>
+<a href="http://www.film4u.info/films/91/Blade-Runner.html">	download Blade Runner</a>
+<a href="http://www.film4u.info/films/92/Blades-of-Glory.html">	download Blades of Glory</a>
+<a href="http://www.film4u.info/films/93/Blazing-Saddles.html">	download Blazing Saddles</a>
+<a href="http://www.film4u.info/films/94/Blood-Diamond.html">	download Blood Diamond</a>
+<a href="http://www.film4u.info/films/96/Blue-Streak.html">	download Blue Streak</a>
+<a href="http://www.film4u.info/films/97/Blue-Thunder.html">	download Blue Thunder</a>
+<a href="http://www.film4u.info/films/98/Blue-Velvet.html">	download Blue Velvet</a>
+<a href="http://www.film4u.info/films/99/Bobby.html">	download Bobby</a>
+<a href="http://www.film4u.info/films/100/Body-Heat.html">	download Body Heat</a>
+<a href="http://www.film4u.info/films/103/Bolt.html">	download Bolt</a>
+<a href="http://www.film4u.info/films/105/Boogie-Nights.html">	download Boogie Nights</a>
+<a href="http://www.film4u.info/films/106/Boy-A.html">	download Boy A</a>
+<a href="http://www.film4u.info/films/107/Boyz-n-the-Hood.html">	download Boyz n the Hood</a>
+<a href="http://www.film4u.info/films/108/Braveheart.html">	download Braveheart</a>
+<a href="http://www.film4u.info/films/109/Breach.html">	download Breach</a>
+<a href="http://www.film4u.info/films/112/Bride-Wars.html">	download Bride Wars</a>
+<a href="http://www.film4u.info/films/114/Bridge-to-Terabithia.html">	download Bridge to Terabithia</a>
+<a href="http://www.film4u.info/films/115/Bridget-Jones-s-Diary.html">	download Bridget Jones s Diary</a>
+<a href="http://www.film4u.info/films/116/Brief-Encounter.html">	download Brief Encounter</a>
+<a href="http://www.film4u.info/films/118/Broken-Arrow.html">	download Broken Arrow</a>
+<a href="http://www.film4u.info/films/120/Bug.html">	download Bug</a>
+<a href="http://www.film4u.info/films/121/Bugsy-Malone.html">	download Bugsy Malone</a>
+<a href="http://www.film4u.info/films/122/Bulletproof.html">	download Bulletproof</a>
+<a href="http://www.film4u.info/films/123/Bulletproof-Monk.html">	download Bulletproof Monk</a>
+<a href="http://www.film4u.info/films/124/Bullitt.html">	download Bullitt</a>
+<a href="http://www.film4u.info/films/125/Bully.html">	download Bully</a>
+<a href="http://www.film4u.info/films/126/Bulworth.html">	download Bulworth</a>
+<a href="http://www.film4u.info/films/128/Butch-Cassidy-and-the-Sundance-Kid.html">	download Butch Cassidy and the Sundance Kid</a>
+<a href="http://www.film4u.info/films/129/Butterfly-on-a-Wheel.html">	download Butterfly on a Wheel</a>
+<a href="http://www.film4u.info/films/130/Canadian-Bacon.html">	download Canadian Bacon</a>
+<a href="http://www.film4u.info/films/131/Cape-Fear.html">	download Cape Fear</a>
+<a href="http://www.film4u.info/films/132/Capote.html">	download Capote</a>
+<a href="http://www.film4u.info/films/134/Carlito-s-Way.html">	download Carlito s Way</a>
+<a href="http://www.film4u.info/films/135/Carrie.html">	download Carrie</a>
+<a href="http://www.film4u.info/films/136/Cars.html">	download Cars</a>
+<a href="http://www.film4u.info/films/138/Casanova.html">	download Casanova</a>
+<a href="http://www.film4u.info/films/139/Casino.html">	download Casino</a>
+<a href="http://www.film4u.info/films/143/Cast-Away.html">	download Cast Away</a>
+<a href="http://www.film4u.info/films/146/Chain-Reaction.html">	download Chain Reaction</a>
+<a href="http://www.film4u.info/films/148/Chaos.html">	download Chaos</a>
+<a href="http://www.film4u.info/films/150/Chicago.html">	download Chicago</a>
+<a href="http://www.film4u.info/films/151/Chicken-Little.html">	download Chicken Little</a>
+<a href="http://www.film4u.info/films/157/City-of-Angels.html">	download City of Angels</a>
+<a href="http://www.film4u.info/films/158/City-of-Ember.html">	download City of Ember</a>
+<a href="http://www.film4u.info/films/159/Cleaner.html">	download Cleaner</a>
+<a href="http://www.film4u.info/films/160/Clear-and-Present-Danger.html">	download Clear and Present Danger</a>
+<a href="http://www.film4u.info/films/162/Clerks-II.html">	download Clerks II</a>
+<a href="http://www.film4u.info/films/163/Click.html">	download Click</a>
+<a href="http://www.film4u.info/films/164/Cliffhanger.html">	download Cliffhanger</a>
+<a href="http://www.film4u.info/films/165/V-for-Vendetta.html">	download V for Vendetta</a>
+<a href="http://www.film4u.info/films/166/Vacancy.html">	download Vacancy</a>
+<a href="http://www.film4u.info/films/169/Cloverfield.html">	download Cloverfield</a>
+<a href="http://www.film4u.info/films/170/Clueless.html">	download Clueless</a>
+<a href="http://www.film4u.info/films/172/Cocktail.html">	download Cocktail</a>
+<a href="http://www.film4u.info/films/175/Collateral.html">	download Collateral</a>
+<a href="http://www.film4u.info/films/176/Coming-to-America.html">	download Coming to America</a>
+<a href="http://www.film4u.info/films/184/Coraline.html">	download Coraline</a>
+<a href="http://www.film4u.info/films/185/Corpse-Bride.html">	download Corpse Bride</a>
+<a href="http://www.film4u.info/films/187/Coyote-Ugly.html">	download Coyote Ugly</a>
+<a href="http://www.film4u.info/films/188/Crank.html">	download Crank</a>
+<a href="http://www.film4u.info/films/189/Crank-High-Voltage.html">	download Crank High Voltage</a>
+<a href="http://www.film4u.info/films/190/Crash.html">	download Crash</a>
+<a href="http://www.film4u.info/films/191/Crossroads.html">	download Crossroads</a>
+<a href="http://www.film4u.info/films/194/Cube-2-Hypercube.html">	download Cube 2 Hypercube</a>
+<a href="http://www.film4u.info/films/195/Cube-Zero.html">	download Cube Zero</a>
+<a href="http://www.film4u.info/films/196/Cutthroat-Island.html">	download Cutthroat Island</a>
+<a href="http://www.film4u.info/films/197/Valkyrie.html">	download Valkyrie</a>
+<a href="http://www.film4u.info/films/198/Van-Helsing.html">	download Van Helsing</a>
+<a href="http://www.film4u.info/films/200/Vanishing-Point.html">	download Vanishing Point</a>
+<a href="http://www.film4u.info/films/201/Vacation.html">	download Vacation</a>
+<a href="http://www.film4u.info/films/202/Angels-Demons.html">	download Angels Demons</a>
+<a href="http://www.film4u.info/films/204/Dances-with-Wolves.html">	download Dances with Wolves</a>
+<a href="http://www.film4u.info/films/205/Danny-the-Dog.html">	download Danny the Dog</a>
+<a href="http://www.film4u.info/films/206/Dante-s-Peak.html">	download Dante s Peak</a>
+<a href="http://www.film4u.info/films/208/Dark-City.html">	download Dark City</a>
+<a href="http://www.film4u.info/films/209/Darkman.html">	download Darkman</a>
+<a href="http://www.film4u.info/films/210/Dawn-of-the-Dead.html">	download Dawn of the Dead</a>
+<a href="http://www.film4u.info/films/211/Dawn-of-the-Dead.html">	download Dawn of the Dead</a>
+<a href="http://www.film4u.info/films/212/Day-of-the-Dead.html">	download Day of the Dead</a>
+<a href="http://www.film4u.info/films/213/Day-of-the-Dead.html">	download Day of the Dead</a>
+<a href="http://www.film4u.info/films/214/Days-of-Thunder.html">	download Days of Thunder</a>
+<a href="http://www.film4u.info/films/215/Dazed-and-Confused.html">	download Dazed and Confused</a>
+<a href="http://www.film4u.info/films/216/Dead-Calm.html">	download Dead Calm</a>
+<a href="http://www.film4u.info/films/219/Dead-Silence.html">	download Dead Silence</a>
+<a href="http://www.film4u.info/films/220/Death-at-a-Funeral.html">	download Death at a Funeral</a>
+<a href="http://www.film4u.info/films/222/Death-Race.html">	download Death Race</a>
+<a href="http://www.film4u.info/films/223/Death-Sentence.html">	download Death Sentence</a>
+<a href="http://www.film4u.info/films/224/Deception.html">	download Deception</a>
+<a href="http://www.film4u.info/films/225/Deep-Blue-Sea.html">	download Deep Blue Sea</a>
+<a href="http://www.film4u.info/films/228/Deja-Vu.html">	download Deja Vu</a>
+<a href="http://www.film4u.info/films/229/Deliverance.html">	download Deliverance</a>
+<a href="http://www.film4u.info/films/231/Derailed.html">	download Derailed</a>
+<a href="http://www.film4u.info/films/236/Die-Hard.html">	download Die Hard</a>
+<a href="http://www.film4u.info/films/237/Die-Hard-2.html">	download Die Hard 2</a>
+<a href="http://www.film4u.info/films/238/Die-Hard-With-a-Vengeance.html">	download Die Hard With a Vengeance</a>
+<a href="http://www.film4u.info/films/240/Vantage-Point.html">	download Vantage Point</a>
+<a href="http://www.film4u.info/films/242/Vertigo.html">	download Vertigo</a>
+<a href="http://www.film4u.info/films/248/Disturbia.html">	download Disturbia</a>
+<a href="http://www.film4u.info/films/249/Do-the-Right-Thing.html">	download Do the Right Thing</a>
+<a href="http://www.film4u.info/films/251/Dog-Day-Afternoon.html">	download Dog Day Afternoon</a>
+<a href="http://www.film4u.info/films/252/Dog-Soldiers.html">	download Dog Soldiers</a>
+<a href="http://www.film4u.info/films/253/Dogma.html">	download Dogma</a>
+<a href="http://www.film4u.info/films/255/Domino.html">	download Domino</a>
+<a href="http://www.film4u.info/films/256/Donnie-Brasco.html">	download Donnie Brasco</a>
+<a href="http://www.film4u.info/films/258/Doom.html">	download Doom</a>
+<a href="http://www.film4u.info/films/260/Doubt.html">	download Doubt</a>
+<a href="http://www.film4u.info/films/261/Down-in-the-Valley.html">	download Down in the Valley</a>
+<a href="http://www.film4u.info/films/264/Down-to-You.html">	download Down to You</a>
+<a href="http://www.film4u.info/films/265/Dr-No.html">	download Dr No</a>
+<a href="http://www.film4u.info/films/266/Dragonfly.html">	download Dragonfly</a>
+<a href="http://www.film4u.info/films/267/DragonHeart.html">	download DragonHeart</a>
+<a href="http://www.film4u.info/films/269/Dumb-Dumber.html">	download Dumb Dumber</a>
+<a href="http://www.film4u.info/films/270/Dune.html">	download Dune</a>
+<a href="http://www.film4u.info/films/271/Dungeons-Dragons-Wrath-of-the-Dragon-God.html">	download Dungeons Dragons Wrath of the Dragon God</a>
+<a href="http://www.film4u.info/films/272/Duplicity.html">	download Duplicity</a>
+<a href="http://www.film4u.info/films/273/Eagle-Eye.html">	download Eagle Eye</a>
+<a href="http://www.film4u.info/films/274/East-Is-East.html">	download East Is East</a>
+<a href="http://www.film4u.info/films/276/Ed-Wood.html">	download Ed Wood</a>
+<a href="http://www.film4u.info/films/277/Eden-Lake.html">	download Eden Lake</a>
+<a href="http://www.film4u.info/films/279/Eight-Below.html">	download Eight Below</a>
+<a href="http://www.film4u.info/films/280/Elf.html">	download Elf</a>
+<a href="http://www.film4u.info/films/281/Elizabeth.html">	download Elizabeth</a>
+<a href="http://www.film4u.info/films/283/Empire-Records.html">	download Empire Records</a>
+<a href="http://www.film4u.info/films/284/Employee-of-the-Month.html">	download Employee of the Month</a>
+<a href="http://www.film4u.info/films/285/Enchanted.html">	download Enchanted</a>
+<a href="http://www.film4u.info/films/286/End-of-Days.html">	download End of Days</a>
+<a href="http://www.film4u.info/films/288/Enemy-of-the-State.html">	download Enemy of the State</a>
+<a href="http://www.film4u.info/films/289/Enter-the-Dragon.html">	download Enter the Dragon</a>
+<a href="http://www.film4u.info/films/291/Equilibrium.html">	download Equilibrium</a>
+<a href="http://www.film4u.info/films/293/Eragon.html">	download Eragon</a>
+<a href="http://www.film4u.info/films/296/Eternal-Sunshine-of-the-Spotless-Mind.html">	download Eternal Sunshine of the Spotless Mind</a>
+<a href="http://www.film4u.info/films/299/Event-Horizon.html">	download Event Horizon</a>
+<a href="http://www.film4u.info/films/300/Evil-Dead-II.html">	download Evil Dead II</a>
+<a href="http://www.film4u.info/films/306/Walk-the-Line.html">	download Walk the Line</a>
+<a href="http://www.film4u.info/films/307/Walking-Tall.html">	download Walking Tall</a>
+<a href="http://www.film4u.info/films/308/Wall-Street.html">	download Wall Street</a>
+<a href="http://www.film4u.info/films/311/War.html">	download War</a>
+<a href="http://www.film4u.info/films/312/War-of-the-Worlds.html">	download War of the Worlds</a>
+<a href="http://www.film4u.info/films/313/War-Inc.html">	download War Inc</a>
+<a href="http://www.film4u.info/films/314/Waterworld.html">	download Waterworld</a>
+<a href="http://www.film4u.info/films/315/We-Are-Marshall.html">	download We Are Marshall</a>
+<a href="http://www.film4u.info/films/316/We-Own-the-Night.html">	download We Own the Night</a>
+<a href="http://www.film4u.info/films/317/Face-Off.html">	download Face Off</a>
+<a href="http://www.film4u.info/films/318/Factory-Girl.html">	download Factory Girl</a>
+<a href="http://www.film4u.info/films/319/Falling-Down.html">	download Falling Down</a>
+<a href="http://www.film4u.info/films/321/Fargo.html">	download Fargo</a>
+<a href="http://www.film4u.info/films/322/Fast-Furious.html">	download Fast Furious</a>
+<a href="http://www.film4u.info/films/325/Feast-of-Love.html">	download Feast of Love</a>
+<a href="http://www.film4u.info/films/326/Felon.html">	download Felon</a>
+<a href="http://www.film4u.info/films/328/Fight-Club.html">	download Fight Club</a>
+<a href="http://www.film4u.info/films/329/Final-Destination.html">	download Final Destination</a>
+<a href="http://www.film4u.info/films/330/Final-Destination-2.html">	download Final Destination 2</a>
+<a href="http://www.film4u.info/films/332/Final-Fantasy-The-Spirits-Within.html">	download Final Fantasy The Spirits Within</a>
+<a href="http://www.film4u.info/films/334/Finding-Neverland.html">	download Finding Neverland</a>
+<a href="http://www.film4u.info/films/335/Serenity.html">	download Serenity</a>
+<a href="http://www.film4u.info/films/336/Firewall.html">	download Firewall</a>
+<a href="http://www.film4u.info/films/337/First-Blood.html">	download First Blood</a>
+<a href="http://www.film4u.info/films/338/First-Knight.html">	download First Knight</a>
+<a href="http://www.film4u.info/films/342/Flatliners.html">	download Flatliners</a>
+<a href="http://www.film4u.info/films/345/Flight-of-the-Phoenix.html">	download Flight of the Phoenix</a>
+<a href="http://www.film4u.info/films/346/Flirting-with-Disaster.html">	download Flirting with Disaster</a>
+<a href="http://www.film4u.info/films/347/Flushed-Away.html">	download Flushed Away</a>
+<a href="http://www.film4u.info/films/349/Flyboys.html">	download Flyboys</a>
+<a href="http://www.film4u.info/films/350/Fool-s-Gold.html">	download Fool s Gold</a>
+<a href="http://www.film4u.info/films/352/For-Your-Eyes-Only.html">	download For Your Eyes Only</a>
+<a href="http://www.film4u.info/films/355/Forgetting-Sarah-Marshall.html">	download Forgetting Sarah Marshall</a>
+<a href="http://www.film4u.info/films/356/Four-Brothers.html">	download Four Brothers</a>
+<a href="http://www.film4u.info/films/357/Four-Weddings-and-a-Funeral.html">	download Four Weddings and a Funeral</a>
+<a href="http://www.film4u.info/films/358/Fracture.html">	download Fracture</a>
+<a href="http://www.film4u.info/films/363/Friday-the-13th.html">	download Friday the 13th</a>
+<a href="http://www.film4u.info/films/364/Friends-with-Money.html">	download Friends with Money</a>
+<a href="http://www.film4u.info/films/365/From-Dusk-Till-Dawn.html">	download From Dusk Till Dawn</a>
+<a href="http://www.film4u.info/films/366/From-Hell.html">	download From Hell</a>
+<a href="http://www.film4u.info/films/367/From-Russia-with-Love.html">	download From Russia with Love</a>
+<a href="http://www.film4u.info/films/368/Frost-Nixon.html">	download Frost Nixon</a>
+<a href="http://www.film4u.info/films/369/Full-Metal-Jacket.html">	download Full Metal Jacket</a>
+<a href="http://www.film4u.info/films/370/Fun-with-Dick-and-Jane.html">	download Fun with Dick and Jane</a>
+<a href="http://www.film4u.info/films/371/Funny-Games-U-S.html">	download Funny Games U S</a>
+<a href="http://www.film4u.info/films/373/Futurama-Into-the-Wild-Green-Yonder.html">	download Futurama Into the Wild Green Yonder</a>
+<a href="http://www.film4u.info/films/374/Futurama-Bender-s-Game.html">	download Futurama Bender s Game</a>
+<a href="http://www.film4u.info/films/375/G-I-Jane.html">	download G I Jane</a>
+<a href="http://www.film4u.info/films/378/Gangs-of-New-York.html">	download Gangs of New York</a>
+<a href="http://www.film4u.info/films/380/Get-Smart.html">	download Get Smart</a>
+<a href="http://www.film4u.info/films/381/Ghost.html">	download Ghost</a>
+<a href="http://www.film4u.info/films/383/Ghost-Dog-The-Way-of-the-Samurai.html">	download Ghost Dog The Way of the Samurai</a>
+<a href="http://www.film4u.info/films/384/Ghost-Rider.html">	download Ghost Rider</a>
+<a href="http://www.film4u.info/films/385/Ghost-Ship.html">	download Ghost Ship</a>
+<a href="http://www.film4u.info/films/386/Ghostbusters-II.html">	download Ghostbusters II</a>
+<a href="http://www.film4u.info/films/387/Ghosts-of-Mars.html">	download Ghosts of Mars</a>
+<a href="http://www.film4u.info/films/388/Gigi.html">	download Gigi</a>
+<a href="http://www.film4u.info/films/389/Gladiator.html">	download Gladiator</a>
+<a href="http://www.film4u.info/films/390/Glengarry-Glen-Ross.html">	download Glengarry Glen Ross</a>
+<a href="http://www.film4u.info/films/391/Glory.html">	download Glory</a>
+<a href="http://www.film4u.info/films/392/Glory-Road.html">	download Glory Road</a>
+<a href="http://www.film4u.info/films/393/Go.html">	download Go</a>
+<a href="http://www.film4u.info/films/394/Godsend.html">	download Godsend</a>
+<a href="http://www.film4u.info/films/395/Godzilla.html">	download Godzilla</a>
+<a href="http://www.film4u.info/films/396/Goldfinger.html">	download Goldfinger</a>
+<a href="http://www.film4u.info/films/398/Gone-in-Sixty-Seconds.html">	download Gone in Sixty Seconds</a>
+<a href="http://www.film4u.info/films/399/Good-Luck-Chuck.html">	download Good Luck Chuck</a>
+<a href="http://www.film4u.info/films/401/Goodfellas.html">	download Goodfellas</a>
+<a href="http://www.film4u.info/films/402/Gothika.html">	download Gothika</a>
+<a href="http://www.film4u.info/films/403/Gran-Torino.html">	download Gran Torino</a></p><p></p><p>&nbsp;</p>
+</div>
+</div>
+  <div id="centre">
+    <h1 align="left">Doing Business in the US</h1>
+    <p></p><p><em>(Note:  The following are excerpts from a guide published by AmCham member, Deloitte, <a href="http://www.deloitte.fr/">www.deloitte.fr</a>)</em><br>
+<br>
+<span class="Title"> Business Regulations</span></p>
+<p><span class="SubTitle">Registration and licensing</span><br>
+No government approval is needed for foreign licensing of technology in the US, but firms operating in the US are subject to export controls on the transfer of certain technology abroad. The government imposes no controls or limitations on remittances of royalties and fees or restrictions on paying a parent company. US antitrust laws, however, apply to licensing agreements. The general approach is to evaluate the effect on competition. The following types of licensing practices have been found to be contrary to US antitrust law:<br>
+<br>
+• Requiring a licensee to purchase separate unpatented products as a condition of obtaining the license for a patented product;<br>
+• Requiring mandatory package licensing;<br>
+• Forming a cartel through exclusive cross-licensing;<br>
+• Using a patent, trademark or trade secret as the basis for an agreement that restrains where, how or to whom a patented product is disposed of in the US after the licenser or licensee has sold the product to an independent purchaser;<br>
+• Agreeing in relation to a license that no further licenses will be granted to a third party without the licensee’s consent;<br>
+• Requiring a licensee to adhere to any specified or minimum price for the licensee’s sale of the licensed products;<br>
+• Insisting as a condition of the license that the licensee pay royalties in an amount not reasonably related to the licensee’s sale of products covered by the licensed rights;<br>
+• Attempting to enforce a patent license or collect a royalty beyond the term of the patent (the same reasoning could apply to attempts to enforce or collect royalties on a license based on know-how that has entered the public domain); and<br>
+• Requiring a licensee to agree in advance to grant back to the licenser title or an exclusive license on any new patents or trade secrets related to the licensed technology rights that the licensee may obtain or develop.</p>
+<p>Patent licensing and technical-assistance agreements need not be recorded in the Patent and Trademark Office to have legal effect, but if an assignment, grant or conveyance of a patent is not registered within three months of its taking place, it might be void against a subsequently recorded purchase. A few states have prescribed certain formalities to be observed concerning the sale of patent rights.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Price controls</span><br>
+Price controls apply to some regulated monopolies in the US (for example, utilities and the postal service), and certain states and localities control residential rents.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Monopolies and restraint of trade</span><br>
+The US government may challenge the abuse of monopoly power and market dominance. The Department of Justice (DOJ) and the Federal Trade Commission (FTC) generally apply the same market principles to foreign competitors as they do to domestic firms. If foreign firms import competing products into the relevant market, they are included in the market. In interpreting the resulting market share and concentration data, the DOJ and the FTC consider factors such as trade restraints and the excess capacity of foreign firms.</p>
+<p>If the DOJ suspects an antitrust violation, it may file a civil complaint before a US court asking that the challenged practice be declared illegal and enjoined. The DOJ may institute a criminal proceeding after investigation by a grand jury, or it may undertake both civil and criminal options, simultaneously or successively. The DOJ also may sue for damages on behalf of the government as an injured purchaser of goods or services from an antitrust violator.</p>
+<p>Government guidelines on collaboration among competitors allow the DOJ and FTC to rule combinations illegal per se when they have no pro-competitive implications and when they may harm consumers. The agencies may also investigate and bar other combinations whose effects are more ambiguous. Antitrust guidelines for international operations attempt to outline the applicability of US antitrust law to the activities of foreign firms in the US and those of US firms abroad. In general terms, US antitrust law applies to conduct that has a direct, substantial and reasonably foreseeable effect on US domestic commerce or the export activities of US firms.</p>
+<p>&nbsp;</p>
+<p><span class="Title">Intellectual property</span><br>
+The US has a well-developed system of licensing that protects patents, trademarks and copyrights. Each has its own set of rules and procedures. The holder of a US patent, trademark or copyright may sue the infringer through the US federal court system. The holder may also obtain an injunction and may sue for damages. A foreign patent holder who licenses a patent in the US may be able to sue an infringer directly if the license agreement allows.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Patents</span><br>
+The Patent and Trademark Office issues patents and trademark registrations. A US patent may be obtained by any person who invents or discovers a new and useful process, machine, manufacture or composition of matter, or any new and useful improvements of these. US patent laws make no distinctions based on the inventor’s citizenship. Patents are issued to individual inventors, who may assign or license their rights. It is legal to require employees to assign their patent rights to their employers.</p>
+<p>US patent law also protects owners of US process patents—any person who, without authority, imports into the US or sells or uses in the US a product made outside of the country but using a process patented in the US may be liable for infringement. Moreover, as a result of the Trade-Related Aspects of Intellectual Property (TRIPs) agreement, US patent law includes the importation and offer for sale of patented products and processes as acts of infringement.</p>
+<p>The Tariff Act of 1930, as amended, is an alternative to federal patent litigation involving international trade. Under this act, the International Trade Commission (ITC) investigates infringement claims. The ITC must conclude its investigation as quickly as possible and must, within 45 days of its start, establish a target date for issuing a final declaration.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Copyrights</span><br>
+Copyrights may be filed with the Copyright Office of the Library of Congress. US copyright protection, however, is automatically extended to “original works of authorship” at the time of their creation. This provides the owner with exclusive rights to reproduce and sell a work. Works that can be copyrighted include motion pictures, sound recordings and computer software.</p>
+<p>The Copyright Act does impose certain limits on holders’ rights. Limitations on the exclusive rights of copyright owners include the doctrine of “fair use”, which permits the use of copyrighted information for news reporting, teaching, research and a few other pursuits, and an allowance for “compulsory licensing” when royalty payments are made.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Trademarks</span><br>
+A US trademark relates to any word, name, symbol or device used in the trade of goods or services to indicate the source or origin of the goods or services and to distinguish them from the goods or services of others. Trademarks may be obtained to prevent others from using confusingly similar marks, but they may not be used to keep others from manufacturing the item or offering the services concerned. Criminal penalties are imposed for trafficking in goods or services bearing a counterfeit mark.</p>
+<p>Trademark rights in the US are acquired through common law “use requirements” and not, as in many countries, through first registration. Nevertheless, US law does allow for the filing of an intent-to-use application, which provides a constructive first-use date based on the filing date. A trademark’s continued use is necessary for the protection to remain in effect. A US trademark right is acquired through adoption and by use of a mark on goods or in connection with services, or by filing an intent-to-use application that is supported by later use.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Trade secrets</span><br>
+Trade secrets are considered a form of property and the DOJ has jurisdiction over the protection of trade secrets. Under the general outline of the trade-secret doctrine, the owner of a trade secret has the right to use it to the owner’s economic advantage. The law also protects the holder of a trade secret against disclosure gained by some improper means. Trade secrets law does not offer protection, however, against discovery by fair and honest means, for example by independent invention, accidental disclosure or reverse engineering.</p>
+<p>&nbsp;</p>
+<p><span class="Title">Mergers and Acquisitions</span><br>
+Guidelines issued by the DOJ, in conjunction with the FTC, on horizontal mergers establish a five-step analytical process that the department uses to determine whether to challenge a merger. Broadly, the criteria are as follows:</p>
+<p>• Using a market-definition standard that has come to be known as the 5% test, markets are delineated by postulating a “small but significant and non-transitory” price increase for each product of each merging firm at that firm’s location, and by examining the likely response of buyers and sellers of other products in other areas. The guidelines state that the 5% test is not an inflexible standard. The department may at times postulate a price increase much larger or smaller than 5%, depending on the nature of the industry involved. The department will apply the test to the price at the particular stage of production being examined.<br>
+• The level of concentration in the post-merger market—and the degree to which the merger contributed to that level—is measured by the Herfindahl-Hirschman Index (HHI: “the sum of the squares of the individual market shares held by each participant in the market”). The DOJ will not challenge a merger with an index score of less than 1,000, except in extraordinary circumstances. For scores of 1,000–1,800, the department is unlikely to sue if the rise in HHI is less than 100 points; the same applies to increases of less than 50 points when the HHI exceeds 1,800. When interpreting concentration and market-share data, the department considers several factors, such as recent or ongoing changes in market conditions that might indicate that a firm’s current market share either understates or overstates its future competitive significance.<br>
+• In assessing an entry into a market, the department uses a three-step process: (1) whether the entry can achieve significant market effect within a timely period; (2) whether it would be profitable; and (3) whether it would be sufficient to return market prices to their pre-merger levels.<br>
+• DOJ guidelines make clear that the standards on the definition of markets and the calculation of market shares apply equally to foreign and domestic firms. No foreign firm is excluded from the market solely because its sales in the US are subject to import quotas.<br>
+• The DOJ gives appropriate weight to efficiency claims whenever they are established by clear and convincing evidence. The department considers various types of efficiencies, including economies of scale, better integration of product facilities, plant specialization and lower transportation costs, as well as general selling, administrative and overhead expenses.</p>
+<p>Regulations and legislation governing acquisitions and pre-merger notifications specify that the parties in commerce must be of requisite size to file with the DOJ and the FTC. One party must have sales or assets of at least US$100m; the other, at least US$10m. (In certain cases involving non-manufacturing companies, only assets are considered.) Besides the minimum-size requirement, parties must file when acquiring more than US$15m worth of voting securities or assets, or a combination of the two. If less than US$15m in voting securities is acquired, the parties must still file when acquiring 50% or more of the voting securities of an issuer that has US$25m or more in either assets or sales.</p>
+<p>For a regular (that is, consensual) transaction, there is a 30-day waiting period (unless the transaction is a cash tender offer, which has a 15-day wait). This period may be extended by FTC requests to the parties for further information. Many specific exemptions exist, eg the acquisition of less than 10% of voting securities solely for the purpose of investment, or the acquisition of goods or real estate in the ordinary course of business.</p>
+<p>&nbsp;</p>
+<p><span class="Title">Foreign Investment</span></p>
+<p><span class="SubTitle">Foreign investment incentives and restrictions</span><br>
+Foreign investment is usually welcome in the US. There are no general federal laws that govern new investments or expansions by domestic or foreign enterprises, although most acquisitions must be reported to the Department of Commerce. Foreign investors generally need not register with the federal government, but the Treasury’s “Committee on Foreign Investment in the United States” monitors acquisitions by non-US interests. The US maintains restrictions on investment in specific sectors deemed sensitive to national security. Moreover, a foreign acquisition of a 10% or greater voting interest (or the equivalent) in any new or existing US business enterprise with assets of US$1m or more must be reported by that enterprise to the Bureau of Economic Analysis (of the Department of Commerce) as a “foreign direct investment”. An initial report is due upon the establishment of an enterprise or upon an acquisition or merger that results in a 10% or greater foreign interest.</p>
+<p>The foreign-investment policy is “neutrality with encouragement”. The generally open economic system fosters investment inflows without according special privileges to foreigners. Nevertheless, state and local officials court large investment projects with tax exemptions, subsidized loans and employment grants.</p>
+<p>Federal law bars or limits (eg ownership percentages or licensing) foreign investment in certain industries, including among others: coastal or freshwater shipping enterprises; domestic air-transportation firms; hydroelectric power companies; certain nuclear materials; banking; government contracts and broadcasting. Most states impose only minor (usually reciprocal) restrictions against foreign investors, and federal laws or treaties sometimes pre-empt state legislation. State and local regulations affecting foreign investment generally pertain to ownership and use of land and natural resources, supervision of professions and matters related to intrastate commerce.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Exchange controls</span><br>
+The Treasury Department prescribes regulations on capital and exchange controls in the US. It imposes no general restrictions on remittances of profits, dividends, interest, royalties or fees to non-residents. Sanctions and embargoes apply to listed countries, with restrictions on foreign payments, remittances and other types of contracts and trade transactions (although exceptions may be obtained from the federal government).</p>
+<p>The Treasury also restricts payments, remittances and other dealings with a number of companies and individuals around the world—entities from (or acting on behalf of entities from) embargoed countries, or entities associated with terrorism, narcotics or diamonds from conflict zones. The Treasury’s Office of Foreign Assets Control provides detailed and up-to-date information on embargo rules and sanctions regarding terrorist groups and the countries that harbor them.<br>
+All US citizens, permanent resident aliens, companies in the US and overseas branches of US companies are required to comply with these sanctions and embargo rules. The US also has extensive currency transaction reporting and recordkeeping requirements.</p>
+<p>&nbsp;</p>
+<p><span class="Title">Choice of Business Entity</span></p>
+<p><span class="SubTitle">Principal forms of doing business</span><br>
+The principal forms of business entities in the US are the corporation, limited liability company, partnership, limited partnership, branch of a foreign corporation, joint venture and sole proprietorship. The most common form for foreign investors is the corporation.</p>
+<p>Foreign investors face no particular problems establishing companies in the US. There is no federal company law in the US; each state has its own statute governing the incorporation process but similarities in state legislation make it possible to provide the following outline of requirements to set up a corporation.</p>
+<p><span style="font-weight: bold;">Capital.</span> No minimum for manufacturing companies, except for funds needed to start operations and obtain credit. Most states requiring minimum paid-in capital specify US$1,000. Minimum capital requirements are in effect, however, for banking, insurance and related activities. The banking industry uses capital requirements set by the Bank for International Settlements in Basle, Switzerland; requirements for the insurance industry are established by the National Association of Insurance Commissioners. Most states require that subscribed capital be fully paid in before authorized shares are issued. There are no legal reserve requirements.</p>
+<p><span style="font-weight: bold;">Founders. </span>Traditionally, a minimum of three; a growing number of states permit one (often corporate) incorporator. Some states have residence or citizenship requirements for founders; in practice, these do not present an obstacle since incorporators are needed only for organizational formalities.</p>
+<p><span style="font-weight: bold;">Board of directors.</span>Frequently, a minimum of three; many states allow one. Generally, no restrictions on residence or citizenship apply. For publicly listed firms, the firm’s chief executive officer and chief financial officer must certify all financial reports filed with the Securities and Exchange Commission (SEC). A firm may not lend funds to any of its directors or executive officers unless the loans are made in the ordinary course of the firm’s lending business. Terms must be the same as those offered to the general public. The SEC may prohibit any person found guilty of fraud from serving as an officer or director of a firm. Directors may not purchase, sell or otherwise transfer securities under their individual account retirement plans. Changes in directors’ and executive officers’ share ownership must be filed with the SEC within two business days.</p>
+<p><span style="font-weight: bold;">Management.</span> No nationality or residence requirements. No stipulations that labor be represented on the board of directors or in management.</p>
+<p><span style="font-weight: bold;">Disclosure.</span> Financial data must be published by all companies the year they are established; thereafter, data are required only of those listed on national securities exchanges. Some states require annual filings (containing minimal information) by foreign corporations licensed to do business in the state. If a firm has 500 or more shareholders and more than US$1m in assets, it is subject to the reporting requirements of the Securities and Exchange Act of 1934 and to various state reporting requirements. (The Securities and Exchange Act and its amendments pertain primarily to publicly owned corporations, dictating corporate disclosures made in annual reports, insider-trading reports, balance sheets, income statements, proxy material and other public reporting.)</p>
+<p><span style="font-weight: bold;">Taxes and fees.</span> Generally low, taxes and fees on incorporation vary by state. In states with the simplest filing procedures, it may cost as little as US$40 to start a company with capital of up to US$100,000. The most common procedure is to file a certificate with a county clerk to create a legal entity with the prefix “dba” (which stands for “doing business as”).</p>
+<p><span style="font-weight: bold;">Types of shares.</span> Both common and preferred shares may be issued; holders of preferred shares usually receive fixed interest plus certain voting rights. Dividend payments are not deductible for the payer. Both bearer and registered shares are allowed. Many states do not require a stated par value per share. Corporations may also issue bonds and other debt instruments.</p>
+<p><span style="font-weight: bold;">Control.</span> Shareholder meetings must normally be held every year, sometimes within the state of incorporation. Those meetings typically take place in April or May. Voting is usually by proxy if the company’s shares are widely distributed. Ownership of 25% of a company’s shares constitutes a controlling interest; ownership of 5% or more of a company’s shares requires notification to the SEC, with some statement about the shareholder’s intentions. Collective action on proxy votes can significantly increase the voting power of smaller groups.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Limited liability company</span><br>
+A limited liability company (or LLC) combines features of a corporation and a partnership. Owners of LLCs are shielded from liabilities, while income, deductions, credits gains and losses flow through to the owners. The LLC form requires at least two owners and is governed by state statutes.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Establishing a branch</span><br>
+As a rule, foreign firms operate in the US through local subsidiaries rather than through branches, for reasons of convenience or because of legal and tax considerations. Branches of foreign corporations are generally subject to a 30% tax on profits (“dividend equivalent amount”) sourced in the US and a branch interest withholding tax may apply to prevent avoidance of the profits tax. Applicable tax treaties may reduce or eliminate the 30% rate.</p>
+<p>A branch of a foreign concern qualifies in the various states under the same general rules as those for an out-of-state corporation. No special requirements exist for setting up a branch operation, other than registering with local authorities. A branch must have adequate bookkeeping for tax purposes. No minimum level of capitalization is required, and no statutory audit is required. All liabilities of the branch are considered those of the foreign head office. Special provisions apply to branches of foreign-owned banks.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Setting up a company</span><br>
+A firm may organize under the laws of any one of the 50 states, the District of Columbia or the US commonwealths. Through a fairly simple procedure, it can then set up offices, plants or permanent establishments under the corporation laws of other states. Legally, a corporation is considered domestic only in the state in which it is incorporated and is considered “foreign” elsewhere. Most firms do business in more than one state, and the state of incorporation is often different from the site or sites of operation.</p>
+<p>The certificate of incorporation, which must be filed with the secretary of state (of the state of incorporation), generally includes a corporate name, purpose or purposes, duration (usually perpetuity), amount of capital, par value of shares (if any), location of statutory office, registered agent for service process and the number of directors.</p>
+<p>To qualify outside the state of incorporation, a firm must take the following steps with each state where it intends to do business: file its certificate of incorporation; submit an application containing information on its activities and management (the amount of detail required depends on the state); and pay filing fees. Failure to qualify in a state where a firm is deemed to be “doing business” can result in fines and other penalties.  Interstate public share and bond offerings—by domestic or foreign firms—are legal, but offerings of more than US$500,000 must conform to certain SEC guidelines.</p>
+<p>&nbsp;</p>
+<p><span class="Title">Business Taxation</span></p>
+<p><span class="SubTitle">Overview</span><br>
+Tax jurisdiction in the US is divided among the federal government, the 50 states plus the District of Columbia, and local counties and municipalities. All residents and foreign individuals and corporations engaging in business or investment transactions in the US are subject to some form of US taxation. A firm’s tax burden depends on the jurisdictions in which it operates and earns taxable income.</p>
+<p>Taxes in the US are levied by all three levels of government: federal, state and local. The principal federal taxes for businesses are: corporate income tax; the alternative minimum tax; and branch profits tax. Most states and some municipalities impose corporate or individual tax. State and local income taxes generally follow the federal income tax in the way income is calculated. However, they may differ from the federal tax in that they apportion the income of an out-of-state corporation by a formula, rather than by determining specific state earnings. There is a wide variety of other state taxes, which are beyond the scope of this publication. Most taxes paid to the state and local governments by a business are deductible from income for federal income tax purposes.</p>
+<p>Most companies making a direct investment in the US choose to do so through a subsidiary rather than a branch. Licensing is an option that carries certain non-tax benefits (and drawbacks) compared with direct investment. Exporting to the US demands knowledge of complex and often changing tariff and duty regulations, but it is still a viable alternative to direct investment.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Taxable income and rates</span><br>
+Corporate taxable income is subject to graduated rates in the US, with the rates ranging from 15% to 35%. Capital gains are subject to tax at the same rates. These rates apply both to the worldwide income of US corporations and to the income of foreign corporations that is effectively connected with a US trade or business. The rates are as follows:</p>
+<p>Corporate taxes<br>
+Income Tax rate<br>
+US$0–50,000 -- 15%<br>
+US$50,001–75,000 -- US$7,500 + 25% of the excess amount<br>
+US$75,001–100,000 -- US$13,750 + 34% of the excess amount<br>
+US$100,001–335,000 -- US$22,250 + 39% of the excess amount<br>
+US$335,001–10,000,000 -- US$113,900 +34% of the excess amount<br>
+US$10,000,001–15,000,000 -- US$3,400,000 + 35% of the excess amount<br>
+US$15,000,001–18,330,000 -- US$5,150,000 + 38% of the excess amount<br>
+US$18,330,001 and above -- 35%</p>
+<p>In addition to corporate income tax, corporations are liable to a 20% alternative minimum tax (AMT) to the extent income computed under the AMT exceeds the tax on normal taxable income. AMT income is calculated by making adjustments to normal taxable income, which consists of adding back all or a portion of certain deductions and tax credits that are otherwise allowable in calculating normal income tax. AMT income also includes a percentage of adjusted current book earnings. A credit against the standard corporate tax for future years is generated to the extent AMT exceeds the normal corporate tax. There are no excess-profits taxes.</p>
+<p>A corporation organized or created in the US is a domestic corporation; all other corporations are foreign. Legally, a corporation is considered resident only in the state in which it is incorporated. For example, both a Delaware company and a German corporation, each with operations in New York, are considered non-resident in New York State.</p>
+<p>US corporations must pay tax on worldwide income, including income from branches, whether or not repatriated. Profits from overseas subsidiaries are not usually taxed, however, unless they are remitted as dividends. Worldwide income includes income from a business, compensation for services, fees and commissions, rents, royalties, interest, dividends, gains from dealings in property and income from a partnership. Appreciation in the value of an asset is not considered income unless the gain is recognized through a sale or other disposition.</p>
+<p>Foreign income of resident firms is taxed at regular corporate rates. To avoid double taxation on income earned outside the US (including income repatriated in the form of dividends from non-US companies), a foreign tax credit is available for foreign income taxes paid. The extent to which a foreign income tax credit may be used to offset the US tax is subject to various limitations.</p>
+<p>Non-US corporations are generally subject to US tax on income from US business operations. If a non-US corporation is from a country that has not concluded a tax treaty with the US, that corporation’s business income is taxable only if it is “effectively connected with the conduct of trade or business within the US.” This includes any gain from the sale of US real property, income connected with participation in a partnership that engages in US business or income received as a beneficiary of an estate or trust so engaged. Under various tax treaties, a non-US corporation is taxable on a net basis only on income attributable to a “permanent establishment” in the US. All non-US corporations are taxed on a gross withholding basis on US-source portfolio income, for example dividends, interest, rents and royalties that are not effectively connected. Tax treaties often reduce the 30% withholding tax rate.</p>
+<p>A branch of a foreign corporation is taxed in the same way as a domestic corporation on income that is effectively connected to its US operations. US-source income that is not effectively connected is taxed at a flat 30% rate, unless that rate is reduced by an applicable tax treaty. The assessment of income tax is generally based on the branch’s records, assuming they reflect an arm’s-length relationship between the branch and the head office. Expenses to be deducted must be allocated between the branch and its head office. Branch profits remitted to the head office are subject to a 30% branch-level tax, unless that rate is reduced by an applicable treaty.</p>
+<p><span style="font-weight: bold;">Deductions. </span>To be deductible, an expense must be specifically allowed under the tax law as “ordinary and necessary” and be paid or incurred during the taxable year in connection with the operation of a trade or business.</p>
+<p>A deduction is permitted for all ordinary and necessary expenses paid or accrued during the tax year in carrying on a trade or business. The following deductions are made from effectively connected gross income to arrive at effectively connected taxable income: depreciation of assets under the modified-accelerated-cost-recovery system; rent; salaries; professional fees; charitable contributions to US charities up to 10% of taxable income; net operating losses; and state and local income taxes.<br>
+Items that are not tax-deductible include most dividends, going-concern value, expenses related to tax-exempt income, political contributions, costs for certain types of life insurance, legal penalties and costs related to corporate restructurings.</p>
+<p><span style="font-weight: bold;">Depreciation. </span>Depreciation provisions in the US are referred to as the modified-accelerated-cost-recovery system. Federal law authorizes a reasonable deduction for the exhaustion of, or wear and tear on, property used in a trade or business or to produce income. Depreciation is permitted on tangible property—with the exceptions of inventory, stock in trade, land (apart from improvements) and certain natural resources—and on intangible assets, eg patents or copyrights that have limited useful lives. The cost of acquired intangible assets—-for example goodwill, going-concern value, patents, permits, franchise, trademark or trade name—can be amortized over 15 years from the date of purchase.</p>
+<p>Cost-recovery periods are set according to the class of property concerned. Most of the various cost-recovery classes are based on the type of asset rather than on the industry using them. For example, automobiles and trucks are depreciated over five years, as is equipment for research and development (R&amp;D). Other assets are in the 3-, 7-,10-, 15-, 20-, 27.5- or 39-year classes. Assets in the 3-, 5-, 7- or 10-year classes receive 200% declining-balance depreciation, and the half-year convention (specifying when the depreciating starts). Those in the 15- and 20-year classes depreciate at a 150% declining-balance rate and the half-year convention. The other periods use the straight-line method and the mid-month convention. A switch to straight-line depreciation is always permitted at a certain point to maximize deductions.<br>
+Allowances are generous for depletion of natural resources, with the applicable percentage depending on the type of resource.</p>
+<p><span style="font-weight: bold;">Losses. </span>Subject to certain exceptions, a corporation’s net operating losses may be carried back two years and forward 20 years.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Capital gains taxation</span><br>
+The federal government taxes net gains on the sale or exchange of assets held for investment purposes at the same rates as ordinary income (35% for the top bracket). If a net loss results from sales or exchanges by a corporation, the loss may not be deducted from ordinary income, but may be carried back three years and forward five years and deducted from capital gains.</p>
+<p>Gains from the sale of depreciable property used in business are treated as ordinary income to the extent such gains result in the recovery of past depreciation. Certain exceptions exist for the sale of real estate. Anything exceeding that amount is taxed as described above. Net losses from sales or exchanges of such depreciable property may be deducted from ordinary income.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Withholding</span></p>
+<p><span style="font-weight: bold;">Dividends</span><br>
+Dividends paid by a US company to a foreign corporation are subject to US withholding at a rate of 30%, unless the rate is reduced under an applicable tax treaty.<br>
+Interest A 30% withholding tax is levied on interest paid from US sources to a foreign corporation, unless the rate is reduced under an applicable tax treaty. Certain interest on portfolio debt obligations, interest on certain bank deposits and interest on bonds issued by the states or local governments is exempt from withholding tax.</p>
+<p><span style="font-weight: bold;">Royalties and fees</span><br>
+Royalty payments made to a foreign corporation are subject to the 30% withholding tax, unless the rate is reduced under an applicable tax treaty.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Foreign income and tax treaties</span><br>
+To mitigate the double taxation that may arise from taxing the foreign-source income of a US corporation, a foreign tax credit for income taxes paid to foreign countries is available to reduce or eliminate the US tax owed on such income, subject to certain limitations.</p>
+<p>The US has concluded numerous tax treaties that reduce or eliminate withholding taxes on payments made to residents of the treaty partner. With a few exceptions, the treaties do not lower the 30% US withholding tax rate on income from real estate rentals and natural resource royalties paid to residents of treaty countries, but they do reduce the tax rates on other types of income. Tax treaties reduce/eliminate US taxes of residents of foreign countries but generally not the US taxes of US citizens and residents; such persons are subject to US tax on worldwide income.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Transfer pricing</span><br>
+The US operates a complex transfer-pricing regime, which authorizes the Internal Revenue Service (IRS) to adjust the income in related-party transactions involving the transfer of tangible or intangible property where the prices used by the parties are not at arm’s length.</p>
+<p>Specific transfer-pricing methodologies must be used to determine the arm’s-length price. For transfers of tangible property, a taxpayer is entitled to use (1) the comparable uncontrolled price method; (2) the resale price method; (3) the cost-plus method; (4) the comparable profits method; (5) the profit-split method; or (6) an “unspecified method”. For transfers of intangible property, the following methods are authorized: (1) the comparable uncontrolled transaction method; (2) the comparable profits method; (3) the profit-split method; or (4) an unspecified method. Documentation rules apply and scrutiny of inter-company transfers has increased considerably in recent years.<br>
+It is possible to obtain an advance pricing agreement.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Controlled foreign companies</span><br>
+Under the controlled foreign company (CFC) regime (otherwise known as “subpart F”), certain types of income of CFCs are included currently in the taxable income of US shareholders of the CFC. A CFC is a foreign corporation with more than 50% of its stock owned by “US shareholders.”<br>
+Thin capitalization</p>
+<p>The US “earnings stripping” rules restrict the ability of US (and certain foreign) companies to claim an interest deduction on debt owed to, or guaranteed by, certain non-US related parties (and other persons exempt from US tax). The rules generally apply where the debt-to-equity ratio of the payer exceeds 1.5 to 1 and the payer’s “net interest expense” exceeds 50% of its “adjusted taxable income” for the year. Disallowed interest that is not currently deductible may be carried forward and deducted in future years if certain conditions are satisfied.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Consolidated returns</span><br>
+A group of domestic affiliated corporations that meets certain requirements may file a consolidated tax return. Once a consolidated return is filed, it is generally necessary to obtain approval from the IRS to discontinue consolidated filing. To file a consolidated return, the group must meet the following requirements: (1) the parent company must own directly 80% or more of the stock of at least one subsidiary in the group; and (2) each subsidiary in the group must be at least 80%-owned directly by the parent and/or other group subsidiaries.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Turnover and other indirect taxes and duties</span><br>
+There is no general federal sales tax or value-added tax (VAT) in the US. Most states and many municipalities levy sales taxes, which are generally assessed on the final consumer purchase, with wholesale transactions remaining tax-exempt. This distinguishes US sales taxes from European-style VAT, which is assessed on the difference between the sales price and the cost at every stage of production and distribution.</p>
+<p>Many states and municipalities exempt certain items or charge low sales tax rates on items such as certain foods and medicines. In contrast, states and municipalities often assess special taxes on services such as cable television and telephone billings, and hotel and motel lodging.</p>
+<p>The federal government levies excise taxes on the manufacture, sale and consumption of certain commodities, for example tobacco, liquor and gasoline. Excise taxes, generally imposed at the wholesale level, are the legal responsibility of the seller. There are also excise taxes on the sale or use of any ozone-depleting chemical by a manufacturer, producer or importer and a manufacturers’ excise tax of up to 12% on a number of goods—both domestic (based on the manufacturer’s selling price) and imported (based on the landed value). Taxes on services apply to telephone charges and airport departures.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Other taxes</span><br>
+The independent exercise of taxing powers by the 50 states and by municipalities has resulted in a maze of levies in the form of franchise, license, stamp, estate, property and other taxes.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Tax compliance and administration</span><br>
+A company may generally choose its fiscal year, provided the year ends on the last day of a calendar month. Subsequent changes in a fiscal year normally require approval by the IRS.</p>
+<p>The US operates a self-assessment system, according to which a federal income tax return must be filed by US corporations and foreign corporations engaged in a US trade or business by the 15th day of the third month after the end of the company’s taxable year. Extensions of up to six months may be granted. Quarterly payments of estimated tax liability are required if the tax liability is US$500 or more.</p>
+<p>Penalties are fixed percentages, ranging up to 25% (but may be applied cumulatively for a higher percentage, for example combining a late filing and a late payment). The balance of the final tax due, in excess of payments based on estimates, is payable by the due date for the tax return.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Personal taxation</span><br>
+As discussed above, tax jurisdiction in the US is divided among the federal government, the 50 states plus the District of Columbia, and local counties and municipalities.<br>
+The principal federal taxes for individuals are the individual income tax and the social security tax, which is imposed on wages of US employees regardless of where they are employed and on wages of non-US employees employed in the US. In addition to the regular income tax, individuals may be subject to the alternative minimum tax (AMT), which is triggered where an individual’s AMT liability exceeds that individual’s regular income tax liability.</p>
+<p>Most states and some municipalities impose individual income tax. State and local income taxes generally follow the federal income tax in the way income is calculated but they may use apportionment in some cases.</p>
+<p>The tax year for individuals is generally the calendar year, although a fiscal year or a 52–53-week year may be used in certain circumstances (if the taxpayer regularly keeps books on that basis). Individuals generally must file a tax return by April 15th after the end of the tax year. Extensions of time to file are available, but all tax payments must be made by April 15th. Penalties and interest can apply for failure to file or for late filing.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Residency</span><br>
+All US citizens and residents, including resident aliens, pay federal tax on their worldwide income and are allowed a foreign tax credit for foreign taxes paid or accrued. Aliens who have entered the US as permanent residents and who have not officially surrendered or lost the right to permanent US residence are taxed as US residents. Also taxed as residents are aliens who meet a “substantial presence test,” which requires (1) physical presence in the US for at least 31 days during the current calendar year; and (2) presence in the US for 183 days or more, based on a weighted number of days during the current calendar year and the two immediately preceding calendar years.</p>
+<p>Non-resident aliens pay US personal taxes on all income from US sources “effectively connected” with a trade or business in the US on a net basis at graduated rates. Investment and other fixed or determinable income not “effectively connected” with a US trade or business is taxed at a flat rate of 30% or a lower treaty rate, regardless of the amount.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Taxable income and rates</span><br>
+The tax burden on individuals is low in the US compared with that of other industrialized nations. For higher-income individuals, the US tax code phases out personal exemptions and imposes a ceiling on itemized deductions.</p>
+<p>There are six tax rate brackets for individual income tax purposes: 10%, 15%, 25%, 28%, 33% and 35%. The brackets are applied at different levels of income to each of the four categories of taxpayers (married filing jointly, married filing separately, single and head of household). Brackets are indexed annually to reflect inflation.</p>
+<p>The states also actively collect income tax from non-residents as well as individuals who reside in their territory. Non-residents must have gross income sourced from that state (for example, non-resident partners and S-corporation shareholders or non-residents performing services in the state).</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Determination of taxable income</span><br>
+Individuals must include in their taxable income all forms of remuneration and allowances (salaries, wages, etc.), all interest (except interest from state and municipal bonds) and the value of other perquisites (for example automobiles and free or subsidized housing). Certain dividends and long-term capital gains are considered separately, and assessed a flat tax of 15% (5% for lower-income recipients).</p>
+<p>Individual taxpayers are entitled to a standard deduction from gross income in calculating taxable income or they may “itemize” deductions. For 2007, a standard deduction is available in the following amounts: US$10,700 for married persons filing jointly; US$5,350 for married persons filing separately; US$7,850 for heads of households; and US$5,350 for single taxpayers. Taxpayers are also allowed to take personal and dependent exemptions of US$3,400 per person in 2007.</p>
+<p>Taxpayers with documented deductible expenses exceeding these amounts must itemize them to deduct the higher amount. The following expenses are eligible for itemized deduction: certain taxes paid (state and local taxes on income, sales and property); interest paid on borrowings to make investments (limited to the amount of investment income, with a carry forward for any excess); home mortgage interest (including second-mortgage interest within certain limits); charitable contributions; medical expenses exceeding 7.5% of adjusted gross income; theft and casualty losses exceeding certain amounts; and tuition for education necessary for one’s job, union dues and other job-related expenses, and expenses for producing income, to the extent they exceed 2% of adjusted gross income. The deduction for business meals and entertainment is generally 50%.<br>
+Except for investment interest, theft and casualty losses, and medical expenses, itemized.</p>
+<p>deductions for higher-income taxpayers are reduced by 3% of the amount by which their adjusted gross income exceeds certain thresholds. This reduction, however, may not exceed 80% of the deductions subject to the limitation.<br>
+The applicable tax rate will depend on the amount of taxable income and the return filing status of the taxpayer.</p>
+<p>There are no special tax breaks for expatriates working in the US.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Capital taxes</span><br>
+Inheritance (estate) tax and a gift tax are imposed by the federal government. For US citizens and residents, the estate tax is assessed based on all of the assets of the deceased. For nonresident aliens, the tax is imposed on US-based property only.</p>
+<p>A separate gift tax is imposed on gifts made during a person’s life. In most cases, the gift tax only applies for aggregate gifts in excess of US$12,000 to any one person in a year.  In addition, many states impose their own inheritance or gift tax, and many localities impose property taxes of various kinds.</p>
+<p>&nbsp;</p>
+<p><span class="Title">Labor Relations and Workforce</span></p>
+<p><span class="SubTitle">Visa and entry requirements</span><br>
+In general, a citizen of a foreign country seeking to enter the US must obtain a visa. The visitor visa is a non-immigrant visa for those seeking to enter the US temporarily for business (B-1) or for pleasure or medical treatment (B-2). Changes implemented after the terrorist attack of September 11th 2001 have made visa applications subject to greater scrutiny and a number of rule changes. Hence, it is advisable to apply for a visa well in advance of the date of departure.<br>
+Travelers coming to the US for business or tourism for 90 days or less from qualified countries may be able to visit the US without a visa if they meet visa waiver program requirements. Applicants for visitors’ visas must demonstrate that they qualify. Visitors’ visa applicants should apply at the particular US embassy with jurisdiction over their permanent place of residence.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">The employment market</span><br>
+Most employment in the US is “at will”, that is, there is generally no contract between the employer and the employee, and either party is entitled to end the work arrangement at any time without showing cause. The major legal exceptions to this rule are for trade-union contracts, contracts for certain (generally key) employees and cases of officially barred discrimination (on the grounds of race, national origin, sex, maternal status, age, among others).</p>
+<p>Employers must pay several legally mandated benefits, including social security (the federal-government-administered basic pension), contributions to Medicare (the federal healthcare program for the aged), workers’ compensation insurance, and federal and state unemployment insurance. According to the Bureau of Labor Statistics, the average cost for legally required benefits was US$2.14 per hour worked in private industry (8.6% of total compensation) as of September 2006. Employer costs for legally required benefits varied by industry, occupation, bargaining status, region and establishment size. Costs for legally required benefits were higher in goods-producing industries (US$2.84 per hour or 9.5% of total compensation) than in service-producing industries (US$2.02 per hour or 8.3% of total compensation).</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Employees’ rights and remuneration</span><br>
+The National Labor Relations Act is the primary federal statute regulating labor relations and establishing the rights of trade unions and their members. However, many companies are experimenting with new, partnership-type models. Interest in participatory-management techniques is now established among both workers and senior executives.</p>
+<p>In the area of health and safety of workers, states may choose to adopt stricter standards than those applied by the federal government. State or federal occupational health and safety standards cover virtually all types of businesses, and the onus for protecting workers generally lies with the employer. There is an array of standards across the US, ranging from equipment safety mechanisms to requirements that companies inform workers about hazardous materials. The Department of Labor’s Occupational Safety and Health Administration ensures compliance with federal health and safety regulations.</p>
+<p>Equal-opportunity laws apply to hiring, firing, promotion and pay. The federal Equal Employment Opportunity Commission has engineered many changes in business practices. The burden of proof in discrimination suits generally lies with the employer. Under the Civil Rights Act of 1991, demonstration that a specific employment practice or policy had a disparate effect on a protected class of workers constitutes prima facie evidence of discrimination. Moreover, an employer can be held liable for discrimination if an employee can show the involvement of a “discriminatory” motive in the relevant employment decision.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Working hours</span><br>
+The normal working week is 40 hours in factories and offices.  Overtime pay is generally awarded at 1.5 times the regular wage to hourly wage earners who work more than 40 hours in a week. In general, an exemption from overtime protection applies only if an employee is salaried, earns more than US$23,660 per year and falls into one of several categories: executive, administrative employee, professional, computer technician and outside salesperson. States are permitted to set their own overtime rules.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Wages and benefits</span><br>
+Wages in the US are normally negotiated free of government intervention, between an employee and the employee’s supervisor. For a unionized workforce, negotiation takes place through collective bargaining. Union members continue to earn more than their non-union counterparts in most industries.</p>
+<p>Regardless of their union status, most employees are covered by the Fair Labor Standards Act of 1938 (administered by a division of the Labor Department), which regulates minimum wages, overtime pay and child labor, and requires equal pay for equal work, regardless of sex.</p>
+<p>The federal minimum wage is US$5.15 per hour. On January 10th 2007 the US House of Representative approved the first increase in the federal minimum wage in nearly a decade, boosting the wage from US$5.15 to US$7.25 per hour over the next two years. According to the congressional proposal, the minimum wage would jump to US$5.85 within 60 days of enactment. One year later, the wage would rise to US$6.55; it would reach US$7.25 a year after that.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Pensions</span><br>
+Company-paid pension plans, in addition to social security benefits, are generally provided under labor contracts. By law, companies must maintain certain levels of employer contribution vesting, funding requirements and fiduciary standards. Companies must also insure certain types of pension benefit plans (defined-benefit pension plans) with the government. For employees not covered by labor contracts, employers usually provide retirement savings accounts such as the “401(k)” defined-contribution plans. Employees and employers contribute to these funds according to the terms set by each employer, and the savings provide supplemental pension income for the employee in old age.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Social insurance</span><br>
+The federal old-age, survivors and disability insurance (OASDI)—known as Social Security—requires mandatory employer and employee contributions of 6.2% each on the first US$97,500 of earnings for 2007. Medicare health contributions, which are now separate from social security taxes, are charged to both employee and employer at a rate of 1.45% on all of the employee’s wages. (There is no salary cap on Medicare contributions.) Medicare pays for medical coverage for the aged. Self-employed persons also pay these taxes and are required to pay both the employer and employee shares.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Other benefits</span><br>
+Direct salary remains the largest component of compensation packages in the US. Aside from social security and unemployment insurance, which are mandated by state and federal law, typical fringe benefits include hospital and medical insurance, life insurance, disability insurance, paid leave and company-paid pension plans. Executive personnel often participate in profit-sharing and share-option plans.</p>
+<p>The federal unemployment insurance rate is 6.2% on the first US$7,000 of each employee’s wages. State unemployment insurance, mandatory in all 50 states, varies widely. The employer receives a credit, up to a maximum of 5.4%, against the federal tax for amounts paid to state unemployment insurance funds.</p>
+<p>Workers’ compensation benefits, designed to protect employees who are injured, contract a disease or die in the course of their employment, are legislated by the states. In some states, employers’ contributions are not mandatory. Hospital and medical-surgical insurance are usually included in labor contracts.</p>
+<p>The cash bonus and other forms of profit-sharing are increasingly becoming a way to reward workers in lieu of fixed wage increases or as a supplement to scaled-back increases. Bonus plans take many forms and names, but all have two things in common: payouts vary with a company’s fortune and the terms are not permanent.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Termination of employment</span><br>
+The federal government does not strictly regulate dismissal. For unionized workers, dismissal procedures are carefully defined in collective-bargaining agreements. For other employees, it is customary to give two or more weeks’ notice of dismissal. Employees customarily give the same notice when they plan to quit a job.  By law, companies must give employees and communities 60 days’ advance notice of plant closings or large lay-offs that will extend beyond six months. Employees must be compensated for every day of notice missed. Companies are exempt from the requirements if they employ fewer than 100 workers, are in financial difficulty, are the target of a strike or close due to unforeseen circumstances.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Labor-management relations</span><br>
+The principal labor group in the US is the American Federation of Labor-Congress of Industrial Organizations (AFL-CIO), a confederation of 65 unions. The National Labor Relations Act of 1935 is the primary federal statute regulating labor relations and establishing the rights of trade unions and their members. The act guarantees the right to form a union and prohibits employers from dominating unions. The formation of a union requires a petition to the National Labor Relations Board, which supervises an employee election on the issue. If a majority approves, the union is certified and becomes the official representative of the employees for purposes of negotiating the terms and conditions of employment. An employer is required to bargain in good faith with the union. The union also represents employees when grievances arise. If the employee wants to handle the problem, the union has the right to be present.</p>
+<p>The act bans the “closed shop” (that is where workers must be union members to be hired) but allows the “union shop” agreement in labor contracts. This requires all workers to become dues-paying members of the bargaining union after they have been hired. Nevertheless, union-shop agreements are illegal in states that have enacted “right-to-work” legislation. Absent a union-shop agreement, US law provides that benefits obtained through collective bargaining must be extended to all employees within the unit, whether or not affiliated with the union. Jurisdictional problems covering more than one union in a plant are usually resolved by the unions or referred to the AFL-CIO’s internal-disputes plan.</p>
+<p>Collective bargaining is usually conducted on a plant-by-plant or company-by-company basis. Industry-wide bargaining is rare. Since unions are generally organized by industry or trade, a company may have to negotiate with several unions if different employees are engaged in various types of activities.</p>
+<p>Contract terms usually run two or three years. If an expired contract is not renegotiated within 30 days, the Federal Mediation and Conciliation Service must be notified. No legal provision exists for compulsory arbitration, however, and the federal government does not intervene unless a strike creates a national emergency. A presidential emergency board can be appointed to forestall a strike if it threatens a substantial interruption of interstate commerce.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Employment of foreigners</span><br>
+As discussed above (7.1), foreigners who wish to come to the US for short-term employment or a defined length of time must secure non-immigrant visas before being admitted. Visas must be applied for at US embassies or consulates abroad.</p>
+<p>Through a network of local offices, call centers, service centers and the Internet, the Bureau of Citizenship and Immigration Services (BCIS (formerly Immigration and Naturalization Service)) handles many responsibilities related to immigration and visas, including employment-based petitions.</p>
+<p>There are numerical limits on the category of immigrant visas that are employment-based (for both skilled and non-skilled workers). An applicant for this type of immigrant visa must also have an approved immigrant visa petition filed with the BCIS and may need a labor certification from the Department of Labor. The US Department of State must give the applicant an immigrant visa number, even if the applicant is already in the US. When the applicant receives an immigrant visa number, it means that an immigrant visa has been assigned to the applicant. The Immigration and Nationality Act provides an annual maximum of 105,000 employment-based immigrant visas, with five preference categories.</p>
+<p>EB-1 visa applicants, classified as “priority workers,” must possess certain qualities or have certain professions: (1) extraordinary ability in the sciences, arts, education, business or athletics; (2) outstanding professors and researchers with at least three years’ experience in teaching or research, who are recognized internationally; and (3) certain executives and managers who have been employed at least one of the three preceding years by the overseas affiliate, parent, subsidiary or branch of the US employer. Labor certification is not necessary for EB-1 applicants.</p>
+<p>EB-2 visa applicants must be either professionals holding advanced degrees or persons of exceptional ability in the arts, sciences or business. All EB-2 applicants must have a labor certificate approved by the Department of Labor. A job offer is required, and the US employer must file a petition on behalf of the applicant. Certain exemptions may apply.</p>
+<p>EB-3 visa applicants are defined as skilled workers or professionals holding baccalaureate degrees. All EB-3 applicants require an approved I-140 petition filed by the prospective employer. All such workers require a labor certification.</p>
+<p>EB-4 visa applicants must be members of a religious denomination that has a non-profit religious organization in the US. Applicants must have been members for at least two years before applying for a visa. Applicants must be entering the US to work as a minister or priest, or in a professional capacity for the religious organization. Although labor certification is not necessary for EB-4 applications, several other forms of documentation are required.</p>
+<p>EB-5 visa applicants are classified as entrepreneurs who will create employment in the US. This category allows for 10,000 immigrant visas annually. A qualified applicant must invest US$500,000–1m, depending on the employment rate in the targeted geographical area. The funds must be invested in a commercial enterprise in the US that creates at least ten new full-time jobs for US citizens, permanent resident aliens or other lawful immigrants (not including the investor and the investor’s family).<br>
+There are several other non-immigrant visa classifications that are used by foreign nationals to conduct business in the US.</p>
+<p>No person entering the US with a visitor’s visa may be gainfully employed while in the country. US immigration law provides for fines—and in extreme cases prison terms—for employers who knowingly hire illegal aliens.</p>
+<p>&nbsp;</p>
+<p><span class="Title">General Information</span></p>
+<p>Commercial officers associated with US embassies often serve as the first contact for potential foreign investors. The US and Foreign Commercial Service Office of the Department of Commerce can also provide information and serve as a liaison with other government agencies.</p>
+<p>All 50 states and Puerto Rico have economic development and commerce offices that can give information about the state (such as incentives and business conditions) and help with site selection. The National Association of State Development Agencies can direct potential investors to the appropriate state development authorities.</p>
+<p>&nbsp;</p>
+<p><span class="SubTitle">Key points of contact within the US are as follows:</span><font size="2"><strong><em><br>
+</em></strong></font>• Bureau of Customs and Border Protection (formerly US Customs Service), Room 6.3D, 1300 Pennsylvania Ave NW, Washington, DC 20229; Tel: +1 (202) 354-1000; Fax: +1 (202) 927-1393; Internet: <a href="http://www.customs.ustreas.gov">http://www.customs.ustreas.gov</a>.<br>
+• Bureau of Economic Analysis, Department of Commerce, 1441 L Street NW, Washington, DC 20230; Tel: +1 (202) 606-9900; Fax: +1 (202) 606-5318; Internet: <a href="http://www.bea.gov">http://www.bea.gov</a>.<br>
+• Committee on Foreign Investment in the United States, Office of International Investment, Department of Treasury, Room 4201 NY; 1500 Pennsylvania Ave NW, Washington, DC 20220; Tel: +1 (202) 622-9066; Internet: <a href="http://www.ustreas.gov/offices/international-affairs/exon-florio">http://www.ustreas.gov/offices/international-affairs/exon-florio</a>.<br>
+• Copyright Office, Library of Congress, 101 Independence Ave SE, Washington, DC 20559-6000; Tel: +1 (202) 707-3000; Fax: +1 (202) 707-2600; Internet: <a href="http://www.loc.gov/copyright">http://www.loc.gov/copyright</a>.<br>
+• Department of Commerce (DoC), 1401 Constitution Ave NW, Washington, DC 20230; Tel: +1 (800) USA-TRADE or +1 (800) 872-8723; Fax: +1 (202) 482-4473; Internet: <a href="http://www.commerce.gov">http://www.commerce.gov</a>.<br>
+• Department of Justice, Antitrust Division, Suite 10011, 601 D St NW, Washington, DC 20530; Tel: +1 (202) 514-2481; Fax: +1 (202) 514-3763; Internet: <a href="http://www.usdoj.gov/atr">http://www.usdoj.gov/atr</a>.<br>
+• Department of Labor, Frances Perkins Building, 200 Constitution Ave NW, Washington, DC 20210; Tel: +1 (866) 4-USA-DOL or +1 (800) 487-2365; Internet: <a href="http://www.dol.gov">http://www.dol.gov</a>.<br>
+• Department of the Treasury, 1500 Pennsylvania Ave NW, Washington, DC 20220; Tel: +1 (202) 622-2000; Fax: +1 (202) 622-6415; Internet: <a href="http://www.ustreas.gov">http://www.ustreas.gov</a>.<br>
+• Economic Development Administration (EDA), Room 7800, 1401 Constitution Ave, Washington, DC 20230; Tel: +1 (202) 482-5081; Internet: <a href="http://www.osec.doc.gov/eda">http://www.osec.doc.gov/eda</a>.<br>
+• Environmental Protection Agency (EPA), Ariel Rios Building, 1200 Pennsylvania Ave NW, Washington, DC 20460; Tel: +1 (202) 272-0167; Internet: <a href="http://www.epa.gov">http://www.epa.gov</a>.<br>
+• Equal Employment Opportunity Commission (EEOC), 1801 L St NW, Washington, DC 20507; or US Equal Employment Opportunity Commission, P.O. Box 7033, Lawrence, Kansas, 66044 Tel: +1 (202) 663-4900; Fax: +1 (202) 663-4944; Internet: <a href="http://www.eeoc.gov">http://www.eeoc.gov</a>.<br>
+• Export-Import Bank (Exim Bank), 811 Vermont Ave NW, Washington, DC 20571; Tel: +1 (202) 565-3946; Fax: +1 (202) 565-3931; Internet: <a href="http://www.exim.gov">http://www.exim.gov</a>.<br>
+• Federal Trade Commission (FTC), 600 Pennsylvania Ave NW, Washington, DC 20580; Tel: +1 (202) 326-2222/2000; Internet: <a href="http://www.ftc.gov">http://www.ftc.gov</a>.<br>
+• Food and Drug Administration (FDA), Room 15A16, 5600 Fishers Lane, Mail Code HFG-1, Rockville, MD 20857; Tel: +1 (301) 443-6553; Internet: <a href="http://www.fda.gov">http://www.fda.gov</a>.<br>
+• Foreign Agricultural Service (FAS), USDA/FAS/OA/OO; Stop 1002, Room 3121-S, 1400 Independence Ave SW, Washington, DC 20250; Tel: +1 (202) 720-9509; Fax: +1 (202) 690-2489; Internet: <a href="http://www.fas.usda.gov">http://www.fas.usda.gov</a>.<br>
+• Foreign Trade Zones Board, Department of Commerce, Suite 4100W, 1401 Constitution Ave NW, Washington, DC 20230; Tel: +1 (202) 482-2862 or +1 (800) USA-TRADE or +1 (800) 872-8723; Fax: +1 (202) 482-0002; Internet: <a href="http://ia.ita.doc.gov/ftzpage">http://ia.ita.doc.gov/ftzpage</a>.<br>
+• Internal Revenue Service (IRS), 1111 Constitution Ave NW, Washington, DC 20224; Tel: +1 (202) 622-6100; Fax: +1 (202) 622-7854; Internet: <a href="http://www.irs.gov">http://www.irs.gov</a>.<br>
+• International Trade Administration, Department of Commerce, 1401 Constitution Ave NW, Washington, DC 20230; Tel: +1 (800) USA-TRADE; Internet: <a href="http://www.trade.gov">http://www.trade.gov</a>.<br>
+• International Trade Commission (ITC), 500 E St SW, Washington, DC 20436; Tel: +1 (202) 205-2000; Internet: <a href="http://www.usitc.gov">http://www.usitc.gov</a>.<br>
+• National Association of State Development Agencies, 12884 Harbor Drive, Woodbridge, VA 22192; Tel: +1 (703) 490-6777; Fax: +1 (703) 492-4404; Internet: <a href="http://www.nasda.com">http://www.nasda.com</a>.<br>
+• Occupational Safety and Health Administration (OSHA), Department of Labor, 200 Constitution Ave NW, Washington, DC 20210; Tel: +1 (202) 693-2000; Internet: <a href="http://www.osha.gov">http://www.osha.gov</a>.<br>
+• Office of Foreign Asset Control (OFAC), Department of the Treasury, Treasury Annex, 1500 Pennsylvania Ave NW, Washington, DC 20220; Compliance hotline +1 (202) 622-2490; Internet: <a href="http://www.ustreas.gov/offices/eotffc/ofac/index.html">http://www.ustreas.gov/offices/eotffc/ofac/index.html</a>.<br>
+• Office of the US Trade Representative (USTR), 600 17th St NW, Washington, DC 20508; Tel: +1 (888) 473-USTR (8787); Internet: <a href="http://www.ustr.gov">http://www.ustr.gov</a>.<br>
+• Overseas Private Investment Corporation (OPIC), 1100 New York Ave NW, Washington, DC 20527; Tel: +1 (202) 336-8400; Fax: +1 (202) 408-9859; Internet: <a href="http://www.opic.gov">http://www.opic.gov</a>.<br>
+• Patent and Trademark Office (PTO), Department of Commerce, Crystal Plaza 3, Lobby Level, 2021 South Clark Place, Arlington, VA 22202; Tel: +1 (800) 786-9199 or +1 (703) 305-4463; Fax: +1 (703) 305-7786; Internet: <a href="http://www.uspto.gov">http://www.uspto.gov</a>.<br>
+• Private Export Funding Corporation (PEFCO), 280 Park Ave, Fourth Floor, New York, NY 10017; Tel: +1 (212) 916-0300; Fax: +1 (212) 286-0304; Internet: <a href="http://www.pefco.com">http://www.pefco.com</a>.<br>
+• Securities and Exchange Commission (SEC), Office of International Affairs, 450 Fifth St NW, Washington, DC 20549; Tel: +1 (202) 942-7040; Internet: <a href="http://www.sec.gov">http://www.sec.gov</a>.<br>
+• Small Business Administration (SBA), 409 Third St SW, Washington, DC 20416; Tel: +1 (800) U-ASK-SBA (827-5722); Internet: <a href="http://www.sba.gov">http://www.sba.gov</a>.<br>
+• US Agency for International Development (USAID), Office of Procurement, Ronald Reagan Building, Washington, DC 20523-1000; Tel: +1 (202) 712-4810; Fax: +1 (202) 216-3524; Internet: <a href="http://www.usaid.gov">http://www.usaid.gov</a>.<br>
+• US Chamber of Commerce, 1615 H St NW, Washington, DC 20062-2000; Tel: +1 (202) 659-6000; Internet: <a href="http://www.uschamber.org">http://www.uschamber.org</a>.<br>
+9.0 Office locations.</p>
+<p>&nbsp;</p>
+<p>Legal:  Deloitte Touche Tohmatsu hereby authorizes you to view, copy, print, and distribute this document subject to the following conditions:<br>
+1. The document is used for informational purposes only.  2. The document is used for non-commercial purposes. 3. Any copy of this document or portion thereof must include this copyright notice in its entirety. <br>
+Note that any program, publication, design, product, process, software, technology, information, know-how, or idea described in this document may be the subject of other rights, including other intellectual property rights, which are owned by Deloitte Touche Tohmatsu or one of its national practices or other interested parties and are not licensed to you hereunder.  This document is intended to provide general information on a particular subject or subjects and is not an exhaustive treatment of such subject(s). Accordingly, the information in this document is not intended to constitute accounting, tax, legal, investment, consulting or other professional advice or services. Before making any decision or taking any action that might affect your personal finances or business, you should consult a qualified professional adviser.  This document and the information contained herein is provided "as is," and Deloitte Touche Tohmatsu makes no express or implied representations or warranties regarding this document or the information. Without limiting the foregoing, Deloitte Touche Tohmatsu does not warrant that the document or information will be error-free or will meet any particular criteria of performance or quality. Deloitte Touche Tohmatsu expressly disclaims all implied warranties, including, without limitation, warranties of merchantability, title, fitness for a particular purpose, noninfringement, compatibility, security, and accuracy.  Your use of this document and information is at your own risk. You assume full responsibility and risk of loss resulting from the use of this document or information. None of Deloitte Touche Tohmatsu, or any of its national practices or affiliates, or any partners, principals, stockholders, or employees of any, thereof will be liable for any special, indirect, incidental, consequential, or punitive damages or any other damages whatsoever, whether in an action of contract, statute, tort (including, without limitation, negligence), or otherwise, relating to the use of this document or information. f any of the foregoing is not fully enforceable for any reason, the remainder shall nonetheless continue to apply. "Deloitte Touche Tohmatsu," "Deloitte &amp; Touche," "Deloitte," "Touche," "Tohmatsu," the Deloitte Touche Tohmatsu and the Deloitte &amp; Touche logos (and any of the foregoing used in any combination), product names and all page headers, footers, and icons are trademarks or registered trademarks of Deloitte Touche Tohmatsu or one of its national practices. All other product names mentioned are the trademarks of their respective owners.  Certain links in the Deloitte Touche Tohmatsu WebServer lead to resources maintained by third parties over whom Deloitte Touche Tohmatsu has no control. Deloitte Touche Tohmatsu makes no representations or warranties as to the accuracy of, or any other aspect relating to, those resources.</p><p></p>
+    
+	
+ 
+<br><a href="adminamcham/uploads/councilofamericanstatesineurope(2).pdf" target="blank">List of US states with offices in Europe</a>
+<p><br><a href="http://www.amchamfrance.org/theme1.php?idcontenu=177&amp;idpage=250&amp;idmenu=194" target="blank">U.S. States</a><br></p><p>Please follow this link for a list of U.S. state, city and regional development agencies that are members of AmCham France and can facilitate your investments.</p>
+<p>
+</p><p>
+</p><p>
+
+</p><p>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<table width="500" border="0" align="center">
+<tbody><tr><td></td></tr>
+  <tr>
+    <td><script type="text/javascript"><!--
+google_ad_client = "pub-6235072540687645";
+/* 468x15, date de création 18/02/08 */
+google_ad_slot = "3443042715";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+  </tr>
+</tbody></table>
+
+
+ 
+  </div>
+  <div id="sponsor"><hr align="center" size="1" noshade="noshade">
+<p>AmCham France web-site sponsored by  :</p>
+<p align="center"><img src="adminamcham/uploads/thankyouto.jpg" alt="sponsors" height="35px"> </p><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><a href="http://www.beaconcouncil.com/web/" target="_blank"><img src="bc_copie.jpg" width="180" border="0"></a></td>
+    <td><a href="http://www.relocationez.com/" target="_blank"><img src="bhlogo3(2).jpg" width="180" border="0"></a></td>
+    <td><a href="http://www.microsoft.com/fr/fr/" target="_blank"><img src="microsoft_logo(1).jpg" width="180" border="0"></a></td>
+  </tr>
+</tbody></table><p></p></div>
+  <div id="pied">
+
+<p>© Copyright AmCham France 2007 - Website Editor <a href="mailto:michelle.barton@amchamfrance.org ">Michelle Barton </a>,Website by <a href="mailto:paul@malaurie.com">Paul-Etienne Malaurie</a><br>
+<br>
+&nbsp;</p>
+<p>Please note AmCham is open: Monday-Thursday 9:30-13:00, 14:00-18:00, Friday 9:30-13:00 <br>
+AmCham France is not open to the public. Please call to make an appointment if you would like to come by.</p>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4583938-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</div>
+</div>
+
+</body></html>

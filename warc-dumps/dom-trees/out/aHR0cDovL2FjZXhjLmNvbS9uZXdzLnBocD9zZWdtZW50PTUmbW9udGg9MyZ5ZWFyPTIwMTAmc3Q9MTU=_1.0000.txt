@@ -1,0 +1,713 @@
+<html><head>
+<title>Welcome to ACEXC - Aviation Centre of Excellence</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="http://www.acexc.com/favicon.ico" rel="shortcut icon">
+<link href="http://www.acexc.com/includes/styles.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://www.acexc.com/includes/js/chrome.js"></script>
+<script type="text/javascript" src="http://www.acexc.com/includes/js/user.js"></script>
+<script language="JavaScript" src="http://www.acexc.com/includes/jscript.js" runat="server"></script>
+</head>
+<body leftmargin="0" topmargin="0" bgcolor="#E9F4FC">
+<div id="masterdiv">
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="grid1">
+  <tbody><tr> 
+    <td width="20"><a href="http://www.acexc.com/"><img src="http://www.acexc.com/images/logo2.jpg" alt="Welcome to ACEXC - Aviation Centre of Excellence" width="209" height="82" border="0"></a></td>
+    <td align="right" background="http://www.acexc.com/images/headerbg2.jpg">&nbsp;</td>
+    <td width="438" align="right" background="http://www.acexc.com/images/bg.jpg"><img src="http://www.acexc.com/images/header4.jpg" width="438" height="82" border="0"></td>
+  </tr>
+</tbody></table>
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="grid2">
+  <tbody><tr> 
+    <td><div class="chromestyle" id="chromemenu"> 
+        <ul>
+          <li><a href="http://www.acexc.com/index.php" class="topmenu" title="Home">Home</a></li>
+          <li><a href="http://www.acexc.com/aboutus.php" class="topmenu" title="About Us">About Us</a></li>
+          <li><a href="http://www.acexc.com/#" rel="dropmenu2" class="topmenu" title="Services">Services</a></li>
+          <li><a href="http://www.acexc.com/#" rel="dropmenu3" class="topmenu" title="Directory">Directory</a></li>
+          <li><a href="http://www.acexc.com/news.php" class="topmenu" title="News">News</a></li>
+          <li><a href="http://www.acexc.com/jobsearch.php" class="topmenu" title="Job Search">Job Search</a></li>
+          <li><a href="http://www.acexc.com/events.php" class="topmenu" title="Events">Events</a></li>
+		 <li><a href="http://www.acexc.com/forum/" class="topmenu" title="Forum">Forum</a></li> 
+		  <li><a href="http://www.acexc.com/contactus.php" class="topmenu" title="Contact us">Contact us</a></li>
+        </ul>
+</div>
+
+<!--1st drop down menu -->                                                   
+      <div id="dropmenu1" class="dropmenudiv"> <a class="topmenu" href="http://www.acexc.com/aboutus.php#company">Company</a> <a class="topmenu" href="http://www.acexc.com/aboutus.php#profile">Profile</a> 
+        <a class="topmenu" href="http://www.acexc.com/aboutus.php#team">Team</a> </div>
+
+
+<!--2nd drop down menu -->                                                
+      <div id="dropmenu2" class="dropmenudiv" style="width: 150px;"> <a class="topmenu" href="http://www.acexc.com/reports.php">Research 
+        Reports</a> <a class="topmenu" href="http://www.acexc.com/books.php">Books</a> <a class="topmenu" href="http://www.acexc.com/consultancy.php">Consultancy</a> 
+		<!--<a class="topmenu" href="http://www.acexc.com/elearning.php">E-learning</a> -->
+      </div>
+<!--3rd drop down menu -->                                                
+      <div id="dropmenu3" class="dropmenudiv" style="width: 150px;"> <a class="topmenu" href="http://www.acexc.com/directory.php">Service provider 
+        </a> <a class="topmenu" href="http://www.acexc.com/glossary.php">Glossary</a></div>
+<!--4rd drop down menu -->                                                   
+      <div id="dropmenu4" class="dropmenudiv" style="width: 150px;"> <a class="topmenu" href="http://www.acexc.com/#">Airlines</a> 
+        <a class="topmenu" href="http://www.acexc.com/#">Airports</a> <a class="topmenu" href="http://www.acexc.com/#">Others</a> </div>
+
+<!--5rd drop down menu -->                                                   
+      <div id="dropmenu5" class="dropmenudiv" style="width: 150px;"> <a class="topmenu" href="http://www.acexc.com/#">Airlines</a> 
+        <a class="topmenu" href="http://www.acexc.com/#">Airports</a> <a class="topmenu" href="http://www.acexc.com/#">Others</a> </div>
+<script type="text/javascript">
+cssdropdown.startchrome("chromemenu")
+</script></td>
+  </tr>
+</tbody></table>
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" class="grid2">
+  <tbody><tr> 
+    <td width="20%" valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="20%" height="29" align="center" valign="bottom">
+		  <form action="http://www.acexc.com/search.php" name="frmsearch">
+		  <table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td width="150" height="43" align="right" valign="baseline"><br>
+                <input name="txtsearch" type="text" class="submit" value="Search" size="25">
+                    <!--<input name="textarea3" type="text" class="submit" id="textarea3" value="Search" size="30">-->
+                  </td><td height="43" align="center" valign="baseline"><br>
+				  <input type="submit" class="submitsearch" value="Go">
+				 <!-- <a href="http://www.acexc.com/#" onClick="javascript:submitform();"><img src="http://www.acexc.com/images/go.jpg" alt="Go" width="27" height="20" border="0"></a>-->
+				 </td>
+            </tr>
+          </tbody></table></form></td>
+        </tr>
+      </tbody></table>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" class="gridwhite">			
+	  <tbody><tr><td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="gridwhite">
+  <form name="frmlogin" method="post" action="http://www.acexc.com/checklogin.php"></form>
+    <tbody><tr> 
+      <td width="20" height="22" align="center" background="images/memberbg.gif" class="heading">&nbsp;</td>
+      <td width="734" height="22" background="images/memberbg.gif" class="heading"><font class="font10b"> Member 
+        login</font></td>
+    </tr>
+    <tr> 
+      <td height="22">&nbsp;</td>
+      <td class="td"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="100" class="matter1">&nbsp;&nbsp;Email id</td>
+            <td class="matter1">&nbsp; Password</td>
+            <td valign="middle" class="matter1"><a href="#"><img src="images/spacer.gif" width="1" height="10" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td>&nbsp; <input class="submit" name="txtuname" type="text" size="14"> 
+            </td>
+            <td>&nbsp; <input class="submit" name="txtpwd" type="password" size="14"></td>
+            <td valign="middle" class="matter1">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr> 
+                  <td width="51%" align="left">&nbsp;<input name="chkremember" type="checkbox" value="checkbox"><font class="matter2">Remember me </font></td>
+                  <td><a href="#">&nbsp;<input type="image" src="images/go.jpg" alt="Go" width="27" height="20" border="0" align="bottom">
+                    </a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td height="22" background="images/memberbg1.gif">&nbsp;</td>
+      <td background="images/memberbg1.gif" class="matter1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="50%">&nbsp;&nbsp;<a href="forgot.php" class="linksl-links"><font style="FONT-SIZE:11px; FONT-FAMILY:ARIAL">Forgot 
+              Password?</font></a></td>
+            <td><a href="signup.php" class="register">Register Now</a></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  
+</tbody></table>
+</td></tr>
+	  </tbody></table>
+	  <br>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="gridwhite">
+	  <tbody><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="gridwhite">
+				<tbody><tr><td height="22" background="http://www.acexc.com/images/bg_tab.jpg" class="heading">&nbsp;&nbsp;Indian Aviation</td>
+				</tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+						<a class="leftlink" href="category.php?catid=2&amp;sublist=sub11&amp;divshow=S" onclick="javascript:SwitchMenu('sub11')" title="Airlines">Airlines</a></td></tr><tr><td align="left"><div id="sub11" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=59&amp;sublist=sub11&amp;divshow=H">Air Deccan</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=14&amp;sublist=sub11&amp;divshow=H">Air India</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=12&amp;sublist=sub11&amp;divshow=H">Go Air</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=7&amp;sublist=sub11&amp;divshow=H">Indian</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=13&amp;sublist=sub11&amp;divshow=H">Indigo</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=3&amp;sublist=sub11&amp;divshow=H">Jet Airways</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=65&amp;sublist=sub11&amp;divshow=H">Jet Lite</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=4&amp;sublist=sub11&amp;divshow=H">Kingfisher</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=84&amp;sublist=sub11&amp;divshow=H">Paramount Airways</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=40&amp;sublist=sub11&amp;divshow=H">Spice Jet</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+						<a class="leftlink" href="category.php?catid=85&amp;sublist=sub12&amp;divshow=S" onclick="javascript:SwitchMenu('sub12')" title="Airports">Airports</a></td></tr><tr><td align="left"><div id="sub12" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=21&amp;sublist=sub12&amp;divshow=H">Ahmedabad</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=19&amp;sublist=sub12&amp;divshow=H">Bangalore</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=17&amp;sublist=sub12&amp;divshow=H">Chennai</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=16&amp;sublist=sub12&amp;divshow=H">Delhi</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=20&amp;sublist=sub12&amp;divshow=H">Hyderabad</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=18&amp;sublist=sub12&amp;divshow=H">Kolkata</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=15&amp;sublist=sub12&amp;divshow=H">Mumbai</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=22&amp;sublist=sub12&amp;divshow=H">Trivandrum</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+						<a class="leftlink" href="category.php?catid=10&amp;sublist=sub13&amp;divshow=S" onclick="javascript:SwitchMenu('sub13')" title="Jet Fuel Prices">Jet Fuel Prices</a></td></tr><tr><td align="left"><div id="sub13" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=37&amp;sublist=sub13&amp;divshow=H">Domestic</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=38&amp;sublist=sub13&amp;divshow=H">International</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+						<a class="leftlink" href="category.php?catid=63&amp;sublist=sub14&amp;divshow=S" onclick="javascript:SwitchMenu('sub14')" title="Milestones">Milestones</a></td></tr><tr><td align="left"><div id="sub14" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"> </table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+						<a class="leftlink" href="category.php?catid=9&amp;sublist=sub15&amp;divshow=S" onclick="javascript:SwitchMenu('sub15')" title="Statistics">Statistics</a></td></tr><tr><td align="left"><div id="sub15" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=81&amp;sublist=sub15&amp;divshow=H">ACEXC Newsletter and Fast Statistics</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=82&amp;sublist=sub15&amp;divshow=H">Air Traffic Statistics</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/category.php?catid=83&amp;sublist=sub15&amp;divshow=H">Indian Aviation Case Studies</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr></tbody></table></td></tr>
+	  </tbody></table>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="gridwhite">
+		<tbody><tr><td height="22" background="http://www.acexc.com/images/bg_tab.jpg" class="heading">&nbsp;&nbsp;Other links</td>
+		</tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub31')" href="cmscategory.php?catid=41&amp;sublist=sub31&amp;divshow=S">Indian Economy </a></td>
+            </tr><tr><td align="left"><div id="sub31" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=52&amp;sublist=sub31&amp;divshow=H">Indian Economy Review: 2009-...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub32')" href="cmscategory.php?catid=6&amp;sublist=sub32&amp;divshow=S"> Interviews</a></td>
+            </tr><tr><td align="left"><div id="sub32" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=48&amp;sublist=sub32&amp;divshow=H">An Interview with Robert Bai...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=46&amp;sublist=sub32&amp;divshow=H">An Interview with Ankur Bhat...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=45&amp;sublist=sub32&amp;divshow=H">An Interview with Dharmendra...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=43&amp;sublist=sub32&amp;divshow=H">An Interview with Housam Ray...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=39&amp;sublist=sub32&amp;divshow=H">An interview with V K Mathew...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub33')" href="cmscategory.php?catid=25&amp;sublist=sub33&amp;divshow=S">Feature</a></td>
+            </tr><tr><td align="left"><div id="sub33" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=33&amp;sublist=sub33&amp;divshow=H">Achievements and initiatives...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=29&amp;sublist=sub33&amp;divshow=H">Ministry of Civil aviation: ...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=28&amp;sublist=sub33&amp;divshow=H">Airlines in India – An Overv...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=26&amp;sublist=sub33&amp;divshow=H">Air Traffic Management in In...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=44&amp;sublist=sub33&amp;divshow=H">Indian Aviation 2008 achieve...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=27&amp;sublist=sub33&amp;divshow=H">ICAO and India...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub34')" href="cmscategory.php?catid=37&amp;sublist=sub34&amp;divshow=S">Perspectives</a></td>
+            </tr><tr><td align="left"><div id="sub34" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=55&amp;sublist=sub34&amp;divshow=H">Air Express - Delivery for a...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=51&amp;sublist=sub34&amp;divshow=H">Singapore Airlines A380 Suit...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=50&amp;sublist=sub34&amp;divshow=H">Three lessons in airline bra...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=38&amp;sublist=sub34&amp;divshow=H">Maximizing the Value of Cust...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub35')" href="cmscategory.php?catid=24&amp;sublist=sub35&amp;divshow=S">Events Calendar</a></td>
+            </tr><tr><td align="left"><div id="sub35" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"> </table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub36')" href="cmscategory.php?catid=31&amp;sublist=sub36&amp;divshow=S">Research Papers</a></td>
+            </tr><tr><td align="left"><div id="sub36" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=54&amp;sublist=sub36&amp;divshow=H">Institutional and Legal Aspe...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=49&amp;sublist=sub36&amp;divshow=H">Six steps to building a swas...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=42&amp;sublist=sub36&amp;divshow=H">Air traffic control complexi...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=32&amp;sublist=sub36&amp;divshow=H">Safety and Customer Service...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub37')" href="cmscategory.php?catid=34&amp;sublist=sub37&amp;divshow=S">Indian Aviation Review 2007-09</a></td>
+            </tr><tr><td align="left"><div id="sub37" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=58&amp;sublist=sub37&amp;divshow=H">2009 Indian Aviation Review ...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=57&amp;sublist=sub37&amp;divshow=H">2008 Indian Aviation Review ...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=56&amp;sublist=sub37&amp;divshow=H">2007 Indian Aviation Review...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr><tr><td height="22" align="left" nowrap class="nav" style="cursor:hand">
+			<a class="leftlink" onclick="javascript:SwitchMenu1('sub38')" href="cmscategory.php?catid=35&amp;sublist=sub38&amp;divshow=S">Press clippings</a></td>
+            </tr><tr><td align="left"><div id="sub38" class="submenu" style="display:none"> 
+						<div class="left">
+						<table width="100%" border="0" align="right" background="http://www.acexc.com/images/consultbg.jpg"><tbody><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=53&amp;sublist=sub38&amp;divshow=H">Mumbai is losing out to New ...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=47&amp;sublist=sub38&amp;divshow=H">Air traffic shows revival si...</a>
+							 </td>
+							 </tr><tr>
+							 <td> 
+							 </td><td width="10" align="center"><img src="http://www.acexc.com/images/bullet4.gif" width="6" height="6" border="0"></td>
+							 <td align="left"><a class="subcategory" href="http://www.acexc.com/cmscategory.php?catid=36&amp;sublist=sub38&amp;divshow=H">Passenger traffic grows 35% ...</a>
+							 </td>
+							 </tr> </tbody></table>
+						 </div></div></td></tr></tbody></table></td></tr>
+<tr><td></td></tr>
+	  </tbody></table>
+      <p><img src="http://www.acexc.com/images/banner.jpg" width="210" height="184" border="0"><br>
+      </p>
+    <p>&nbsp; </p></td>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr align="right">
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="right"><table width="22%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td width="25"><a href="cart.php" class="shopcart" title="Shopping Cart"><img src="http://www.acexc.com/images/shop.gif" width="18" height="19" title="Shopping Cart" border="0"></a></td>
+              <td><a href="http://www.acexc.com/cart.php" class="shopcart" title="Shopping Cart">Shopping Cart  </a></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+      
+    </tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td><table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tbody><tr> 
+    <td height="23" colspan="2" align="left">&nbsp;&nbsp;&nbsp;<a href="http://www.acexc.com/" class="graylink-small">Home</a> 
+      » <a href="#" class="graylink-small">News</a></td>
+  </tr>
+  <tr> 
+    <td width="98%" height="22" background="http://www.acexc.com/images/menuheading_bg.jpg" class="heading"><font size="4"><b>»&nbsp;&nbsp;</b></font><font size="4"><b></b></font>News</td>
+    <td background="http://www.acexc.com/images/menuheading_bg.jpg" class="heading"><input name="Print" type="image" onclick="printit()" value="Print this Page" src="images/print.gif" alt="Print" height="22"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top"><div align="justify"> 
+        <table width="100%">
+          <tbody><tr> 
+            <td width="80%" valign="top"><p><table width="90%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td valign="top"><img src="images/spacer.gif" width="1" height="10"></td>
+  <td align="left"><img src="images/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table></td>
+<td align="left">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td><div align="justify"> <a class="register" href="newsdet.php?nid=2863"><b>Understanding aircraft production impact on fleet management: IATA</b></a></div></td></tr>
+	<tr><td><div align="justify"><strong><font class="font10_gray">Thursday,&nbsp;25&nbsp;March&nbsp;2010</font></strong></div></td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+<tr>
+    <td colspan="2"><div align="justify">
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tbody><tr>
+            <td><div align="justify">Aircraft production issues are straining airline attempts to assemble next-generation fleets. Route development is suffering and cost structures are shifting. Doug McArthur reports on what lies ahead for a sector under pressure</div></td>
+          </tr>
+        </tbody></table>
+      </div></td></tr>
+<tr><td colspan="2">&nbsp;<a class="readmore" href="newsdet.php?nid=2863">More</a>&nbsp;»<br>
+</td></tr>
+<tr>
+	    	<td class="dotteddivider" height="1" colspan="2">&nbsp;</td>
+		 	 </tr>
+</tbody></table>
+<table width="90%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td valign="top"><img src="images/spacer.gif" width="1" height="10"></td>
+  <td align="left"><img src="images/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table></td>
+<td align="left">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td><div align="justify"> <a class="register" href="newsdet.php?nid=2862"><b>SITA reports 23.8% drop in mishandled baggage as airlines save $460 million</b></a></div></td></tr>
+	<tr><td><div align="justify"><strong><font class="font10_gray">Thursday,&nbsp;25&nbsp;March&nbsp;2010</font></strong></div></td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+<tr>
+    <td colspan="2"><div align="justify">
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tbody><tr>
+            <td><div align="justify">The SITA 2010 Baggage Report released today reports a drop of 23.8% in the number of air passengers' bags mishandled last year, resulting in savings of $460 million for the world's airlines in a year when their overall losses reached $9.4 billion.</div></td>
+          </tr>
+        </tbody></table>
+      </div></td></tr>
+<tr><td colspan="2">&nbsp;<a class="readmore" href="newsdet.php?nid=2862">More</a>&nbsp;»<br>
+</td></tr>
+<tr>
+	    	<td class="dotteddivider" height="1" colspan="2">&nbsp;</td>
+		 	 </tr>
+</tbody></table>
+<table width="90%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td valign="top"><img src="images/spacer.gif" width="1" height="10"></td>
+  <td align="left"><img src="images/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table></td>
+<td align="left">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td><div align="justify"> <a class="register" href="newsdet.php?nid=2860"><b>InterGlobe Techlogies among the select companies like Microsoft, Sony and TCSeserve to get COPC certified</b></a></div></td></tr>
+	<tr><td><div align="justify"><strong><font class="font10_gray">Thursday,&nbsp;25&nbsp;March&nbsp;2010</font></strong></div></td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+<tr>
+    <td colspan="2"><div align="justify">
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tbody><tr>
+            <td><div align="justify">InterGlobe Technologies (IGT), a leading player in travel technologies and services has announced that it has become the world’s first Travel BPO Globally to be certified on the COPC-2000 CSP Standard version 4.3, clearing the certification in the first go. With this, IGT joins a select number of companies currently COPC certified including blue chip brands such as Microsoft, Sony, General Motors and TCS eServe.</div></td>
+          </tr>
+        </tbody></table>
+      </div></td></tr>
+<tr><td colspan="2">&nbsp;<a class="readmore" href="newsdet.php?nid=2860">More</a>&nbsp;»<br>
+</td></tr>
+<tr>
+	    	<td class="dotteddivider" height="1" colspan="2">&nbsp;</td>
+		 	 </tr>
+</tbody></table>
+<table width="90%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td valign="top"><img src="images/spacer.gif" width="1" height="10"></td>
+  <td align="left"><img src="images/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table></td>
+<td align="left">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td><div align="justify"> <a class="register" href="newsdet.php?nid=2861"><b>IATA outlines  strategy for profitable growth in Latin America</b></a></div></td></tr>
+	<tr><td><div align="justify"><strong><font class="font10_gray">Thursday,&nbsp;25&nbsp;March&nbsp;2010</font></strong></div></td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+<tr>
+    <td colspan="2"><div align="justify">
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tbody><tr>
+            <td><div align="justify">The International Air Transport Association (IATA) announced an industry strategy for profitable growth in Latin American aviation. “Profitable growth requires that all aviation stakeholders in Latin America—airlines, airports and infrastructure providers— work with a common vision to achieve our priorities: safety, security, cost reduction, environmental responsibility and liberalization,” said Giovanni Bisignani, IATA’s Director General and CEO in the opening address of the Wings of Change conference in Santiago, Chile.</div></td>
+          </tr>
+        </tbody></table>
+      </div></td></tr>
+<tr><td colspan="2">&nbsp;<a class="readmore" href="newsdet.php?nid=2861">More</a>&nbsp;»<br>
+</td></tr>
+<tr>
+	    	<td class="dotteddivider" height="1" colspan="2">&nbsp;</td>
+		 	 </tr>
+</tbody></table>
+<table width="90%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td valign="top"><img src="images/spacer.gif" width="1" height="10"></td>
+  <td align="left"><img src="images/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table></td>
+<td align="left">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td><div align="justify"> <a class="register" href="newsdet.php?nid=2864"><b>Capt.G.R.Gopinath quits Kingfisher Airlines Board  </b></a></div></td></tr>
+	<tr><td><div align="justify"><strong><font class="font10_gray">Thursday,&nbsp;25&nbsp;March&nbsp;2010</font></strong></div></td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+<tr>
+    <td colspan="2"><div align="justify">
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tbody><tr>
+            <td><div align="justify">Kingfisher Airlines Ltd has informed BSE that Capt. G. R. Gopinath and Capt. K. J. Samuel have resigned from the Board as Directors to take effect from the close of the meeting of the Board of Directors of the Company held on March 23, 2010.  </div></td>
+          </tr>
+        </tbody></table>
+      </div></td></tr>
+<tr><td colspan="2">&nbsp;<a class="readmore" href="newsdet.php?nid=2864">More</a>&nbsp;»<br>
+</td></tr>
+<tr>
+	    	<td class="dotteddivider" height="1" colspan="2">&nbsp;</td>
+		 	 </tr>
+</tbody></table>
+</p>
+              <p><table width="95%" border="0" align="right"><tbody><tr><td><font class="graylink-small">(<strong>Total pages</strong>:  25) <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=0">Start</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=10">Prev</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=0">1</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=5">2</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=10">3</a> <b>4</b> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=20">5</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=25">6</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=30">7</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=35">8</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=40">9</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=45">10</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=50">11</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=55">12</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=60">13</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=65">14</a> .. <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=20">Next</a> <a class="graylink-small" href="/news.php?segment=5&amp;month=3&amp;year=2010&amp;st=120">End</a> </font></td></tr></tbody></table></p></td>
+            <td width="20%" valign="top"><a class="minlink" href="news.php"><font class="heading1"><u>Current 
+              News&nbsp;»</u></font></a><br> <br> <a class="minlink" href="archivenews.php"><font class="heading1"><u>News 
+              Archives&nbsp;»</u></font></a> </td>
+          </tr>
+        </tbody></table>
+      </div></td>
+  </tr>
+</tbody></table>
+</td></tr>
+	</tbody></table>
+     </td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td align="center" valign="top">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" class="grid3">
+  <tbody><tr> 
+    <td height="25" background="http://www.acexc.com/images/bg_tab.jpg"> <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td>&nbsp;</td>
+          <td align="center" class="menu"><a href="http://www.acexc.com/cmscategory.php?catid=3&amp;sublist=sub31&amp;divshow=S" class="greenlink">Privacy Policy</a></td>
+          <td><img src="http://www.acexc.com/images/line.jpg" width="1" height="15"></td>
+          <td align="center" class="menu"><a href="http://www.acexc.com/cmscategory.php?catid=4&amp;sublist=sub31&amp;divshow=S" class="greenlink">Terms &amp; Conditions</a></td>
+          <td><img src="http://www.acexc.com/images/line.jpg" width="1" height="15"></td>
+          <td align="center" class="menu"><a href="sitemap.php" class="greenlink">Site Map</a></td>
+          <td><img src="http://www.acexc.com/images/line.jpg" width="1" height="15"></td>
+          <td align="center" class="menu"><a href="http://www.acexc.com/cmscategory.php?catid=17&amp;sublist=sub31&amp;divshow=S" class="greenlink">Advertise with us</a></td>
+			<!--<td><img src="http://www.acexc.com/images/line.jpg" width="1" height="15"></td>
+          <td align="center" class="menu"><a href="http://www.acexc.com/cmscategory.php?catid=&sublist=sub31&divshow=S" class="greenlink"></a></td>
+		  <td><img src="http://www.acexc.com/images/line.jpg" width="1" height="15"></td>
+          <td align="center" class="menu"><a href="http://www.acexc.com/cmscategory.php?catid=&sublist=sub31&divshow=S" class="greenlink"></a></td>-->
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+       
+      <td align="center" background="images/bg_tab.jpg"><font class="inputtext"><font color="#FFFFFF">© 
+        Copyright 2007</font></font> <a href="http://www.acexc.com/" target="_blank" class="greenlink">ACEXC 
+        - Aviation Centre of Excellence.</a> 
+        <font class="inputtext"><font color="#FFFFFF">All Rights Reserved.
+</font></font></td>
+    </tr>
+</tbody></table>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-7322489-2";
+urchinTracker();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7322489-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body></html>

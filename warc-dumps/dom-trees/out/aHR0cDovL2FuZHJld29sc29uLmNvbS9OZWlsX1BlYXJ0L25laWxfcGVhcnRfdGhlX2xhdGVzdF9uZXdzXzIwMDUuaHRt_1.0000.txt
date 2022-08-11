@@ -1,0 +1,1187 @@
+<html><!-- #BeginTemplate "../andyo2-thirdlevel_peart2.dwt" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Neil Peart ― Drummer, Lyricist, Writer</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0" onload="FP_preloadImgs(/*url*/'../images/button3.jpg',/*url*/'../images/button44.jpg',/*url*/'../images/button45.jpg',/*url*/'../images/button47.jpg',/*url*/'../images/button48.jpg',/*url*/'../images/button4A.jpg',/*url*/'../images/button4B.jpg',/*url*/'../images/button50.jpg',/*url*/'../images/button51.jpg',/*url*/'../images/button53.jpg',/*url*/'../images/button54.jpg',/*url*/'../images/button21.jpg',/*url*/'../images/button20.jpg',/*url*/'../images/button35.jpg',/*url*/'../images/button36.jpg',/*url*/'../images/button7.jpg',/*url*/'../images/button8.jpg',/*url*/'../images/button72.jpg',/*url*/'../images/button73.jpg',/*url*/'../button6.jpg',/*url*/'../button5.jpg')">
+
+<table valign="top" width="775" id="table1" name="fulltable" border="0" cellpadding="0" cellspacing="0" align="left" bordercolor="384B97">
+
+<!--- header row begins --->
+
+<tbody><tr height="88" valign="top">
+	<td>
+		<table width="100%" valign="top" border="0" cellpadding="0" cellspacing="0" align="center" background="../images/headerbg.gif" id="table2">
+			<tbody><tr valign="top" height="88">
+				<td width="100%" align="left" valign="top" class="SEARCHBOX">
+					<table width="100%" valign="top" border="0" cellpadding="0" cellspacing="0" align="center" id="table3" height="45">
+						<tbody><tr>
+							<td width="232" align="left" valign="top">
+								<!-- #BeginEditable "Banner" -->
+								<img border="0" src="../andyo21.jpg" width="775" height="50"><!-- #EndEditable --></td>
+							<td align="center" valign="middle">
+								&nbsp;</td>
+						</tr>
+					</tbody></table>
+					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="neil_peart.htm">
+					<img border="0" id="img39" src="../images/button9.jpg" height="20" width="100" alt="Peart Home" fp-style="fp-btn: Border Bottom 3" fp-title="Peart Home" onmouseover="FP_swapImg(1,0,/*id*/'img39',/*url*/'../images/button7.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img39',/*url*/'../images/button9.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img39',/*url*/'../images/button8.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img39',/*url*/'../images/button7.jpg')"></a></p></td>
+				<td width="250" align="right" valign="top" class="searchbox">
+					&nbsp;</td>
+			</tr>
+								
+		</tbody></table>
+	</td>
+</tr>
+
+<!--- body row begins --->
+
+<tr height="100%" id="bodyrow">
+	<td>
+		<table width="775" id="table4" valign="top" border="0" cellpadding="0" cellspacing="0" align="left">
+			<tbody><tr height="100%">
+				<td width="60" align="left" valign="top" bgcolor="#C4C4C4">
+					&nbsp;</td>
+				<td width="100%" align="center" valign="top" bgcolor="white">
+
+<!--- main content window begins --->
+
+	<p align="right">
+		
+	</p>
+		<table height="100%" cellspacing="0" cellpadding="10" width="100%" border="0" valign="top" id="table5">
+
+<!-- MSTableType="nolayout" -->
+
+<tbody><tr valign="top">
+<td colspan="2" height="90">
+<!-- #BeginEditable "Top_Ad" --><script type="text/javascript"><!--
+google_ad_client = "pub-8689138758470072";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+//2006-10-24: Peart_DWT_Top
+google_ad_channel = "6475835155";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><!-- #EndEditable --></td>
+</tr>
+
+<tr valign="top">
+<td height="90">
+<a href="../index.htm">
+<img border="0" id="img37" src="../images/button34.jpg" height="20" width="100" alt="Home" onmouseover="FP_swapImg(1,0,/*id*/'img37',/*url*/'../images/button35.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img37',/*url*/'../images/button34.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img37',/*url*/'../images/button36.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img37',/*url*/'../images/button35.jpg')" fp-style="fp-btn: Simple Arrow 4" fp-title="Home"></a><p>
+<a href="../Travel/Travel_home.htm">
+<img border="0" id="img41" src="../button4.jpg" height="20" width="100" alt="Travel" onmouseover="FP_swapImg(1,0,/*id*/'img41',/*url*/'../button5.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img41',/*url*/'../button4.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img41',/*url*/'../button6.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img41',/*url*/'../button5.jpg')" fp-style="fp-btn: Border Left 3; fp-orig: 0" fp-title="Travel"></a></p>
+<p>
+<a href="../Writing/Writing_home.htm">
+<img border="0" id="img29" src="../images/button43.jpg" height="20" width="100" alt="Writing" onmouseover="FP_swapImg(1,0,/*id*/'img29',/*url*/'../images/button44.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img29',/*url*/'../images/button43.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img29',/*url*/'../images/button45.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img29',/*url*/'../images/button44.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Writing"></a></p>
+<p>
+<a href="../Music/Music_home.htm">
+<img border="0" id="img30" src="../images/button46.jpg" height="20" width="100" alt="Music" onmouseover="FP_swapImg(1,0,/*id*/'img30',/*url*/'../images/button47.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img30',/*url*/'../images/button46.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img30',/*url*/'../images/button48.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img30',/*url*/'../images/button47.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Music"></a></p>
+<p>
+<a href="../Film/Film_home.htm">
+<img border="0" id="img31" src="../images/button49.jpg" height="20" width="100" alt="Film" onmouseover="FP_swapImg(1,0,/*id*/'img31',/*url*/'../images/button4A.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img31',/*url*/'../images/button49.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img31',/*url*/'../images/button4B.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img31',/*url*/'../images/button4A.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Film"></a></p>
+<p>
+<a href="../Pictures/Pictures_home.htm">
+<img border="0" id="img33" src="../images/button4F.jpg" height="20" width="100" alt="Pictures" onmouseover="FP_swapImg(1,0,/*id*/'img33',/*url*/'../images/button50.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img33',/*url*/'../images/button4F.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img33',/*url*/'../images/button51.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img33',/*url*/'../images/button50.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Pictures"></a></p>
+<p>
+<a href="../Links/links.htm">
+<img border="0" id="img34" src="../images/button52.jpg" height="20" width="100" alt="Links" onmouseover="FP_swapImg(1,0,/*id*/'img34',/*url*/'../images/button53.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img34',/*url*/'../images/button52.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img34',/*url*/'../images/button54.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img34',/*url*/'../images/button53.jpg')" fp-style="fp-btn: Brick Column 1" fp-title="Links"></a></p><p>
+<a href="../Lists/Lists_home.htm">
+<img border="0" id="img36" src="../images/button25.jpg" height="20" width="100" alt="Lists" onmouseover="FP_swapImg(1,0,/*id*/'img36',/*url*/'../images/button20.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img36',/*url*/'../images/button25.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img36',/*url*/'../images/button21.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img36',/*url*/'../images/button20.jpg')" fp-style="fp-btn: Brick Column 1; fp-orig: 0" fp-title="Lists"></a></p><p>
+<a href="neil_peart.htm">
+<img border="0" id="img40" src="../images/button71.jpg" height="20" width="100" alt="Neil Peart" onmouseover="FP_swapImg(1,0,/*id*/'img40',/*url*/'../images/button72.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img40',/*url*/'../images/button71.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img40',/*url*/'../images/button73.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img40',/*url*/'../images/button72.jpg')" fp-style="fp-btn: Border Left 1" fp-title="Neil Peart"></a></p><p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8689138758470072";
+//120x600, created 1/25/08
+google_ad_slot = "1509090693";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p></td>
+<td width="82%">
+<!-- #BeginEditable "Middle" -->
+	<b><font size="4" face="Arial"><i>Neil Peart </i>― The Latest News - 2005</font></b><p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">November 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2">
+	<a href="ssprofessor/SSProfessor_hi-res.htm">Hi-resolution pictures</a> of 
+	Neil's drum kit from Los Angeles S.S. Professor tour stop<br>
+&nbsp;</font></li>
+	<li><font face="Arial" size="2">New (old) article on NeilPeart.net:
+	<a href="http://www.neilpeart.net/articles/macleans/index.html">McLean's 
+	article: "Into Africa"</a> <br>
+&nbsp;</font></li>
+	<li><font face="Arial" size="2">New picture of Neil Peart in tent (I've 
+	never seen this one before). This pic is from the McLean's article, "Into 
+	Africa."</font></li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="neil_images/Neil_tent.jpg" width="371" height="249"></p>
+<p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">November 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2">New interview with Neil Peart on the R30 DVD 
+	release on Rush.com.</font></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="http://rush.com/php/news_pop.php?id=20">From 
+	Rush.com</a>: "Neil Peart, one of the most proficient drummers and 
+	articulate lyricists in Rock history, generally prefers to let his bandmates 
+	- and more significantly, his music - do all the talking. For the release of 
+	the historic, double DVD/CD Rush-R30 which is already slated to ship at 
+	double platinum status, Peart has taken some time to look back at what he, 
+	vocalist and bassist Geddy Lee and guitarist Alex Lifeson, have accomplished 
+	over the past 30 years." </font></p>
+</blockquote>
+<ul>
+	<li><font face="Arial" size="2">Neil Peart's "Anatomy of a Drum Solo" moved 
+	up to December 7 (was December 15)</font></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">According to Hudson Music,
+	<a target="_blank" href="http://hudsonmusic.com/html_general/intheworks.html#np">
+	Neil's upcoming DVD has been moved up a week to December 7</a>. </font></p>
+</blockquote>
+<ul>
+	<li><font face="Arial" size="2">R30 DVD sneak previews on Yahoo! Music</font></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">If you can't wait until Tuesday, you can now 
+	watch the following videos (in their entirety) on
+	<a target="_blank" href="http://music.yahoo.com/ar-262327-videos--Rush">
+	Yahoo! Music</a>.</font></p>
+	<ul>
+		<li><font face="Arial" size="2">R30 Overture</font></li>
+		<li><font face="Arial" size="2">Limelight</font></li>
+	</ul>
+</blockquote>
+<p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="November_15">November 15</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p>
+<font face="Arial" size="2">Related News: New Andrew McNaughton prints of Alex 
+Lifeson now available</font></p>
+<p>
+<font face="Arial" size="2">Details:</font></p>
+<blockquote>
+	<p><font face="Arial" size="2">Andrew MacNaughtan, photographer to Rush, has 
+	created a new autographed print series. This is the final print in the 
+	Photographing Rush series and features everyone's favorite guitarist, Alex 
+	Lifeson. <br>
+	<br>
+	Alex has graciously agreed to sign 500 prints of “Alex Lifeson, 30th 
+	Anniversary”. Proceeds from this print will be donated to several of 
+	Andrew's favorite charitable organizations, including the Red Cross.<br>
+	<br>
+	In addition, Andrew and Alex have cooked up two special, extremely rare 
+	prints. The first is a montage of 16 images of Alex on stage at Radio City 
+	Music Hall during the 30th Anniversary Tour. The second is a portrait of 
+	Alex taken with his white Gibson ES-355. Only 25 each of these prints were 
+	created and hand signed by Alex last week. <br>
+	<br>
+	Visit <a href="http://www.andrewmacnaughtan.net">
+	http://www.andrewmacnaughtan.net</a> to purchase one of these rare and 
+	limited prints now and receive it in time for the holiday season! We 
+	anticipate that the first shipments will go out the first week of December.<br>
+&nbsp;</font></p>
+</blockquote>
+<p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="November_3">November 3</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2">
+	<a href="upcoming_releases.htm#Anatomy_of_a_Drum_Solo_DVD">"Anatomy of a 
+	Drum Solo" set for December 15 release</a><br>&nbsp;</font></li>
+	<li><font size="2" face="Arial">New updates on NeilPeart.net by Neil Peart</font></li>
+</ul>
+<blockquote>
+	<ul>
+		<li><font size="2" face="Arial"><a href="http://neilpeart.net/news/index.html">
+		October news</a></font></li>
+		<li><font size="2" face="Arial">
+		<a target="_blank" href="http://neilpeart.net/book_club/index.html">
+		Bubba's Book Club</a></font></li>
+	</ul>
+</blockquote>
+<ul>
+	<li><font size="2" face="Arial">
+	<a target="_blank" href="http://rush.com/php/news_pop.php?id=18">S.S. 
+	Professor tour heading to three Canadian cities: Toronto, Montreal, and 
+	Quebec City</a></font></li>
+</ul>
+<blockquote>
+	<p><font size="2" face="Arial">It's not clear yet whether Lorne Wheaton will be present 
+	at these tour stops.</font></p>
+	<p><font size="2"><font face="Arial">Monday, November 14th <br>
+	<br>
+	Just Drums <br>
+	5431 Yonge Street <br>
+	Willowdale ON M2N 5S1 <br>
+	416.226.1211 <br>
+	Time: 4:00 pm - 7:00 pm <br>
+	Venue: next door warehouse <br>
+	Contact: Dave or drum dept.<br>
+	<br>
+	Tuesday, November 15th <br>
+	<br>
+	Steves Music Store <br>
+	51 St. Antoine St. West <br>
+	Montreal QU H2Z 1G9 <br>
+	514.878.2216 <br>
+	Time: 3:00 pm - 6:00 pm (store closes at 6pm) <br>
+	Venue: In store <br>
+	<br>
+	Wednesday, November 16th <br>
+	<br>
+	Gagne &amp; Frere <br>
+	302 Durocher <br>
+	Quebec QU G1K 4W9 <br>
+	418.525.8601 <br>
+	Time: 7:30 <br>
+	Venue: 284 Durocher St (2 doors from the store) </font> <br>
+&nbsp;</font></p>
+</blockquote>
+<p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">October 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2">
+	<a href="upcoming_releases.htm#Anatomy_of_a_Drum_Solo_DVD">Details of Neil 
+	Peart's "Anatomy of a Drum Solo."</a></font><br>
+&nbsp;</li>
+	<li><font face="Arial" size="2">
+	<a target="_blank" href="http://www.allheadlinenews.com/articles/7000499636">
+	More details on A Show of Hands, Grace Under Pressure, and Exit... Stage 
+	Left DVDs</a></font><br>
+&nbsp;</li>
+	<li><font face="Arial" size="2">
+	<a target="_blank" href="http://www.billboard.com/bb/daily/article_display.jsp?vnu_content_id=1001305124">
+	Geddy Lee interview in Billboard.com</a></font><br>
+&nbsp;</li>
+	<li><font face="Arial" size="2">Updates on </font><span style="background-color: #FFFFFF"><font face="Arial" size="2"><b>
+	<a href="ssprofessor/ssprofessor_home.htm">S.S. Professor tour report by 
+	Andyo</a></b></font></span></li>
+</ul>
+<p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">October 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><b><font face="Arial" size="2"><a href="upcoming_releases.htm">Upcoming 
+	Releases</a> page now on available on this site contains all new Neil Peart 
+	and Rush release information</font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">Go to this page for all the latest 
+	information about new releases. Additional news items will remain on The 
+	Latest News page.</font></p>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="upcoming_releases.htm#Rush_tourbooks_">New book 
+	containing all tour book information announced</a></font></p>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="upcoming_releases.htm#Multiple_DVDs">Complete Rush 
+	videos DVD announced</a></font></p>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="upcoming_releases.htm#Chemistry">Chemistry Rush 
+	book date announced</a></font></p>
+</blockquote>
+<ul>
+	<li><font face="Arial" size="2">Updates on </font><span style="background-color: #FFFFFF"><font face="Arial" size="2"><b>
+	<a href="ssprofessor/ssprofessor_home.htm">S.S. Professor tour report by 
+	Andyo</a></b></font></span></li>
+</ul>
+<p>
+<span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">September 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li></li><span style="background-color: #FFFFFF">
+	<font face="Arial" size="2"><b>
+	<a name="Neil_Pearts_new_book_is_titled_Roadworks.">Neil Peart's new book is titled "Roadworks."</a></b></font></span>
+</ul>
+<blockquote>
+	<p><span style="background-color: #FFFFFF"><font face="Arial" size="2">According to Lorne Wheaton on the S.S. Professor tour in LA, Neil's book is 
+	now titled "Roadworks." It's due out at the beginning of January.
+	</font></span></p>
+</blockquote>
+<ul>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2"><b>
+	<a name="R30_Live_In_Frankfurt_scheduled_for_release_on_November_15,_2005">R30 
+Live In Frankfurt scheduled for release on November 15, 2005</a></b></font></span></li>
+</ul>
+<blockquote>
+	<p><span style="background-color: #FFFFFF"><font face="Arial" size="2">
+	According to
+	<a target="_blank" href="http://www.allheadlinenews.com/articles/7000189920">
+	All Headline News</a>, Rush is expected to release R30 Live in Frankfurt on 
+	November 15, 2005.</font></span></p>
+</blockquote>
+<ul>
+	<li><span style="background-color: #FFFFFF"><b><font face="Arial" size="2">
+	<a name="Neil_Peart_Anatomy_of_a_Drum_Solo_scheduled_for_December_13,_2005,_release">Neil 
+Peart Anatomy of a Drum Solo scheduled for December 13, 2005, release</a></font></b></span></li>
+</ul>
+		<blockquote>
+			<p><span style="background-color: #FFFFFF">
+			<font face="Arial" size="2">According to
+			<a target="_blank" href="http://www.allheadlinenews.com/articles/7000189920">
+			All Headline News</a>, </font></span><font face="Arial" size="2">
+			"Drummer Neil Peart will release an instructional DVD titled 
+			"Anatomy of A Drum Solo" to be released through Hudson Music on 
+			December 13. The DVD will contain over two hours of Peart playing 
+			through numerous versions of drum solos he has performed for the 
+			better part of thirty years."</font></p>
+</blockquote>
+<ul>
+	<li><span style="background-color: #FFFFFF"><b><font face="Arial" size="2">
+	<a name="Neil_Peart_will_appear_on_Aqua_Teen_Hungerforce">Neil 
+Peart will appear on Aqua Teen Hungerforce</a></font></b></span></li>
+</ul>
+		<blockquote>
+			<p><span style="background-color: #FFFFFF">
+			<font face="Arial" size="2">From
+			<a target="_blank" href="http://www.sabian.com/SabianTalk/forum/messageview.cfm?catid=6&amp;threadid=6868&amp;enterthread=y">
+			Sabian.com</a>: "Neil will ... make an appearance on the Cartoon 
+			Network/Adult Swim animated show Aqua Teen Hungerforce.</font></span><font face="Arial" size="2">." 
+			No date announced. </font></p>
+</blockquote>
+<p></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">September 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</font></b></span></p>
+<ul>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2"><b>
+	<a href="ssprofessor/ssprofessor_home.htm">S.S. Professor tour report by 
+	Andyo</a><br><br></b>I attended the S.S. Professor tour stop in Hollywood, CA. I've put 
+	together a page that has the information discussed in the clinic, as well as 
+	pictures. </font></span></li>
+</ul>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="September_13">September 13</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2">The 
+	S.S. Professor tour is currently underway. Yours truly will be attending the 
+	Los Angeles clinic. We'll have a full write up by next week with pictures 
+	(if pictures are allowed).<br>&nbsp;</font></span></li>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2">
+	<a target="_blank" href="http://www.2112.net/powerwindows/News.htm">Power 
+	Windows</a> has some initial reports from the S.S. Professor clinics. <br>&nbsp;</font></span></li>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2">
+	<a target="_blank" href="http://drummagazine.com">Drum! Magazine</a> 
+	features Neil Peart on the cover of the October 2005 issue. This issue 
+	should be available on September 10.<br>&nbsp;</font></span></li>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2">New 
+	content on NeilPeart.net.
+	<a target="_blank" href="http://neilpeart.net/listening_reading/reading.html">Issue 2 of "Neil's Picks for Quality Reading" is now available</a>, 
+	including reviews on David Gutterson's <i>Our Lady of the Woods</i>, Walter 
+	Kaufmann's <i>Critique of Religion and Philosophy</i>, Saul Bellow's <i>More 
+	Die of Heartbreak</i>, and Nick Hornby's <i>A Long Way Down</i>. </font>
+	</span></li>
+</ul>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="August_31">August 31</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<ul>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2">
+	<a name="Rush_will_release_the_R30_DVD_late_fall_2006">Rush will release the 
+	R30 DVD late fall 2005</a>. From 
+	<a target="_blank" href="http://rush.com/php/news_pop.php?id=17">Rush.com</a>:</font></span></li>
+</ul>
+<blockquote>
+	<blockquote>
+		<p><span style="background-color: #FFFFFF"><font face="Arial" size="2">Rush will be releasing the highly anticipated R30 DVD in late fall 2005. 
+		R30 will feature the sold out concert that Rush played in Frankfurt, 
+		Germany, in October 2004 during their 30th Anniversary tour. </font>
+		</span></p>
+	</blockquote>
+</blockquote>
+<ul>
+	<li><span style="background-color: #FFFFFF"><font face="Arial" size="2">
+	<a name="Neil_Peart_will_also_be_releasing_his_new_instructional_DVD">Neil 
+	Peart will also be releasing his new instructional DVD</a>, Anatomy of a 
+	Drum Solo. From 
+	<a target="_blank" href="http://rush.com/php/news_pop.php?id=17">Rush.com</a>:</font></span></li>
+</ul>
+<blockquote>
+	<blockquote>
+		<p><font size="2" face="Arial">Neil Peart is currently working on the 
+		follow up to his instructional drum video "A Work In Progress." The 
+		follow up will be released as a DVD and is set for release in late fall 
+		2005. The new DVD is produced by Hudson Music and is entitled "Anatomy 
+		of Drum Solo."&nbsp;&nbsp;&nbsp; </font><br>&nbsp;</p>
+	</blockquote>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="August_25">August 25</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<p><img height="156" src="neil_images/ss_drum_sticks.jpg" width="201" align="left"><span style="background-color: #FFFFFF"><font face="Arial" size="2">Pro-mark 
+announced limited edition collectible sticks for the Neil Peart drum set tour. 
+From <a target="_blank" href="http://rush.com/php/news_pop.php?id=16">Rush.com</a>:</font></span></p>
+<p><span style="background-color: #FFFFFF"><font face="Arial" size="2">"Houston-based Pro-Mark Corporation has created a limited-edition version of the 
+legendary 747 Neil Peart model drumstick.<br><br>Sporting a unique red imprint, these collectible drumsticks have been created 
+especially for the S.S. Professor Drum Set Tour. They will be available ONLY at 
+the retail stores that are participating in the tour, and come with a 
+Certificate of Authenticity."<br>&nbsp;</font></span></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="August_24">August 24</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2"><a name="New_interview_with_Carrie_Nuttall">New interview with Carrie Nuttall</a>&nbsp; (thanks for sending Monica Z!) 
+	in
+	<a target="_blank" href="http://www.ink19.com/issues/july2005/interviews/interviews/carrieNuttall.html">Ink 19</a>.</font></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">In this excellent interview, Carrie (aka Mrs. 
+	Neil Peart) discusses her book Rhythm and Light, going to her first Rush 
+	concert, and life with Neil. </font></p>
+	<p>
+	<img height="221" alt="Carrie Nuttall" src="http://graphics.ink19.com/magazine/interviews/carrieNuttallPhoto.jpeg" width="175" border="0" align="left"><font face="Arial" size="2">Excerpt:</font></p>
+	<p><font face="Arial" size="2">Q: You must have been familiar with Rush at 
+	the time you met Neil.<br>A: I knew what Rush was, but honestly didn't know the individual band 
+	member's names. I knew the hits back in high school, but I wasn't a fan.<br>&nbsp;</font></p>
+	<p><font face="Arial" size="2">Q: Rush has some of the most loyal fans in 
+	the world...<br>A: Yes, that's true!<br>&nbsp;</font></p>
+	<p><font face="Arial" size="2">Q: But your husband has a sort of sub-sect 
+	all his own. For a lot of people, he's a kind of mystery figure, a living 
+	legend. When did you first become aware of Neil's sort of unique place in 
+	rock 'n' roll?<br>A: After we got together, from all the comments from people around me. He's 
+	a very private person, and probably less comfortable with the limelight than 
+	the other two. That probably contributes to the image that he has.<br>&nbsp;</font></p>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="http://www.ink19.com/issues/july2005/interviews/interviews/carrieNuttall.html">Go to Ink 19 to read the full interview</a>.</font></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">August 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<ul>
+	<li><b><font size="2" face="Arial">
+	<a name="Neil_Pearts_30th_Anniversary_kit_to_tour_with_tech_Lorne_Wheaton">Neil Peart's 30th Anniversary kit to tour 
+	with tech Lorne Wheaton</a></font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="http://rush.com/php/news_pop.php?id=15">Rush.com</a> 
+	and
+	<a target="_blank" href="http://www.neilpeart.net/news/NP_30th_kit_tour.html">NeilPeart.net</a> announced that Neil's 30th 
+	Anniversary drum kit will be touring around the United States with drum tech 
+	Lorne Wheaton:</font></p>
+	<blockquote>
+		<p><font face="Arial" size="2">Neil Peart 30th Anniversary Drum Set Tour
+		<br>For Immediate Release: <br><br>SABIAN CYMBALS AND DW DRUMS ARE PROUD TO PRESENT NEIL PEART’S 30TH 
+		ANNIVERSARY DRUM SET ON TOUR ACROSS AMERICA FEATURING NEIL’S LONG TIME 
+		DRUM TECHNICIAN LORNE WHEATON.<br><br>The Voyage of the ‘S.S. Professor’ 
+		begins in Boston on September 8th, crosses the country and ends in Las 
+		Vegas on September 22nd. <br><br>Lorne Wheaton will conduct a clinic at 
+		each event on equipment maintenance, offer tuning tips and discuss 
+		Neil’s equipment and sound preferences. He will also answer customers’ 
+		questions about life on the road, working with RUSH, and of course 
+		musician and lyricist Neil Peart, affectionately known as ‘The 
+		Professor.’ <br><br></font><a name="top">
+		<img src="http://sabian.com/SabianTalk/forum/postimages4\neil-lorne_RCMH-NYC.jpg" align="left" alt="Neil Peart and Lorne Wheaton"></a><font face="Arial" size="2">Neil 
+		says of Lorne, “Lorne Wheaton is a complete master of the drum-tech 
+		trade, and there is no one I would rather have working behind, around, 
+		and beside me. He takes great pride and meticulous care in his work, but 
+		what sets him apart is his rare, discerning ear for sound and tuning. He 
+		is the best!” <br><br>On the road in the mid 1970’s Lorne was working 
+		for a band called Max Webster who shared the same management as RUSH. 
+		The two bands toured North America and Europe together and Lorne got to 
+		know Neil Peart. Lorne went on to tech for Loverboy, Journey, Robert 
+		Palmer, Kim Mitchell, Van Halen, Bryan Adams, Elton John and Steely Dan. 
+		Finally, in 2000 Lorne was asked to work for Neil on the road and in the 
+		studio with the band recording Vapor Trails. He says, “Working with Neil 
+		is absolutely the best gig in the live music business!” <br><br>Lorne is 
+		one of the most experienced techs in the business and an authority on 
+		recording, tuning and gear selection for many situations. SABIAN &amp; DW 
+		with Pro Mark and Remo are sponsoring a tour where Lorne can share his 
+		perspective and experience with drummers across the United States. <br>
+		<br>SABIAN product managers who 
+		worked closely with Neil in developing the Signature Paragon series of 
+		cymbals will be on hand to answer questions, offer advice and assistance 
+		in cymbal selection. SABIAN Artist Relations Manager and Product 
+		Specialist Chris Stankee says, “Working with Neil to create these 
+		cymbals was a real joy. He is very discerning and would never compromise 
+		on the sound and feel of the cymbals. He wanted to retain certain tonal 
+		properties that he liked and alter some others that resulted in a very 
+		dynamic cymbal. It’s anything but typical. The bottom of the cymbal 
+		features a wide tonal groove for high end cut and precision. The top 
+		features a pin point tonal groove that allows the vibrations to flow 
+		over the surface making the cymbal respond at lower dynamics with less 
+		fundamental pitch that can be very distracting. The bell was hand 
+		hammered to further lower the fundamental pitch and fine tune the bells 
+		and overall tone to Neil’s taste. Paragon is the first collection of 
+		cymbals in a rock weight that have all the desirable qualities offered 
+		by a much thinner cymbal.” <br><br>On display will be the actual drum 
+		set that Neil used with RUSH on last summer’s 30th anniversary tour. <br>
+		<br>Neil Peart's "30th Anniversary Drumkit" combines many of DW's most 
+		recent drum making breakthroughs with a truly unique finish that was 
+		personally designed by Neil and DW. The result is a drumkit that is both 
+		sonically and visually tailored to Neil's specifications. <br><br>When 
+		Neil first met with DW Vice President and Drum Designer John Good, the 
+		two discussed every aspect of what would become his ultimate set. The 
+		idea was to create a kit with the dynamic intensity that is synonymous 
+		with Neil's playing. To accomplish this, two proprietary features were 
+		utilized. DW's new VLT (Vertical Low Timbre) and ESE (Enhanced Sound 
+		Edge) technologies are unique features of Neil’s set. The finish is an 
+		extremely custom lacquer process that involves hologram appliqués of 
+		icons representing many of Rush's most famous recording and tours. Each 
+		Black Mirra Flake panel is lined with gold pin striping and the entire 
+		kit including hardware and pedals are custom plated in rich 24 carat 
+		gold. <br><br>Good reflects, "Neil's kit is special because it possesses 
+		our most cutting edge drum making technology that has since benefited so 
+		many players." <br><br>There will be giveaways and special deals on 
+		SABIAN cymbals, Drum Workshop, Pro Mark and Remo product at all these 
+		events. <br><br>The S.S. Professor will be on display at these fine 
+		shops. DATE CITY STORE <br>9/8 Boston, MA Daddy’s Junky Music <br>9/10 
+		Pittsburgh, PA Drum World <br>9/12 Chicago, IL Guitar Center <br>9/13 
+		St. Louis, MO Drum Headquarters <br>9/14 Kansas City, MO Musician’s 
+		Friend <br>9/16 Denver, CO City/Guitar Land <br>9/19 San Jose, CA San 
+		Jose Pro Drum <br>9/20 Hollywood, CA Guitar Center <br>9/21 San Diego, 
+		CA Guitar Center <br>9/22 Las Vegas, NV Guitar Center <br><br>&nbsp;</font></p>
+	</blockquote>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">August 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<ul>
+	<li><b><font face="Arial" size="2">
+	<a name="New_Neil_Peart_Paragon_cymbal_posters">New Neil Peart Paragon 
+	cymbal posters</a></font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">On the Sabian website, you can buy a Neil 
+	Peart Paragon cymbal
+	<a target="_blank" href="http://www.sabianstore.com/product_detail.asp?T1=SAB+61158">poster</a> ($9.95) or
+	<a target="_blank" href="http://www.sabianstore.com/product_detail.asp?T1=SAB+61025NP">banner</a> ($89.95).</font></p>
+	<p><img border="0" src="images/neil_p7.jpg"></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="July_20">July 20</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<ul>
+	<li><b><font face="Arial" size="2">New Neil Peart book and instructional 
+	video announced</font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">On Neil Peart's official website, Neil 
+	announced both a new book and instructional video are in the works:</font></p>
+	<blockquote>
+		<p><font face="Arial" size="2">"As of July 1st, 2005, I have just finished 
+	the first draft of a book about the R30 tour, with the unwieldy title of 
+	ROADSHOW: Landscape With Drums, A Concert Tour By Motorcycle.</font></p>
+		<p><font face="Arial" size="2">"In mid-July, I will start the filming of a 
+	new instructional DVD, this one to focus on the subject of drum soloing. The 
+	working title is Anatomy of a Drum Solo."</font></p>
+	</blockquote>
+	<p><font face="Arial" size="2">
+	<a target="_blank" href="http://neilpeart.net/news/july_05.html">To read 
+	Neil's "News, Weather, and Sports" page for July 2005, click here</a>.</font></p>
+</blockquote>
+<ul>
+	<li><b><font face="Arial" size="2">New sections added to NeilPeart.net</font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">In addition to the "News" section of Neil's 
+	official website, he's added three additional sections, including:</font></p>
+	<ul>
+		<li><font face="Arial" size="2">Articles (with reprints of the
+		<a target="_blank" href="http://neilpeart.net/articles/cw/index.html">Cycling World</a> article and the BMW article)</font></li>
+		<li><font face="Arial" size="2">Bubba's Book 'N' Music Club, including 
+		sections on Neil's
+		<a target="_blank" href="http://neilpeart.net/listening_reading/reading.html">book</a> and
+		<a target="_blank" href="http://neilpeart.net/listening_reading/listening.html">music picks</a>.</font></li>
+</ul></blockquote>
+<ul>
+	<li><font face="Arial" size="2"><b>In the latest Rolling Stone, Dave Grohl is 
+	described as having practiced to Rush's 2112 on a unique drum kit:</b></font></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">"His family could never afford a drum kit, so 
+	pillows acted as drums and record sleeves were cymbals while he studied and 
+	played along to Minor Threat's <i>Out of Step</i>, Bad Brains' <i>Rock for 
+	Light</i> and Rush's 2112."
+			<a target="_blank" href="http://www.rollingstone.com/news/story/_/id/7483596/?pageid=rs.Home&amp;pageregion=single2">Click here to read the full article on RollingStone.com</a>.</font></p>
+</blockquote>
+<p></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">July 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></span></p>
+<p></p>
+<ul>
+	<li><b><font face="Arial" size="2">Neil Peart raises $60,000 for 
+	Houston-based Child Advocates charity</font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">From Rush.com: "Pro-Mark Corporation, the 
+	world’s largest manufacturer dedicated exclusively to the 
+	design, production, and distribution of drumsticks, mallets, and percussion accessories and 
+	legendary “RUSH” drummer, Neil Peart, joined forces and recently completed a 
+	promotion that raised $60,000.00 for a Houston-based charity." 
+	<a target="_blank" href="http://www.rush.com/php/news_pop.php?id=14">Click here to 
+	read the official press release on Rush.com</a>.</font></p>
+	<p>
+	<img height="216" src="neil_images/neil_promark_charity.jpg" width="351" align="left"></p>
+</blockquote>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+	<li><b><font face="Arial" size="2">Neil Peart "Hold Your Fire" bass drum 
+	heads in eBay charity auction</font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">From the Andrew MacNaughtan auction site: 
+	"Original bass drum heads used on Neil Peart’s drum kit from the Hold Your 
+	Fire 1987 Tour. This item was given to Andrew MacNaughtan in 1989. Extremely&nbsp; 
+	RARE!" There are some other incredible auction items on this page as well, 
+	including original artwork for Alex Lifeson's solo album Victor, a Signals 
+	and Roll the Bones collection of memorabilia (including used Neil Peart 
+	drumsticks), and Presto photos.
+	<a target="_blank" href="http://www.andrewmacnaughtan.net/intro3.html">Click 
+	here to go to Andrew MacNaughtan's eBay page</a>. Also, note the picture of 
+	Neil coming up for auction with the African drum.</font></p>
+	<p>
+	<a target="_self" style="text-decoration: none; color: #D4B26A" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=7528077036/">
+	<img height="233" src="images/hofdh.jpg" width="350" border="0"></a></p>
+</blockquote>
+<ul>
+	<li><font face="Arial" size="2"><b>Neil Peart YYZ 3-D animation on
+	<a href="http://bobbysbrane.com">bobbysbrane.com</a> </b>(sent by Adrian 
+	Mongeli)</font></li>
+</ul>
+<blockquote>
+	<p><font size="2" face="Arial">Quite simply, this video unbelievable. While it takes a 
+	while to download (43.5 MB Windows Media file), it's definitely worth it.
+	<a target="_blank" href="http://bobbysbrane.com/animation%20fun/animation-fun.html">Click here to go to the download page on bobbysbrane.com</a>.</font></p>
+</blockquote>
+<ul>
+	<li><b><font size="2" face="Arial">New R30 Tour DVD (and other DVDs) Coming Soon</font></b></li>
+</ul>
+<blockquote>
+	<p><font size="2" face="Arial">As reported by
+	<a target="_blank" href="http://www.2112.net/powerwindows/News.htm">Power 
+	Windows</a>: "An advertisement for Fogo (<a target="_blank" href="http://www.fogolabs.com">http://www.fogolabs.com</a>), 
+	a Canadian duplication company), found on the back cover of the new Fogo
+	<a target="_blank" href="http://www.fogolabs.com">http://www.fogolabs.com</a> 
+	a Canadian 
+	Entertainment Network magazine, includes its list of their upcoming 2005 DVD 
+	releases including: RUSH - R-30; RUSH - EXIT STAGE LEFT; RUSH - GRACE UNDER 
+	PRESSURE; and RUSH - A SHOW OF HANDS."
+	<a target="_blank" href="http://www.2112.net/powerwindows/newspics/Fogoad.jpg">Click here to see the ad on Power Windows</a>.</font></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">June 14&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><b><font face="Arial" size="2">Neil Peart (unsigned) prints at AndrewMacNaughtan.net</font></b></li>
+</ul>
+<blockquote>
+	<p><font size="2" face="Arial">There are some cool Neil prints available at
+	<a target="_blank" href="http://www.andrewmacnaughtan.net/catalog/index.php?cPath=23">Andrew MacNaughtan's website</a>. They are slightly different than other 
+	pictures that have appeared in tour books and other places.</font></p>
+</blockquote>
+<ul>
+	<li><font size="2" face="Arial"><b>Related news: Alex Lifeson speaks about the Ritz 
+	incident</b></font></li>
+</ul>
+<blockquote>
+	<ul>
+		<li><font size="2" face="Arial">
+		<a target="_blank" href="http://www.rush.com/php/news_pop.php?id=12">Alex's statement to fans</a> (on Rush.com)</font></li>
+		<li><font size="2" face="Arial">
+		<a target="_blank" href="http://www.rush.com/php/news_pop.php?id=13">Alex's official statement</a> (on Rush.com)</font></li>
+	</ul>
+</blockquote>
+<ul>
+	<li><font size="2" face="Arial"><b>Related news: New (signed) Geddy Lee prints for sale 
+	on <a target="_blank" href="http://www.andrewmacnaughtan.net/intro.html">AndrewMacNaughtan.net</a>.</b>
+	</font></li>
+</ul>
+<p><font face="Verdana" size="2">
+<img height="219" src="neil_images/03.jpg" width="576" border="0"></font></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">June 5&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p><font face="Arial" size="2"><b>Related news: 
+<a target="_blank" href="http://www.canada.com/entertainment/music/story.html?id=168b5828-60d9-43ed-bd6e-91389af1b5cb">Lifeson sues the Ritz</a></b></font></p>
+<blockquote>
+	<p><font face="Arial" size="2"><b>Associated Press <br><br>Friday, June 03, 2005<br>
+	<br></b>FORT MYERS, Fla. -- The lead guitarist for the Canadian rock group Rush, 
+	his son and daughter-in-law are suing the Ritz-Carlton, its security 
+	director and three sheriff's deputies stemming from a New Year's Eve 2003 
+	altercation at the Naples hotel. <br><br>Alex Zivojinovich, known on stage as Alex Lifeson, his son Justin and 
+	daughter-in-law Michelle filed suit Thursday in U.S. District Court in Fort 
+	Myers seeking an unspecified amount of monetary damages for injuries, pain 
+	and suffering, mental anguish and the costs of their defence. <br><br>The Zivojinoviches were ringing in 2004 at the Ritz-Carlton hotel when the 
+	altercation occurred. <br><br>Justin Zivojinovich and his friends agitated hotel security when they got up 
+	on a platform where the house band was taking a break. <br><br>The suit alleges that the deputies whom hotel security called to escort 
+	Justin out of the hotel "applied illegal and unjustified force, and such 
+	force was excessive, causing plaintiff Justin severe discomfort and pain."
+	<br><br>Michelle Zivojinovich was illegally arrested when she complained about the 
+	force used to subdue her husband, including being repeatedly hit with a 
+	Taser stun gun, according to the suit. <br><br>Deputies said Alex Zivojinovich pushed a female deputy down a stairwell and 
+	spit in another deputy's face when he tried to intervene. <br><br>Rush's founding member suffered a broken nose and other injuries in the 
+	scuffle. <br><br>Hotel spokeswoman Suzanne Willis declined comment Friday. 
+	<br><br>Messages left early Friday for the lawyers who represented the 
+	Zivojinoviches in their criminal cases were not immediately returned. 
+	Messages left early Friday at the Collier County Sheriff's Office were also 
+	not immediately returned. <br><br>In April, Alex Zivojinovich and his son accepted plea agreements to serve 12 
+	months' probation and pay court costs. The agreement called for each to 
+	plead to a single misdemeanour charge of resisting arrest without violence. 
+	Adjudication was withheld, meaning there will be no formal conviction if 
+	they successfully complete probation. <br><br>Rush's hits have included Tom Sawyer, Limelight and The Spirit of Radio 
+	since the trio's first album debuted in 1974.<br><br>© The Canadian Press 2005</font></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">May 29&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2"><b>Related news: Vapor Trails remaster 
+	cancelled?</b></font></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">I received the following e-mail from 
+	Amazon.com recently. Other people have reported a similar mail from Atlantic 
+	Records. At any rate, I don't think we'll be seeing a remastered VT any time 
+	soon.</font></p>
+	<blockquote>
+		<p><font face="Arial" size="2">Hello from Amazon.com.<br><br>We are sorry to report that we will not be able to obtain the following<br>item from your order:<br>
+		<br>Rush "Vapor Trails [ORIGINAL RECORDING REMASTERED]"<br>
+		<br>Though we had expected to be able to send this item to you, we've since<br>found that it is not available from any of our sources at this time. We<br>realize this is disappointing news to hear, and we apologize for the<br>inconvenience we have caused you.</font></p>
+	</blockquote>
+</blockquote>
+<ul>
+	<li><b><font face="Arial" size="2">No new content added to
+	<a target="_blank" href="http://neilpeart.net/">NeilPeart.net</a> yet</font></b></li>
+</ul>
+<blockquote>
+	<p><font face="Arial" size="2">I've been monitoring neilpeart.net, and there 
+	have been no updates since it launched around one month ago. </font></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">April 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p><b><font face="Arial" size="2">
+<a name="Neil_Pearts_official_website_is_now_live!">Neil Peart's official 
+website is now live!</a></font></b></p>
+<p><font face="Arial" size="2">After over a year of development, the official 
+Neil Peart website is now live. You can visit the site at the following link:
+<a target="_blank" href="http://neilpeart.net">http://neilpeart.net</a> </font>
+</p>
+<p><font face="Arial" size="2">As Neil writes on the site:</font></p>
+<blockquote>
+	<p><font face="Arial" size="2">Hello, and welcome. <br><br>Right off the top, I must 
+	confess that when Michael, my on-tour riding partner and a professional 
+	computer maven, first suggested this idea, I hadn't envisioned anything 
+	nearly so GRAND - maybe just a page showing my books, the instructional 
+	video, the Buddy Rich tributes, that kind of thing, and linking back to 
+	rush.com. <br><br>However, just like those projects themselves, and so many others I seem to 
+	get involved in, the idea kind of grew with the telling.<br><br>
+	<img border="0" src="neil_images/neil_p1.jpg" align="left">Michael contacted Greg Russell, who had 
+	registered the domain name a few years previously. A fellow motorcyclist, 
+	fellow drummer, and longtime Rush fan from New Jersey, now living in 
+	California, Greg had been inspired to register the name by my book Ghost 
+	Rider, wanting to reach out somehow in a sympathetic tribute, and give me 
+	what he described as a "cyber-hug."<br><br>Greg's burgeoning career as a TV and film graphic designer kept him too busy 
+	to develop the site on his own, and although our paths almost crossed a few 
+	times, through mutual friends, he was content to leave it up to "natural 
+	forces." It turned out that Michael contacting Greg was what I described in 
+	Ghost Rider as, <br>"...'the principle of serendipitous confluence.' Or more simply, finding the 
+	right person at the right time."<br><br>Michael and Greg put their heads together, and once they started "cooking," 
+	I realized this site was going to be a lot more elaborate than a "page."<br>
+	<br>Still, I wanted it to remain a kind of satellite to the official Rush site, 
+	focused on stuff that was more-or-less separate from the band. Stuff that 
+	was "all about me." <br><br>I'm not sure yet how it will develop in the future, but we'll try a few 
+	things, and see what works. For now, apart from the above-named solo 
+	projects, I will start a list of other people's CDs and books that have 
+	caught my attention lately, and I'll try to keep up with that (no 
+	promises!).<br><br>Thanks for dropping by, and I hope you enjoy the site.<br>
+	<br>(And sincere thanks to Michael and Greg for working so hard to make it 
+	happen.)<br><br>- Neil Peart<br>&nbsp;</font></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">April 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p><b><font face="Arial" size="2">
+<a name="Related_News:_Alex_Lifeson_and_son_accept_plea_agreements__">Related News: Alex Lifeson and son accept plea agreements
+</a></font></b></p>
+<p><font face="Arial" size="2">By accepting a plea agreement, Alex Lifeson avoids 
+jail time and a felony charge. </font></p>
+<p><font face="Arial" size="2">
+<a target="_blank" href="http://www.floridatoday.com/apps/pbcs.dll/article?AID=/20050421/BREAKINGNEWS/50421010">The AP story</a>:</font></p>
+<blockquote>
+	<p><font face="Arial" size="2">Rush guitarist avoids jail in SW Fla. incident<br>
+	<br>ASSOCIATED PRESS STORY<br><br>NAPLES, Fla. - The lead guitarist for the rock group Rush and his son accepted 
+plea agreements today and will not go to jail for a New Year's Eve 2003 
+altercation with Collier County sheriff's deputies.<br><br>Alex Zivojinovich, known on stage as Alex Lifeson, and his 34-year-old son, 
+Justin, will serve 12 months probation and pay court costs as part of the 
+agreement. The charges against them were reduced to misdemeanors from felonies 
+that could have resulted in the men going to prison.<br><br>The agreement calls for each to plead to a single misdemeanor charge of 
+resisting arrest without violence. Adjudication is being withheld, meaning there 
+will not be a formal conviction on their records if probation is successfully 
+completed.</font></p>
+</blockquote>
+<p><font size="2" face="Arial">
+<a target="_blank" href="http://web.naplesnews.com/05/04/graphics/21letter99.JPG">Read Alex's statement here.</a></font></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="April_12______">April 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><font face="Arial" size="2">
+	<span style="background-color: #FFFFFF; font-weight:700">Neil Peart is on the cover of BMW Motorcycles of America Owners News</span></font></li>
+</ul>
+<blockquote>
+	<p><span style="background-color: #FFFFFF"><font face="Arial" size="2">I stopped by 
+the BMW store in Seattle (Neil had his cycle serviced here once) this evening to 
+see if they had any copies of this magazine, and they told me BMW ON is only 
+available through membership in the BMW Motorcycles of America. Interestingly, 
+you don't have to own a BMW to join. Fortunately, this is story is available 
+online.</font></span></p><p><span style="background-color: #FFFFFF">
+	<font face="Arial" size="2">
+	<a href="http://www.bmwmoa.org/ownersnews/monthly.htm">http://www.bmwmoa.org/ownersnews/monthly.htm</a></font></span></p></blockquote>
+<p><font face="Arial">
+<a href="http://www.improvingcommunications.com/neilpeart/index.html">
+<font size="2">http://www.improvingcommunications.com/neilpeart/index.html</font></a><font size="2">
+</font></font></p>
+<p><span style="background-color: #FFFFFF"><font face="Arial" size="2">From the 
+magazine:</font></span></p>
+<blockquote>
+	<p><font face="Arial" size="2">
+	<img height="294" alt="April 2005 BMW MOA Owners News" hspace="5" src="neil_images/18500248-M.jpg" width="219" align="right" vspace="5" border="0"></font><span style="background-color: #FFFFFF"><font face="Arial" size="2"><b>April 
+	2005</b><br><br>On the Cover: Neil Peart, our cover man this month, is what Coca-Cola would 
+	call, "the real thing." As the drummer for the rock band Rush, you might 
+	assume his BMW motorcycle is for show only… a prop suiting his celebrity 
+	status. But Neil is a fellow rider, BMW MOA member and motorcycle enthusiast 
+	who forgoes riding his band's big rig while on tour for his BMW GS. And 
+	although music is his career, his greatest talent may be in his ability to 
+	connect with other riders in his writings. Neil is the author of Ghost 
+	Rider, a book that speaks to the spiritual aspects of motorcycling. The 
+	cover photo was taken onstage at Radio City Music Hall, NYC, 2004, by Andrew 
+	MacNaughtan. Read our full interview with Neil, starting on page 36.<br>&nbsp;</font></span></p></blockquote>
+<p><font face="Arial" size="2">I've also <a href="BMW_photos.htm">posted the pictures from the story in the 
+photo gallery</a>.</font></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">March 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p><font face="Arial" size="2"><span style="background-color: #FFFFFF">
+<a name="From_Rush.com:_Limited-Edition_Box_Set_of_Neils_Books">From 
+Rush.com: Limited-Edition Box Set of Neil's Books</a>:&nbsp;
+</span></font></p><font face="Arial" size="2">
+<blockquote>
+	<p>"The Rush Backstage Club has an autographed limited-edition box set of Neil 
+Peart’s books! Hardcover editions of The Masked Rider, Ghost Rider, and 
+Traveling Music come in a beautifully handcrafted slipcase, autographed and 
+numbered by Neil. The offering is limited to 150 box sets only and is on a 
+first-come, first-serve basis."</p>
+</blockquote>
+<p>
+<img src="http://www.showtechmerchandising.com/Rush_Backstage/prodimages/images/MixWeb_lg.jpg" border="0" align="left">The
+<a target="_blank" href="http://www.showtechmerchandising.com/Rush_Backstage/show1product.cfm?formkey=050304122507&amp;Dispgroup=1&amp;ProductID=695&amp;ProductCode=RUNP002007&amp;Class=&amp;SuCatID=&amp;CatID=96">Rush Backstage club</a> has posted a note that they are sold out:</p>
+<p>"Whooaaaaa!! We are completely sold out of this item. All 150 sets were 
+purchased in the first 2 hours. Congratulations to everyone who managed to grab 
+a set. This is a set of Neil's three novels, all in hardcover, in a beautifully 
+handcrafted slipcase. The slipcase shows the titles of all three books, as well 
+as being individually signed and numbered by Neil himself! This is a 
+limited-edition offering of 150 box sets only, so its 1/150, 2/150, etc. These 
+are offered on a first-come, first-serve basis. Please excuse the wording of the 
+notice below that says "Temporarily Out Of Stock". We are PERMANENTLY out of 
+stock on this item." </p>
+<p>&nbsp;</p></font>
+<p></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">February 16&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<ul>
+	<li><b><font size="2" face="Arial">
+	<a name="New_Modern_Drummer_story_about_Paragon_cymbals">New Modern Drummer 
+	story about Paragon cymbals</a></font></b></li>
+</ul>
+<blockquote>
+	<p><font size="2" face="Arial">The April 2005 Modern Drummer issue has an 
+	article about the making of Paragon cymbals, "A Paragon Is Born: Master 
+	Drummer Meets Master Cymbalsmith" by T. Bruce Wittet.</font></p>
+	<blockquote>
+		<p><font size="2" face="Arial">"It's been two years since Neil Peart, 
+		iconic drummer with the Canadian rock trio Rush, boarded a flight from 
+		Los Angeles to Montreal and started a journey that is the stuff of urban 
+		legend. Upon arriving in Canada, Neil dusted off his motorcycle and 
+		headed south. His destination was the Sabian cymbal factory in the 
+		province of New Brunswick. His goal was to design a new set of cymbals 
+		to replace his aging collection."</font></p>
+	</blockquote>
+</blockquote>
+<p><b><font size="2" face="Arial">
+<a name="Rush_in_Rolling_Stone_-_Top_Money_Makers_of_2004">Rush in <i>Rolling Stone</i> - Top Money Makers of 2004</a></font></b>
+</p>
+<blockquote>
+	<p><font size="2" face="Arial">Rush is number 39 in the February 24, 2005 
+	(issue 968) <i>Rolling Stone</i> article "<a target="_blank" href="http://www.rollingstone.com/news/story/_/id/6959138/prince?pageid=rs.Home&amp;pageregion=single2">Music's 
+	Top Fifty Money Makers</a>" (of 2004) with $13.3 million:</font></p>
+	<blockquote>
+		<p style="margin-top: 0; margin-bottom: 0"><font face="Arial" size="2">
+		<b>On the Road</b> The Canadian power trio grossed $21 million on its 
+		latest U.S. tour―more than Kiss or Ozzfest.</font></p>
+		<p style="margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">
+		<b>On the Side</b> Sales were strong for the 2003 Rush in Rio DVD.</font></p>
+		<p style="margin-top: 0; margin-bottom: 0"><i>
+		<font size="2" face="Arial">Last year's rank: NA</font></i></p>
+	</blockquote>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">February 13&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p><b><font face="Arial" size="2">
+<a name="O_Baterista_loses_to_Mrs._OLearys_Cow_">"47th Grammy Awards: O Baterista" loses to "Mrs. O'Leary's Cow"</a></font></b></p>
+<p><font face="Arial" size="2">For the 47th Grammy Awards on 2/13/05, Rush was 
+nominated for "O Baterista" from <i>Rush in Rio</i> in the Category 19 "Best 
+Rock Instrumental Performance." </font></p>
+<p><font face="Arial" size="2">The winner for this Category was Brian Wilson for 
+"Mrs. O'Leary's Cow" from <i>Brian Wilson Presents Smile</i>.</font></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF"><a name="February_1_">February 1 </a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b></span></p>
+<p><b><font face="Arial" size="2">Closer to the Heart video available</font></b></p>
+<p><font face="Arial" size="2">Rush's video performance at the CBC Benefit for 
+Tsunami Relief is now available on Rush.com.
+<a target="_blank" href="http://rush.com/php/news_pop.php?id=11">Click here to 
+check it out</a>. The performance will only be available until March 2, 2005. 
+You must have Windows Media Player 10 on a PC to view this performance.</font></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">January 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<p><b><font size="2" face="Arial">
+<a name="Rhythm_&amp;_Light_contest_on_Rush.com">Rhythm &amp; Light contest on Rush.com</a></font></b></p>
+<p><font size="2" face="Arial">
+<a target="_blank" href="http://www.rush.net/contest/">Win an autographed copy 
+of Rhythm &amp; Light</a>. From Rush.com: "<span lang="EN-GB">There are two ways to 
+play the game. You can guess the eight song titles by deciphering the seven 
+anagrams below or you can listen to the sound puzzle by clicking on the play 
+button.&nbsp; You could also do both if you like, but <b>only enter your guesses once</b>, 
+as the answers are the same for both puzzles. </span>...<span lang="EN-GB">Once 
+you think you have them all figured out, use the entry form below to submit your 
+guesses.</span>"</font></p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">January 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<p><b><i><font face="Arial" size="2">Canada for Asia: </font></i></b><i><b>
+<font face="Arial" size="2"><a name="New_version_of_Closer_to_the_Heart_">New version of Closer to the Heart</a></font></b></i></p>
+<p><a href="neil_images/dsc_0044_web.jpg">
+<img src="neil_images/dsc_0044_web_small.jpg" xthumbnail-orig-image="neil_images/dsc_0044_web.jpg" border="2" align="left"></a><font face="Arial" size="2">Rush 
+appeared in a pre-recorded segment on January 13 for the Canada for Asia charity 
+event. Rush played "Closer to the Heart," along with Ed Robertson of Barenaked 
+Ladies and Bubbles of Trailer Park Boys fame.</font></p>
+<p><a href="neil_images/dsc_0117_web.jpg">
+<img src="neil_images/dsc_0117_web_small.jpg" xthumbnail-orig-image="neil_images/dsc_0117_web.jpg" border="2" align="right"></a></p>
+<p><font face="Arial" size="2">&nbsp;</font></p>
+<p><a href="neil_images/dsc_0027_web.jpg">
+<img src="neil_images/dsc_0027_web_small.jpg" xthumbnail-orig-image="neil_images/dsc_0027_web.jpg" border="2" align="left"></a><font face="Arial" size="2">Neil 
+played his full kit (minus the back electronics). Alex Lifeson stated that this 
+segment will appear on Rush.com in the near future.</font></p>
+<p><font face="Arial" size="2">Click any of the images for a larger picture.</font></p>
+<p><font face="Arial" size="2">All pictures by Richard Beland.</font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">January 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<p><font face="Arial" size="2">
+<a name="More_autographed_Rhythm_&amp;_Light_copies_available">More 
+	autographed "Rhythm &amp; Light" copies available</a></font>
+</p>
+<blockquote>
+	<p><font face="Arial" size="2">The first 100 orders of Rhythm &amp; Light on the 
+	Rush Backstage Club will receive autographs from Neil Peart and Carrie 
+	Nuttall.
+	<a target="_blank" href="http://www.showtechmerchandising.com/Rush_Backstage/show1product.cfm?formkey=050107165042&amp;ProductID=686&amp;ProductCode=RUNP002006">Click here for more details and to order</a>.</font></p>
+</blockquote>
+<p><font face="Arial" size="2">Neil has written an open letter to "anyone 
+	who bought The Masked Rider" in Milwaukee on the 30th Anniversary tour 
+	(received by rush.com mailing of 1/10/05):</font>
+</p>
+<blockquote>
+	<blockquote>
+		<p><font face="Arial" size="2">
+		<a name="A_MESSAGE_FROM_NEIL_PEART_REGARDING_THE_MASKED_RIDER">A MESSAGE 
+		FROM NEIL PEART REGARDING THE MASKED RIDER</a><br><br>To anyone who bought a copy of The Masked Rider in Milwaukee on the 30th 
+		Anniversary Tour. <br><br>“A new trade paperback edition of my first book, The Masked Rider, was 
+		put on sale for the first time at the Marcus Amphitheatre in Milwaukee 
+		on June 7th, 2004. After the show, when I had a chance to look over the 
+		book carefully, I realized it had been produced with serious flaws (no 
+		photos, wrong maps, various typographical and design errors, missing 
+		portions of text).<br>I immediately stopped its sale and had the rest of the printing 
+		destroyed, but I feel bad for the unfortunate few who bought copies that 
+		night. A corrected second edition has now been produced and put on sale, 
+		and I would like to replace those first defective paperbacks with an 
+		autographed hardcover copy of the proper new second edition.</font></p>
+		<p><font face="Arial" size="2">Please send your defective copy to the 
+		address below, and we will make it right.” <br><br>With apologies,<br>Neil Peart 
+		<br><br>Showtech Merchandising Inc.<br>1011 Upper Middle Road East, Suite C3<br>Oakville, Ontario, Canada<br>L6H 5Z9</font></p>
+	</blockquote>
+</blockquote>
+<p><font face="Arial" size="2">
+<a name="Win_an_autographed_copy_of_Rhythm_&amp;_Light">Win an autographed 
+	copy of "Rhythm &amp; Light"</a></font>
+</p>
+<blockquote>
+	<p><font face="Arial" size="2">From the Rush.com mailing of 1/10/05:</font></p>
+	<blockquote>
+		<p><font face="Arial" size="2">Visit rush.com later this week for your 
+		chance to win an autographed copy of Rhythm and Light!</font></p>
+	</blockquote>
+	<p><font face="Arial" size="2">No details yet on whether the book is signed 
+	by Neil Peart and Carrie Nuttall, as was the case with the first batch from 
+	Rounder Press. (<a href="neil_peart_the_latest_news.htm#December_25">See 
+	December 25 Latest Neil Peart News</a> for a picture of Neil and Carrie's 
+	signatures.)</font></p>
+</blockquote>
+<p><span style="background-color: #384B97"><b>
+<font face="Arial" size="2" color="#FFFFFF">January 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</font></b></span></p>
+<p><b><font face="Arial" size="2"><a name="Tsunami_Charity_Concert">Tsunami Charity Concert</a></font></b>
+</p>
+<blockquote>
+	<p><font face="Arial" size="2">Rush will participate in a charity telethon 
+	to benefit the Tsunami Relief Fund. The show will air on Thursday, January 
+	13 and will be broadcast on Canadian television on CBC. The telethon will be 
+	broadcast from a studio in Toronto. No word yet on whether this will be an 
+	acoustic set from Rush ("Resist" or "Heart Full of Soul") or songs that 
+	include Neil behind the kit.</font></p>
+	<p><font size="2" face="Arial">From
+	<a target="_blank" href="http://rush.com/php/news_pop.php?id=10">Rush.com</a>:</font></p>
+	<blockquote>
+		<p><font size="2" face="Arial">World Vision, Red Cross and UNICEF are 
+		engaged in a joint partnership with the Canadian Broadcasting 
+		Cooperation (CBC) to air a National TV Broadcast on Thursday January 
+		13th from 7:00 - 10:00 PM in an attempt to raise millions of dollars for 
+		victims of the Tsunami Relief.<br><br>At present there are commitments from many of Canada's top entertainers: 
+		Celine Dion, Tom Cochrane, Barenaked Ladies, Rush, Blue Rodeo, Jann 
+		Arden, Oscar Peterson, Daniel Lanois, Bruce Cockburn and many more. As 
+		this is a disaster that touches many countries, races, religions, ages 
+		et al- virtually every element of humanity - our hopes are that this CBC 
+		event will be a metaphor for us as Canadians to evidence a heartfelt 
+		response from all walks of life. To that end, the 3 hour broadcast will 
+		also feature personalities from all artistic and cultural communities. 
+		Margaret Atwood is helping to outreach to the literary world, Chief 
+		Mecredi has pledged to contact artists from the First Nations 
+		communities etc. From hockey to Olympians, from dancers to comics, the 
+		event will be a star-studded coalition of caring Canadians. </font></p>
+	</blockquote>
+	<p><font size="2" face="Arial">More details: </font></p>
+	<p>
+	<a target="_blank" href="http://www.cbc.ca/story/arts/national/2005/01/07/Arts/canadaforasia050107.html">
+	<font size="2" face="Arial">http://www.cbc.ca/story/arts/national/2005/01/07/Arts/canadaforasia050107.html</font></a></p>
+	<p><a target="_blank" href="http://www.canadaforasia.ca/">
+	<font size="2" face="Arial">http://www.canadaforasia.ca/ </font></a></p>
+</blockquote>
+<p><font face="Arial" size="2"><b>
+<a target="_blank" href="http://news.scotsman.com/opinion.cfm?id=1466992004">Story about Neil and 
+	The MaCallan in
+	Scotsman.com</a></b>:</font>
+</p>
+<blockquote>
+	<blockquote>
+		<p><font face="Arial" size="2"><b>
+		<a name="Rush_rock_on_for_a_fine_drop_of_Macallan">Rush rock on for a fine drop of 
+		Macallan</a></b><br><br>WHISKY on the rocks all round this Christmas for the employees of the 
+		Edrington group, quite literally as in go "heavy on the rocks". 
+		<br><br>Heavy rocker Neil Peart, below left, writer/lyricist and drummer for 
+		Rush, the Canadian rock band, sent them stocking-filling goodies as a 
+		sign of appreciation for his visit to Glasgow earlier this year. <br>
+		<br>The band played a sell-out concert in Glasgow a few months ago and 
+		Edrington presented a bottle of The Macallan Fine Oak 15-year-old single 
+		malt to Neil to celebrate his birthday. <br><br>Neil, or "the Professor" as he is referred to, is a fan of The Macallan 
+		and makes regular references to it in his book Ghost Rider and the more 
+		recently-released Travelling Music and thousands of RUSH fans have 
+		become devotees of the brand. <br><br>The Professor was much taken with the warm gesture in Glasgow and, on 
+		his return to North America, sent a package of "goodies" to the company, 
+		including signed CDs, pictures and other memorabilia. <br><br>These have now been distributed amongst RUSH fans who work for the 
+		distiller. Whether they will now play Rush over the Tannoy in the 
+		bottling plant remains to be seen. It could increase production or then 
+		again break a few bottles.</font></p>
+	</blockquote>
+</blockquote>
+	&nbsp;<!-- #EndEditable --></td>
+</tr></tbody></table>
+		<!--- main content window ends --->
+
+				</td>
+<td width="1" bgcolor="#384B97">
+<img height="350" src="../images/clear.gif" width="1" border="0"></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+
+<!--- footer row begins --->
+
+<tr height="42" valign="top">
+	<td width="775" bgcolor="#384B97" align="center" valign="top" class="footer">
+		<table height="42" width="773" align="center" cols="1" cellpadding="0" cellspacing="0" background="../images/footerbg.gif" id="table11">
+		<tbody><tr valign="top">
+		<td width="773" valign="top" align="center">
+			<img src="../mysite1/images/clear.gif" width="1" height="3" border="0"><br>
+			<font size="2" face="Arial">© 2004-2009 by
+			<a href="mailto:AC_Olson@hotmail.com">Andrew C. Olson</a> </font> </td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6851113-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body><!-- #EndTemplate --></html>

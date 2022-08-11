@@ -1,0 +1,215 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Crown Heights, Vaad Hakohol/CHJCC, Vaad Hakohol, CHJCC">
+  <meta name="title" content="Vision">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Crown Heights serves as the center of the universe and the nerve center of Lubavitch. The Rebbe has invested tireless energy and tears in Crown Heights so that it should serve as a model community for the world. The time is now to make it happen.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Vision</title>
+  <link href="/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="stylesheet" href="http://anewcrownheights.com/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="http://anewcrownheights.com/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="http://anewcrownheights.com/templates/ja_purity/css/template.css" type="text/css">
+
+<script language="javascript" type="text/javascript" src="http://anewcrownheights.com/templates/ja_purity/js/ja.script.js"></script>
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="http://anewcrownheights.com/templates/ja_purity/js/ja.rightcol.js"></script>
+
+<link rel="stylesheet" href="http://anewcrownheights.com/templates/ja_purity/css/menu.css" type="text/css">
+
+
+<link rel="stylesheet" href="http://anewcrownheights.com/templates/ja_purity/styles/background/lighter/style.css" type="text/css">
+
+<!--[if IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+<style type="text/css">
+#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+</head>
+
+<body id="bd" class="fs3 Others">
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="#ja-col1" title="Skip to first column">Skip to first column</a></li>
+	<li><a href="#ja-col2" title="Skip to second column">Skip to second column</a></li>
+</ul>
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+	<div id="ja-header" class="clearfix" style="background: url(http://anewcrownheights.com/templates/ja_purity/images/header/header1.jpg) no-repeat top right;">
+
+	<div class="ja-headermask">
+        	<a href="http://www.facebook.com/home.php#!/profile.php?id=100001198543109&amp;v=wall&amp;ref=anewcrownheights" target="_blank" title="Visit our Facebook Page" style="text-decoration:none;">
+            	<img src="http://anewcrownheights.com/templates/ja_purity/images/FaceBook_32x32.png" border="none" alt="Visit our Facebook Page">
+            </a>
+        	<a href="http://twitter.com/NewCrownHeights" target="_blank" title="Follow us on Twitter" style="text-decoration:none;">
+            	<img src="http://anewcrownheights.com/templates/ja_purity/images/Twitter_32x32.png" border="none" alt="Follow us on Twitter">
+            </a>
+    </div>
+
+			<h1 class="logo">
+			<a href="/index.php" title="A New Crown Heights"><span>A New Crown Heights</span></a>
+		</h1>
+	
+			<ul class="ja-usertools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="http://anewcrownheights.com/templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Default font size" src="http://anewcrownheights.com/templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Decrease font size" src="http://anewcrownheights.com/templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;"></li>
+		</ul>
+		<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
+		
+	
+	</div>
+</div>
+<!-- END: HEADER -->
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<!-- END: MAIN NAVIGATION -->
+
+<div id="ja-containerwrap-fr">
+<div id="ja-containerwrap2">
+	<div id="ja-container">
+	<div id="ja-container2" class="clearfix">
+
+		<div id="ja-mainbody-fr" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+						<div id="ja-pathway">
+				
+			</div>
+			
+			
+<h2 class="contentheading">
+			Vision	</h2>
+
+
+<div class="article-tools">
+	<div class="article-meta">
+			<span class="createdate">
+			Thursday, 03 June 2010 14:27		</span>
+	
+			<span class="createby">
+			A New CH		</span>
+	
+		</div>
+
+		<div class="buttonheading">
+								<span>
+			<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL2FuZXdjcm93bmhlaWdodHMuY29tL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTQ6dmlzaW9uJmNhdGlkPTE6YXJ0aWNsZXMmSXRlbWlkPTM=" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/ja_purity/images/emailButton.png" alt="E-mail"></a>			</span>
+			
+						<span>
+			<a href="/index.php?view=article&amp;catid=1%3Aarticles&amp;id=4%3Avision&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=3" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ja_purity/images/printButton.png" alt="Print"></a>			</span>
+			
+						<span>
+			<a href="/index.php?view=article&amp;catid=1%3Aarticles&amp;id=4%3Avision&amp;format=pdf&amp;option=com_content&amp;Itemid=3" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ja_purity/images/pdf_button.png" alt="PDF"></a>			</span>
+						</div>
+	
+	</div>
+
+
+<div class="article-content">
+<h2>Our Vision of a NEW Crown Heights</h2>
+<ul>
+<li><strong>Achdus</strong> – In unity there is strength, and unity brings Hashem’s blessing. We all wear different hats, but we must respect each other regardless. These seven candidates, who represent a broad spectrum of voters, have demonstrated that they may have different outlooks, but they work together with mutual respect.</li>
+<li><strong>All New Faces</strong> – Fresh faces to lead our community. These candidates, some of which have been helping Crown Heightsers in many ways, still they never served in any capacity in the Vaad Hakohol/CHJCC, bringing a fresh new face to our leadership.</li>
+<li><strong>Apolitical</strong> – Politics is the dark side of humanity. These candidates were never involved in the past politics of Crown Heights.</li>
+<li><strong>Bais Din</strong> - We must rebuild our Bais Din and create the necessary support system and working conditions for the Bais Din to be able to function at full capacity. This group is most qualified to implement this dire need, since they all respect all the Rabbonim and they have their full confidence</li>
+<li><strong>Change</strong> – We all want change from the stressful past, these candidates will change the mood in Crown Heights for the better</li>
+<li><strong>Diversity</strong> – This group of candidates represents the widest spectrum of the residents of our community</li>
+<li><strong>Futuristic</strong> – They all are looking to make a better future for themselves and for their children, instead of looking back at the failures of the past</li>
+<li><strong>Improved Services </strong>– Crown Heights must be the model social service center of the universe, these candidates have a plan to make services available and accessible in Crown Heights at the tips of your fingers, and that you should never have to go outside of the community to get services that you need, and in the rare cases that one must look elsewhere, the JCC will help you and direct to the right place</li>
+<li><strong>Leadership</strong> – These candidates have demonstrated their ability to lead in their various positions as private citizens and as volunteers in community organizations</li>
+<li><strong>Occupied</strong> – These candidates all have day jobs and they have no time to waste, and as the saying goes “If you want something done ask a busy person”</li>
+<li><strong>Peace</strong> – All candidates have only one desire, to instill the spirit of peace in Crown Heights</li>
+<li><strong>Untainted</strong> – These candidates are untainted by the past negative history in Crown Heights. They have not been involved in the recent past machlokes in Crown Heights. They have no past agendas that they wish to bring with them to leadership of Crown heights</li>
+<li><strong>Young </strong>– Most of the candidates belong to the younger generation in Crown heights and have an invested interest in the future of Crown Heights to improve the quality of life for themselves, their children and all of us who live here and who visit the Rebbe’s schchuna</li>
+</ul>
+
+</div>
+
+	<span class="modifydate">
+		Last Updated on Friday, 04 June 2010 12:34	</span>
+
+<span class="article_separator">&nbsp;</span>
+
+
+			
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					<div class="moduletable_menu">
+					<h3>Main Menu</h3>
+					<ul class="menu"><li class="item1"><a href="http://anewcrownheights.com/"><span>Home</span></a></li><li id="current" class="active item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=3"><span>Our Vision</span></a></li><li class="parent item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=4"><span>Our Candidates</span></a></li><li class="item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=5"><span>Our Gabboim</span></a></li><li class="item6"><a href="/index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=6"><span>The Rebbe Says</span></a></li><li class="item7"><a href="/index.php?option=com_civicrm&amp;view=Contributions&amp;Itemid=7"><span>Join Us</span></a></li><li class="item9"><a href="/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=9"><span>About Us</span></a></li><li class="item8"><a href="http://votetamir.blogspot.com/2010/05/bylaws-of-chjcc-election-rules.html" target="_blank"><span>CHJCC Bylaws</span></a></li><li class="item12"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=2&amp;Itemid=12"><span>Op Eds</span></a></li></ul>		</div>
+	
+		</div><br>
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+		
+	</div>
+	</div>
+</div>
+</div>
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div id="ja-footnav">
+		
+	</div>
+
+	<div class="copyright">
+		
+	</div>
+
+	<div class="ja-cert">
+		
+    <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="http://anewcrownheights.com/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS">
+		</a>
+		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
+		<img src="http://anewcrownheights.com/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional">
+		</a>
+	</div>
+
+	<br>
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+
+
+
+
+
+</body></html>

@@ -1,0 +1,233 @@
+<html><head>
+<title>1960s Garage Bands</title>
+<meta name="robots" content="index, follow"><meta name="description" content="News, Reviews, &amp; Interviews pertaining to 1960's garage bands and garage band music. Researching the local and regional rock groups of the '60s."><meta name="keywords" content="1960s, 60s, garage bands,garage band music,1960s rock groups,60s garage bands,1960s garage bands,1960s garage groups,1960s rock bands,Rock bands on TV,Garage band footage,60s rock bands"><meta http-equiv="CACHE-CONTROL" content="NO-CACHE"><meta http-equiv="PRAGMA" content="NO-CACHE">
+<script language="JavaScript" src="../scripts/ic_globals_published.js"></script><script language="JavaScript" src="scripts/user.js"></script><script language="JavaScript" src="scripts/photoalbum.js"></script>
+<link rel="stylesheet" href="232/scripts/master.css"><link rel="stylesheet" media="all" href="232/scripts/icwebsiteelement.css">
+<script language="JavaScript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		index_10_over = newImage("232/images/01b.jpg");
+		index_11_over = newImage("232/images/02b.jpg");
+		index_12_over = newImage("232/images/03b.jpg");
+		index_13_over = newImage("232/images/04b.jpg");
+		index_14_over = newImage("232/images/05b.jpg");
+		index_15_over = newImage("232/images/06b.jpg");
+		index_16_over = newImage("232/images/07b.jpg");
+		index_17_over = newImage("232/images/08b.jpg");
+		index_18_over = newImage("232/images/09b.jpg");
+		index_19_over = newImage("232/images/10b.jpg");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="232/images/back.jpg"><script language="JavaScript">preloadImages();</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="232/images/up_tile.jpg">
+  <tbody><tr>
+    <td>
+      <table width="750" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td colspan="3"> <img src="232/images/index_01.jpg" width="750" height="6"></td>
+        </tr>
+        <tr>
+          <td colspan="2"> <img src="232/images/company.jpg" width="533" height="31"></td>
+          <td rowspan="2"> <img src="232/images/motif01.jpg" width="217" height="85"></td>
+         </tr>
+        <tr>
+          <td> <img src="232/images/index_04.jpg" width="129" height="54"></td>
+          <td> <img src="232/images/index_05.jpg" width="404" height="54"></td>
+         </tr>
+        <tr>
+          <td colspan="3"> <img src="232/images/index_06.jpg" width="750" height="34"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="750" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td rowspan="12" valign="top">
+      <table width="129" border="0" cellspacing="0" cellpadding="0" background="232/images/spacer.gif">
+        <tbody><tr>
+          <td><img src="232/images/index_07.jpg" width="129" height="35"></td>
+        </tr>
+        <tr>
+          <td><!-- Start buttons section --><a href="/home.html" onmouseover="changeImages('/home.html', '232/images/01b.jpg'); return true;" onmouseout="changeImages('/home.html', '232/images/01a.jpg'); return true;" target="_self"> 
+<img name="/home.html" src="232/images/01a.jpg" width="129" height="21" border="0"></a><br><a href="/ourcdreleases.html" onmouseover="changeImages('/ourcdreleases.html', '232/images/02b.jpg'); return true;" onmouseout="changeImages('/ourcdreleases.html', '232/images/02a.jpg'); return true;" target="_self"> 
+<img name="/ourcdreleases.html" src="232/images/02a.jpg" width="129" height="21" border="0"></a><br><a href="/newsnuggets.html" onmouseover="changeImages('/newsnuggets.html', '232/images/03b.jpg'); return true;" onmouseout="changeImages('/newsnuggets.html', '232/images/03a.jpg'); return true;" target="_self"> 
+<img name="/newsnuggets.html" src="232/images/03a.jpg" width="129" height="21" border="0"></a><br><a href="/bookdvdreviews.html" onmouseover="changeImages('/bookdvdreviews.html', '232/images/04b.jpg'); return true;" onmouseout="changeImages('/bookdvdreviews.html', '232/images/04a.jpg'); return true;" target="_self"> 
+<img name="/bookdvdreviews.html" src="232/images/04a.jpg" width="129" height="21" border="0"></a><br><a href="/interviews.html" onmouseover="changeImages('/interviews.html', '232/images/05b.jpg'); return true;" onmouseout="changeImages('/interviews.html', '232/images/05a.jpg'); return true;" target="_self"> 
+<img name="/interviews.html" src="232/images/05a.jpg" width="129" height="21" border="0"></a><br><a href="/bandbios.html" onmouseover="changeImages('/bandbios.html', '232/images/06b.jpg'); return true;" onmouseout="changeImages('/bandbios.html', '232/images/06a.jpg'); return true;" target="_self"> 
+<img name="/bandbios.html" src="232/images/06a.jpg" width="129" height="21" border="0"></a><br><a href="/biosessays.html" onmouseover="changeImages('/biosessays.html', '232/images/07b.jpg'); return true;" onmouseout="changeImages('/biosessays.html', '232/images/07a.jpg'); return true;" target="_self"> 
+<img name="/biosessays.html" src="232/images/07a.jpg" width="129" height="21" border="0"></a><br><a href="/scenesthings.html" onmouseover="changeImages('/scenesthings.html', '232/images/08b.jpg'); return true;" onmouseout="changeImages('/scenesthings.html', '232/images/08a.jpg'); return true;" target="_self"> 
+<img name="/scenesthings.html" src="232/images/08a.jpg" width="129" height="21" border="0"></a><br><a href="/cameosjingles.html" onmouseover="changeImages('/cameosjingles.html', '232/images/09b.jpg'); return true;" onmouseout="changeImages('/cameosjingles.html', '232/images/09a.jpg'); return true;" target="_self"> 
+<img name="/cameosjingles.html" src="232/images/09a.jpg" width="129" height="21" border="0"></a><br><a href="/contactus.html" onmouseover="changeImages('/contactus.html', '232/images/10b.jpg'); return true;" onmouseout="changeImages('/contactus.html', '232/images/10a.jpg'); return true;" target="_self"> 
+<img name="/contactus.html" src="232/images/10a.jpg" width="129" height="21" border="0"></a><br><!-- End buttons section --></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td colspan="2"> <img src="232/images/slogan.jpg" width="621" height="25"></td>
+    <td> <img src="232/images/spacer.gif" width="1" height="25"></td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="12" background="232/images/content_tile.jpg" valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" background="232/images/content_tile.jpg">
+        <tbody><tr>
+          <td height="27">
+            <table width="100%" border="0" cellspacing="0" cellpadding="5" background="232/images/spacer.gif">
+              <tbody><tr>
+                <td><!-- Start console section --><!-- End console section --><!-- Start content section --><p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><table width="98%" border="0" cellspacing="0" cellpadding="2" align="center"><tbody><tr><td align="left" bgcolor="White"><span style="color:Red;font-weight:bold;font-size:24pt; font-family:times;">New Generation</span></td></tr></tbody></table><table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tbody><tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><span><font face="arial, verdana, sans-serif" size="3"><strong editor_id="mce_editor_0">The New Generation were another Sunset Strip group that really should have experienced greater success.<span>&nbsp; </span>Although they recorded for Capital Records, they unfortunately were forced aside while Capital decided to focus their attention on The Knack, “The American Beatles.”<span>&nbsp; </span>While The New Generation played many of the Strip’s finest clubs, and even the Fillmore, they never caught the breaks needed in order to break nationally.<span>&nbsp; </span>Bassist Jack Nadelle for the most part quit performing music once the group disbanded, but is fully aware of the special era that he and The New Generation was a part of.</strong></font></span><br>
+</td>
+</tr>
+</tbody></table>
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tbody><tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="520" style=""><tbody><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td align="center"><img width="495" src="images/495_NewGeneration1.jpg" alt="" style="" border="0" height="585"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+</tr>
+</tbody></table>
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tbody><tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><p editor_id="mce_editor_0"><font face="Times New Roman"><b><span><font face="arial, verdana, sans-serif" color="#ff0000" size="5">An Interview With Jack Nadelle<br></font></span></b></font><b><font face="arial, verdana, sans-serif" editor_id="mce_editor_0"><br><font size="3">60s: How did you first get interested in music?<br></font></font></b><font face="arial, verdana, sans-serif"><font size="3">Jack Nadelle (JN): I don’t really remember anything specific that made me interested in music. There wasn’t some event or anything like that. Every father who escaped Eastern Europe at the time my dad did wanted their children to be educated in the finer things of life. Somehow I had music lessons: Piano, drums, four-string guitar, and bass guitar - all within a year or so from an old guy who had a music studio in Glendale, California. This chain-smoking teacher was Eddie Brackett. If you Google his name you’ll see he was at one time a very in demand Audio Engineer who recorded sessions for Duane Eddie, The Ventures, Frank Sinatra and on and on. Not that it did me any good, as I never really got musicality.<br></font><b><br><font size="3">60s: Was The New Generation your first band?<br></font></b></font><font face="arial, verdana, sans-serif" size="3">JN: Yes, my first and only band although I played a bit after the band dissolved with a woman named Kate Wallace who did country music on a higher plane than you would usually expect from a country singer.<span>&nbsp; </span>She was good.&nbsp;<br></font><font face="arial, verdana, sans-serif"><br><font size="3">We played under three different names: Ernie and The StringBusters, The King Bees, and finally The New Generation for probably four or five years. I was the baby of the group as they were friends of my older brother, so I was around 14 when I joined; I think I was only 15 for the Fillmore show. By the time I was 17 or 18, I had my fill of that life style.<br></font></font><strong><font face="arial, verdana, sans-serif"><br><font size="3">60s: Was the personnel in Ernie &amp; The StringBusters, King Bees and New Generation the exact same (except for Ernie leaving?)? <br></font></font></strong><font face="arial, verdana, sans-serif"><span><font size="3">JN: Yes, all the same members. I think I was there before Bill Cook; he joined later although I don’t remember exactly when. It may have been because Ernie was out and we needed a rhythm guitarist. Ernie was really a wild young man…to put it mildly. Besides rock and roll, Ernie drove a right hand drive VW Beetle that he enjoyed “rolling.” That is finding sharp corners and driving too fast so he could roll it over—literally—he did it more than a few times to more than a few cars. He also enjoyed (tripped out on) driving in reverse. He would drive for miles in reverse. He was also argumentative and enjoyed fighting. I think finally his father got fed up with the whole thing and that’s why Ernie was no longer a member of Ernie and The StringBusters. Ernie was a rebel before we had any idea what the concept was.<br></font></span><b><br><font size="3">60s: Where and when was The StringBusters/The New Generation formed?<br></font></b></font><font face="arial, verdana, sans-serif"><font size="3">JN: We were all from La Canada, and La Crescenta in the foothill suburbs of Los Angeles.<span>&nbsp; </span>Ernie and The StringBusters were all from La Canada High School and formed somewhere around late 1962 or 1963. Ernie is Ernie Branch, still playing as Ernie and The StringBusters. By the time The New Generation was formed, Ernie was no longer a member.<br></font><b><br><font size="3">60s: Who comprised The New Generation?<br></font></b></font><font face="arial, verdana, sans-serif" size="3">JN: Chuck Wiley, lead vocals, harmonica and tambourine; Doug Williams, lead guitar; Bill Cook, rhythm guitar (replaced after the Fillmore show by Ira Ingber); Greg Tulley, drummer, and me, Jack Nadelle on bass guitar.<br></font><b><span><font face="arial, verdana, sans-serif"><br><font size="3">60s: Why did Ira replace&nbsp;<span>Bill Cook</span>&nbsp;after the Fillmore show?<br></font></font></span></b><font face="arial, verdana, sans-serif"><span><font size="3">JN: Bill came from a very wealthy family; conservative, Republican, and very rich. They owned banks, car dealerships, construction companies, and politicians. We use to waterski on their private lake in Antelope Valley; they called it “the Duck Club” as it was on seasonal migration route and would fill with thousands of ducks that the family would shoot. The whole movement of rock and roll, hippies, love-ins, Haight/Ashbury, drugs, free love, the Sunset Strip riots (we were playing at It’s Boss the nights of the riots), LSD, anti-Vietnam, and probably the Civil Rights Movement made Bill’s father nervous. I think the final straw was that Capitol Records wanted us to sign contracts and there was just no way that Bill’s dad was going to relinquish any financial advantage. He simply refused to let Bill sign. No signature meant we had to find someone else to proceed to the next phase with Capitol.<br></font></span><b><br><font size="3">60s: How would you describe the band's sound? What bands influenced you?<br></font></b></font><font face="arial, verdana, sans-serif" size="3">JN: I always thought of it as “Acid Rock.”<span>&nbsp; </span>Listening to the tapes now I would call it really energetic rock and roll or rhythm and blues. I was too young to be influenced by anyone regarding my musical tastes; I had no musical influences and didn’t come from a family rich in musical tradition.<span>&nbsp; </span>I loved Bill Wyman and often held my bass like he did. Doug Williams, our lead guitarist - I loved him and his playing and I thought he was so good; listening now I realize he was really good.<span>&nbsp; </span>Of course, at that time the world was split into two camps: You either liked The Beatles or you liked The Rolling Stones.<span>&nbsp; </span>I (and we) liked The Rolling Stones.<br></font><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: Where did the band typically play?<br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: When I became a member we would practice in the drummer’s garage at his parents’, Louis and Olga, house. We always drew a pretty good size crowd that would block the street and probably irritate the neighbors. Eventually we moved the weekly practice to the porch of a local church that had a parking lot right there so when hundreds of kids showed up, it wasn’t a nuisance for anyone. Luckily the Rector of the church was a drunk so he didn’t have a problem with rock and roll. We called these church sessions, “Rock-Outs” and they became really popular.<br></font><font face="arial, verdana, sans-serif"><br><font size="3">We played local parties.<span>&nbsp; </span>La Canada is a fairly affluent community so the parties got pretty interesting; I think we drove to Arizona a few times for some kind of Fraternity debacle.<span>&nbsp; </span>I don’t know how we started playing the clubs on the Strip but we played them all except for the Whisky. I can remember Pandora’s Box, It’s Boss, The Hullabaloo, The Sea Witch, and Bido Lidos. We were one of the first rock and roll bands to play the Troubadour; Laura Nero was on that bill. There was a club down on Cahuenga owned by the jazz piano player Mose Alison.<span>&nbsp; </span>I can’t remember the name of the place but I know we played there. And of course there were the Love- Ins. The Love-Ins at Griffith Park and the beaches of Malibu. These were truly wonderful events. Peace and smoke in the air, many bands, and flower children.<br></font></font><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: What was the Sunset Strip scene like in the '60s?<br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: I don’t really remember specific incidents, but I do remember the feeling and some of the things that may or may not have happened.<span>&nbsp; </span>Pandora’s Box was the first club that we played frequently. It was small and kind of triangle shaped like the lot it sat on at the corner of Crescent Heights and Sunset. During breaks we would go down the street (Sunset) and listen from the kitchen door of the Trip to The Byrds do their set. One night (I think it was) Roger McGuinn, asked us to help him push start his car. There was a really interesting place close by as well - I think it was called The Fifth Estate - which may have been a club or a bar or a restaurant (or all of the above) where you could still see beatniks hanging out engaged in animated discussions, reading books and drinking coffee from small cups.<br></font><font face="arial, verdana, sans-serif"><br><font size="3">Everywhere you went you could see something interesting going on. As I remember there was great music every night and not just on the Strip. We played a high school show in Hollywood with this really strange band from England called Them. The keyboard player looked really bizarre and all I could think was heroin. Van Morrison was this young, wild, on his back screaming lead singer none of us had ever seen before. This same high school auditorium was a regular place to listen to Captain BeefHeart practice.<br></font></font><font face="arial, verdana, sans-serif"><br><font size="3">There was a small apartment above the Whisky when somehow one day when we were inside, someone had bought some weed and someone else bought rolling papers…but no one know how to roll a joint. The resulting joints resembled pointy-ended worms that had swallowed a marble. The draw was non-existent but we got high just being together and experiencing the whole thing.<br></font></font><font face="arial, verdana, sans-serif"><br><font size="3">Of course for late night after the show food there was Ben Frank’s on Sunset where everyone from every band went and there was Cantors down on Fairfax where mostly locals went.<br></font></font><font face="arial, verdana, sans-serif"><br><font size="3">There was a singer named P.J. Proby who kept a large house right north of the Strip that was a constant hang out. There was always food, alcohol, and women (or girls…whatever), a swimming pool and party place. We were frequent participants.&nbsp;<br></font></font><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: How far was the band's "touring" territory?<br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: We traveled to San Francisco for the Fillmore show, Arizona for some events at the university but mostly we were a local band. Anyway, at that time, Hollywood and the Strip was the place to be.<span>&nbsp; </span>We didn’t need to go anywhere else.<br></font><font face="arial, verdana, sans-serif"><b><span><br><font size="3">60s: How did the band land the Fillmore gig?&nbsp; Do you recall?<br></font></span></b></font><font face="arial, verdana, sans-serif"><span><font size="3">JN: I really have no idea how we ended up in San Francisco. I have no idea how we started playing the Hollywood clubs. I am pretty sure our manager at the time, Jim Demarco, got us to the Fillmore. Jim was a great guy and may have had a relationship with Bill Graham that preceded The New Generation. I still feel bad for Jim; Nick Venet, who wanted his own people in charge of the band, pushed him out of management. I was too young to have any kind of influence on decisions affecting the band and was helpless as Jim pleaded for his position.<br></font></span><b><br><font size="3">60s: Did The New Generation participate in any battle of the bands? <br></font></b></font><font face="arial, verdana, sans-serif" size="3">JN: We did play in one band battle but realized pretty quickly it was a gimmick way for the promoter to make easy money. I can’t really remember whom we played against but we always felt we were better than every other band and apparently our audiences did, too; we always had a full house once we started playing the clubs.<span>&nbsp; </span>It was kind of amazing.<br></font><font face="arial, verdana, sans-serif" editor_id="mce_editor_0"><br><font size="3">In non-battle mode we played shows with Love, Buffalo Springfield, Canned Heat, Nancy Sinatra, Gary Lewis &amp; The Playboys, and Captain BeefHeart.<span>&nbsp; </span>We played parties at Frank Zappa’s house on Laurel Canyon.<br></font></font><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: How popular locally did The New Generation become? <br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: We were extremely popular locally as La Canada and La Crescenta were somewhat small communities; all the kids knew each other. The Rock-Outs attracted hundreds of kids and when we started playing the clubs they came along and generated excitement that spread to the rest of the audience.<br></font><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: Did The New Generation have a manager?<br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: Our first manager was Bob Cabeen.<span>&nbsp; </span>One of the Capitol recordings is about Cabeen. He was also from the local high school. We did have a professional manager, Jim Dimarco. There was something strange and under handed that happened to Jim that I am not too clear on. He got screwed badly by the band. I don’t know how he found us or we found him but he was responsible for all the success we had in Hollywood and San Francisco. When Capitol Records got their hands on the band Jim was replaced by a girl friend of Nick Venet who was named Deanna or Diane or something like that.<br></font><b><font face="arial, verdana, sans-serif"><br><font size="3" editor_id="mce_editor_0">60s: You recorded for Capitol Records, but why didn't The New Generation release any 45s?<br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: I don’t know why nothing was released. There are a few factors that I can guess: By the time we started recording with Capitol Records in mid 1966, Capitol was starting to promote a band billed as “The American Beatles,” The Knack.<span>&nbsp; </span>I think the administration at Capitol decided to put The Knack as the main priority and The Generation was considered less important.<br></font><font face="arial, verdana, sans-serif"><br><font size="3">Another factor was that we weren’t very good studio players. We were a very dynamic live band but that energy did not transfer to the studio. I’m sure that’s why Nick Venet did a live recording session – as an attempt to capture that sound. There was a lot of really good music at that time and the way we played was not up to par; even though we had good energy the band wasn’t that good. None of the stuff we did was regular sort of pop stuff, and that’s why Nick had us record ‘Race With The Wind;’ it was kind of normal sounding pop music. We were more feral than most of the music out there, and what we lacked in skill we made up for in dynamism. The exception was Ira’s music (‘’Crackers in Bed) but that goes beyond pop ability and relates to Chuck leaving the band.&nbsp;<br></font></font><font face="arial, verdana, sans-serif"><br><font size="3">The group disbanded after Chuck left, before anything could be released. Chuck Wiley, our energetic and charismatic lead singer, was the main draw. He was handsome, smart, and a great performance artist. Unfortunately, he lost his mind. One night during a set at the Hullabaloo, Chuck essentially froze, couldn’t sing, could barely move, and Doug recalls Chuck ranting into the microphone: “I am a camera”…“I am a camera”…<br></font></font><font face="arial, verdana, sans-serif"><br><font size="3">We were lost without Chuck. He became religious for a while, a recluse for a while, gained a lot of weight, spoke in riddles, and now wants nothing to do with any kind of reminiscing regarding the band. He says it’s because it was a phase of his life that he has totally left to the past, I think he is still avoiding something that goes deeper, but damn if I know what. This happened sometime in the same year as the live recordings and without Chuck we weren’t really The New Generation anymore. If Chuck remained in the band I don’t know what “might have happened.” Probably something would have been released…probably we would have done bigger shows…probably we would have traveled more…and probably we would have faded into a distant memory like now.<br></font></font><strong><font face="arial, verdana, sans-serif"><br><font size="3" editor_id="mce_editor_0">60s: What are your recollections of Nick Venet?&nbsp; How involved was he with your Capitol recordings?<br></font></font></strong><span><font face="arial, verdana, sans-serif" size="3">JN: I have almost no recollection of Nick Venet. I do remember he was excited about a little speaker that he kept in the studio to show us how the music would sound on a car radio (circa 1965). He was the whole thing behind all of our Capitol recordings. Nothing happened that he didn’t make happen. I ran into Greg Tully earlier this month (October 2007) at a La Canada High School reunion. He said he still has a copy of the Capitol contract and a letter that Nick Venet sent to our parents telling them not to worry about Jim Demarco; that if Jim started any trouble Nick would “fix” it. We spent a lot of time in Nick’s office, and his personnel assistant, Deanna, became our manager and I think was sleeping with Chuck. I’ll try to get a copy of that letter and let you take a look.<br></font></span><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: Where did The New Generation record the songs featured on your Web site? What do you remember about the recording session(s)? <br></font></font></b><font face="arial, verdana, sans-serif" size="3">JN: The music on the site was recorded at Capitol Records.<span>&nbsp; </span>The live session was in Studio A and the two other sessions (‘Race With The Wind’ and ‘Crackers in Bed’) were in a studio somewhere in the Capitol Building.&nbsp;<br></font><font face="arial, verdana, sans-serif"><br><font size="3">Ira Ingber, though, mixed what you hear on the Web site, in 2006. Balances and artistic decisions are Ira’s, not Nick Venet’s. There are two recordings (<span>‘Stay Away’ and ‘Leave Me Alone’)</span> not posted recorded at a studio called Modern Records. I don’t remember much, but the Modern Studio session was at night.<span>&nbsp; </span>I think it was raining, the place was kind of spooky feeling and the recordings reflect the uncomfortable vibe of the place. Those recordings also show how bad we were in a studio setting. Our regular practice studio at Capitol was across the hall from where Joe Pine recorded his radio show. Joe Pine was the local equivalent of a Rush Limbaugh-type of broadcaster. He was a real reactionary conservative asshole that, considering the times, had a lot to complain about. He walked as if he had a peg leg and was always surrounded by a group of admirers. We were excited to see him one time in the hallway and he made some really derisive remark about us “dirty longhairs” that actually hurt our feelings. Joe Pine also had a live television program. One time a fellow La Canada High School alum dropped acid live on the air. That was Buddy Winfield; he was over seven feet tall, wore wigs, and at one time worked as Cher’s bodyguard.&nbsp;<br></font></font><strong><font face="arial, verdana, sans-serif"><br><font size="3">60s: Did The New Generation write any original songs?&nbsp; Who was the band's primary songwriter?<br></font></font></strong><font face="arial, verdana, sans-serif"><font size="3">JN: We did a lot of original material. Most of the writing was a “group” effort. At practice we would all contribute ideas and the songs emerged from those sessions. When Ira joined, he brought a lot of material he wrote on his own and would direct us in how he envisioned the songs. A friend of the band named Bob Nichols wrote one song that had a potential pop twist. Bob was a friend that lasted beyond the band and was always writing songs and playing guitar. His playing and singing irritated the shit out of his beautiful wife Aurel-Ann but Bob contended that if the music irritated you than it was good because it was getting your attention. They eventually divorced. As a side note, Bob’s sister was Pat Nichols, also known as Sunshine. She was a close buddy of Janis Joplin and is often referred to in Joplin biographies.<br></font><b><br><font size="3">60s: Do any (other) '60's&nbsp;New Generation recordings exist? Are there any vintage live recordings, or unreleased tracks?<br></font></b></font><font face="arial, verdana, sans-serif"><font size="3">JN: It is widely held that Bill Graham filmed, recorded, and photographed all of the Fillmore shows. If that’s true, there should be material in the archive. I contacted Wolfgang’s Vault (the owner of the archive) but got back a fairly canned response: all available material is on the Web site. The New Generation Fillmore poster is available at Wolfgang’s, but no other material is listed. I think we did a lot more recording at Capitol but if there are tapes, who knows where they might be. Nothing has ever been released.<br></font><b><br><font size="3">60s: Did the band make any local TV appearances? <br></font></b></font><font face="arial, verdana, sans-serif"><font size="3">JN: We did a television appearance on a show hosted by Elliot Mintz. We opened the show with a live performance of ‘Walk In The Room’which opens with a bass lead. I started to play and nothing came out of the amplifier! Doug’s face looked so shocked; there was no “take two” as we were live. There is surprising little material in terms of photographs or home movies. I don’t know what we were thinking, but we weren’t thinking about taking pictures. Doug’s girlfriend at the time, Stevie Gibbs, should have a stack of pictures but no one seems to know where she is. (Jim Morrison once abducted Stevie for a night.)<br></font><b><br><font size="3">60s: What year did the band break up?<br></font></b></font><font face="arial, verdana, sans-serif"><font size="3">JN: In late 1966.<span>&nbsp; </span>Once the band was over I went back to a straighter lifestyle. You know I had not been in school, except for some really ridiculous schools, during the band’s life. Chuck, Greg, and I went to a Hollywood “professional” school that was for stars and child actors. The teacher was a complete and total narcoleptic so we didn’t do anything at all…all day. I went to Glendale Continuation High School for a while after that. In attendance at Glendale were some members from The Strawberry Alarm Clock, assorted hippies, acid freaks, and us. I attended Blair High School in Pasadena, Pasadena City College, and San Diego State University. My musical involvement was minimal. I would sit in with some Generation members that had formed other bands and I played for a while with Kate Wallace in a country band. But really, I kind of lost interest in music. I felt that the music we played was so good and intense, and satisfying, and on such a high plane that I wasn’t even interested in listening to what anyone else was doing.<br></font><b><br><font size="3">60s: What keeps you busy today? <br></font></b></font><font face="arial, verdana, sans-serif" size="3">JN: In the early ‘70’s at Pasadena City College I discovered an interest and passion for photography. Since that time I have been a photographer. It’s been my profession and interest for more than 35 years. It’s been an interesting and varied career that has allowed me to travel the world and meet people that may not have been possible otherwise. I met my wife on a photo trip to Japan in 1985. For the last ten years I have worked for the Los Angeles County District Attorney’s Bureau of Investigations photography/video lab where I have been the lab supervisor since 2004.<br></font><b><font face="arial, verdana, sans-serif"><br><font size="3">60s: How do you best summarize your experiences with The New Generation?<br></font></font></b><span><font face="arial, verdana, sans-serif"><font size="3">JN: Overall it was great.<span>&nbsp; </span>Listening to the recordings Ira found after not hearing them for 40 years was amazing; it made me cry to think of youth and how time passes. I wish we had taken more pictures. I wish I had been more aware of the dynamic times we were participating in. I wish I would have known how what we were doing related to other social events of the times.</font> </font></span></p><br>
+</td>
+</tr>
+</tbody></table>
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tbody><tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="345" style=""><tbody><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td align="center"><img width="320" src="images/320_NewGeneration2.jpg" alt="" style="" border="0" height="246"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+</tr>
+</tbody></table>
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tbody><tr align="" valign="">
+<td colspan="1" rowspan="1" width="33%" align="center" valign="top">
+	  &nbsp;
+        </td><td colspan="1" rowspan="1" width="34%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="150" style=""><tbody><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td align="center"><img width="125" src="images/125_60sgaragebands_sml.jpg" alt="" style="" border="0" height="49"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+</td>
+</tr></tbody></table></td><td colspan="1" rowspan="1" width="33%" align="center" valign="top">
+	  &nbsp;
+        </td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</p><table border="0" width="100%" cellpadding="0" cellspacing="0" id="other_footer">
+<tbody><tr>
+<td align="left" valign="middle"></td>
+</tr>
+<tr>
+<td align="left" valign="middle"></td>
+</tr>
+</tbody></table>
+<!-- End content section --></td>
+              </tr>
+            </tbody></table>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td> <img src="232/images/spacer.gif" width="1" height="10"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td> <img src="232/images/spacer.gif" width="1" height="21"></td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <img src="232/images/index_20.jpg" width="129" height="145"></td>
+    <td> <img src="232/images/spacer.gif" width="1" height="126"></td>
+  </tr>
+  <tr>
+    <td colspan="2"> <img src="232/images/index_21.jpg" width="621" height="19"></td>
+    <td> <img src="232/images/spacer.gif" width="1" height="19"></td>
+  </tr>
+</tbody></table>
+<p>&nbsp;</p>
+
+
+
+<!-- Template Design by Network Solutions, LLC  -->
+
+</body></html>

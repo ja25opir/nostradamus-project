@@ -1,0 +1,626 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<title>The Top Copywriting Blog is…</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<link rel="canonical" href="http://andybeard.eu/132/the-top-copywriting-blog-is.html">
+
+	<link rel="stylesheet" type="text/css" href="http://andybeard.eu/wp-content/themes/andybeardnew/style.css">
+
+	<link rel="alternate" type="application/rss+xml" href="http://andybeard.eu/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Posts RSS feed">
+	<link rel="alternate" type="application/rss+xml" href="http://andybeard.eu/comments/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Comments RSS feed">
+
+	<link rel="pingback" href="http://andybeard.eu/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="Internet Business &amp; Marketing Strategy - Andy Beard » The Top Copywriting Blog is… Comments Feed" href="http://andybeard.eu/132/the-top-copywriting-blog-is.html/feed">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="http://andybeard.eu/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/active-share-by-orangesoda/active-share.js?ver=1.0"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/active-share-by-orangesoda/digg.js?ver=1.0"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/wp-ajax-response.js?ver=3.0.1"></script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/js/jquery.colorbox-min.js?ver=3.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpajaxeditcomments = {
+	AEC_PluginUrl: "http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments",
+	AEC_CanScroll: "1",
+	AEC_Minutes: "minutes",
+	AEC_Minute: "minute",
+	AEC_And: "and",
+	AEC_Seconds: "seconds",
+	AEC_Second: "second",
+	AEC_Moderation: "Mark for Moderation?",
+	AEC_Approve: "Approve Comment?",
+	AEC_Spam: "Mark as Spam?",
+	AEC_Delete: "Delete this comment?",
+	AEC_Anon: "Anonymous",
+	AEC_Loading: "Loading...",
+	AEC_Ready: "Ready",
+	AEC_Sending: "Sending...",
+	AEC_Sent: "Message Sent",
+	AEC_LoadSuccessful: "Comment Loaded Successfully",
+	AEC_Saving: "Saving...",
+	AEC_Blacklisting: "Blacklisting...",
+	AEC_Saved: "Comment Successfully Saved",
+	AEC_Delink: "De-link Successful",
+	AEC_MoreOptions: "More Options",
+	AEC_LessOptions: "Less Options",
+	AEC_UseRTL: "false",
+	AEC_RequestDeletionSuccess: "Request has been sent successfully",
+	AEC_RequestError: "Error sending request",
+	AEC_approving: "Approving...",
+	AEC_delinking: "De-linking...",
+	AEC_moderating: "Moderating...",
+	AEC_spamming: "Spamming...",
+	AEC_deleting: "Deleting...",
+	AEC_restoring: "Restoring...",
+	AEC_undoing: "Undoing...",
+	AEC_undosuccess: "Undo Successful",
+	AEC_permdelete: "Comment Deleted Permanently"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/js/wp-ajax-edit-comments.js?ver=2.3"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://andybeard.eu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://andybeard.eu/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Internet Business &amp; Marketing Strategy – Andy Beard" href="http://andybeard.eu">
+<link rel="start" title="Keywords, ranking and a little SEO fun" href="http://andybeard.eu/41/keywords-ranking-and-little-seo-fun.html">
+<link rel="prev" title="Redirects from Blogspot | Bug in WordPress Import" href="http://andybeard.eu/131/redirects-from-blogspot-bug-in-wordpress-import.html">
+<link rel="next" title="WordPress Tutorials Reborn" href="http://andybeard.eu/133/wordpress-tutorials-reborn.html">
+
+<link rel="canonical" href="http://andybeard.eu/132/the-top-copywriting-blog-is.html">
+<link rel="shortlink" href="http://andybeard.eu/?p=132">
+<!--[if IE]>
+<style type="text/css">
+ul.addtoany_list a img{filter:alpha(opacity=70)}
+ul.addtoany_list a:hover img,ul.addtoany_list a.addtoany_share_save img{filter:alpha(opacity=100)}
+</style>
+<![endif]-->
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.min.js"></script>
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/fv-wordpress-flowplayer/css/flowplayer.css" type="text/css" media="screen">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="http://andybeard.eu/wp-content/plugins/fv-wordpress-flowplayer/js/pngfix.js"></script>
+<![endif]-->
+<script type="text/javascript">	
+	/*<![CDATA[*/
+		function fp_replay(hash) {
+			var fp = document.getElementById('wpfp_'+hash);
+			var popup = document.getElementById('wpfp_'+hash+'_popup');
+			fp.removeChild(popup);
+			flowplayer('wpfp_'+hash).play();
+		}
+	
+		function fp_share(hash) {
+			var cp = document.getElementById('wpfp_'+hash+'_custom_popup');
+			cp.innerHTML = '<div style="margin-top: 10px; text-align: center;"><label for="permalink" style="color: white;">Permalink to this page:</label><input onclick="this.select();" id="permalink" name="permalink" type="text" value="http://andybeard.eu/132/the-top-copywriting-blog-is.html" /></div>';
+		}
+	/*]]>*/
+</script>
+
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/mm-forms/stylesheet.css" type="text/css"><link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/mm-forms/calendar.css" type="text/css">	<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/mm-forms/mm-forms.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/mm-forms/calendar.js"></script>
+	
+<!-- Simple Facebook Share Button; http://www.ethitter.com/plugins/simple-facebook-share-button/ -->
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Loader" type="text/javascript"></script>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+<script type="text/javascript" id="topsy_global_settings">
+    var topsy_style = 'big';
+    var topsy_nick = 'andybeard';
+    var topsy_order = 'count,retweet,badge';
+    var topsy_theme = 'brick-red';
+    var topsy_tweet_text = 'tweet';
+    var topsy_retweet_text = 'retweet';
+    var topsy_streaming = 'on';
+</script><script type="text/javascript" id="topsy-js-elem" src="http://cdn.topsy.com/topsy.js?init=topsyWidgetCreator"></script>
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/css/themes/circular/edit-comments.css" type="text/css" media="screen">                <!-- Ajax Edit Comments -->
+                <!--[if IE]>
+                <style>
+                  .clearfix {display: inline-block;}
+                  /* Hides from IE-mac \*/
+                  * html .clearfix {height: 1%;}
+                  .clearfix {display: block;}
+                  /* End hide from IE-mac */
+                </style>
+                <![endif]-->
+<link rel="stylesheet" href="http://andybeard.eu/wp-content/plugins/wp-ajax-edit-comments/css/colorbox/colorbox.css" type="text/css" media="screen">
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS BEGIN -->
+<script type="text/javascript" src="http://andybeard.eu/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS END -->
+
+
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/hoverIntent.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/superfish.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/supersubs.js"></script>
+	<script type="text/javascript" src="http://andybeard.eu/wp-content/themes/thematic/library/scripts/thematic-dropdowns.js"></script>
+
+	<script type="text/javascript">
+		jQuery.noConflict();
+	</script>
+
+</head>
+
+
+<body class="wordpress y2010 m09 d17 h09 singular slug-the-top-copywriting-blog-is single postid-132 s-y2006 s-m11 s-d14 s-h22 s-category-marketing s-tag-copywriting s-tag-direct-response-marketing s-tag-marketing s-author-andy-beard s-comments-closed s-pings-closed unknown-os unknown-browser">
+    
+
+<div id="wrapper" class="hfeed">
+
+       
+
+    <div id="header">
+    
+        		    	<div id="branding">
+				    		<div id="blog-title"><span><a href="http://andybeard.eu/" title="Internet Business &amp; Marketing Strategy – Andy Beard" rel="home">Internet Business &amp; Marketing Strategy – Andy Beard</a></span></div>
+			
+		    		<div id="blog-description">Internet Marketing, Lead Acquisition, Online Business Strategy and Social Media with Original Opinion and Loads of Attitude</div>
+		    				    	</div><!--  #branding -->
+				    	<div id="access">
+		    		<div class="skip-link"><a href="#content" title="Skip navigation to the content">Skip to content</a></div>
+		            <div class="menu"><ul class="sf-menu"><li class="page_item page-item-2652"><a href="http://andybeard.eu/seo-tests" title="SEO Tests Intro">SEO Tests Intro</a><ul class="children"><li class="page_item page-item-2656"><a href="http://andybeard.eu/seo-tests/article-marketing-anchor-text" title="Article Marketing Anchor Text">Article Marketing Anchor Text</a></li><li class="page_item page-item-2654"><a href="http://andybeard.eu/seo-tests/google-buzz-links-passing-reputation" title="Google Buzz Links Passing Reputation">Google Buzz Links Passing Reputation</a></li></ul></li><li class="page_item page-item-2"><a href="http://andybeard.eu/about" title="About">About</a></li><li class="page_item page-item-98"><a href="http://andybeard.eu/contact" title="Contact Andy">Contact Andy</a></li><li class="page_item page-item-106"><a href="http://andybeard.eu/archives" title="Archives">Archives</a></li><li class="page_item page-item-538"><a href="http://andybeard.eu/privacy-statement" title="Privacy Statement">Privacy Statement</a></li><li class="page_item page-item-104"><a href="http://andybeard.eu/comments-policy" title="Comments Policy">Comments Policy</a></li><li class="page_item page-item-180"><a href="http://andybeard.eu/disclosure-policy" title="Disclosure Policy">Disclosure Policy</a></li><li class="page_item page-item-925"><a href="http://andybeard.eu/wordpress-plugins" title="WordPress Plugins">WordPress Plugins</a><ul class="children"><li class="page_item page-item-926"><a href="http://andybeard.eu/wordpress-plugins/nofollow-those-dupes" title="Nofollow Those Dupes">Nofollow Those Dupes</a></li><li class="page_item page-item-942"><a href="http://andybeard.eu/wordpress-plugins/custom-query-string-utw" title="Custom Query String – UTW Edition">Custom Query String – UTW Edition</a></li><li class="page_item page-item-565"><a href="http://andybeard.eu/wordpress-plugins/wordpress-plugin-hacks" title="Hacked WordPress Plugins">Hacked WordPress Plugins</a></li></ul></li></ul></div>
+		        </div><!-- #access -->
+		        
+    </div><!-- #header-->
+    
+       
+
+    <div id="main">
+    
+	<div id="container">
+		<div id="content">
+
+            
+			<div id="nav-above" class="navigation">
+				<div class="nav-previous"><a href="http://andybeard.eu/131/redirects-from-blogspot-bug-in-wordpress-import.html" rel="prev"><span class="meta-nav">«</span> Redirects from Blogspot | Bug in WordPress Import</a></div>
+				<div class="nav-next"><a href="http://andybeard.eu/133/wordpress-tutorials-reborn.html" rel="next">WordPress Tutorials Reborn <span class="meta-nav">»</span></a></div>
+			</div>
+
+			<div id="post-132" class="hentry p1 post publish author-andy-beard category-marketing tag-copywriting tag-direct-response-marketing tag-marketing comments-closed pings-closed y2006 m11 d14 h22 slug-the-top-copywriting-blog-is">
+    			<h1 class="entry-title">The Top Copywriting Blog is…</h1>
+<div class="entry-meta"><span class="meta-prep meta-prep-author">By </span><span class="author vcard"><a class="url fn n" href="http://andybeard.eu/author/Andy Beard/" title="View all posts by Andy Beard">Andy Beard</a></span><span class="meta-sep meta-sep-entry-date"> | </span><span class="meta-prep meta-prep-entry-date">Published: </span><span class="entry-date"><abbr class="published" title="2006-11-14T20:16:15+0000">November 14, 2006</abbr></span></div><!-- .entry-meta -->
+				<div class="entry-content">
+
+<p>I came across something a few days ago, and I have been itching to let the cat out of the bag.</p>
+<p>Lots of bloggers would immediately think of the excellent <a href="http://www.copyblogger.com">Copyblogger</a>, who has <a href="http://www.copyblogger.com/copyblogger-joins-b5-media/">just announced joining B5 Media</a>.<br>
+Brian gets a significant amount of traffic to his blog, and has 6k+ loyal readers.</p>
+<p>But I things are going to maybe get a little more competitive in the very near future.</p>
+<p>I am on a fair number of email lists, and I haven’t seen mention of this blog yet. I certainly haven’t seen mention of it on the creators own blog…</p>
+<p>Do any of these names ring a bell?</p>
+<p>    * Alan Forrest Smith<br>
+    * Andy Catsimanes<br>
+    * Gary Halbert<br>
+    * John Anghelache<br>
+    * John Ritz<br>
+    * Michael Morgan<br>
+    * Michel Fortin<br>
+    * Ray Edwards<br>
+    * Shawn Catsimanes<br>
+    * Troy White<br>
+    * Zachary Romero</p>
+<p>Every single one of them is a well known copywriter. Obviously it isn’t a comprehensive list… yet.</p>
+<p>I have a feeling the line-up will grow fairly rapidly.</p>
+<p>The new site is aptly named <a href="http://www.copywritersblog.com">The Copywriters Blog</a> and is the brainchild of <a href="http://www.michelfortin.com/">Michel Fortin</a>.</p>
+<p>Many of the writers in the initial lineup frequent Michel’s popular <a href="http://www.copywritersboard.com">Copywriting forum</a>.</p>
+<p>From Day 1 (well it isn’t really day one yet, as I haven’t seen it announced), they have a professional looking blog that is highly organised. There are a few pagerank leaks I would shut the door on, such as those to Technorati, but otherwise it is a fairly tight ship, and makes good use of tagging, categories and related posts.</p>
+<p>One interesting aspect is that this blog is produced by multiple authors with authority. You can expect the content to be widely syndicated on sites such as Google News sometime in the future.</p>
+<p><strong>My prediction for the future</strong></p>
+<p>Expect great things of <a href="http://www.copywritersblog.com">The Copywriters Blog</a>, as I think it is going become a resource to be reckoned with.
+</p><div id="active-share-comment-marker"></div>
+<div class="topsy_widget_data topsy_theme_brick-red" style="float: right;margin-left: 0.75em; background: url(data:,%7B%20%22url%22%3A%20%22http%253A%252F%252Fandybeard.eu%252F132%252Fthe-top-copywriting-blog-is.html%22%2C%20%22style%22%3A%20%22big%22%2C%20%22title%22%3A%20%22The%20Top%20Copywriting%20Blog%20is...%22%20%7D);"><script type="text/javascript">topsyWidgetPreload({ "url": "http%3A%2F%2Fandybeard.eu%2F132%2Fthe-top-copywriting-blog-is.html", "style": "big", "title": "The Top Copywriting Blog is..." });</script></div>
+
+<div style="float:right;margin:0px 0px 0px 8px;"><a title="Post on Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count" data-url="http://andybeard.eu/132/the-top-copywriting-blog-is.html"></a><script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script></div><div align="right" style="float:right;padding:5px 0xp 0px 5px;"><a name="fb_share" type="box_count" share_url="http://andybeard.eu/132/the-top-copywriting-blog-is.html"></a></div><div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"><img src="http://andybeard.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"></a></li></ul>
+<script type="text/javascript"><!--
+var a2a_config = a2a_config || {};
+a2a_config.linkname="The Top Copywriting Blog is&#8230;";
+a2a_config.linkurl="http://andybeard.eu/132/the-top-copywriting-blog-is.html";
+a2a_config.show_title=1;
+//--></script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+
+</div>
+	<h4>Related posts</h4>
+	<ul class="st-related-posts">
+	<li><a href="http://andybeard.eu/133/wordpress-tutorials-reborn.html" title="WordPress Tutorials Reborn (November 15, 2006)">WordPress Tutorials Reborn</a> (3)</li>
+	<li><a href="http://andybeard.eu/340/headline-split-testing-social-news-with-the-same-article-for-massive-traffic.html" title="Headline Split Testing Social News With The Same Article For Massive Traffic (February 1, 2007)">Headline Split Testing Social News With The Same Article For Massive Traffic</a> (1)</li>
+	<li><a href="http://andybeard.eu/513/could-just-1-character-turn-a-4-day-old-news-story-into-a-front-page-digg.html" title="Could Just 1 Character Turn A 4 Day Old News Story Into A Front Page Digg? (March 8, 2007)">Could Just 1 Character Turn A 4 Day Old News Story Into A Front Page Digg?</a> (8)</li>
+	<li><a href="http://andybeard.eu/587/woot-creating-twitter-splogs.html" title="WOOT Creating Twitter Splogs (March 28, 2007)">WOOT Creating Twitter Splogs</a> (1)</li>
+	<li><a href="http://andybeard.eu/2640/what-kind-of-soap-gets-your-hands-clean.html" title="What Kind Of Soap Gets Your Hands Clean? (August 17, 2010)">What Kind Of Soap Gets Your Hands Clean?</a> (4)</li>
+	<li><a href="http://andybeard.eu/948/web-20-website-promotion.html" title="Web 2.0 Website Promotion (August 16, 2007)">Web 2.0 Website Promotion</a> (15)</li>
+	<li><a href="http://andybeard.eu/589/twitteradder-software-specification.html" title="TwitterAdder – Software Specification (March 28, 2007)">TwitterAdder – Software Specification</a> (10)</li>
+	<li><a href="http://andybeard.eu/1075/pied-piper-payperpost.html" title="The Pied Piper Of PayPerPost? (November 6, 2007)">The Pied Piper Of PayPerPost?</a> (18)</li>
+	<li><a href="http://andybeard.eu/655/standing-on-the-shoulders-of-giants.html" title="Standing on the Shoulders of Giants (April 14, 2007)">Standing on the Shoulders of Giants</a> (3)</li>
+	<li><a href="http://andybeard.eu/424/social-proof-is-the-primary-benefit-of-mybloglog-and-bumpzee-widgets.html" title="Social Proof is the Primary Benefit of MyBlogLog and BUMPzee Widgets (February 13, 2007)">Social Proof is the Primary Benefit of MyBlogLog and BUMPzee Widgets</a> (4)</li>
+</ul>
+
+
+									</div>
+				<div class="entry-utility"><span class="cat-links">This entry was posted in <a href="http://andybeard.eu/category/marketing" title="View all posts in marketing" rel="category tag">marketing</a></span><span class="tag-links">  and tagged <a href="http://andybeard.eu/tag/copywriting" rel="tag">copywriting</a>, <a href="http://andybeard.eu/tag/direct-response-marketing" rel="tag">Direct Response Marketing</a>, <a href="http://andybeard.eu/tag/marketing" rel="tag">marketing</a></span>. Bookmark the <a href="http://andybeard.eu/132/the-top-copywriting-blog-is.html" title="Permalink to The Top Copywriting Blog is…">permalink</a>. Both comments and trackbacks are currently closed.</div><!-- .entry-utility -->
+			</div><!-- .post -->
+
+			<div id="nav-below" class="navigation">
+				<div class="nav-previous"><a href="http://andybeard.eu/131/redirects-from-blogspot-bug-in-wordpress-import.html" rel="prev"><span class="meta-nav">«</span> Redirects from Blogspot | Bug in WordPress Import</a></div>
+				<div class="nav-next"><a href="http://andybeard.eu/133/wordpress-tutorials-reborn.html" rel="next">WordPress Tutorials Reborn <span class="meta-nav">»</span></a></div>
+			</div>
+
+			<div id="comments">
+
+
+
+
+
+				<div id="comments-list" class="comments">
+					<h3><span>4</span> Comments</h3>
+				
+					<ol>
+    	<li id="comment-290" class="comment c c-y2006 c-m11 c-d14 c-h22 alt depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/d7aefb483d40d6bd63ffca20a98e6bea?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://www.copyblogger.com/" rel="external nofollow" class="url url">Brian Clark</a> (2 comments.)</span></div>
+    		<div class="comment-meta">Posted November 14, 2006 at 8:21 pm <span class="meta-sep">|</span> <a href="#comment-290" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Cool!  I know Michel gets blogging, and it looks like he’s going to help out a lot of others too.</p>
+    		</div>
+			</li>
+    	<li id="comment-312" class="comment c1 c-y2006 c-m11 c-d16 c-h03 depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/10db95f6663ee157c9c538c113f5b38b?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://danemorgan.com/" rel="external nofollow" class="url url">Dane's Blogging Tips</a> (51 comments.)</span></div>
+    		<div class="comment-meta">Posted November 16, 2006 at 1:53 am <span class="meta-sep">|</span> <a href="#comment-312" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Maybe it’s more of the top copywriting blog  -will be-. The names involved suggest that there will be a LOT of great info flying around that blog and a LOT of irresistable pitches too. ;)</p>
+<p>But for now, having surfed through a few pages on each I cast my vote the other way. I do reserve the right to alter my vote at a later date though.</p>
+    		</div>
+			</li>
+    	<li id="comment-39526" class="comment c2 c-y2007 c-m06 c-d21 c-h04 alt depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://0.gravatar.com/avatar/68584082ca78af068632f54271dd661a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://www.MikeJezek.com" rel="external nofollow" class="url url">Mike Jezek</a> (1 comments.)</span></div>
+    		<div class="comment-meta">Posted June 21, 2007 at 2:51 am <span class="meta-sep">|</span> <a href="#comment-39526" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>Yes, Michel Fortin is first class all the way.  This blog is great.</p>
+    		</div>
+			</li>
+    	<li id="comment-39736" class="comment c3 c-y2007 c-m06 c-d21 c-h13 depth-1">
+    		<div class="comment-author vcard"><img alt="" src="http://1.gravatar.com/avatar/52621d3538ddf2ee39f5b0ed55aa2f49?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="photo avatar avatar-80 photo" height="80" width="80"> <span class="fn n"><a href="http://bollywoodpoint.com" rel="external nofollow" class="url url">trisha</a> (1 comments.)</span></div>
+    		<div class="comment-meta">Posted June 21, 2007 at 11:24 am <span class="meta-sep">|</span> <a href="#comment-39736" title="Permalink to this comment">Permalink</a></div>
+                <div class="comment-content">
+        		<p>lol thisis very good blog i think.The Copywriters Blog name is good and i hope all posts under it will help us to develope our sites and articles.</p>
+    		</div>
+			</li>
+					</ol>
+
+        			<div id="comments-nav-below" class="comment-navigation">
+        			     <div class="paginated-comments-links"></div>
+                    </div>
+					
+				</div><!-- #comments-list .comments -->
+
+			
+
+
+
+
+				<div id="trackbacks-list" class="comments">
+					<h3><span>One</span> Trackback</h3>
+					
+					<ol>
+    		<li id="comment-296" class="pingback t4 c-y2006 c-m11 c-d14 c-h23 alt depth-1">
+    			<div class="comment-author">By <a href="http://www.copywritersboard.com/copywriting-discussion/3925-top-copywriting-blog.html#post32393" rel="external nofollow" class="url">The Top Copywriting Blog is... - Copywriters Board</a> on November 14, 2006 at 9:45 pm</div>
+                <div class="comment-content">
+    			<p>[...] The Top Copywriting Blog is… –  Today, 05:43 PM      I lurk over here occasionally, but whilst I have a fair amount of sales &amp; marketing experience, I have never classed myself as a "copywriter".  Today I felt compelled to write something that I have known about for a few days. Before today there wasn’t quite enough content on the site.  There is a good chance I am the first "outsider" to congratulate Michel on a brilliant concept, and superb execution.  My original blog post is here, though below is the content in full.  The Top Copywriting Blog is…  I came across something a few days ago, and I have been itching to let the cat out of the bag.  Lots of bloggers would immediately think of the excellent Copyblogger, who has just announced joining B5 Media. Brian gets a significant amount of traffic to his blog, and has 6k+ loyal readers.  But I things are going to maybe get a little more competitive in the very near future.  I am on a fair number of email lists, and I haven’t seen mention of this blog yet. I certainly haven’t seen mention of it on the creators own blog…  Do any of these names ring a bell?  * Alan Forrest Smith * Andy Catsimanes * Gary Halbert * John Anghelache * John Ritz * Michael Morgan * Michel Fortin * Ray Edwards * Shawn Catsimanes * Troy White * Zachary Romero  Every single one of them is a well known copywriter. Obviously it isn’t a comprehensive list… yet.  I have a feeling the line-up will grow fairly rapidly.  The new site is aptly named The Copywriters Blog and is the brainchild of Michel Fortin.  Many of the writers in the initial lineup frequent Michel’s popular Copywriting forum.  From Day 1 (well it isn’t really day one yet, as I haven’t seen it announced), they have a professional looking blog that is highly organised. There are a few pagerank leaks I would shut the door on, such as those to Technorati, but otherwise it is a fairly tight ship, and makes good use of tagging, categories and related posts.  One interesting aspect is that this blog is produced by multiple authors with authority. You can expect the content to be widely syndicated on sites such as Google News sometime in the future.  My prediction for the future  Expect great things of The Copywriters Blog, as I think it is going become a resource to be reckoned with. [...]</p>
+			</div>
+</li>
+					</ol>				
+					
+				</div><!-- #trackbacks-list .comments -->			
+
+				
+
+
+
+			</div><!-- #comments -->
+
+		</div><!-- #content -->
+	</div><!-- #container -->
+
+
+<div id="primary" class="aside main-aside">
+	<ul class="xoxo">
+			<li id="search" class="widgetcontainer widget_thematic_search">				<h3 class="widgettitle"><label for="s">Search</label></h3>
+
+	<form id="searchform" method="get" action="http://andybeard.eu">
+		<div>
+			<input id="s" name="s" type="text" value="To search, type and hit enter" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" size="32" tabindex="1">
+			<input id="searchsubmit" name="searchsubmit" type="submit" value="Search" tabindex="2">
+		</div>
+	</form></li>
+	</ul>
+</div><!-- #primary .aside -->
+
+<div id="secondary" class="aside main-aside">
+	<ul class="xoxo">
+		<li id="rss-links" class="widgetcontainer widget_thematic_rsslinks">			<h3 class="widgettitle">RSS Links</h3>
+			<ul>
+				<li><a href="http://andybeard.eu/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Posts RSS feed" rel="alternate nofollow" type="application/rss+xml">All posts</a></li>
+				<li><a href="http://andybeard.eu/comments/feed" title="Internet Business &amp; Marketing Strategy - Andy Beard Comments RSS feed" rel="alternate nofollow" type="application/rss+xml">All comments</a></li>
+			</ul>
+		</li>			<li id="meta" class="widgetcontainer widget_thematic_meta">				<h3 class="widgettitle">Meta</h3>
+				<ul>
+										<li><a href="http://andybeard.eu/wp-login.php">Log in</a></li>
+									</ul>
+			</li>
+	</ul>
+</div><!-- #secondary .aside -->
+
+    </div><!-- #main -->
+    
+        
+
+	<div id="footer">
+    
+            
+        <div id="siteinfo">        
+
+    Powered by <a class="wp-link" href="http://WordPress.org/" title="WordPress" rel="generator">WordPress</a>. Built on the <a class="theme-link" href="http://themeshaper.com/thematic/" title="Thematic Theme Framework" rel="designer">Thematic Theme Framework</a>.    
+		</div><!-- #siteinfo -->
+    
+            
+	</div><!-- #footer -->
+	
+      
+
+</div><!-- #wrapper .hfeed -->
+
+<div id="as-share-window" style="width: 100%; height: 100px; display: block; position: fixed; top: -150px; left: 0px; background-color: rgba(0, 0, 0, 1);z-index: 100;"><div style="width: 800px; margin: 20px auto;">		<span style="float:left; margin: 0 5px; padding: 3px 0 0 0;" ;><script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></span>
+				
+				<span style="float: left; margin: 0 5px;"><a title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count"></a>
+	<script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script></span>
+							<span style="float: left; margin: 0 5px; padding: 4px 0px 0px;"><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></span>
+					<span style="float: left; margin: 0 5px; padding: 3px 0px 0px;"><a class="DiggThisButton DiggMedium"></a></span>
+			<span style="float: left; margin: 0 5px; padding: 5px 0px 0px; color: #9F9F9F">be a pal and share this would ya?<br><span style="color: #FFFFFF; font-size: 18px;">The Top Copywriting Blog is…</span></span>
+		</div></div>
+		<script type="text/javascript" src="http://andybeard.eu/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript" src="http://track2.mybloglog.com/js/jsserv.php?mblID=2006112106033602"></script>
+
+<!-- Google Code for Remarketing Lists -->
+
+<!-- Yes I am stuffing you full of tags, most of them are identical. Why? Google don't tell you how many tags you can have on one page, so I am testing it. -->
+<!-- I have asked on the Adwords forums and been given a robotic answer -->
+
+<!-- This is a fresh tag before my main one for testing multiple tags -->
+
+<!-- Google Code for Verify 0 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "_XtKCJiCyAEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=_XtKCJiCyAEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+
+
+<!-- Primary tag -->
+
+<!-- Google Code for Blog Visitors Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "4nCwCNChxwEQlKXZ_QM";
+var google_conversion_value = 0;
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=4nCwCNChxwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-100976-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Start of lots of test tags -->
+
+<!-- Google Code for Verify 1 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "W-5vCNj6xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=W-5vCNj6xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 2 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "NMNyCND7xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=NMNyCND7xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 3 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "hks5CMj8xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=hks5CMj8xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 4 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "e0zUCMD9xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=e0zUCMD9xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 5 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "VQtZCLj-xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=VQtZCLj-xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 6 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "wLOhCLD_xwEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=wLOhCLD_xwEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 7 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "36wLCKiAyAEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=36wLCKiAyAEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<!-- Google Code for Verify 8 Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068913300;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "sAehCKCByAEQlKXZ_QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068913300/?label=sAehCKCByAEQlKXZ_QM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+
+<!-- Google Code for Remarketing List - End of test-->
+<!-- Testing 10 tags -->
+<!-- 0 , Primary, 1,2,3,4,5,6,7,8 -->
+<!-- Get the results at http://Remarketing.me -->
+
+<!-- Google Code for Blog Remarketing List -->
+
+
+<!-- Google Code for Remarketing List - This is another Test-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1012948861;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "xZxbCIPF2AEQ_b6B4wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1012948861/?label=xZxbCIPF2AEQ_b6B4wM&amp;guid=ON&amp;script=0">
+</div>
+</noscript>
+<script type="text/javascript">
+//async script, twitter button fashiolista.com style
+(function() {
+var s = document.createElement('SCRIPT');
+var c = document.getElementsByTagName('script')[0];
+s.type = 'text/javascript';
+s.async = true;
+s.src = 'http://platform.twitter.com/widgets.js';
+c.parentNode.insertBefore(s, c);
+})();
+</script>
+<!-- begin Reedge footer code --><script type="text/javascript"> /*rvidfooter#1.5.0*/if(typeof(REED)!="undefined")	REED.footerInit();</script><noscript><a title="increase conversion" href="http://www.reedge.com/" target="_blank">increase conversion</a></noscript><!-- end Reedge footer code -->
+<!-- BEGIN: SeeVolution --><img width="0" height="0" src="https://svlu.net/pixel.aspx"><script type="text/javascript" src="https://svlu.net/JInitScript.js"></script><!-- END: SeeVolution  -->
+
+</body></html>

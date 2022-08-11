@@ -1,0 +1,786 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Baltimore Organ, news, interviews, music, books, sports, Baltimoreorgan, article, articles, concert, concert information, politics, blog, Baltimore, people">
+  <meta name="title" content="CHEF OF THE FUTURE">
+  <meta name="author" content="Jay L. Liner">
+  <meta name="description" content="The Baltimore Organ Blog national and local news, reviews, music, sports and book reviews.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>CHEF OF THE FUTURE</title>
+  <link href="/organ/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://baltimoreorgan.com/organ/components/com_yvcomment/assets/style003.css" type="text/css">
+  <style type="text/css">
+    <!--
+.social_bookmarker_top { float:left;text-align:center;margin:10px 10px 10px 0; }.prova_fb_badge { margin:0 0 24px; width:52px; display:block; }.fb_share_count_wrapper { width:50px !important; }.FBConnectButton_Small .FBConnectButton_Text { margin-left:17px !important; padding:2px 3px 3px 2px !important; }.FBConnectButton .FBConnectButton_Text, .FBConnectButton_RTL .FBConnectButton_Text { font-weight:normal !important; }
+    -->
+  </style>
+  <script type="text/javascript" src="/organ/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/organ/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/organ/plugins/content/avreloaded/silverlight.js"></script>
+  <script type="text/javascript" src="/organ/plugins/content/avreloaded/wmvplayer.js"></script>
+  <script type="text/javascript" src="/organ/plugins/content/avreloaded/swfobject.js"></script>
+  <script type="text/javascript" src="/organ/plugins/content/avreloaded/avreloaded.js"></script>
+
+
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/ja_purity/css/template.css" type="text/css">
+
+<script language="javascript" type="text/javascript" src="http://baltimoreorgan.com/organ/templates/ja_purity/js/ja.script.js"></script>
+
+
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/ja_purity/css/menu.css" type="text/css">
+
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/ja_purity/css/ja-sosdmenu.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://baltimoreorgan.com/organ/templates/ja_purity/js/ja.cssmenu.js"></script>
+
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/ja_purity/styles/background/lighter/style.css" type="text/css">
+<link rel="stylesheet" href="http://baltimoreorgan.com/organ/templates/ja_purity/styles/elements/red/style.css" type="text/css">
+
+<!--[if IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+<style type="text/css">
+#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+</head>
+
+<body id="bd" class="fs3 Others">
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="#ja-col1" title="Skip to first column">Skip to first column</a></li>
+	<li><a href="#ja-col2" title="Skip to second column">Skip to second column</a></li>
+</ul>
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+	<div id="ja-header" class="clearfix" style="background: url(http://baltimoreorgan.com/organ/templates/ja_purity/images/header/logo-yellow.jpg) no-repeat top right;">
+
+	<div class="ja-headermask">&nbsp;</div>
+
+			<h1 class="logo">
+			<a href="/organ/index.php" title="baltimoreorgan.com"><span>baltimoreorgan.com</span></a>
+		</h1>
+	
+			<ul class="ja-usertools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="http://baltimoreorgan.com/organ/templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Default font size" src="http://baltimoreorgan.com/organ/templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Decrease font size" src="http://baltimoreorgan.com/organ/templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;"></li>
+		</ul>
+		<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
+		
+			<div id="ja-search">
+			<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="49">
+</form>
+		</div>
+	
+	</div>
+</div>
+<!-- END: HEADER -->
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<div id="ja-mainnavwrap">
+	<div id="ja-mainnav" class="clearfix">
+	<table class="moduletable">
+	<tbody><tr>
+			<td>
+			
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><table style="background-color: #f8f8f8; width: 180px; height: 140px;" border="2" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td>
+<p class="MsoNormal" style="text-align: center;"><strong><span style="font-size: 10pt; font-family: 'Arial','sans-serif'">MARK B. CARP&amp; COMPANY, INC.</span></strong></p>
+<p class="MsoNormal" align="center"><em><strong><span style="font-family: 'Arial','sans-serif'; font-size: xx-small">COMMERCIAL AND INDUSTRIAL REAL ESTATE BROKERS</span></strong></em></p>
+<p style="text-align: center">&nbsp;<span style="color: #ff6600;"><span style="font-size: 14px"><span style="color: #000000;">CALL  410-539-1333</span></span></span></p>
+<p style="text-align: center"><span style="color: #ff6600;"><span style="color: #000000;">&nbsp;<strong><span style="font-family: 'Arial','sans-serif'; font-size: xx-small">THE SPECIALISTS&nbsp; FOR LOCATING PROPERTIES THAT FIT YOUR NEEDS FOR OVER 40 YEARS</span></strong></span></span></p>
+<p style="text-align: center"><span style="color: #ff6600;"><span style="color: #000000;"><strong><span style="font-family: 'Arial','sans-serif'; font-size: xx-small">Mr. Carp is a noted local author<br></span></strong> </span></span></p>
+<span style="color: #ff6600;"><span style="color: #000000;"> </span></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1011%3Arandall-printing&amp;catid=35%3Aadvertisers&amp;Itemid=49">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		</td>
+			<td>
+			
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p></p><table border="2" width="327" height="182" style="background-color: #f8f8f8"><tbody><tr><td>&nbsp;<p style="text-align: center" align="center"><strong><span>WEEKLY  MARKET WATCH BROUGHT TO YOU BY CIC WEALTH MANAGEMENT GROUP</span></strong></p>  <div align="center"><a href="http://www.4cic.com/Home.aspx?"><span style="color: #ff6600">LINK</span></a></div> <p align="center"><em>Recognized by  Bloomberg Wealth Manager  as a top  miracle grower&nbsp;</em></p><div align="left"><strong><span style="font-size: 12pt; color: blue">The Markets</span></strong>  </div></td></tr></tbody></table><p></p></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=933%3Acic-new&amp;catid=35%3Aadvertisers&amp;Itemid=49">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		</td>
+			<td>
+			
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><table border="2" width="292" height="201" style="background-color: #f8f8f8"><tbody><tr><td style="border: 1px solid #000000"><div align="center"><a href="http://www.regisamericanbistro.com/" target="_blank"><img src="/organ/images/stories/regis.JPG" border="0" alt="regis" width="220" height="79"></a></div> <div><div align="center"> </div><p class="MsoNormal" align="center"><span style="font-size: 10pt; font-family: 'Arial','sans-serif'">Regi's is a proud and original  sponsor of</span><span style="font-size: 10pt; font-family: 'Arial','sans-serif'"> THE BALTIMORE ORGAN</span></p><div align="center"><blockquote><span style="font-size: 8pt; font-family: 'Arial','sans-serif'">Link <a href="http://www.regisamericanbistro.com/" target="_blank">HERE</a>  to their website and check their daily specials and mention that you saw  their ad on THE ORGAN </span><span style="font-size: 10pt; font-family: 'Arial','sans-serif'">- when you dine at REGI'S</span></blockquote></div></div>&nbsp;</td></tr></tbody></table></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       		</td>
+     </tr>
+</tbody></table>
+		</td>
+			<td>
+			
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><table border="2" cellspacing="1" cellpadding="1" width="180" height="140" style="background-color: #f8f8f8">     <tbody>         <tr>             <td>             <div align="center"><strong><span style="color: #ff6600"><span style="font-size: 16px">RANDALLSTOWN PRINTING</span></span></strong></div>             <p style="text-align: center">For all your printing  needs. We specialize in legal and  medical stationery. 20% off on all new  orders when you mention the  Organ.</p>             <p style="text-align: center"><strong><font color="#ff6600"><span style="font-size: 14px">CALL  410-922-0970</span></font></strong></p>             </td>         </tr>     </tbody> </table></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       		</td>
+     </tr>
+</tbody></table>
+		</td>
+		</tr>
+</tbody></table>
+	</div>
+</div>
+<!-- END: MAIN NAVIGATION -->
+
+<div id="ja-containerwrap">
+<div id="ja-containerwrap2">
+	<div id="ja-container">
+	<div id="ja-container2" class="clearfix">
+
+		<div id="ja-mainbody" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+						<div id="ja-pathway">
+				
+			</div>
+			
+			
+<h2 class="contentheading">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=816:chef-of-the-future&amp;catid=25:comedyflash&amp;Itemid=49" class="contentpagetitle">
+		CHEF OF THE FUTURE	</a>
+	</h2>
+
+
+<div class="article-tools">
+	<div class="article-meta">
+			<span class="createdate">
+			Monday, 11 January 2010 16:14		</span>
+	
+			<span class="createby">
+			Joe Velisek		</span>
+	
+		</div>
+
+		<div class="buttonheading">
+								<span>
+			<a href="/organ/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL2JhbHRpbW9yZW9yZ2FuLmNvbS9vcmdhbi9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD04MTY6Y2hlZi1vZi10aGUtZnV0dXJlJmNhdGlkPTI1OmNvbWVkeWZsYXNoJkl0ZW1pZD00OQ==" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/organ/templates/ja_purity/images/emailButton.png" alt="E-mail"></a>			</span>
+			
+						<span>
+			<a href="/organ/index.php?view=article&amp;catid=25%3Acomedyflash&amp;id=816%3Achef-of-the-future&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=49" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/organ/templates/ja_purity/images/printButton.png" alt="Print"></a>			</span>
+			
+						<span>
+			<a href="/organ/index.php?view=article&amp;catid=25%3Acomedyflash&amp;id=816%3Achef-of-the-future&amp;format=pdf&amp;option=com_content&amp;Itemid=49" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/organ/templates/ja_purity/images/pdf_button.png" alt="PDF"></a>			</span>
+						</div>
+	
+	</div>
+
+
+<div class="article-content">
+<div class="social_bookmarker_top"><script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script><br><br><span class="prova_fb_badge"><a name="fb_share" type="box_count" href="http://www.facebook.com/sharer.php">Share</a></span><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script><br></div><p><img src="/organ/images/stories/honey111.JPG" border="0" alt="honey111" width="180" height="176"></p><p><!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:TrackMoves/>   <w:TrackFormatting/>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:DoNotPromoteQF/>   <w:LidThemeOther>EN-US</w:LidThemeOther>   <w:LidThemeAsian>X-NONE</w:LidThemeAsian>   <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>    <w:SplitPgBreakAndParaMark/>    <w:DontVertAlignCellWithSp/>    <w:DontBreakConstrainedForcedTables/>    <w:DontVertAlignInTxbx/>    <w:Word11KerningPairs/>    <w:CachedColBalance/>   </w:Compatibility>   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>   <m:mathPr>    <m:mathFont m:val="Cambria Math"/>    <m:brkBin m:val="before"/>    <m:brkBinSub m:val="&#45;-"/>    <m:smallFrac m:val="off"/>    <m:dispDef/>    <m:lMargin m:val="0"/>    <m:rMargin m:val="0"/>    <m:defJc m:val="centerGroup"/>    <m:wrapIndent m:val="1440"/>    <m:intLim m:val="subSup"/>    <m:naryLim m:val="undOvr"/>   </m:mathPr></w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"   DefSemiHidden="true" DefQFormat="false" DefPriority="99"   LatentStyleCount="267">   <w:LsdException Locked="false" Priority="0" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Normal"/>   <w:LsdException Locked="false" Priority="9" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>   <w:LsdException Locked="false" Priority="39" Name="toc 1"/>   <w:LsdException Locked="false" Priority="39" Name="toc 2"/>   <w:LsdException Locked="false" Priority="39" Name="toc 3"/>   <w:LsdException Locked="false" Priority="39" Name="toc 4"/>   <w:LsdException Locked="false" Priority="39" Name="toc 5"/>   <w:LsdException Locked="false" Priority="39" Name="toc 6"/>   <w:LsdException Locked="false" Priority="39" Name="toc 7"/>   <w:LsdException Locked="false" Priority="39" Name="toc 8"/>   <w:LsdException Locked="false" Priority="39" Name="toc 9"/>   <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>   <w:LsdException Locked="false" Priority="10" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Title"/>   <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>   <w:LsdException Locked="false" Priority="11" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>   <w:LsdException Locked="false" Priority="22" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Strong"/>   <w:LsdException Locked="false" Priority="20" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>   <w:LsdException Locked="false" Priority="59" SemiHidden="false"    UnhideWhenUsed="false" Name="Table Grid"/>   <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>   <w:LsdException Locked="false" Priority="1" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 1"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 1"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 1"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>   <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>   <w:LsdException Locked="false" Priority="34" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>   <w:LsdException Locked="false" Priority="29" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Quote"/>   <w:LsdException Locked="false" Priority="30" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 1"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 1"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 2"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 2"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 2"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 2"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 2"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 3"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 3"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 3"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 3"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 3"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 4"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 4"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 4"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 4"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 4"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 5"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 5"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 5"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 5"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 5"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>   <w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 6"/>   <w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 6"/>   <w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 6"/>   <w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>   <w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>   <w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>   <w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>   <w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>   <w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>   <w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>   <w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 6"/>   <w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>   <w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 6"/>   <w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>   <w:LsdException Locked="false" Priority="19" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>   <w:LsdException Locked="false" Priority="21" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>   <w:LsdException Locked="false" Priority="31" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>   <w:LsdException Locked="false" Priority="32" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>   <w:LsdException Locked="false" Priority="33" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>  </w:LatentStyles> </xml><![endif]--> <!--  /* Font Definitions */  @font-face 	{font-family:"Cambria Math"; 	panose-1:2 4 5 3 5 4 6 3 2 4; 	mso-font-charset:1; 	mso-generic-font-family:roman; 	mso-font-format:other; 	mso-font-pitch:variable; 	mso-font-signature:0 0 0 0 0 0;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-parent:""; 	margin:0in; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman","serif"; 	mso-fareast-font-family:"Times New Roman";} .MsoChpDefault 	{mso-style-type:export-only; 	mso-default-props:yes; 	font-size:10.0pt; 	mso-ansi-font-size:10.0pt; 	mso-bidi-font-size:10.0pt;} @page Section1 	{size:8.5in 11.0in; 	margin:1.0in 1.25in 1.0in 1.25in; 	mso-header-margin:.5in; 	mso-footer-margin:.5in; 	mso-paper-source:0;} div.Section1 	{page:Section1;} --> <!--[if gte mso 10]> <style>  /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Table Normal"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-qformat:yes; 	mso-style-parent:""; 	mso-padding-alt:0in 5.4pt 0in 5.4pt; 	mso-para-margin:0in; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} </style> <![endif]-->  </p><p class="MsoNormal"><strong><span style="font-size: 14pt">I</span></strong>n one of our favorite episodes from one of our favorite “classic” TV shows, Ralph finally gets the opportunity to put his money where “BIG” mouth is. Dragging Norton along with him, he decides to make an infomercial and the rest is comedy history.</p>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="325" height="268"><param name="width" value="325"><param name="height" value="268"><param name="src" value="http://www.youtube.com/v/yB5a6y3okeo&amp;feature=PlayList&amp;p=DAA13B7FD6FB4F69&amp;index=0"><embed type="application/x-shockwave-flash" width="325" height="268" src="http://www.youtube.com/v/yB5a6y3okeo&amp;feature=PlayList&amp;p=DAA13B7FD6FB4F69&amp;index=0"></object><p>&nbsp;</p><br><hr>Add this page to your favorite Social Bookmarking websites<!-- AddThis Button BEGIN -->
+    <script type="text/javascript">
+    var addthis_config = 
+    {
+        ui_cobrand: "<a href=\"http://www.prova.fm/advertising/index.php?option=com_content&view=article&id=31&Itemid=51\" target=\"_blank\">Advertising Tools</a>"
+    }
+    </script>
+    <div class="addthis_toolbox addthis_default_style"><a class="addthis_button_digg"></a><a class="addthis_button_twitter"></a><a class="addthis_button_facebook"></a><a class="addthis_button_delicious"></a><a class="addthis_button_technorati"></a><a class="addthis_button_stumbleupon"></a><span class="addthis_separator">|</span>
+   		<a href="http://addthis.com/bookmark.php?v=250&amp;pub=" class="addthis_button_compact">More...</a>
+		<span style="float:right;"><a href="http://www.prova.fm/advertising/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=51" target="_blank"><img src="/organ/plugins/content/prova_images/config.png" style="border:0;margin:0;"></a></span></div>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub="></script></div>
+
+	<span class="modifydate">
+		Last Updated on Monday, 11 January 2010 16:15	</span>
+
+<span class="article_separator">&nbsp;</span>
+<div class="yvComment" id="yvComment816">
+
+
+
+
+	
+	
+	
+	<div class="Form">
+	      <h3>Add your comment</h3>
+	  	  <form name="yvCommentForm7810_4848" action="/organ/index.php?option=com_yvcomment" target="_top" method="post">
+	    <input type="hidden" name="Itemid" value="49">
+	    <input type="hidden" name="yvCommentID" value="0">
+	    <input type="hidden" name="ArticleID" value="816">
+	    <input type="hidden" name="task" value="add">
+	    <input type="hidden" name="view" value="comment">
+	    <input type="hidden" name="url" value="aHR0cDovL2JhbHRpbW9yZW9yZ2FuLmNvbS9vcmdhbi9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD04MTY6Y2hlZi1vZi10aGUtZnV0dXJlJmNhdGlkPTI1OmNvbWVkeWZsYXNoJkl0ZW1pZD00OSN5dkNvbW1lbnQ4MTY=">
+				<input type="hidden" name="button" value="">
+				<script language="javascript" type="text/javascript">
+					<!--
+					function submitbuttonyvCommentForm7810_4848(pressbutton) {
+						var form = document.yvCommentForm7810_4848;
+						switch (pressbutton) {
+							case "post":
+							case "preview":
+		           									// do field validation
+								// TODO
+							
+								break;
+							default:
+						}
+					  form.button.value = pressbutton;	
+						form.submit();
+					}
+					//-->
+		  </script>
+	
+	    	    	<table width="100%">
+	                              
+	          <tbody><tr>
+	            <td class="LeftColumn" title="Your name is required.">
+	              Your name:
+	            </td>
+	            <td>
+	              <input name="created_by_alias" type="text" class="inputbox" style="width: 98%" value=""></td>
+	          </tr>
+	          	              <tr>
+	                <td class="LeftColumn">
+	                  Your email:
+	                </td>
+	                <td>
+	                  <input name="created_by_email" type="text" class="inputbox" style="width: 98%" value=""></td>
+	              </tr>
+	          	          	        	        	            <tr>
+	              <td class="LeftColumn" title="The subject is required.">
+	                Subject:
+	              </td>
+	              <td>
+	                <input name="title" type="text" class="inputbox" style="width: 98%" value=""></td>
+	            </tr>
+	        	        <tr>
+	          <td class="LeftColumn" title="The text (body) of comment is required.">
+	            Comment:
+	          </td>
+	          <td>
+	          		            	<textarea rows="8" cols="40" name="text" class="inputbox" style="width: 98%"></textarea></td>
+	        			        </tr>
+	        	
+	        	        
+	        <tr>
+							<td>
+	          </td><td>
+								<button type="button" onclick="submitbuttonyvCommentForm7810_4848('post')" class="button">
+									Post								</button>
+								<button type="button" onclick="submitbuttonyvCommentForm7810_4848('preview')" class="button">
+									Preview								</button>
+	            	          </td>
+	      	</tr>
+	  		</tbody></table>
+	   		  </form>
+	</div>
+		
+	
+	
+	
+  	<div class="PoweredBy"><a href="http://yurivolkov.com/Joomla/yvComment/index_en.html" target="_blank">yvComment v.1.21.1</a></div>
+  
+	
+</div>
+
+			
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					<div class="moduletable_menu">
+					<h3>Main Menu</h3>
+					<ul class="menu"><li class="item35"><a href="http://baltimoreorgan.com/organ/"><span>Home</span></a></li><li class="item60"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=37&amp;Itemid=60"><span>WHAT'S NEW!</span></a></li><li class="item38"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=13&amp;Itemid=38"><span>Jay's Blog</span></a></li><li class="item65"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=41&amp;Itemid=65"><span>Jay On Air</span></a></li><li class="item39"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=15&amp;Itemid=39"><span>Al's Blog</span></a></li><li class="item45"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=21&amp;Itemid=45"><span>Joe's Blog</span></a></li><li class="item41"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=41"><span>Previous Interviews</span></a></li><li class="item59"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=34&amp;Itemid=59"><span>Classic Movies</span></a></li><li class="item51"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=3&amp;Itemid=51"><span>Music</span></a></li><li class="item50"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=24&amp;Itemid=50"><span>Dates In History</span></a></li><li id="current" class="active item49"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=25&amp;Itemid=49"><span>Comedy Clip Of The Week</span></a></li><li class="item57"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=31&amp;Itemid=57"><span>Sports</span></a></li><li class="item58"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=33&amp;Itemid=58"><span>Crime</span></a></li><li class="item64"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=40&amp;Itemid=64"><span>Political Clips</span></a></li><li class="parent item52"><span class="separator"><span>What We're Reading</span></span><ul><li class="item53"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=27&amp;Itemid=53"><span>Biographies</span></a></li><li class="item54"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=28&amp;Itemid=54"><span>Non-Fiction</span></a></li><li class="item55"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=29&amp;Itemid=55"><span>Fiction</span></a></li><li class="item56"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=30&amp;Itemid=56"><span>Mystery/Thrillers</span></a></li></ul></li><li class="item31"><a href="/organ/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=31"><span>Contact Us</span></a></li><li class="item34"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=19&amp;Itemid=34"><span>Comments</span></a></li><li class="item47"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=47"><span>Editorial</span></a></li><li class="item61"><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=38&amp;Itemid=61"><span>Links</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Latest News</h3>
+					<ul class="latestnews">
+	<li class="latestnews">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1272:war&amp;catid=3:musical&amp;Itemid=51" class="latestnews">
+			WAR</a>
+	</li>
+	<li class="latestnews">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1271:the-second-battle-of-bull-run-august-28-30-1862&amp;catid=24:historicalflash&amp;Itemid=50" class="latestnews">
+			THE SECOND BATTLE OF BULL RUN AUGUST 28-30, 1862</a>
+	</li>
+	<li class="latestnews">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1269:rebroadcast-9510&amp;catid=41:jay-on-air&amp;Itemid=65" class="latestnews">
+			Rebroadcast 9/5/10</a>
+	</li>
+	<li class="latestnews">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1273:rebroadcast-9510&amp;catid=41:jay-on-air&amp;Itemid=65" class="latestnews">
+			Rebroadcast 9/12/10</a>
+	</li>
+	<li class="latestnews">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1267:are-you-experienced&amp;catid=3:musical&amp;Itemid=51" class="latestnews">
+			ARE YOU EXPERIENCED</a>
+	</li>
+	<li class="latestnews">
+		<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1266:democratic-national-convention-1968&amp;catid=24:historicalflash&amp;Itemid=50" class="latestnews">
+			DEMOCRATIC NATIONAL CONVENTION - 1968</a>
+	</li>
+</ul>		</div>
+			<div class="moduletable">
+					<h3>Comedy Clips of the Week</h3>
+					
+<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1257:the-daily-show&amp;catid=25:comedyflash&amp;Itemid=49" class="contentpagetitle">
+			The Daily Show</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/daily8.JPG" border="0" alt="daily8" width="180" height="54"></p>
+<p class="MsoNormal"><em>The Daily Show</em> highlights a few contradictions in the reporting over at Fox.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1257:the-daily-show&amp;catid=25:comedyflash&amp;Itemid=49">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1245:the-daily-show-mosque-erade&amp;catid=25:comedyflash&amp;Itemid=49" class="contentpagetitle">
+			THE DAILY SHOW – Mosque-Erade</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/daily.JPG" border="0" alt="daily" width="180" height="150"></p>
+<p class="MsoNormal"><em>The Daily Show</em> takes on the construction of the mosque – err – Community Center at Ground Zero and steps way over the line. This clip should offend many which is of course why it is funny.
+</p></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1245:the-daily-show-mosque-erade&amp;catid=25:comedyflash&amp;Itemid=49">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 			</div>
+			<div class="moduletable">
+					<h3>Sports</h3>
+					
+<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1262:cal-ripken&amp;catid=31:sports&amp;Itemid=57" class="contentpagetitle">
+			CAL RIPKEN</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/calrip.JPG" border="0" alt="calrip" width="180" height="256"></p>
+<p class="MsoNormal">Cal Ripken was born on August 24<sup>th</sup>, 1960 in Havre de Grace, Maryland.<span>&nbsp; </span>Short-Stop and 3rd baseman for the Baltimore Orioles, where he played for his entire career – Do I need to go through this? – Ripken was Rookie of the Year, collected <span>&nbsp;</span>3,184 hits, is a 19 time All-Star, (twice the MVP), a 2 time Gold Glover, 2 time AL MVP, World Series Champion and was inducted into the Baseball Hall of Fame in 2007.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1262:cal-ripken&amp;catid=31:sports&amp;Itemid=57">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1253:mickey-mantle&amp;catid=31:sports&amp;Itemid=57" class="contentpagetitle">
+			MICKEY MANTLE</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/mickeym.JPG" border="0" alt="mickeym" width="180" height="162"></p>
+<p class="MsoNormal">Mickey Mantle passed away on August 13, 1995 of liver cancer after battling alcoholism for many years. “The Mick” was a 7-time World Series Champ, 3-time league MVP, 16 -time All-Star and was inducted into the Baseball Hall of Fame in 1974.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1253:mickey-mantle&amp;catid=31:sports&amp;Itemid=57">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 			</div>
+			<div class="moduletable">
+					<h3>Classic Movies</h3>
+					
+<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			FIELD OF DREAMS		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/fdreams.JPG" border="0" alt="fdreams" width="180" height="269"></p>
+<p class="MsoNormal">Based on the novel <em>Shoeless Joe</em> by W.P. Kinsella, directed by Phil Alden Robinson and starring Kevin Costner, Amy Madigan, James Earl Jones, Burt Lancaster, Gaby Hoffman, Timothy Busfield and Ray Liotta, the film <em>Field Of Dreams</em> premiered on August 21<sup>st</sup>, 1989. Costner, a farmer in Iowa, decides to build a baseball field in the middle of his cornfield after a “voice” tells him to. The voice also sends him east to find James Earl Jones and Burt Lancaster. This puts a minor strain on Costner’s marriage and a major strain on his finances. But something magic happens on that baseball diamond once it is built. Even if you’re not a baseball fan it’s difficult not to like this movie. If you are fan – this film is a classic. This was Lancaster’s final movie.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1261:field-of-dreams&amp;catid=34:classic-movies&amp;Itemid=59">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			IN THE HEAT OF THE NIGHT		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/nightheat.JPG" border="0" alt="nightheat" width="180" height="275"></p>
+<p class="MsoNormal"><span lang="EN">Based on the John Ball novel, directed by Norman Jewison and starring Sidney Poitier and Rod Steiger, the film <em>In The Heat Of The Night</em> premiered on August 2<sup>nd</sup>, 1967. While visiting his family, Poitier, a Philadelphia homicide detective, is reluctantly pulled into a murder investigation in small town Mississippi. Just as reluctantly, Steiger, the small town police chief, realizes he needs Poitier to solve the crime – regardless of his and his fellow town members’ racism. Poitier even earns a grudging respect from Steiger by the movie’s end. At times the movie is a little dated and maybe even corny but remember this was 1967 so it is still worth the viewing. And Ray Charles does sing the title song. 
+</span></p></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1248:in-the-heat-of-the-night&amp;catid=34:classic-movies&amp;Itemid=59">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 			</div>
+	
+		</div><br>
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+				<!-- BEGIN: RIGHT COLUMN -->
+		<div id="ja-col2">
+					<div class="jamod module" id="Mod54">
+			<div>
+				<div>
+					<div>
+																		<h3 class="show"><span>Jay On Air</span></h3>
+												<div class="jamod-content">
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p>Rebroadcast of September 12,<br> 2010 "All Politics is Local"<br> radio program with Jay Liner.</p>
+<p><!-- AllVideos Reloaded Plugin (v1.2.4.1054) starts here
+--><ins><noscript></noscript></ins></p><div style="background-color:red;color:white;width:160px"><strong>JavaScript is disabled!</strong><br>To display this content, you need a JavaScript capable browser.</div><span id="avreloaded0" class="allvideos"><ins><div id="warnflashavreloaded0" style="background-color:red;color:white;width:160px;visibility:hidden"><strong>Adobe Flash Player not installed or older than 9.0.115!</strong><br><a href="http://www.adobe.com/go/getflashplayer" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;"><img src="/organ/plugins/content/avreloaded/160x41_Get_Flash_Player.jpg" alt="Get Adobe Flash Player here" style="border:0"></a></div></ins></span><script type="text/javascript">
+swfobject.embedSWF('/organ/plugins/content/avreloaded/mediaplayer.swf','avreloaded0','300','20','9.0.115','/organ/plugins/content/avreloaded/expressinstall.swf',
+{file:'http://baltimoreorgan.com/organ/images/stories/audio/9_12_10.mp3',width:'300',height:'20',showeq:'false',searchbar:'false',enablejs:'false',autostart:'false',showicons:'true',showstop:'false',showdigits:'true',
+showdownload:'false',usefullscreen:'false',backcolor:'0xFFFFFF',frontcolor:'0x000000',
+lightcolor:'0x000000',screencolor:'0x000000',overstretch:'false'}
+,{allowscriptaccess:'always',seamlesstabbing:'true',allowfullscreen:'true',wmode:'window',bgcolor:'#FFFFFF',menu:'true'},
+{id:'p_avreloaded0',styleclass:'allvideos'});
+</script><script type="text/javascript">window.addEvent("load",function(){var s = "warnflashavreloaded0"; if ($(s)){$(s).setOpacity(1);}});</script><!--
+AllVideos Reloaded Plugin (v1.2.4.1054) ends here --><p></p></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       		</td>
+     </tr>
+</tbody></table>
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="jamod module" id="Mod43">
+			<div>
+				<div>
+					<div>
+																		<h3 class="show"><span>Dates In History</span></h3>
+												<div class="jamod-content">
+<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1271:the-second-battle-of-bull-run-august-28-30-1862&amp;catid=24:historicalflash&amp;Itemid=50" class="contentpagetitle">
+			THE SECOND BATTLE OF BULL RUN AUGUST 28-30, 1862</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/bull21.JPG" border="0" alt="bull21" width="180" height="267"><span>&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp; </span><img src="http://baltimoreorgan.com/organ/images/stories/bull23.JPG" border="0" alt="bull23" width="180" height="268"></p>
+<p><em><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Gen. Robert E. Lee<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp; </span>Gen. George B. McClellan<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></em></p>
+<p>If you’ve ever pondered the impact of generals on battles – their personalities, mind-set and psychology - The Second Battle of Bull Run is a treasure trove of empirical evidence.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1271:the-second-battle-of-bull-run-august-28-30-1862&amp;catid=24:historicalflash&amp;Itemid=50">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1266:democratic-national-convention-1968&amp;catid=24:historicalflash&amp;Itemid=50" class="contentpagetitle">
+			DEMOCRATIC NATIONAL CONVENTION - 1968</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/demcon1.JPG" border="0" alt="demcon1" width="180" height="233"></p>
+<p class="MsoNormal" style="margin-right: 7.5pt; ">The Democratic National Convention opened in Chicago on August, 26, 1968 and conflict immediately erupted both on the Convention floor and out on the streets of Chicago. Inside the International Amphitheater a line was quickly drawn between hawks and doves concerning the handling of the Vietnam War and the party platform. Outside orchestrated demonstrations against the war quickly turned violent when Chicago Police and the Illinois National Guard were called in to quell the demonstrations. Stuck in the middle was then Chicago Mayor Richard Daley, known for his iron fist grip on the city, who hoped to showcase Chicago with the Convention. Unfortunately what many of us remember of this event was the rioting in the streets and not the debate on the Convention floor. Just one more traumatic event in a year filled with turmoil.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1266:democratic-national-convention-1968&amp;catid=24:historicalflash&amp;Itemid=50">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="jamod module" id="Mod26">
+			<div>
+				<div>
+					<div>
+																		<h3 class="show"><span>Music</span></h3>
+												<div class="jamod-content">
+<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1272:war&amp;catid=3:musical&amp;Itemid=51" class="contentpagetitle">
+			WAR</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/edwin.JPG" border="0" alt="edwin" width="180" height="176"></p>
+<p class="MsoNormal"><span lang="EN">The #1 song this week in 1970 was <em>War</em> by Edwin Starr. Written by Norman Whitfield and Barrett Strong in 1969, and then recorded – kind of - by The Temptations – the song struck a chord during the Vietnam War. Edwin Starr then made the song “his” and it’s now an anthem. Bruce Springsteen and others have “borrowed” the song over the last 40 years.  
+</span></p></td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1272:war&amp;catid=3:musical&amp;Itemid=51">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			<a href="/organ/index.php?option=com_content&amp;view=article&amp;id=1267:are-you-experienced&amp;catid=3:musical&amp;Itemid=51" class="contentpagetitle">
+			ARE YOU EXPERIENCED</a>
+		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/jimexp.JPG" border="0" alt="jimexp" width="180" height="181"></p>
+<p class="MsoNormal">Jimi Hendrix’s debut album with Noel Redding and Mitch Mitchell, <em>Are You Experienced,</em> was released in the US on August 23, 1967. The album was recorded in England – Jimi had gone there to launch his career – and includes <em>Purple Haze, Foxey Lady </em>and <em>Hey Joe</em> and the electric guitar never sounded the same again.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1267:are-you-experienced&amp;catid=3:musical&amp;Itemid=51">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="jamod module" id="Mod47">
+			<div>
+				<div>
+					<div>
+																		<h3 class="show"><span>Crime</span></h3>
+												<div class="jamod-content">
+<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			WILD BILL HICKOK		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/wildbill.JPG" border="0" alt="wildbill" width="180" height="270"></p>
+<p class="MsoNormal">On August 2<sup>nd</sup>, 1876, James Butler “Wild Bill” Hickok was shot and killed while playing poker in a saloon in Deadwood,<span>&nbsp; </span>located in the Dakota Territory. Prior to his final stop in Deadwood, he’d been a Union soldier during the Civil War, specifically as a scout and a marksman. After the war he became a stagecoach driver and then a lawman in Nebraska and Kansas. After turning in his badge Hickcok had toured the East with Buffalo Bill and after giving an interview with Harper’s magazine was now famous as a gunslinger – Wild Bill claiming that he had killed at least 100 men. If the number seems preposterous, it should be noted no one argued with Hickok’s claim.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=1235:wild-bill-hickok&amp;catid=33:crime&amp;Itemid=58">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	<table class="contentpaneopen">
+<tbody><tr>
+	<td class="contentheading" width="100%">
+			PUBLIC ENEMY #1		</td>
+</tr>
+</tbody></table>
+
+
+
+<table class="contentpaneopen">
+	<tbody><tr>
+		<td valign="top"><p><img src="http://baltimoreorgan.com/organ/images/stories/dillin.JPG" border="0" alt="dillin" width="180" height="304"></p>
+<p class="MsoNormal"><em><span lang="EN">(From our Crime section archives)</span></em></p>
+<p class="MsoNormal">On the very warm Chicago evening of July 22, 1934 John Dillinger exited the Biograph Theater after watching “Manhattan Melodrama”, (a gangster movie), starring Clark Gable, William Powell and Myrna Loy. With Dillinger was his new girlfriend, Polly Hamilton, and her “landlady” Anna Sage—“The Lady in Red”—who was really dressed in orange that evening.</p>
+</td>
+	</tr>
+	<tr>
+        <td valign="top">
+
+       <a class="readmore" href="/organ/index.php?option=com_content&amp;view=article&amp;id=393:public-enemy-1&amp;catid=33:crime&amp;Itemid=58">Read more...</a>		</td>
+     </tr>
+</tbody></table>
+		<span class="article_separator">&nbsp;</span>
+ 	</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		</div><br>
+		<!-- END: RIGHT COLUMN -->
+		
+	</div>
+	</div>
+</div>
+</div>
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div id="ja-footnav">
+		<ul id="mainlevel-nav"><li><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=25&amp;Itemid=49" class="mainlevel-nav">Home</a></li><li><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=36" class="mainlevel-nav">Previous Interviews</a></li><li><a href="/organ/index.php?option=com_contact&amp;Itemid=18" class="mainlevel-nav">Contact Us</a></li><li><a href="/organ/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=37" class="mainlevel-nav">Editorial</a></li></ul>
+	</div>
+
+	<div class="copyright">
+		Copyright © 2010 The Baltimore Organ News Blog<br>Website By <a href="http://hudsondata.net">Hudson Data
+	</a></div><a href="http://hudsondata.net">
+
+	</a><div class="ja-cert"><a href="http://hudsondata.net">
+		
+    </a><a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="http://baltimoreorgan.com/organ/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS">
+		</a>
+		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
+		<img src="http://baltimoreorgan.com/organ/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional">
+		</a>
+	</div>
+
+	<br>
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+
+
+
+
+
+
+</body></html>

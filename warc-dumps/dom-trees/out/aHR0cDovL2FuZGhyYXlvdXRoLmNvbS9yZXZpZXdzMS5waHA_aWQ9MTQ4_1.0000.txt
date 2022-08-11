@@ -1,0 +1,646 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Takita Takita</title>
+<link href="css.css" rel="stylesheet" type="text/css">
+
+<!-- Google Analytics Code   -->
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17978834-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+</head>
+
+<body onload="runImages(); runImagesr();runFunctionsr();">
+<table width="935" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="top"><table width="935" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td height="15"></td>
+      </tr>
+    </tbody></table><table width="935" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="223" valign="top"><a href="index.php" class="mnews"><img src="images/andhrayouth_logo.jpg" width="223" height="119" border="0"></a></td>
+    <td width="712" valign="top"><table border="0"><tbody><tr><td width="470" height="65">
+	</td>
+    <td width="232">
+    
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><div align="right" class="toplinks">
+          <div align="center"><a href="index.php" class="toplinks">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="radio.php" class="toplinks">Live Radio</a> &nbsp;&nbsp; |&nbsp;&nbsp; <a href="livetv.php" class="toplinks">Live TV</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="tlg_comedy.php?var=c" class="toplinks">Comedy</a> &nbsp;&nbsp;</div>
+        </div></td>
+</tr><tr>
+        <td height="20" align="right" width="12%">
+        
+        <div class="toplinks" align="right">
+		  <div align="center"><a href="aboutus.php" class="toplinks">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		        <a href="http://www.andhrayouth.com/astrology" class="toplinks">Astrology</a> &nbsp;&nbsp;|&nbsp;&nbsp; <span class="toplinks" align="right"><a href="login.php" class="toplinks" align="left">Login</a></span> &nbsp;&nbsp;|&nbsp;&nbsp; <span class="toplinks">
+		              <a href="register.php" class="toplinks">I am new</a></span></div>
+        </div> 
+        </td>
+      </tr>
+    </tbody></table> </td></tr></tbody></table>
+        <table width="712" border="0" cellspacing="0" cellpadding="0">
+<!--          <tr>
+            <td height="5"></td>
+          </tr> -->
+        </table>
+      <table width="712" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="12" height="42">&nbsp;</td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="news.php?var=f&amp;var1=n&amp;scr=y" class="buttion">News</a></div></td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="movies.php?var=s&amp;var1=g&amp;var2=n" class="buttion">Movies</a></div></td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="reviews.php" class="buttion">Reviews</a></div></td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="videos.php" class="buttion">Videos</a></div></td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="gallery.php" class="buttion">Gallery</a></div></td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="wallpapers.php" class="buttion">Wallpapers</a></div></td>
+            <td width="100" background="images/buttion.jpg"><div align="center" class="buttion"><a href="articles.php" class="buttion">Articles</a></div></td>
+          </tr>
+      </tbody></table>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td><table border="0" width="100%">
+            
+            <tbody><tr><td width="84%" valign="top"><marquee id="emarquee" direction="left" onmouseover="this.scrollAmount=0" onmouseout="this.scrollAmount=3" scrollamount="2">
+ 
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9593&amp;typ=news" class="mnews1">జగన్ లు వస్తుంటారు.. పోతుంటారు!</a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9592&amp;typ=news" class="mnews1">జగన్ కు మరో 2రోజుల విశ్రాంతి..! </a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9590&amp;typ=gossips" class="mnews1220">అనుష్క గురించి ట్విట్ చేసిన నాగ్</a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9589&amp;typ=news" class="mnews1">బాబ్రీ తీర్పుపై పాతబస్తీలో టెన్షన్ </a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9588&amp;typ=news" class="mnews1">అయోధ్య వాసుల్లో టెన్షన్.. టెన్షన్...! </a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9587&amp;typ=news" class="mnews1">ఆయుధాబాద్ గా హైదరాబాద్</a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9584&amp;typ=gossips" class="mnews1220">రమ్మంటే రానంటూ.. గిల్లుతుందట!</a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9583&amp;typ=gossips" class="mnews1220">నమ్రత ...నేను..: మహేష్   </a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9580&amp;typ=scoops" class="mnews1222">విలీనమా? విమోచనా? విద్రోహమా?</a>
+
+
+
+<img src="images/icon1.jpg" width="6" height="5">&nbsp;&nbsp;
+
+<a href="telugu/view_news.php?id=9578&amp;typ=news" class="mnews1">లాయర్ల దీక్ష భగ్నం</a>
+
+</marquee></td>
+<td width="16%" valign="top"><a href="telugu/index.php" align="right"><img src="images/telugu.gif" border="0"> </a></td></tr></tbody></table>
+
+</td></tr></tbody></table></td></tr></tbody></table>            <table width="935" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="4" height="4"><img src="images/mcor.jpg" width="4" height="4"></td>
+          <td width="927" background="images/mbg.jpg"></td>
+          <td width="4"><img src="images/mcor1.jpg" width="4" height="4"></td>
+        </tr>
+      </tbody></table>
+      <table width="935" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><table width="935" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td width="1" background="images/dot.jpg"><img src="images/dot.jpg" width="1" height="1"></td>
+              <td height="891" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td height="7"></td>
+                </tr>
+              </tbody></table>
+                <table width="918" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td width="155" height="280" valign="top"><script language="JavaScript" type="text/javascript" src="vslideshow.php"></script>
+<script language="JavaScript" type="text/javascript" src="mslideshow.php"></script>
+<script language="JavaScript" type="text/javascript" src="slideShow.php"></script>
+<script language="JavaScript" type="text/javascript">
+var counter = 0;
+var counter7 = 0;
+var counter8 = 0;
+var showImageFor = 2; //seconds
+
+function vslideshow(){
+  if(counter7 == images1.length){
+    counter7 = 0;
+  }
+ 
+  document.images.videoCotainer.src = images1[counter7];
+  document.getElementById('imgvideo').href="videosview.php?id="+imgid1[counter7];
+  counter7++;
+}
+function mslideshow(){
+ 
+  if(counter8 == images2.length){
+    counter8 = 0;
+  }
+  	document.images.imageCotainer1.src = images2[counter8];
+    document.getElementById('imgfunc').href="functionview.php?id="+imgid2[counter8];
+
+  counter8++;
+}
+
+function showImage(){
+  if(counter == images.length){
+    counter = 0;
+  }
+  document.images.imageCotainer.src = images[counter];
+  document.getElementById('imghot').href="galleryview.php?id="+imgid[counter];
+  counter++;
+}
+
+function runImagesr(){
+  milliseconds = showImageFor * 1000;
+  setInterval("vslideshow()", milliseconds);
+}function runFunctionsr(){
+  milliseconds = showImageFor * 1000;
+  setInterval("mslideshow()", milliseconds);
+}
+function runImages(){
+  milliseconds = showImageFor * 1000;
+  setInterval("showImage()", milliseconds);
+}
+function valid()
+{
+
+	var myOption = -1;
+	var x=(document.frmpoll.pollid.length)-1;var i;
+	
+for (i=x;  i> -1;  i--)
+{
+
+if (document.frmpoll.pollid[i].checked) {
+myOption = i; i = -1;
+}
+}
+if (myOption == -1) {
+alert("You must select a radio button");
+return false;
+}
+
+
+
+	document.frmpoll.submit();
+}
+</script>
+
+   
+<table width="155" border="0" cellpadding="0" cellspacing="1" bgcolor="#e7e8e8">
+  <tbody><tr>
+    <td height="23" bgcolor="#a3ebff" class="movie">&nbsp;&nbsp;Categories</td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="movies.php?var=s&amp;var1=g&amp;var2=n" class="text">Movies</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="news.php?var=pol" class="text">Politics</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="news.php?var=b" class="text">Business</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="news.php?var=p" class="text">Sports</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="news.php?var=a" class="text">General</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="news.php?var=h" class="text">Health &amp; Beauty</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="13%"><div align="center"><img src="../telugu/images/icon1.jpg" width="6" height="5"></div></td>
+        <td width="87%" class="text"><a href="news.php?var=f&amp;var1=t" class="text">24X7 News</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+
+</tbody></table>
+<table width="155" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="9"></td>
+  </tr>
+</tbody></table>
+<table width="155" border="0" cellpadding="0" cellspacing="1" bgcolor="#e7e8e8">
+  <tbody><tr>
+    <td height="23" bgcolor="#a3ebff" class="movie">&nbsp;&nbsp;<a href="hotbabes.php" class="movie">Sizzlers</a> </td>
+  </tr>
+  <tr>
+    <td height="125" bgcolor="#FFFFFF"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="212"><div align="center"><a href="hotbabes.php" id="imghot" name="imghot"><img src="photogallery/1284635532-anjali_1s.jpg" name="imageCotainer" id="imageContainer" width="120" height="181" border="0"></a></div></td>
+      </tr>
+   
+    </tbody></table></td>
+  </tr>
+
+</tbody></table>
+<table width="155" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="9"></td>
+  </tr>
+</tbody></table>
+<table width="155" border="0" cellpadding="0" cellspacing="1" bgcolor="#e7e8e8">
+  <tbody><tr>
+    <td height="23" bgcolor="#a3ebff" class="movie">&nbsp;&nbsp;Opinion Poll </td>
+  </tr>
+  <tr>
+    <td height="125" bgcolor="#FFFFFF">
+        
+    
+	 <form name="frmpoll" method="post" action="" onsubmit="return valid();">
+     <input type="hidden" name="todate" id="todate" value="1284699600">
+	<table width="146" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="41" class="poll">With RBI approving mobile banking, do you think mobiles will replace debit cards? </td>
+      </tr>
+    </tbody></table>
+        <table width="146" border="0" align="center" cellpadding="0" cellspacing="0">
+				 	  <input type="hidden" name="pid" value="55">
+				                      <tbody><tr>
+                      <td width="24" height="27">
+				
+					  <input name="pollid" type="radio" class="text" value="271"></td>
+                      <td width="122" class="red">Yes</td>
+                    </tr>
+					                    <tr>
+                      <td width="24" height="27">
+				
+					  <input name="pollid" type="radio" class="text" value="272"></td>
+                      <td width="122" class="red">No </td>
+                    </tr>
+					                    <tr>
+                      <td width="24" height="27">
+				
+					  <input name="pollid" type="radio" class="text" value="273"></td>
+                      <td width="122" class="red">Can't say</td>
+                    </tr>
+					                    
+        </tbody></table>
+      
+                  <table width="146" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td width="71" height="31"><div align="center"><a href="#" onclick="return valid();" class="movie">Submit</a></div></td>
+                      <td width="75" class="results"><div align="center"><a href="popup.php?pid=55" class="results">View Results</a></div></td>
+                    </tr>
+                  </tbody></table>
+	  </form>
+    </td>
+  </tr>
+</tbody></table>
+<table width="155" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="9"></td>
+  </tr>
+</tbody></table>
+
+</td>
+                    <td width="12">&nbsp;</td>
+                    <td width="584" valign="top"><table width="584" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td height="23" bgcolor="#f9dd8a" class="mnews">&nbsp;&nbsp;<a class="mnews" href="index.php">Home</a> » <a class="mnews" href="reviews.php">Reviews</a></td>
+                      </tr>
+                    </tbody></table>
+                      <table width="576" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                          <td height="35" class="red"><strong>Takita Takita</strong></td>
+                        </tr>
+                      </tbody></table>
+                      <table width="576" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                          <td colspan="2" bgcolor="#FFFFFF">
+                                </td>
+                          </tr>
+                                                <tr>
+                          <td width="275"><img src="uploads/1283513471-thakita_bigimage.jpg" width="262" height="196"></td>
+                          <td width="301" valign="top"><p class="text"><strong>Film: Takita Takita<br>
+                            Rating: 2.75/5</strong><br>
+                            <strong>Banner:</strong> Downtown Films<br>
+                            <strong>Cast:</strong> Harshavardhan Rane, Trinetrudu, Haripriya, Aditi, Eva, Bhakti, Cochin Haneefa, M S Narayana, Bhumika, Samrat, Siva Prasad, Waheeda, Biju Menon, Nagarjuna and Anushka (guest appearance) etc<br>
+                            <strong>Music:</strong> Bobo Shashi<br>
+                            <strong>Cinematography:</strong> K K Senthil<br>
+                            <strong>Director:</strong> Srihari Nanu<br>
+                            <strong>Producer:</strong> Bharat Thakur, Bhumika<br>
+                            <strong>Released On:</strong> 03/09/2010</p>
+                            </td>
+                        </tr>
+						                      </tbody></table>
+                      <table width="576" border="0" cellpadding="0" cellspacing="0" class="text">
+                        <tbody><tr>
+                          <td class="text"> <div align="justify"><p><br>
+A youthful treat, the story begins with a group of friends Sridhar (Harshavardhan), Chandana (Haripriya), Nandini (Aditi), Mahesh (Trinetrudu), Bhakti (Bhakti), Jessica (Eva), Kishore, Scud.Each of them have their own stories and in between that is the unexpressed love track of Sri and Chandana, Bhakti and Mahesh, Nandini is in love with Kishore.<br>
+&nbsp;<br>
+They all finish their college exams and are all set to take on the life with full energy but then life has its own twists and turns for them and this in turn gives them an experience which is unforgettable and memorable. What are those experiences? Who has a happy ending and who doesn’t forms the rest of the story..<br>
+&nbsp;<br>
+Harshavardhan looks handsome and he has performed well in the dance front and emotional sequences. He has a glint of mischief in his eyes which will make him a youth icon if he chooses his roles well in the future.Haripriya is the best among the lot. She scores the brownie points with her naturally beautiful looks, her graceful dance moves, her innocent expressions and versatility in different scenes.<br>
+&nbsp;<br>
+Aditi was alright, Bhakti was energetic and looks dynamic, Trinetrudu was natural and does his bit well, the actor doing the role of Scud had a funny face and he makes his presence felt, the actor who did the role of Kishore was alright, Eva’s role was not etched well.Bhumika is looking younger by the day, she is glowing as usual, Samrat was brief but<br></p><p align="right">Page(s):1&nbsp;<a href="reviews1.php?id=148&amp;PGID=1">2</a>&nbsp;<br></p></div>
+                            </td>
+                        </tr>
+                      </tbody></table>
+                      <table width="584" border="0" cellspacing="1" cellpadding="0">
+                        <tbody><tr>
+                          <td height="23" bgcolor="#edfbff" class="news1">&nbsp;&nbsp;Related Review(s):</td>
+                        </tr>
+                      </tbody></table>
+                      <table width="566" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                          <td class="articles">  	•&nbsp;&nbsp;
+					  <a href="reviews1.php?id=151" class="articles">Dabangg</a>
+					  <br>  	•&nbsp;&nbsp;
+					  <a href="reviews1.php?id=150" class="articles">We Are Family</a>
+					  <br>  	•&nbsp;&nbsp;
+					  <a href="reviews1.php?id=149" class="articles">Komaram Puli</a>
+					  <br>  	•&nbsp;&nbsp;
+					  <a href="reviews1.php?id=147" class="articles">Gaayam 2</a>
+					  <br>                             </td>
+                        </tr>
+						
+						 
+						<!--<tr>
+                         <td height="30" class="mnews"><div align="justify">
+						<br />
+                      <br />
+						
+                     </div> </td>  </tr>-->
+                     
+                     
+                     <tr>
+                         
+                          <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                              <td height="25" valign="bottom"><div align="justify" class="mnews"><span class="news3">(0)&nbsp;&nbsp;Comments<br>
+                              </span></div></td>
+                            </tr>
+                          </tbody></table>
+                            <form name="cmt" method="post" action="" onsubmit="return valiDateLogin();">
+                             <input type="hidden" name="tid" value="148">
+                          <table width="100%" border="0" cellpadding="4" bgcolor="#edfbff">
+                        <tbody><tr>
+                          <td wwidth="20%" class="mnews">Name </td> <td width="2%">:</td>
+                        <td width="78%"><input type="text" name="uname" size="32">  </td>                        
+                         </tr>
+                         <tr>
+                          <td class="mnews">Email-Id  </td> <td>:</td>
+                        <td><input type="text" name="mail" size="32">  </td>                        
+                         </tr>
+                         <tr>
+                          <td class="mnews">Comments</td> <td>:</td>
+                        <td><textarea name="descp" rows="2" cols="25"> </textarea> </td>                        
+                         </tr>
+                         
+                         <tr>
+                          <td></td> <td></td>
+                        <td><input type="submit" name="submit" value="Submit"></td>                        
+                         </tr>
+                     </tbody></table>
+                     </form>                     </td>  </tr>
+                     
+						
+                      </tbody></table></td>
+                    <td width="12" valign="top">&nbsp;</td>
+                    <td width="155" valign="top">
+<table width="155" border="0" cellpadding="0" cellspacing="1" bgcolor="#e7e8e8">
+  <tbody><tr>
+    <td height="23" bgcolor="#a3ebff" class="movie">&nbsp;&nbsp;Videos</td>
+  </tr>
+  <tr>
+    <td height="125" bgcolor="#FFFFFF"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><div align="center">
+		<a href="videos.php" id="imgvideo" name="imgvideo"><img src="images/videos.jpg" name="videoCotainer" id="videoCotainer" width="120" height="90" border="0"></a></div></td>
+      </tr>
+    <!--  <tr>
+        <td><div align="center" class="red"><strong>Holidays Trailers</strong></div></td>
+      </tr>-->
+    </tbody></table></td>
+  </tr>
+ <!-- <tr>
+    <td height="15" bgcolor="#dedede"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="26%" height="15"></td>
+        <td width="12%" bgcolor="#fee496" class="text"><div align="center">1</div></td>
+        <td width="10%" bgcolor="#FFFFFF" class="text"><div align="center">2</div></td>
+        <td width="11%" bgcolor="#FFFFFF" class="text"><div align="center">3</div></td>
+        <td width="11%" bgcolor="#FFFFFF" class="text"><div align="center">4</div></td>
+        <td width="9%" bgcolor="#FFFFFF" class="text"><div align="center">5</div></td>
+        <td width="21%" bgcolor="#FFFFFF" class="text"><div align="center">Next</div></td>
+      </tr>
+    </table></td>
+  </tr>-->
+</tbody></table>
+<table width="155" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="11"></td>
+  </tr>
+</tbody></table>
+<table width="155" border="0" cellpadding="0" cellspacing="1" bgcolor="#e7e8e8">
+  <tbody><tr>
+    <td height="23" bgcolor="#a3ebff" class="movie">&nbsp;&nbsp;Movie Functions</td>
+  </tr>
+  <tr>
+    <td height="125" bgcolor="#FFFFFF"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+       <tbody><tr>
+        <td height="109"><div align="center"><a href="moviefunctions.php" id="imgfunc" name="imgfunc"><img src="images/movie_function.jpg" name="imageCotainer1" id="imageContainer1" width="145" height="100" border="0"></a></div></td>
+      </tr>
+     <!-- <tr>
+        <td><div align="center" class="red"><strong>Inko Sari Pressmeet</strong></div></td>
+      </tr>-->
+    </tbody></table></td>
+  </tr>
+  <!--<tr>
+    <td height="15" bgcolor="#dedede"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="26%" height="15"></td>
+        <td width="12%" bgcolor="#fee496" class="text"><div align="center">1</div></td>
+        <td width="10%" bgcolor="#FFFFFF" class="text"><div align="center">2</div></td>
+        <td width="11%" bgcolor="#FFFFFF" class="text"><div align="center">3</div></td>
+        <td width="11%" bgcolor="#FFFFFF" class="text"><div align="center">4</div></td>
+        <td width="9%" bgcolor="#FFFFFF" class="text"><div align="center">5</div></td>
+        <td width="21%" bgcolor="#FFFFFF" class="text"><div align="center">Next</div></td>
+      </tr>
+    </table></td>
+  </tr>-->
+</tbody></table>
+<table width="155" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="11"></td>
+  </tr>
+</tbody></table>
+<table width="155" border="0" cellpadding="0" cellspacing="1" bgcolor="#e7e8e8">
+  <tbody><tr>
+    <td height="23" bgcolor="#a3ebff" class="movie">&nbsp;&nbsp;Ads </td>
+  </tr>
+  <tr>
+    <td height="125" bgcolor="#FFFFFF"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td><div align="center"><a href="http://www.reddysinfotech.com" target="_blank" class="mnews"><img src="images/reddysinfotech.gif" width="145" height="65" border="0"></a></div></td>
+      </tr>
+      <tr>
+        <td height="10"></td>
+      </tr>
+      
+      <tr>
+        <td><div align="center"><a href="http://www.webdesignerhyderabad.com" target="_blank" class="mnews"><img src="images/webdesigner.gif" width="145" height="65" border="0"></a></div></td>
+      </tr>
+      
+      <tr>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td height="10"><!--<script type="text/javascript"><!--
+google_ad_client = "pub-5715832625496653";
+/* 160x600, created 2/6/10 */
+google_ad_slot = "5351701986";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+<!--</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> --></td>
+      </tr>
+    <!--  <tr>
+        <td><div align="center"><a href="http://www.ecards4ever.com/" target="_blank" class="mnews"><img src="images/ecards4ever.gif" width="145" height="65" border="0" /></a></div></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>-->
+   <!--  <tr>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td><img src="images/pillar-isha3.gif" width="145" height="65" /></td>
+      </tr>
+      <tr>
+        <td height="11"></td>
+      </tr>
+      <tr>
+        <td><img src="images/pillar-rc2.gif" width="145" height="65" /></td>
+      </tr>
+      <tr>
+        <td height="9"></td>
+      </tr>-->
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+</td>
+                  </tr>
+                </tbody></table></td>
+              <td width="1" background="images/dot.jpg"><img src="images/dot.jpg" width="1" height="1"></td>
+            </tr>
+          </tbody></table></td>
+        </tr>
+      </tbody></table>
+<table width="935" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="4" height="4"><img src="images/mcor2.jpg" width="4" height="4"></td>
+<td width="927" background="images/mbg1.jpg"></td>
+<td width="4"><img src="images/mcor3.jpg" width="4" height="4"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td> <table width="935" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td height="17"></td>
+        </tr>
+      </tbody></table>
+            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#52656b">
+        <tbody><tr>
+          <td height="44"><div align="center" class="copy">
+            <div align="center">Copyright © 2008 Andhrayouth.com. All Rights Reserved.&nbsp;&nbsp;<a href="aboutus.php" class="toplinks123">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="advertisewithus.php" class="toplinks123">Advertise with Us
+</a></div>
+          </div></td>
+        </tr>
+      </tbody></table></td>
+</tr>
+</tbody></table>
+
+
+</body></html>

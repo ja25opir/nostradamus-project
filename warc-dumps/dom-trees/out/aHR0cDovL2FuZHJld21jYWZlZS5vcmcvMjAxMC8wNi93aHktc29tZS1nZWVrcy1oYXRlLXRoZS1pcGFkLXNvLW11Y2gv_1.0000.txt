@@ -1,0 +1,457 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Why Some Geeks Hate the iPad So Much</title>
+<meta name="robots" content="noodp, noydir">
+<meta name="description" content="My last post about the iPad, intellectual property, and the right to exclude was spurred by a Cory Doctorow post. I’ve been looking around at some other recent writing about the iPad, iPhone, iTunes, App Store, and other elements of">
+<link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/style.css?071610-11944" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/custom/layout.css?081610-94522" type="text/css" media="screen, projection">
+<!--[if lte IE 8]><link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/lib/css/ie.css?071610-11933" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://andrewmcafee.org/wp-content/themes/thesis/custom/custom.css?082310-133131" type="text/css" media="screen, projection">
+<link rel="canonical" href="http://andrewmcafee.org/2010/06/why-some-geeks-hate-the-ipad-so-much/">
+<link rel="alternate" type="application/rss+xml" title="Andrew McAfee's Blog RSS Feed" href="http://andrewmcafee.org/feed/">
+<link rel="pingback" href="http://andrewmcafee.org/xmlrpc.php">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://andrewmcafee.org/xmlrpc.php?rsd">
+				
+	<!-- Google Analytics for WordPress by Yoast v4.0 | http://yoast.com/wordpress/google-analytics/ -->
+	<script type="text/javascript">//<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-7140989-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+	<!-- End of Google Analytics for WordPress by Yoast v4.0 -->
+<link rel="alternate" type="application/rss+xml" title="Andrew McAfee's Blog » Why Some Geeks Hate the iPad So Much Comments Feed" href="http://andrewmcafee.org/2010/06/why-some-geeks-hate-the-ipad-so-much/feed/">
+<script type="text/javascript" src="http://andrewmcafee.org/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<link rel="stylesheet" href="http://disqus.com/stylesheets/andrewmcafee/disqus.css?v=2.0" type="text/css" media="screen"><link rel="shortcut icon" href="http://andrewmcafee.org/favicon.ico" type="image/x-icon"><!-- Favi -->
+</head>
+<body class="custom">
+<div id="header_area" class="full_width">
+<div class="page">
+	<div id="header">
+  <a href="http://andrewmcafee.org/" id="photo">Photo of Andrew McAfee</a>  
+  <form method="get" id="searchform" action="http://andrewmcafee.org/"> 
+    <input type="text" id="query" value="" name="s">
+    <button type="submit" id="submit" name="submit">Search</button>
+  </form>
+  <div id="headlinks"> 
+    <ul style="align:right;" id="nav">
+      <li id="menu_home"><a href="/">Home</a></li>
+      <li id="menu_blog"><a href="/blog/">Blog</a></li> 
+      <li id="menu_about"><a href="/about/">About</a></li> 
+  		<li id="menu_rss"><a href="http://andrewmcafee.org/feed/">RSS</a></li> 
+  	</ul> 
+  </div>
+		<p id="logo"><a href="http://andrewmcafee.org">Andrew McAfee's Blog</a></p>
+		<p id="tagline">The Business Impact of IT</p>
+	</div>
+</div>
+</div>
+<div id="content_area" class="full_width">
+<div class="page">
+	<div id="content_box">
+		<div id="content" class="hfeed">
+
+			<div class="post-1647 post type-post hentry category-uncategorized post_box top" id="post-1647">
+				<div class="headline_area">
+  <div style="float:right;margin:0 10px 10px 10px;">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  </div>
+					<h1 class="entry-title">Why Some Geeks Hate the iPad So Much</h1>
+					<p class="headline_meta">by <span class="author vcard fn">Andrew McAfee</span> on <abbr class="published" title="2010-06-22">June 22, 2010</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p><a href="../2010/06/my-ipad-a-great-bundle-of-sticks/">My last post</a> about the iPad, intellectual property, and the right to exclude was spurred by <a href="http://boingboing.net/2010/04/02/why-i-wont-buy-an-ipad-and-think-you-shouldnt-either.html">a Cory Doctorow post</a>. I’ve been looking around at some other recent writing about the iPad, iPhone, iTunes, App Store, and other elements of what I’ll call the iCosystem: the hardware, software, and content delivery networks overseen by Apple. And while a lot of what I’ve read has been favorable to the company, some of the writing by some prominent folk has not. In fact, I came across a mix of vitriol, hyperbole, contempt, and alarmism that I at first found bizarre.</p>
+<p>Here’s vitriol and hyperbole, in <a href="http://www.tbray.org/ongoing/When/201x/2010/03/15/Joining-Google">a post by Tim Bray about going to work for Google</a>:</p>
+<blockquote><p>The iPhone vision of the mobile Internet’s future omits controversy, sex, and freedom, but includes strict limits on who can know what and who can say what. It’s a sterile Disney-fied walled garden surrounded by sharp-toothed lawyers. The people who create the apps serve at the landlord’s pleasure and fear his anger.</p>
+<p>I hate it.</p>
+<p>I hate it even though the iPhone hardware and software are great, because freedom’s not just another word for anything, nor is it an optional ingredient.</p></blockquote>
+<p>Here’s contempt from the <a href="http://www.boingboing.net/2010/04/02/why-i-wont-buy-an-ipad-and-think-you-shouldnt-either.html">Doctorow post</a>:</p>
+<blockquote><p>The model of interaction with the iPad is to be a “consumer,” what William Gibson memorably described as “something the size of a baby hippo, the color of a week-old boiled potato, that lives by itself, in the dark, in a double-wide on the outskirts of Topeka. It’s covered with eyes and it sweats constantly. The sweat runs into those eyes and makes them sting. It has no mouth… no genitals, and can only express its mute extremes of murderous rage and infantile desire by changing the channels on a universal remote.”</p></blockquote>
+<p>And here’s alarmism (and some more hyberbole), from a &nbsp;<a href="http://www.law.harvard.edu/news/2010/02/04-zittrain-apple.html">Financial Times editorial by Jonathan Zittrain</a></p>
+<blockquote><p>Mr Jobs ushered in the personal computer era and now he is trying to usher it out. We should focus on preserving our freedoms, even as the devices we acquire become more attractive and easier to use.</p></blockquote>
+<p>Seriously, isn’t all this a bit over the top? The iCosystem puts our freedom at risk because applications have to go through Apple’s review process before they can be loaded onto devices? Or because I can’t use my iPad to endlessly copy and forward books I buy from Amazon and comics I buy from Marvel (in other words, I can’t participate in the theft of intellectual property?)?</p>
+<p>As I and many others have pointed out, the iCosystem’s devices all come equipped with fully-functional Web browsers (albeit without Flash support), and so make all the Web’s content available. Users also have access to <a href="http://www.pcworld.com/article/194488/atomic_web_a_better_ipad_browser.html">browsers made by other organizations</a>. So it’s very hard for me to see how Apple is trying to cut its users off from the Web, or drive a wedge between the Web and the iCosystem.</p>
+<p>It’s true that the App approval process is a black box, and that some decisions seem a bit silly. For example, Apple recently required graphic artists to <a href="http://www.nytimes.com/2010/06/14/technology/14ulysses.html">remove images of topless women from a comic version of James Joyce’s <em>Ulysses</em></a>. I’d prefer the iCosystem to include content that goes beyond a PG-13 rating. But I also strongly prefer it to be free of viruses, Trojan Horses, and other forms of malware. It is, thanks to its stringent review policies. So on balance, I’m glad they’re in place. They make the device more useful to me overall, not less.</p>
+<p>The best reason I can come up with for the over-the-top reactions to the iCosystem is that it violates important parts of the modern geek ethos. Here’s my inelegant attempt to summarize this ethos without caricaturing it:</p>
+<blockquote><p>We like to hack things –&nbsp; to take them apart to understand how they work, recombine their elements, improve them, and add new ones, some of which we’ve built from scratch. We hack all kinds of things — computers, cars, food, networks, governments, music, and so on.</p>
+<p>We hack some things that we don’t own (like open-source software) and many things we do. Once we buy something we consider it ours to hack, and we don’t need or seek anyone’s permission to do so. Nobody can dictate where, how, or what we hack, particularly when we’re not breaking any laws.</p>
+<p>Our work is profoundly beneficial; it’s a big source of creative destruction in the economy and society. We turn out innovations much better and faster than big sleepy incumbents do, and we also keep them on their feet. They might not like us, but they can’t stop us; we’ll either hack their wares or turn out better ones. So we don’t need to play nice with them, and don’t have any interest in doing so.</p>
+<p>Entities that welcome us are, in the not-too-long-run, going to outperform those that don’t, because we bring so much energy and generate so much innovation.</p></blockquote>
+<p>The sustained and rampant success of the iCosystem directly challenges core aspects of this ethos. It calls into question the idea that maximum innovation results from maximum autonomy, which has become almost <a href="http://futureoftheinternet.org/">an article of faith in some quarters</a>.</p>
+<p>Millions of users and the iCosystem are teaming up to behave in ways that upset some geeks’ ideas about the way the world works, or how it should. Hyperbole, vitriol, contempt, and alarmism are all-to-common reactions when this happens. We’d be better served by thoughtful reconsideration of how technology-based innovation occurs, and how it can best be encouraged.</p>
+<p>I hope the vitriol and alarmism around the iCosystem dies down, because it’s not doing much good. Maybe <a href="http://en.wikiquote.org/wiki/Barry_Goldwater">Barry Goldwater</a> was right that extremism in the defense of liberty is no vice. But crying wolf surely is.</p>
+<p>What do you think? Am I missing something important and nefarious about the iCosystem? Or are you with me in thinking that it fosters innovation rather than stifling it? Leave a comment, please, and let us know.</p>
+				</div>
+			</div>
+
+
+<div id="disqus_thread">
+				<div id="comments">
+				<div id="comments_intro" class="comments_intro">
+					<p><span class="bracket">{</span> <span>16</span> comments… read them below or <a href="#respond" rel="nofollow">add one</a> <span class="bracket">}</span></p>
+				</div>
+
+				<dl id="comment_list">
+					<dt class="comment even thread-even depth-1" id="comment-20085">
+<span class="avatar"><img alt="" src="http://1.gravatar.com/avatar/f3ada405ce890b6f8204094deb12d8a8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">Foo</span>
+<span class="comment_time"><a href="#comment-20085" title="Permalink to this comment" rel="nofollow">June 22, 2010 at 11:04 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20085">
+<p>If you think loaning a book is theft, you clearly need a refresher in copyright law.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20086">
+<span class="avatar"><a href="http://twitter.com/piewords" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/piewords" rel="external nofollow" class="url">Laurence Hart</a></span>
+<span class="comment_time"><a href="#comment-20086" title="Permalink to this comment" rel="nofollow">June 22, 2010 at 11:36 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20086">
+<p>It is the black-box nature of the approval process and censoring nature. Yes, things can be accessed through a browser, but the ability to sell in the App Store is strictly controlled.</p>
+<p>I would say that impact of the iCosystem is invaluable, but more as an example and as a way to prove-out the business model.  I think Apple will need to open things up in the future once there are viable competitors, but not until.  If they don't open it at that time, then they will risk their lead.</p>
+<p>-Pie</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20087">
+<span class="avatar"><a href="http://twitter.com/mattleifer" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/mattleifer" rel="external nofollow" class="url">Matt Leifer</a></span>
+<span class="comment_time"><a href="#comment-20087" title="Permalink to this comment" rel="nofollow">June 22, 2010 at 11:43 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20087">
+<p>Regarding the Apple App store, your argument about it freeing you from viruses and trojans is a bit misleading.  Nobody is arguing that Apple should not be able to have their own curated App store with whatever approval process they wish to have in place.  They would be free to recommend strongly that users only download apps from the Apple store in order to protect themselves from viruses and most people would probably do so (witness the dominance of iTunes in music sales even though you can download legal mp3s from a large number of other services).  The issue is that they won't allow you to install apps from other sources at all, at least not legally and not without jailbreaking the phone.  You can't argue that this is because of viruses, because a curated, but not exclusive, App store would be equally effective.</p>
+<p>On the other hand, I do agree that the alarmism about the iCosystem is a bit over the top, mainly because there is strong competition from the Googleverse that does not have these restrictions.  Ultimately, the marketplace will decide how important these sort of freedoms are, and even if the iCosystem remains dominant, Android will remain an option for those of us who care about this stuff.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20089">
+<span class="avatar"><a href="http://twitter.com/ejtweet" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/ejtweet" rel="external nofollow" class="url">Erik Johnson</a></span>
+<span class="comment_time"><a href="#comment-20089" title="Permalink to this comment" rel="nofollow">June 22, 2010 at 3:23 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20089">
+<p>This disillusionment stems from Apple lensing the use of its devices to align squarely with their commercial interests – in both functional and moral aspects.  Functionally, it’s no different than buying an Xbox which only plays Xbox games approved by Microsoft.  It’s the moral dimension that’s infuriated some people because Apple has suggested that these limits are really a positive thing for consumers – rather like the Chinese government rationalizing Internet access limits to its people.  Obviously, Apple’s real motivation is a belief having such a corporate image helps grow market share.  I don’t understand why this seems to surprise anyone.  But then Alan Greenspan was shocked that banks were, in fact, greedy institutions.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20100">
+<span class="avatar"><a href="http://www.inmagic.com" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/cba3588c721051da486d744528e46384?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://www.inmagic.com" rel="external nofollow" class="url">PhIl Green, CTO Inmagic</a></span>
+<span class="comment_time"><a href="#comment-20100" title="Permalink to this comment" rel="nofollow">June 29, 2010 at 3:56 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20100">
+<p>The iCosystem is not evil per se.  It is just an alternative model, and one that involves mediation. In the iCosystem, Apple is the mediator and their job is to ensure that the Apps etc, work well and have some moral value. If you don't like it, don't buy it or use,  it's a free country.  On the other hand, as a happy iPhone user, I truly appreciate the whole iPhone experience, which is extremely stable, easy, and satisfying.</p>
+<p>Two examples:<br>1) Upgrading to the current OS on the iPhone requires no technical skills and anyone can do it.    (By contrast, most users are not capable of upgrading from one version of windows to the next on their home computer.) <br>2) Hooking my iPhone up to our Exchange server took about 1 minute.  (The same process on other smart phones can take hours.)</p>
+<p>But don't get me wrong – I also love the unmediated ecosystems like WinTel- they tend to be cheap and innovative.  But they almost always require more IT skills!</p>
+<p>So if you appreciate what a mediated ecosystem gives you, use it.  If not, you’ve got plenty of alternatives.  Steve Jobs is not evil, he is just betting that many people will pay for the benefits that mediation offers.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20117">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-20117" title="Permalink to this comment" rel="nofollow">July 4, 2010 at 1:10 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20117">
+<p>John, thanks for the comment. I'm not sure how I'm imposing my beliefs on anyone with the original post, though. I use the strong word 'hate' in the title, true, but I'm not talking about anything I hate, or think you should hate. I'm just using the word Tim Bray used when he posted about the iCosystem.</p>
+<p>The only personal belief I state in the post is that some folk are crying wolf. And I stand by that assertion.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20118">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-20118" title="Permalink to this comment" rel="nofollow">July 4, 2010 at 1:21 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20118">
+<p>Matt, thanks for commenting. I'm not with you that 'a [non-exclusive] app store would be equally effective' at keeping iPads virus-free. If it's possible to install not-approved apps on our iPads some of us will do so, despite whatever recommendations Apple makes. And some of those apps will be malware.</p>
+<p>There will thus be some population of non-jailbroken iPads out there with malware on them. At least some of their owners, I'm sure, will call up Apple and/or take their devices to Genius Bars to get help. Apple will either turn these people away, angering them, or help them, and so eat up the company's $$ and time. Both of these are bad options from Apple's point of view.</p>
+<p>Also bad is the press that would inevitably result from iCosystem malware. No such malware exists, as far as I can tell, for non-jailbroken iPads and iPhones. I can't fault Apple at all for wanting to keep it this way. </p>
+<p>And I really like owning devices that are guaranteed to be malware-free no matter what I do. I have to exercise no vigilance over the iCosystem. It's a safe harbor, and I'm happy it is.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20119">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-20119" title="Permalink to this comment" rel="nofollow">July 4, 2010 at 1:23 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20119">
+<p>And if you think I said that loaning a book is theft, you need to (re)read what I wrote.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20147">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-20147" title="Permalink to this comment" rel="nofollow">July 4, 2010 at 8:10 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20147">
+<p>John, thanks for the comment. I'm not sure how I'm imposing my beliefs on anyone with the original post, though. I use the strong word 'hate' in the title, true, but I'm not talking about anything I hate, or think you should hate. I'm just using the word Tim Bray used when he posted about the iCosystem.</p>
+<p>The only personal belief I state in the post is that some folk are crying wolf. And I stand by that assertion.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20148">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-20148" title="Permalink to this comment" rel="nofollow">July 4, 2010 at 8:21 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20148">
+<p>Matt, thanks for commenting. I'm not with you that 'a [non-exclusive] app store would be equally effective' at keeping iPads virus-free. If it's possible to install not-approved apps on our iPads some of us will do so, despite whatever recommendations Apple makes. And some of those apps will be malware.</p>
+<p>There will thus be some population of non-jailbroken iPads out there with malware on them. At least some of their owners, I'm sure, will call up Apple and/or take their devices to Genius Bars to get help. Apple will either turn these people away, angering them, or help them, and so eat up the company's $$ and time. Both of these are bad options from Apple's point of view.</p>
+<p>Also bad is the press that would inevitably result from iCosystem malware. No such malware exists, as far as I can tell, for non-jailbroken iPads and iPhones. I can't fault Apple at all for wanting to keep it this way. </p>
+<p>And I really like owning devices that are guaranteed to be malware-free no matter what I do. I have to exercise no vigilance over the iCosystem. It's a safe harbor, and I'm happy it is.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20149">
+<span class="avatar"><a href="http://andrewmcafee.org/blog" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/47a4b1aef9ff39fef7352762ab8c5b46?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://andrewmcafee.org/blog" rel="external nofollow" class="url">amcafee</a></span>
+<span class="comment_time"><a href="#comment-20149" title="Permalink to this comment" rel="nofollow">July 4, 2010 at 8:23 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20149">
+<p>And if you think I said that loaning a book is theft, you need to (re)read what I wrote.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20146">
+<span class="avatar"><a href="http://www.twitter.com/mdemmick" rel="nofollow"><img alt="" src="http://0.gravatar.com/avatar/e68cb18c0184d1369d29495fe20e31d7?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://www.twitter.com/mdemmick" rel="external nofollow" class="url">M. Drew Emmick</a></span>
+<span class="comment_time"><a href="#comment-20146" title="Permalink to this comment" rel="nofollow">July 5, 2010 at 12:09 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20146">
+<p>I have been critical of app store's approval process and closed ecosystem. But I can't deny the benefits of Apple's digital delivery strategy – namely reducing the number of illegal downloads. I question if some of the negativity toward Apple really stems from how long it's taken the competition to catch up. Without adequate competition, consumers are stuck with the iPhone and iPad and that alone can be frustrating to many. Great post!</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20261">
+<span class="avatar"><a href="http://twitter.com/lisamaedilley" rel="nofollow"><img alt="" src="http://1.gravatar.com/avatar/334c4a4c42fdb79d7ebc3e73b517e6f8?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></a></span>
+<span class="comment_author"><a href="http://twitter.com/lisamaedilley" rel="external nofollow" class="url">Lisa Dilley</a></span>
+<span class="comment_time"><a href="#comment-20261" title="Permalink to this comment" rel="nofollow">July 17, 2010 at 5:32 am</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20261">
+<p>Indeed, Richard.  My experience with iProducts has been frustrating because I couldn't make them do EXACTLY what I wanted them to do the way I wanted them to do it.  I do “resent” the content and creativity issues in principle, and as a matter of bottom line, iProducts tend to stay more expensive and less consumer accessible for that reason.  (That is, I don't usually buy name brand anything and I'm big-time turned off by iPod.) </p>
+<p>But the bottom line really is that iProducts feel like toys in my hand, while my Microsoft and Blackberry devices feel like tools. (I haven't yet gotten my hands on an Android device – but I'm tempted!)  It isn't that they work better (my iPhone worked great at what it did) but they work the way I work, I can customize til my heart's content, and I can flex my “geeky” muscles from time to time, finding a work-around or hack for some detail that's important to me today.</p>
+<p>My husband, on the other hand, wants iPhone/iPad because it's one-stop shopping, one-click setup.  I have a hard time not judging him for such a reprehensible attitude – but I do subscribe to the principle of “to each his own” so I only rant about it occasionally.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20271">
+<span class="avatar"><img alt="" src="http://0.gravatar.com/avatar/82c47eabf32e03a08d93ce5887635d51?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">Btbart100</span>
+<span class="comment_time"><a href="#comment-20271" title="Permalink to this comment" rel="nofollow">July 20, 2010 at 9:19 pm</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20271">
+<p>Geeks hate the iPad because the iPad will cause half of those geeks to lose their jobs.  Seriously.</p>
+<p>Apple for years have been trying to push the PC industry away from the Microsoft world, in which everybody has to hire armies of fricking IT support people to filddle with thousands of stupid settings to keep things running.  </p>
+<p>For 20 years Microsoft has been intentionally making products as complicated and elaborate as possible, knowing that by doing so, they ensure that the IT managers would continue buying Microsoft products, so that organizizations would be forced to keep spending big bucks to hire more IT people.</p>
+<p>Is is a conspiracy?  Damn tootin.  </p>
+<p>Now Apple is going to destroy that by making stuff that “just works”.  And thus destroy the long-term job security of millions of geeks.</p>
+<p>That's why geeks hate Apple.</p>
+</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-20278">
+<span class="avatar"><img alt="" src="http://0.gravatar.com/avatar/a8463cb4eb54cfc88942c5036ec865f5?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">Miguel</span>
+<span class="comment_time"><a href="#comment-20278" title="Permalink to this comment" rel="nofollow">July 21, 2010 at 4:39 pm</a></span>
+
+					</dt>
+					<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-20278">
+<p>I have come to believe that when there is an adequate heavy mix of feelings for a product (some hate it, some love it), the product is a success. I agree with all of your points. Taking it a step further, Umair Haque, an HBR blogger recently published a post called “Apple's Real Achilles Heel”. Seriously, why have I been seeing so many articles that try to trash Apple? Those gadgets drive innovation into the whole industry, creating new technologies in Healthcare, Entertainment, etc.</p>
+<p>Apple is not a closed system. You can access whatever you want through Safari, why the big deal?</p>
+<p>What I would call into question is the “theft of intellectual property”. The relationship is not direct. If I download several songs from Napster or any P2P, it doesnt necessarily mean that CD sales will go down. I am sure that some people just download because they can access whatever they are looking for, else they would not care to buy it. So that calls into question the actual business models, as stated by IE Business School professor Enrique Dans. Perhaps we have to look further, as Apple has done so many times, into new business opportunities.</p>
+</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-20383">
+<span class="avatar"><img alt="" src="http://1.gravatar.com/avatar/50abe3fb29a82c9f1710a8214798caaa?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G" class="avatar avatar-44 photo" height="44" width="44"></span>
+<span class="comment_author">Aleem Sidi</span>
+<span class="comment_time"><a href="#comment-20383" title="Permalink to this comment" rel="nofollow">August 15, 2010 at 7:44 am</a></span>
+
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-20383">
+<p>My friend,</p>
+<p>Geek speaking here.  I couldn't agree with your article more.  I was just about to write an article on why geeks hate iphone.  And you nailed it on the head.  We don't like things that work perfectly that we can't improve.  It hurts our egos!</p>
+<p>We like to be the guy that knows best, and the guy in the family that fixes all the computer problems.  The guy that says to his wife:  “Wait dear, let it finish checking for updates”…  You know the guy that thinks he knows what he is talking about.  </p>
+<p>And those of us who really hate apple are the ones that really have never written a piece of software in our lives under the pressure of optimisation for processor power, battery consumption etc.  Most self-claimed geeks think “skinning” is programming.  If apple allowed us to change the look and feel of iOS, guys would think its the best thing in the world.  Even if they don't allow us access to any of their underlying software.</p>
+<p>You get my point.  We like to tinker.  And so we like things that don't work.  That are difficult to use.  That have things in them we can “fix”.</p>
+<p>I love your article.</p>
+</div>
+					</dd>
+				</dl>
+				<div id="respond">
+					<div id="respond_intro">
+						<p>Leave a Comment</p>
+					</div>
+					<form action="http://andrewmcafee.org/wp-comments-post.php" method="post" id="commentform">
+						<p><input class="text_input" type="text" name="author" id="author" value="" tabindex="1" aria-required="true"><label for="author">Name <span class="required" title="Required">*</span></label></p>
+						<p><input class="text_input" type="text" name="email" id="email" value="" tabindex="2" aria-required="true"><label for="email">E-mail <span class="required" title="Required">*</span></label></p>
+						<p><input class="text_input" type="text" name="url" id="url" value="" tabindex="3"><label for="url">Website</label></p>
+						<p class="comment_box">
+							<textarea name="comment" id="comment" tabindex="4" cols="40" rows="8"></textarea>
+						</p>
+						<p class="remove_bottom_margin">
+							<input name="submit" class="form_submit" type="submit" id="submit" tabindex="5" value="Submit">
+<input type="hidden" name="comment_post_ID" value="1647" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+					</form>
+				</div>
+			</div>
+</div>
+
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<script type="text/javascript">
+	var disqus_url = 'http://andrewmcafee.org/2010/06/why-some-geeks-hate-the-ipad-so-much/ ';
+	var disqus_identifier = '1647 http://andrewmcafee.org/?p=1647';
+	var disqus_container_id = 'disqus_thread';
+	var disqus_domain = 'disqus.com';
+	var disqus_shortname = 'andrewmcafee';
+	var disqus_title = "Why Some Geeks Hate the iPad So Much";
+		var disqus_config = function () {
+	    var config = this; // Access to the config object
+
+	    /* 
+	       All currently supported events:
+	        * preData — fires just before we request for initial data
+	        * preInit - fires after we get initial data but before we load any dependencies
+	        * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+	        * afterRender - fires when template is rendered but before we show it
+	        * onReady - everything is done
+	     */
+
+		config.callbacks.preData.push(function() {
+			// clear out the container (its filled for SEO/legacy purposes)
+			document.getElementById(disqus_container_id).innerHTML = '';
+		});
+		config.callbacks.onReady.push(function() {
+			// sync comments in the background so we don't block the page
+			DISQUS.request.get('?cf_action=sync_comments&post_id=1647');
+		});
+	};
+	var facebookXdReceiverPath = 'http://andrewmcafee.org/wp-content/plugins/disqus-comment-system/xd_receiver.htm';
+</script>
+
+<script type="text/javascript">
+	var DsqLocal = {
+		'trackbacks': [
+		],
+		'trackback_url': 'http://andrewmcafee.org/2010/06/why-some-geeks-hate-the-ipad-so-much/trackback/'
+	};
+</script>
+
+<script type="text/javascript">
+(function() {
+	var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+	dsq.async = true;
+	dsq.src = 'http://' + disqus_shortname + '.' + disqus_domain + '/embed.js?pname=wordpress&pver=2.41';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+					<div class="prev_next post_nav">
+						<p class="previous">Previous post: <a href="http://andrewmcafee.org/2010/06/my-ipad-a-great-bundle-of-sticks/" rel="prev">My iPad? A Great Bundle of Sticks</a></p>
+						<p>Next post: <a href="http://andrewmcafee.org/2010/07/mcafee-carr-turkle-keen-lanier-zittrain/" rel="next">I Know I’m Not the Only Internet Optimist…</a></p>
+					</div>
+		</div>
+
+		<div id="sidebars">
+			<div id="sidebar_1" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_text" id="text-3">			<div class="textwidget"><span id="twitter"><a href="http://twitter.com/amcafee">Follow me on twitter</a></span></div>
+		</li><li class="widget widget_links" id="linkcat-9"><h3>Featured</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://andrewmcafee.org/about/">About Andrew McAfee</a></li>
+<li><a href="http://andrewmcafee.org/enterprise-20-book-and-blurbs/" title="Information and advance praise for Andrew McAfee’s book Enterprise 2.0">Enterprise 2.0: The Book and the Blurbs</a></li>
+<li><a href="http://andrewmcafee.org/media">Media Appearances</a></li>
+
+	</ul>
+</li>
+<li class="widget aktt_widget" id="twitter-tools"><h3>Twitter Feed</h3><div class="aktt_tweets">
+	<ul>
+		<li>More on #<a href="http://search.twitter.com/search?q=%23E20" class="aktt_hashtag">E20</a> from the MIX website: <a href="http://bit.ly/9buCLE" rel="nofollow">http://bit.ly/9buCLE</a> <a href="http://twitter.com/amcafee/statuses/24775113048" class="aktt_tweet_time">7 hrs ago</a></li>
+		<li>RT @<a href="http://twitter.com/rita_ferrari" class="aktt_username">rita_ferrari</a>: @<a href="http://twitter.com/amcafee" class="aktt_username">amcafee</a> Will you be sharing responses re: who runs great conferences and why? Pls. ;-) &gt;&gt; search for #<a href="http://search.twitter.com/search?q=%23andyasks" class="aktt_hashtag">andyasks</a> <a href="http://twitter.com/amcafee/statuses/24505389428" class="aktt_tweet_time">3 days ago</a></li>
+		<li>Who runs great conferences, and what makes them so good? #<a href="http://search.twitter.com/search?q=%23andyasks" class="aktt_hashtag">andyasks</a> <a href="http://twitter.com/amcafee/statuses/24503829868" class="aktt_tweet_time">3 days ago</a></li>
+		<li>Heard economist Simon Johnson speak today. Now eager to read baselinescenario.com and his book 13 bankers: <a href="http://amzn.to/buYpr3" rel="nofollow">http://amzn.to/buYpr3</a> <a href="http://twitter.com/amcafee/statuses/24502572741" class="aktt_tweet_time">3 days ago</a></li>
+		<li>RT @<a href="http://twitter.com/peepf" class="aktt_username">peepf</a>: #<a href="http://search.twitter.com/search?q=%23e2conf" class="aktt_hashtag">e2conf</a> agenda is live! Learn to leverage tech to support HR, People &amp; Performance, Customer Support, Product Dev -... <a href="http://twitter.com/amcafee/statuses/24502453746" class="aktt_tweet_time">3 days ago</a></li>
+		<li>Great follow-up to the Gov2.0 Summit by @<a href="http://twitter.com/digiphile" class="aktt_username">digiphile</a> : <a href="http://oreil.ly/dCmUHB" rel="nofollow">http://oreil.ly/dCmUHB</a>  #<a href="http://search.twitter.com/search?q=%23g2s" class="aktt_hashtag">g2s</a> <a href="http://twitter.com/amcafee/statuses/24486671175" class="aktt_tweet_time">3 days ago</a></li>
+		<li class="aktt_more_updates"><a href="http://twitter.com/amcafee">More updates...</a></li>
+</ul></div></li><li class="widget widget_killer_recent_entries" id="widget_killer_recent_entries-2">
+<h3>Recent Posts</h3>
+<ul>
+	<li><a href="http://andrewmcafee.org/2010/09/oreilly_gov20_summit_bureaucracy/" title="Click to read Gov 2.0 vs. the Beast of Bureaucracy" rel="bookmark">Gov 2.0 vs. the Beast of Bureaucracy</a></li>
+	<li><a href="http://andrewmcafee.org/2010/09/frustration_to_delight/" title="Click to read From Frustration to Delight" rel="bookmark">From Frustration to Delight</a></li>
+	<li><a href="http://andrewmcafee.org/2010/08/mcafee-mix-mission_statements0-technology-enterprise2/" title="Click to read We’re About to Find Out if Companies Mean What’s in Their Mission Statements" rel="bookmark">We’re About to Find Out if Companies Mean What’s in Their Mission Statements</a></li>
+	<li><a href="http://andrewmcafee.org/2010/08/mcafee-foldit-protein-folding-nature/" title="Click to read You Get To Know How To Fold ‘Em…" rel="bookmark">You Get To Know How To Fold ‘Em…</a></li>
+	<li><a href="http://andrewmcafee.org/2010/08/dispatch-from-techonomy/" title="Click to read Dispatch from Techonomy" rel="bookmark">Dispatch from Techonomy</a></li>
+	<li><a href="http://andrewmcafee.org/2010/07/augustine-tips-for-knowledge-workers/" title="Click to read St. Augustine’s Tips for Knowledge Workers" rel="bookmark">St. Augustine’s Tips for Knowledge Workers</a></li>
+	<li><a href="http://andrewmcafee.org/2010/07/why-is-customer-service-still-so-lousy/" title="Click to read Why is Customer Service Still So Lousy?" rel="bookmark">Why is Customer Service Still So Lousy?</a></li>
+	<li><a href="http://andrewmcafee.org/2010/07/mcafee-carr-turkle-keen-lanier-zittrain/" title="Click to read I Know I’m Not the Only Internet Optimist…" rel="bookmark">I Know I’m Not the Only Internet Optimist…</a></li>
+	<li><a href="http://andrewmcafee.org/2010/06/why-some-geeks-hate-the-ipad-so-much/" title="Click to read Why Some Geeks Hate the iPad So Much" rel="bookmark">Why Some Geeks Hate the iPad So Much</a></li>
+	<li><a href="http://andrewmcafee.org/2010/06/my-ipad-a-great-bundle-of-sticks/" title="Click to read My iPad? A Great Bundle of Sticks" rel="bookmark">My iPad? A Great Bundle of Sticks</a></li>
+</ul>
+</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="footer_area" class="full_width">
+<div class="page">
+	<div id="footer">
+  <div id="footlinks">
+  	<a href="/" title="Return to homepage">Home</a> | <a href="/about" title="About Andrew McAfee">About</a> | <a href="/feed" title="Subscribe to this blog's RSS feed">RSS</a> | <a href="/privacy-policy" title="Read my Privacy Policy">Privacy Policy + Terms &amp; Conditions</a>
+  </div>
+	<script type="text/javascript">
+	// <![CDATA[
+		var disqus_shortname = 'andrewmcafee';
+		var disqus_domain = 'disqus.com';
+		(function () {
+			var nodes = document.getElementsByTagName('span');
+			for (var i = 0, url; i < nodes.length; i++) {
+				if (nodes[i].className.indexOf('dsq-postid') != -1) {
+					nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+					url = nodes[i].parentNode.href.split('#', 1);
+					if (url.length == 1) url = url[0];
+					else url = url[1]
+					nodes[i].parentNode.href = url + '#disqus_thread';
+				}
+			}
+			var s = document.createElement('script'); s.async = true;
+			s.type = 'text/javascript';
+			s.src = 'http://' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	//]]>
+	</script>
+	</div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<div id="ie_clear"></div>
+<![endif]-->
+
+</body></html>

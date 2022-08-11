@@ -1,0 +1,734 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="google-site-verification" content="TNpIfQb3Kf6JhRxU9XIblQx9WTexrOLoACOQa4fXm5Y">
+		<!-- Title -->
+		<title>Unforgettable Places - Buzz Inn</title>
+
+		<!-- Link REL / CSS -->
+		<link rel="stylesheet" type="text/css" href="http://buzzinn.net/wp-content/themes/Elements/style.css">
+		<link rel="alternate" type="application/rss+xml" title="Buzz Inn RSS Feed" href="http://buzzinn.net/feed/">
+		<link rel="alternate" type="application/atom+xml" title="Buzz Inn Atom Feed" href="http://buzzinn.net/feed/atom/">
+		<link rel="pingback" href="http://buzzinn.net/xmlrpc.php">
+		<link rel="shortcut icon" type="image/x-icon" href="http://buzzinn.net/img/favicon.ico">
+		<!-- Javascript -->
+		<script type="text/javascript" src="http://buzzinn.net/wp-content/themes/Elements/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="http://buzzinn.net/wp-content/themes/Elements/js/common.js"></script>
+		
+		<!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script><![endif]-->
+				<link rel="alternate" type="application/rss+xml" title="Buzz Inn » Unforgettable Places Comments Feed" href="http://buzzinn.net/unforgettable-places/feed/">
+<script type="text/javascript" src="http://buzzinn.net/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://buzzinn.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://buzzinn.net/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Buzz Inn" href="http://buzzinn.net/">
+<link rel="start" title="Funny Pictures" href="http://buzzinn.net/funny-pictures/">
+<link rel="prev" title="Forced Perspective Photos" href="http://buzzinn.net/forced-perspective-photos/">
+<link rel="next" title="Living In The Huge World" href="http://buzzinn.net/living-in-the-huge-world/">
+<meta name="generator" content="WordPress 3.0">
+<link rel="shortlink" href="http://buzzinn.net/?p=501">
+
+<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[373,417] -->
+<meta name="description" content="Did you ever imagine the most beautiful place on Earth? Well you don't have to imagine it anymore because here we have collection with some of the most">
+<meta name="keywords" content="amazing,beautiful,forest,landscape,nature,places,unforgettable">
+<link rel="canonical" href="http://buzzinn.net/unforgettable-places/">
+<!-- /all in one seo pack -->
+<meta name="tweetmeme-title" content="Unforgettable Places"><!-- Start WP Post Thumbnail CSS -->
+<style type="text/css">
+.wppt_float_left {float:left;margin:0 1.5em 0.5em 0; padding:3px;border:1px solid #ddd;}
+.wppt_float_right {float:right;margin:0 0 0.5em 1.5em; padding:3px;border:1px solid #ddd;}
+</style>
+<!-- End WP Post Thumbnail CSS -->
+<script type="text/javascript" src="http://buzzinn.net/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<!-- Wordpress Popular Posts v2.1.4 -->
+<script type="text/javascript" charset="utf-8">
+    /* <![CDATA[ */				
+	jQuery.post('http://buzzinn.net/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '98f10474fb', id: 501});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.1.4 -->
+            
+<!-- Wordpress Popular Posts v2.1.4 -->
+<link rel="stylesheet" href="http://buzzinn.net/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen">
+<!-- End Wordpress Popular Posts v2.1.4 -->
+	</head>
+	<body>
+		<!--[if lt IE 7]>
+		<div class="ie6-notice"><strong>Notice:</strong><br />Please upgrade your browser to at least Internet Explorer 7 to properly view this website.</div>
+		<![endif]-->
+		<a name="top" id="top"></a>
+		<!-- Header // -->
+		<div class="wpn_header">
+			<!-- Logo -->
+			<a class="wpn_logo" href="http://buzzinn.net/"><img src="http://buzzinn.net/wp-content/themes/Elements/img/logo-trans.png" alt=""></a>
+			
+			<!-- Search // -->
+			<div class="wpn_search">
+				<form id="searchform" action="http://buzzinn.net">
+					<input type="text" name="s" value="Search the blog..." onfocus="if(this.value==this.defaultValue)this.value='';"><input type="image" src="http://buzzinn.net/wp-content/themes/Elements/img/spacer.gif">
+				</form>
+			</div>
+			<!-- // Search -->
+			
+			<!-- Menu // -->
+			<ul class="wpn_menu">
+				<li><a href="http://buzzinn.net"><span>Home</span></a></li>
+				<li class="page_item page-item-204"><a href="http://buzzinn.net/privacy-policy/" title="Privacy Policy"><span>Privacy Policy</span></a></li>
+<li class="page_item page-item-202"><a href="http://buzzinn.net/about/" title="About"><span>About</span></a></li>
+			</ul>
+			<!-- // Menu -->
+			
+			<!-- Submenu // -->
+			<ul class="wpn_submenu">
+					<li class="cat-item cat-item-31"><a rel="nofollow" href="http://buzzinn.net/category/bizarre-and-odd/" title="View all posts filed under Bizarre and Odd">Bizarre and Odd</a>
+</li>
+	<li class="cat-item cat-item-29"><a rel="nofollow" href="http://buzzinn.net/category/featured-posts/" title="View all posts filed under Featured Posts">Featured Posts</a>
+</li>
+	<li class="cat-item cat-item-5"><a rel="nofollow" href="http://buzzinn.net/category/fun/" title="View all posts filed under Fun">Fun</a>
+</li>
+	<li class="cat-item cat-item-4"><a rel="nofollow" href="http://buzzinn.net/category/lifestyle/" title="View all posts filed under Lifestyle">Lifestyle</a>
+</li>
+	<li class="cat-item cat-item-32"><a rel="nofollow" href="http://buzzinn.net/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-30"><a rel="nofollow" href="http://buzzinn.net/category/nature/" title="View all posts filed under Nature">Nature</a>
+</li>
+	<li class="cat-item cat-item-3"><a rel="nofollow" href="http://buzzinn.net/category/travel-and-places/" title="View all posts filed under Travel and Places">Travel and Places</a>
+</li>
+			</ul>
+			<!-- // Submenu -->
+		</div>
+		<!-- // Header -->
+		
+		<!-- Wrapper // -->
+		<div class="wpn_wrapper">
+<div class="wpn_left">
+
+	
+	<div class="wpn_box wpn_news">
+							<h1 class="wpn_title">Unforgettable Places </h1>
+			
+			<div style="clear: both;"></div>		
+					<div style="float: left; height: 300px;">
+					<script type="text/javascript"><!--
+google_ad_client = "pub-6730973761065231";
+/* 300 linkovni */
+google_ad_slot = "7414888003";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>			
+					</div>
+		
+					<div style="float: right; height: 300px;">
+					<script type="text/javascript"><!--
+google_ad_client = "pub-6730973761065231";
+/* slikovni 250 */
+google_ad_slot = "9156709586";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+&nbsp;</div>
+					<div style="clear: both;"></div>
+			
+
+						<div class="wpn_post">
+			<a name="fb_share" style="margin-right:0.5cm; float:left" type="box_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>&nbsp; &nbsp;	<a class="google_buzz" href="http://www.google.com/reader/link?url=http://buzzinn.net/unforgettable-places/&amp;title=Unforgettable+Places&amp;srcURL=http://buzzinn.net" target="_blank" rel="nofollow"><img src="http://buzzinn.net/wp-content/plugins/google-buzz-button-for-wordpress/images/google-buzz.png" alt="Google Buzz" title="Unforgettable Places photo"></a><div class="tweetmeme_button" style="float: left; margin-left: 0px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Fbuzzinn.net%2Funforgettable-places%2F&amp;style=normal" height="61" width="50" frameborder="0" scrolling="no"></iframe></div>
+<p>Did you ever imagine the most beautiful place on Earth? Well you don’t have to imagine it anymore because here we have collection with some of the most beautiful landscapes on our planet that will left you speechless! You can feel the peace just by watching them… Enjoy.</p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places01.jpg" alt="unforgetable places01 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><span id="more-501"></span><br>
+<img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places02.jpg" alt="unforgetable places02 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places03.jpg" alt="unforgetable places03 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places04.jpg" alt="unforgetable places04 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places05.jpg" alt="unforgetable places05 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places06.jpg" alt="unforgetable places06 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places07.jpg" alt="unforgetable places07 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places08.jpg" alt="unforgetable places08 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places09.jpg" alt="unforgetable places09 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places10.jpg" alt="unforgetable places10 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places11.jpg" alt="unforgetable places11 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places12.jpg" alt="unforgetable places12 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places13.jpg" alt="unforgetable places13 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places14.jpg" alt="unforgetable places14 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places15.jpg" alt="unforgetable places15 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places16.jpg" alt="unforgetable places16 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places17.jpg" alt="unforgetable places17 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places18.jpg" alt="unforgetable places18 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places19.jpg" alt="unforgetable places19 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places20.jpg" alt="unforgetable places20 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places21.jpg" alt="unforgetable places21 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places22.jpg" alt="unforgetable places22 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places23.jpg" alt="unforgetable places23 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places24.jpg" alt="unforgetable places24 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places25.jpg" alt="unforgetable places25 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places26.jpg" alt="unforgetable places26 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places27.jpg" alt="unforgetable places27 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places28.jpg" alt="unforgetable places28 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places29.jpg" alt="unforgetable places29 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places30.jpg" alt="unforgetable places30 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places31.jpg" alt="unforgetable places31 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places32.jpg" alt="unforgetable places32 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places33.jpg" alt="unforgetable places33 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places34.jpg" alt="unforgetable places34 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places35.jpg" alt="unforgetable places35 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places36.jpg" alt="unforgetable places36 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places37.jpg" alt="unforgetable places37 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places38.jpg" alt="unforgetable places38 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places39.jpg" alt="unforgetable places39 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places40.jpg" alt="unforgetable places40 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places41.jpg" alt="unforgetable places41 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places42.jpg" alt="unforgetable places42 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places43.jpg" alt="unforgetable places43 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places44.jpg" alt="unforgetable places44 Unforgettable Places" title="Unforgettable Places photo"></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.buzzinn.net/img/nature/unforgetable-places/unforgetable-places45.jpg" alt="unforgetable places45 Unforgettable Places" title="Unforgettable Places photo"></p>
+			</div>
+			
+			<h1 style="text-align: center;">More COOL articles:</h1>
+			<div style="clear: both;"></div>
+
+			<table border="0" width="570" height="160"> 
+	<tbody><tr align="left"> 
+		<td align="center"> 
+		<script type="text/javascript" src="http://2leep.com/ticker2/351/custom/1/2/140/bottom/%23222222|%23ff99cc|Arial,Arial,Helvetica,sans-serif|1.2em|0.04em|12px|140|4953"></script>
+		<a href="http://www.leenks.com/" target="_blank" rel="nofollow" style=" font-family: Arial, Helvetica, sans-serif; font-size: 12x; font-weight:bold; color: #ff99cc;"><img src="http://www.buzzinn.net/img/sexy-leenks.jpg" border="0"><br>Sexy beach girls!</a>
+		
+		</td> 
+		<td align="center"> 
+		<script type="text/javascript" src="http://2leep.com/ticker2/351/custom/2/3/140/bottom/%23222222|%23ff99cc|Arial,Arial,Helvetica,sans-serif|1.2em|0.04em|12px|400|4953"></script>
+		</td> 
+	</tr> 
+	</tbody></table> 
+<!-- MarketNews End -->
+<!-- pered </body> -->
+<script type="text/javascript" src="http://mg.dt00.net/js/b/u/buzzinn.net.3459.js" charset="utf-8"></script>
+
+			<div style="clear: both;"></div>		
+			<div class="wpn_tags">
+				<strong>Tags:</strong> <a href="http://buzzinn.net/tag/amazing/" rel="tag">amazing</a>, <a href="http://buzzinn.net/tag/beautiful/" rel="tag">beautiful</a>, <a href="http://buzzinn.net/tag/forest/" rel="tag">forest</a>, <a href="http://buzzinn.net/tag/landscape/" rel="tag">landscape</a>, <a href="http://buzzinn.net/tag/nature/" rel="tag">Nature</a>, <a href="http://buzzinn.net/tag/places/" rel="tag">places</a>, <a href="http://buzzinn.net/tag/unforgettable/" rel="tag">unforgettable</a>			</div>
+				</div>
+	<div class="wpn_box-bottom"></div>
+	
+		
+	<!-- Comments // -->
+		<!-- Jump Link -->
+
+<a id="comments" href="comments"></a>
+
+<!-- Comment List // -->
+<div class="wpn_box wpn_comments">
+	<span class="wpn_heading3">21 Responses<a class="wpn_comment" href="#respond">Leave a comment</a></span>
+	<ul class="commentlist">
+			<li class="comment even thread-even depth-1" id="li-comment-1413">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/a637de017a8c41ca9cbeb63b1baa76d4?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://www.danielcuello.com" rel="external nofollow" class="url">daniel</a></span><br>
+				April 12, 2010 at 10:10 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1413#respond" onclick="return addComment.moveForm(&quot;comment-1413&quot;, &quot;1413&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1413">
+								<p>hi! very cool pics, can u say where thats pics where taken?</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1414">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/2f1a927c261c72c9ce2d8c68b9f57b25?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://www.fitnessthatsfun.com" rel="external nofollow" class="url">Erick</a></span><br>
+				April 13, 2010 at 3:26 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1414#respond" onclick="return addComment.moveForm(&quot;comment-1414&quot;, &quot;1414&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1414">
+								<p>I love the photos and hope I can visit these places someday. What is the city in the desert picture that has a huge wall around it?</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-1451">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/19ce283fe9e1308bc97b717be575f4b8?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://mypetarts.blogspot.com" rel="external nofollow" class="url">benmil</a></span><br>
+				April 19, 2010 at 5:11 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1451#respond" onclick="return addComment.moveForm(&quot;comment-1451&quot;, &quot;1451&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1451">
+								<p>Sana´a in Yemen</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+</ul>
+</li>
+	<li class="comment odd alt thread-even depth-1" id="li-comment-1415">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/ba25d375eb425fc61a4c380c02b37d87?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">Erika</span><br>
+				April 13, 2010 at 5:59 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1415#respond" onclick="return addComment.moveForm(&quot;comment-1415&quot;, &quot;1415&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1415">
+								<p>Great photos – wish you had included where the places are though :)</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-1416">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/d257378d06d317e57da2d668962ee5fc?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://www.gokhanhizal.com" rel="external nofollow" class="url">Gökhan</a></span><br>
+				April 13, 2010 at 7:15 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1416#respond" onclick="return addComment.moveForm(&quot;comment-1416&quot;, &quot;1416&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1416">
+								<p>Thats great. Thanks for sharing.</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-even depth-1" id="li-comment-1417">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/8d1d91acadcfaa3f6ff5f8ba0ab6ec47?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">isaia</span><br>
+				April 13, 2010 at 10:17 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1417#respond" onclick="return addComment.moveForm(&quot;comment-1417&quot;, &quot;1417&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1417">
+								<p>Nature is wonderful!!! Cool</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-1418">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/93862d5aba8459756211585f656ae07d?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://www.timeoffun.com" rel="external nofollow" class="url">Uros</a></span><br>
+				April 13, 2010 at 12:37 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1418#respond" onclick="return addComment.moveForm(&quot;comment-1418&quot;, &quot;1418&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1418">
+								<p>Hello guys<br>
+I would like to exchange links with you<br>
+my site timeoffun.com key word fun.Let me know if you are interested.<br>
+Warm regards,<br>
+Uros</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-even depth-1" id="li-comment-1463">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/22879bd0d0c3faca043993a89c75e8d1?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">Laura</span><br>
+				April 24, 2010 at 12:01 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1463#respond" onclick="return addComment.moveForm(&quot;comment-1463&quot;, &quot;1463&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1463">
+								<p>I found the bomb craters in the third photo especially peaceful.</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-1476">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/9ba191d0a3302c65e164c2d89a7d9caa?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">Ede - Brazil</span><br>
+				April 27, 2010 at 11:18 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1476#respond" onclick="return addComment.moveForm(&quot;comment-1476&quot;, &quot;1476&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1476">
+								<p>No words to describe these photos! But, where is that place with a cross shaped temple? I’d like to know more about it. Very cool pics indeed!</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-1508">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/1be349a348e54323438049f70b41d2b6?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">Pepo</span><br>
+				May 11, 2010 at 4:50 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1508#respond" onclick="return addComment.moveForm(&quot;comment-1508&quot;, &quot;1508&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1508">
+								<p>It’s Lalibela in Ethiopia</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+</ul>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-1492">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/db10bc286a03b2a6dedf83aa0e4133be?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">vonz</span><br>
+				May 7, 2010 at 1:11 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1492#respond" onclick="return addComment.moveForm(&quot;comment-1492&quot;, &quot;1492&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1492">
+								<p>The city in the dessert is Shibam in Yemen.<br>
+<a href="http://en.wikipedia.org/wiki/Shibam" rel="nofollow">http://en.wikipedia.org/wiki/Shibam</a></p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1498">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/42945b70c227a4961ee7fc9b3edebac8?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">fred</span><br>
+				May 9, 2010 at 9:17 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1498#respond" onclick="return addComment.moveForm(&quot;comment-1498&quot;, &quot;1498&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1498">
+								<p>WHERE THE F*CK ARE THEY??? pretty pointless pretty pictures without saying where</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-1514">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/72ed474b018398a5c6da66cb33ca0b9b?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://buzzinn.net/unforgettable-places/" rel="external nofollow" class="url">IMANI</a></span><br>
+				May 12, 2010 at 3:56 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1514#respond" onclick="return addComment.moveForm(&quot;comment-1514&quot;, &quot;1514&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1514">
+								<p>4-u</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1515">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/72ed474b018398a5c6da66cb33ca0b9b?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://buzzinn.net/unforgettable-places/" rel="external nofollow" class="url">IMANI</a></span><br>
+				May 12, 2010 at 3:57 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1515#respond" onclick="return addComment.moveForm(&quot;comment-1515&quot;, &quot;1515&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1515">
+								<p>it would be nice to know the names and locations of these beautiful places…</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-1531">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/51806809861d780da9fee2d17aa61251?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">marta</span><br>
+				May 17, 2010 at 3:34 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1531#respond" onclick="return addComment.moveForm(&quot;comment-1531&quot;, &quot;1531&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1531">
+								<p>That cross temple is Bete Giorgis Church at Lalibela, Northern Ethiopia</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1545">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/ebe95665d72b6c65d98087cb3baf540e?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">AZHAR</span><br>
+				May 20, 2010 at 3:32 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1545#respond" onclick="return addComment.moveForm(&quot;comment-1545&quot;, &quot;1545&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1545">
+								<p>dear sir/madam,<br>
+all photos  are superb, wonderful, a very good collection and appreciate the team for the excellant work, but please, send them again, with the name of place/city/country,so that i can visit or recommend someone, to visit them.</p>
+<p>thankyou</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-1658">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/ab1edbb34431a2304241d943b788ed17?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author"><a href="http://www.traveltogoal.com" rel="external nofollow" class="url">dr,mani</a></span><br>
+				June 8, 2010 at 3:47 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1658#respond" onclick="return addComment.moveForm(&quot;comment-1658&quot;, &quot;1658&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1658">
+								<p>nice images,i like it</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1771">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/e359e001377d80c4d6ce328627003be3?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">andrew</span><br>
+				June 27, 2010 at 2:02 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1771#respond" onclick="return addComment.moveForm(&quot;comment-1771&quot;, &quot;1771&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1771">
+								<p>what is the place of the unearthed temple in the forest?</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-1853">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/1bbaea4dd0fc78255feea6668237e32e?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">MKMjr</span><br>
+				July 11, 2010 at 11:34 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1853#respond" onclick="return addComment.moveForm(&quot;comment-1853&quot;, &quot;1853&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1853">
+								<p>what’s the point if we don’t tell us where they are?</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1906">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://1.gravatar.com/avatar/5c70bd6a0ea48e94cf8b8850c129151b?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">Nandalwar G V</span><br>
+				July 22, 2010 at 10:25 am<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1906#respond" onclick="return addComment.moveForm(&quot;comment-1906&quot;, &quot;1906&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1906">
+								<p>very cool, nature`s beauty</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-1969">
+		<div class="wpn_cwrap">
+			<div class="wpn_info">
+				<div class="wpn_avatar"><img alt="" src="http://0.gravatar.com/avatar/ee9d990a7301eda1f69d7f54c746b19e?s=80&amp;d=http%3A%2F%2Fbuzzinn.net%2Fwp-content%2Fthemes%2FElements%2Fimg%2Favatar.jpg%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80"></div>
+				<span class="wpn_author">Mike L</span><br>
+				August 11, 2010 at 6:15 pm<br>
+								<a rel="nofollow" class="comment-reply-link" href="/unforgettable-places/?replytocom=1969#respond" onclick="return addComment.moveForm(&quot;comment-1969&quot;, &quot;1969&quot;, &quot;respond&quot;, &quot;501&quot;)">Reply</a>			</div>
+			<div class="wpn_comment" id="comment-1969">
+								<p>The photos are nice, but they lose a lot without some information…</p>
+			</div>
+			<div class="wpn_clear"></div>
+		</div>
+		<div class="wpn_clear"></div>
+</li>
+	</ul>
+	<div class="navigation" style="padding:10px;">
+		<div style="clear:both;"></div>
+		<div class="alignleft">
+					</div>
+		<div class="alignright">
+					</div>
+		<div style="clear:both;"></div>
+	</div>
+</div>
+<div class="wpn_box-bottom"></div>
+<!-- // Comment List -->
+
+<!-- Reply Form // -->
+<div class="wpn_box wpn_comments">
+	<div id="respond">
+		<span class="wpn_heading3">Add a comment<a class="wpn_gravatar" href="http://www.gravatar.com/" target="_blank">Get a Gravatar</a></span>
+		<div class="cancel-comment-reply"><img src="http://buzzinn.net/wp-content/themes/Elements/img/icons/cross.png"> <a rel="nofollow" id="cancel-comment-reply-link" href="/unforgettable-places/#respond">Click here to cancel reply.</a></div>
+				<div class="wpn_form">
+			<form action="http://buzzinn.net/wp-comments-post.php" method="post" id="commentform">
+									<!-- User not logged in // -->
+					<p><input type="text" class="wpn_input wpn_input-name" name="author" value="Required: Name" onfocus="if(this.value=='Required: Name')this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"><img src="http://buzzinn.net/wp-content/themes/Elements/img/comments_required.gif" alt="*"> Name</p>
+					<p><input type="text" class="wpn_input wpn_input-email" name="email" value="Required: Email" onfocus="if(this.value=='Required: Email')this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" aria-required="true"><img src="http://buzzinn.net/wp-content/themes/Elements/img/comments_required.gif" alt="*"> Email Address</p>
+					<p><input type="text" class="wpn_input wpn_input-website" name="url" value="Optional: Website URL" onfocus="if(this.value=='Optional: Website URL')this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">Website Address</p>
+					<!-- // User not logged in -->
+						  
+				
+
+	<p style="clear: both;" class="subscribe-to-comments">
+	<input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;">
+	<label for="subscribe">Notify me of followup comments via e-mail</label>
+	</p>
+
+
+      
+				
+				<p><textarea name="comment" id="comment" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">Type your message here...</textarea></p>
+				<input type="image" src="http://buzzinn.net/wp-content/themes/Elements/img/comments_submit.gif">
+				<strong>You can usethese tags:</strong><br>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; 				<input type="hidden" name="comment_post_ID" value="501" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="1476">
+				<div class="wpn_clear"></div>
+				
+			</form>
+		</div>
+			</div>
+</div>
+<div class="wpn_box-bottom"></div>
+<!-- // Reply Form -->
+	<!-- // Comments -->
+	<div class="wpn_clear"></div>
+	
+			</div>
+
+
+<!-- Sidebar // -->
+<div class="wpn_right">
+
+	<!-- Advertisement // -->
+<span class="wpn_heading2"></span>
+<div class="wpn_box wpn_box-nopad wpn_expandable">
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=300X250&amp;cwpid=520430&amp;cwwidth=300&amp;cwheight=250&amp;cwpnet=1&amp;cwtagid=66661"></script>
+</div>
+<div class="wpn_box-bottom"></div>
+<!-- // Advertisement -->	
+	<!-- Widget Check // -->
+	<span class="wpn_heading2"> RSS <a class="wpn_toggle-expand wpn_toggle-hide" href="#"></a></span> <div class="wpn_box wpn_expandable">			<div class="textwidget"><form style="border:1px solid #ccc;padding:3px;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=feedburner/hiZG', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<p> <b>Enter your email address:</b></p>
+<br>
+<p>
+<input type="text" style="width:180px" name="email"> &nbsp;&nbsp;
+<input type="hidden" value="feedburner/hiZG" name="uri"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe">
+</p><p></p>
+</form>
+<br>
+
+<div align="center"><a href="http://feeds.feedburner.com/feedburner/hiZG"><img src="http://feeds.feedburner.com/~fc/feedburner/hiZG?bg=FFFFFF&amp;fg=444444&amp;anim=0&amp;label=listeners" height="26" width="88" style="border:0" alt=""></a></div>
+</div>
+		</div><div class="wpn_clear"></div><div class="wpn_box-bottom"></div>	<!-- Around The Site // -->
+	<span class="wpn_heading2">Around The Site<a class="wpn_toggle-expand wpn_toggle-hide" href="#"></a></span>
+	<div class="wpn_box wpn_box-nopad wpn_box-around wpn_expandable">
+		<ul class="wpn_around-tabs">
+			<li><a href="#around_news" class="wpn_active">Latest News</a></li>
+			<li><a href="#around_popular">Popular</a></li>
+			<li><a href="#around_comments">Latest Comments</a></li>
+		</ul>
+		<div id="around_news" class="wpn_active">
+			<ul class="wpn_list2">
+									<li><a href="http://buzzinn.net/tokyo-apocalypse/">Tokyo Apocalypse</a><span>by <a href="http://buzzinn.net/author/nick/" title="Posts by nick">nick</a> on August 26th, 2010 | <a href="http://buzzinn.net/tokyo-apocalypse/#comments">2 Comments</a></span></li>
+									<li><a href="http://buzzinn.net/price-tag-fails/">Price Tag Fails</a><span>by <a href="http://buzzinn.net/author/nick/" title="Posts by nick">nick</a> on August 8th, 2010 | <a href="http://buzzinn.net/price-tag-fails/#comments">No Comments</a></span></li>
+									<li><a href="http://buzzinn.net/cartoon-medical-disorders/">Cartoon Medical Disorders</a><span>by <a href="http://buzzinn.net/author/nick/" title="Posts by nick">nick</a> on July 14th, 2010 | <a href="http://buzzinn.net/cartoon-medical-disorders/#comments">No Comments</a></span></li>
+									<li><a href="http://buzzinn.net/worlds-biggest-things/">World’s Biggest Things</a><span>by <a href="http://buzzinn.net/author/nick/" title="Posts by nick">nick</a> on July 8th, 2010 | <a href="http://buzzinn.net/worlds-biggest-things/#comments">2 Comments</a></span></li>
+									<li><a href="http://buzzinn.net/one-million-giraffes-is-it-possible/">One Million Giraffes – Is It Possible?</a><span>by <a href="http://buzzinn.net/author/nick/" title="Posts by nick">nick</a> on July 5th, 2010 | <a href="http://buzzinn.net/one-million-giraffes-is-it-possible/#comments">No Comments</a></span></li>
+							</ul>
+		</div>
+		<div id="around_popular">
+			<ul class="wpn_list2">
+				<!-- Wordpress Popular Posts Plugin v2.1.4 [SC] [daily] [custom] -->
+<ul>
+<li><a href="http://buzzinn.net/what-are-these-girls-trying-to-say/" title="What Are These Girls Trying To Say"><span class="wpp-post-title">What Are These Girls Trying To Say</span></a>  <span class="post-stats"><span class="wpp-comments">63  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/my-owner-is-an-idiot/" title="My Owner Is An Idiot"><span class="wpp-post-title">My Owner Is An Idiot</span></a>  <span class="post-stats"><span class="wpp-comments">49  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/my-parent-is-an-idiot/" title="My Parent Is An Idiot"><span class="wpp-post-title">My Parent Is An Idiot</span></a>  <span class="post-stats"><span class="wpp-comments">37  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/top-10-most-expensive-accidents-in-history/" title="Top 10 Most Expensive Accidents in History"><span class="wpp-post-title">Top 10 Most Expensive Accidents in History</span></a>  <span class="post-stats"><span class="wpp-comments">35  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/sexy-military-women-around-the-world/" title="Sexy Military Women Around The World"><span class="wpp-post-title">Sexy Military Women Around The World</span></a>  <span class="post-stats"><span class="wpp-comments">26  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/unforgettable-places/" title="Unforgettable Places"><span class="wpp-post-title">Unforgettable Places</span></a>  <span class="post-stats"><span class="wpp-comments">21  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/tongue-tattoos/" title="Tongue Tattoos"><span class="wpp-post-title">Tongue Tattoos</span></a>  <span class="post-stats"><span class="wpp-comments">16  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/craziest-questions-for-yahoo-answers/" title="Craziest Questions For Yahoo Answers!"><span class="wpp-post-title">Craziest Questions For Yahoo Answers!</span></a>  <span class="post-stats"><span class="wpp-comments">16  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/shocking-google-search-results/" title="Shocking Google Search Results"><span class="wpp-post-title">Shocking Google Search Results</span></a>  <span class="post-stats"><span class="wpp-comments">16  comment(s)</span></span> </li>
+<li><a href="http://buzzinn.net/strangest-and-rarest-animals-in-world/" title="Strangest And Rarest Animals In World"><span class="wpp-post-title">Strangest And Rarest Animals In World</span></a>  <span class="post-stats"><span class="wpp-comments">16  comment(s)</span></span> </li>
+</ul>
+<!-- End Wordpress Popular Posts Plugin v2.1.4 -->
+			</ul>
+		</div>
+		<div id="around_comments">
+			<ul class="wpn_list2">
+				
+ <li><a href="http://buzzinn.net/my-parent-is-an-idiot/#comment-2066">mukesh</a> on <a href="http://buzzinn.net/my-parent-is-an-idiot/">My Parent Is An Idiot</a><span>why parent do</span></li>
+ <li><a href="http://buzzinn.net/the-strongest-woman-in-sweden/#comment-2063">Hüseyin Kafkas</a> on <a href="http://buzzinn.net/the-strongest-woman-in-sweden/">The Strongest Woman In Sweden</a><span>Mrs. Muscle :)</span></li>
+ <li><a href="http://buzzinn.net/tattoos-and-time/#comment-2062">Anonymous</a> on <a href="http://buzzinn.net/tattoos-and-time/">Tattoos And Time</a><span>Agreed! Is this supposed </span></li>
+ <li><a href="http://buzzinn.net/all-you-need-is-a-strong-spirit/#comment-2061">docs</a> on <a href="http://buzzinn.net/all-you-need-is-a-strong-spirit/">All You Need Is A Strong Spirit</a><span>I'd definitely try this m</span></li>
+ <li><a href="http://buzzinn.net/hiroshima-and-detroit-then-and-now/#comment-2060">Tim Hutchinson</a> on <a href="http://buzzinn.net/hiroshima-and-detroit-then-and-now/">Hiroshima And Detroit Then And Now</a><span>The author obviously has </span></li>
+			</ul>
+		</div>
+	</div>
+	<div class="wpn_box-bottom"></div>
+	<!-- // Around The Site -->
+<span class="wpn_heading2"> Friends <a class="wpn_toggle-expand wpn_toggle-hide" href="#"></a></span> <div class="wpn_box wpn_expandable">			<div class="textwidget"><div>
+<a href="http://www.do-while.com" target="_blank"><h3>Do-While | We inspire you!</h3></a><br>
+<a href="http://www.chilloutpoint.com/" target="_blank"><h3>Chill Out Point - Funny Images &amp; Artwork</h3></a><br>
+<a href="http://virtualfunzone.com/" target="_blank"><h3>Virtual Fun Zone - Awesome Galleries</h3></a><br>
+<a href="http://www.weirdworm.com/" target="_blank"><img src="http://fillinn.com/img/ww.jpg" border="0" alt="Weird Worm - Weird And Bizarre"></a>
+</div>
+<br>
+</div>
+		</div><div class="wpn_clear"></div><div class="wpn_box-bottom"></div><span class="wpn_heading2"> Popular on the Web: <a class="wpn_toggle-expand wpn_toggle-hide" href="#"></a></span> <div class="wpn_box wpn_expandable">			<div class="textwidget"><div align="center">
+<script type="text/javascript" src="http://2leep.com/ticker2/351/custom/1/10/270/bottom/transparent|%23ffffff|Arial,Arial,Helvetica,sans-serif|1.2em|0.04em|14px|300|9811|0|0|0|center|middle|rectangular"></script>
+</div></div>
+		</div><div class="wpn_clear"></div><div class="wpn_box-bottom"></div><!-- Wordpress Popular Posts Plugin v2.1.4 [W] [all] [regular] -->
+<span class="wpn_heading2"> 
+Popular Posts <a class="wpn_toggle-expand wpn_toggle-hide" href="#"></a></span> <div class="wpn_box wpn_expandable"><ul>
+<li><a href="http://buzzinn.net/the-strongest-woman-in-sweden/" title="The Strongest Woman In Sweden"><span class="wpp-post-title">The Strongest Woman In Sweden</span></a>  <span class="post-stats"><span class="wpp-comments">230  comment(s)</span> | <span class="wpp-views">444934  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/my-owner-is-an-idiot/" title="My Owner Is An Idiot"><span class="wpp-post-title">My Owner Is An Idiot</span></a>  <span class="post-stats"><span class="wpp-comments">49  comment(s)</span> | <span class="wpp-views">303855  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/what-are-these-girls-trying-to-say/" title="What Are These Girls Trying To Say"><span class="wpp-post-title">What Are These Girls Trying To Say</span></a>  <span class="post-stats"><span class="wpp-comments">63  comment(s)</span> | <span class="wpp-views">275498  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/amazing-collectors/" title="Amazing Collectors"><span class="wpp-post-title">Amazing Collectors</span></a>  <span class="post-stats"><span class="wpp-comments">12  comment(s)</span> | <span class="wpp-views">231648  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/my-parent-is-an-idiot/" title="My Parent Is An Idiot"><span class="wpp-post-title">My Parent Is An Idiot</span></a>  <span class="post-stats"><span class="wpp-comments">37  comment(s)</span> | <span class="wpp-views">228714  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/you-dont-like-overweight-girls/" title="You Don’t Like Overweight Girls? Think Again!"><span class="wpp-post-title">You Don’t Like Overweight Girls? Think Again!</span></a>  <span class="post-stats"><span class="wpp-comments">548  comment(s)</span> | <span class="wpp-views">216618  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/tongue-tattoos/" title="Tongue Tattoos"><span class="wpp-post-title">Tongue Tattoos</span></a>  <span class="post-stats"><span class="wpp-comments">16  comment(s)</span> | <span class="wpp-views">193680  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/the-art-of-graffiti/" title="The Art Of Graffiti"><span class="wpp-post-title">The Art Of Graffiti</span></a>  <span class="post-stats"><span class="wpp-comments">11  comment(s)</span> | <span class="wpp-views">181998  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/wtf-pictures-collection/" title="WTF Pictures Collection"><span class="wpp-post-title">WTF Pictures Collection</span></a>  <span class="post-stats"><span class="wpp-comments">1  comment(s)</span> | <span class="wpp-views">178612  view(s)</span></span> </li>
+<li><a href="http://buzzinn.net/30-funny-news-caption-mistakes/" title="30 Funny News Caption Mistakes"><span class="wpp-post-title">30 Funny News Caption Mistakes</span></a>  <span class="post-stats"><span class="wpp-comments">3  comment(s)</span> | <span class="wpp-views">172672  view(s)</span></span> </li>
+
+</ul>
+</div><div class="wpn_clear"></div><div class="wpn_box-bottom"></div>
+<!-- End Wordpress Popular Posts Plugin v2.1.4 -->
+	<!-- // Widget Check -->
+	
+<div>
+	<div style="float: left;">
+	<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=520430&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=66703"></script>
+	</div>
+	<div style="float: right;">
+	<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=120X600&amp;cwpid=520430&amp;cwwidth=120&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=66700"></script>
+	</div>
+</div>	
+	
+</div>
+<!-- // Sidebar -->			<div class="wpn_clear"></div>
+		</div>
+		<!-- // Wrapper -->
+		
+		<!-- Footer // -->
+		<div class="wpn_footer">
+			<div class="wpn_finner">
+				<a class="wpn_back-to-top" href="#top">Back To Top</a>
+				
+				<!-- Copyright // -->
+				<div class="wpn_copyright" align="center">
+			    <script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=728X90&amp;cwpid=520430&amp;cwwidth=728&amp;cwheight=90&amp;cwpnet=1&amp;cwtagid=66706"></script> 
+				</div>
+				<!-- // WP Now -->
+			</div>
+		</div>
+		<!-- // Footer -->
+<!-- MarketPopup Start --> <script src="http://mg.dt00.net/ujs/b/u/buzzinn.net.1942.js" type="text/javascript"></script> <!-- MarketPopup End --> 
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5194968; 
+var sc_invisible=1; 
+var sc_partition=49; 
+var sc_click_stat=1; 
+var sc_security="309f118f"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="web analytics" href="http://www.statcounter.com/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/5194968/0/309f118f/1/" alt="web analytics"></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11137924-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+		
+	
+</body></html>

@@ -1,0 +1,697 @@
+<!DOCTYPE html><html><!-- Methode uuid: "1825bdfa-c3a7-11de-aa6f-e90fa6b50729" --><head>
+<title>Enterprise</title>
+<meta name="eomportal-instanceid" content="12">
+<meta name="eomportal-id" content="10505">
+<meta name="eomportal-loid" content="1.0.78719037">
+<meta name="eomportal-uuid" content="1825bdfa-c3a7-11de-aa6f-e90fa6b50729">
+<meta name="eomportal-lastUpdate" content="Sat Sep 18 10:47:46 EST 2010">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="INDEX, FOLLOW">
+<meta name="Identifier-URL" content="http://www.afr.com/">
+<meta name="distribution" content="global">
+<meta name="Publisher-Email" content="info@afr.com">
+<meta name="Content-Language" content="en-UK">
+<meta name="resource-type" content="document">
+<meta name="copyright" content="Copyright 2009 NYP Holdings. All rights reserved.">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<link rel="shortcut icon" href="/r/SysConfig/WebPortal/afr/_files/images/favicon.ico">
+<link rel="icon" href="/r/SysConfig/WebPortal/afr/_files/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" media="screen" href="/r/SysConfig/WebPortal/afr/_files/css/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/r/SysConfig/WebPortal/afr/_files/css/widgets.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/r/SysConfig/WebPortal/afr/_files/css/accordion.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/r/SysConfig/WebPortal/afr/_files/css/jquery.autocomplete.css">
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/global.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/lib/accordion-v2.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/lib/utils.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/lib/content_nav.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/lib/div_slide.js"></script>
+<script type="text/javascript" src="/commons/js/portal.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/jquery/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/jquery/autocomplete.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/globalSearch.js"></script>
+<!--[if lte IE 6]>
+ 	<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/lib/supersleight-min.js"></script>
+<![endif]-->
+</head>
+<body><script type="text/javascript">window.SERVERDATETIME='2010/09/18 01:14:45'</script>
+<!--  p:script src="/commons/js/highlight.js" type="context" / -->
+
+<div id="site-container">
+	<!-- ============================================================================================= HEADER-->
+	
+	<noscript>
+		<div id="no_javascript">
+		<p class="attention">JavaScript is turned off in your browser</p>
+		<p>To view afr.com website correctly and with full functionality requires your browser be JavaScript enabled.</p>
+		<a href="/help">Click here for help »</a>
+		</div>
+	</noscript>
+	
+	<div id="header">
+	<a href="/home"><img alt="afr.com" src="/rw/SysConfig/WebPortal/afr/_files/images/afr_logo.jpg"></a><div id="search" style="position:relative;">
+	<a href="/all_search?openSearch=true&amp;clearAll=true" class="advance_search_link">advanced search</a>
+	<div class="basic_search">
+		<form id="mdsearch" name="mdsearch">
+			<input type="hidden" name="id" value="general">
+			<input onkeypress="return handleEnterKeyUrl(event, '/Search');" id="search_input" name="search_input" class="search_input" value="Search news, quotes, announcements and people" onblur="if(this.value == '')this.value ='Search news, quotes, announcements and people';" onclick="if(this.value == 'Search news, quotes, announcements and people')this.value ='';">
+			<input type="hidden" id="asx_code" name="asx_code">
+			<input type="hidden" id="url_action" name="url_action">
+			<input type="hidden" id="current_search_selection" name="current_search_selection">
+			<input type="button" name="button" class="submit_button" value="SEARCH" onclick="submitForm(this.parentNode, '/Search');">
+		</form>
+	</div>
+</div>
+<div id="signIn_container">
+		<ul>
+			<li><a href="https://subscribe.afr.com/afr/default.aspx?referrer=1" id="subscribe_text">Subscribe </a></li>
+			<li><a id="sign_in" href="/login">Sign In</a></li></ul>
+		</div>
+</div><div id="top-nav">
+	<div id="format_nav">
+		<ul>
+			<li><a href="/mobile_info">Mobile</a></li>
+			<li><a href="http://tv.afr.com/">TV</a></li>
+			<li><a href="/login?p=digital">Today's Paper</a></li>
+			</ul>
+	</div>
+	<div id="my_nav">
+		<ul>
+			<li><a href="http://tools.afr.com/portfolios/portfolios.aspx">My Portfolio</a></li>
+			<li class="myNav_alerts">
+				<a href="/login?p=alerts">My Alerts</a>
+				</li>
+		</ul>
+	</div>
+	<div id="main_nav">
+		<ul>
+		<li class="mainNav_first">
+						<a href="/home">Home</a></li>
+				<li>
+						<a href="/national">National</a></li>
+				<li>
+						<a href="/world">World</a></li>
+				<li>
+						<a href="/business">Business</a></li>
+				<li>
+						<a href="/industries">Industries</a></li>
+				<li>
+						<a href="/markets">Markets</a></li>
+				<li>
+						<a href="/personal_finance">Personal Finance</a></li>
+				<li>
+						<a href="/opinion">Opinion</a></li>
+				<li>
+						<a href="/lifestyle">Lifestyle</a></li>
+				</ul>
+	</div>
+</div><div id="page_nav">
+
+	<ul>
+		<!-- setting the current menuItem as selected logic -->
+			<!-- matched : [/business/enterprise] with [/business] NOTE : Level 1-->
+					<li id="breadcrumb_1" class="second">
+						<a href="/business">Business</a></li>
+				<!-- matched : [SiteSection [[#      120] /WebPortal/Site/afr/business/enterprise [FolderProxyImpl:PortalSection, 1.0.79684275]]] with [SiteSection [[#      120] /WebPortal/Site/afr/business/enterprise [FolderProxyImpl:PortalSection, 1.0.79684275]]] NOTE : Level 2-->
+						<li id="breadcrumb_2">
+							<a href="/business/enterprise">Enterprise</a></li>
+						
+						<!-- Blue Link -->
+				</ul>
+</div><!-- ============================================================================================= PAGE-->
+	<!-- Methode uuid: "6d6ad4f2-c3a8-11de-bf2e-f119575b4bc5" -->
+<div id="page">
+	<div id="content">
+		<h1>
+			Enterprise</h1>
+		<!-- Column Left-->
+		<div class="width_646 column_left">
+			<br><br>
+			<div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/green_suppliers_extend_their_footprint_h6w5sLxsB87y8E3MaihGwN">Green suppliers extend their footprint</a></h2>
+	<a href="/p/business/enterprise/green_suppliers_extend_their_footprint_h6w5sLxsB87y8E3MaihGwN"><img alt="Green suppliers extend their footprint" src="/rf/image_lowres/2009-2014/AFR/2010/09/13/Photos/3fabc688-bf75-11df-ae38-e61e6d156642_syd-5vejb207l8gaexjld2j--90x60.jpg">
+						</a><p>
+	Increasing demand for energy management systems and sustainable building products is supporting the growth of  green-based businesses.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/dyson_puts_technology_on_top_7EzpCHu9tkQDCci33HeYXL">Dyson puts technology on top</a></h2>
+	<a href="/p/business/enterprise/dyson_puts_technology_on_top_7EzpCHu9tkQDCci33HeYXL"><img alt="Dyson puts technology on top" src="/rf/image_lowres/2009-2014/AFR/2010/09/13/Photos/dcc0d126-bf74-11df-ae38-e61e6d156642__F8Q8645--90x60.jpg">
+						</a><p>
+	Dyson’s global commitment to innovation continues to define the company, according to managing director south-east Asia Ross Cameron.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/law_may_lead_to_big_losses_for_smes_9a9Nji1Pil12y1fnOzYGKK">Law may lead to big losses for SMEs</a></h2>
+	<p>
+	Small to medium-size businesses are being warned to get ready for the new personal property securities legislation that takes affect next May or face losing claim over goods in the event of a customer’s business failing.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/court_ruling_gives_farmers_big_tax_8ECiIrBEz5UhgK08vkviTN">Court ruling gives farmers a big tax hit</a></h2>
+	<a href="/p/business/enterprise/court_ruling_gives_farmers_big_tax_8ECiIrBEz5UhgK08vkviTN"><img alt="Court ruling gives farmers a big tax hit" src="/rf/image_lowres/2009-2014/AFR/2010/09/13/Photos/f840190c-bf74-11df-ae38-e61e6d156642_syd-5tqd4ym04r41khpk66s0--90x60.jpg">
+						</a><p>
+	Farmers that carry on their businesses through a trust structure could lose thousands of dollars if their trust deeds are not compliant with a recent High Court decision.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/aged_care_goes_high_tech_rLMFWq0JUW4FoetydmHVwM">Aged care goes high-tech</a></h2>
+	<p>
+	Simavita plans to take on the world with its revolutionary incontinence monitoring system.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/get_advice_on_cgt_tax_breaks_lptMg3tbEfel9uVtj9HXqK">Get advice on CGT tax breaks</a></h2>
+	<p>
+	We are in the process of selling our business and we want to use the capital gains tax small business concessions to manage our tax exposure. How do we know which concession to take?</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/new_broker_to_help_cash_starved_LuZEYzF8tJ14UJQPzVI8cO">New broker to help cash-starved small businesses</a></h2>
+	<p>
+	The founder of the Australian Small Scale Offerings Board has set up a business to help small and medium-sized enterprises that want funding to expand or develop.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/national/smes_register_their_disappointment_hGLRyV7k7UXE969wFcLwDK">SMEs register their disappointment</a></h2>
+	<p>
+	The SME sector will miss out on crucial reforms as a result of the formation of minority Labor government, small business groups said.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/marshall_day_carves_niche_in_chinese_GdHfqthYdSY8LXajAmYV8L">Marshall Day carves niche in Chinese market</a></h2>
+	<p>
+	Australian small and medium enterprises have to stand up for themselves in negotiations in China, while at the same time respecting local culture.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/shop_around_savvy_borrowers_8rFQyFyNsOOXd8kEJS8NjK">Shop around, savvy borrowers</a></h2>
+	<p>
+	The stubbornly high interest rates that small businesses have to pay on loans is a hangover from the global financial crisis.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/staff_shares_can_solve_succession_gjMuOIUbVaDvCCgOeaVtrM">Staff shares can solve succession woes</a></h2>
+	<p>
+	Business owners who are approaching retirement are being advised not to overlook a third option when formulating their succession plans: employee ownership schemes.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/foreign_investors_eye_small_businesses_A7ONGWmPXKOBMkAOC2PTnK">Foreign investors eye small businesses</a></h2>
+	<p>
+	Cashed-up foreign investors are taking advantage of the depressed state of prices for small businesses as local investors struggle with tougher lending criteria.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/research_to_reality_N6UIfoSbMpKCXMBqkJxfHJ">Research to reality</a></h2>
+	<p>
+	PhD research projects rarely end up the basis for a start-up business anywhere in the world and, in Australia, academic ideas that have an impact on industrial markets are rarer still.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/and_SF4CJG5zrxIIW1NF1sYjsN">Q and A</a></h2>
+	<p>
+	We operate a service business and engage a reasonable number of contractors. A friend said we should look at our tax exposures. What is he referring to?</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/getting_the_best_fit_for_your_business_eggrzixwtMBFGnsSE7m3oO">Getting the best fit for your business</a></h2>
+	<p>
+	An internet business that matches the needs of companies and individuals with each other has won the backing of NSW local councils.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/sharp_fall_in_sme_credit_index_in_VFlqwP6s3Cw0CiKkKUXhkM">Sharp fall in SME credit index in June</a></h2>
+	<p>
+	Credit demand of Australia's small business sector fell sharply in June, with demand for asset finance plunging 21 per cent, a commercial credit demand index shows.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/independents_to_support_small_business_D9lxHXn6xsx482PUJuPYsK">Independents to support small business</a></h2>
+	<a href="/p/business/enterprise/independents_to_support_small_business_D9lxHXn6xsx482PUJuPYsK"><img alt="Independents to support small business" src="/rf/image_lowres/2009-2014/AFR/2010/08/30/Photos/3555374e-b473-11df-a74e-332cbfddfd75_22010212x--90x60.jpg">
+						</a><p>
+	The small business and franchising sectors are quietly confident that the four independents will support their sectors.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/chinese_tycoons_look_for_new_life_jS7i6jF9unG7fKDcsXoMcI">Chinese tycoons look for a new life as greens</a></h2>
+	<p>
+	Zhang Yue, founder and chairman of Broad Air Conditioning, achieved the new Chinese dream of making millions, but then dropped the jet-setting life for a green philosophy that determines company policy.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/slush_puppie_opens_up_to_franchising_g27X1xDHsMuhJPUHPMPi4I">Slush Puppie opens up to franchising</a></h2>
+	<p>
+	The Queensland-based Stafford Group is offering a limited number of Slush Puppie franchises to speed up the national expansion of the brand.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/collective_buying_sites_help_sales_hApgkXqPwFxt7iB1fb3hFJ">Collective buying sites help sales</a></h2>
+	<p>
+	Online collective buying sites continue to sprout, potentially pumping up small business sales as they offer consumers cheaper deals.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/printers_to_launch_name_and_shame_BGoyIyGjRXH4NLt0iH3nkI">Printers to launch name and shame campaign</a></h2>
+	<p>
+	Printers will launch a campaign exposing Australian companies that force local printers to send their work offshore.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/world/bnz_eases_small_business_lending_WTaieyQGrrv3cxtSTeSFhP">BNZ eases small business lending criteri</a></h2>
+	<p>
+	New Zealand's BNZ says it lifted its share of the small business market, after a move to ease lending criteria for the sector.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/national/boomers_face_new_challenge_h3sc4NReCcbXVGsT49hBjM">Boomers face new challenge</a></h2>
+	<a href="/p/national/boomers_face_new_challenge_h3sc4NReCcbXVGsT49hBjM"><img alt="Boomers face new challenge" src="/rf/image_lowres/2009-2014/AFR/2010/08/29/Photos/35969ade-b3ad-11df-8d0d-1db224f63da8_syd-5o18kpiy9e0gptx7jjk--90x60.jpg">
+						</a><p>
+	It’s called the ‘succession bubble’ and its the latest challenge to confront baby boomers in business.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/the_top_end_of_digital_evolution_pP9QHk8HwPPINFdwDbshAO">The top end of digital evolution</a></h2>
+	<a href="/p/business/enterprise/the_top_end_of_digital_evolution_pP9QHk8HwPPINFdwDbshAO"><img alt="The top end of digital evolution" src="/rf/image_lowres/2009-2014/AFR/2010/08/27/Photos/8c17a2ca-b21a-11df-af05-cd5c1bea23a8_2I1X7104--90x60.jpg">
+						</a><p>
+	Sydney printing company Momento is firmly established in the premium market.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/impasse_on_agreement_n3F0zodUDeGjNRXQjjmh7L">Q&amp;A: Impasse on agreement</a></h2>
+	<p>
+	I own a business with two other unrelated shareholders. The business has grown over the years and certainly has some value in it. As shareholders we have always talked about having a buy/sell agreement in place in the event of something happening to one of us. I want to get us past the talking stage and do something about it.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/wholesalers_chase_debts_as_retailers_q6so5k4BFOkt2OtFhFDdTO">Wholesalers chase debts as retailers feel the pinch</a></h2>
+	<p>
+	A blow-out in the number of retailers owing money to their wholesalers and distributors has convinced one leading debt collection agency that the outlook for the retail sector is worsening.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/risk_arises_from_past_failures_NZ6eXLbjX4uGo9JFHAqjFJ">Risk arises from past failures</a></h2>
+	<a href="/p/business/enterprise/risk_arises_from_past_failures_NZ6eXLbjX4uGo9JFHAqjFJ"><img alt="Risk arises from past failures" src="/rf/image_lowres/2009-2014/AFR/2010/08/23/Photos/502495a2-aef0-11df-ac2b-0c2c0f4f2b0a_38356574--90x60.jpg">
+						</a><p>
+	Small businesses have been advised to run credit checks on potential customers if they want to avoid being burnt by “phoenix” companies.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/answerback_ZlhvytxNArWqJ1HDHIeHdP">Answerback</a></h2>
+	<p>
+	I am the owner of an engineering firm and want to provide an incentive for a couple of key employees. Cash is a little tight, so I do not want to provide them with bonuses. I have heard that the new employee share provisions allow employees to choose to be taxed on share or option discounts at some point in the future. How does all this work?</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/small_business_needs_an_image_make_bSn8tzDysXiMogut9Njk3O">Small business needs an image make-over</a></h2>
+	<p>
+	The lack of a clear representative is blamed for the poor public perception of small business.</p>
+</div><div class="secondary_story">
+	<h2>
+	<a href="/p/business/enterprise/novel_funding_deal_with_private_wyfQluaXbRLZIyD5GkO0gO">Novel funding deal with private equity</a></h2>
+	<p>
+	An innovative claims assessment business has raised $1 million through private equity to fund growth over the next five years.</p>
+</div></div>
+		<!-- Column Right-->
+		<div class="width_318 column_right">
+			<!-- apos is killing javascripts -->
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRMR1BUS - desc : Medium_Rectangle</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRSPOBUS - desc : Sponsored_Links</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRLEABUS - desc : Leaderboard</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRMR1BUS - desc : Medium_Rectangle</b><br/> -->
+
+	<div class="advertising mrec">
+				<span>advertising</span>
+				<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+				<script type="text/javascript"><!--//<![CDATA[
+				   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+				
+				   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=82&amp;source=AFRMR1BUS&amp;target=_blank&amp;withText=0&amp;block=0&amp;blockcampaign=0");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+				       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+				   }
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+					//]]>-->
+				</script>
+				<noscript>
+					<a href="http://ads.afraccess.com/openx/www/delivery/ck.php?n=a5c62690&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank">
+						<img src="http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=82&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5c62690&amp;ct0=INSERT_CLICKURL_HERE" border="0" alt="">
+					</a>
+				</noscript>
+
+			</div>
+		<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRSPOBUS - desc : Sponsored_Links</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRLEABUS - desc : Leaderboard</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRMR1BUS - desc : Medium_Rectangle</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRSPOBUS - desc : Sponsored_Links</b><br/> -->
+
+	<div class="advertising">
+			<span>sponsored links</span>
+				<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRSPOBUS</b><br/> -->
+				<div class="sponsored_link">						
+						<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+						<script type="text/javascript"><!--//<![CDATA[
+						   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+						
+						   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=99&amp;source=AFRSPOBUS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1");
+				   		   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+						       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+						   }
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+						//]]>--> 
+						</script>
+						<noscript>
+							<a href="http://ads.afraccess.com/openx/www/delivery/ck.php?n=a16e7961&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank">
+								<img src="http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=99&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a16e7961&amp;ct0=INSERT_CLICKURL_HERE" border="0" alt="">
+							</a>
+						</noscript>
+					</div>
+				<div class="sponsored_link">						
+						<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+						<script type="text/javascript"><!--//<![CDATA[
+						   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+						
+						   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=99&amp;source=AFRSPOBUS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1");
+				   		   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+						       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+						   }
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+						//]]>--> 
+						</script>
+						<noscript>
+							<a href="http://ads.afraccess.com/openx/www/delivery/ck.php?n=a16e7961&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank">
+								<img src="http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=99&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a16e7961&amp;ct0=INSERT_CLICKURL_HERE" border="0" alt="">
+							</a>
+						</noscript>
+					</div>
+				<div class="sponsored_link">						
+						<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+						<script type="text/javascript"><!--//<![CDATA[
+						   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+						
+						   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=99&amp;source=AFRSPOBUS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1");
+				   		   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+						       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+						   }
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+						//]]>--> 
+						</script>
+						<noscript>
+							<a href="http://ads.afraccess.com/openx/www/delivery/ck.php?n=a16e7961&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank">
+								<img src="http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=99&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a16e7961&amp;ct0=INSERT_CLICKURL_HERE" border="0" alt="">
+							</a>
+						</noscript>
+					</div>
+				</div>
+		<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRLEABUS - desc : Leaderboard</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRMR1BUS - desc : Medium_Rectangle</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRSPOBUS - desc : Sponsored_Links</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRLEABUS - desc : Leaderboard</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRMR1BUS - desc : Medium_Rectangle</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRSPOBUS - desc : Sponsored_Links</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: right - zoneName: AFRLEABUS - desc : Leaderboard</b><br/> -->
+
+	</div>
+	</div>
+	<div id="search" style="position:relative;">
+	<a href="/all_search?openSearch=true&amp;clearAll=true" class="advance_search_link">advanced search</a>
+	<div class="basic_search">
+		<form id="mdsearch" name="mdsearch">
+			<input type="hidden" name="id" value="general">
+			<input onkeypress="return handleEnterKeyUrl(event, '/Search');" id="search_input" name="search_input" class="search_input" value="Search news, quotes, announcements and people" onblur="if(this.value == '')this.value ='Search news, quotes, announcements and people';" onclick="if(this.value == 'Search news, quotes, announcements and people')this.value ='';">
+			<input type="hidden" id="asx_code" name="asx_code">
+			<input type="hidden" id="url_action" name="url_action">
+			<input type="hidden" id="current_search_selection" name="current_search_selection">
+			<input type="button" name="button" class="submit_button" value="SEARCH" onclick="submitForm(this.parentNode, '/Search');">
+		</form>
+	</div>
+</div>
+</div><!-- ============================================================================================= FOOTER-->
+	<div id="footer">
+		<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: footer - zoneName: AFRMR1BUS - desc : Medium_Rectangle</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: footer - zoneName: AFRSPOBUS - desc : Sponsored_Links</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: footer - zoneName: AFRLEABUS - desc : Leaderboard</b><br/> -->
+
+	<div class="advertising leaderboard_footer">
+				<!--/* OpenX Javascript Tag v2.8.3 */-->
+	
+				<script type="text/javascript"><!--//<![CDATA[
+				   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+				
+				   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=7&amp;source=AFRLEABUS&amp;target=_blank&amp;withText=0&amp;block=0&amp;blockcampaign=0");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+				       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+				   }
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+				//]]>--></script><noscript>
+					<a href="http://ads.afraccess.com/openx/www/delivery/ck.php?n=a12a47b7&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank">
+						<img src="http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a12a47b7&amp;ct0=INSERT_CLICKURL_HERE" border="0" alt="">
+					</a>
+				</noscript>
+			</div>
+			
+		<div id="sitemap">
+	
+	<span class="image"><img alt="afr.com" src="/rw/SysConfig/WebPortal/afr/_files/images/afr_logo.jpg"></span>
+	<div class="footer_column1">
+		<span>News</span>
+		<ul>
+			<li><a href="/national">National</a></li>
+			<li><a href="/world">World</a></li>
+			<li><a href="/business">Business</a></li>
+			<li><a href="/industries">Industries</a></li>
+			<li><a href="/markets">Markets</a></li>
+			<li><a href="/personal_finance">Personal Finance</a></li>
+			<li><a href="/opinion">Opinion</a></li>
+			<li><a href="/lifestyle">Lifestyle</a></li>
+			<li>&nbsp;</li>
+			<li><a href="/markets/market_wrap">AFR MarketWrap5pm</a></li>
+			<li><a href="/markets/dealbook">Dealbook</a></li>
+			<li>&nbsp;</li>
+			<li><a href="/columns?col=Chanticleer">Chanticleer</a></li>
+			<li><a href="/Blogs/Opinion_Street Talk">Street Talk</a></li>
+			<li><a href="/columns?col=The%20Prince">The Prince</a></li>
+			<li><a href="/columns?col=Rear%20Window">Rear Window</a></li>
+			<li>&nbsp;</li>
+			<li><a href="/signature_editions">Signature Editions</a></li>
+			<li><a href="/special_reports">Special Reports</a></li>
+			<li>&nbsp;</li>
+		</ul>
+		<span>Events</span>
+		<ul>
+			<li><a href="/events">Events</a></li>
+			<li><a href="/update_events">Register for Updates</a></li>
+		</ul>		
+	</div>
+	<div class="footer_column2">
+		<span>My afr.com</span>
+		<ul>
+			<li><b>Alerts</b></li>
+			<li><a href="/alerts">My Alerts</a></li>
+			<li><a href="/alerts/create">Create a new Alert</a></li>
+			<li>&nbsp;</li>
+			<li class="subtitle"><b>Portfolios &amp; Watchlists</b></li>
+			<li><a href="http://tools.afr.com/portfolios/portfolios.aspx">My Portfolios</a></li>
+			<li><a href="http://tools.afr.com/portfolios/portfolio-add.aspx">Create a new Portfolio</a></li>
+			<li><a href="http://tools.afr.com/portfolios/watchlist-add.aspx">Create a new Watchlist</a></li>
+			<li>&nbsp;</li>
+			<li><a href="https://myaccount.afr.com/login.aspx">My Account</a></li>
+			<li>&nbsp;</li>
+		</ul>
+		<span>Subscriptions</span>
+		<ul>
+			<li><a href="https://subscribe.afr.com/afr/website_pay.aspx?referrer=3">Free 14 day trial to afr.com</a></li>
+			<li><a href="https://subscribe.afr.com/afr/default.aspx?referrer=3">Subscribe Now</a></li>
+		</ul>
+	</div>
+	<div class="footer_column3">
+		<span>Tools &amp; Research</span>
+		<ul>
+			<li><a href="http://www.afr.com/asx_quotes_search?openSearch=true">ASX Quotes</a></li>
+			<li>&nbsp;</li>
+			<li><a href="http://tools.afr.com/markets-data/">Markets Data</a></li>
+			<li><a href="http://tools.afr.com/markets-data/">Australian Equities</a></li>
+			<li><a href="http://tools.afr.com/markets-data/worldEquities.aspx">World Equities</a></li>
+			<li><a href="http://tools.afr.com/markets-data/commodities.aspx">Commodities</a></li>
+			<li><a href="http://tools.afr.com/markets-data/currencies.aspx">Currencies</a></li>
+			<li><a href="http://tools.afr.com/markets-data/derivatives.aspx">Derivatives</a></li>
+			<li><a href="http://tools.afr.com/markets-data/interest_rates.aspx">Interest Rates</a></li>
+			<li>&nbsp;</li>
+			<li><a href="/share_tables">Share Tables</a></li>
+			<li><a href="/national/economy/economic_indicators">Economic Indicators</a></li>
+			<li><a href="/markets/dealbook/dealogic">Investment Banking League Tables</a></li>
+			<li>&nbsp;</li>
+			<li><b>Managed Funds</b></li>
+			<li><a href="http://tools.afr.com/markets-data/managed_funds.aspx">Top Performing</a></li>
+			<li><a href="http://tools.afr.com/markets-data/funds_selector.aspx">Search Managed Funds</a></li>
+			<li>&nbsp;</li>
+			<li><b>Advanced Search</b></li>
+			<li><a href="/articles_search?openSearch=true">Articles</a></li>
+			<li><a href="/videos_search?openSearch=true">Videos</a></li>
+			<li><a href="/asx_announcements_search?openSearch=true">ASX Announcements</a></li>
+			<li><a href="/asx_quotes_search?openSearch=true">ASX Quotes</a></li>
+			<li><a href="/executive_profiles_search?openSearch=true">Executive Profiles</a></li>
+			<li>&nbsp;</li>
+			<li><b>Other Tools &amp; Resources</b></li>
+			<li><a href="/personal_finance/investment_guide">Investment Guides</a></li>
+		</ul>
+	</div>
+	<div class="footer_column4">
+		<span class="financial_group_links">Financial Review Group</span>
+		<ul class="financial_group_list">
+			<li><a href="http://www.afrboss.com.au/" target="_blank" class="external_link">AFR BOSS</a></li>
+			<li><a href="http://www.afrmagazine.com/" target="_blank" class="external_link">AFR Magazine</a></li>
+			<li><a href="http://www.brw.com.au/" target="_blank" class="external_link">BRW</a></li>
+			<li><a href="http://www.afrsmartinvestor.com.au/" target="_blank" class="external_link">AFR Smart Investor</a></li>
+			<li><a href="http://www.misaustralia.com/" target="_blank" class="external_link">MIS Australia</a></li>
+			<li><a href="http://www.cfoweb.com.au/" target="_blank" class="external_link">AFR CFO</a></li>
+			<li><a href="http://www.assetmag.com.au/" target="_blank" class="external_link">AFR Asset</a></li>
+			<li><a href="/events" class="external_link">Financial Review Conferences</a></li>
+			<li><a href="http://www.finess.com.au/" target="_blank" class="external_link">Professional Education</a></li>
+			<li><a href="http://www.fairfaxbr.com.au/" target="_blank" class="external_link">Fairfax Business Research</a></li>
+			<!-- <li><a href="http://www.connect4.com.au/" target="_blank" class="external_link">Connect4</a></li>-->
+			<li>&nbsp;</li>
+		</ul>
+		
+		<span>Help &amp; Information</span>
+		<ul>
+			<li><a href="/help">Help</a></li>
+			<li><a href="/contact">Contact Us</a></li>
+			<li><a href="/letters_editors">Letters to the Editor</a></li>
+			<li><a href="/whats_in_afr_website">What's in afr.com?</a></li>
+			<li><a href="/whats_in_afr_newspaper">What's in <i>The Australian Financial Review</i>?</a></li>
+			<li>&nbsp;</li>
+		</ul>
+		<span>About</span>
+		<ul>
+			<li><a href="/services">Services</a></li>
+			<li><a href="/about_us">About Us</a></li>
+			<li><a href="http://www.adcentre.com.au/afrcom.aspx" type="context">Advertise</a></li>
+			<li><a href="/subscription_terms">Online Subscription Terms</a></li>
+			<li><a href="/newspaper_subscription_terms">Newspaper Subscription Terms</a></li>
+			<li><a href="/conditions_of_use">Conditions of Use</a></li>
+		</ul>
+	</div>
+</div>
+<ul class="copyright">
+	<li>©&nbsp; <a href="/copyright">Copyright</a> 2010 Fairfax Media Publications Pty Ltd <span>|</span></li>
+	<li><a href="/privacy">Privacy</a><span>|</span></li>
+	<li><a href="/conditions_of_use">Conditions of Use</a><span>|</span></li>
+	<li><a href="/about_us">About Us</a><span>|</span></li>
+	<li><a href="/help">Help</a><span>|</span></li>
+</ul>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2009 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var lo_list={"http://www.afr.com/home/tables.aspx":1};
+ var trac=nol_t({cid:"f2",content:"afr-com",server:"secure-au"},{link_overlay:(lo_list[document.location.href] || 0)});
+ trac.record().post();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=afr-com&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="">
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
+<!-- Activity Name for this tag is:Home page -->
+<!-- Web site URL where tag should be placed: https://www.TBA -->
+<!-- This tag must be placed within the opening <body> tag, as close to the beginning of it as possible-->
+<!-- Creation Date:1/14/2010 -->
+<div id="floodlight_tracking">
+<script language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<IFRAME SRC="https://fls.doubleclick.net/activityi;src=2227036;type=afrre422;cat=homep494;ord=1;num='+ a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+</script>
+<noscript>
+<iframe src="https://fls.doubleclick.net/activityi;src=2227036;type=afrre422;cat=homep494;ord=1;num=1?" width="1" height="1" frameborder="0"></iframe>
+</noscript>
+<!-- End of DoubleClick Spotlight Tag: Please do not remove-->
+</div></div>
+</div></body></html>

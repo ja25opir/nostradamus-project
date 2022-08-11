@@ -1,0 +1,131 @@
+<html><head>
+<title>acrStudio - Projects - Ellen Berkenblit</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+//-->
+</script>
+<link rel="stylesheet" href="../../../assets/stylesheets/acrstudiocss.css" type="text/css">
+</head>
+
+<body bgcolor="#cccc99" text="#000000">
+<div id="Layer2" style="position:absolute; left:11px; top:176px; width:372px; height:741px; z-index:9"> 
+  <h4>Ellen Berkenblit, whose highly charged quasi narrative drawings and paintings 
+    ride the line between expressionism and pop figuration, opened her second 
+    solo show at the Anton Kern Gallery this month. </h4>
+  <p>Upon walking into the gallery you are presented with two groups of drawings 
+    and a corpus of paintings done on overlapping perforated sheet metal. The 
+    exhibition, loosely titled Sugar von Frankenstein takes it's cue from the 
+    patch work of drawings and paintings sewn together to tell us a story of sorts. 
+    The title phrase appears in one series of drawings, but unlike Mary Shelly's 
+    creature, Berkenblit's creations have a sweeter, softer personification. A 
+    female protagonist, pert, pug-nosed and neurotically bug-eyed, pops in and 
+    out of the scenes. The drawings and paintings depict a soft and fuzzy supporting 
+    cast of characters all drawn into life under a bold graphic line. There is 
+    a saccharin sweetness introduced by cute birds, snakes, tigers and bears (oh 
+    my!) which counters the aggressive mark making surrounding and in some cases 
+    obliterating the figures.</p>
+  <p>The artist's drawing has a goofy authenticity that is so rare today and contrasts 
+    the flood of too cool graphic design ever present in our periphery. Like her 
+    peers Amy Sillman and the late Margaret Kilgallen, Berkenblit has been using 
+    a rough hewn narrative drawing style to refine her own unique visual vocabulary. 
+    One which relies on a more intimate, almost embarrassing storyline that innocently 
+    draws the viewer in. That whispering intimacy seems to go on deaf ears in 
+    this new painting format. Mind you the work is quite stunning with wonderful 
+    merging color painted and sprayed on a perforated surface of overlapping grids. 
+    Unlike the drawings, these paintings rely less on the figure by letting the 
+    merging color and form coalesce to the edge of abstraction. In some of the 
+    paintings like Sir Peacock and the Falcon the imagery has merged into a wonderful 
+    jumble of layered color and shape. However, in most of the paintings the impact 
+    of the artists hand is diminished by the competing perforated ground. While 
+    the novelty of the perforations is intriguing and they edge a pop abstraction 
+    into a familiar graffiti street aesthetic the power of the artist's intimate 
+    line and narrative diminishes slightly. Over all this show is not to be missed 
+    and I look forward to seeing more of her work in the future.</p>
+  <p><b>Exhibition Information</b><br>
+    September 6 thru October 4, 2003<br>
+    <a href="http://www.antonkerngallery.com" target="_blank">Anton Kern Gallery</a><br>
+    532 West 20th Street<br>
+    New York NY 10011<br>
+  </p>
+  <p>Review written for the <a href="http://www.gaycitynews.com/index.html" target="_blank">Gay 
+    City News</a>, New York City<br>
+    Download a copy of the print article <a href="gcn_eb.jpg" target="_blank">jpeg</a> 
+    or <a href="gcn_eb.pdf" target="_blank">pdf</a><br>
+    <a href="http://www.gaycitynews.com/gcn237/frankensteinssweet.html" target="_blank">Link 
+    to the article on gaycitynews.com</a></p>
+  <p>This review also appears online at <a href="http://www.sitefour.com/artforreal.org/reviews_main.php?r_id=60" target="_blank">Art 
+    For Real</a>.</p>
+</div>
+<div id="Layer3" style="position:absolute; left:393px; top:178px; width:164px; height:200px; z-index:17"> 
+  <p><a href="untitled_2576.jpg"><img src="untitled_2576sm.jpg" width="164" height="200" border="0"></a></p>
+</div>
+<div id="Layer4" style="position:absolute; left:584px; top:177px; width:163px; height:200px; z-index:18"><a href="untitled_1913.jpg"><img src="untitled_1913sm.jpg" width="163" height="200" border="0"></a></div>
+<div id="Layer5" style="position:absolute; left:393px; top:392px; width:175px; height:200px; z-index:19"><a href="untitled_1915.jpg"><img src="untitled_1915sm.jpg" width="167" height="200" border="0"></a></div>
+<div id="Layer7" style="position:absolute; left:391px; top:606px; width:175px; height:200px; z-index:21"><a href="untitled_2595.jpg"><img src="untitled_2595sm.jpg" width="171" height="200" border="0"></a></div>
+<div id="Layer9" style="position:absolute; left:582px; top:606px; width:175px; height:200px; z-index:22"><a href="untitled_2616.jpg"><img src="untitled_2616sm.jpg" width="172" height="200" border="0"></a></div>
+<div id="Layer10" style="position:absolute; left:585px; top:392px; width:175px; height:200px; z-index:23"><a href="untitled_2617.jpg"><img src="untitled_2617sm.jpg" width="174" height="200" border="0"></a></div>
+<div id="Layer6" style="position:absolute; left:14px; top:931px; width:287px; height:761px; z-index:24"> 
+  <p><a href="lionelshappyending.jpg"><img src="lionelshappyendingsm.jpg" width="282" height="200" border="0"></a><br>
+    Lionel's Happy Ending, 2003<br>
+    Spray paint and enamel on mesh metal, 62x98 inches</p>
+  <p><a href="swampling.jpg"><img src="swamplingsm.jpg" width="266" height="200" border="0"></a><br>
+    Swampling, 2003<br>
+    Spray paint and enamel on mesh metal, 50x73 inches</p>
+  <p><a href="sirpeacockandthefalcon.JPG"><img src="sirpeacockandthefalconsm.jpg" width="267" height="200" border="0"></a><br>
+    Sir Peacock and the Falcon, 2003<br>
+    Spray paint and enamel on mesh metal, 51x100 inches</p>
+  </div>
+<div id="Layer11" style="position:absolute; left:308px; top:930px; width:271px; height:546px; z-index:25"> 
+  <p><a href="traffic_adayonblueberryst.jpg"><img src="traffic_adayonblueberrystsm.jpg" width="316" height="200" border="0"><br>
+    </a> Exhibition view:<br>
+    (Left) Traffic <br>
+    (Right) A Day on Blueberry Street, 2003<br>
+    Spray paint and enamel on mesh metal, 66x87 inches </p>
+  <p><a href="traffic.jpg"><img src="trafficsm.jpg" width="150" height="200" border="0"></a><br>
+    Traffic, 2003<br>
+    Spray paint and enamel on mesh metal, 50x33 inches </p>
+</div>
+<div id="Layer12" style="position:absolute; left:390px; top:825px; width:367px; height:35px; z-index:26"> 
+  <p>Selected drawings from the exhibition.<br>
+    untitled, 2002-2003, Ink, graphite, watercolor on paper, all under 12x9 inches</p>
+</div>
+<div id="Layer13" style="position:absolute; left:14px; top:1708px; width:605px; height:22px; z-index:27"> 
+  <p>Photos taken by <a href="../../../index.htm">Andrew Robinson</a> with the 
+    permission of the <a href="http://www.antonkerngallery.com" target="_blank">Anton 
+    Kern Gallery</a>.</p>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1827775-1";
+urchinTracker();
+</script>
+<!-- #BeginLibraryItem "/Library/masthead_main.lbi" --><table border="0" cellspacing="0" cellpadding="5" width="100%">
+  <tbody><tr> 
+    <td valign="top" width="120"><a href="../../../index.html"><img src="/assets/img/acrstudio100.jpg" width="100" height="65" border="0"></a></td><td valign="top"> 
+      <h5><a href="/projects/index.htm">Projects</a> | <a href="/info/index.htm">Bio</a> 
+        | <a href="/resume/index.htm">Resume</a> | <a href="/contact.htm">Contact</a> 
+      </h5></td></tr>
+</tbody></table><!-- #EndLibraryItem --> 
+<p>&nbsp;</p>
+<h2><font face="Arial, Helvetica, sans-serif">Ellen Berkenblit</font></h2>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1827775-1";
+urchinTracker();
+</script>
+
+
+
+</body></html>

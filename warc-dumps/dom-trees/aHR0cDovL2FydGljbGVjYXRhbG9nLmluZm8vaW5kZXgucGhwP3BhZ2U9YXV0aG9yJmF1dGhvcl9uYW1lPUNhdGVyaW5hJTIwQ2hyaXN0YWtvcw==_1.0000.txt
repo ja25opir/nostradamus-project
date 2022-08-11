@@ -1,0 +1,711 @@
+<!DOCTYPE html><html><head>
+<title>Articles By Author Caterina Christakos articlecatalog.info</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="images/class.css" rel="stylesheet" type="text/css">
+</head>
+
+<body leftmargin="0" topmargin="0">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td height="89" background="images/topbg.gif"><table width="778" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="89" valign="bottom" background="images/top.gif" style="background-repeat:no-repeat; padding-bottom:5"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+             <tbody><tr>
+                <td width="74%" rowspan="3" style="padding-left:20"><a href="index.php"><img src="images/trans.gif" width="125" height="55" border="0"></a></td>
+                <td class="bodylinks" style="padding-left:3">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="26%" class="bodylinks" style="padding-left:3"><a href="index.php" class="bodylinks"><strong>Home</strong></a> 
+                  | <a href="index.php?pagedb=aboutus" class="bodylinks"><strong>About Us</strong></a> 
+                  |<a href="index.php?pagedb=contactus" class="bodylinks"> <strong>Contact Us</strong></a></td>
+              </tr>
+			   <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                    <tbody><tr>
+                      <td width="94%" align="right"><form action="index.php" name="searchform" method="GET">
+                          <input name="q" type="text" class="textbox" size="18">
+						  <input name="page" type="hidden" class="textbox" size="18" value="search">
+                      </form></td><td width="6%" align="right"><input type="image" name="search" src="images/go.gif" width="25" height="24" border="0"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>              
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="20" align="center" background="images/linksbg.gif" class="bodylinks1"><a href="index.php?page=submitarticle" class="bodylinks1"><strong>Submit 
+      Articles</strong></a><strong> | <a href="index.php?page=login" class="bodylinks1">Member Login</a> 
+      | <a href="index.php?page=topauthor" class="bodylinks1">Top Authors</a> | <a href="adrules.php" target="_blank" class="bodylinks1">Submission Guidelines</a> 
+      | <a href="index.php?page=allcategory" class="bodylinks1">Categories</a> | <a href="index.php?pagedb=rss" class="bodylinks1">RSS 
+      Feeds <img src="images/rss.jpg" border="0" alt="See As RSS"></a></strong></td>
+  </tr>
+  <tr> 
+    <td height="21" background="images/stripbg.gif">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="17%" valign="top" background="images/newsletterbg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			              <tbody><tr> 
+                <td><img src="images/memberlogin.gif" width="177" height="28"></td>
+              </tr>
+              <tr> 
+                <td><img src="images/loginhere.gif" width="177" height="44"></td>
+              </tr>
+              <tr> 
+                <td background="images/loginbg.gif"><table width="95%" border="0" align="right" cellpadding="0" cellspacing="1">
+                    <tbody><tr class="text"> <form action="" name="login" method="post"></form>
+                      <td width="46%"><img src="images/username.gif" width="60" height="11"></td>
+                      <td width="54%"><input name="user_name" autocomplete="off" type="text" class="textbox" size="12"></td>
+                    </tr>
+                    <tr class="text"> 
+                      <td><img src="images/password.gif" width="60" height="11"></td>
+                      <td><input name="password" type="password" class="textbox" size="12"></td>
+                    </tr>
+                    <tr class="text"> 
+                      <td>&nbsp;</td><input type="hidden" value="1" name="submitlogin">
+                      <td><input type="image" src="images/submit.gif" width="72" height="25" border="0" name="submit"></td>
+                    </tr>
+                    <tr class="text"> 
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr class="text"> 
+                      <td colspan="2"><span class="bodylinks1"><a href="index.php?page=forgetpassword" class="bodylinks1"><u>Forgot 
+                        Password?</u></a></span> &nbsp;&nbsp;&nbsp;<span class="bodylinks1"><a href="index.php?page=register" class="bodylinks1"><u>New 
+                        User?</u></a></span></td>
+                    </tr>
+
+                  </tbody></table></td>
+              
+			                </tr><tr> 
+                <td><img src="images/loginbot.gif" width="177" height="20"></td>
+              </tr>
+              <tr> 
+                <td><img src="images/categories.gif" width="177" height="45"></td>
+              </tr>
+              <tr> 
+                <td background="images/loginbg.gif" style="padding-left:10; padding-right:5; padding-top:5"><table width="100%" border="0" cellspacing="1" cellpadding="0">
+				                    <tbody><tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category2.html" class="mainlink">Animals</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category3.html" class="mainlink">Automobiles</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category4.html" class="mainlink">Business</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category5.html" class="mainlink">Career</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category7.html" class="mainlink">Computer Programming</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category6.html" class="mainlink">Computers</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category8.html" class="mainlink">Entertainment</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category9.html" class="mainlink">Environment</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category10.html" class="mainlink">Family</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category11.html" class="mainlink">Food</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category12.html" class="mainlink">Health &amp; Medical</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category13.html" class="mainlink">Home &amp; Garden</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category14.html" class="mainlink">Humor</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category15.html" class="mainlink">Internet Marketing</a></td>
+                    </tr>
+                                       <tr class="mainlink"> 
+                      <td width="8%" align="center"><img src="images/bullet.gif" width="7" height="7"></td>
+                      <td width="92%"><a href="category16.html" class="mainlink">Legal</a></td>
+                    </tr>
+                                     </tbody></table></td>
+              </tr>
+              <tr> 
+                <td height="20" background="images/loginbot.gif" class="bodylinks" style="padding-left:10; padding-top:3"><img src="images/arrow.gif" width="10" height="9"> 
+                  <a href="index.php?page=allcategory" class="bodylinks"><strong>View all Categories</strong></a></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#FFFFFF"><img src="images/trans.gif" width="1" height="5"></td>
+              </tr>
+              <tr> 
+                <td><img src="images/newslettertop.gif" width="177" height="24"></td>
+              </tr>
+              <tr>
+                <td background="images/newsletterbg.gif" style="padding-left:10"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+                    <tbody><tr> <form action="index.php?page=register" name="searchform" method="POST"></form>
+                      <td><input name="email" type="text" class="textbox" autocomplete="off" size="25"></td>
+                    </tr>
+                    <tr> 
+                      <td><input type="image" name="subscribe" src="images/subscribe.gif" width="98" height="16" border="0">
+					 </td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </tbody></table></td>
+              
+            </tr></tbody></table></td>
+			<td width="83%" align="left" valign="top" style="padding-left:10">
+ <table width="100%" border="0" cellspacing="0" cellpadding="5">
+	  <tbody><tr>
+		<td class="text"><span class="heading">Welcome to articlecatalog.info</span><br>
+		  <br>
+		  <span class="headingsmall"></span><br>
+		  Here is the All articles submitted by Caterina Christakos<br><br>
+		  <script type="text/javascript"><!--
+google_ad_client = "pub-5535560276793255";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "0066FF";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+	  </tr>
+	  
+	  <tr>
+		<td>
+
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+		
+			<tbody><tr> 
+			  <td><img src="images/boxlefttp.gif" width="15" height="21"></td>
+			  <td width="100%" background="images/boxtopbg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+				  <tbody><tr>
+					<td class="heading"><font color="#FFFFFF">Articles By Caterina Christakos</font></td>
+					<td align="right" class="mainlink"></td>
+				  </tr>
+				</tbody></table></td>
+			  <td align="right"><img src="images/boxrighttp.gif" width="12" height="21"></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article24405.html" class="bodylinks"><strong> 7 Keys to Writing a Children's Book that Sells Like Hotcake</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">There are seven fundamental reasons that some books succeed and others collect dust on the author's bookshelf. These seven keys to success as an autho<span class="mainlink"><a href="article24405.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 72 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article18650.html" class="bodylinks"><strong>7 Keys to Writing a Children’s Book that Sells Like Hotcakes</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+There are seven fundamental reasons that some books succeed and others collect dust on the author’s bookshelf. These seven keys to success as an auth<span class="mainlink"><a href="article18650.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 9 Times </i><br>
+					  Category : <a href="category20.html" class="mainlink">Politics</a>
+					  
+					  </td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article7778.html" class="bodylinks"><strong>7 Ways to Create Abundance in Your Life</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>7 Ways to Create Abundance in Your Life<br>
+  You have heard it time and again. Lottery Winners losing it all and trust fund babies wasting their <span class="mainlink"><a href="article7778.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article18462.html" class="bodylinks"><strong>A Guide to Creative Writing That Sells</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+It's unbelievable that with all the creative writing courses out there, that no one teaches the necessity of researching your market before you set p<span class="mainlink"><a href="article18462.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 7 Times </i><br>
+					  Category : <a href="category20.html" class="mainlink">Politics</a>
+					  
+					  </td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article7714.html" class="bodylinks"><strong>Chanel Your Prosperity Energy Today</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>Every emotion, wether we classify it as good or bad, has energy. Think about it. Can’t you feel it when you are angry or bouncing off the walls ha<span class="mainlink"><a href="article7714.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article8304.html" class="bodylinks"><strong>Cirque Du Soleil's  Mystere - A Living Dream</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>Cirque Du Soleil Tickets and Mystere Show Review <br>
+  Imagine walking into a dream that you can see, hear, feel and practically taste and you ha<span class="mainlink"><a href="article8304.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 4 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article7276.html" class="bodylinks"><strong>How to Attract, Seduce and Keep Your Man</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>There are three stages in any relationship:
+</p><p>1) Attraction
+</p><p>2) Seduction
+</p><p>3) Maintain or Abandon Ship
+</p><p>The attraction stage involves flirt<span class="mainlink"><a href="article7276.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 6 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25046.html" class="bodylinks"><strong>How to Come Up with Fresh Story Ideas</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10"><br><p></p><p>How  to  Come Up with Fresh Story Ideas When Your Well has Been Tapped Dry <br></p><p></p><p>When I face the desolate impossibility of writing 5<span class="mainlink"><a href="article25046.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 6 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25047.html" class="bodylinks"><strong>How to Come up With Fresh Writing Ideas</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">How to Come Up with Fresh Story Ideas When Your Idea Well has Run Dry <br><br>When I face the desolate impossibility of writing 500 pages, a sick sens<span class="mainlink"><a href="article25047.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 6 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25054.html" class="bodylinks"><strong>How to Create Incredible Characters Easily</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10"><br><p></p><p>Creating incredible characters can be easy if you know of a few simple rules:<br></p><p></p><ol><br><p>	</p><p></p><li>Each character should have his <span class="mainlink"><a href="article25054.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 4 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </li></ol></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25055.html" class="bodylinks"><strong>How to Create Stories that Sizzle</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10"><br><p></p><p>How to Start Your Story with a Bang<br></p><p></p><p>The purpose of creating a story is to create a world that will draw the reader away from th<span class="mainlink"><a href="article25055.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 4 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article7280.html" class="bodylinks"><strong>How to Sell Your Home by Lease Options</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>learn how to sell your home without a realtor<br>
+  Many  people buy a house then have to move within a  few  years,  due  to  divorce,  relocatio<span class="mainlink"><a href="article7280.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25136.html" class="bodylinks"><strong>How to Write a Children's Book in 30 Days or Less!</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">How to Write a Childrens Book in 30 Days or Less! <br><br>The first time I attempted to write a children's book it took me<br>three months and several<span class="mainlink"><a href="article25136.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 4 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25139.html" class="bodylinks"><strong>How to Write a Holiday Tale that Isn’t a Turkey</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10"><br><p></p><p>When we write stories, with the purpose of sharing them with others, we enter into an agreement where we allow our reader to see a glimpse<span class="mainlink"><a href="article25139.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 4 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25290.html" class="bodylinks"><strong>Learn to Write Like a Pro</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10"><br><p></p><p>Many writers write for the experience. Others dream of having a number one best seller. Both are wonderful reasons for writing. What many <span class="mainlink"><a href="article25290.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article8253.html" class="bodylinks"><strong>Lottery Winners Lose It All</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>You have heard it time and again. Lottery Winners lose it all and trust fund babies waste their parent's hard earned cash. In fact, up to 80% of t<span class="mainlink"><a href="article8253.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article25340.html" class="bodylinks"><strong>Marketing for Writers When Writing Just Isn't Enough</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10"><br><p></p><p>Many writers write for the experience. Others dream of having a number one best seller. Both are wonderful reasons for writing. What many <span class="mainlink"><a href="article25340.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category25.html" class="mainlink">Writing</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article8305.html" class="bodylinks"><strong>Penn and Teller Las Vegas Show Review</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>Penn and Teller Las Vegas Show Review <br>
+  Laurel and Hardy with weapons is the only way that this reporter can think of to describe this slap s<span class="mainlink"><a href="article8305.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 4 Times </i><br>
+					  Category : <a href="category10.html" class="mainlink">Family</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article9942.html" class="bodylinks"><strong>The Truth About Women Revealed</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">Have you ever imagined what it would be like to read a woman's to mind - especially a woman you want to get into your bed? How about just being able t<span class="mainlink"><a href="article9942.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category12.html" class="mainlink">Health &amp; Medical</a>
+					  
+					  </td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						<tr> 
+			  <td colspan="3" bgcolor="#ccccff"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+				  <tbody><tr> 
+					<td bgcolor="#ccccff" style="padding-left:15; padding-right:10"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+						<tbody><tr>
+						  <td width="65%" class="bodylinks"><a href="article1378.html" class="bodylinks"><strong>Why Lottery Winners Lose it All</strong></a></td>
+						  <td width="35%" align="right" class="heading"><em>By: 
+							Caterina Christakos</em></td>
+						</tr>
+					  </tbody></table></td>
+				  </tr>
+				  <tr> 
+					<td bgcolor="#ccccff" class="text" style="padding-left:15; padding-right:10">
+<p>How to develop a million dollar mindset<br>
+  Why Lottery Winners and Trust Fund Babies Lose in the End 
+
+</p><p> You have heard it time and again. Lo<span class="mainlink"><a href="article1378.html" class="mainlink"><u>(read 
+					  entire article)</u> </a></span> <br>
+					  <i>View : 5 Times </i><br>
+					  Category : <a href="category4.html" class="mainlink">Business</a>
+					  
+					  </p></td>
+				  </tr>
+				</tbody></table></td>
+			</tr>
+						 <tr> 
+			  <td align="left" background="images/boxbotbg.gif"><img src="images/boxbotleft.gif" width="13" height="6"></td>
+			  <td background="images/boxbotbg.gif"><img src="images/boxbotbg.gif" width="4" height="6"></td>
+			  <td><img src="images/boxbotright.gif" width="11" height="6"></td>
+			</tr>	
+		 <tr>
+					<td colspan="2"><img src="images/trans.gif" width="4" height="9"></td>
+				</tr>
+		  </tbody></table><a href="articlerss.php?type=3&amp;author_name=Caterina Christakos"><img src="images/rss.jpg" border="0" alt="See As RSS"></a>
+		  <hr color="D6D6D6">
+			
+
+		  </td></tr></tbody></table> 
+		 
+
+		    <center><script type="text/javascript"><!--
+google_ad_client = "pub-5535560276793255";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "0066FF";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+		</td>
+		
+	  </tr>
+	</tbody></table></td>
+</tr>
+</tbody></table>
+ 
+<br><a href="http://www.sphinxhost.com" class="style1"><br>
+	</a><a href="http://www.send2press.com"><img src="http://feeds.feedburner.com/send2press/oRBK.gif" height="67" width="200" style="border:0" alt="Send2Press Newswire"></a>
+ 
+ 
+
+<table width="100%">
+<tbody><tr>
+    <td bgcolor="#ccccff" height="107" align="center" valign="top" background="images/btbg.gif" class="botlinks" style="padding-top:30">© 2006 articlecatalog.info. All Rights Reserved. Use of our service is protected
+      by our <span class="bodylinks"><a href="index.php?pagedb=privacy" class="bodylinks"><strong><u>Privacy
+      Policy</u></strong></a></span> and <span class="bodylinks"><a href="index.php?pagedb=tos" class="bodylinks"><strong><u>Terms
+      of Service</u></strong></a></span><br>
+				This Site is Hosted By <a href="http://www.sphinxhost.com">SphinxHost.com</a></td>
+  </tr>
+  </tbody></table>
+
+
+</body></html>

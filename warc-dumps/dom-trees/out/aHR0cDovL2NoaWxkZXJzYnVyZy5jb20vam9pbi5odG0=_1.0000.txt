@@ -1,0 +1,284 @@
+<html><head>
+
+
+
+
+<title>Childersburg, Alabama Chamber of Commerce</title>
+
+<meta name="description" content=""> 
+<meta name="keywords" content=""> 
+
+<style>
+
+BODY
+ {
+font-size : 12px;
+font-family : Verdana, Helvetica, Sans Serif;
+color : #000000;
+background : #ffffff;
+} 
+
+TABLE
+
+ {
+font-size : 12px;
+font-family : Verdana, Helvetica, Sans Serif;
+color : #000000;
+
+} 
+
+ A.BodyLinks
+{
+ color: #006600; 
+  font-size: 12px;
+ FONT-WEIGHT: bold;
+ text-decoration: none
+}
+
+A.BodyLinks:hover
+{
+ color: #0000CC;
+  font-size: 12px;
+  FONT-WEIGHT: bold;
+ text-decoration: none
+}
+
+.description1
+{
+color: #FFFFFF;
+font-size: 12px;
+FONT-WEIGHT: bold;
+}
+
+.description2
+{
+color: #000099;
+font-size: 14px;
+FONT-WEIGHT: bold;
+}
+
+
+.pagetitle
+{
+color: #009900;
+font-size: 16px;
+FONT-WEIGHT: bold;
+}
+
+
+</style>
+
+
+
+
+<!--START DATE SCRIPT-->
+
+<script language="Javascript">
+<!--
+var loaded = 0;
+var last = "";
+function roll(imageName, imageState) {
+	if (document.images && loaded == 1) {
+		tabOn = eval(imageName+"_"+imageState+".src");
+	  	document [imageName].src = tabOn;
+	}
+}
+
+today=new Date();
+
+// Build an array initializer
+function isnArray() {
+	argnr=isnArray.arguments.length
+	for (var i=0;i<argnr;i++) {
+		this[i+1] = isnArray.arguments[i];
+	}
+}
+
+// And months and day arrays
+var isnMonths=new isnArray("January","February","March","April","May","June","July","August","September","October","November","December");
+var isnDays= new isnArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+isnDays[0]="Sunday";
+	
+//  -->
+</script>
+
+
+<!--END DATE SCRIPT-->
+
+<link rel="stylesheet" href="menu_data/menu_styles2.css" type="text/css">
+
+<script language="JavaScript1.2" src="menu_data/menu_settings2.js"></script>
+<script language="JavaScript">
+
+
+
+	//Copyright & Base Path Settings
+
+	cdd__notice='Open Cube'
+	cdd__codebase='script/'		//location of script files
+	cdd__database='menu_data/'	//location of data - settings files
+
+
+	//global settings (applies to all menus)
+
+  	cdd__activate_onclick = false			//Choose between click or mouse over menu functionality.
+	cdd__showhide_delay = 100			//Defined in milliseconds
+	cdd__url_target = "_self"			//Default target - use: _self, _top, _blank, _parent, (frame name)
+	cdd__url_features = ""				//Sample: "height=200,width=400,status=yes,toolbar=no,menubar=no,location=no"
+	cdd__display_urls_in_status_bar = true
+	cdd__default_statusbar_text = ""
+
+
+	//Web Menu Code (Warning: Do Not Alter!)
+
+	if (window.showHelp){b_type = "ie"; if (!window.attachEvent) b_type += "mac";}if (document.createElementNS) b_type = "dom";if (window.opera) b_type = "opera"; qmap1 = "\<\script language=\"JavaScript1.2\" src=\""; qmap2 = ".js\"\>\<\/script\>";
+	if(document.layers){document.write(qmap1+cdd__database+"menu_ns4_styles"+qmap2);b_type = "ns4";}
+	if (b_type){document.write(qmap1+cdd__codebase+"cbrowser_"+b_type+qmap2);document.close();}
+
+
+
+</script>
+
+<!--- End Menu Code ------------------------------------------------------------------------------>
+
+</head>
+
+<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+
+<!--Start Page Table-->
+
+<table align="left" border="0" width="800" cellspacing="0" cellpadding="0">
+<tbody><tr><td valign="top" colspan="3"><img src="images/header6.jpg" width="800" height="50" alt="Childersburg Chamber of Commerce"></td></tr>
+
+<tr>
+<td valign="top" width="150" bgcolor="#476FC7">
+
+<img src="images/river2.jpg">
+
+<table width="150" align="center" cellpadding="4" cellspacing="0"><tbody><tr><td valign="top">
+<script language="JavaScript">create_menu(0)</script>
+</td></tr></tbody></table>
+
+
+</td>
+
+<td valign="top" width="500">
+
+<!--start white content table-->
+<table width="500" cellpadding="4" cellspacing="0" border="0">
+<tbody><tr><td valign="top">
+<!--start inner white content table-->
+<table align="center" width="490" height="100%" cellpadding="2" cellspacing="0" border="1" bordercolor="black">
+<tbody><tr><td valign="top">
+
+<!--Content Starts Here-->
+
+<p align="center"><font class="pagetitle">Join the Chamber</font></p>
+
+<p align="center"><font class="description2">Joining the Chamber is Easy!</font></p>
+
+<table align="center" cellpadding="5" cellspacing="0" border="0">
+<tbody><tr><td valign="center" align="center">
+<img src="images/join_2.jpg" width="190" height="146" border="0" alt="Join the Chamber"></td><td valign="center" align="left">
+
+<p align="center">Just click on the link below to download the Membership Application in Microsoft Word Format.</p>
+
+<table align="center" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="center">
+&nbsp;</td><td align="center" valign="center"><a href="documents/memberapplication_2006.doc" class="BodyLinks">Printable Membership Application</a></td></tr></tbody></table>
+
+<p align="left">Send it back to us by  Fax: (256) 378-5833, or U.S. Postal Service.</p></td></tr></tbody></table>
+
+
+<p align="left">The Chamber is an association of people, both individuals and businesses working together, to make the Childersburg area a better place to live and make a living. </p>
+
+<p align="center"><font class="description2">Chamber Coffees</font></p>
+
+<p align="left">Our average attendance at our monthly coffees is 50 to 60. We have a great time at these coffees. If you're not attending these coffees, you don't know what you are missing! Come and join us the SECOND TUESDAY of each month at 9:00 a.m. for good food and fellowship. </p>
+
+<p align="center"><font class="description2">Member Benefits &amp; Services<br> What's in it for YOU?</font></p>
+
+<!----------------------------------------------------------------------------------------->
+<p align="justify">The Childersburg Chamber of Commerce serves as the voice for member businesses and individuals! Your chamber can offer services to meet your day-to-day needs as an owner or manager of a Childersburg business or an individual investing in the future of your community. We invite you to take advantage of the following services and let us know how we can serve you better!  
+</p>
+
+<p align="justify">
+The more involved you are with the Chamber, the more you can benefit from it. Participating in our events and task forces can lead you to some of your best contacts, and allows you to influence the business atmosphere. The Chamber is now increasing the value of your membership by offering a variety of beneficial services.</p>
+
+<ul>
+
+<li>Networking Opportunities:  Monthly Membership Meetings (coffees or business after hours) 
+</li><li>Insurance—Available to member businesses and their employees through Financial Resource Group
+</li><li>Chamber Meets Cyberspace! Renovated Website! Web Page Listing—Free Listing by name and address, expanded listing and link for a nominal fee 
+</li><li>Referral Service—Information about member businesses furnished to callers 
+</li><li>FAX Service and Copy Service, Free Member list, labels for a nominal fee 
+</li><li>Free Small Business Counseling through Small Business Development Center at JSU  
+(free counseling available at the Chamber from the JSU SBDC by appointment. <a href="http://www.jsu.edu/depart/sbdc/" class="BodyLinks"> http://www.jsu.edu/depart/sbdc/</a>) 
+
+
+
+
+</li><li>Conference Facilities/Meeting Rooms—Free or nominal cost (based on availability) 
+</li><li>Ribbon Cuttings and Ground Breaking Ceremonies—Upon request 
+</li><li>Opportunities to participate in sponsored events by the Retail Development Task Force (TBA soon)
+</li><li>Discounts on area services (coming soon)
+</li><li>Investment opportunities for you and your employees (coming soon)
+</li><li>Exposure through our local weekly TV show and weekly radio show (coming soon)
+</li><li>Childersburg Magazine and Membership Directory (coming soon) – free listing for all members, ads included in Partner Sponsorship or sold separately
+</li><li>Chamber Checks Program (coming soon) 
+</li></ul>
+
+
+<p align="center"><font class="description2">Economic Development Services</font></p>
+
+<ul>
+<li>Database for Prospective Businesses—Economic/Demographic information available 
+</li><li>Active Industry Support Task Force —To encourage and assist existing industries 
+</li><li>Interaction with City of Childersburg and cooperation with Industrial Development Board in attracting new industry 
+</li><li>Cooperation with Schools (Teacher of the Month)
+</li></ul>
+
+
+<p align="center"><font class="description2">Community Promotion and Support Services</font></p>
+<ul>
+
+<li>Support of Civic Organizations/City Agencies—Assistance with programs - arts, education, beautification, recreation and special events 
+</li><li>Information Center for Visitors, Newcomers, Potential </li><li>Residents/Businesses, Industry/Commercial Prospects and Local Citizens 
+</li><li>Leadership Development through a Nine-Month ‘Leadership Childersburg’ program (coming soon)
+</li><li>Chamber Ambassador Program for area young people (coming soon)
+</li></ul>
+
+
+
+
+
+<!--Content Ends Here-->
+
+
+</td></tr></tbody></table>
+<!--end inner white content table-->
+</td></tr></tbody></table>
+<!--end white content table-->
+
+
+
+</td>
+
+<td valign="top" width="150" bgcolor="#476FC7">
+
+<img src="images/flag_header.jpg" width="150" height="141">
+
+
+</td>
+</tr>
+
+
+<tr><td valign="top" bgcolor="#476FC7" colspan="3">&nbsp;</td></tr>
+
+</tbody></table>
+
+
+<!--End Page Table-->
+
+
+
+</body></html>

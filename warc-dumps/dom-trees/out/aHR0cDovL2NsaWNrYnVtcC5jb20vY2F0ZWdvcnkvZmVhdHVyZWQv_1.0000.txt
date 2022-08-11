@@ -1,0 +1,676 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
+    <title>
+										clickbump.com&nbsp;|&nbsp;Archive&nbsp;|&nbsp;featured				    </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<link rel="stylesheet" type="text/css" href="http://clickbump.com/wp-content/themes/premiumnews/style.css" media="screen">
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://clickbump.com/feed/">
+	<link rel="pingback" href="http://clickbump.com/xmlrpc.php">
+   <script type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/includes/js/jquery-1.3.2.min.js"></script>
+	<link rel="alternate" type="application/rss+xml" title="clickbump.com » featured Category Feed" href="http://clickbump.com/category/featured/feed/">
+<script type="text/javascript" src="http://clickbump.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://clickbump.com/wp-includes/js/jquery/ui.core.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://clickbump.com/wp-includes/js/jquery/ui.tabs.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://clickbump.com/wp-content/plugins/formbuilder/js/jquery.datePicker-2.1.2.js?ver=0.82"></script>
+<script type="text/javascript" src="http://clickbump.com/wp-content/plugins/formbuilder/js/date.js?ver=0.82"></script>
+<script type="text/javascript" src="http://clickbump.com/wp-content/plugins/formbuilder/js/javascript.js?ver=0.82"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://clickbump.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://clickbump.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="clickbump.com" href="http://clickbump.com">
+<meta name="generator" content="WordPress 2.9.2">
+		<!-- FORMBUILDER CSS CUSTOMIZATION -->
+					<link rel="stylesheet" href="http://clickbump.com/wp-content/plugins/formbuilder/formbuilder_styles.css" type="text/css" media="all">
+					<style type="text/css" media="screen">
+		.formBuilderCap {
+			visibility: hidden;
+			padding: 0;
+			margin: 0;
+			border: 0;
+			position: absolute;
+		}
+		</style>
+		<!-- END FORMBUILDER CSS CUSTOMIZATION -->
+	<link href="http://clickbump.com/wp-content/themes/premiumnews/styles/default.css" rel="stylesheet" type="text/css">	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+    
+
+	<!--[if lte IE 6]>
+	<script defer type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/images/pngfix.js"></script>
+	<![endif]-->
+	
+	
+
+<script type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/includes/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/includes/js/jquery.lavalamp.js"></script>
+
+
+<script type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/includes/js/tabs.js"></script>
+
+
+<script type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/includes/js/superfish.js"></script>    
+ <script type="text/javascript" src="http://clickbump.com/wp-content/themes/premiumnews/includes/js/jquery.bgiframe.min.js"></script>     
+
+<script type="text/javascript">
+jQuery(document).ready(function($){
+    $(".nav2")
+    .superfish({
+        animation : { opacity:"show",height:"show"}
+    })
+    .find(">li:has(ul)") 
+        .mouseover(function(){
+            $("ul", this).bgIframe({opacity:false});
+        })
+        .find("a")
+            .focus(function(){
+                $("ul", $(".nav>li:has(ul)")).bgIframe({opacity:false});
+
+            });
+
+
+    $(".cats-list")
+    .superfish({
+        animation : { opacity:"show",height:"show"}
+    })
+    .find(">li:has(ul)") 
+        .mouseover(function(){
+            $("ul", this).bgIframe({opacity:false});
+        })
+        .find("a")
+            .focus(function(){
+                $("ul", $(".nav>li:has(ul)")).bgIframe({opacity:false});
+
+            });
+
+        $("#lavaLamp, #2, #3").lavaLamp({
+            fx: "backout", 
+            speed: 700,
+            click: function(event, menuItem) {
+                return true;
+            }
+        });
+    });
+</script>        
+<link href="http://clickbump.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+
+</head>
+
+<body>
+
+
+<div id="page">
+	
+	<div id="nav"> <!-- START TOP NAVIGATION BAR -->
+	
+		<div id="nav-left">
+	
+			<ul id="lavaLamp">
+				<li><a href="http://clickbump.com/">Home</a></li>
+				<li class="page_item page-item-638"><a href="http://clickbumpengine.com/jumpstart/" title="Jumpstart">Jumpstart</a></li>
+<li class="page_item page-item-314"><a href="http://clickbumpengine.com/jumpstart" title="New > ClickBump JumpStart!">New &gt; ClickBump JumpStart!</a></li>
+<li class="page_item page-item-273"><a href="http://clickbumpengine.com" title="ClickBump Engine v3">ClickBump Engine v3</a></li>
+<li class="page_item page-item-2"><a href="http://clickbump.com/about/" title="About">About</a></li>
+<li class="page_item page-item-281"><a href="http://clickbump.com/ce" title="ClickBump Engine">ClickBump Engine</a></li>
+<li class="page_item page-item-531"><a href="http://clickbump.com/clickbump-developer-license/" title="ClickBump Developer License">ClickBump Developer License</a></li>
+<li class="page_item page-item-538"><a href="http://clickbump.com/archives/" title="Archives">Archives</a></li>
+<li class="page_item page-item-284"><a href="http://clickbump.com/go/ce" title="Template Marketplace">Template Marketplace</a></li>
+<li class="page_item page-item-295"><a href="http://clickbumpengine.com/jumpstart/" title="Now Available: ClickBump JumpStart v2!">Now Available: ClickBump JumpStart v2!</a></li>
+		
+			</ul>
+		
+		</div><!--/nav-left -->
+
+		<div id="nav-right">		
+		
+			<form method="get" id="searchform" action="http://clickbump.com/">
+				
+				<div id="search">
+					<input type="text" value="Enter your search keywords here..." onclick="this.value='';" name="s" id="s">
+					<input name="" type="image" src="http://clickbump.com/wp-content/themes/premiumnews/styles/default/ico-go.gif" value="Go" class="btn">
+				</div><!--/search -->
+				
+			</form>
+		
+		</div><!--/nav-right -->
+		
+	</div><!--/nav-->
+	
+	<div id="header"><!-- START LOGO LEVEL WITH RSS FEED -->
+		
+		<h1><a href="http://clickbump.com/" title="clickbump.com"><img src="http://clickbump.com/wp-content/woo_uploads/5-logo.jpg" alt="clickbump.com" title="clickbump.com"></a></h1>
+		
+		<div id="rss">
+			
+			<a href="http://clickbump.com/feed/"><img src="http://clickbump.com/wp-content/themes/premiumnews/images/ico-rss.gif" alt=""></a>
+			
+			<ul>
+				<li class="hl"><a href="http://clickbump.com/feed/">SUBSCRIBE TO THE RSS FEED</a></li>
+				<li><a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=" target="_blank">SUBSCRIBE TO THE FEED VIA E-MAIL</a></li>
+			</ul>
+			
+		</div><!--/rss-->
+		
+	</div><!--/header -->
+	
+	<div id="suckerfish"><!-- START CATEGORY NAVIGATION (SUCKERFISH CSS) -->
+		
+			<ul class="nav2">
+					<li class="cat-item cat-item-8 current-cat"><a href="http://clickbump.com/category/featured/" title="View all posts filed under featured">featured</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://clickbump.com/category/step-by-step-seo-2/" title="View all posts filed under step by step seo">step by step seo</a>
+</li>
+	
+			</ul>
+					
+	</div><!--/nav2-->
+	
+	<div id="columns"><!-- START MAIN CONTENT COLUMNS -->
+		<div class="col1">
+
+				
+		<div id="archivebox">
+		
+        		        	
+            	<h2><em>Archive |</em> featured</h2>        
+            	
+            	<div class="archivefeed"><a href="http://clickbump.com/category/featured/feed/">RSS feed for this section</a></div>
+            	
+						
+		</div><!--/archivebox-->
+	
+					
+
+				<div class="post-alt blog" id="post-183">
+		
+					 <!-- DISPLAYS THE IMAGE URL SPECIFIED IN THE CUSTOM FIELD -->
+						
+						<img src="http://clickbump.com/wp-content/themes/premiumnews/thumb.php?src=http://clickbump.com/ce2/screenshot.png&amp;h=57&amp;w=100&amp;zc=1&amp;q=90" alt="" class="th">			
+						
+					 		
+					
+					<h2></h2>					<h3><a title="Permanent Link to ClickBump Engine v3" href="http://clickbumpengine.com" rel="bookmark">ClickBump Engine v3</a></h3>
+					<p class="posted">Posted on 09 September 2010 by Scott</p>
+		
+					<div class="entry">
+						<p><strong>*NEW* ClickBump Engine <span style="color: orange;">version 3.7</span> (12 templates in 1 theme!)</strong></p>
+<p><strong>Includes lifetime updates, member’s dashboard and 100% 30 day money back guarantee.</strong></p>
+<p><a href="https://www.digitalproductdelivery.com/buy/6657" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');"><img title="screenshot.png" src="http://clickbump.com/ce2/screenshot.png" alt="screenshot.png"></a></p>
+<p>My customer’s are passionate about the success they achieve in <strong>search rankings</strong> and <strong>adsense&nbsp;click-through&nbsp;rates</strong> (see testimonials below).</p>
+<p>Order with confidence with an iron clad, 100% 30 day money back&nbsp;guarantee.</p>
+<p>If you are looking for the “ClickBump Bundle, see below. For the stand-alone option,&nbsp;<a href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">Click Here to purchase ClickBump Engine v3.6 and documentation</a>. If you want to purchase the specially priced “<a href="https://www.digitalproductdelivery.com/buy/6657" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">ClickBump Bundle</a>, containing JumpStart (the rapid site deployment tool) as well as a special bonus PDF on the ClickBump method, read on…</p>
+<p><strong>UPDATE: Specially Priced “<a href="https://www.digitalproductdelivery.com/buy/6657" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">ClickBump Bundle</a></strong><strong>” Now Available, includes ClickBump Engine for WordPress, JumpStart and “The Missing Thread” on the ClickBump Method that was banned from Warrior Forum.</strong></p>
+<p><strong>Turbo Charge your Site Installs with ClickBump Engine + Jumpstart for WordPress, click the image below to order the specially priced ClickBump Bundle!</strong></p>
+<p><a href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');" target="_blank">Click Here to Access the SPECIAL OFFER order page to instantly download ClickBump Engine version 3.6 and documentation</a></p>
+<p><a style="border-color: #fff; background: #fff;" href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');" target="_blank"><img style="border-color: #fff; background: #fff;" title="paypal-buy-white.jpg" src="http://clickbump.com/ce2/paypal-buy-white.jpg" border="0" alt="paypal-buy-white.jpg"></a></p>
+<p><em><strong>New Features of &nbsp;version 3.6…</strong></em></p>
+<ul>
+<li><em><strong>(new in 3x) Multiple Layout Styles</strong></em> – <strong><em>12 Out of the box Templates tuned for Adsense</em></strong>- XFactored (original, alt, slim and wide), clickbumped, kubricked, inoved, clickmagnet, clickwise, blueswayde, blueswayde-alt and clickbumped-alt all ship with the package and are available for on-the-fly access. <em><strong>You get 12 templates right out of the box with more becoming available all the time</strong></em>.</li>
+<li><em><strong>Multiple Ad Layout options</strong></em> – Choose to use a standard Xfactor style 336×280 ad block, or two 250×250 side by side ad blocks or even stacked ad blocks with text flow around them. You can also enable link units in the sidebars if you choose. All with a single click on the bountiful theme options panel. To flag a post for side &nbsp;by side ads is as simple as adding the “side-by-side-ads” category to it.</li>
+<li><em><strong>On The Fly Color Selection</strong></em> – If enabled, a template can allow you to change its header and sidebar color. Both clickbumped templates allow you to change the header color. The clickmagnet theme allows you to change the site title background color and the header image.</li>
+<li><em><strong>(new in 3.x) Replaces All In One SEO Plug-in</strong></em> – You can now create page by page meta descriptions and keywords, custom page titles with separate menu titles for maximum keyword leverage without cluttering menus.&nbsp;<strong><em>This negates the need to install All in One SEO or any other SEO plugin resulting in lightning fast page response.</em></strong><em><strong><br>
+</strong></em></li>
+<li><strong><em>Page by page custom images -<span style="font-weight: normal;"> You can now give every page a uniique set of product images</span>.</em></strong></li>
+<li><strong><em>(new in 3.x) Custom Page Titles – <span style="font-weight: normal;">The page title is THE MOST IMPORTANT Seo tool at your disposal. We give you the ability to separate your page title from your menu link title. This frees your page title from the menu system (which prefers smaller titles for menu spaces) allowing you to create a keyword rich page title that best positions your page against competing pages in your niche.</span></em></strong></li>
+<li><em><strong>Image Sorting and Automatic Uploads</strong></em> – product images are easily batch uploaded into the appropriate media directories then sorted by filename allowing you additional control over the order in which they appear (widget-01.jpg appears before widget-02.jpg for example). In addition, if you are using my system for autoblogging posts where images are being inserted directly into post content, you can easily configure the theme to place the images in the appropriate directories automatically.</li>
+<li><strong><em>(new in 3.x) Automated Menu Management</em></strong> – Show or hide the Site Menu, Recent Posts, Current Posts and SiteMap as well as rename them, all with complete control over display. As new pages and posts are created, they automatically appear in the appropriate menu. You can also define the number of posts and pages to display for incredible flexibility with autoblogging applications.</li>
+<li><strong><em>(new in 3.x) Automated Management of Google Webmaster Verification</em></strong> – We provide an automated means of inserting your Google Webmaster Site Verification tag into your home page. Simply paste in your Google verification tag (its the same for every site you have) and ClickBump Engine does the rest.</li>
+<li><strong><em>(new in 3.x) Automated Affiliate Link Management</em></strong> – To link your product images with your affiliate ID, you simply insert it into theme options and its automatically added to your product images enabling users to click through your affiliate link. Supports cloaked affiliate links.</li>
+<li><em><strong>Comment &amp; Tag System Option</strong></em> – Enable Comments and/or post tags on pages and/or posts if you choose.</li>
+<li><em><strong>Flexible Add-ons &amp; Upgrade Architecture</strong></em> – I’ve enabled version 3.x to seamlessly accept new templates as they are developed. You merely have to add a zipped template folder to your existing install via the new “Add New Template” button in theme options panel. Once uploaded, the new template will appear automatically for your immediate use. Update: As of version 2.6 the upgrade process has been added right into the theme options panel. just click the “Upgrade” button to <em><strong>seemlessly upgrade your whole clickbump engine to the latest version on the fly</strong></em>.</li>
+<li><em><strong>The definitive Authority Site Publishing Engine for WordPress</strong></em> – auto hide posts and pages, flag posts for top menu, overflow posts in sidebar, auto generated sitemaps, custom css, custom tracking code, affiliate ready images, flexible enough for Adsense, Affiliates or Autoblogging applications, and much more. This is the definitive system for Authority, Adsense and Affiliate publishers.</li>
+</ul>
+<p><strong><em><br>
+Introducing, the &nbsp;Templates (<span style="font-weight: normal;">many more to become available soon via the template marketplace</span></em><em>)</em></strong></p>
+<p><em>(Note: Adsense Blocks are not turned on in these screenshots, but the Adsense 336×280 block would appear directly under the post title, unless post excerpts are turned on, in which case, the ads appear under the post excerpt)<br>
+</em><br>
+Once installed, ClickBump Engine allows use of multiple templates (<strong><em>an 12 in 1 system out of the box</em></strong>), including…</p>
+<ul class="ce2_thumbs">
+<li><strong>Xfactored </strong>(The authentic WordPress template for Xfactor’s original Layout remixed in validated xhtml/css)<br>
+<a href="http://clickbump.com/wp-content/uploads/xfactored.jpg"><img class="alignnone size-full wp-image-372" title="xfactored" src="http://clickbump.com/wp-content/uploads/xfactored.jpg" alt="" width="300" height="225"></a></li>
+<li><strong>ClickBumped </strong>(The original insanely converting theme)<strong><br>
+</strong><a href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');"><img title="clickbumped.jpg" src="http://clickbump.com/ce2/clickbumped.jpg" alt="clickbumped.jpg"></a></li>
+<li><strong>Inoved</strong> (The Google Sniper’s Favorite)<strong><br>
+</strong><a href="https://www.digitalproductdelivery.com/buy/6409"><img title="inoved.jpg" src="http://clickbump.com/ce2/inoved.jpg" alt="inoved.jpg"><br>
+</a></li>
+<li><strong>ClickMagnet</strong> (perfect for Autoblogging or Adsense)<br>
+<a href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');"><img class="alignnone size-full wp-image-238" title="screenshot" src="http://clickbump.com/wp-content/uploads/screenshot.jpg" alt="" width="300" height="225"></a></li>
+</ul>
+<ul class="ce2_thumbs">
+<li><strong>ClickBumped-Alt</strong> (XFactor 2.0)<br>
+<a href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');"><img title="clickbumped-alt.jpg" src="http://clickbump.com/ce2/clickbumped-alt.jpg" alt="clickbumped-alt.jpg"></a></li>
+<li><strong>ClickWise </strong>(Makes the Blue Links Dance)<a href="http://clickbump.com/wp-content/uploads/clickwise.jpg"><img class="alignnone size-full wp-image-370" title="clickwise" src="http://clickbump.com/wp-content/uploads/clickwise.jpg" alt="" width="300" height="302"> </a></li>
+<li><strong>BlueSwayed-Alt </strong>(A little bit of blue goes a long way)<br>
+<a href="http://clickbump.com/wp-content/uploads/blueswayde.jpg"><img class="alignnone size-full wp-image-371" title="blueswayde" src="http://clickbump.com/wp-content/uploads/blueswayde.jpg" alt="" width="300" height="225"></a><a href="http://clickbump.com/wp-content/uploads/clickwise.jpg"></a></li>
+<li><strong>Kubricked </strong>(the ultimate “no footprint” theme)<a href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');"><img title="kubricked.jpg" src="http://clickbump.com/ce2/kubricked.jpg" alt="kubricked.jpg"> </a></li>
+<li><strong>XFactored-Slim</strong> (my best performing template to date. Available soon with the release of 3.5 and free to existing customers)<br>
+<a href="http://clickbump.com/wp-content/uploads/screenshot1.jpg"><img class="alignnone size-full wp-image-385" title="screenshot" src="http://clickbump.com/wp-content/uploads/screenshot1.jpg" alt="" width="300" height="225"></a></li>
+<li><strong>XFactored-alt </strong>(a little more room in the sidebar area than John’s original design allowed for)<br>
+<a href="http://clickbump.com/wp-content/uploads/screenshot2.jpg"><img class="alignnone size-full wp-image-386" title="screenshot" src="http://clickbump.com/wp-content/uploads/screenshot2.jpg" alt="" width="300" height="225"></a></li>
+<li><strong>XFactored-wide</strong> (Fits 1024×768 displays nicely)<br>
+<a href="http://clickbump.com/wp-content/uploads/screenshot3.jpg"><img class="alignnone size-full wp-image-387" title="screenshot" src="http://clickbump.com/wp-content/uploads/screenshot3.jpg" alt="" width="300" height="225"><br>
+</a></li>
+<li><strong>BlueSwayde</strong><br>
+<a href="http://clickbump.com/wp-content/uploads/screenshot4.jpg"><img class="alignnone size-full wp-image-394" title="screenshot" src="http://clickbump.com/wp-content/uploads/screenshot4.jpg" alt="" width="300" height="225"></a></li>
+</ul>
+<ul class="ce2_thumbs">
+<li><strong>The Theme options panel</strong><br>
+(Once installed, you get access to all 12 templates listed above via the unique on-the-fly template switching, 12 in 1 theme system and more templates becoming available)<p></p>
+<p><a href="http://clickbump.com/wp-content/uploads/3.5-1.jpg"><img class="alignnone size-large wp-image-390" title="3.5-1" src="http://clickbump.com/wp-content/uploads/3.5-1-881x1024.jpg" alt="" width="881" height="1024"></a></p></li>
+</ul>
+<p><a style="border-color: #fff; background: #fff;" href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');" target="_blank"><img style="border-color: #fff; background: #fff;" title="paypal-buy-white.jpg" src="http://clickbump.com/ce2/paypal-buy-white.jpg" border="0" alt="paypal-buy-white.jpg"></a></p>
+<p><strong>I’ve never solicited testimonials from my customers,</strong> I figure if I do my job and simply take care of people, they will naturally want to share their success with others. And that’s why its completely gratifying at the amazing amount of unsolicited comments I’ve received from people who’ve purchased the ClickBump Engine…</p>
+<blockquote><p>Hi Scott, I really can’t describe how excited these last few days have been since purchasing your themes.</p>
+<p>I have a junk site that I use to practice on before installing plugins and themes on my “good” sites.  Well within a couple days of installing one of your themes on my test blog it started making over a dollar a day with adsense.  I couldn’t belive it.  Every site I own combined have never made this much money for me.  You’re probably laughing about being so excited about a few bucks but I honestly feel like I won the lotto.  After all the junk I’ve purchased online, I’ve finally found something that really works.  Thank you so much.  Jim</p></blockquote>
+<blockquote><p>Hey Scott!</p>
+<p>Man, I gotta tell you…this CE3 and Jumpstart are absolutely awesome.</p>
+<p>When I first used Jumpstart, I saw the advatage, but I was still wasting time editing and then having to create a new Jumpstart.zip for each site.  Today, I put up a site and just used the original files.  I didn’t realize that Jumpstart filled in all the blanks for me…duh.  Absolutely Awesome!</p>
+<p>Thanks for continuing to produce great stuff!</p>
+<p>- John Amorosso</p></blockquote>
+<blockquote><p>I bought your Wordpress theme for the XFactor method last night and got it working on one of my web sites in about 10 minutes.</p>
+<p>Stunning. Brilliant! So much easier for me than messing around with XSitePro 2. I mean I am already making decent money from affiliate blogs and I’m quite used to Wordpress from that experience, so this theme was and will be a real timesaver. I think I’ll actually start enjoying the writing part again now that I don’t have to “mess” with as much stuff.</p>
+<p>Plus I have always loved the benefits of Wordpress plugins like “Easy Privacy Policy”, “Contact Form 7″, and of course “Google XML Sitemap” and “All in One SEO” … makes for a VERY fast web site! And let’s face it, Google loves it.</p>
+<p>Worth every cent I spent. – Jack M (um1001)</p></blockquote>
+<blockquote><p>Wow,</p>
+<p>Yes this is awesome. I purchased a few days ago, but I waited for this 3.x release and it looks very impressive. This is going to make my site building go so much faster.</p>
+<p>Thanks again for your great work.<br>
+__________________<br>
+Thanks,<br>
+-Brett</p></blockquote>
+<blockquote><p>The template!!!!  I love the template!!!!  Man!  it is so great to just toggle a few things and get right to work.  I am no sissy when it comes to adjusting the code….it’s just that I have no idea what the heck I am doing. lol</p>
+<p>If you want me to write up a professional testimonial, just let me know – I’d be glad to.</p>
+<p>It is truly awesome and you are a true gem because you worked with me to get it working on a subdomain/subdirectory, which was new for the product at the time.</p>
+<p>Talk soon!</p>
+<p>Raleigh <img src="http://clickbump.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p></blockquote>
+<blockquote><p>Scott,</p>
+<p>I’ve gotten your ClickBump Engine this afternoon (my time). At $xx, it’s a bargain. I was expecting it to be higher.</p>
+<p>Anyway, I put it to use on one web site and it worked straight out of the box. Since you provide everything with the theme, I uninstalled a couple of plugins which are redundant now. <img src="http://clickbump.com/wp-includes/images/smilies/icon_razz.gif" alt=":-P" class="wp-smiley">  -ykpmnac</p></blockquote>
+<blockquote><p>Hey Scott,</p>
+<p>Your templates are amazing, I’ll time one from “CPanel to content ready” for you tomorrow and right you up a testimonial. I’m projecting 35 minutes, we’ll see. My first two were stop/start but I have it down now. I’m going to write it down so my wife can be loading them up while I write. – lancerbear</p></blockquote>
+<blockquote><p>i’ve already finished setting up my site. Took me about 15 mins! How quick was that! – msoon77</p></blockquote>
+<blockquote><p>You’re the bomb, Scott.  No wonder I  haven’t caught you on the forum the past few days! – kymom</p></blockquote>
+<blockquote><p>Hi,</p>
+<p>Thank you for this Scott!</p>
+<p>I tinkered for HOURS to try and get a WP template for  a MNWebsite site. Now I get it handed to me for only xx (still alot of  money to me though). I sure needed this and the ease of making websites will allow me to continue and actually make money for ONCE   <img src="http://clickbump.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+<p>I am sooo pumped up now.</p>
+<p>Thanks, jimfrr</p></blockquote>
+<blockquote><p>Scott-  That template is amazing, it must cut down the amount of time spent on building these sites by at least 60% for me! much appreciated. – ej2009</p></blockquote>
+<blockquote><p>Wow, I’m really, really impressed with your ClickBump Engine.   Finally a script that loads easily<br>
+and works fantastic.  I appreciate you my friend.   Got my hours cut back on my job and this<br>
+wonderful engine will help supplement my income.   I appreciate you my friend.</p>
+<p>Thanks again Scott.</p>
+<p>To your success,</p>
+<p>Rick Davis</p></blockquote>
+<blockquote><p>Scott,</p>
+<p>Well done!</p>
+<p>Clean code and refreshingly fun and straightforward interface.</p>
+<p>Seriously Scott, nice work! – digitaltracker</p></blockquote>
+<blockquote><p>Hi Scott,</p>
+<p>I just wanted to say thank you a million times over for all you do. You have been the difference in me being able to do this with all your patient explanations….if you are not already a Father, you’ll be a great one!</p>
+<p>I really appreciate the energy and thoughtfulness you put in everything.</p>
+<p>Cheers!</p>
+<p>Anne</p></blockquote>
+<blockquote><p>Wow. So far, I’m loving the additions. I was really itching for the ability to insert a line of text under the title (I’m the helpless paranoid type). And the Sitemap function!</p>
+<p>I can’t believe I was missing out on all of this! This is great, Scott! Thank you. I was really starting to worry about the possibility of one day in the future wanting to expand sites. I want to stick with this theme, as I’m loving it more and more by the day. But I was concerned that I wouldn’t be able to expand on sites when I find the true gems without making my header look ridiculous. Allowing for overflow posts in the sidebar = brilliant. – cowboyrob</p></blockquote>
+<blockquote><p>Your theme/automation is great!  The first site I put up on Saturday night and when I woke up on Sunday it was sitting at #5!  Not bad at all.</p>
+<p>Like I said, I just got on the forum and your thread and information is fantastic!  As many have said, it is inspirational and quite generous.  I do sincerely appreciate it, and hope that while this $xx is a small payment, that I’ll be able to pay you back many times over in ‘karma’ with stories of success. – MexiKen</p></blockquote>
+<blockquote><p>Hey Scott,</p>
+<p>Thanks for the superb support!</p>
+<p>You make me feel secure with the template.</p>
+<p>I never regretted buying from you.</p>
+<p>Thanks heaps, razorblade</p></blockquote>
+<blockquote><p>Hey Scott,</p>
+<p>Thanks so much for the reply and details! I can’t wait to start using the template. I love working with wordpress and your template for John’s course just made it ten times better! Thanks again! – daver</p></blockquote>
+<blockquote><p>Hi Scott</p>
+<p>I purchased the ClickBump WP themes two days ago – i just wanted to say how pleased i am with the way they function – simply spectacular!! I only appreciate it because i have spent countless hours in the past fiddling with other theme setting manually .. – kaka</p></blockquote>
+<blockquote><p>Hi Scott, I don’t know if you remember that I asked about your themes a month or so ago and didn’t buy them.  I had a change of heart a few days ago and bought, even though it cost me an extra $10 to do so!  I’m not sorry though.  Very impressed and thanks! – Vince</p></blockquote>
+<blockquote><p>I’ve just bought your CE v2, and I must say I’m impressed. At first I was sceptical about this whole thing, but now I must say I’m completely satisfied.</p>
+<p>Everything, from the download of CE v2 to the installation went smoothly. Well, except for one problem I had. Luckily, that problem was there just to prove how fast support really is. I received a detailed answer with screenshots and useful tips (that I didn’t even ask for) almost immediately after asking for help.</p>
+<p>Whole Clickbump Engine v2 is simply amazing. Every function is there for a reason. Everything was made to save me a lot of time. This investment was worth every cent.</p>
+<p>It’s so easy to change the theme color (sidebar or header), to add/remove sidebar link unit, to change themes, add photos… And it comes with really good step by step tutorial.</p>
+<p>In short, everything is only one click away. This was definitely my best buy and it will fit my Adsense micro niche project perfectly.</p></blockquote>
+<blockquote><p>I purchased the clickbump engine version 3 about a week ago.<br>
+I was really excited to get it thinking that it would allow me to make web sites really quickly.<br>
+After I got it I was a bit disappointed due to the fact, that it took me 3 hours to make my first site.<br>
+I contacted Scott and told him of my disappointment.  He explained to me some key steps I was missing and from then it’s been a breeze.  Scott has been really responsive to my questions and I’ve actually made 15 niche sites since getting the software. I even purchased the jumpstart and that is incredible.<br>
+Literally, my sites are now  done in about 3 minutes, all I have to do is go in and tweak a couple of things.  The fact that you can choose multiple templates on the fly is good when you are trying to see what is more pleasing to the eye.  Scott has emailed me various CSS codes and has really helped me with any questions that I had.  If you are skeptical about this product don’t be!  Make sure to buy both the clickbump engine and the jumpstart. They work wonderfully together!<br>
+- Tracy McLaughlin</p></blockquote>
+<blockquote><p>Thanks Scott, I must say I am impressed with the way my CTR has improved since ditching the superadsense theme and using your and John’s xfactor theme, the CTR has doubled. Thanks for releasing such a user friendly theme that converts brilliantly.<br>
+Best wishes<br>
+Linda</p></blockquote>
+<blockquote><p>Hi, I’m happy with your clickbump product — very happy, actually. Personally, I think that you should charge more, considering it’s TWELVE awesome themes, customizable…and that Socrates for WP (Joel Comm’s I think) and Thematic cost a bit more for ONE theme.</p>
+<p>Going to spread the love when I begin blogging about my online marketing progress, haven’t yet began that.  I did find you at Mike Iser (<a href="http://mikeiser.com" onclick="javascript:pageTracker._trackPageview('/outbound/article/mikeiser.com');">mikeiser.com</a>) — a fellow commenter mentioned you a few times.</p>
+<p>Thanks again for an AMAZING product!</p>
+<p>–James M Hussey</p></blockquote>
+<p><a style="border-color: #fff; background: #fff;" href="https://www.digitalproductdelivery.com/buy/6409" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');" target="_blank"><img style="border-color: #fff; background: #fff;" title="paypal-buy-white.jpg" src="http://clickbump.com/ce2/paypal-buy-white.jpg" border="0" alt="paypal-buy-white.jpg"></a></p>
+<p>If you have any questions left unanswered, feel free to&nbsp;<a href="mailto:support@clickbump.com">shoot me an email</a>.</p>
+ 
+					</div>
+		
+					<p class="comments"><a href="http://clickbumpengine.com#comments" title="Comment on ClickBump Engine v3">Comments (14)</a></p>
+				
+				</div><!--/post-->
+
+				
+
+				<div class="post-alt blog" id="post-405">
+		
+					 <!-- DISPLAYS THE IMAGE URL SPECIFIED IN THE CUSTOM FIELD -->
+						
+						<img src="http://clickbump.com/wp-content/themes/premiumnews/thumb.php?src=wp-content/uploads/reviewsite-small.jpg&amp;h=57&amp;w=100&amp;zc=1&amp;q=90" alt="" class="th">			
+						
+					 		
+					
+					<h2></h2>					<h3><a title="Permanent Link to Premium Adsense Templates" href="http://clickbump.com/adsense-templates/" rel="bookmark">Premium Adsense Templates</a></h3>
+					<p class="posted">Posted on 08 September 2010 by Scott</p>
+		
+					<div class="entry">
+						<style type="text/css">a {color:slateblue;}</style>
+<p><strong>Now Shipping &gt; ClickBump Engine Premium Adsense Templates! </strong></p>
+<h2>Limited Time Special Offer (<a href="https://www.digitalproductdelivery.com/buy/9181" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');" style="text-decoration:underline;">Get all 5 for only $9.40 each!</a>)</h2>
+<p>These <strong>WordPress Adsense templates</strong> have been meticulously crafted of pure CSS and validating xhtml for the rapid creation of authority sites within ClickBump Engine. They are formatted for 1 click upload into the <a href="http://clickbumpengine.com" onclick="javascript:pageTracker._trackPageview('/outbound/article/clickbumpengine.com');">ClickBump Engine</a> dashboard via theme options. Just upload the included zip file, click save in clickbump options&nbsp; and you are ready to go. <em><strong>Note: These Templates require ClickBump Engine v3.6 or better. </strong></em><a href="http://clickbumpengine.com" onclick="javascript:pageTracker._trackPageview('/outbound/article/clickbumpengine.com');"><em><strong>Get it here</strong></em></a><em><strong>.</strong></em></p>
+<p>Premium Template &gt; <strong>Gadget</strong><strong> </strong><a href="https://www.digitalproductdelivery.com/buy/9176" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">($11 Buy Now</a>!)<br>
+Description &gt; <em>The Gadget template is<strong> inspired by engadget.com</strong> and features a customizable header/splash graphic, a top level site menu with current page hightlighting that you control as well as a list of top menu items below the splash with color highlighting that you control. All premium templates support the inclusion of a search bar widget with color coordinated button styling.</em></p>
+<p><a href="http://clickbump.com/wp-content/uploads/screenshot-full.jpg"><img class="alignnone size-medium wp-image-408" title="Gadget" src="http://clickbump.com/wp-content/uploads/screenshot-full-217x300.jpg" alt="" width="217" height="300"></a></p>
+<hr>Premium Template &gt; <strong>PayDay</strong><strong> </strong>($11&nbsp;<a href="https://www.digitalproductdelivery.com/buy/9178" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">Buy Now</a>!)<br>
+Description &gt; <em>The PayDay template is a <strong>one of a kind authority site template</strong> that features a unique site menu across the top, with color coordinated highlight state that you control, as well as a top menu bar below the header area. You can ad your own custom transparent header.png file via theme options 1 click upload. The template’s header and menu highlight colors can be easily customized via theme options with 1 click.</em><em><em> </em>All premium templates support the inclusion of a search bar widget with color coordinated button styling.</em><p></p>
+<p><a href="http://clickbump.com/wp-content/uploads/screenshot-full2.jpg"><img class="alignnone size-medium wp-image-414" title="payday-screenshot-full" src="http://clickbump.com/wp-content/uploads/screenshot-full2-251x300.jpg" alt="" width="251" height="300"></a></p>
+<hr>Premium Template &gt; <strong>ReviewSite</strong><strong> </strong><a href="https://www.digitalproductdelivery.com/buy/9179" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">($14 Buy Now</a>!)<br>
+Description &gt; The ReviewSite template is <strong>well suited for Affiliate authority sites</strong> that feature single or multiple product pitches. You can upload a custom header.jpg file directly from theme options with one click. It also features a top level site menu as well as a list of links below the header that can be tagged for display with the top-menu category.<strong> </strong><p></p>
+<p><a href="http://clickbump.com/wp-content/uploads/screenshot-full3.jpg"><img class="alignnone size-medium wp-image-416" title="reviewsite-screenshot-full" src="http://clickbump.com/wp-content/uploads/screenshot-full3-250x300.jpg" alt="" width="250" height="300"></a></p>
+<hr>Premium Template &gt; <strong>ClickBuddy</strong><strong> </strong>($11&nbsp;<a href="https://www.digitalproductdelivery.com/buy/9177" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">Buy Now</a>!)<br>
+Description &gt; ClickBuddy was designed for <strong>high conversion product niche sites</strong>. The inclusion of an attractive image (background.jpg) off to the right of the main product area links increases call to action and response rates and instantly leads the eye to the main target area. ClickBuddy and all premium templates support on the fly switching of header colors and search buttons.<p></p>
+<p><a href="http://clickbump.com/wp-content/uploads/screenshot-full3.jpg"></a><a href="http://clickbump.com/wp-content/uploads/screenshot-full1.jpg"><img class="alignnone size-medium wp-image-415" title="clickbuddy-screenshot-full" src="http://clickbump.com/wp-content/uploads/screenshot-full1-216x300.jpg" alt="" width="216" height="300"></a></p>
+<hr>Premium Template &gt; <strong>Thesis Remix</strong><strong> </strong>($11&nbsp;<a href="https://www.digitalproductdelivery.com/buy/9180" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">Buy Now</a>!)<br>
+Description &gt; This template is <strong>inspired by the venerable Thesis WordPress theme</strong>. It features a top level site menu along with a header image that can be instantly customized via 1 click uploader. The header area has a unique transparency effect that allows the site name and tagline to remain visible regardless of your header image contrast and colors. Like all premium clickbump templates, this one allows on the fly switching of custom colors for the menu, header background as well as the search button (just drag a search widget over to the sidebar and its automatically styled with your custom color choices).<p></p>
+<p><a href="http://clickbump.com/wp-content/uploads/screenshot-full4.jpg"><img class="alignnone size-medium wp-image-417" title="thesisremix-screenshot-full" src="http://clickbump.com/wp-content/uploads/screenshot-full4-244x300.jpg" alt="" width="244" height="300"></a></p>
+<p>Note: You must&nbsp;<a href="http://clickbump.com/ce">purchase or own ClickBump Engine</a> in order to install and use these templates.</p>
+<p>These&nbsp;WordPress Adsense templates&nbsp;each load super fast, are highly optimized for Google Caffeine and support the recent enhanced color options available in ClickBump 3.7 (<a href="http://clickbump.com/ce">now shipping</a>). They all support custom header images as well as custom color options (via a user friendly color picker inside of clickbump engine).</p>
+<h2>Limited Time Special Offer (Get all 5 for $9.40 each!)</h2>
+<p>To order the specially priced 5 template bundle,&nbsp;<a href="https://www.digitalproductdelivery.com/buy/9181" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">click here</a>. You get all 5&nbsp;Adsense Premium templates&nbsp;for $47 (that’s only $9.40 each). You must order the bundle to get this special pricing deal.</p>
+<h3><a href="https://www.digitalproductdelivery.com/buy/9181" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');">Click Here to Access the SPECIAL OFFER Template Bundle order page</a></h3>
+<p><a href="https://www.digitalproductdelivery.com/buy/9181" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.digitalproductdelivery.com');" target="_blank"><img title="paypal-buy-white.jpg" src="http://clickbump.com/ce2/paypal-buy-white.jpg" border="0" alt="paypal-buy-white.jpg"></a></p>
+<p>If you prefer to purchase the templates separately, you can click on the “Buy Now” links above for individually priced downloads.</p>
+<hr>
+ 
+					</div>
+		
+					<p class="comments"><a href="http://clickbump.com/adsense-templates/#comments" title="Comment on Premium Adsense Templates">Comments (2)</a></p>
+				
+				</div><!--/post-->
+
+				
+
+				<div class="post-alt blog" id="post-173">
+		
+					 <!-- DISPLAYS THE IMAGE URL SPECIFIED IN THE CUSTOM FIELD -->
+						
+						<img src="http://clickbump.com/wp-content/themes/premiumnews/thumb.php?src=wp-content/uploads/warrior.jpg&amp;h=57&amp;w=100&amp;zc=1&amp;q=90" alt="" class="th">			
+						
+					 		
+					
+					<h2></h2>					<h3><a title="Permanent Link to ClickBumped! The Missing Thread" href="http://clickbump.com/clickbumped-the-missing-thread/" rel="bookmark">ClickBumped! The Missing Thread</a></h3>
+					<p class="posted">Posted on 18 November 2009 by Scott</p>
+		
+					<div class="entry">
+						<p>Several warriors and I spent the span of a couple of days last week pouring our hearts into a thread which was titled…</p>
+<p><em><strong>“My First $100 day on the Xfactor method”</strong></em></p>
+<p>In which I posted my journey from Adsense noob (I only made $20 in two years with Adsense on a daily update blog) to what you might call a somewhat reluctant “<em><strong>Adsense phenom</strong></em>” in the span of two short months. I made $309 dollars my first month, then doubled that the next month with $807.12</p>
+<p>This month I’m on track to double that and I’m at $1223.06 as of today for the month of November.</p>
+<p><em><strong>So in a little over 2.5 months, I’ve gone from $20 in my Adsense account, to $2339.00 and counting…</strong></em></p>
+<p><em><strong></strong></em> I did it by applying the techniques of <a href="http://clickbump.com/resources/xfactor">Xfactor </a>(aka John, the $300 a day Adsense guy) along with some of my own unique <acronym title="Search Engine Optimization">seo</acronym> optimization techniques and an interesting indexing method I call the “Sneaky Punctuation Trick”</p>
+<p><em>So that brings us to the point of this post…</em></p>
+<p>Several fellow warriors have asked what happened to the thread that I posted where I detailed my techniques and laid everything bare for others to learn.</p>
+<p>You can read the full story over on my <a href="http://www.warriorforum.com/blogs/clickbump/8620-clickbumped-missing-thread.html" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.warriorforum.com');">blog at Warrior Forum</a>, but the gist is this: <em><strong>it never went anywhere</strong></em>.</p>
+<p>A Wise Man once said, “A city on a hill cannot be hidden”, and like that city, knowledge is a light that cannot be put out (especially with persistent caching and PDFs <img src="http://clickbump.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"> </p>
+<p>So that brings me to the reason for this post. I happened to have my tabs left open all night that night and had both threads displayed. So I’ve got every last post that was made there and I’m creating a PDF of it and I’m going to sell it for…</p>
+<p>&lt;just kidding&gt;</p>
+<p>Gotcha! I’ve created a downloadable PDF of it right here on my server and anyone who wants the to learn the <a href="http://clickbump.com/twil/My-first-$100-dollar-day-on-Xfactor-method-page1.pdf" onclick="javascript:pageTracker._trackPageview('/downloads/twil/My-first-$100-dollar-day-on-Xfactor-method-page1.pdf');">clickbump twist on the Xfactor method</a> (&lt;part 1 PDF 41 pages) knowledge can <a href="http://clickbump.com/twil/My-first-$100-dollar-day-on-Xfactor-method-Page2.pdf" onclick="javascript:pageTracker._trackPageview('/downloads/twil/My-first-$100-dollar-day-on-Xfactor-method-Page2.pdf');">get it for free</a> (&lt; part 2 PDF 25 pages).</p>
+ 
+					</div>
+		
+					<p class="comments"><a href="http://clickbump.com/clickbumped-the-missing-thread/#comments" title="Comment on ClickBumped! The Missing Thread">Comments (3)</a></p>
+				
+				</div><!--/post-->
+
+				
+
+				<div class="post-alt blog" id="post-132">
+		
+					 <!-- DISPLAYS THE IMAGE URL SPECIFIED IN THE CUSTOM FIELD -->
+						
+						<img src="http://clickbump.com/wp-content/themes/premiumnews/thumb.php?src=wp-content/uploads/xfactor-big.jpg&amp;h=57&amp;w=100&amp;zc=1&amp;q=90" alt="" class="th">			
+						
+					 		
+					
+					<h2></h2>					<h3><a title="Permanent Link to Make Money with Adsense" href="http://clickbump.com/make-money-with-adsense/" rel="bookmark">Make Money with Adsense</a></h3>
+					<p class="posted">Posted on 09 January 2009 by Scott</p>
+		
+					<div class="entry">
+						<blockquote><p>[Update:] Since this post was originally created back in October, <strong>I’ve made over $14k with Google Adsense in less than a year (<em>part time – I have a day job too <img src="http://clickbump.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </em></strong></p>
+<p>I’ve done it solely by creating tiny little niche websites with Google Adsense ads at the top of every post page. The method by which I’ve done this, using a combination of “Xfactor Adsense” teachings along with George Brown’s Google Sniper techniques, has come to be known as the “<strong><a href="http://clickbump.com/ce">ClickBump Method</a></strong>“.</p>
+<p>The common thing though, that has enabled me to rapidly turn out niche websites that make money on virtual auto-pilot, is the <strong><a href="http://clickbump.com/ce">WordPress Template Engine</a></strong> that I created to run all my sites. I call it ClickBump Engine and since I first packaged it and began offering it to other Adsense andClickBank publishers, it has achieved phenomenal success and accolades from customers. The fact that I use this same system every day, means I’m constantly updating and tweaking it for maximum ranking power to <strong><em>keep my sites on the top of Google</em></strong>.</p>
+<p>But it was all based on the foundation of teachings I learned in a remarkably powerful ebook from a guy named John (XFactor) who’s come to be a mentor and friend.</p>
+<p>If after reading this review of John’s <strong>Xfactor Adsense Course</strong>, you decide to <a href="http://clickbump.com/go/xfactor">purchase the course using my affiliate link,</a> I’ll offer you the ClickBump Engine version 3 system at a 20% discount off the current price. The only requirement is that you must <a href="http://clickbump.com/ce">order the ClickBump Engine system</a> within 48 hours of purchasing John’s course.</p></blockquote>
+<p><em>Originally posted on October 3o, 2009</em></p>
+<p><strong>I just got a $309.82 check today from Google, Inc.<br>
+<span style="font-weight: normal;"><em>(you can view it at the bottom of this post. This was my very first check ever from Google. Since then, I’ve received checks in excess of $2k)</em></span></strong></p>
+<p><a href="http://clickbump.com/resources/xfactor">To see the how I was able to do it, click here</a></p>
+<p><strong><em>This was my first check ever from Google</em></strong>, despite having a blog with Adsense ads (not this one actually) in which I posted nearly every day and drew a respectable amount of traffic.</p>
+<p><strong><em>So what was it that it that finally broke my two year drought and got me my first Adsense check? In a word, a guy named John</em></strong>. John goes by username Xfactor on the forum where I first discovered him when he wrote a post that chronicled <strong>how he made $300 a day from Adsense alone</strong>.<br>
+<strong><br>
+<em>That got my attention</em></strong>.</p>
+<p>Especially since I’d been going at it pretty steady for two years and <strong>had only managed to accumulate a grand total of $20.32</strong> in all that time from the Adsense ads I had peppered around my daily blog posts.</p>
+<p>In his post, John laid out his basic outline of how he had managed to <strong>triple his Adsense income in six months</strong>. He went on further to list, point by point, his lessons learned along the way. <strong>This became the basis of the ebook he would later write</strong> (and I would later purchase).</p>
+<p><strong>And here is the golden nuggets of that post that started <em>this whole crazy Xfactor thing</em></strong>…</p>
+<ol>
+<li><strong>From One Big Site to Many Many Small Sites</strong>- John originally had one big honking site that took quite a lot of his time and he began to completely reverse that strategy and started building a lot of tightly focused single-page micro sites.</li>
+<li><strong>Product Niches</strong> – He began to focus on product niches. Reasoning that people searching for products were likely ready to buy, thus ready to click</li>
+<li><strong>Low Competition, Moderate Traffic Keywords</strong> – He began to hone in on product keywords where there was a decent amount of traffic to make money, but not so much that getting a first page ranking in Google would be unattainable</li>
+<li><strong>Volume</strong> – John embraced the volume concept and forced himself to research and launch 4-5 sites a week. With this volume of sites, he could settle for a 20-25% success rate and still launch 1 money making site a week. A perpetual source of passive income with compounding dividends</li>
+<li><strong>Use Article Marketing Exlusively for SEO</strong> – This is perhaps where I disagree a bit with John’s approach, but its hard to argue with his success. John advocates using article marketing exclusively for site rankings with backlinks. I tend to favor depending on my niche research to birth a site that does not require backlinking to stay on top of the search engines. My main strategy for this is site optimization and domain name selection. To be fair, John advocates for some of this as well.</li>
+<li><strong>A Curiously Clickable Template</strong> – This is the single biggest draw that got me to pull the trigger on John’s course. After reading about the incredible performance of John’s template layout, I had to see it with my own eyes. I can honestly say, I was completely surprised when I saw it, but over the past two months, my bank account is testament to the fact that the <em><strong>layout, colors and subtle simplicity of the “Xfactor look” is </strong><strong>incredibly effective at drawing clicks on product ads.</strong></em></li>
+</ol>
+<p>So after reading this post and becoming quite intrigued at how he was able to triple his income in such a short time and how everything seemed to revolve around launching many little tightly focused niche sites all wrapped in this mysteriously elusive template, <strong><em>I could not resist any longer and decided to purchase his course</em></strong>.</p>
+<p>I’m sitting here a little over two months since that day I found out about John and his ebook and course and as I said in the opening, <strong><em>I just got my very first check ever today from Google in the amount of $309.62</em></strong> ($20.32 of that was for revenue accrued from March 2007 until Sept 2009 with my alternative energy site, the rest was as a result of the following John’s e-book from September 9, 2009 through today)</p>
+<p><strong><em>As I sit today, I’ve already doubled my first month’s income and accrued $749.91 following John’s methods</em></strong>.</p>
+<p>This has all been made by following John’s <a href="http://clickbump.com/resources/xfactor">Adsense Master Course E-book</a> and a few twists of my own in terms of tweaking the program for SEO (I really dislike article marketing so I’ve turbo charged John’s template layout and created a WordPress version that basically builds the site with a few clicks). <strong><em>My version has been pretty effective thus far with several sites hitting page one with virtually no backlinking done on my part</em>.</strong></p>
+<p>If you are skeptical or have been burned by ebook offers in the past, all I can say is that this is a completely different animal altogether. This system works, almost too well. <strong><em>Its dang near addicting</em></strong>! The proof is in the check I just received and I’m on track to double my income each month following this formula.<img src="http://clickbump.com/wp-content/uploads/sept-check.jpg" alt="My First Adsense Check - Oct 09"></p>
+ 
+					</div>
+		
+					<p class="comments"><a href="http://clickbump.com/make-money-with-adsense/#comments" title="Comment on Make Money with Adsense">Comments (11)</a></p>
+				
+				</div><!--/post-->
+
+				
+		<div class="navigation">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>		
+	
+								
+
+		</div><!--/col1-->
+
+<div class="col2">
+
+	 
+	<div class="ads">
+
+	<a href=""><img src="" alt=""></a>
+
+	<a href=""><img src="" alt=""></a>
+
+	<a href="http://clickbump.com/Select a page:/"><img src="http://clickbump.com/wp-content/themes/premiumnews/images/ad-here.gif" alt="Advertise Here" class="last"></a>
+
+</div><!--/ads-->	
+	<div class="sideTabs">
+			
+		<ul class="idTabs">
+			<li><a href="#pop">POPULAR</a></li>
+			<li><a href="#comm">COMMENTS</a></li>
+			<li><a href="#feat">FEATURED</a></li>
+			<li><a href="#tagcloud">TAG CLOUD</a></li>		</ul><!--/idTabs-->
+	
+	</div><!--/sideTabs-->
+	
+	<div class="fix" style="height:2px;"></div>
+	
+	<div class="navbox">
+		
+		<ul class="list1" id="pop">
+            <li><a href="http://clickbumpengine.com" title="ClickBump Engine v3">ClickBump Engine v3</a></li><li><a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/" title="Domain Name Availability added to Google Adwords Keyword Tool">Domain Name Availability added to Google Adwords Keyword Tool</a></li><li><a href="http://clickbump.com/juggernaut-seo/" title="Juggernaut SEO">Juggernaut SEO</a></li><li><a href="http://clickbump.com/clickbumped-the-missing-thread/" title="ClickBumped! The Missing Thread">ClickBumped! The Missing Thread</a></li><li><a href="http://clickbump.com/protect-your-thank-you-page-and-downloadable-products/" title="Protect Your " thank you page" downloads & pdfs with customer specific watermarks">Protect Your "Thank You Page" Downloads &amp; PDFs with Customer Specific Watermarks</a></li><li><a href="http://clickbump.com/adsense-templates/" title="Premium Adsense Templates">Premium Adsense Templates</a></li><li><a href="http://clickbump.com/how-to-set-up-a-blog-in-2-minutes/" title="How to set up a blog in less than 2 minutes">How to set up a blog in less than 2 minutes</a></li>                    
+		</ul>
+
+		<ul class="list3" id="comm">
+            
+
+<li><a href="http://clickbump.com/how-to-set-up-a-blog-in-2-minutes/#comment-1203" title="on How to set up a blog in less than 2 minutes">Jeff Bode: Hey Scott you got some useful beginner stuff here,...</a></li>
+
+
+
+<li><a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/#comment-1201" title="on Domain Name Availability added to Google Adwords Keyword Tool">Scott: Yes, I checked the code myself and also spoke dire...</a></li>
+
+
+
+<li><a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/#comment-1186" title="on Domain Name Availability added to Google Adwords Keyword Tool">jukooz: Are You sure that it doesn't send your search term...</a></li>
+
+
+
+<li><a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/#comment-1164" title="on Domain Name Availability added to Google Adwords Keyword Tool">Scott: John, I've just ...</a></li>
+
+
+
+<li><a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/#comment-1162" title="on Domain Name Availability added to Google Adwords Keyword Tool">John: Hi
+Thanks for the heads up but the old interface ...</a></li>
+
+                    
+		</ul>
+
+		<ul class="list4" id="feat">
+						
+				<li><a title="Permanent Link to ClickBump Engine v3" href="http://clickbumpengine.com" rel="bookmark">ClickBump Engine v3</a></li>
+			
+						
+				<li><a title="Permanent Link to Premium Adsense Templates" href="http://clickbump.com/adsense-templates/" rel="bookmark">Premium Adsense Templates</a></li>
+			
+						
+				<li><a title="Permanent Link to ClickBumped! The Missing Thread" href="http://clickbump.com/clickbumped-the-missing-thread/" rel="bookmark">ClickBumped! The Missing Thread</a></li>
+			
+						
+				<li><a title="Permanent Link to Make Money with Adsense" href="http://clickbump.com/make-money-with-adsense/" rel="bookmark">Make Money with Adsense</a></li>
+			
+					
+		</ul>
+
+				
+			<span class="list1" id="tagcloud">
+				<a href="http://clickbump.com/tag/blog-software/" class="tag-link-10" title="1 topic" style="font-size: 10pt;">blog software</a>
+<a href="http://clickbump.com/tag/blog-templates/" class="tag-link-11" title="1 topic" style="font-size: 10pt;">blog templates</a>
+<a href="http://clickbump.com/tag/how-to-start-%c2%a0a-blog/" class="tag-link-9" title="1 topic" style="font-size: 10pt;">how to start &nbsp;a blog</a>
+<a href="http://clickbump.com/tag/make-money-blogging/" class="tag-link-14" title="1 topic" style="font-size: 10pt;">make money blogging</a>
+<a href="http://clickbump.com/tag/make-money-from-home/" class="tag-link-13" title="1 topic" style="font-size: 10pt;">make money from home</a>
+<a href="http://clickbump.com/tag/wordpress-how-to/" class="tag-link-12" title="1 topic" style="font-size: 10pt;">wordpress how to</a>			</span>
+		
+				
+	</div><!--/navbox-->
+	
+		
+	<div class="ads">
+
+	<a href=""><img src="" alt=""></a>
+
+	<a href=""><img src="" alt=""></a>
+
+	<a href="http://clickbump.com/Select a page:/"><img src="http://clickbump.com/wp-content/themes/premiumnews/images/ad-here.gif" alt="Advertise Here" class="last"></a>
+
+</div><!--/ads-->	
+	<div class="fix"></div>
+	
+	<div class="subcol fl hl3">
+		
+		<div class="catlist">
+
+			<ul class="cats-list">
+				<li>
+					<h2><a href="#">CATEGORIES</a></h2>
+					<ul class="list-alt">
+						<li class="cat-item cat-item-8 current-cat"><a href="http://clickbump.com/category/featured/" title="View all posts filed under featured">featured</a> (4)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://clickbump.com/category/step-by-step-seo-2/" title="View all posts filed under step by step seo">step by step seo</a> (27)
+</li>
+	
+					</ul>
+				</li>
+			</ul>				
+		
+		</div><!--/catlist-->
+
+				<div class="widget">		<h2 class="hl">Recent Posts</h2>		<ul>
+				<li><a href="http://clickbump.com/holiday-templates/" title="Coming Soon: Holiday Templates!">Coming Soon: Holiday Templates! </a></li>
+				<li><a href="http://clickbump.com/major-differences-in-search-counts-between-old-and-new-google-keywords-tool/" title="Major Differences in Search Counts between Old and New Google Keywords Tool">Major Differences in Search Counts between Old and New Google Keywords Tool </a></li>
+				<li><a href="http://clickbumpengine.com" title="ClickBump Engine v3">ClickBump Engine v3 </a></li>
+				<li><a href="http://clickbump.com/adsense-templates/" title="Premium Adsense Templates">Premium Adsense Templates </a></li>
+				<li><a href="http://clickbump.com/how-to-set-up-a-blog-in-2-minutes/" title="How to set up a blog in less than 2 minutes">How to set up a blog in less than 2 minutes </a></li>
+				</ul>
+		</div><!--/widget-->	
+	</div><!--/subcol-->
+		
+	<div class="subcol fr hl3">
+	
+		<div class="catlist">
+
+			<ul class="cats-list">
+				<li>
+					<h2><a href="#">ARCHIVES</a></h2>
+					<ul class="list-alt">
+						<li><a href="http://clickbump.com/2010/09/" title="September 2010">September 2010</a>&nbsp;(4)</li>
+	<li><a href="http://clickbump.com/2010/08/" title="August 2010">August 2010</a>&nbsp;(5)</li>
+	<li><a href="http://clickbump.com/2010/02/" title="February 2010">February 2010</a>&nbsp;(2)</li>
+	<li><a href="http://clickbump.com/2009/11/" title="November 2009">November 2009</a>&nbsp;(1)</li>
+	<li><a href="http://clickbump.com/2009/09/" title="September 2009">September 2009</a>&nbsp;(3)</li>
+	<li><a href="http://clickbump.com/2009/08/" title="August 2009">August 2009</a>&nbsp;(11)</li>
+	<li><a href="http://clickbump.com/2009/01/" title="January 2009">January 2009</a>&nbsp;(1)</li>
+	
+					</ul>
+				</li>
+			</ul>		
+		
+		</div><!--/catlist-->
+
+				<div class="widget">			<h2 class="hl">Recent Comments</h2>			<ul id="recentcomments"><li class="recentcomments"><a href="http://jbode.info" onclick="javascript:pageTracker._trackPageview('/outbound/commentauthor/jbode.info');" rel="external nofollow" class="url">Jeff Bode</a> on <a href="http://clickbump.com/how-to-set-up-a-blog-in-2-minutes/comment-page-1/#comment-1203">How to set up a blog in less than 2 minutes</a></li><li class="recentcomments">Scott on <a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/comment-page-1/#comment-1201">Domain Name Availability added to Google Adwords Keyword Tool</a></li><li class="recentcomments">jukooz on <a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/comment-page-1/#comment-1186">Domain Name Availability added to Google Adwords Keyword Tool</a></li><li class="recentcomments">Scott on <a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/comment-page-1/#comment-1164">Domain Name Availability added to Google Adwords Keyword Tool</a></li><li class="recentcomments">John on <a href="http://clickbump.com/domain-name-availability-added-to-google-adwords-keyword-tool/comment-page-1/#comment-1162">Domain Name Availability added to Google Adwords Keyword Tool</a></li></ul>
+		</div><!--/widget-->			
+	</div><!--/subcol-->
+	
+</div><!--/col2-->
+
+		<div class="fix"></div>
+
+	</div><!--/columns -->
+	
+	<div id="footer">
+		<p><span class="fl">Copyright © <a href="http://clickbump.com/">clickbump.com</a>.</span><span class="fr"><a href="http://clickbump.com/go/woo">Premium themes</a> <a href="http://clickbump.com/go/woo" title="WooThemes - Premium WordPress Themes"><img src="http://clickbump.com/wp-content/themes/premiumnews/images/woothemes.png" alt="Premium Wordpress Themes"></a>.</span></p>
+	</div><!--/footer -->
+
+</div><!--/page -->
+
+
+<!-- Google Analytics for WordPress | http://yoast.com/wordpress/google-analytics/ -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-9991874-1");
+		// Cookied already: 
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+<!-- End of Google Analytics code -->
+
+
+
+
+</body></html>

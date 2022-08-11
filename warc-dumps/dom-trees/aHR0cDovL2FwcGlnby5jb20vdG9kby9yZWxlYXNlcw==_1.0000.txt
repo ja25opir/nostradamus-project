@@ -1,0 +1,539 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+    <title>Release History | Remarkable iPhone Applications</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/x-icon">
+<meta name="keywords" content="appigo, iphone, productivity, application, app, todo, tasks, management, notebook, notes, fuel, accufuel">
+<meta name="copyright" content="Copyright ©2008-2009 Appigo, Inc. All rights reserved.">
+<meta name="description" content="Appigo provides Remarkable iPhone™ Applications that allow you to be more efficient and happy using your iPhone™ or iPod touch.">
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/appigo/style.css?3">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/appigo/icons.css?3">
+    <!--[if IE 7]>
+      <link rel="stylesheet" href="/sites/all/themes/appigo/ie7-fixes.css" type="text/css">
+    <![endif]-->
+    <!--[if lte IE 6]>
+      <link rel="stylesheet" href="/sites/all/themes/appigo/ie6-fixes.css" type="text/css">
+    <![endif]-->
+    <script type="text/javascript" src="/misc/jquery.js?3"></script>
+<script type="text/javascript" src="/misc/drupal.js?3"></script>
+<script type="text/javascript" src="/sites/all/themes/appigo/script.js?3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  </head>
+
+  <body class="not-logged-in not-front full-node node-type-page layout-first-main">
+    <div id="page" class="clearfix">
+
+      <div id="header">
+        <div id="header-wrapper" class="clearfix">
+          
+                
+          <div id="header-first">
+             
+            <div id="logo">
+              <a href="/" title="Home"><img src="/sites/default/files/appigo_logo.png" alt="Home"></a>
+            </div>
+                                                <span id="slogan">Remarkable iPhone Applications</span>
+                      </div><!-- /header-first -->
+  
+          <div id="header-middle">
+                      </div><!-- /header-middle -->
+      
+          <div id="header-last">
+                        
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+        
+              <div id="block-block-16" class="block block-block">
+      
+                    <div class="content">
+            <div align="right">Follow us online:&nbsp;<a href="http://twitter.com/appigo" target="_blank"><img src="http://www.appigo.com/images/twitter.png" border="0" alt="Follow Appigo on Twitter" title="Follow Appigo on Twitter"></a>&nbsp;<a href="http://www.facebook.com/pages/Appigo-Inc/60552140468" target="_blank"><img src="http://www.appigo.com/images/facebook.png" border="0" alt="Become a fan of Appigo on Facebook" title="Become a fan of Appigo on Facebook"></a>&nbsp;<a href="http://www.flickr.com/photos/34047068@N03/" target="_blank"><img src="http://www.appigo.com/images/flickr.png" border="0" alt="See pictures from Appigo on Flickr" title="See pictures from Appigo on Flickr"></a></div>
+<div id="google_translate_element" style="text-align: right;"></div>
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>          </div>
+        </div>
+  
+    
+</div>
+<!-- /end block.tpl.php -->
+                      </div><!-- /header-last -->
+      
+        </div><!-- /header-wrapper -->
+    
+        <div id="header-bottom" class="clearfix">
+                <div id="primary-menu">
+          <ul class="menu"><li class="leaf first"><a href="/" title="Appigo's Home Page">Home</a></li>
+<li class="leaf"><a href="/corkulous" title="Corkulous™ idea board for the iPad">Corkulous</a></li>
+<li class="expanded active-trail"><a href="/todo" title="Todo">Todo</a><ul class="menu"><li class="leaf first"><a href="/todo" title="Todo overview">Overview</a></li>
+<li class="leaf"><a href="/todo/features" title="See a list of Todo features">Features</a></li>
+<li class="leaf"><a href="/todo/screencasts" title="See demonstration videos of how Todo works">Screencasts</a></li>
+<li class="leaf"><a href="/todo/tips" title="Learn ways to help you be even more productive using Todo">Tips &amp; Tricks</a></li>
+<li class="leaf"><a href="/todo/third-party-apps" title="View a list of Todo-friendly apps that integrate with Todo and help you be productive from your other favorite apps.">Third Party Apps</a></li>
+<li class="leaf active-trail"><a href="/todo/releases" title="Release History" class="active">Release History</a></li>
+<li class="leaf last"><a href="/todo/faqs" title="FAQ">FAQ</a></li>
+</ul></li>
+<li class="collapsed"><a href="/notebook" title="Notebook">Notebook</a></li>
+<li class="collapsed"><a href="/accufuel" title="AccuFuel">AccuFuel</a></li>
+<li class="leaf"><a href="/appigo-sync" title="Appigo Sync">Appigo Sync</a></li>
+<li class="leaf"><a href="/developer" title="Appigo Developer Program">Developer</a></li>
+<li class="collapsed"><a href="/company/about" title="About Appigo">Company</a></li>
+<li class="leaf last"><a href="http://support.appigo.com" title="">Help</a></li>
+</ul>        </div><!-- /primary_menu -->
+                </div><!-- /header-bottom -->
+      </div><!-- /header -->
+
+      <div id="preface">
+              </div><!-- /preface -->
+
+      <div id="main">
+        <div id="main-wrapper" class="clearfix">
+          
+                  
+                    <div id="sidebar-first">
+            
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+     <!-- see preprocess_block() -->
+  <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+              <div id="block-block-17" class="block block-block">
+      
+                                    <div class="block-icon pngfix"></div>
+                      <h2 class="title block-title pngfix">Hot Topics</h2>
+                    <div class="content">
+            <table>
+<tbody><tr>
+<td rowspan="3" valign="middle">
+<img src="/images/todo/question-marks/question-dark-blue.png" border="0">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li>
+<a href="/todo/faqs/alerts">Using Alerts</a>
+</li>
+<li>
+<a href="/todo/faqs/install/missing-update">Are upgrades free?</a>
+</li>
+<li>
+<a href="/todo/faqs/install/prevent-data-loss">Prevent data loss during upgrade</a>
+</li>
+<li>
+<a href="/todo/faqs/install/reboot-device-after-update">Reboot after upgrade</a>
+</li>
+<li>
+<a href="/todo/faqs">More FAQ...</a>
+</li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
+</div>
+<!-- /end block.tpl.php -->
+
+<!-- start block.tpl.php -->
+<div class="block-wrapper even">
+     <!-- see preprocess_block() -->
+  <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+              <div id="block-menu-menu-sidebar-nav" class="block block-todo">
+      
+                                    <div class="block-icon pngfix"></div>
+                      <h2 class="title block-title pngfix">Todo</h2>
+                    <div class="content">
+            <ul class="menu"><li class="leaf first"><a href="/todo" title="Todo overview">Overview</a></li>
+<li class="collapsed"><a href="/todo/features" title="Features">Features</a></li>
+<li class="collapsed"><a href="/todo/screencasts" title="Screencasts">Screencasts</a></li>
+<li class="collapsed"><a href="/todo/tips" title="Tips &amp; Tricks">Tips &amp; Tricks</a></li>
+<li class="leaf"><a href="/todo/third-party-apps" title="Todo Third Party Apps">Third Party Apps</a></li>
+<li class="leaf active-trail"><a href="/todo/releases" title="" class="active">Release History</a></li>
+<li class="leaf"><a href="/todo/eula" title="">EULA</a></li>
+<li class="collapsed last"><a href="/todo/faqs" title="Todo Frequently Asked Questions">FAQ</a></li>
+</ul>          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
+</div>
+<!-- /end block.tpl.php -->
+
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+     <!-- see preprocess_block() -->
+  <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+              <div id="block-block-5" class="block block-block">
+      
+                                    <div class="block-icon pngfix"></div>
+                      <h2 class="title block-title pngfix">Buy Todo Now</h2>
+                    <div class="content">
+            <p style="text-align:center;">
+<a href="http://click.linksynergy.com/fs-bin/click?id=tRWoe/s2O/A&amp;offerid=146261.681111694&amp;type=10&amp;u1=appigo-todo-D951" target="_blank"><img class="subpageappstore" border="0" src="/images/app-store-badge.png" alt="Purchase Todo on the App Store"></a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=tRWoe/s2O/A&amp;bids=146261.681111694&amp;type=10&amp;subid="></p>
+          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
+</div>
+<!-- /end block.tpl.php -->
+
+<!-- start block.tpl.php -->
+<div class="block-wrapper even">
+     <!-- see preprocess_block() -->
+  <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+              <div id="block-block-4" class="block block-block">
+      
+                                    <div class="block-icon pngfix"></div>
+                      <h2 class="title block-title pngfix">What's New @ Appigo?</h2>
+                    <div class="content">
+            <p><strong>April 15, 2010</strong></p>
+<p>Appigo Corkulous™ idea board for the iPad is now available for download on the <a href="http://click.linksynergy.com/fs-bin/stat?id=tRWoe/s2O/A&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fcorkulous%252Fid367779315%253Fmt%253D8%2526uo%253D6%2526partnerId%253D30" target="itunes_store">iTunes App Store</a>. Corkulous is a multi-functional app that gives you a very large virtual space for collecting, organizing and sharing ideas visually. More information and demo video on the <a href="/corkulous">Corkulous web page</a>.</p>
+<p><strong>February 11, 2010</strong></p>
+<p>Todo 3.4 is now available on the <a href="http://bit.ly/appigo-todo" target="itunes_store">iTunes App Store</a> and includes starred tasks, <a href="http://click.linksynergy.com/fs-bin/stat?id=tRWoe/s2O/A&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander%252Fid326180690%253Fmt%253D8%2526uo%253D6%2526partnerId%253D30" target="_blank">TextExpander touch</a> snippet expansion support, a rotation lock setting, and a list of <a href="http://www.appigo.com/todo/third-party-apps/">Todo-friendly apps</a>.</p>
+<p><strong>February 9, 2010</strong></p>
+<p>AccuFuel 1.2.6 is now available on the <a href="http://bit.ly/appigo-accufuel" target="itunes_store">iTunes App Store</a>.</p>
+<p><strong>February 6, 2010</strong></p>
+<p>Notebook 1.4.2 is now available on the <a href="http://bit.ly/appigo-notebook" target="itunes_store">iTunes App Store</a> which includes <a href="http://bit.ly/te-notebook" target="itunes_store">TextExpander touch</a> snippet expansion support.</p>
+<p><strong>February 4, 2010</strong></p>
+<p>AccuFuel 1.2.4 is now available on the <a href="http://click.linksynergy.com/fs-bin/click?id=tRWoe/s2O/A&amp;offerid=146261.681112244&amp;type=10&amp;subid=" target="_blank">iTunes App Store</a>.</p>
+<p>We're also pleased to announce <a href="http://www.appigo.com/appigo-sync">Appigo Sync 1.0.4</a> for Mac OS X is now available! See the Appigo Sync <a href="/appigo-sync/releases">Release History</a> for additional information.</p>
+<p><strong>January 27, 2010</strong></p>
+<p>We're incredibly excited about the iPad and are working on updated versions of our apps to support it: <a target="_blank">http://www.apple.com/ipad</a></p>
+<p><a href="/old-news-items"><i>Older News Items...</i></a></p>
+          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
+</div>
+<!-- /end block.tpl.php -->
+
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+     <!-- see preprocess_block() -->
+  <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+              <div id="block-block-9" class="block block-block">
+      
+                                    <div class="block-icon pngfix"></div>
+                      <h2 class="title block-title pngfix">Reviews</h2>
+                    <div class="content">
+            <p style="text-align:center;"><img src="/images/todo/macworld-fourandahalfmice.png"></p>
+<p>"...if you're looking for [a to-do app] with more functionality, Appigo's Todo is one of the better options, and it doesn't require a Ph.D. in Getting things Done (GTD) to figure out how to use it...well worth its $10 price tag."</p>
+<p style="text-align:right;"><em>Dan Frakes, Macworld.com<br>
+<a href="http://www.macworld.com/article/134993/2008/08/appigotodo.html" target="_blank">Read the full review</a></em></p>
+<p><br><br>
+"If it's a to-do list you need, you can't do better than Todo by Appigo."<br></p>
+<p style="text-align:right;"><em>Lisa Hoover, CIO.com</em></p>
+          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
+</div>
+<!-- /end block.tpl.php -->
+          </div><!-- /sidebar-first -->
+          
+          <div id="content-wrapper">
+                        
+                        
+            <div id="content">
+                          
+              
+              <div id="content-inner">
+                                <h1 class="title">Release History</h1>
+                                
+<!-- start node.tpl.php -->
+<div id="node-237" class="node odd full-node node-type-page">
+  
+  
+  <div class="meta">
+      </div>
+
+  <div class="content">
+    <p>Keep up-to-date with what's new in Todo.</p>
+<style>
+.tab { margin-left: 25px; }
+</style><p>
+<strong>Todo (and Todo Lite) 3.4.2</strong><br>
+<em>Released: February 17, 2010</em></p>
+<p class="tab">
+• Restored iPhone 3.0 OS compatibility<br>
+• Write a Review functionality added to Settings | Information interface
+</p>
+<p><strong>Todo (and Todo Lite) 3.4</strong><br>
+<em>Released: February 11, 2010</em></p>
+<p class="tab">
+• Starred Tasks<br>
+• Rotation Lock Setting<br>
+• <a href="http://www.appigo.com/todo/third-party-apps/">Todo-friendly apps list</a> (Settings -&gt; Information -&gt; View Apps)<br>
+• <a href="http://click.linksynergy.com/fs-bin/stat?id=tRWoe/s2O/A&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander%252Fid326180690%253Fmt%253D8%2526uo%253D6%2526partnerId%253D30" target="itunes_store">TextExpander touch</a> snippet expansion support (<a href="http://www.smileonmymac.com/TextExpander/touch/index.html" target="_blank">SmileOnMyMac, LLC</a>)<br>
+• Other minor bugfixes
+</p>
+<p><strong>Todo (and Todo Lite) 3.2</strong><br>
+<em>Released: December 9, 2009</em></p>
+<p class="tab">
+• iPhone OS 3.1 or newer required<br>
+• Synchronization with Microsoft Outlook (requires Outlook 2003 or newer and <a href="/appigo-sync">Appigo Sync Beta for Windows</a>)<br>
+• Added landscape support<br>
+• Added clickable phone numbers and URLs in notes<br>
+• Added multiple task actions (move, delete, reschedule)<br>
+• Added date wheel option for choosing due date<br>
+• Added setting to allow And/Or filtering for tags<br>
+• Added ability to move tasks to a checklist<br>
+• Added Portuguese language translation<br>
+• Added Russian language translation<br>
+• Other minor bugfixes
+</p>
+<p><strong>Todo (and Todo Lite) 3.0.1</strong><br>
+<em>Released: August 26, 2009</em></p>
+<p class="tab">
+• iPhone OS 3.0 or newer required<br>
+• Added privacy policy information<br>
+• Fix to prevent tag manipulation crash<br>
+• Other minor bugfixes
+</p>
+<p><strong>Todo (and Todo Lite) 3.0</strong><br>
+<em>Released: August 7, 2009</em></p>
+<p class="tab">
+• Built using iPhone OS 3.0 SDK (iPhone OS 3.0 or newer required)<br>
+• New task alert reminders via Apple Push Notification Service<br>
+• Improved task sharing using email<br>
+• Select due date from displayed calendar dates with one tap<br>
+• Randomly select list color during initial sync with Toodledo or RTM<br>
+• Allow setting repeat option for project subtasks<br>
+• Use OR logic when filtering tasks with tags<br>
+• Fix screen redraw during and after phone call<br>
+• Fix to prevent duplicate tags<br>
+• Other minor bugfixes
+</p>
+<p><strong>Todo (and Todo Lite) 2.0.1</strong><br>
+<em>Released: May 19, 2009</em></p>
+<p class="tab">
+• Added an option to show list names and/or colored list dots<br>
+• Added "Tomorrow" and "Next Week" buttons to the due date calendar<br>
+• Due date calendar now respects regional settings for first day of week<br>
+• Improved scrolling performance on the lists screen<br>
+• Improved due date display based on locale settings<br>
+• Language translation improvements<br>
+• Other minor bugfixes
+</p>
+<p><strong>Todo (and Todo Lite) 2.0</strong><br>
+<em>Released: April 27, 2009</em></p>
+<p class="tab">
+New Features:<br>
+• Project and Checklists (subtasks)<br>
+• Full calendar view for picking due date<br>
+• Selectable priority icon themes<br>
+• Manual task sorting<br>
+• List color dots<br>
+• SMS Task Type
+</p>
+<p class="tab">
+Other Improvements:<br>
+• Task modifications are now saved immediately<br>
+• Notes now appear directly below a task name<br>
+• Switch sync services and keep tasks<br>
+• Improved reliability for network connection during sync<br>
+• Added additional days for repeating a task every X days<br>
+• App Icon Number indicator for overdue only tasks<br>
+• List number indicator now shows overdue and due tasks<br>
+• Choice to use priority terminology of Toodledo/RTM<br>
+• Quick Add button added to lists screen<br>
+• Overdue items highlighted in red<br>
+• Time zone change improvements<br>
+• Reduced size of task view if no priority/due date is set
+</p>
+<p><strong>Todo (and Todo Lite) 1.6.1</strong><br>
+<em>Released: January 22, 2009</em></p>
+<p class="tab">
+• Fixed network connection issue<br>
+• Fixed note imports from Notebook to remove HTML tags on note names<br>
+• Fixed issue with tags that have spaces<br>
+• Fixed issue where the task name was removed when switching task types
+</p>
+<p><strong>Todo (and Todo Lite) 1.6</strong><br>
+<em>Released: January 13, 2009</em></p>
+<p class="tab">
+• Added direct sync with iCal (<a href="/appigo-sync">Appigo Sync</a> required)<br>
+• Added Simplified and Traditional Chinese Translations<br>
+• <em>Requires OS 2.2 for iPhone/iPod touch</em>
+</p>
+<p><strong>Todo (and Todo Lite) 1.4.3</strong><br>
+<em>Released: December 15, 2008</em></p>
+<p class="tab">
+• Fixed lost search results when editing a task<br>
+• Fixed very long note issues in task edit view<br>
+• Fixed crash caused by single quotes in tags
+</p>
+<p><strong>Todo (and Todo Lite) 1.4.2</strong><br>
+<em>Released: December 5, 2008</em></p>
+<p class="tab">
+• Fixed 24-hour issue when setting due time<br>
+• Fixed URL launching issue<br>
+• Fixed Focus list to include tasks with no due date<br>
+• Fixed "No Tags" issue when creating a task<br>
+• Fixed tag issue on task creation<br>
+• Fixed wording in French and Italian translations
+</p>
+<p><strong>Todo 1.4.1</strong><br>
+<em>Released: November 13, 2008</em></p>
+<p class="tab">
+• Added minor start-up time improvement<br>
+• Fixed list delete crash<br>
+• Fixed default list when using Quick Add<br>
+• Fixed due time when using Toodledo
+</p>
+<p><strong>Todo 1.4</strong><br>
+<em>Released: November 7, 2008</em></p>
+<p class="tab">
+• Added support for Toodledo Contexts<br>
+• Added support for Remember The Milk Locations (as Contexts)<br>
+• Added support for Tags<br>
+• Added support for due times<br>
+• Added new sorting options<br>
+• Added new Focus List<br>
+• Added task searching capabilities<br>
+• Added multi-line task name support<br>
+• Added multi-line notes view<br>
+• Added direct task name editing during task creation<br>
+• Added setting to hide tasks that are not due (Focus List)<br>
+• Added setting to hide tasks due X days in the future (Focus List)<br>
+• Added information and diagnostic screens<br>
+• Added setting to customize App Badge number<br>
+• Added 'Visit a Location' task type (contact or GPS location)<br>
+• Added toolbar to lists screen<br>
+• Added ability to create new contact in call/email tasks<br>
+• Added ability to add one-time phone number/email address in call/email tasks<br>
+• Added custom phone/email label support<br>
+• Added improved sync toolbar (press and hold to view)<br>
+• Added Italian Translation<br>
+• Added Spanish Translation<br>
+• Added French Translation<br>
+• Improved start-up time<br>
+• Improved general performance<br>
+• Improved network connectivity information<br>
+• Improved sync information in diagnostics<br>
+• Improved visibility of completed tasks when using strikeouts<br>
+• Fixed marking task complete and immediately exiting Todo<br>
+• Fixed UI hang when using swipe delete<br>
+• Fixed overwriting task name when switching task types
+</p>
+<p><strong>Todo 1.2.1</strong></p>
+<p class="tab">
+• Added German Translation<br>
+• Added Japanese Translation<br>
+• Remember the Milk synchronization fixes
+</p>
+<p><strong>Todo 1.2</strong></p>
+<p class="tab">
+• Added "Quick Add" task entry<br>
+• Added app icon badge number on/off setting<br>
+• Added "Sync at Startup" setting<br>
+• Added repeating task icon in task list view<br>
+• Added note icon in task list view<br>
+• Added priority icons in task list view<br>
+• Added task export to Appigo Notebook<br>
+• Added task export via email<br>
+• Added task sharing via email<br>
+• Added completed task synchronization limit setting<br>
+• Modified priority buttons to use text instead of numbers<br>
+• Fixed empty task list with Toodledo synchronization<br>
+• Fixed Toodledo subtask synchronization
+</p>
+<p><strong>Todo 1.0</strong><br>
+<em>Released: July 11, 2008</em></p>
+<p class="tab">
+• Initial release
+</p>
+  </div>
+
+    
+  
+  </div>
+<!-- /#node-237 -->
+              </div><!-- /content-inner -->
+            </div><!-- /content -->
+
+                      </div><!-- /content-wrapper -->
+          
+          
+          
+                    
+        </div><!-- /main-wrapper -->
+      </div><!-- /main -->
+    </div><!-- /page -->
+    <div id="legal-notice">Copyright ©2008-2010 Appigo, Inc. All rights reserved.<br>Apple, the Apple logo, iPod, iTunes, Mac, and the Mac logo are trademarks of Apple Inc., registered in the U.S. and other countries.  iPhone and iPad are trademarks of Apple Inc.  GTD and Getting Things Done are registered trademarks of David Allen &amp; Co.  Appigo is not affilated or endorsed by David Allen &amp; Co.</div>  
+
+</body></html>

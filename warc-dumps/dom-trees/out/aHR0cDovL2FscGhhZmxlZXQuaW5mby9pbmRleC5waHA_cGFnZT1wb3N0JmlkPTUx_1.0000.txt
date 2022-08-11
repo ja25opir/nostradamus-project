@@ -1,0 +1,205 @@
+<!DOCTYPE html><html><head>
+	<title>SL Alpha Fleet - DSS Casus Prime</title>
+	<link rel="stylesheet" href="http://alphafleet.info/skins/SMS_Lcars/style.css" type="text/css" media="screen">
+	<script>
+		/**
+This is a necessary system file. Do not modify this page unless you are highly
+knowledgeable as to the structure of the system. Modification of this file may
+cause SMS to no longer function.
+
+Author: David VanScott [ davidv@anodyne-productions.com ]
+File: framework/functionsJavascript.js
+Purpose: Handles all Javascript actions by the system, including pulling in
+	the various jQuery elements
+
+System Version: 2.6.0
+Last Modified: 2008-04-23 1930 EST
+**/
+
+/**
+	Function that will include JS files
+**/
+function include_dom( type, script_filename )
+{
+	if( type == "js" )
+	{
+		var html_doc = document.getElementsByTagName( 'head' ).item(0);
+		var js = document.createElement( 'script' );
+		js.setAttribute( 'language', 'javascript' );
+		js.setAttribute( 'type', 'text/javascript' );
+		js.setAttribute( 'src', script_filename );
+		html_doc.appendChild( js );
+		return false;
+	}
+	if( type == "css" )
+	{
+		var cssNode = document.createElement( 'link' );
+		cssNode.setAttribute( 'rel', 'stylesheet' );
+		cssNode.setAttribute( 'type', 'text/css' );
+		cssNode.setAttribute( 'href', script_filename );
+		document.getElementsByTagName( 'head' )[0].appendChild( cssNode );
+		return false;
+	}
+}
+/** END FUNCTION **/
+
+/** pull in the JS files **/
+include_dom( 'js', 'framework/js/jquery.js' );
+include_dom( 'js', 'framework/js/ui.tabs.js' );
+include_dom( 'js', 'framework/js/clickmenu.js' );
+include_dom( 'js', 'framework/js/shadowbox-jquery.js' );
+include_dom( 'js', 'framework/js/shadowbox.js' );
+include_dom( 'js', 'framework/js/facebox.js' );
+include_dom( 'js', 'framework/js/linkscrubber.js' );
+include_dom( 'js', 'framework/js/reflect.js' );
+
+/** pull in the CSS files **/
+include_dom( 'css', 'framework/css/shadowbox.css' );
+include_dom( 'css', 'framework/css/facebox.css' );
+include_dom( 'css', 'framework/css/global.css' );
+
+/**
+	Function that toggles checkboxes
+**/
+function selectAll(formObj, isInverse) 
+{
+	for (var i=0;i < formObj.length;i++) 
+	{
+		fldObj = formObj.elements[i];
+		if (fldObj.type == 'checkbox')
+		{
+			if(isInverse)
+				fldObj.checked = (fldObj.checked) ? false : true;
+			else fldObj.checked = true; 
+		}
+	}
+}
+/** END FUNCTION **/
+
+/**
+	Function to make sure that jp authors doesn't go
+	outside the acceptable range
+**/
+function checkNumber(upper, actual)
+{
+	if(actual < 1)
+		window.alert("ERROR: You can't set the author number below 1! Please try again.");
+	else if(actual > upper)
+		window.alert("WARNING: You do not have " + actual + " crew members, you only have " + upper + "! The number you input should not exceed your crew count.");
+}
+/** END FUNCTION **/	</script>
+</head>
+<body>
+<div id="container">
+
+<div id="header">
+	<div id="header2"><div id="header3"></div></div>
+</div>
+
+<div class="mainNav">
+	<ul id="nav-main"><li><a href="http://alphafleet.info/index.php?page=main">Main</a></li><li class="spacer">&nbsp;</li><li><a href="http://alphafleet.info/index.php?page=manifest">Personnel</a></li><li class="spacer">&nbsp;</li><li><a href="http://alphafleet.info/index.php?page=ship">The Starbase</a></li><li class="spacer">&nbsp;</li><li><a href="http://alphafleet.info/index.php?page=simm">Casus Prime</a></li><li class="spacer">&nbsp;</li><li><a href="http://alphafleet.info/index.php?page=database">Database</a></li><li class="spacer">&nbsp;</li><li><a href="http://alphafleet.guildlaunch.com/forums/index.php?gid=54590" target="_blank">Forum</a></li><li class="spacer">&nbsp;</li><li><a href="http://www.zazzle.com/airethilien" target="_blank">Merchandise Webshop</a></li></ul></div>
+
+<div class="content">
+	<div class="nav">
+		<div class="login">
+					<form method="post" action="http://alphafleet.info/login.php?action=checkLogin" class="login">
+				<b>Username</b><br>
+				<input type="text" name="username" size="8" class="text"><br><br>
+				
+				<b>Password</b><br>
+				<input type="password" name="password" size="8" class="text"><br><br>
+				
+				<input type="image" src="skins/SMS_Lcars/buttons/login-small.png" name="submit" class="button" value="Login">
+			</form>
+			<br>
+			<a href="http://alphafleet.info/login.php?action=reset">« Reset Password</a>
+				</div> <!-- close the .login layer -->
+		<br>
+
+		<span class="fontLarge"><b>The Simm</b></span><ul><li><a href="http://alphafleet.info/index.php?page=mission">Current Mission(s)</a></li><li><a href="http://alphafleet.info/index.php?page=missions">Mission Logs</a></li><li><a href="http://alphafleet.info/index.php?page=summaries">Mission Summaries</a></li><li class="spacer">&nbsp;</li><li><a href="http://alphafleet.info/index.php?page=loglist">Personal Log List</a></li><li><a href="http://alphafleet.info/index.php?page=crewawards">Crew Awards</a></li><li><a href="http://alphafleet.info/index.php?page=statistics">Simm Statistics</a></li><li><a href="http://alphafleet.info/index.php?page=rules">Simm Rules</a></li><li><a href="http://alphafleet.info/index.php?page=database">Database</a></li><li><a href="http://alphafleet.info/index.php?page=join">Join</a></li></ul>	</div> <!-- close the .nav layer -->
+<div class="body">
+
+	<span class="fontTitle"><em>Starbase Casus Prime</em> – Starfleet Command</span><br>
+	<span class="fontMedium">by Lieutenant JG Albeenojrn Weatherwax</span><br><br>
+	
+	<span class="fontNormal postDetails">
+	<div align="center">
+
+		<a href="http://alphafleet.info//index.php?page=post&amp;id=50" class="image"><img src="http://alphafleet.info//images/previous.png" alt="Previous Entry" border="0"></a><a href="http://alphafleet.info//index.php?page=post&amp;id=52" class="image"><img src="http://alphafleet.info//images/next.png" alt="Next Entry" border="0"></a>	
+		<br><strong>Post Details</strong><br>
+		<p></p>
+		</div> <!-- close the centering div -->
+		
+		<table>
+			<tbody><tr>
+				<td class="tableCellLabel">Title</td>
+				<td>&nbsp;</td>
+				<td>Starfleet Command</td>
+			</tr>
+			<tr>
+				<td class="tableCellLabel">Mission</td>
+				<td>&nbsp;</td>
+				<td><a href="http://alphafleet.info/index.php?page=mission&amp;mid=2">Starbase Casus Prime</a></td>
+			</tr>
+			<tr>
+				<td class="tableCellLabel">Author(s)</td>
+				<td>&nbsp;</td>
+				<td><a href="http://alphafleet.info/index.php?page=bio&amp;crew=59">Lieutenant JG Albeenojrn Weatherwax</a></td>
+			</tr>
+			<tr>
+				<td class="tableCellLabel">Posted</td>
+				<td>&nbsp;</td>
+				<td>Fri Jun 27, 2008 @ 4:42pm</td>
+			</tr>
+
+						<tr>
+				<td class="tableCellLabel">Location</td>
+				<td>&nbsp;</td>
+				<td>Casus Prime</td>
+			</tr>
+			
+			
+						<tr>
+				<td class="tableCellLabel">Tag</td>
+				<td>&nbsp;</td>
+				<td>Or so ... we thought. (( Late ))</td>
+			</tr>
+					</tbody></table>
+
+				
+	</span>
+	
+	So ... it was time for the inspection from Starfleet Command ... And Admiral from the high Starfleet councell was comming to Casus prime to find out how good the station was running and if it was a good idea to keep it here. We were all nervious, I ciouldfeel it in the atmosphere. But we all went about our duties making the Station ready for the inspection.<br>
+<br>
+He arrived, we all thought he would be nice and forthcomming, but while we lin ed up in the airlock awaiting his arrival ... we saw him to be withdrawn from himself, rude and a dozen other things that contradicted our previous views. As he arrived on the station, we coiuld not wait to get rid of him ... I had the unlucky task of giving him the tour ... lucky me. Firstly i was up to it ... but now, i was not so sure.<br>
+<br>
+He was escorted to his quarters by the Cadet, and i went to cheack up on the Admiral about 5 minutes later ... Bad mistake. He was furious at the state of his quarters, even though they were the same as everyone else's he insisted on having 3 towels instead of 2, so i got him another one. Then he had a problem with the flowers in the room ... I removed them. Before he could argue with me anymore , I left him to wither in what he called, his "pit".<br>
+<br>
+So ... I began the tour ... not 10 minutes after begining everyone was called to Engineering, there was an emmergency. I told the Admiral to stay in the Airlock.. However he insited that he come with. I said no but he came anyway. We made it to engineering. Fires and sparks were everywhere - while me and the other staff tried to put them out, engineering was sealed off by the main computer. We were trapped.<br>
+<br>
+It was not 2 minutes after that REeye was hit, he was dieing and there was nothing the medical staff could do without supplies ... in the medical bay. With my limited medical knowlage i helped with the administartion of drugs to slow down radiation poisoning, given off my the core. But it was not long before systems were going offline. <br>
+<br>
+Tranbsporters, Turbolifts, Manual control, Everything was offline - but the lockdown iof engineering was still active. We were still trapped. I was able to acsess my memory banks, I figured out that a hologram or a borg could get through anyforce feild set up by the computer if they were using the right frequency. Commodore Banach was busy so i did not think to ask her to help. I was chosen to pass through the field and try to sort out the station from outside.<br>
+<br>
+I made it through ... ANd i also made it out onto the command deck. Everything was going to plan. I made my way to Operations. Here I got the transporters online to a miniumum ready for one transport. I made my way to the medical room, Here i made a side to side transport of Reye, he was dieing. However it was not long until the EMH also joined me and took over healing him.<br>
+<br>
+I made my way to operations again, I found out the station shut down all acsess to engineering due to a biohazard in engineering. And it was shutting all systems down there, including life support. I did not have mujch time to sort this out and get systems back online. Not to mention that the Admiral was down there watching every move.<br>
+<br>
+It was not long before i got a call from the doc, he needed my emmitter. Reye needed the extra power to create his holo lungs created by the Doc to keep him alive. But the emmitters were still offline, so i Started a automatic startup, i got to medical ASAP, and gave the doc the emmitter, i did not shut down. My method worked ... the station was comming back online. We were all saved.<br>
+<br>
+Everyone worked together on this mission, i hope this will help us again in the future to bipass the death we tread so near countless times.
+</div> <!--Close Div content class tag-->
+
+	</div> <!-- close the div id content tag -->
+</div>
+
+	<!-- Please do not edit this. If you wish to add credits, you can do so through the Site Messages panel -->
+	<div class="footer">
+		Simm Management System (SMS 2) &nbsp; | &nbsp;
+		Copyright © Anodyne Productions 2005 - 2010 &nbsp; | &nbsp;
+		<a href="http://alphafleet.info/index.php?page=credits">Site Credits</a>
+	</div>
+	<div class="spacer"></div>
+	
+ 
+ </body><!-- close the BODY tag --></html><!-- close the HTML tag -->

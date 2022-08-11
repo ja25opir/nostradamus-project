@@ -1,0 +1,848 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+    <meta name="description" content="Description">
+    <meta name="abstract" content="Description">
+    <meta name="keywords" content="keywords">
+    <title>
+	
+        Privacy Policy
+        :: Alphamoving ::
+</title><link href="css/style.css" rel="stylesheet" type="text/css">
+    
+
+    <script type="text/javascript" language="javascript" src="lytebox.js"></script>
+
+    <link rel="stylesheet" href="lytebox.css" type="text/css" media="screen">
+    
+
+    <script type="text/javascript" src="js/m-menu.js"></script>
+
+    <script type="text/javascript">
+function MM_openBrWindow(theURL,winName,features) { 
+  window.open(theURL,winName,features);
+}
+
+function openmypage()
+ {
+ window.open ("http://www.emtmarketing.com/alpha/emailtest.php","openmypage","width=580,height=300,location=0,menubar=0,resizable=0,scrollbars=0,status=1,titlebar=1,toolbar=0,screenX=100,left=100,screenY=30,top=60");
+ }
+ 
+ 
+function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+    </script>
+
+    <!--[if IE 6]>
+<script type="text/javascript" src="unitpngfix.js"></script>
+<![endif]-->
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="/ShowContentPages.aspx?id=10" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyNjI2MTcwNQ9kFgJmD2QWAgIDD2QWBgIDDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCA2QWBmYPZBYCAgEPDxYGHghJbWFnZVVybAUffi9VcGxvYWRzL0NhdGVnb3J5L2J1eWJveGVzLmpwZx4HVG9vbFRpcAUMU2luZ2xlIEJveGVzHgtOYXZpZ2F0ZVVybAUdb3JkZXJfYm94ZXNfb25saW5lLmFzcHg/Q0lEPTJkZAIBD2QWAgIBDw8WBh8CBSB+L1VwbG9hZHMvQ2F0ZWdvcnkvYnV5Ym94ZXMyLmpwZx8DBQxCb3ggUGFja2FnZXMfBAUdb3JkZXJfYm94ZXNfb25saW5lLmFzcHg/Q0lEPTNkZAICD2QWAgIBDw8WBh8CBSB+L1VwbG9hZHMvQ2F0ZWdvcnkvYnV5Ym94ZXMzLmpwZx8DBQ9Cb3ggQWNjZXNzb3JpZXMfBAUdb3JkZXJfYm94ZXNfb25saW5lLmFzcHg/Q0lEPTRkZAIND2QWAgIDDxYCHgVzdHlsZQUNZGlzcGxheTpub25lOxYGAgEPDxYEHglGb250X0JvbGRoHgRfIVNCAoAQZGQCAw8PFgQfBmgfBwKAEGRkAgUPDxYEHwZoHwcCgBBkZAIPD2QWEAIBDw8WCB8CBSh+L1VwbG9hZHMvSW1hZ2VzL2NfYmMyZGJjNTgtM19mYW1pbHkuanBnHgZIZWlnaHQbAAAAAADAXkABAAAAHgVXaWR0aBsAAAAAAECDQAEAAAAfBwKAA2RkAgMPFgIeBFRleHQFDlByaXZhY3kgUG9saWN5ZAIFDxYCHwUFDWRpc3BsYXk6bm9uZTtkAgcPFgIfCgUOUHJpdmFjeSBQb2xpY3lkAgkPFgIfCgWSJzx0YWJsZSBjZWxsc3BhY2luZz0iMSIgY2VsbHBhZGRpbmc9IjEiIGJvcmRlcj0iMCIgYWxpZ249ImNlbnRlciIgd2lkdGg9Ijk1JSI+DQogICAgPHRib2R5Pg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICA8cD5UaGlzIHByaXZhY3kgbm90aWNlIGRpc2Nsb3NlcyB0aGUgcHJpdmFjeSBwcmFjdGljZXMgZm9yIDxzcGFuIGNsYXNzPSJicmFkdHh0MSI+aHR0cDovL3d3dy5hbHBoYW1vdmluZy5jb20uJm5ic3A7PC9zcGFuPiBUaGlzIHByaXZhY3kgbm90aWNlIGFwcGxpZXMgc29sZWx5IHRvIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBieSB0aGlzIHdlYiBzaXRlLiBJdCB3aWxsIG5vdGlmeSB5b3Ugb2YgdGhlIGZvbGxvd2luZzogPC9wPg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkIGNsYXNzPSJsaXN0Ij4NCiAgICAgICAgICAgIDx1bD4NCiAgICAgICAgICAgICAgICA8bGk+V2hhdCBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBpcyBjb2xsZWN0ZWQgZnJvbSB5b3UgdGhyb3VnaCB0aGUgd2ViIHNpdGUsIGhvdyBpdCBpcyB1c2VkIGFuZCB3aXRoIHdob20gaXQgbWF5IGJlIHNoYXJlZC4gPC9saT4NCiAgICAgICAgICAgICAgICA8bGk+V2hhdCBjaG9pY2VzIGFyZSBhdmFpbGFibGUgdG8geW91IHJlZ2FyZGluZyB0aGUgdXNlIG9mIHlvdXIgZGF0YS4gPC9saT4NCiAgICAgICAgICAgICAgICA8bGk+VGhlIHNlY3VyaXR5IHByb2NlZHVyZXMgaW4gcGxhY2UgdG8gcHJvdGVjdCB0aGUgbWlzdXNlIG9mIHlvdXIgaW5mb3JtYXRpb24uICAgPC9saT4NCiAgICAgICAgICAgICAgICA8bGk+SG93IHlvdSBjYW4gY29ycmVjdCBhbnkgaW5hY2N1cmFjaWVzIGluIHRoZSBpbmZvcm1hdGlvbi4gIDwvbGk+DQogICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkIHZhbGlnbj0idG9wIj4mbmJzcDsgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkIGNsYXNzPSJpbm5lci1tYWluLWhlYWRpbmciPkluZm9ybWF0aW9uIENvbGxlY3Rpb24sIFVzZSwgYW5kIFNoYXJpbmc8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICA8cD5XZSBhcmUgdGhlIHNvbGUgb3duZXJzIG9mIHRoZSBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gdGhpcyBzaXRlLiBXZSBvbmx5IGhhdmUgYWNjZXNzIHRvL2NvbGxlY3QgaW5mb3JtYXRpb24gdGhhdCB5b3Ugdm9sdW50YXJpbHkgZ2l2ZSB1cyB2aWEgZW1haWwgb3Igb3RoZXIgZGlyZWN0IGNvbnRhY3QgZnJvbSB5b3UuIFdlIHdpbGwgbm90IHNlbGwgb3IgcmVudCB0aGlzIGluZm9ybWF0aW9uIHRvIGFueW9uZS4gPC9wPg0KICAgICAgICAgICAgPHA+V2Ugd2lsbCB1c2UgeW91ciBpbmZvcm1hdGlvbiB0byByZXNwb25kIHRvIHlvdSwgcmVnYXJkaW5nIHRoZSByZWFzb24geW91IGNvbnRhY3RlZCB1cy4gV2Ugd2lsbCBub3Qgc2hhcmUgeW91ciBpbmZvcm1hdGlvbiB3aXRoIGFueSB0aGlyZCBwYXJ0eSBvdXRzaWRlIG9mIG91ciBvcmdhbml6YXRpb24sIG90aGVyIHRoYW4gYXMgbmVjZXNzYXJ5IHRvIGZ1bGZpbGwgeW91ciByZXF1ZXN0LCBlLmcuIHRvIHNoaXAgYW4gb3JkZXIuIDwvcD4NCiAgICAgICAgICAgIDxwPlVubGVzcyB5b3UgYXNrIHVzIG5vdCB0bywgd2UgbWF5IGNvbnRhY3QgeW91IHZpYSBlbWFpbCBpbiB0aGUgZnV0dXJlIHRvIHRlbGwgeW91IGFib3V0IHNwZWNpYWxzLCBuZXcgcHJvZHVjdHMgb3Igc2VydmljZXMsIG9yIGNoYW5nZXMgdG8gdGhpcyBwcml2YWN5IHBvbGljeS4gPC9wPg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkPiZuYnNwOzwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZCBjbGFzcz0iaW5uZXItbWFpbi1oZWFkaW5nIj5Zb3VyIEFjY2VzcyB0byBhbmQgQ29udHJvbCBPdmVyIEluZm9ybWF0aW9uCTwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgIDxwPllvdSBtYXkgb3B0IG91dCBvZiBhbnkgZnV0dXJlIGNvbnRhY3RzIGZyb20gdXMgYXQgYW55IHRpbWUuIFlvdSBjYW4gZG8gdGhlIGZvbGxvd2luZyBhdCBhbnkgdGltZSBieSBjb250YWN0aW5nIHVzIHZpYSB0aGUgZW1haWwgYWRkcmVzcyBvciBwaG9uZSBudW1iZXIgZ2l2ZW4gb24gb3VyIHdlYnNpdGU6IDwvcD4NCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZCBjbGFzcz0ibGlzdCI+DQogICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgPGxpPlNlZSB3aGF0IGRhdGEgd2UgaGF2ZSBhYm91dCB5b3UsIGlmIGFueS4gIDwvbGk+DQogICAgICAgICAgICAgICAgPGxpPkNoYW5nZS9jb3JyZWN0IGFueSBkYXRhIHdlIGhhdmUgYWJvdXQgeW91LiA8L2xpPg0KICAgICAgICAgICAgICAgIDxsaT5IYXZlIHVzIGRlbGV0ZSBhbnkgZGF0YSB3ZSBoYXZlIGFib3V0IHlvdS4gPC9saT4NCiAgICAgICAgICAgICAgICA8bGk+RXhwcmVzcyBhbnkgY29uY2VybiB5b3UgaGF2ZSBhYm91dCBvdXIgdXNlIG9mIHlvdXIgZGF0YS4gICA8L2xpPg0KICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQgY2xhc3M9ImlubmVyLW1haW4taGVhZGluZyI+Rm9ybXM8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICA8cD5JbiBzZWN0aW9ucyBvZiB0aGUgd2Vic2l0ZSwgYSB1c2VyIG11c3QgZmlyc3QgY29tcGxldGUgdGhlIHJlZ2lzdHJhdGlvbiBmb3JtLiBEdXJpbmcgcmVnaXN0cmF0aW9uIGEgdXNlciBpcyByZXF1aXJlZCB0byBnaXZlIGNlcnRhaW4gaW5mb3JtYXRpb24gKHN1Y2ggYXMgbmFtZSBhbmQgZW1haWwgYWRkcmVzcykuIFRoaXMgaW5mb3JtYXRpb24gaXMgdXNlZCB0byBjb250YWN0IHlvdSBhYm91dCB0aGUgcHJvZHVjdHMvc2VydmljZXMgb24gb3VyIHNpdGUgaW4gd2hpY2ggeW91IGhhdmUgZXhwcmVzc2VkIGludGVyZXN0LiBBdCB5b3VyIG9wdGlvbiwgeW91IG1heSBhbHNvIHByb3ZpZGUgZGVtb2dyYXBoaWMgaW5mb3JtYXRpb24gKHN1Y2ggYXMgZ2VuZGVyIG9yIGFnZSkgYWJvdXQgeW91cnNlbGYsIGJ1dCBpdCBpcyBub3QgcmVxdWlyZWQuIDwvcD4NCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQgY2xhc3M9ImlubmVyLW1haW4taGVhZGluZyI+U2VjdXJpdHk8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICA8cD5XZSB0YWtlIHByZWNhdXRpb25zIHRvIHByb3RlY3QgeW91ciBpbmZvcm1hdGlvbi4gV2hlbiB5b3Ugc3VibWl0IHNlbnNpdGl2ZSBpbmZvcm1hdGlvbiB2aWEgdGhlIHdlYnNpdGUsIHlvdXIgaW5mb3JtYXRpb24gaXMgcHJvdGVjdGVkIGJvdGggb25saW5lIGFuZCBvZmZsaW5lLiA8L3A+DQogICAgICAgICAgICA8cD5XaGVyZXZlciB3ZSBjb2xsZWN0IHNlbnNpdGl2ZSBpbmZvcm1hdGlvbiAoc3VjaCBhcyBjcmVkaXQgY2FyZCBkYXRhKSwgdGhhdCBpbmZvcm1hdGlvbiBpcyBlbmNyeXB0ZWQgYW5kIHRyYW5zbWl0dGVkIHRvIHVzIGluIGEgc2VjdXJlIHdheS4gWW91IGNhbiB2ZXJpZnkgdGhpcyBieSBsb29raW5nIGZvciBhIGNsb3NlZCBsb2NrIGljb24gYXQgdGhlIGJvdHRvbSBvZiB5b3VyIHdlYiBicm93c2VyLCBvciBsb29raW5nIGZvciAmcXVvdDtodHRwcyZxdW90OyBhdCB0aGUgYmVnaW5uaW5nIG9mIHRoZSBhZGRyZXNzIG9mIHRoZSB3ZWIgcGFnZS48L3A+DQogICAgICAgICAgICA8cD5XaGlsZSB3ZSB1c2UgZW5jcnlwdGlvbiB0byBwcm90ZWN0IHNlbnNpdGl2ZSBpbmZvcm1hdGlvbiB0cmFuc21pdHRlZCBvbmxpbmUsIHdlIGFsc28gcHJvdGVjdCB5b3VyIGluZm9ybWF0aW9uIG9mZmxpbmUuIE9ubHkgZW1wbG95ZWVzIHdobyBuZWVkIHRoZSBpbmZvcm1hdGlvbiB0byBwZXJmb3JtIGEgc3BlY2lmaWMgam9iIChmb3IgZXhhbXBsZSwgYmlsbGluZyBvciBjdXN0b21lciBzZXJ2aWNlKSBhcmUgZ3JhbnRlZCBhY2Nlc3MgdG8gcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24uIFRoZSBjb21wdXRlcnMvc2VydmVycyBpbiB3aGljaCB3ZSBzdG9yZSBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBhcmUga2VwdCBpbiBhIHNlY3VyZSBlbnZpcm9ubWVudC4gPC9wPg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgPHA+PHN0cm9uZz5JZiAgeW91IGZlZWwgdGhhdCB3ZSBhcmUgbm90IGFiaWRpbmcgYnkgdGhpcyBwcml2YWN5IHBvbGljeSwgeW91IHNob3VsZCAgY29udGFjdCB1cyBpbW1lZGlhdGVseSB2aWEgdGVsZXBob25lIGF0IDEtODAwLTYwNS0yNTc0IG9yIDxzcGFuIGNsYXNzPSJicmFkdHh0MSI+PGEgaHJlZj0ibWFpbHRvOnNhbGVzQGFscGhhbW92aW5nLm5ldCIgY2xhc3M9ImxpbksiPiB2aWEgZW1haWw8L2E+PC9zcGFuPjwvc3Ryb25nPjwvcD4NCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPg0KICAgICAgICA8L3RyPg0KICAgIDwvdGJvZHk+DQo8L3RhYmxlPmQCCw8WAh8FBQ1kaXNwbGF5Om5vbmU7ZAINDxYCHwUFDWRpc3BsYXk6bm9uZTsWAgIBDzwrAAkAZAIPDxYCHwUFDWRpc3BsYXk6bm9uZTtkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRxjdGwwMCRVY0FzdGltYXRlJGltZ0NvbnRpbnVlBSNjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGltZ1N1Ym1pdOQv1JllZPI5BNURgACF5onyWDRA">
+
+
+<script src="/ScriptResource.axd?d=lfdXpQH7h7F4CvbaHIAocfHYJKKE1utDRp-Jq2B2y_iK70dqsTvXttX6sCFQyuPDmOcMKCa3-ROuY20dFhGEyzzmmuV4y_9IyIZrEsv7QVw1&amp;t=12e772d1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+    
+    <table width="926" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td width="72%" class="logo">
+                            <a href="index.aspx">
+                                <img src="images/logo.gif" alt="" border="0" title="Alphamoving"></a>
+                        </td>
+                        <td width="28%">
+                            <table width="100%" border="0" cellspacing="2" cellpadding="1">
+                                <tbody><tr>
+                                    <td align="center">
+                                        <a href="javascript: openmypage()" onmouseover="window.status='Send to a friend';return true;" onmouseout="self.status=''" onclick="window.focus()">
+                                            <img src="images/telll-a-frnd-icon.gif" alt="" width="25" height="22" border="0"></a>
+                                    </td>
+                                    <td align="center">
+                                        <a href="javascript:bookmarksite('Alpha Moving &amp; Storage, NY, NJ', 'http://www.alphamoving.com')" alt="Bookmark Alpha Moving &amp; Storage " title="Bookmark Alpha Moving &amp; Storage">
+                                            <img src="images/bokmark-icon.gif" alt="" border="0"></a>
+                                    </td>
+                                    <td align="center">
+                                        <a href="contact_us.aspx" title="Contact Us">
+                                            <img src="images/contact-us-icon.gif" alt="" border="0"></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="logo-head-txt">
+                                        <a href="javascript: openmypage()" onmouseover="window.status='Send to a friend';return true;" onmouseout="self.status=''" onclick="window.focus()">Tell A Friend</a>
+                                    </td>
+                                    <td align="center" class="logo-head-txt">
+                                        <a href="javascript:bookmarksite('Alpha Moving &amp; Storage, NY, NJ', 'http://www.alphamoving.com')" alt="Bookmark Alpha Moving &amp; Storage " title="Bookmark Alpha Moving &amp; Storage">Bookmark
+                                            Us</a>
+                                    </td>
+                                    <td align="center" class="logo-head-txt">
+                                        <a href="contact_us.aspx" title="Contact Us">Contact Us</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="10" colspan="3">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3" align="center" class="call-now-txt">
+                                        Call Now: 1.800.605.2574
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td height="6">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table width="100%" border="0" cellspacing="1" cellpadding="0" class="tbbgcolor">
+                    <tbody><tr>
+                        <td>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                    <td width="284" valign="top" style="background: #F9F9F8;">
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tbody><tr class="tbbgcolor">
+                                                <td valign="top">
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="nav-bg">
+                                                        <tbody><tr>
+                                                            <td class="nav-txt" valign="top">
+                                                                <ul>
+                                                                    <li><a href="from_the_president.aspx" title="A Meaasge From President">Message From
+                                                                        President</a></li>
+                                                                    <li id="chromemenu1"><a href="packing.aspx" title="Packing" class="menu1" rel="dropmenu2">
+                                                                        Packing </a></li>
+                                                                    <li id="chromemenu"><a href="#" title="Resources" class="menu1" rel="dropmenu1">Resources
+                                                                    </a></li>
+                                                                    <li><a href="tips_for_moving.aspx" title="Tips for moving">Tips for moving</a></li>
+                                                                    <li><a href="PictureGallery.aspx" title="Picture Gallery">
+                                                                        
+                                                                        Picture Gallery</a></li>
+                                                                    <li><a href="http://www.alphareoservices.com/handyman-services.php" target="_blank" title="Alpha's Home Services">Alpha's Home Services</a></li>
+                                                                </ul>
+                                                                <div id="dropmenu1" class="menu">
+                                                                    
+                                                                    <a href="moving_insurance.aspx" title="Moving Insurance">Moving Insurance</a> <a href="send_feedback.aspx" title="Send Feedback">Send Feedback</a> <a href="#" title="Alpha Blog">Alpha Blog</a> <a href="Alpha_in_the_Media.aspx" title="Alpha in the Media">
+                                                                                Alpha in the Media</a>
+                                                                </div>
+                                                                <div id="dropmenu2" class="menu">
+                                                                    <a href="order_boxes_online.aspx?CID=2" title="Buy Boxes">Buy Boxes </a>
+                                                                </div>
+
+                                                                <script type="text/javascript">
+cssdropdown.startchrome("chromemenu")
+cssdropdown.startchrome("chromemenu1")
+                                                                </script>
+
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="15">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td height="4">
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td>
+                                                    <table id="ctl00_lstCategories" cellspacing="0" border="0">
+	<tbody><tr>
+		<td>
+                                                            <a id="ctl00_lstCategories_ctl00_lnkImage" title="Single Boxes" href="order_boxes_online.aspx?CID=2"><img title="Single Boxes" src="Uploads/Category/buyboxes.jpg" border="0"></a>
+                                                        </td>
+	</tr><tr>
+		<td>
+                                                            <a id="ctl00_lstCategories_ctl01_lnkImage" title="Box Packages" href="order_boxes_online.aspx?CID=3"><img title="Box Packages" src="Uploads/Category/buyboxes2.jpg" border="0"></a>
+                                                        </td>
+	</tr><tr>
+		<td>
+                                                            <a id="ctl00_lstCategories_ctl02_lnkImage" title="Box Accessories" href="order_boxes_online.aspx?CID=4"><img title="Box Accessories" src="Uploads/Category/buyboxes3.jpg" border="0"></a>
+                                                        </td>
+	</tr>
+</tbody></table>
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td height="4">
+                                                </td>
+                                            </tr>
+                                            
+                                            <tr class="tbbgcolor">
+                                                <td height="4">
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td valign="top">
+                                                    
+<table width="100%" border="0" cellspacing="1" cellpadding="2" class="nav-bg">
+    <tbody><tr>
+        <td height="35" colspan="2">
+            <img src="images/form-bullet.gif" alt="" hspace="10"><img src="images/free-online.png" alt="" hspace="0">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="images/form-line.gif" alt="">
+        </td>
+    </tr>
+    <tr>
+        <td height="5" colspan="2">
+        </td>
+    </tr>
+    <tr>
+        <td width="32%" align="right" class="form-txt">
+            From Zip:        </td>
+        <td width="68%">
+            <input name="ctl00$UcAstimate$txtFrom" type="text" id="ctl00_UcAstimate_txtFrom" class="input1">
+        </td>
+    </tr>
+    <tr>
+        <td align="right" class="form-txt">
+            To City:
+        </td>
+        <td>
+            <input name="ctl00$UcAstimate$txtTo" type="text" id="ctl00_UcAstimate_txtTo" class="input1">
+        </td>
+    </tr>
+    <tr>
+        <td align="right" class="form-txt">
+            State:
+        </td>
+        <td>
+            <select name="ctl00$UcAstimate$ddlStates" id="ctl00_UcAstimate_ddlStates">
+	<option value="">--- Select State ---</option>
+	<option value="14">Alabama</option>
+	<option value="15">Alaska</option>
+	<option value="16">Arizona</option>
+	<option value="17">Arkansas</option>
+	<option value="18">California</option>
+	<option value="19">Colorado</option>
+	<option value="20">Connecticut</option>
+	<option value="21">Delaware</option>
+	<option value="22">District Of Columbia</option>
+	<option value="23">Florida</option>
+	<option value="24">Georgia</option>
+	<option value="25">Hawaii</option>
+	<option value="26">Idaho</option>
+	<option value="27">Illinois</option>
+	<option value="28">Indiana</option>
+	<option value="29">Iowa</option>
+	<option value="30">Kansas</option>
+	<option value="31">Kentucky</option>
+	<option value="32">Louisiana</option>
+	<option value="33">Maine</option>
+	<option value="34">Maryland</option>
+	<option value="35">Massachusetts</option>
+	<option value="36">Michigan</option>
+	<option value="37">Minnesota</option>
+	<option value="38">Mississippi</option>
+	<option value="39">Missouri</option>
+	<option value="40">Montana</option>
+	<option value="41">Nebraska</option>
+	<option value="42">Nevada</option>
+	<option value="43">New Hampshire</option>
+	<option value="44">New Jersey</option>
+	<option value="45">New Mexico</option>
+	<option value="46">New York</option>
+	<option value="47">North Carolina</option>
+	<option value="48">North Dakota</option>
+	<option value="49">Ohio</option>
+	<option value="50">Oklahoma</option>
+	<option value="51">Oregon</option>
+	<option value="52">Pennsylvania</option>
+	<option value="53">Rhode Island</option>
+	<option value="54">South Carolina</option>
+	<option value="55">South Dakota</option>
+	<option value="56">Tennessee</option>
+	<option value="57">Texas</option>
+	<option value="58">Utah</option>
+	<option value="59">Vermont</option>
+	<option value="60">Virginia</option>
+	<option value="61">Washington</option>
+	<option value="62">West Virginia</option>
+	<option value="63">Wisconsin</option>
+	<option value="64">Wyoming</option>
+
+</select>
+        </td>
+    </tr>
+    <tr>
+        <td align="right" class="form-txt">
+            Move Date:
+        </td>
+        <td>
+            <select name="ctl00$UcAstimate$ddlMonths" id="ctl00_UcAstimate_ddlMonths">
+	<option value="">--</option>
+	<option value="1">Jan</option>
+	<option value="2">Feb</option>
+	<option value="3">Mar</option>
+	<option value="4">Apr</option>
+	<option value="5">May</option>
+	<option value="6">Jun</option>
+	<option value="7">Jul</option>
+	<option value="8">Aug</option>
+	<option value="9">Sep</option>
+	<option value="10">Oct</option>
+	<option value="11">Nov</option>
+	<option value="12">Dec</option>
+
+</select>
+            <select name="ctl00$UcAstimate$ddlDates" id="ctl00_UcAstimate_ddlDates">
+	<option value="">--</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+
+</select>
+            <select name="ctl00$UcAstimate$ddlYears" id="ctl00_UcAstimate_ddlYears">
+	<option value="">----</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+
+</select>
+        </td>
+    </tr>
+   
+    <tr>
+        <td height="46" valign="top" align="right" class="form-txt">
+            &nbsp;
+        </td>
+        <td>
+            <input type="image" name="ctl00$UcAstimate$imgContinue" id="ctl00_UcAstimate_imgContinue" title="Continue" src="images/contine.gif" alt="Continue" border="0">
+        </td>
+    </tr>
+</tbody></table>
+
+
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td height="4">
+                                                </td>
+                                            </tr>
+                                            <tr id="ctl00_tr1" class="tbbgcolor">
+	<td valign="top">
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody><tr>
+                                                            <td width="289" class="video-bg" align="center" valign="top">
+                                                                <object width="287" height="220">
+                                                                    <param name="movie" value="http://www.youtube.com/v/ZJKsi6EsZW0&amp;hl=en&amp;fs=1&amp;rel=0&amp;">
+                                                                    
+                                                                    <param name="allowFullScreen" value="true">
+                                                                    <param name="wmode" value="transparent">
+                                                                    <param name="allowscriptaccess" value="always">
+                                                                    <embed src="http://www.youtube.com/v/ZJKsi6EsZW0&amp;hl=en&amp;fs=1&amp;rel=0&amp;" wmode="transparent" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="287" height="220"></object>
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+</tr>
+
+                                            <tr id="ctl00_tr2" class="tbbgcolor">
+	<td height="4">
+                                                </td>
+</tr>
+
+                                            <tr class="tbbgcolor">
+                                                <td valign="top">
+                                                    <a href="#" onclick="javascript:window.open(&quot;https://prodca.click4talk.com/zt/plink/popup.php?cid=3503&amp;linker=1&amp;referral=&quot;+location.href,&quot;_blank&quot;,&quot;height=380,width=530,left=20,top=20,resizable=no,menubar=0,toolbar=0,status=0&quot;)" title="Tell A Friend">
+                                                        <img src="images/click-call-you.gif" alt="" width="287" height="79" border="0" title="Click &amp; we will Call you"></a>
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td height="4">
+                                                </td>
+                                            </tr>
+                                            <tr valign="top" class="tbbgcolor" style="background: #FDFDFC;">
+                                                <td>
+                                                    <a href="order_boxes_online.aspx?CID=2">
+                                                        <img src="images/buybox.gif" alt="Buy Boxes" title="Buy Boxes" border="0"></a>
+                                                </td>
+                                            </tr>
+                                            <tr class="tbbgcolor">
+                                                <td height="4">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                    <td width="2">
+                                    </td>
+                                    <td width="700" valign="top">
+                                        <!-- InstanceBeginEditable name="body" -->
+                                        
+<table width="99%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td>
+            <table border="0" align="right" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td align="center">
+                        <a href="javascript:__doPostBack('ctl00$UC$ctl00','')">
+                            <img src="images/residential.gif" alt="Residential" border="0" title="Residential"></a>
+                    </td>
+                    <td width="122" align="center">
+                        <a href="commercial.aspx">
+                            <img src="images/commercial.gif" alt="Commercial" border="0" title="Commercial"></a>
+                    </td>
+                    <td width="143" align="center">
+                        <a href="long_distance.aspx">
+                            <img src="images/long-dis.gif" alt="Long Distance" border="0" title="Long Distance"></a>
+                    </td>
+                    <td width="123" align="center">
+                        <a href="international.aspx">
+                            <img src="images/international.gif" alt="International" border="0" title="International"></a>
+                    </td>
+                    <td width="122" align="center">
+                        <a href="storage.aspx">
+                            <img src="images/storage.gif" alt="Storage" border="0" title="Storage"></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="ctl00_UC_tdSubmenu" height="25" colspan="9" class="bg-resi" style="display:none;">
+                        <div id="navsublist">
+                            <ul id="navlist">
+                                <li id="active">
+                                 <a id="ctl00_UC_LnkbtnIntMoving" href="javascript:__doPostBack('ctl00$UC$LnkbtnIntMoving','')">International Moving</a>
+                                </li>
+                                <li>|</li>
+                                <li>
+                                    <a id="ctl00_UC_LnkBtnlongdistance" href="javascript:__doPostBack('ctl00$UC$LnkBtnlongdistance','')">Long Distance Moving</a>  
+                                </li>
+                                <li>|</li>
+                                <li>
+                                <a id="ctl00_UC_LnkbtnLocalMoving" href="javascript:__doPostBack('ctl00$UC$LnkbtnLocalMoving','')">Local Moving</a>  
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+   
+   
+</tbody></table>
+
+                                        
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tbody><tr>
+                        <td height="1">
+                           
+                        </td>
+                    </tr>
+            <tr><td valign="top">
+                <table width="99%" border="0" cellspacing="0" cellpadding="1" style="border: 1px solid #D6D7D9;">
+                  
+                   
+                    <tbody><tr>
+                        <td style="border: 1px solid #ffffff;">
+                            <img id="ctl00_ContentPlaceHolder1_ImgTopImage" src="Uploads/Images/c_bc2dbc58-3_family.jpg" height="123" width="616" border="0">
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table width="95%" border="0" cellspacing="1" cellpadding="1" align="center">
+                    <tbody><tr>
+                        <td class="heading-txt">
+                            Privacy Policy
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="1" class="line">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="25" class="bradtxt-grey">
+                            <span class="bradtxt"><a href="index.aspx">Home</a></span> »<a id="ctl00_ContentPlaceHolder1_A1" class="bradtxt" style="display:none;" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$A1','')">&nbsp;Residential</a> 
+                            Privacy Policy
+                        </td>
+                    </tr>
+                    </tbody></table> 
+            </td>
+        </tr>
+        <tr>
+            <td height="10">
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table cellspacing="1" cellpadding="1" border="0" align="center" width="95%">
+    <tbody>
+        <tr>
+            <td>
+            <p>This privacy notice discloses the privacy practices for <span class="bradtxt1">http://www.alphamoving.com.&nbsp;</span> This privacy notice applies solely to information collected by this web site. It will notify you of the following: </p>
+            </td>
+        </tr>
+        <tr>
+            <td class="list">
+            <ul>
+                <li>What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. </li>
+                <li>What choices are available to you regarding the use of your data. </li>
+                <li>The security procedures in place to protect the misuse of your information.   </li>
+                <li>How you can correct any inaccuracies in the information.  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;                            </td>
+        </tr>
+        <tr>
+            <td class="inner-main-heading">Information Collection, Use, and Sharing</td>
+        </tr>
+        <tr>
+            <td>
+            <p>We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. </p>
+            <p>We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. </p>
+            <p>Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. </p>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="inner-main-heading">Your Access to and Control Over Information	</td>
+        </tr>
+        <tr>
+            <td>
+            <p>You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: </p>
+            </td>
+        </tr>
+        <tr>
+            <td class="list">
+            <ul>
+                <li>See what data we have about you, if any.  </li>
+                <li>Change/correct any data we have about you. </li>
+                <li>Have us delete any data we have about you. </li>
+                <li>Express any concern you have about our use of your data.   </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="inner-main-heading">Forms</td>
+        </tr>
+        <tr>
+            <td>
+            <p>In sections of the website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required. </p>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="inner-main-heading">Security</td>
+        </tr>
+        <tr>
+            <td>
+            <p>We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. </p>
+            <p>Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.</p>
+            <p>While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p><strong>If  you feel that we are not abiding by this privacy policy, you should  contact us immediately via telephone at 1-800-605-2574 or <span class="bradtxt1"><a href="mailto:sales@alphamoving.net" class="linK"> via email</a></span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="ctl00_ContentPlaceHolder1_DisplayContactUs" style="display:none;">
+                <table width="100%">
+                    <tbody><tr>
+                        <td height="30">
+                            <strong class="bg-ques-txt">You can also reach us by filling out the form below.
+                            </strong>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top">
+                            <table width="100%" class="bdr" border="0" cellspacing="3" cellpadding="2" align="right">
+                                <tbody><tr>
+                                    <td width="30%" height="24" class="bg-form-text" align="left">
+                                        <strong style="color:Red">*</strong>Full Name:
+                                    </td>
+                                    <td style="width: 30%">
+                                        <input name="ctl00$ContentPlaceHolder1$txtName" type="text" id="ctl00_ContentPlaceHolder1_txtName" class="input1">
+                                    </td>
+                                    <td>
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-form-text">
+                                        Company Name:
+                                    </td>
+                                    <td style="width: 30%">
+                                        <input name="ctl00$ContentPlaceHolder1$txtCompanyName" type="text" id="ctl00_ContentPlaceHolder1_txtCompanyName" class="input1">
+                                    </td>
+                                    <td>
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-form-text">
+                                        <strong style="color:Red">*</strong>Phone No.:
+                                    </td>
+                                    <td style="width: 30%">
+                                        <input name="ctl00$ContentPlaceHolder1$txtPhoneNumber" type="text" id="ctl00_ContentPlaceHolder1_txtPhoneNumber" class="input1" maxlength="10">
+                                    </td>
+                                    <td width="200">
+                                                                           
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-form-text">
+                                        <strong style="color:Red">*</strong>Email address:
+                                    </td>
+                                    <td style="width: 30%">
+                                        <input name="ctl00$ContentPlaceHolder1$txtEmail" type="text" id="ctl00_ContentPlaceHolder1_txtEmail" class="input1">
+                                    </td>
+                                    <td>
+                                        
+                                        <br>
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" class="bg-form-text">
+                                        Questions &amp; Comments:
+                                    </td>
+                                    <td class="bg-form-text">
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" class="bg-form-text">
+                                        <textarea name="ctl00$ContentPlaceHolder1$txtComments" id="ctl00_ContentPlaceHolder1_txtComments" style="width: 265px;" rows="4"></textarea>
+                                    </td>
+                                    <td class="bg-form-text">
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="8" colspan="2">
+                                    </td>
+                                    <td height="8">
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" align="center">
+                                        <input type="image" name="ctl00$ContentPlaceHolder1$imgSubmit" id="ctl00_ContentPlaceHolder1_imgSubmit" title="Submit" src="images/submit-btn.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$imgSubmit&quot;, &quot;&quot;, true, &quot;Send&quot;, &quot;&quot;, false, false))" border="0">
+                                    </td>
+                                    <td>
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+                </div>
+                
+                <div id="ctl00_ContentPlaceHolder1_DisplayTestimonials" style="display:none;">
+                
+                <table width="95%" border="0" cellspacing="1" cellpadding="1" align="center">
+                               <tbody><tr>
+                    <td>
+                    </td>
+                </tr>
+                <tr><td>
+                 
+                
+    
+    </td></tr>
+    <tr>
+            <td>
+                <table id="ctl00_ContentPlaceHolder1_tblPaging" align="center" class="Pagingtxt" border="0" width="100%">
+	<tbody><tr>
+		<td width="94%" valign="middle" align="right" height="10">
+                            &nbsp;</td>
+		<td align="center" width="1%" valign="middle">
+                            &nbsp;</td>
+		<td align="left" valign="middle" width="5%">
+                            &nbsp;</td>
+	</tr>
+	<tr>
+		<td width="94%" valign="middle" align="right">
+                            <a id="ctl00_ContentPlaceHolder1_lBtnPre" title="Previous" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$lBtnPre','')">&lt;PREV</a>
+                        </td>
+		<td align="center" width="1%" valign="middle">
+                            </td>
+		<td align="left" valign="middle" width="5%">
+                            <a id="ctl00_ContentPlaceHolder1_LbtnNext" title="Next" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$LbtnNext','')">NEXT&gt;</a>
+                        </td>
+	</tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody></table>                    
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_DisplayAnnouncements" style="display:none;">
+                <table width="95%" border="0" cellspacing="1" cellpadding="1" align="center">
+                               <tbody><tr>
+                    <td>
+                    </td>
+                </tr>
+                               <tr>
+                    <td>
+                        
+                    </td>
+                </tr>
+                
+                </tbody></table> 
+                </div>
+               
+            </td>
+        </tr>
+    </tbody></table>
+
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td height="20" valign="top" class="footer1">
+                <a href="index.aspx" title="Home">Home</a> | <a href="terms_of_use.aspx" title="Terms of Use">
+                    Terms of Use</a> | <a href="PrivacyPolicy.aspx" title="Privacy Policy">Privacy Policy</a>
+                | <a href="Sitemap.aspx" title="Sitemap">Sitemap</a><span style="padding-left: 380px;">Alpha
+                    Relocation Services © 2009. All Rights Reserved.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td width="1%" class="footer" height="10">
+                        </td>
+                        <td width="98%" height="15">
+                        </td>
+                        <td width="1%" class="footer">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="9" colspan="3" class="footer">
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4123789-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body></html>

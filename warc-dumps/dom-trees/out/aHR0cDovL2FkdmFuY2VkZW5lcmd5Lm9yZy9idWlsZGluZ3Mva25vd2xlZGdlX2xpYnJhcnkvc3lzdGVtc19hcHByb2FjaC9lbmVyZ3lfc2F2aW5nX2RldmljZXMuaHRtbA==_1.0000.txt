@@ -1,0 +1,216 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Advanced Energy</title>
+	<link rel="stylesheet" type="text/css" href="/assets/styles/newmaster.css">
+	<link rel="stylesheet" type="text/css" media="print" href="/assets/styles/print.css">
+</head>
+
+<body>
+<table cellspacing="1" width="95%" align="center" bgcolor="#ffffff" border="0">
+	<tbody><tr>
+    	<td bgcolor="#990000" colspan="2">
+					<table cellspacing="0" width="100%" border="0">
+        		<tbody><tr>
+					<td width="158"><a href="http://www.advancedenergy.org/"><img height="96" alt="aelogo" src="/assets/images/flash/aelogo.jpg" width="159" border="0"><br></a></td>
+					<td>
+					<div align="right">
+		            <table border="0" align="right" cellpadding="2" cellspacing="0">
+	        		      <tbody><tr>
+			                <td align="center" valign="middle"><br><br><br><div class="mainheader"><a href="/corporate/">ABOUT US</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/corporate/news/">NEWS</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/corporate/contact/">CONTACT US</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/corporate/careers/">CAREERS</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/site_map.html">SITE INDEX</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
+							<td valign="top">&nbsp;
+
+							<div id="search"><br><br>
+
+							<form action="/searchpro/index.php" method="get" enctype="application/x-www-form-urlencoded" name="qs" id="qs">
+							<table border="0" align="center" cellpadding="2" cellspacing="0">
+								<tbody><tr>
+									<td valign="top"><input class="sp2_field" name="q" type="text" id="q" value="" maxlength="255" size="20"></td>
+									<td valign="top"><input type="image" name="Search" src="/assets/images/flash/search.gif" alt="Search" id="searchButton" align="middle"><img height="13" alt="space" src="/assets/images/flash/spacer.jpg" width="13">  
+								</td>
+								</tr>
+							</tbody></table>						
+							</form></div></td>
+						  </tr>
+						</tbody></table>
+					</div></td>
+				</tr>
+			</tbody></table>
+<!-- BEGIN Google Analytics Code -->
+<script src="http://www.advancedenergy.org/scripts/gatag.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-6886301-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+<!-- END Google Analytics Code -->
+		</td>
+	</tr>
+	<tr>
+    	<td colspan="2" class="topmenu">
+		<!-- begin top menu header -->
+
+			<table cellspacing="0" align="left" border="0" cellpadding="10" class="topmenu">
+				<tbody><tr>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/ci/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>COMMERCIAL AND <br>&nbsp;&nbsp;INDUSTRIAL</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/md/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>MOTORS AND DRIVES</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/buildings/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>BUILDINGS</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/transportation/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>TRANSPORTATION</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="http://www.ncgreenpower.org" target="_blank"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>N.C. GREENPOWER</strong></font></a></td>
+					<td bgcolor="#000000" valign="top" width="250"><a href="/corporate/initiatives/"><font color="#FFFFFF" style="text-decoration:none">&nbsp;&nbsp;<strong>QUICK LINKS</strong></font></a></td>
+					<td width="98" bgcolor="#000000">&nbsp;</td>
+				</tr>
+			</tbody></table>
+
+<!-- end top menu header -->
+		</td>
+	 </tr>
+	 <tr>
+	 	<td width="158" valign="top" bgcolor="#000000" class="leftmenu">
+		<!-- begin Buildings left menu -->
+<!--  be sure the cellspacing for the table is set at "5" and not "1" -->
+
+<script type="text/javascript" src="/assets/includes/menus/bldgs/bldgsmenu_scr.js">
+</script>
+
+<table id="m1mainSXMenu2" cellspacing="0" cellpadding="4" style=";width:">
+<tbody><tr><td onmouseover="chgBg(m1,'m1tlm0',3);exM(m1,'m1mn1','m1tlm0',event)" onmouseout="chgBg(m1,'m1tlm0',0);coM(m1,'m1mn1')" id="m1tlm0" onmousedown="f58('m1tlm0a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm0a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/about/">ABOUT</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm1',3);exM(m1,'m1mn2','m1tlm1',event)" onmouseout="chgBg(m1,'m1tlm1',0);coM(m1,'m1mn2')" id="m1tlm1" onmousedown="f58('m1tlm1a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm1a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/services/">SERVICES</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm2',3);exM(m1,'m1mn3','m1tlm2',event)" onmouseout="chgBg(m1,'m1tlm2',0);coM(m1,'m1mn3')" id="m1tlm2" onmousedown="f58('m1tlm2a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm2a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/courses/">COURSES</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm3',3);exM(m1,'m1mn4','m1tlm3',event)" onmouseout="chgBg(m1,'m1tlm3',0);coM(m1,'m1mn4')" id="m1tlm3" onmousedown="f58('m1tlm3a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm3a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/knowledge_library/">KNOWLEDGE LIBRARY</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm4',3);exM(m1,'m1mn5','m1tlm4',event)" onmouseout="chgBg(m1,'m1tlm4',0);coM(m1,'m1mn5')" id="m1tlm4" onmousedown="f58('m1tlm4a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm4a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/programs/">PROGRAMS</a></td><td style="text-align:right;width:8px"><img width="8" height="8" src="/assets/includes/menus/bldgs/bldgsmenu_m1ia.gif" style="vertical-align:middle;border-style:none" alt=""></td></tr></tbody></table></td>
+</tr><tr><td onmouseover="chgBg(m1,'m1tlm5',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm5',0,1)" id="m1tlm5" onmousedown="f58('m1tlm5a')" style="color:#FFFFFF;background-color:#000000;"><table cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td style="color:#FFFFFF;" class="m1mit"><a id="m1tlm5a" style="color:#FFFFFF;" class="m1CL0" href="/buildings/newsletter/newsletter.html">NEWSLETTER</a></td><td style="text-align:right;width:8px"></td></tr></tbody></table></td>
+</tr>
+</tbody></table>
+
+
+	
+<!-- end Buildings left menu -->
+
+
+		</td>
+		<td valign="top">
+			<table>
+				<tbody><tr>
+					<td valign="top" width="80%">
+						<div id="content">
+
+						<h1>Buildings</h1>
+
+						<div id="breadcrumb">
+						<!-- begin breadcrumb includes file -->
+
+
+<p><script type="text/javascript" src="/assets/scripts/MPBackLinks.js"></script><br></p>
+
+<!-- end breadcrumb includes file -->
+						</div>
+
+						<table width="100%">
+							<tbody><tr>
+								<td valign="top" width="77%">
+								
+				<!-- start text below here -->
+
+								<p class="heading">No Black Magic for Homeowners in “Energy-Saving” Devices </p>
+								
+                <p>Testing of devices that tout energy-savings for homeowners who use them on major appliances has revealed that most buyers are simply being snookered. Conceptually, the principles behind these devices make sense, but the reality of a controlled test environment has proven they are generally not worth the investment. </p>
+                <p class="heading">Two Different Types of Devices on the Market </p>
+                <p>Residential "energy-saving" devices are marketed under various names, and are available in most neighborhood hardware stores. They are simple to use, because you just insert the device inline between the appliance plug and the wall outlet. There are two basic designs for these energy saving devices, neither of which has proven to provide a cost savings when used under normal conditions. </p>
+                <p><img src="/buildings/knowledge_library/systems_approach/black_boxes.gif" alt="Graph: Lag introduced by motor load" width="265" height="181" align="right">The first type of energy saving device is designed to correct the lag that gets introduced when a motor (inductive) load is placed on the power supply (See Figure 1). So, this device provides <em>capacitance </em>, a means of correcting that lag. Sounds good; must use less power! Right? After all, an ammeter proves that less current is being used! </p>
+                <p>Unfortunately, many people assume that <strong>Power (Watts) = Volts x Amps </strong>. That's not the real story when you're dealing with alternating current (AC), where <strong>Watts = Volts x Amps x <em>Power Factor </em></strong>! The capacitance provided by the energy saving device actually increases that power factor, even though the amps go down. So, the number of watts being used remains almost unchanged. The net savings for motors running at normal (medium to full) load is negligible, as proven in tests in Advanced Energy's laboratories. </p>
+                <p>The second type of energy saving device operates by switching the incoming power on and off very quickly, reducing the average effective voltage (i.e., it decreases the effective height of the sine wave (See Figure 1). So, instead of the standard 120 volts being supplied from the power outlet, fewer volts actually arrive at the motor. While less power is truly being consumed during a fixed time interval, the appliance is not receiving the amount of power it was designed and intended to receive. To compensate for the fact that it has been "short-changed", the appliance must often simply run longer to perform its intended task. A good example is to imagine a window fan that is being suddenly forced to run at medium speed, instead of high speed: it simply will not cool a room as well. So once again, the net savings for motors running at normal load is negligible as proven in tests in Advanced Energy's laboratories. Minimal savings may occur for some appliances if their motors are being greatly underutilized, such as a refrigerator that is opened only once a week. </p>
+                <p class="heading">False advertising to blame? </p>
+                <p>How can reputable stores sell these energy saving devices? Well, under just the right conditions, most of them can be shown to have a positive effect. However, Advanced Energy has tested more than 20 types (residential and industrial) of these energy saving devices under controlled conditions that reflect real life appliance usage. That means simulating normal conditions and measuring power consumption without the energy saving device, and then testing with the energy saving device in place under the exact same conditions. </p>
+                <p>One of the biggest reasons that the energy saving devices sell simply boils down to gullible consumers. Most consumers don't have a working knowledge of electricity, and many more simply fail to process the information they have at their fingertips. These devices are often promoted based on the number of watt hours that they will save over a year's time. The numbers seem impressive-10,000 or 20,000 watt hours! A quick check of your monthly power bill shows that your usage is measured in <em>kilowatt </em> hours, each of which costs less than a dime. Because a kilowatt hour is the same as 1000 watt hours, the savings in a year's time may be less than two dollars. So it becomes easy to see that much of the magic behind these little energy saving devices is really in the marketing and in consumers who don't stop to consider whether the energy saving device really is a wise investment! </p>
+                <p class="heading"> More Information</p>
+                <p>For more information on electricity and the impact of the power factor in a residential setting, see <a href="http://www.homeenergy.org/archive/hem.dis.anl.gov/eehem/97/970505.html">Home Energy Magazine Online May/June 1997</a>.</p>
+                </td>
+
+								<td width="3%">&nbsp;</td>
+					
+								<td width="20%" valign="top" align="left">&nbsp;
+
+
+
+						</td>
+						</tr>
+					</tbody></table>
+					
+				<!-- end text above here -->
+					
+					</div></td>
+				</tr>
+			</tbody></table>
+			
+		</td>
+	</tr>
+
+
+
+
+
+	<tr>
+    	<td bgcolor="#990000" colspan="2">
+		<!-- BEGIN footer include -->
+
+
+
+<!--VISISTAT SNIPPET//-->
+<script type="text/javascript">var DID=13287;</script>
+<script src="http://sniff.visistat.com/sniff.js" type="text/javascript"></script>
+<!--VISISTAT SNIPPET//-->
+
+
+			<table width="100%" cellspacing="5">
+				<tbody><tr>
+					<td width="50%" valign="top" bgcolor="#990000"><div class="contact">
+					&nbsp;&nbsp;&nbsp;919 857-9000 &nbsp;&nbsp; | &nbsp;&nbsp; 800 869-8001 [toll free] &nbsp;&nbsp; | &nbsp;&nbsp; 919 832-2696 [fax]<br>
+		  			&nbsp;&nbsp;&nbsp;909 Capability Drive, Suite 2100 &nbsp;&nbsp; | &nbsp;&nbsp; Raleigh, NC 27606-3870<br>
+					</div></td>
+					<td width="50%" align="right" valign="top"><div class="contact">
+					<strong>Creating economic, environmental and societal benefits through</strong>&nbsp;&nbsp;&nbsp;<br>
+					<strong>innovative and market-based approaches to energy issues</strong>&nbsp;&nbsp;&nbsp;</div></td>
+				</tr>
+			</tbody></table>
+
+
+<!--end footer include-->
+		</td>
+	</tr>
+</tbody></table>
+
+<!-- begin copyright includes file -->
+<p>&nbsp;</p>
+
+<div id="copyright">
+
+<a href="/corporate/disclaimer.html">© Advanced Energy.</a>  All rights reserved. This material may not be copied, sold or redistributed in any form without the written permission of Advanced Energy. 
+
+<p>&nbsp;</p>
+
+</div>
+
+<!-- end copyright includes file -->
+
+
+
+
+
+
+
+
+
+
+</body></html>

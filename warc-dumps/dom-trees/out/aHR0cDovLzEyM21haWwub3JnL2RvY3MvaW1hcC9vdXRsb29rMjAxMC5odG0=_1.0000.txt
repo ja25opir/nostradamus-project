@@ -1,0 +1,211 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Using FastMail.FM with Outlook 2010</title>
+  <link rel="stylesheet" href="/css/prod/raw/base/main.css" type="text/css">
+  <link rel="stylesheet" href="/css/prod/raw/standard/main-style.css" type="text/css">
+  <script src="/js/prod/raw/core-1.js" language="JavaScript" type="text/javascript"></script>
+  <style><!--
+  .RedBg      { background-color: #FF0000  }
+  .YellowBg   { background-color: #FFFF00 }
+  .GreenBg    { background-color: #009900 }
+  .RedBox     { border: 3px solid #FF0000; padding: 4px; }
+  .InsetBox   { margin-left: 10%; margin-right: 10%; border: 1px solid blue; padding: 3px; }
+  .aside      { font-size: 90%; }
+  .cde        { background-color: #000000; color: #ffffff; padding-left: 10; padding-right: 10; padding-top: 3; padding-bottom: 3 }
+  -->
+  </style>
+</head>
+ 
+<body id="help">
+<div id="heightWrapper">
+  <div id="pageHeader">
+  <ul id="navigation">
+    <li><a href="/">Home</a></li>
+    <li><a href="/help/remote_email_access_setup_instructions.html">Help</a></li>
+  </ul>
+  </div>
+<div id="mainWrapper">
+<div id="main" class="noSidebar">
+
+
+
+<div class="section">
+<h2 class="title">Using FastMail.FM with Outlook 2010</h2>
+<h3>What you need to know</h3>
+<p>
+Microsoft Outlook 2010 can easily be configured to access your FastMail.FM account.  IMAP accounts appear differently in Outlook than standard POP or Exchange accounts.  Outlook 2010 supports the ability to save items to the Sent Items folder on the server. <br><br>Outlook 2010 is the first version of Outlook that supports utilizing a Trash folder on the server.   Outlook will now behave in a similar manner to the FastMail.FM  web interface, that is, when you delete an item it will be moved from its current folder into the Trash folder.  This removes the annoying strikeout interface in Outlook.<br>
+<br>
+<strong>Upgrading Outlook?:</strong> The following will list the steps to setup your FastMail.FM account with Outlook 2010.   If you upgrade from a previous version of Outlook (and had already setup your FastMail.FM account) it will import your settings, you would simply have to update the Deleted Items behavior (step 14 below).<br><br>	
+
+<b>Note:</b> If you already know how to set up your client, and you already
+understand the information below, see <a href="/help/remote_email_access_server_names_and_ports.html">this help page</a>
+for the server information you need to set up your e-mail client.
+The <b>Troubleshooting Issues</b> section at the bottom of this page may be
+helpful if you have problems.
+</p><p>In order to use Outlook 2010 with FastMail.FM, you'll need to enter the following information:</p>
+
+<ul>
+  <li><b>username</b> - When you signed up for FastMail.FM, you chose a username
+    which is also your e-mail address. You must use the full username, including
+    the name <b>and</b> the domain part, which is the part after the '@' symbol.
+    For example, a user named John Doe might have chosen a username of "johndoe@fastmail.fm". Make sure that you specify your username in lowercase only.</li>
+  <li><b>password</b> - When you signed up for FastMail.FM, you chose a password
+    to go along with your username. You will need the password to access your
+    account. The password also keeps others from being able to access your
+    e-mail. Your password is case sensitive, so be sure that you type it in
+    correctly. "PASS123" is different to&nbsp; "pass123".
+    Often, users forget about the CapsLock button and mistype their password.
+  </li><li><b>incoming mail server (IMAP or POP)</b> - This is the server that you
+    get your e-mail from. Internet Message Access Protocol (IMAP) and Post
+    Office Protocol (POP) are retrieval methods used to move e-mail messages
+    from the server to your e-mail client so that you can read your messages.
+    POP access is not available for all service levels, please check the <a href="/pages/fastmail/docs/pricingtbl.html">pricing
+    table</a> for details. Secure Sockets Layer (SSL) is available for your
+    protection as well. By enabling this option, you can keep people from
+    reading your e-mail as it is transmitted between the e-mail server and your
+    computer.
+  </li><li><b>outgoing mail server (SMTP)</b> - This is the server that sends your
+    e-mail. Simple Mail Transfer Protocol (SMTP) is the method that your client
+    uses to move e-mail messages from your client to the server so that it can
+    send your messages. The FastMail.FM SMTP server is not available for all
+    service levels, please check the <a href="/pages/fastmail/docs/pricingtbl.html">pricing
+    table</a> for details. If your service level does not allow use of the FastMail.FM    SMTP server, you must use the SMTP server provided by your Internet Service
+    Provider (ISP).<br>
+    <br>
+    The FastMail.FM&nbsp; SMTP server requires SMTP Authentication. This keeps
+    people who are not users of the FastMail.FM service from using the SMTP
+    server to send spam messages on the Internet. SSL is also available for the
+    FastMail.FM SMTP server. If you don't
+    use the FastMail.FM SMTP server, you
+    may have different options or requirements. You will need to get that
+    information from your ISP.</li>
+</ul>
+<p></p>
+</div>
+<div class="section">
+
+<h3>Incoming and Outgoing Server Setup</h3>
+<ol>
+<li>First Time Startup<br>
+Open Outlook 2010, it may ask you to setup a new account.<br>  
+If it does not, you can add a new email account by clicking on the File menu,
+ choose Info, then click the Account Settings button.<br>
+<p><img src="images/outlook2010/1addaccount.jpg" width="473" height="327">
+</p></li>
+<li>
+Outlook will present a list of accounts (in a new installation, this would be blank).  <br>
+Click <strong>New...</strong> under the Email tab<br><br>
+</li>
+<li>Choose <strong>Manually configure server settings</strong> at the bottom of the page.<br>
+Click <strong>Next</strong><br>
+<p><img src="images/outlook2010/2initialsetupmail.jpg" width="584" height="465">
+</p></li>
+<li>
+Choose <strong>Internet E-Mail</strong> <br>
+Click <strong>Next</strong><br><br>
+</li>
+<li>Manually Adjust Values<br>
+A new page will appear.  Complete all the values in the form.<br>
+&nbsp;&nbsp;Enter your name and preferred email address.<br>
+&nbsp;&nbsp;Be sure to set the Account Type to be <strong>IMAP</strong><br>
+&nbsp;&nbsp;Adjust the Incoming and Outgoing servers to be <strong>mail.messagingengine.com</strong><br>
+&nbsp;&nbsp;Ensure your User Name contains your complete FastMail.FM username<br>
+The result will look similar to the image below...<br>
+Click the <strong>More Settings...</strong> button to adjust other values.<br>
+<p><img src="images/outlook2010/3manualsettings.jpg" width="679" height="468">
+</p></li>
+<li>Adjust Account Description<br>
+We recommend you change the account description to something useful that is easy for you to recognize.<br. <p><img src="images/outlook2010/4generaltab.jpg" width="390" height="455">
+<p></p></br.></li>
+<li>Adjust Outgoing Settings<br>
+Next click on the <strong>Outgoing Server </strong> tab.<br>
+Check the box for <strong>My outgoing server (SMTP) requires authentication</strong>.<br>
+<p><img src="images/outlook2010/5outgoingtab.jpg" width="391" height="450">
+<br></p></li>
+<li>Adjust Advanced Settings<br>
+Next click on the <strong>Advanced </strong> tab.<br>
+Set both the Incoming and Outgoing servers to use the <strong>SSL</strong> encryption method.<br>
+Set the Incoming port to be <strong>993</strong>.<br>
+Set the Outgoing port to be <strong>465</strong>.<br>
+Set the Root folder path to be <strong>INBOX</strong>.<br>
+(If you are a Business user utilizing Shared Email folders, leave the Root folder empty)<br><br>
+Press <strong>OK</strong> when you have finished.<br>
+<p><img src="images/outlook2010/6advancedtab.jpg" width="387" height="448">
+<br></p></li>
+<li>Click Next to Save Account<br>
+The manual accounts settings appears, click <strong>Next </strong> to save the account.<br>
+Outlook may give a warning about changing the Root Folder, this is normal, Press <strong>OK</strong><br>
+<br>Press <strong>Finish</strong> to complete the account creation process.<br><br></li>
+<li>Save and Close Settings Window<br>
+Click <strong>Next</strong> and then <strong>Finish</strong> to save your changes.<br>
+<br>
+Click the <strong>Close</strong> button to close the account listing<br><br>
+</li>
+<li>Folder View in Outlook<br>
+IMAP accounts appear in their own grouping within Outlook.  By default, Outlook will display a Personal Folders group (with an Inbox folder).  This is where POP accounts deliver their messages.<br>
+<br>
+For IMAP accounts, such as your FastMail.FM, Outlook will display your folders (and INBOX) under its own group.<br>  An example is depicted in the image below:<br>
+<p><img src="images/outlook2010/7folderview.jpg" width="235" height="614">
+<br>
+</p></li>
+<li>Set IMAP Inbox as a Favorite<br>
+It is often convenient to set the Inbox within your account as a Favorite folder within Outlook.<br>
+This is performed by right-clicking on the folder in your account and selecting <strong>Show in Favorites</strong>.<br>
+<p><img src="images/outlook2010/8favorite.jpg" width="307" height="354">
+<br>
+</p></li>
+<li>Display all Account Folders<br>
+Right click on any folder in your account listing and select <strong>IMAP Folders...</strong>.<br> 
+<p><img src="images/outlook2010/9imapfolders.jpg" width="257" height="327">
+<br><br>
+Set Outlook to always display all of your account folders.<br>
+<strong>Un-check</strong> the box for <strong>When Displaying Hierarchy in Outlook...</strong><br>
+<br>
+You may also want to press the <strong>Query</strong> button.<br>
+When the folder list appears, you may want to subscribe to your Junk Mail and Sent Items folders.<br>
+Press <strong>OK</strong> when complete.<br>
+<img src="images/outlook2010/10imapdialog.jpg" width="508" height="317">
+<br>
+</p></li>
+<li>Set the Deleted Items location<br>
+Now that we are sure Outlook can see all of your account folders, we must tell Outlook to save use the Trash folder correctly.<br><br>
+Using the menu, choose <strong>Tools / Accounts...</strong>.<br>
+The account list will appear.  Highlight your newly created account, press the <strong>Change...</strong> button.<br>
+Click on <strong>More Settings...</strong><br>
+Next click on the <strong>Deleted Items</strong> tab.<br>
+Locate and highlight your <strong>Trash</strong> folder.<br>
+<p><img src="images/outlook2010/11deleted.jpg" width="395" height="454">
+<br>
+</p></li>
+<li>Set the Sent Items location<br>
+Next we will set Outlook to save all of your sent email messages inside your account.<br><br>
+Click on the <strong>Sent Items</strong> tab.<br>
+Locate and highlight your <strong>Sent Items</strong> folder.<br><br>
+This process will tell Outlook to save all of your sent email messages to the folders within your account.<br><br>
+Press <strong>OK</strong> when you have finished.<br>
+<p><img src="images/outlook2010/12sent.jpg" width="390" height="449">
+<br>
+Press <strong>Next</strong> followed by <strong>Finish</strong> to save your new settings.<br>
+<br>
+Your account has now been successfully setup within Microsoft Outlook 2010.<br>
+
+<br></p></li>
+</ol>
+</div>
+<div class="section">
+<h3>Special Notes</h3>
+<p>
+Microsoft Outlook 2010 is still in beta and is not considered final.  These directions may change in the future.
+</p></div>
+<br>
+<p><i>Last modified on: <b>Mon Mar 4 18:00:00 UTC 2010</b></i></p>
+ 
+  <b class="t"></b><b class="l"></b><b class="t l"></b><b class="t r"></b><b class="b l"></b>
+</div>
+</div>
+</div>
+  <div id="copyright"><a href="./index.html">Home</a> Copyright (c) FastMail.FM 2008-2010</div>
+ 
+
+
+</body></html>

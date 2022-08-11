@@ -1,0 +1,667 @@
+<html><head></head><body onload="MM_preloadImages('images/menus/b1m.jpg','images/menus/b2m.jpg','images/menus/b3m.jpg','images/menus/b20m.jpg','images/menus/b5m.jpg','images/menus/b6m.jpg','images/menus/b7m.jpg','images/menus/b8m.jpg','images/menus/b9m.jpg','images/menus/b10m.jpg','images/menus/b11m.jpg','images/menus/b12m.jpg','images/menus/b18m.jpg','images/menus/b19m.jpg','images/menus/b13m.jpg','images/menus/b14m.jpg','images/menus/b15m.jpg','images/menus/b16m.jpg','images/menus/onlinepaym.jpg','images/menus/b21m.jpg','images/menus/privacy_notice_mo.jpg','images/menus/b17m.jpg')"><cfset pagetitle="Animal Control Denver CO Pest Wildlife Removal Services for Denver and Aurora Colorado">
+<cfset pagedescription="Denver Animal Control, Aurora Animal Control, CO Pest Wildlife Removal Services for the Denver and Aurora CO area.">
+<cfset pagekeywords="denver animal control, aurora animal control, co animal control, animal removal, wildlife removal, squirrel, raccoon, skunk, bat, pigeon">
+
+
+
+<title>Nationwide Animal Removal, Animal Control, Wildlife Removal</title>
+
+<meta name="description" content="#pagedescription#">
+<meta name="keywords" content="#pagekeywords#">
+<meta name="robots" content="index,follow">
+<meta name="revisit-after" content="10 days">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" src="styles/menuscript.js"></script>
+<link href="styles/page_styles.css" rel="stylesheet" type="text/css">
+<meta name="verify-v1" content="Qt/ANlSaFAiO9JX3HkjEXIxx4jx6eHdQ79QekCf3bJE=">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3940890-26']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<table width="971" border="0" align="center" cellpadding="0" cellspacing="0">  
+    <tbody><tr><td valign="top">
+</td></tr><tr>
+    <td valign="top"><!--header table start--><table width="972" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#003D11">
+      <tbody><tr valign="top">
+        <td width="37" background="/images/design/bgtop.jpg"><div align="left"><a href="index.html"><img src="/images/design/aallanimal.jpg" alt="A AALL ANIMAL CONTROL" width="323" height="189" border="0"></a></div></td>
+        <td width="17"><img src="/images/design/header_img1.jpg" alt="The Most Gentle and Complete Wildlife Service or it’s FREE!" width="258" height="189"></td>
+        <td width="918"><table width="391" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="top"><table width="391" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr valign="top">
+                <td width="367"><div align="right">
+                  <table width="350" height="64" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td><div align="right">
+                        <table width="260" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr valign="top">
+                            <td><a href="http://aaacracing.blogspot.com/" target="_blank"><img src="/images/design/aaac_racing.jpg" alt="AAAC Racing Blog" width="79" height="38" border="0"></a></td>
+                            <td><a href="http://aallanimalcontrol.blogspot.com/" target="_blank"><img src="/images/design/nuisance_wildlife_pros.jpg" alt="Nuisance Wildlife Pros Blog" width="96" height="38" border="0"></a></td>
+                            <td><a href="http://www.facebook.com/pages/Charleston-WV/A-All-Animal-Control/98516441472?ref=ts#" target="_blank"><img src="/images/design/facebook.jpg" alt="Become a fan on Facebook" width="95" height="38" border="0"></a></td>
+                            <td><a href="http://twitter.com/Wildpests" target="_blank"><img src="/images/design/twitter.jpg" alt="Follow us on Twitter" width="77" height="38" border="0"></a></td>
+                          </tr>
+                        </tbody></table>
+                      </div></td>
+                    </tr>
+                  </tbody></table>
+                </div></td>
+                <td width="24"><a name="top"></a></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="/images/design/header_img2.jpg" alt="" width="391" height="125"></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+  </td></tr><tr>
+    <td valign="top"><!--center table start--><table width="972" border="0" cellpadding="0" cellspacing="0" bgcolor="#F7F2D1">
+      <tbody><tr valign="top">
+        <td width="159" background="images/design/leftside_bg.jpg"><img src="images/design/leftside_img1.jpg" alt="" width="159" height="31"></td>
+        <td><table width="813" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr valign="top">
+            <td width="54"><img src="images/design/content_top_strip2.jpg" alt="" width="673" height="31"></td>
+            <td width="24"><a href="index.html"><img src="images/design/home.jpg" alt="Home" width="33" height="31" border="0"></a></td>
+            <td width="24"><a href="mailto:info@aallanimalcontrol.com"><img src="images/design/email.jpg" alt="Email" width="33" height="31" border="0"></a></td>
+            <td width="735"><img src="images/design/content_top_strip3.jpg" alt="" width="75" height="31"></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr valign="top">
+        <td background="images/design/leftside_bg.jpg"><table border="0" width="2%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+  	<td>
+    <style>.goog-te-gadget, .goog-te-gadget span { display: block; }</style>
+    <div id="google_translate_element" style="width: 150px; padding-left: 7px;"></div><script>
+	function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({
+		pageLanguage: 'en'
+	  }, 'google_translate_element');
+	}
+	</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </td>
+  </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+    </tr>
+
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b1','','images/menus/b1m.jpg',1)"><img src="images/menus/b1.jpg" alt="Home" name="b1" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/locations.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b2','','images/menus/b2m.jpg',1)"><img src="images/menus/b2.jpg" alt="Locations" name="b2" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/dontdiy.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b2a','','images/menus/b2am.jpg',1)"><img src="images/menus/b2a.jpg" alt="Don't DIY!" name="b2a" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/benefits.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b3','','images/menus/b3m.jpg',1)"><img src="images/menus/b3.jpg" alt="Benefits" name="b3" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/services.html" onmouseover="MM_swapImage('Image1','','images/menus/b20m.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/b20.jpg" alt="Services" name="Image1" width="153" height="19" border="0" id="Image1"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/faqs.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b5','','images/menus/b5m.jpg',1)"><img src="images/menus/b5.jpg" alt="FAQ's" name="b5" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/testimonial.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b6','','images/menus/b6m.jpg',1)"><img src="images/menus/b6.jpg" alt="Testimonials" name="b6" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/workreq.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b7','','images/menus/b7m.jpg',1)"><img src="images/menus/b7.jpg" alt="Schedule An Appointment" name="b7" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/prop.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b8','','images/menus/b8m.jpg',1)"><img src="images/menus/b8.jpg" alt="Property Managers" name="b8" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/woodpecker.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b9','','images/menus/b9m.jpg',1)"><img src="images/menus/b9.jpg" alt="Woodpecker Control" name="b9" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/pdf/coupon.pdf" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b10','','images/menus/b10m.jpg',1)" target="_blank"><img src="images/menus/b10.jpg" alt="Online Coupon" name="b10" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/wild-consult.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b11','','images/menus/b11m.jpg',1)"><img src="images/menus/b11.jpg" alt="Free Consultation" name="b11" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/franchise.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b12','','images/menus/b12m.jpg',1)"><img src="images/menus/b12.jpg" alt="Franchise Opportunities" name="b12" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.wildlifedamagecontrol.com" target="wildlifedamagecontrol" onmouseover="MM_swapImage('b18','','images/menus/b18m.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/b18.jpg" alt="Wildlife Store" name="b18" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/partner.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b19','','images/menus/b19m.jpg',1)"><img src="images/menus/b19.jpg" alt="Affiliate Program" name="b19" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/franchise/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b13','','images/menus/b13m.jpg',1)"><img src="images/menus/b13.jpg" alt="Franchise Owners" name="b13" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/employ.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b14','','images/menus/b14m.jpg',1)"><img src="images/menus/b14.jpg" alt="Employment" name="b14" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/relosites.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b15','','images/menus/b15m.jpg',1)"><img src="images/menus/b15.jpg" alt="Relocation Sites Needed" name="b15" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="http://www.aallanimalcontrol.com/comments.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b16','','images/menus/b16m.jpg',1)"><img src="images/menus/b16.jpg" alt="Comments Suggestions" name="b16" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top"><a href="https://aallanimalcontrol.com/online_pay.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('OnlinePay','','images/menus/onlinepaym.jpg',1)"><img src="images/menus/onlinepay.jpg" alt="Online Bill Payment" name="OnlinePay" border="0"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="http://www.aallanimalcontrol.com/financing.html" onmouseover="MM_swapImage('b21','','images/menus/b21m.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/b21.jpg" alt="Financing" name="b21" width="153" height="20" border="0" id="b21"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="http://www.aallanimalcontrol.com/privacy.html" onmouseover="MM_swapImage('privacy_notice','','images/menus/privacy_notice_mo.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/privacy_notice.jpg" alt="Privacy Notice" name="privacy_notice" width="153" height="19" border="0" id="privacy_notice"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="http://www.aallanimalcontrol.com/animal_control_links.html" onmouseover="MM_swapImage('links','','images/menus/links_mo.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/links.jpg" alt="Links" name="links" width="153" height="19" border="0" id="links"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="http://www.aallanimalcontrol.com/sitemap.html" onmouseover="MM_swapImage('sitemap','','images/menus/sitemap_mo.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/sitemap.jpg" alt="Site Map" name="sitemap" width="153" height="19" border="0" id="sitemap"></a></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="mailto:info@aallanimalcontrol.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b17','','images/menus/b17m.jpg',1)"><img src="images/menus/b17.jpg" alt="Contact Us" name="b17" border="0"></a></td>
+  </tr>
+    <tr>
+    <td valign="top"><a href="http://www.aallanimalcontrol.com/racing/index.html" onmouseover="MM_swapImage('racing','','images/menus/racing_program_mo.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/menus/racing_program.jpg" alt="Racing Program" name="Racing Program" width="153" height="19" border="0" id="racing"></a></td>
+  </tr>
+</tbody></table></td>
+        <td width="813"><!--content table start-->
+          <table width="813" border="0" cellpadding="0" cellspacing="0" bgcolor="#F7F2D2">
+            <tbody><tr>
+              <td valign="top"><table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody><tr valign="top">
+                    <td><div align="center"><img src="images/subheaders/title_denver.gif" alt="AAAC of Denver" width="500" height="75"></div></td>
+                  </tr>
+                  <tr valign="top">
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr valign="top">
+                    <td valign="middle">
+                      <div align="center" class="locationTitle">
+                        <p>Providing all of the Colorado Front Range, including the Denver and<br>Aurora areas, with The Most Gentle and Complete Wildlife Service or it's FREE!</p>
+                      <p>Warning! Before you call any other Wildlife Service, call this FREE consumer awareness message 24 hours a day at 1-888-WILDPESTS</p>
+                      </div>
+                      <table width="750" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr valign="top">
+                          <td width="750">
+                            <div align="left">
+                              <table width="748" border="0" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                  <td valign="top" background="images/strip_left.jpg"><img src="images/box1.jpg" width="35" height="34"></td>
+                                  <td bgcolor="#FDFDFD"><img src="images/box2.jpg" width="678" height="34"></td>
+                                  <td valign="top" background="images/strip_right.jpg"><img src="images/box3.jpg" width="35" height="34"></td>
+                                </tr>
+                                <tr>
+                                  <td width="35" valign="top" background="images/box4.jpg"><img src="images/box4.jpg" width="35" height="7"></td>
+                                  <td width="678" bgcolor="#FDFDFD"><table width="678" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td valign="top"><div align="center">
+                                            <table width="678" border="0" cellspacing="0" cellpadding="0">
+                                              <tbody><tr valign="top">
+                                                <td width="451" height="604"><p><span style="font-weight: bold">A All Animal Control of Denver</span><br>
+                                                	14405 W. Colfax Ave #308<br>
+                                                    Lakewood, CO 80401<br>
+			                                          303-452-2113 Office Phone<br>
+			                                          303-452-7572 Fax<br>
+			                                          Email <a href="mailto:denver@aallanimalcontrol.com">A All Animal Control of Denver</a> at:<br>
+			                                          <a href="mailto:denver@aallanimalcontrol.com">denver@aallanimalcontrol.com</a> </p>
+			                                          <p>Click Here For Your Free Report:<br>
+			                                              <a href="howtochoosereport.html?state=CO">How To Choose A Professional Wildlife Company</a></p>
+			                                          <p>Click here for your Free report :<br>
+			                                              <a href="howtosavereport.pdf">How to Save Money on Wildlife Control Services</a><br>
+			                                          </p>
+																	<p>Licensed, Insured and Bonded
+																	</p>
+			                                          <p>Would You Like To Buy An Animal Control Franchise? <br>
+			                                          Colorado Areas are available.<br>
+			                                          Find Out More By Visiting: <a href="http://www.aallanimalcontrol.com/franchise.html" target="_blank">www.Animal-Control-Franchise.com</a></p>
+			                                          <p align="left">&nbsp;</p>
+			                                          <p align="left"><font size="3" face="arial">A All Animal Control is constantly in need of relocation sites. As urban sprawl increases we lose more land for the wildlife. We must rely on the generosity of private landowners to provide our relocation sites. We are currently looking for landowners in Denver and the surrounding areas who will allow us to relocate wildlife onto their land.</font></p>
+			                                          <p align="left"><font size="3" face="arial">If you are interested in providing a relocation site <a href="reloagree.html" class="blue"><font color="blue">click here</font></a>.</font></p>
+			                                          <font face="arial" size="3">&nbsp; </font>
+			                                          <p align="left"><font color="#003E10" size="3" face="arial"><b>What our clients say about us!</b></font></p>
+			                                          <p align="left"><font size="3" face="arial">Because AAAC's wonderful job well done for my house, I will introduce your business to all of my clients in the future.<br>
+			                                          <i>Margaret - Centennial, Co. 80112<br>
+			                                          Homet Real Estate Agent </i>Thanks to AAAC, I can finally sleep<br>
+			                                          at night! I hear no more noises in my attic, it was a relief having<br>
+			                                          the raccoons removed from the attic.<br>
+			                                          <i>Daniel - Boulder, Co</i></font></p>
+                                                    <p align="left"><font size="3" face="arial">I appreciate AAAC for coming out on Sunday to resolve my<br>
+                                                    snake problem. It was nice not taking time off work.<br>
+                                                          <i>Colleen - Westminster, Co.</i></font></p></td>
+                                                <td width="227"><table width="227" border="0" align="right" cellpadding="0" cellspacing="0">
+                                                    <tbody><tr>
+                                                      <td valign="top"><img src="images/blue_shade_top.jpg" alt="" width="227" height="27"></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td valign="top" background="images/blue_shade_bg.jpg"><table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                          <tbody><tr>
+                                                            <td valign="top">
+																				<form name="ccoptin" method="post" action="http://ui.constantcontact.com/d.jsp" target="_blank" style="margin-bottom:3;">
+<div align="center">
+<div style="width:160; background-color: #ffffff;">
+<span style="background-color: #006699; float:right;margin-right:5;margin-top:3"><img src="http://img.constantcontact.com/ui/images1/visitor/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span> <font style="font-weight: bold; font-family:Georgia,'Times New Roman',Times,serif; font-size:16px; color:#006699;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit" style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="m" value="1101389220748">
+<input type="hidden" name="p" value="oi">
+</div>
+</div>
+</form>
+<!-- END: Constant Contact Stylish Email Newsletter Form -->
+<!-- BEGIN: SafeSubscribe -->
+<div align="center" style="padding-top:5px;"> 
+<a href="http://www.constantcontact.com/safesubscribe.jsp" target="_blank"><img src="http://img.constantcontact.com/ui/images1/safe_subscribe_logo.gif" border="0" width="168" height="14" alt=""></a> 
+</div>
+<!-- END: SafeSubscribe -->
+<!-- BEGIN: Email Marketing you can trust -->
+<div align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;"> 
+For <a href="http://www.constantcontact.com/index.jsp" style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;" target="_blank">Email Marketing</a> you can trust 
+</div>
+																				</td>
+                                                          </tr>
+                                                        </tbody></table>
+                                                          <p align="center"><img src="images/certifiedwildlife.gif" alt="" width="159" height="158"><br>
+                                                              <img src="images/bat_approved.jpg" alt="" width="154" height="149"> <br>
+                                                              <img src="images/bird_barrier.gif" alt="" width="155" height="105"><br>
+																				 <img src="images/birdbgone.gif" width="150" height="118"></p>
+                                                          <p align="center">
+                                                            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="161" height="203">
+                                                              <param name="movie" value="stamp.swf">
+                                                              <param name="quality" value="high">
+                                                              <embed src="stamp.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="161" height="203">
+                                                            </object>
+                                                            <br>
+                                                            <span class="smaltxt"> If it doesn't have our stamp on it,<br>
+                                                it's just an inspection!</span><br>
+                                                        </p></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td valign="top"><img src="images/blue_shade_bottom.jpg" alt="" width="227" height="24"></td>
+                                                    </tr>
+                                                  </tbody></table>
+                                                    <p align="center">&nbsp;</p></td>
+                                              </tr>
+                                            </tbody></table>
+                                        </div></td>
+                                      </tr>
+                                  </tbody></table></td>
+                                  <td width="36" valign="top" background="images/box5.jpg"><img src="images/box5.jpg" width="35" height="10"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" background="images/strip_left.jpg"><img src="images/box6.jpg" width="35" height="35"></td>
+                                  <td background="images/box7.jpg" bgcolor="#FDFDFD">&nbsp;</td>
+                                  <td valign="top" background="images/strip_right.jpg"><img src="images/box8.jpg" width="35" height="35"></td>
+                                </tr>
+                              </tbody></table>
+                          </div></td>
+                        </tr>
+                        <tr valign="top">
+                          <td>&nbsp;</td>
+                        </tr>
+                    </tbody></table></td>
+                  </tr>
+                  <tr valign="top">
+                    <td><div>
+                        <table width="750" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr><td colspan="5"><div align="center"><strong>Please click on the wildlife pictures below to learn more about the wildlife we control!</strong></div></td></tr>
+                          <tr valign="bottom">
+                            <td><div align="center"><a href="bat_removal_denver_colorado.html"><img src="images/bat.jpg" alt="Bat" width="123" height="101" border="0"></a></div></td>
+                            <td><div align="center"><a href="bird_removal_denver_colorado.html"><img src="images/bird.jpg" alt="Bird" width="125" height="101" border="0"></a></div></td>
+                            <td><div align="center"><a href="chipmunk_removal_denver_colorado.html"><img src="images/chipmunk.jpg" alt="Chipmunk" width="124" height="101" border="0"></a></div></td>
+                            <td><div align="center"><a href="deer_removal_denver_colorado.html"><img src="images/deer.jpg" alt="Deer" width="124" height="117" border="0"></a></div></td>
+                            <td><div align="center"><a href="fox_coyote_removal_denver_colorado.html"><img src="images/fox_coyote.jpg" alt="Fox and Coyote" width="127" height="117" border="0"></a></div></td>
+                          </tr>
+                          <tr valign="bottom">
+                            <td><div align="center"><a href="goose_removal_denver_colorado.html"><img src="images/goose.jpg" alt="Goose" width="127" height="116" border="0"></a></div></td>
+                            <td><div align="center"><a href="gopher_removal_denver_colorado.html"><img src="images/gopher.jpg" alt="Gopher" width="127" height="113" border="0"></a></div></td>
+                            <td><div align="center"><a href="mice_removal_denver_colorado.html"><img src="images/mice_rat.jpg" alt="Mice and Rat" width="127" height="103" border="0"></a></div></td>
+                            <td><div align="center"><a href="prairie_dog_removal_denver_colorado.html"><img src="images/prairie_dog.jpg" alt="Prairie Dog" width="127" height="119" border="0"></a></div></td>
+                            <td><div align="center"><a href="rabbit_removal_denver_colorado.html"><img src="images/rabbit.jpg" alt="Rabbit" width="127" height="103" border="0"></a></div></td>
+                          </tr>
+                          <tr valign="bottom">
+                            <td><div align="center"><a href="raccoon_removal_denver_colorado.html"><img src="images/raccoon.jpg" alt="Raccoon" width="127" height="105" border="0"></a></div></td>
+                            <td><div align="center"><a href="skunk_removal_denver_colorado.html"><img src="images/skunk.jpg" alt="Skunk" width="127" height="103" border="0"></a></div></td>
+                            <td><div align="center"><a href="snake_removal_denver_colorado.html"><img src="images/snake.jpg" alt="Snake" width="127" height="105" border="0"></a></div></td>
+                            <td><div align="center"><a href="squirrel_removal_denver_colorado.html"><img src="images/squirrel.jpg" alt="Squirrel" width="127" height="119" border="0"></a></div></td>
+                            <td><div align="center"><a href="vole_removal_denver_colorado.html"><img src="images/vole.jpg" alt="Vole" width="127" height="103" border="0"></a></div></td>
+                          </tr>
+                        </tbody></table>
+                        <p> A All Animal Control is your local wildlife experts and are commonly called upon to control Bats, Bees, Birds, Beaver, Cats, Coyotes, Chipmunks, Deer, Flickers, Fox, Geese, Gophers, Gulls, Groundhogs, Moles, Muskrat, Opossum, Pigeons, Pocket Gophers, Prairie Dogs, Raccoons, Seagulls, Skunks, Snakes, Squirrels, Sparrows, Starlings, Swallows, Turtles, Voles, Wasps, Woodpeckers and Yellow Jackets.</p>
+                        <p>We specialize in the removal of squirrels, raccoons, skunks, bats, and pigeons.</p>
+                        <p>Proudly serving the greater metropolitan area of Denver and Aurora CO and surrounding communities.</p>
+                        <p>We also service the city, cities and towns of Arvada, Aurora, Bailey, Bennett, Berthoud, Brighton, Broomfield, Boulder, Bow Mar, Campion, Castle Rock, Centennial, Cherry Hills Village, Colorado Springs, Commerce City, Conifer, Denver, Edgewater, Evergreen, Federal Heights, Foxfield, Franktown, Fort Collins, Glendale, Golden, Greenwood Village, Gun Barrel, Highlands Ranch, Indian Hills, Lafayette, Lakewood, La Salle, Littleton, Longmont, Loveland, Louisville, Morrison, Mountain View, Niwot, Northglenn, Parker, Sedalia, Sheridan, Sherrelwood, Superior, Thornton, Watkins, Welby, Westminster, and Wheat Ridge.</p>
+                        <p>The county or counties that A All Animal Control services are Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, Elbert, El Paso, Jefferson, Larimer &amp; Weld.</p>
+                        <p>A All Animal Control, a Nuisance Wildlife Management company is a leader in providing wildlife, animal and pest control services for residential, industrial and commercial clients in Denver and Aurora Colorado and surrounding communities. We can handle any wildlife control problem from mice to deer and provide incredible service while using the latest technology and equipment. To control wildlife requires a qualified and experienced expert to assure you of expert care of your wildlife problem.</p>
+                        <p>Don't confuse the modern day nuisance wildlife control professional with the old time animal trapper or animal pest trapper.</p>
+                        <p>Your wildlife expert has been specially trained in the control of wildlife specific to Denver and Aurora, Colorado and will take care of the problem in the most gentle and humane way possible. All wildlife experts of A All Animal Control undergo a rigorous training program for wildlife control in order to give you the most efficient and cost effective solution to your problem. Their wildlife professionals are licensed and insured for your protection and comply with all laws regarding wildlife control. </p>
+                        <p>A wildlife expert is just a phone call away and can often assist with your Denver and Aurora, Colorado wildlife control needs the very same day. <span style="font-weight: bold">Call us at 303-452-2113</span> to put an end to that annoying wildlife problem and control damage wildlife causes.</p>
+                        <p style="font-weight: bold">Beware of companies that are not licensed and insured or charge a ridiculously low price for wildlife control. These are red flags that the company is not qualified, insured or licensed. If they damage your property or become injured on your property, you may be held liable!</p>
+                        <p>A All Animal Control services the following area zip codes and will fully resolve your wildlife problem!</p>
+                        <p>80002, 80003, 80004, 80005, 80010, 80011, 80012, 80013, 80014, 80015, 80016, 80017, 80018, 80020, 80021, 80022, 80023, 80026, 80027, 80030, 80031, 80033, 80104, 80108, 80110, 80111, 80112, 80113, 80120, 80121, 80122, 80123, 80124, 80125, 80126, 80127, 80128, 80129, 80130, 80134, 80138, 80202, 80203, 80204, 80205, 80206, 80207, 80209, 80210, 80211, 80212, 80214, 80215, 80216, 80218, 80219, 80220, 80221, 80222, 80223, 80224, 80226, 80227, 80228, 80229, 80230, 80231, 80232, 80233, 80234, 80235, 80236, 80237, 80238, 80239, 80241, 80246, 80247, 80249, 80301, 80302, 80303, 80304, 80305, 80320, 80401, 80403, 80465, 80501, 80503, 80516, 80601, 80602, 80603, 80640, 80643, 90746 </p>
+                        <p>A raccoon, skunk, snake, opossum, groundhog or cat in a cellar can destroy the insulation and leave disease infested waste behind. An animal in a cellar may also enter the home and put the occupants at risk of being bitten.</p>
+                        <p>A raccoon or opossum entering through a cat or pet door is another service that we can provide. We will capture that animal and recommend a better solution to your pet needs.</p>
+                        <p>Services are provided for deceased and or dead pet and dead animal removal.</p>
+                        <p>Bird and pigeon control are services we provide through installing bird spikes, bird netting and bird exclusion. Pigeon trapping using pigeon traps and mist netting is also available. A mist net is a fine mesh net used to capture smaller birds such as birds in a store.</p>
+                        <p>Companies like Orkin and Terminix control insects. If you need a professional to control your wildlife problem, our specially trained technicians will quickly resolve the situation.</p>
+                        <p>If you are experiencing a problem with any of these animals and you need a pest control specialist and professional solution from a pest management company, call the animal experts at A All Animal Control. Wildlife trapping is an important part of wildlife removal services and providing environmentally safe ways to control wildlife is important for their protection.</p>
+                      </div>
+                        <table width="750" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr valign="top">
+                            <td width="245"><p>
+							Abert Squirrel<br>
+							Albert Squirrel<br>
+                    Albert's Squirrel<br>
+                    Alligator<br>
+                    Alligator Lizard<br>
+                    Armadillo<br>
+                    Badger <br>
+                    Barn Swallow<br>
+                    Bat<br>
+                    Beaver <br>
+                    Bear <br>
+                    Big Brown Bat<br>
+                    Bird<br>
+                    Black Bear<br>
+                    Black &amp; White Striped Skunk<br>
+                    Blackbird<br>
+                    Black Bird<br>
+                    Black Snake<br>
+                    Black Rat Snake<br>
+                    Black Squirrel<br>
+                    Black Tail Deer<br>
+                    Blue Heron<br>
+                    Bluejay<br>
+                    Bobcat <br>
+                    Box Turtle<br>
+                    Bull Frog<br>
+                    Bull Snake<br>
+                    Bullsnake<br>
+                    Buzzard<br>
+                    California Ground Squirrel<br>
+                    Canada Geese<br>
+                    Canada goose<br>
+                    Canadian Geese<br>
+                    Canine<br>
+                    Cardinal <br>
+                    Cat<br>
+                    Cat House <br>
+                    Cat Feral<br>
+                    Chicaree<br>
+                    Chicken<br>
+                    Chimney Swift<br>
+                    Chipmunk<br>
+                    Civet Cat<br>
+                    Civit Cat<br>
+                    Cliff Swallow<br>
+                    Coati<br>
+                    Columbia Deer<br>
+                    Coon<br>
+                    Copperhead Snake<br>
+                    Coral Snake<br>
+                    Corn Snake<br>
+                    Cotton Mouth Snake<br>
+                    Coyote<br>
+                    Cougar <br>
+                    Crane<br>
+                    Crayfish<br>
+                    Crawfish<br>
+                    Crocodile <br>
+                    Crow<br>
+                    Deer Mouse<br>
+                    Deer<br>
+                    Den<br>
+                    Dog<br>
+                    Douglas Squirrel<br>
+                    Dove<br>
+                    Downy Woodpecker<br>
+                    Eastern Diamondback Rattlesnake<br>
+                    Eastern Mole<br>
+                    Egret<br>
+                    Elk<br>
+                    English Sparrow<br>
+                    Ermine<br>
+                    Feline<br>
+                    Feral Hog<br>
+                    Feral Pig<br>
+                    Ferret<br>
+                    Flying Squirrel<br>
+                    Fox <br>
+                    Fox Squirrel<br>
+                    Fisher <br>
+                    Flicker<br>
+                    Flying Rat<br>
+                    Frog</p></td>
+                            <td width="246"> Garter Snake<br>
+                  Garden Snake<br>
+                  Gardener Snake<br>
+                  Gecko<br>
+                  Geese<br>
+                  Goose<br>
+                  Gopher<br>
+                  Grackle<br>
+                  Gray Fox<br>
+                  Grey Fox<br>
+                  Gray Squirrel<br>
+                  Grey Squirrel<br>
+                  Gray Wolf<br>
+                  Great Blue Heron<br>
+                  Groundhog<br>
+                  Ground Squirrel<br>
+                  Gull<br>
+                  Guinea Pig<br>
+                  Hamster<br>
+                  Hare<br>
+                  Heron<br>
+                  Honey Bee<br>
+                  Hog Nosed Skunk<br>
+                  Horses Feral <br>
+                  House Sparrow<br>
+                  Iguana<br>
+                  Jackrabbit <br>
+                  Jaguar<br>
+                  King Snake<br>
+                  Kit Fox<br>
+                  Lemming<br>
+                  Little Brown Bat<br>
+                  Litter<br>
+                  Lizard<br>
+                  Long Tailed Weasel<br>
+                  Lynx<br>
+                  Magpie <br>
+                  Marmot<br>
+                  Marten<br>
+                  Martin<br>
+                  Meadow Vole<br>
+                  Mice<br>
+                  Milk Snake<br>
+                  Mink<br>
+                  Mocassin <br>
+                  Moccasin <br>
+                  Mole <br>
+                  Moose <br>
+                  Mourning Dove<br>
+                  Mountain Beaver <br>
+                  Mountain Lion<br>
+                  Mouse House <br>
+                  Mule Deer<br>
+                  Muskrat <br>
+                  Nest<br>
+                  Northern Flying Squirrel<br>
+                  Nuthatch<br>
+                  Nutria <br>
+                  Opossum <br>
+                  Otter River<br>
+                  Otter <br>
+                  Peacock<br>
+                  Peccary<br>
+                  Pika<br>
+                  Pig Feral <br>
+                  Pileated Woodpecker<br>
+                  Pigeon<br>
+                  Pine Squirrel<br>
+                  Pocket Gopher<br>
+                  Possum <br>
+                  Prairie Dog<br>
+                  Prairie King Snake<br>
+                  Puma<br>
+                  Pup<br>
+                  Pups<br>
+                  Porcupine <br>
+                  Rabbit Cottontail <br>
+                  Racer<br>
+                  Raccoon<br>
+                  Racoon <br>
+                  Rat Black<br>
+                  Rat Cotton <br>
+                  Rat Kangaroo<br>
+                  Rat Norway </td>
+                            <td width="259"> Rat Pack<br>
+                  Rat Roof <br>
+                  Rat River<br>
+                  Rat Wharf<br>
+                  Rat Wood<br>
+                  Rat<br>
+                  Rat Snake<br>
+                  Raven<br>
+                  Red Fox<br>
+                  Red Squirrel<br>
+                  Red Wolf<br>
+                  Reptile<br>
+                  Ringneck Snake<br>
+                  Ringtail<br>
+                  Robin<br>
+                  Salamander<br>
+                  Sapsucker<br>
+                  Sea Gull<br>
+                  Sea Otter<br>
+                  Short Tailed Weasel<br>
+                  Shrew<br>
+                  Sidewinder<br>
+                  Skink<br>
+                  Skunk<br>
+                  Skonk<br>
+                  Southern Flying Squirrel<br>
+                  Sparrow<br>
+                  Striped Skunk<br>
+                  Spotted Skunk<br>
+                  Hooded Skunk<br>
+                  Snapping Turtle <br>
+                  Snake<br>
+                  Squirrels Flying <br>
+                  Squirrels Fox <br>
+                  Squirrels Gray <br>
+                  Squirrels Grey<br>
+                  Squirrels Red<br>
+                  Squirrels Albert's<br>
+                  Squirrels Pine<br>
+                  Squirrels Douglas<br>
+                  Squirrels Black<br>
+                  Squirrel <br>
+                  Squirell<br>
+                  Sqirell<br>
+                  Sqirrel<br>
+                  Star Nosed Mole<br>
+                  Starling<br>
+                  Stork<br>
+                  Swallow<br>
+                  Terrapin<br>
+                  13 Lined Ground Squirrel<br>
+                  Thirteen lined Ground Squirrel <br>
+                  Timber Rattler<br>
+                  Timber Rattlesnake<br>
+                  Timber Wolf<br>
+                  Tree Rat<br>
+                  Tree Rats<br>
+                  Turkey<br>
+                  Turkey Vulture<br>
+                  Turtle<br>
+                  Vaux Swift<br>
+                  Vole <br>
+                  Vulture<br>
+                  Wasp<br>
+                  Water Moccasin<br>
+                  Water Snake<br>
+                  Weasel <br>
+                  Western Diamondback Rattlesnake<br>
+                  Western Pygmy Rattlesnake<br>
+                  Western Skunk<br>
+                  Whistle Pig<br>
+                  Whistlepig<br>
+                  Whitetail Deer<br>
+                  Wild Hog<br>
+                  Wild Pig<br>
+                  Wild Turkey<br>
+                  Wolf <br>
+                  Wolverine<br>
+                  Wood Rat<br>
+                  Woodrat<br>
+                  Woodchuck<br>
+                  Woodpecker<br>
+                  Yellow Jacket</td>
+                          </tr>
+                        </tbody></table>
+                        <p>By hiring an ADC, Animal Damage Control, Animal Damage Control Agent, MAPAC, Problem Animal Controller, NWCO, Nuisance Wildlife Control Operator, Wildlife Management Experts, Wildlife Management Professional. AAAC Certified Wildlife Professional or Wildlife Management Pro, you ensure a professional will be controlling, removing and will get rid of or eliminate the wildlife problem and find the best wildlife solution for the animals that are affecting you. </p>
+                        <p>A qualified and trained technician will provide an affordable wildlife control service to fit your needs and situation. Extermination services are provided in your local area as well as the metropolitan.</p>
+                        <p>A wild critter pest must be controlled using the proper elimination, eradication or critter capture techniques. In most cases we can relocate the wild animal and do not have to kill it. There are occasions when the animal must be exterminated by wild animal services. In such cases, we use proper extermination techniques recommended by the American Veterinary Medical Association or AVMA.</p>
+                        <p>The use of a moth ball or other repellants often fails during the removal process and is not a legal repellant for wildlife. We often find moth balls in the attic or crawl space in use to cover a dead animal odor or smell and the owner is trying to use them as an animal remover product. Dead animal removal and odor control are services we offer for such unpleasant situations in addition to animal exterminating.</p>
+                        <p>If you find a tunnel, mound, run or mole holes, this is evidence that moles are actively working the yard creating this damage. Mole traps are the preferred control method to remove moles and return your lawn to its pristine condition.</p>
+                        <p>By far, the best method is to use a cage, box trap or other similar animal capture device for trapping. Our nuisance wildlife companies use only the best equipment designed for the project they are working on.</p>
+                        <p>A professional knows how to catch and release the captive animal. Once caught, they must abide by their local wildlife laws.</p>
+                        <p>When the animal problem has been removed, proofing, exclusion, repairs and reclamation work can begin. TAP or T.A.P (Thermal Acoustical Insulation) can also be applied by our licensed offices to serve as a deterrent against insect pests.</p>
+                        <p>A All Animal Control technicians are trained and equipped to clean up all waste,<br>hazardous waste, guano, droppings, feces, urine and poop. A thorough cleaning is important to protect your family from diseases.</p>
+                        <p>To make your home safe and secure, our highly skilled repair experts can install insulation screening, screen chimney, cap chimney and repair siding. Our wildlife experts can also perform wildlife damage repair. Wildlife damage inspections are another service provided for property managers, real estate agents, building owners as well as the seller or buyer of a home or commercial building. Wildlife exclusion is performed for insurance companies in additional to confirm damage claims for wildlife. Repairs are warranted for your protection and decontamination services also available. </p>
+                        <p>A All Animal Control ensures professional wildlife control for noises in an attic such as a raccoon, squirrel or bat colony. A pest management company will locate the source of the infestation and resolve it quickly.</p>
+                        <p>The removal of an animal in wall is another custom and expedient procedure provided by A All Animal Control for many species in private residences and commercial properties.</p>
+                        <p>Pest control companies specialize in insect pests. Ensure your protecting by having a professional exterminator of wildlife resolve your wildlife conflict. Our animal trappers perform full inspections and would be happy to set up an appointment at your convenience. </p>
+                        <p>Prevent diseases such as distemper, rabies, hantavirus and histoplasmosis by removing dangerous and potentially diseased and rabid wildlife.</p>
+                        <p>Animal rescue and wildlife animal rescue are specialty services that only a professional can provide. An extension service does not provide live trapping for feral animals or provide live trapping, live catch, animal proofing or nuisance animal pest control services.</p>
+                        <p>Catching animals or rodents in a crawl space, gutter, or vent are other services pest control companies provide. A pest control contractor can trap an animal and provide local pest control as well as wild animal control.</p>
+                        <p> <br>
+                      </p></td>
+                  </tr>
+                  <tr valign="top">
+                    <td><img src="images/design/dotline.jpg" width="747" height="23"></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+          <!--content table end--></td>
+      </tr>
+	<tr valign="top" bgcolor="#013300">
+		<td colspan="2"><table width="972" border="0" cellpadding="0" cellspacing="0">
+		  <tbody><tr>
+		    <td width="160" valign="top" background="/images/design/leftside_img2.jpg"><div align="center"><a href="#top"><img src="/images/design/footer_left.jpg" alt="" width="159" height="69" border="0"></a></div></td>
+		    <td width="812" valign="bottom" bgcolor="#F7F2D1"><img src="/images/design/footer_strip.jpg" alt="" width="814" height="69"></td>
+		  </tr>
+		  <tr valign="middle" bgcolor="#1E571F">
+		    <td height="25" colspan="2">
+			<div align="center" class="ss-sigline"><a href="http://www.2ss.net/" class="ss-hiddenlink" target="_blank">Design</a> and <a href="http://www.coldfusion-hosting-development.com/" class="ss-hiddenlink" target="_blank">Programming</a> by <a href="http://www.strategicsolutions.net/" class="ss-siglink" target="_blank">Strategic Solutions</a></div>
+            </td>
+		  </tr>
+		</tbody></table></td>
+	      </tr>
+	    </tbody></table>
+	    <!--center table end--></td>
+	  </tr>
+	  <tr>
+	    <td valign="top"></td>
+	  </tr>
+	</tbody></table>
+	
+	
+</cfset></cfset></cfset></body></html>

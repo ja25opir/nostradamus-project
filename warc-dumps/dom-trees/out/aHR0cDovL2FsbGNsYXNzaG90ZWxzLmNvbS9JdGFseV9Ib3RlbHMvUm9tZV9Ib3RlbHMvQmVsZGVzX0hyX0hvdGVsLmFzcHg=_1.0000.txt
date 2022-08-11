@@ -1,0 +1,1099 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>Beldes Hr Hotel hotel in Rome, Reservations</title>
+
+<meta name="description" content="Beldes Hr Hotel hotel in Rome, Beldes Hr Hotel hotel Reservations, Rome Beldes Hr Hotel hotel.">
+
+<meta name="keywords" content="cheap hotels,cheap,luxury,accommodation,hotel,reservation,lodging,service,rates,online,travel,booking,information,resorts"><link href="../../../../oldcity.css" rel="stylesheet" type="text/css"><link href="../../../../cwcalendar.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">
+            <!--
+            function popup(mylink, windowname)
+                {
+                if (! window.focus)return true;
+            var href;
+                if (typeof(mylink) == 'string')
+                    href=mylink;
+                else
+                    href=mylink.href;
+                    window.open(href, windowname, 'width=500,height=500,scrollbars=yes');
+                return false;
+                }
+                    function popupMap(mylink, windowname)
+                {
+                if (! window.focus)return true;
+            var href;
+                if (typeof(mylink) == 'string')
+                    href=mylink;
+                else
+                    href=mylink.href;
+                    window.open(href, windowname, 'width=825,height=709,scrollbars=yes');
+                return false;
+                }
+                  function review(mylink, windowname)
+                {
+                if (! window.focus)return true;
+            var href;
+                if (typeof(mylink) == 'string')
+                    href=mylink;
+                else
+                    href=mylink.href;
+                    window.open(href, windowname, 'width=625,height=700,scrollbars=yes');
+                return false;
+                }  
+               //-->
+    </script>
+
+    <link rel="Shortcut Icon" href="../../../../images/favicon.ico" type="images">
+
+    <script type="text/javascript" src="../../../../query-1.2.2.pack.js"></script>
+
+    <script type="text/javascript" src="../../../../animatedcollapse.js"></script>
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAT6C9ySrwiNMDSMcpH3yj4RRl8ygE5MtpGuiDVQq4JBBx3BiSRhSax2AuG9A9EFVMX3lBcbdSgbwySQ" type="text/javascript"></script>
+
+    <script type="text/javascript"> 
+ 
+   
+     function initialize() {
+      if (GBrowserIsCompatible()) {
+        var map = new GMap2(document.getElementById("map_canvas"));
+        map.setCenter(new GLatLng(41.9104321, 12.4657098), 15);
+        var gpObj = new GPoint(12.4657098,41.9104321 );
+        var marker = new GMarker(gpObj);
+        map.addOverlay(marker);
+        GEvent.addListener(marker, "click", function(){
+        alert(marker.getPoint());
+            } );
+
+      }
+    }
+    
+     function popup(mylink, windowname)
+                {
+                if (! window.focus)return true;
+                
+            var href;
+            
+                if (typeof(mylink) == 'string')
+                    href=mylink;
+                else
+                    href=mylink.href;
+                    window.open(href, windowname, 'width=500,height=500,scrollbars=yes');
+                return false;
+ }
+    </script>
+
+
+  
+   
+   
+   <script type="text/javascript">
+<!--
+var BrowserDetect = {
+	init: function () {
+		this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+		this.version = this.searchVersion(navigator.userAgent)
+			|| this.searchVersion(navigator.appVersion)
+			|| "an unknown version";
+		this.OS = this.searchString(this.dataOS) || "an unknown OS";
+	},
+	searchString: function (data) {
+		for (var i=0;i<data.length;i++)	{
+			var dataString = data[i].string;
+			var dataProp = data[i].prop;
+			this.versionSearchString = data[i].versionSearch || data[i].identity;
+			if (dataString) {
+				if (dataString.indexOf(data[i].subString) != -1)
+					return data[i].identity;
+			}
+			else if (dataProp)
+				return data[i].identity;
+		}
+	},
+	searchVersion: function (dataString) {
+		var index = dataString.indexOf(this.versionSearchString);
+		if (index == -1) return;
+		return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+	},
+	dataBrowser: [
+		{ 	string: navigator.userAgent,
+			subString: "OmniWeb",
+			versionSearch: "OmniWeb/",
+			identity: "OmniWeb"
+		},
+		{
+			string: navigator.vendor,
+			subString: "Apple",
+			identity: "Safari"
+		},
+		{
+			prop: window.opera,
+			identity: "Opera"
+		},
+		{
+			string: navigator.vendor,
+			subString: "iCab",
+			identity: "iCab"
+		},
+		{
+			string: navigator.vendor,
+			subString: "KDE",
+			identity: "Konqueror"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "Firefox",
+			identity: "Firefox"
+		},
+		{
+			string: navigator.vendor,
+			subString: "Camino",
+			identity: "Camino"
+		},
+		{		// for newer Netscapes (6+)
+			string: navigator.userAgent,
+			subString: "Netscape",
+			identity: "Netscape"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "MSIE",
+			identity: "Explorer",
+			versionSearch: "MSIE"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "Gecko",
+			identity: "Mozilla",
+			versionSearch: "rv"
+		},
+		{ 		// for older Netscapes (4-)
+			string: navigator.userAgent,
+			subString: "Mozilla",
+			identity: "Netscape",
+			versionSearch: "Mozilla"
+		}
+	],
+	dataOS : [
+		{
+			string: navigator.platform,
+			subString: "Win",
+			identity: "Windows"
+		},
+		{
+			string: navigator.platform,
+			subString: "Mac",
+			identity: "Mac"
+		},
+		{
+			string: navigator.platform,
+			subString: "Linux",
+			identity: "Linux"
+		}
+	]
+
+};
+BrowserDetect.init();
+
+// -->
+</script>
+
+   <script language="javascript" type="text/javascript">
+
+    var XmlHttp;
+    var dump;
+       
+    function DoMyPost(isEnter) 
+    {
+    
+        var url;
+        
+        if(isEnter==1)
+        {
+       
+            dump=guid();
+                if (document.referrer&&document.referrer!="")
+                     {        
+        
+                                    url="http://www.allclasshotels.com/TakipJoin.aspx?dump="+dump+"&refer="+document.referrer+"&Browser="+BrowserDetect.browser + ' ' + BrowserDetect.version + ' on ' + BrowserDetect.OS;
+                                
+                    }
+
+          else     {
+          
+                                    url="http://www.allclasshotels.com/TakipJoin.aspx?dump="+dump+"&refer=directly"+"&Browser="+BrowserDetect.browser + ' ' + BrowserDetect.version + ' on ' + BrowserDetect.OS;
+                        
+                        }
+                       
+        }
+              
+       else if (isEnter==0)
+
+
+        
+                         {
+                                    url="http://www.allclasshotels.com/TakipLeave.aspx?dump="+dump;
+       
+                            }
+        
+        
+        try
+        {
+            XmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        catch(e)
+        {
+            try
+            {
+                XmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            catch(ex)
+            {
+                XmlHttp = null;
+            }
+        }
+       
+       
+        if(!XmlHttp && typeof XMLHttpRequest != "undefined")
+        {
+            XmlHttp = new XMLHttpRequest();
+        }
+        
+        if(XmlHttp)
+        {
+            //XmlHttp.onreadystatechange=state_Change;
+            XmlHttp.open("GET", url,  true);
+            XmlHttp.send(null);           
+        }
+        
+ 
+
+        
+        function S4() 
+        {
+           return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+        }
+        
+        function guid()
+        {
+           return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
+        }
+
+     }
+    
+    </script>
+       
+
+<title>
+
+</title></head>
+<body onload="initialize();DoMyPost(1);" onunload="DoMyPost(0);" style="margin-left: 0px; margin-right: 0px">
+    <form name="form1" method="post" action="/hotelshoow.aspx?hotelid=38" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkxMTU1NjM2Ng9kFgICAw9kFiYCCQ9kFgJmD2QWBAIBDxBkDxYCAh0CHhYCEGRkZxBkZGgWAQIYZAIDDxBkZBYBAghkAhUPZBYCAgEPDxYCHgRUZXh0BcsFUm9tZSBpcyB0aGUgY2FwaXRhbCBjaXR5IG9mIEl0YWx5IGFuZCBMYXppbywgYW5kIGlzIEl0YWx5J3MgbGFyZ2VzdCBhbmQgbW9zdCBwb3B1bG91cyBjaXR5LCB3aXRoIDIsNzA1LDMxNyByZXNpZGVudHMsIGFuIHVyYmFuIGFyZWEgb2YgMyw0NTcsNjkwIGFzIHdlbGwgYXMgYSBtZXRyb3BvbGl0YW4gYXJlYSBvZiA0LDAxMywwNTcgaW5oYWJpdGFudHMgc3ByZWFkIG92ZXIgYSA1LDM1MiBrbcKyIGFyZWEuIEl0IGlzIGxvY2F0ZWQgaW4gdGhlIGNlbnRyYWwtd2VzdGVybiBwb3J0aW9uIG9mIHRoZSBJdGFsaWFuIHBlbmluc3VsYSwgb24gdGhlIFRpYmVyIHJpdmVyLg0KUm9tZSdzIGhpc3RvcnkgYXMgYSBjaXR5IHNwYW5zIG92ZXIgdHdvIGFuZCBhIGhhbGYgdGhvdXNhbmQgeWVhcnMsIGFzIG9uZSBvZiB0aGUgZm91bmRpbmcgY2l0aWVzIG9mIFdlc3Rlcm4gQ2l2aWxpemF0aW9uLiBFdmVuIG91dHNpZGUgb2YgdGhlIGhpc3Rvcnkgb2YgdGhlIFJvbWFuIEVtcGlyZSwgUm9tZSBoYXMgYSBzaWduaWZpY2FudCBwbGFjZSBpbiB0aGUgc3Rvcnkgb2YgQ2hyaXN0aWFuaXR5IHVwIHRvIHRoZSBwcmVzZW50IGRheSwgZm9yIGl0IGVuZHVyZXMgYXMgdGhlIGhvbWUgb2YgdGhlIHBhcGFjeS4gVGhlIHdvcmxkd2lkZSBSb21hbiBDYXRob2xpYyBDaHVyY2ggaXMgYWRtaW5pc3RlcmVkIGZyb20gdGhlIFZhdGljYW4gQ2l0eSwgcnVuIGJ5IHRoZSBIb2x5IFNlLi4uIGRkAhcPZBYCAgEPDxYCHwAFqgIuLi4gZSBhcyBhbiBpbmRlcGVuZGVudCBlbmNsYXZlIGFuZCB0aGUgd29ybGQncyBzbWFsbGVzdCBzb3ZlcmVpZ24gc3RhdGUuDQpUb2RheSwgUm9tZSBpcyBhIG1vZGVybiwgY29zbW9wb2xpdGFuIGNpdHksIGFuZCB0aGUgdGhpcmQgbW9zdC12aXNpdGVkIHRvdXJpc3QgZGVzdGluYXRpb24gaW4gdGhlIEV1cm9wZWFuIFVuaW9uLiBEdWUgdG8gaXRzIGluZmx1ZW5jZSBpbiBwb2xpdGljcywgbWVkaWEsIHRoZSBhcnRzIGFuZCBjdWx0dXJlLCBSb21lIGhhcyBiZWVuIGRlc2NyaWJlZCBhcyBhIGdsb2JhbCBjaXR5PC8gYnI+ZGQCGQ8PFgIfAAUPQmVsZGVzIEhyIEhvdGVsZGQCGw8PFgIfAAVBPGltZyBzcmM9Jy4uLy4uLy4uLy4uL2ltYWdlcy8zc3Rhci5naWYnIHdpZHRoPSI4MCIgaGVpZ2h0PSIxNCIgLz5kZAIdDw8WAh8ABRZ2aWEgZGVnbGkgU2NpcGlvbmkgMjM5ZGQCHw8PFgIfAAXOATxmb250IGNsYXNzPSJib29rbWFya3MiPjxhIGhyZWY9Li4vLi4vLi4vLi4vSG90ZWxQaG90by5hc3B4P2hvdGVsaWQ9QjMzMEozUkonICBjbGFzcz0ic3R5bGUxNCBzdHlsZTI0IiAgb25DbGljaz0icmV0dXJuIHBvcHVwKHRoaXMsJ1Bob3RvcycpIiAgY2xhc3M9J2Jhc2xpayc+PGZvbnQgY2xhc3M9ImJvb2ttYXJrcyI+cGhvdG9zPC9mb250PjwvYT48L2ZvbnQ+ZGQCIQ8PFgIfAAXaATxmb250IGNsYXNzPSJib29rbWFya3MiPjxhIGhyZWY9Li4vLi4vLi4vLi4vSG90ZWxNYXAuYXNweD9ob3RlbGlkPUIzMzBKM1JKJyAgY2xhc3M9InN0eWxlMTQgc3R5bGUyNCIgIG9uQ2xpY2s9InJldHVybiBwb3B1cE1hcCh0aGlzLCdtYXAnKSIgIGNsYXNzPSdiYXNsaWsnPjxmb250IGNsYXNzPSJib29rbWFya3MiPm1hcCAmIHRyYW5zcG9ydGF0aW9uPC9mb250PjwvYT48L2ZvbnQ+ZGQCIw8PFgIfAAXQATxmb250IGNsYXNzPSJib29rbWFya3MiPjxhIGhyZWY9Li4vLi4vLi4vLi4vTm9SZXZpZXcuYXNweD9yZXY9QjMzMEozUkonICBjbGFzcz0ic3R5bGUxNCBzdHlsZTI0IiAgb25DbGljaz0icmV0dXJuIHJldmlldyh0aGlzLCdyZXZpZXdzJykiICBjbGFzcz0nYmFzbGlrJz48Zm9udCBjbGFzcz0iYm9va21hcmtzIj51c2VyIHJldmlld3M8L2ZvbnQ+PC9hPjwvZm9udD5kZAIlDw8WAh4ISW1hZ2VVcmwFLy4uLy4uLy4uLy4uL0hvdGVsL0tSZXNpbWxlci8zOC9JbWFnZS8zOC01NzYuanBnZGQCJw8PFgIfAAWdBUEgbmV3IEd1ZXN0IEhvdXNlIGluIFJvbWUsIGNyZWF0ZWQgYnkgYSBuZXcgZ2VuZXJhdGlvbiBvZiBob3RlbGllci4gQSBtb2Rlcm4gYm91dGlxdWUgR3Vlc3QgSG91c2UgUm9tZSB3aXRoIGV4Y2VwdGlvbmFsIGTDqWNvciBhbmQgc2VydmljZXMgbG9va2luZyB0byBzZXQgdGhlIHN0YW5kYXJkcyBmb3IgZnV0dXJlIGx1eHVyeSBhY2NvbW1vZGF0aW9uIGluIHRoZSBjaXR5LiBUaGUgR3Vlc3QgSG91c2UgQmVsZGVzIFJvbWUgb2ZmZXJzIGluZGl2aWR1YWwgcm9vbXMgY2F0ZXJpbmcgdG8gYSBtYXJrZXQgb2YgdHJhdmVsbGVycyBsb29raW5nIGZvciBzdHlsZSBhbmQgY29tZm9ydC4gVGhlIGVsZWdhbnQgY29ja3RhaWwgYmFyIHdpdGggcG9vbCB0YWJsZSBhbmQgcm9vZiBnYXJkZW4gcHJvdmlkZSB0aGUgcGVyZmVjdCBhbWJpYW5jZSB0byByZWxheCB3aXRoIGEgY29vbGluZyBkcmluay4gVGhlIGhpZ2ggc3BlZWQgaW50ZXJuZXQsIExDRCBUVidzIGFuZCBpbmRpdmlkdWFsIHJvb21zIGZ1cm5pc2hlZCBpbiB0aGUgUHJvdmluY2lhbCBGcmVuY2ggc3R5bGUgY3JlYXRlIHRoZSBlbnZpcm9ubWVudC4gRmluYWxseSB0aGUgZXhwZXJpZW5jZWQgYW5kIGF0dGVudGl2ZSBzZXJ2aWNlIG9mIHRoaXMgaGF2ZW4gcm91bmQgb2ZmIGEgcGFja2FnZSB0aGF0IGlzIGhhcmQgdG8gYmVhdGRkAikPZBYCAgEPZBYCZg9kFggCAQ9kFgJmD2QWAgICD2QWFAIDDw8WAh4HVmlzaWJsZWdkZAIJDw8WAh8CZ2RkAg8PDxYCHwJnZGQCFQ8PFgIfAmdkZAIXDw8WAh8CZ2RkAh0PDxYCHwJnZGQCJQ8PFgIfAmdkZAIrDw8WAh8CZ2RkAi0PDxYCHwJnZGQCMQ8PFgIfAmdkZAIDD2QWAmYPZBYCAgIPZBYGAgcPDxYCHwJnZGQCKQ8PFgIfAmdkZAI3Dw8WAh8CZ2RkAgUPZBYCZg9kFgICAg9kFggCBQ8PFgIfAmdkZAIRDw8WAh8CZ2RkAhkPDxYCHwJnZGQCJQ8PFgIfAmdkZAIHD2QWAmYPZBYCAgIPZBYeAgMPDxYCHwJnZGQCCQ8PFgIfAmdkZAILDw8WAh8CZ2RkAg8PDxYCHwJnZGQCEQ8PFgIfAmdkZAITDw8WAh8CZ2RkAhUPDxYCHwJnZGQCGw8PFgIfAmdkZAIdDw8WAh8CZ2RkAh8PDxYCHwJnZGQCIQ8PFgIfAmdkZAIjDw8WAh8CZ2RkAiUPDxYCHwJnZGQCKQ8PFgIfAmdkZAIvDw8WAh8CZ2RkAisPDxYCHwAFvgo8dGFibGUgc3R5bGU9IndpZHRoOiAxMDAlIj48dHI+PHRkIHdpZHRoPSIyMzEiIGhlaWdodD0iMjQiIGJnY29sb3I9IiM5OTk5OTkiICBjbGFzcz0iZm9ybSI+PGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iaGVpZ2h0OiAyNHB4IiA+Q2hlY2sgaW46IDEyOjAwIC0gMjQvMjQgaG91cnM8L2Rpdj48L3RkPjx0ZCB3aWR0aD0iMzQiPiZuYnNwOzwvdGQ+PHRkIHdpZHRoPSIyMzEiIGJnY29sb3I9IiM5OTk5OTkiICBjbGFzcz0iZm9ybSI+PGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iaGVpZ2h0OiAyNHB4IiAgPkNoZWNrIE91dDExOjAwIC0gMjQvMjQgaG91cnM8L2Rpdj48L3RkPjx0ZD4mbmJzcDs8L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPSIzIiB2YWxpZ249InRvcCIgYWxpZ249ImxlZnQiID48cCBjbGFzcz0ic3R5bGUyMyI+PHNwYW4gY2xhc3M9InN0eWxlMjgiPjxpbWcgc3JjPSJodHRwOi8vd3d3LmFsbGNsYXNzaG90ZWxzLmNvbS9pbWFnZXMvc21hbGxjYW5jZWwuanBnIj48L3NwYW4+PGJyIC8+Q2FuY2VsYXRpb24gY2FuIGJlIG1hZGUgdW50aWwgYXQgbGVhc3QgMyBkYXlzIGJlZm9yZSB0aGUgY2hlY2sgaW4gZGF0ZSB3aXRob3V0IHBlbmFsdHkuPGJyIC8+T3RoZXJ3aXNlIGNhbmNhbGxhdGlvbiBwZW5hbHR5ICAgbmlnaHQgc3RheSB3aWxsIGJlIGNoYXJnZWQuIFRoZSBjYW5jZWxsYXRpb24gcG9saWN5IG1heSB2YXJ5IHBlciByb29tIHR5cGU8L3A+PHAgY2xhc3M9InN0eWxlMjMiPjxzcGFuIGNsYXNzPSJzdHlsZTI4Ij48aW1nIHNyYz0iaHR0cDovL3d3dy5hbGxjbGFzc2hvdGVscy5jb20vaW1hZ2VzL3NtYWxsY2hpbGRyZW4uanBnIj48L3NwYW4+PGJyIC8+MCAtIDYgKGluY2x1ZGVkKSBjaGlsZHJlbiBpcyBGcmVlLjwvcD48cCBjbGFzcz0ic3R5bGUyMyI+PHNwYW4gY2xhc3M9InN0eWxlMjgiPjxpbWcgc3JjPSJodHRwOi8vd3d3LmFsbGNsYXNzaG90ZWxzLmNvbS9pbWFnZXMvc21hbGxwZXQuanBnIj48L3NwYW4+PGJyIC8+T3VyIEhvdGVsIEFjY2VwdHMgUGV0cyA8L3A+PHNwYW4gY2xhc3M9InN0eWxlMjgiPjxpbWcgc3JjPSJodHRwOi8vd3d3LmFsbGNsYXNzaG90ZWxzLmNvbS9pbWFnZXMvcGFpZGNoaWxkcmVuLmpwZyI+PC9zcGFuPjxiciAvPjxwIGNsYXNzPSJzdHlsZTIzIj48c3BhbiBjbGFzcz0ic3R5bGUyOCI+QWlycG9ydCBTZXJ2aWNlPC9zcGFuPjxiciAvPkFpcnBvcnQgdHJhbnNwb3J0YXRpb248L3A+PHAgY2xhc3M9InN0eWxlMjMiPjxzcGFuIGNsYXNzPSJzdHlsZTI4Ij5IZWFsdCBTZXJ2aWNlPC9zcGFuPjxiciAvPiAtIFNwYSAtIE1hc3NhZ2Ugc2VydmljZS0gRml0bmVzcyBjZW50ZXI8L3A+PC90ZD48L3RyPjwvdGFibGU+ZGQCLQ9kFgICAg9kFgJmD2QWAgIBDw8WAh8ABZgMRWFjaCBjaGFtYmVyIGluIHRoZSBCZWxkZXMgR3Vlc3QgSG91c2UgUm9tZSBpcyBkZWNvcmF0ZWQgYW5kIGZ1cm5pc2hlZCBpbmRpdmlkdWFsbHkgY3JlYXRpbmcgMjYgc3R5bGlzaCBib3V0aXF1ZSByb29tcyB3aXRoIG1vZGVybiBjb21mb3J0cyBhbmQgY29udmVuaWVuY2VzLiBUaGUgUHJvdmluY2lhbCBGcmVuY2ggZnVybml0dXJlIHNpdHMgYXQgZWFzZSB3aXRoIGZsYXQgc2NyZWVuIFRWcyBhbmQgaGlnaCBzcGVlZCBpbnRlcm5ldCBjb25uZWN0aW9ucy4gQ29tZm9ydCBpcyBub3Qgc2FjcmlmaWNlZCBmb3IgdGhlIHNha2Ugb2YgYmVhdXR5IGFzIHRoZXNlIHN0eWxpc2ggYm91dGlxdWUgcm9vbXMgc2F0aXNmeSBib3RoIHRoZSBidXNpbmVzcyB0cmF2ZWxsZXIgYW5kIGhvbmV5bW9vbmluZyBjb3VwbGVzIHRvIHRoZSBzYW1lIGRlZ3JlZS4gDQoNClRoZXNlIHR3byB5b3VuZyBob3RlbGllcnMgd2hvIGNvbWJpbmUgeWVhcnMsIGV2ZW4gZ2VuZXJhdGlvbnMgb2YgcHJhY3RpY2FsIGV4cGVyaWVuY2UgaW4gdGhlIHNlY3RvciB3aXRoIGEgbW9kZXJuIEd1ZXN0IEhvdXNlIHNlcnZpY2VzIG91dGxvb2ssIGFuZCBhbiBleWUgZm9yIHN0eWxpc2ggZGVzaWduIGhhdmUgY3JlYXRlZCBhbiBhdG1vc3BoZXJlIHRoYXQgY2F0ZXJzIGZyb20gdGhlIG1vcmUgdHJhZGl0aW9uYWwgdHJhdmVsbGVyIHdoaWxlIHN1cHBseWluZyBzb21ldGhpbmcgbmV3IGZvciB0aG9zZSB3aXRoIG1vcmUgbW9kZXJuIG5lZWRzLiANCg0KQWxsIG91ciBzdHlsaXNoIGJvdXRpcXVlIHJvb21zIFJvbWUgaGF2ZSBwcml2YXRlIGJhdGhyb29tcywgbWluaSBiYXJzLCBmbGF0IHNjcmVlbiBUVnMgd2l0aCBzYXRlbGxpdGUgYW5kIHBheSBwZXIgdmlldywgc2FmZSBkZXBvc2l0IGJveGVzLCBoYWlyIGRyeWVycywgYWlyIGNvbmRpdGlvbmluZyBhbmQgaGlnaCBzcGVlZCBpbnRlcm5ldCBjb25uZWN0aW9ucyBhcyBzdGFuZGFyZC4gVGhlIEd1ZXN0IEhvdXNlIG93bmVycyBhbmQgc3RhZmYgZXh0ZW5kIGZ1cnRoZXIgc2VydmljZXMgdG8gdGhlaXIgY2xpZW50ZWxlIGluIHRoZSBzaGFwZSBvZiBwcml2YXRlIGFpcnBvcnQgdHJhbnNmZXJzLCBtdWx0aWxpbmd1YWwgZ3VpZGVkIHRvdXJzIG9mIHRoZSBjaXR5LCBQYXBhbCBhdWRpZW5jZXMsIHJlc2VydmF0aW9uIG9mIHRpY2tldHMgZm9yIHNwb3J0LCBjb25jZXJ0cyBvciBtdXNldW1zIGFuZCBhZHZpY2Ugb24gdGhlIGJlc3Qgc3BvdHMgdG8gbWFrZSB5b3VyIHN0YXkgYW4gdW5mb3JnZXR0YWJsZSBvbmUuIA0KDQpUaGVyZSBpcyBhbHNvIHRoZSBiYXIgd2l0aCBwb29sIHRhYmxlIGFuZCBpbnRlcm5ldCBwb2ludHMsIHRoZSBtYXNzYWdlIHNlcnZpY2UgYW5kIHJlbGF4aW5nIHN1biB0ZXJyYWNlIHRvIGtlZXAgeW91IGVudGVydGFpbmVkIG9uIHNpdGU7IHdoaWxlIGluIHRoZSBmdXR1cmUsIHRoZSBkZXZlbG9wbWVudCB3ZWxsbmVzcyBjZW50cmUgd2lsbCBtYWtlIHRoZSBCZWxkZXMgaW4gZXZlbiBncmVhdGVyIGhhdmVuIGZyb20gdGhlIGhlYXQgYW5kIG5vaXNlIG9mIHRoZSBjaXR5IGNlbnRyZS4gd2F0Y2ggdGhpcyBzcGFjZS4gZGQCLw8WAh8CaBYCAgIPZBYCZg9kFgICAQ8PFgIfAmhkZAIxD2QWAgICD2QWAmYPZBYCAgEPDxYCHwAFmAxFYWNoIGNoYW1iZXIgaW4gdGhlIEJlbGRlcyBHdWVzdCBIb3VzZSBSb21lIGlzIGRlY29yYXRlZCBhbmQgZnVybmlzaGVkIGluZGl2aWR1YWxseSBjcmVhdGluZyAyNiBzdHlsaXNoIGJvdXRpcXVlIHJvb21zIHdpdGggbW9kZXJuIGNvbWZvcnRzIGFuZCBjb252ZW5pZW5jZXMuIFRoZSBQcm92aW5jaWFsIEZyZW5jaCBmdXJuaXR1cmUgc2l0cyBhdCBlYXNlIHdpdGggZmxhdCBzY3JlZW4gVFZzIGFuZCBoaWdoIHNwZWVkIGludGVybmV0IGNvbm5lY3Rpb25zLiBDb21mb3J0IGlzIG5vdCBzYWNyaWZpY2VkIGZvciB0aGUgc2FrZSBvZiBiZWF1dHkgYXMgdGhlc2Ugc3R5bGlzaCBib3V0aXF1ZSByb29tcyBzYXRpc2Z5IGJvdGggdGhlIGJ1c2luZXNzIHRyYXZlbGxlciBhbmQgaG9uZXltb29uaW5nIGNvdXBsZXMgdG8gdGhlIHNhbWUgZGVncmVlLiANCg0KVGhlc2UgdHdvIHlvdW5nIGhvdGVsaWVycyB3aG8gY29tYmluZSB5ZWFycywgZXZlbiBnZW5lcmF0aW9ucyBvZiBwcmFjdGljYWwgZXhwZXJpZW5jZSBpbiB0aGUgc2VjdG9yIHdpdGggYSBtb2Rlcm4gR3Vlc3QgSG91c2Ugc2VydmljZXMgb3V0bG9vaywgYW5kIGFuIGV5ZSBmb3Igc3R5bGlzaCBkZXNpZ24gaGF2ZSBjcmVhdGVkIGFuIGF0bW9zcGhlcmUgdGhhdCBjYXRlcnMgZnJvbSB0aGUgbW9yZSB0cmFkaXRpb25hbCB0cmF2ZWxsZXIgd2hpbGUgc3VwcGx5aW5nIHNvbWV0aGluZyBuZXcgZm9yIHRob3NlIHdpdGggbW9yZSBtb2Rlcm4gbmVlZHMuIA0KDQpBbGwgb3VyIHN0eWxpc2ggYm91dGlxdWUgcm9vbXMgUm9tZSBoYXZlIHByaXZhdGUgYmF0aHJvb21zLCBtaW5pIGJhcnMsIGZsYXQgc2NyZWVuIFRWcyB3aXRoIHNhdGVsbGl0ZSBhbmQgcGF5IHBlciB2aWV3LCBzYWZlIGRlcG9zaXQgYm94ZXMsIGhhaXIgZHJ5ZXJzLCBhaXIgY29uZGl0aW9uaW5nIGFuZCBoaWdoIHNwZWVkIGludGVybmV0IGNvbm5lY3Rpb25zIGFzIHN0YW5kYXJkLiBUaGUgR3Vlc3QgSG91c2Ugb3duZXJzIGFuZCBzdGFmZiBleHRlbmQgZnVydGhlciBzZXJ2aWNlcyB0byB0aGVpciBjbGllbnRlbGUgaW4gdGhlIHNoYXBlIG9mIHByaXZhdGUgYWlycG9ydCB0cmFuc2ZlcnMsIG11bHRpbGluZ3VhbCBndWlkZWQgdG91cnMgb2YgdGhlIGNpdHksIFBhcGFsIGF1ZGllbmNlcywgcmVzZXJ2YXRpb24gb2YgdGlja2V0cyBmb3Igc3BvcnQsIGNvbmNlcnRzIG9yIG11c2V1bXMgYW5kIGFkdmljZSBvbiB0aGUgYmVzdCBzcG90cyB0byBtYWtlIHlvdXIgc3RheSBhbiB1bmZvcmdldHRhYmxlIG9uZS4gDQoNClRoZXJlIGlzIGFsc28gdGhlIGJhciB3aXRoIHBvb2wgdGFibGUgYW5kIGludGVybmV0IHBvaW50cywgdGhlIG1hc3NhZ2Ugc2VydmljZSBhbmQgcmVsYXhpbmcgc3VuIHRlcnJhY2UgdG8ga2VlcCB5b3UgZW50ZXJ0YWluZWQgb24gc2l0ZTsgd2hpbGUgaW4gdGhlIGZ1dHVyZSwgdGhlIGRldmVsb3BtZW50IHdlbGxuZXNzIGNlbnRyZSB3aWxsIG1ha2UgdGhlIEJlbGRlcyBpbiBldmVuIGdyZWF0ZXIgaGF2ZW4gZnJvbSB0aGUgaGVhdCBhbmQgbm9pc2Ugb2YgdGhlIGNpdHkgY2VudHJlLiB3YXRjaCB0aGlzIHNwYWNlLiBkZAIzDxYCHwJoFgICAg9kFgJmD2QWAgIBDw8WAh8CaGRkAjUPZBYCAgIPZBYCZg9kFgICAQ8PFgIfAAXcCExvY2F0ZWQgb24gVmlhIGRlZ2xpIFNjaXBpb25pIDIzOSwgdGhlIEd1ZXN0IEhvdXNlIEJlbGRlcyBSb21lIGlzIGVhc2lseSByZWFjaGVkIGJ5IHB1YmxpYyB0cmFuc3BvcnQuIEFyb3VuZCAxMC0xNSBtaW51dGUgbWV0cm8gcmlkZSBmcm9tIFRlcm1pbmkgY2VudHJhbCBzdGF0aW9uLCBMZXBhbnRvIG1ldHJvIHN0b3Agc2l0cyBqdXN0IGJ5IG91ciBmcm9udCBlbnRyYW5jZSBuZWFyIHRoZSBSb21lIFZhdGljYW4gTXVzZXVtLiBFYXN5IHRvIGdldCB0byBhbmQgZWFzeSB0byBzZWUgUm9tZSBmcm9tLCBjaGVjayBvdXQgb3VyIGhhbmR5IGludGVyYWN0aXZlIEdvb2dsZSBtYXAgb24gdGhlIGxlZnQuIA0KDQpCeSBBaXIuIFRoZSBHdWVzdCBIb3VzZSBCZWxkZXMgb2ZmZXJzIGl0cyBvd24gcHJpdmF0ZSBhaXJwb3J0IHNodXR0bGUgc2VydmljZSB0aGF0IGNhbiBiZSBib29rZWQgYnkgY29udGFjdGluZyB0aGUgR3Vlc3QgSG91c2UgLkZpdW1pY2lubyAtIEEgZGlyZWN0IHRyYWluIHdpbGwgY2FycnkgeW91IHRvIFRlcm1pbmkgZnJvbSB3aGVyZSB5b3UgY2FuIHRha2UgdGhlIEEgTGluZSBtZXRybyBpbiB0aGUgQmF0dGlzdGluaSBkaXJlY3Rpb24gYWwgdGhlIHdheSB0byBMZXBhbnRvLCBqdXN0IG92ZXIgdGhlIFRpYmVyLiBDaWFtcGlubyAtIGVpdGhlciB0YWtlIHRoZSBwcml2YXRlIGJ1cyB0byB0ZXJtaW5pIGFuZCBqdW1wIG9uIHRoZSBBIGxpbmUgbWV0cm8gRGlyZXppb25lIEJhdHRpc3RpbmksIG9yIGdldCBhIGJ1cyB0byBBbmFnbmluYSBhbmQgYWdhaW4gdGFrZSB0aGUgQSBsaW5lIGluIHRoZSBCYXR0aXN0aW5pIGRpcmVjdGlvbiwgZ2V0dGluZyBvZiBhdCBMZXBhbnRvDQoNCkJ5IFRyYWluLiBGcm9tIGVpdGhlciBUZXJtaW5pIG9yIGFueSBvZiB0aGUgc3Vic2lkaWFyeSBzdGF0aW9ucyBnZXQgb250byB0aGUgTWV0cm8gb3IgaGVhZCBmb3IgdGhlIEEgbGluZSBkaXJlemlvbmUgQmF0dGlzdGluaSBnZXR0aW5nIG9mZiBhdCBMZXBhbnRvLiBBZHZlcnNlbHkgZnJvbSBUZXJtaW5pIGl0IHNob3VsZCBiZSBhIDEwLTE1IEV1cm8gdGF4aSBmYXJlIGRlcGVuZGluZyBvbiB0cmFmZmljIChtYXkgYmUgc2xpZ2h0bHkgaGlnaGVyIHJhdGUgYXQgbmlnaHQpLmRkAjcPFgIfAmgWAgICD2QWAmYPZBYCAgEPDxYCHwJoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDEltYWdlQnV0dG9uMRE7ODLTN3zWdWVlhLNePSlf1KFi">
+
+
+<script src="/ScriptResource.axd?d=hfHVLPax_9cmyAmu0GO5wMHeORXWf8sz7Nh55xPQvroINMkE8wMYP9uRxYeZgHCGXSfr1cYOCC6SKR6lT1S_GNqCYAW0l-QMax6VSwOmdzc1&amp;t=633988172134542500" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I08Aqpz2jY6lIMUROjTLu7arG_-nAlOZuNED9uffciXjWQ2&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I0_wOnWXfP6KdopXKIQ8g63YIRc6LpQUc_lQlfMhhU7e5g2&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I0-rhVn5E4BENsqqI0ZFfoQE2_JdENv8PadFGh5Tp1hr7w2&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I08FfTlO8chN9rxDfmaSU34xjW9hGQcjWQi6IQNR4IOuZjSZZYpKQ27Tr4SyP2Iu-2M1&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I0-cQYDGh89UNMblYCcW-zV5l2GWYjbfyRu0iqEfR_rdaNVd7y34-46OpXpXf9kB-sg1&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I0-Psfn-13d6bx1dFFdF0s3PWh5NEPzWA5OSD8CtzbZ8feFl5Tqum-Z4H4AWaJ1EdjE1&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I0-7gA-8p_qhpmPEskvnmMsLkY1rNJmHf78n33cD28VdAQ2&amp;t=633989848145011250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OGgb7yhpzpKjnqK3d823LRRIDPYfvJXTOh2mmje4I0-6zKsj-dH_IpTbHyXZ0rwVaDzS8Io4YStD_883PP5t1egqxmNyEvhigJYiuGUVUl_aKaLenZbOxLr4fhtmk17k0&amp;t=633989848145011250" type="text/javascript"></script>
+        <div>
+            
+            <table border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px; margin-left: 0px;
+                width: 100%; margin-right: 0px; height: 100%">
+                <tbody><tr>
+                    <td style="vertical-align: top; text-align: left">
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin-left: 0px; width: 100%;
+                            margin-right: 0px">
+                            <tbody><tr>
+                                <td style="width: 333px">
+                                    <a href="http://www.allclasshotels.com"> <img alt="AllClassHotels" border="0" height="56" src="../../../../images/allclasslogo_main.jpg" width="333">
+                                    <img alt="AllClassHotels" border="0" height="20" src="../../../../images/allclasslogo_main_alt.jpg" width="333"></a></td>
+                                <td style="vertical-align: bottom; width: 600px">
+                                    <img src="../../../../images/Baground.jpg"></td>
+                                <td style="width: 100%">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 333px">
+                                </td>
+                                <td background="../../../../images/tabl_fon.jpg" class="style1" style="width: 600px">
+                                    <a href="../../../../index.aspx"><font color="black">Home</font></a> | <a href="../../../../Cheap_Hotels_Reservation.aspx">
+                                        <font color="black">Destinations</font></a> | <a href="../../../../Client/Enterpin.aspx">
+                                            <font color="black">Reservations</font></a> | <a href="../../../../login.aspx"><font color="black">Partners</font></a> | <a href="../../../../termsandconditions.aspx"><font color="black">Terms &amp; Conditions</font></a> | <a href="../../../../AboutUs.aspx"><font color="black">About Us</font><span style="color: #999999"> </span></a>
+                                    | <a href="../../../../ContactUs.aspx"><font color="black">Contact Us</font><span style="color: #999999">
+                                    </span></a>
+                                </td>
+                                <td background="../../../../images/tabl_fon.jpg" style="width: 100%">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin-left: 0px; width: 100%;
+                            margin-right: 0px">
+                            <tbody><tr>
+                                <td style="width: 333px">
+                                    </td>
+                                <td style="vertical-align: bottom; width: 600px">
+                                </td>
+                                <td style="vertical-align: bottom; width: 100%">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="vertical-align: top; width: 333px">
+                                    &nbsp;
+                                    <table border="0" cellpadding="0" cellspacing="0" style="width: 333px">
+                                        <tbody><tr>
+                                            <td style="width: 303px">
+                                                &nbsp;<table border="0" cellpadding="0" cellspacing="0" width="305">
+                                                    <tbody><tr>
+                                                        <td background="../../../../images/natri_1.png" height="176" width="305">
+                                                            &nbsp;<table border="0" cellpadding="0" cellspacing="0" height="107" width="299">
+                                                                <tbody><tr>
+                                                                    <td width="19">
+                                                                        &nbsp;</td>
+                                                                    <td height="107" width="260">
+                                                                        <table border="0" cellpadding="0" cellspacing="0" height="107" width="260">
+                                                                            <tbody><tr>
+                                                                                <td class="yeniicerik1">
+                                                                                    <br>
+                                                                                    Destination</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <div id="UpdatePanel2">
+	
+                                                                                            
+                                                                                        
+</div>
+                                                                                    <span style="font-size: 7pt"></span>
+                                                                                    <input name="TextBox1" type="text" value="Beldes Hr Hotel" id="TextBox1" class="form"><span style="font-size: 7pt"> </span>
+                                                                                    
+                                                                                    <span style="font-size: 7pt"></span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr style="font-size: 7pt">
+                                                                                <td class="yeniicerik1">
+                                                                                    Date</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <div id="UpdatePanel1">
+	
+                                                                                            <select name="xCheckInD" id="xCheckInD" class="form">
+		<option value="01">01</option>
+		<option value="02">02</option>
+		<option value="03">03</option>
+		<option value="04">04</option>
+		<option value="05">05</option>
+		<option value="06">06</option>
+		<option value="07">07</option>
+		<option value="08">08</option>
+		<option value="09">09</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option selected="selected" value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+
+	</select>&nbsp;<select name="xCheckInM" id="xCheckInM" class="form">
+		<option value="01">Jan</option>
+		<option value="02">Feb</option>
+		<option value="03">Mar</option>
+		<option value="04">Apr</option>
+		<option value="05">May</option>
+		<option value="06">Jun</option>
+		<option value="07">Jul</option>
+		<option value="08">Aug</option>
+		<option selected="selected" value="09">Sep</option>
+		<option value="10">Oct</option>
+		<option value="11">Nov</option>
+		<option value="12">Dec</option>
+
+	</select>&nbsp;<select name="xCheckInY" id="xCheckInY" class="form">
+		<option value="2008">2008</option>
+		<option selected="selected" value="2009">2009</option>
+		<option value="2010">2010</option>
+
+	</select>
+                                                                                        
+</div>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="yeniicerik1">
+                                                                                    Nights</td>
+                                                                            </tr>
+                                                                            <tr style="font-size: 12pt">
+                                                                                <td>
+                                                                                    <select name="cboaddday" id="cboaddday" class="form">
+	<option value="1">1</option>
+	<option selected="selected" value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+
+</select></td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                        <table border="0" cellpadding="0" cellspacing="0" height="20" style="width: 256px">
+                                                                            <tbody><tr>
+                                                                                <td style="width: 225px">
+                                                                                    &nbsp;</td>
+                                                                                <td width="58">
+                                                                                    <input type="image" name="ImageButton1" id="ImageButton1" src="../../../../images/search_btn_pngustu.jpg" border="0"></td>
+                                                                                <td width="16">
+                                                                                    &nbsp;</td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+                                                                    <td style="font-size: 12pt" width="20">
+                                                                        &nbsp;</td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td background="../../../../images/natri_2.png">
+                                                            <table border="0" cellpadding="0" cellspacing="0" style="height: 20px" width="100%">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td id="Td35" align="left" height="13" style="width: 21px" valign="top">
+                                                                        </td>
+                                                                        <td id="Td36" align="left" background="../../../../images/fubuk_fon.png" class="style12" colspan="6" style="height: 10px">
+                                                                            <span class="left_style1">MAP</span></td>
+                                                                        <td id="Td37" class="style12" style="height: 10px" width="14">
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <table border="0" cellpadding="0" cellspacing="0" style="width: 289px">
+                                                                <tbody><tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                    <td class="left_style2" colspan="2" rowspan="7">
+                                                            <div id="map_canvas" style="width: 266px; height: 260px">
+                                                            </div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 20px">
+                                                                    </td>
+                                                                    <td class="left_style2" style="width: 150px; height: 12px">
+                                                                    </td>
+                                                                    <td class="left_style2" style="height: 12px">
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                            <table border="0" cellpadding="0" cellspacing="0" style="height: 22px" width="100%">
+                                                                <tbody><tr>
+                                                                    <td id="Td38" align="left" height="13" style="width: 20px" valign="top">
+                                                                    </td>
+
+                                                                    <td id="Td39" align="left" background="../../../../images/fubuk_fon.png" class="style12" colspan="6" style="height: 10px">
+                                                                        <span class="left_style1">INFORMATION</span></td>
+
+                                                                    <td id="Td40" class="style12" style="height: 10px" width="14">
+                                                                    </td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                </tr>
+                                                            </tbody></table>
+                                                            <table border="0" cellpadding="0" cellspacing="0" height="174" style="width: 302px">
+                                                                <tbody><tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                    <td class="left_style2" colspan="2" rowspan="12" valign="top">
+                                                            <div id="huseyin">
+	
+                                                                &nbsp;
+                                                                <span id="Label110" style="display:inline-block;">Rome is the capital city of Italy and Lazio, and is Italy's largest and most populous city, with 2,705,317 residents, an urban area of 3,457,690 as well as a metropolitan area of 4,013,057 inhabitants spread over a 5,352 km² area. It is located in the central-western portion of the Italian peninsula, on the Tiber river.
+Rome's history as a city spans over two and a half thousand years, as one of the founding cities of Western Civilization. Even outside of the history of the Roman Empire, Rome has a significant place in the story of Christianity up to the present day, for it endures as the home of the papacy. The worldwide Roman Catholic Church is administered from the Vatican City, run by the Holy Se... </span>
+                                                                <table style="width: 100%">
+                                                                    <tbody><tr>
+                                                                        <td align="right">
+                                                                            &nbsp;<img src="../../../../images/more_info.gif" id="Imgmore" style="cursor: pointer">
+                                                                            &nbsp;
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            
+</div>
+                                                            <div id="collap">
+	
+                                                                &nbsp;
+                                                                <span id="Label120" style="display:inline-block;">... e as an independent enclave and the world's smallest sovereign state.
+Today, Rome is a modern, cosmopolitan city, and the third most-visited tourist destination in the European Union. Due to its influence in politics, media, the arts and culture, Rome has been described as a global city<!-- br--></span>
+</div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="style12" height="13" style="width: 15px">
+                                                                    </td>
+                                                                    <td class="left_style2" style="width: 176px">
+                                                                    </td>
+                                                                    <td class="left_style2">
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td background="../../../../images/natri_3.png" height="16" width="305">
+                                                            <img height="1" src="../../../../images/tampon.png" width="1"></td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                            <td style="width: 30px">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    &nbsp;
+                                </td>
+                                <td style="vertical-align: top; width: 600px">
+                                    <br>
+                                    <table border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+                                        <tbody><tr>
+                                            <td colspan="3" style="width: 600px" class="style19">
+                                                <table border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+                                                    <tbody><tr>
+                                                        <td style="width: 510px; height: 41px;" class="srcbaslik" valign="bottom">
+                                                            <span id="Label31" class="srcbaslik"><b><font face="Verdana" color="#FFA520">Beldes Hr Hotel</font></b></span></td>
+                                                        <td style="width: 90px; height: 41px;" class="style11" valign="bottom">
+                                                            <span id="lblYildiz"><img src="../../../../images/3star.gif" width="80" height="14"></span></td>
+                                                    </tr>
+                                                </tbody></table>
+                                                <span id="lbladres">via degli Scipioni 239</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                            </td>
+                                            <td colspan="2" class="bookmarks">
+                                                <span id="lblphoto" class="bookmarks"><font class="bookmarks"><a href="../../../../HotelPhoto.aspx?hotelid=B330J3RJ'" class="style14 style24" onclick="return popup(this,'Photos')"><font class="bookmarks">photos</font></a></font></span>
+                                                |
+                                                <span id="lblMap" class="bookmarks"><font class="bookmarks"><a href="../../../../HotelMap.aspx?hotelid=B330J3RJ'" class="style14 style24" onclick="return popupMap(this,'map')"><font class="bookmarks">map &amp; transportation</font></a></font></span>
+                                                | 
+                                                <span id="lblusrrev" class="bookmarks"><font class="bookmarks"><a href="../../../../NoReview.aspx?rev=B330J3RJ'" class="style14 style24" onclick="return review(this,'reviews')"><font class="bookmarks">user reviews</font></a></font></span></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="background-color: gray">
+                                                <img height="1" src="../../../../images/tampon.png" width="1"></td>
+                                            <td valign="top">
+                                                <img height="1" src="../../../../images/tampon.png" width="1"></td>
+                                            <td style="background-color: black">
+                                                <img height="1" src="../../../../images/tampon.png" width="1"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: top; width: 126px; height: 166px; text-align: center">
+                                                <img id="Image1" src="../../../../Hotel/KResimler/38/Image/38-576.jpg" height="166" width="166" border="0"></td>
+                                            <td style="width: 5px">
+                                            </td>
+                                            <td style="vertical-align: top; width: 469px" class="style23">
+                                                <span id="Label1">A new Guest House in Rome, created by a new generation of hotelier. A modern boutique Guest House Rome with exceptional décor and services looking to set the standards for future luxury accommodation in the city. The Guest House Beldes Rome offers individual rooms catering to a market of travellers looking for style and comfort. The elegant cocktail bar with pool table and roof garden provide the perfect ambiance to relax with a cooling drink. The high speed internet, LCD TV's and individual rooms furnished in the Provincial French style create the environment. Finally the experienced and attentive service of this haven round off a package that is hard to beat</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: top; width: 126px; height: 20px; text-align: center">
+                                            </td>
+                                            <td style="width: 5px; height: 20px">
+                                            </td>
+                                            <td class="style23" style="vertical-align: top; width: 469px; height: 20px">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <table id="TabloImp2" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+	<tbody><tr>
+		<td style="width: 7px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sol.jpg" width="7"></td>
+		<td style="width: 563px" class="style11" bgcolor="#ffa618">
+                                                Independent Report</td>
+		<td style="width: 30px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sag.jpg" width="30"></td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px">
+                                                <table style="width: 600px">
+                                                    <tbody><tr>
+                                                        <td style="height: 20px">
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                                <table id="TabloService" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+			<tbody><tr>
+				<td style="width: 110px; text-align: center">
+                                                            <img id="Image2" src="../../../../images/restaur_pikto.jpg" border="0"></td>
+				<td style="width: 10px">
+                                                        </td>
+				<td style="width: 480px" class="style23">
+                                                            <span id="Label19" class="style26">Services</span><br>
+                                                            <span id="Label32">Airport Shuttle,</span>
+                                                            
+                                                            
+                                                            <span id="Label35">Breakfast in the Room,</span>
+                                                            
+                                                            
+                                                            <span id="Label38">Car Rental,</span>
+                                                            
+                                                            
+                                                            <span id="Label60">Fax/Photocopying,</span>
+                                                            <span id="Label61">Free Wi-Fi Internet Access Included,</span>
+                                                            
+                                                            
+                                                            <span id="Label64">Ironing Service,</span>
+                                                            
+                                                            
+                                                            
+                                                            <span id="Label68">Room Service,</span>
+                                                            
+                                                            
+                                                            <span id="Label71">Ticket Service,</span>
+                                                            <span id="Label72">Tour Desk,</span>
+                                                            
+                                                            <span id="Label74">Wi-Fi/Wireless LAN</span>
+                                                        </td>
+			</tr>
+			<tr>
+				<td style="width: 110px; height: 20px; text-align: center">
+                                                        </td>
+				<td style="width: 10px; height: 20px">
+                                                        </td>
+				<td class="style23" style="width: 480px; height: 20px">
+                                                        </td>
+			</tr>
+		</tbody></table>
+		
+                                                <table id="TabloActivities" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+			<tbody><tr>
+				<td style="width: 110px; text-align: center">
+                                                            <img id="Image4" src="../../../../images/activities.jpg" border="0"></td>
+				<td style="width: 10px">
+                                                        </td>
+				<td style="width: 480px" class="style23">
+                                                            <span id="Label112" class="style26">Activities</span><br>
+                                                            
+                                                            
+                                                            <span id="Label104">Billiards,</span>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            <span id="Label86">Massage,</span>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            <span id="Label93">Spa &amp; Wellness Centre,</span>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                        </td>
+			</tr>
+			<tr>
+				<td style="width: 110px; height: 20px; text-align: center">
+                                                        </td>
+				<td style="width: 10px; height: 20px">
+                                                        </td>
+				<td class="style23" style="width: 480px; height: 20px">
+                                                        </td>
+			</tr>
+		</tbody></table>
+		
+                                                <table id="TabloLocation" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+			<tbody><tr>
+				<td style="width: 110px; text-align: center">
+                                                            <img id="Image5" src="../../../../images/exterior_pikto.jpg" border="0"></td>
+				<td style="width: 10px">
+                                                        </td>
+				<td style="width: 480px" class="style23">
+                                                            <span id="Label119" class="style26">Location</span><br>
+                                                            
+                                                            <span id="Label42">City Centre,</span>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            <span id="Label48">Museum Area,</span>
+                                                            
+                                                            
+                                                            
+                                                            <span id="Label52">Near Subway,</span>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            <span id="Label58">Shopping Centre,</span>
+                                                            
+                                                        </td>
+			</tr>
+			<tr>
+				<td style="width: 110px; height: 20px; text-align: center">
+                                                        </td>
+				<td style="width: 10px; height: 20px">
+                                                        </td>
+				<td class="style23" style="width: 480px; height: 20px">
+                                                        </td>
+			</tr>
+		</tbody></table>
+		
+                                                <table id="TabloGeneral" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+			<tbody><tr>
+				<td style="width: 110px; text-align: center">
+                                                            <img id="Image3" src="../../../../images/general_pikto.jpg" border="0"></td>
+				<td style="width: 10px">
+                                                        </td>
+				<td style="width: 480px" class="style23">
+                                                            <span id="Label111" class="style26">General</span><br>
+                                                            <span id="Label2"> 24-Hour Front Desk,</span>
+                                                            
+                                                            
+                                                            <span id="Label5">Bar,</span>
+                                                            <span id="Label6">Breakfast Buffet,</span>
+                                                            
+                                                            <span id="Label8">Continental Breakfast,</span>
+                                                            <span id="Label9">Design Hotel,</span>
+                                                            <span id="Label10">Elevator,</span>
+                                                            <span id="Label11">Express Check-In/Check-Out,</span>
+                                                            
+                                                            
+                                                            <span id="Label14">Garden,</span>
+                                                            <span id="Label15">Gay Friendly,</span>
+                                                            <span id="Label16">Heating,</span>
+                                                            <span id="Label17">Luggage Storage,</span>
+                                                            <span id="Label18">Newspapers,</span>
+                                                            <span id="Label20">Non-Smoking Rooms,</span>
+                                                            
+                                                            <span id="Label22">Pets Allowed,</span>
+                                                            
+                                                            
+                                                            <span id="Label25">Safety Deposit Box,</span>
+                                                            
+                                                            
+                                                            <em><span style="color: #000099; text-decoration: underline"> </span></em>
+                                                            
+                                                            
+                                                        </td>
+			</tr>
+			<tr>
+				<td style="width: 110px; height: 20px; text-align: center">
+                                                        </td>
+				<td style="width: 10px; height: 20px">
+                                                        </td>
+				<td class="style23" style="width: 480px; height: 20px">
+                                                        </td>
+			</tr>
+		</tbody></table>
+		
+                                            </td>
+	</tr>
+</tbody></table>
+
+                                    <br>
+                                    <table border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+                                        <tbody><tr>
+                                            <td style="width: 7px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sol.jpg" width="7"></td>
+                                            <td style="width: 563px; background-color: #ffa618;" class="style11">
+                                                Hotel Policies
+                                            </td>
+                                            <td style="width: 30px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sag.jpg" width="30"></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3" style="width: 600px">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3" style="width: 600px">
+                                                <span id="lblpolicy"><table style="width: 100%"><tbody><tr><td width="231" height="24" bgcolor="#999999" class="form"><div align="center" style="height: 24px">Check in: 12:00 - 24/24 hours</div></td><td width="34">&nbsp;</td><td width="231" bgcolor="#999999" class="form"><div align="center" style="height: 24px">Check Out11:00 - 24/24 hours</div></td><td>&nbsp;</td></tr><tr><td colspan="3" valign="top" align="left"><p class="style23"><span class="style28"><img src="http://www.allclasshotels.com/images/smallcancel.jpg"></span><br>Cancelation can be made until at least 3 days before the check in date without penalty.<br>Otherwise cancallation penalty   night stay will be charged. The cancellation policy may vary per room type</p><p class="style23"><span class="style28"><img src="http://www.allclasshotels.com/images/smallchildren.jpg"></span><br>0 - 6 (included) children is Free.</p><p class="style23"><span class="style28"><img src="http://www.allclasshotels.com/images/smallpet.jpg"></span><br>Our Hotel Accepts Pets </p><span class="style28"><img src="http://www.allclasshotels.com/images/paidchildren.jpg"></span><br><p class="style23"><span class="style28">Airport Service</span><br>Airport transportation</p><p class="style23"><span class="style28">Healt Service</span><br> - Spa - Massage service- Fitness center</p></td></tr></tbody></table></span></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3" style="width: 600px; height: 20px">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <br>
+                                    <table id="tblHotinfo1" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+	<tbody><tr>
+		<td style="width: 7px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sol.jpg" width="7"></td>
+		<td style="width: 563px; background-color: #ffa618;" class="style11">
+                                                Hotel Information
+                                            </td>
+		<td style="width: 30px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sag.jpg" width="30"></td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px">
+                                            </td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px" class="style23">
+                                                <span id="Label113">Each chamber in the Beldes Guest House Rome is decorated and furnished individually creating 26 stylish boutique rooms with modern comforts and conveniences. The Provincial French furniture sits at ease with flat screen TVs and high speed internet connections. Comfort is not sacrificed for the sake of beauty as these stylish boutique rooms satisfy both the business traveller and honeymooning couples to the same degree. 
+
+These two young hoteliers who combine years, even generations of practical experience in the sector with a modern Guest House services outlook, and an eye for stylish design have created an atmosphere that caters from the more traditional traveller while supplying something new for those with more modern needs. 
+
+All our stylish boutique rooms Rome have private bathrooms, mini bars, flat screen TVs with satellite and pay per view, safe deposit boxes, hair dryers, air conditioning and high speed internet connections as standard. The Guest House owners and staff extend further services to their clientele in the shape of private airport transfers, multilingual guided tours of the city, Papal audiences, reservation of tickets for sport, concerts or museums and advice on the best spots to make your stay an unforgettable one. 
+
+There is also the bar with pool table and internet points, the massage service and relaxing sun terrace to keep you entertained on site; while in the future, the development wellness centre will make the Beldes in even greater haven from the heat and noise of the city centre. watch this space. </span><br>
+                                            </td>
+	</tr>
+</tbody></table>
+
+                                    <br>
+                                    
+                                    <br>
+                                    <table id="tblRoomnfo1" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+	<tbody><tr>
+		<td style="width: 7px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sol.jpg" width="7"></td>
+		<td style="width: 563px; background-color: #ffa618;" class="style11">
+                                                Room Information
+                                            </td>
+		<td style="width: 30px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sag.jpg" width="30"></td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px">
+                                            </td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px" class="style23">
+                                                <span id="Label114">Each chamber in the Beldes Guest House Rome is decorated and furnished individually creating 26 stylish boutique rooms with modern comforts and conveniences. The Provincial French furniture sits at ease with flat screen TVs and high speed internet connections. Comfort is not sacrificed for the sake of beauty as these stylish boutique rooms satisfy both the business traveller and honeymooning couples to the same degree. 
+
+These two young hoteliers who combine years, even generations of practical experience in the sector with a modern Guest House services outlook, and an eye for stylish design have created an atmosphere that caters from the more traditional traveller while supplying something new for those with more modern needs. 
+
+All our stylish boutique rooms Rome have private bathrooms, mini bars, flat screen TVs with satellite and pay per view, safe deposit boxes, hair dryers, air conditioning and high speed internet connections as standard. The Guest House owners and staff extend further services to their clientele in the shape of private airport transfers, multilingual guided tours of the city, Papal audiences, reservation of tickets for sport, concerts or museums and advice on the best spots to make your stay an unforgettable one. 
+
+There is also the bar with pool table and internet points, the massage service and relaxing sun terrace to keep you entertained on site; while in the future, the development wellness centre will make the Beldes in even greater haven from the heat and noise of the city centre. watch this space. </span><br>
+                                            </td>
+	</tr>
+</tbody></table>
+
+                                    <br>
+                                    
+                                    <br>
+                                    <table id="tbltrvlnfo1" border="0" cellpadding="0" cellspacing="0" style="width: 600px">
+	<tbody><tr>
+		<td style="width: 7px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sol.jpg" width="7"></td>
+		<td style="width: 563px; background-color: #ffa618;" class="style11">
+                                                Travel Information
+                                            </td>
+		<td style="width: 30px; height: 26px">
+                                                <img height="26" src="../../../../images/x_sag.jpg" width="30"></td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px">
+                                            </td>
+	</tr>
+	<tr>
+		<td colspan="3" style="width: 600px" class="style23">
+                                                <span id="Label117">Located on Via degli Scipioni 239, the Guest House Beldes Rome is easily reached by public transport. Around 10-15 minute metro ride from Termini central station, Lepanto metro stop sits just by our front entrance near the Rome Vatican Museum. Easy to get to and easy to see Rome from, check out our handy interactive Google map on the left. 
+
+By Air. The Guest House Beldes offers its own private airport shuttle service that can be booked by contacting the Guest House .Fiumicino - A direct train will carry you to Termini from where you can take the A Line metro in the Battistini direction al the way to Lepanto, just over the Tiber. Ciampino - either take the private bus to termini and jump on the A line metro Direzione Battistini, or get a bus to Anagnina and again take the A line in the Battistini direction, getting of at Lepanto
+
+By Train. From either Termini or any of the subsidiary stations get onto the Metro or head for the A line direzione Battistini getting off at Lepanto. Adversely from Termini it should be a 10-15 Euro taxi fare depending on traffic (may be slightly higher rate at night).</span><br>
+                                            </td>
+	</tr>
+</tbody></table>
+
+                                    <br>
+                                    
+                                    <br>
+                                </td>
+                                <td style="vertical-align: bottom; width: 100%">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+                <td background="../../../../images/tabl_fon.jpg" height="20">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    <br>
+                    <table align="center" bgcolor="#f8f8f8" border="0" cellpadding="0" cellspacing="0" width="540">
+                        <tbody><tr>
+                            <td height="40" rowspan="3" width="80">
+                                <img height="40" src="../../../../images/footer.jpg" width="80"></td>
+                            <td height="13">
+                                <div align="center">
+                                    <span class="footer">Accommodation - Cheap Hotels - www.allclasshotels.com - Discount
+                                        Hotels - Reservations</span></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer" height="13">
+                                <div align="center">
+                                    All images &amp; texts are belong to AllClasshotels.com</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer" height="13">
+                                <div align="center">
+                                    All rights reserved. Copyright ©2001-2009 by AllClassHotels.com
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+        <input type="hidden" name="CollapsiblePanelExtender1_ClientState" id="CollapsiblePanelExtender1_ClientState">
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AutoCompleteBehavior, {"id":"autoComplete1","minimumPrefixLength":1,"serviceMethod":"AutoComplete","servicePath":"Alc_W_S.asmx"}, null, null, $get("TextBox1"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CollapsiblePanelBehavior, {"ClientStateFieldID":"CollapsiblePanelExtender1_ClientState","CollapseControlID":"huseyin","Collapsed":true,"ExpandControlID":"huseyin","SuppressPostBack":true,"id":"CollapsiblePanelExtender1"}, null, null, $get("collap"));
+});
+//]]>
+</script>
+</form>
+
+
+</body></html>

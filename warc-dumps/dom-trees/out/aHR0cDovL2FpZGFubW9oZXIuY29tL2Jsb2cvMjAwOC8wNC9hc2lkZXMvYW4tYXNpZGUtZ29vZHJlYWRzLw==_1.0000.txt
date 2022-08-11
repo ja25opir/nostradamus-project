@@ -1,0 +1,674 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="shortcut icon" href="../images/favicon.ico">
+
+<title>An Aside | Goodreads - A Dribble of Ink | A Dribble of Ink</title>
+
+<meta name="generator" content="WordPress 3.0"> <!-- leave this for stats -->
+
+<link rel="stylesheet" href="http://aidanmoher.com/blog/wp-content/themes/lonelyway/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://aidanmoher.com/blog/wp-content/themes/lonelyway/print.css" type="text/css" media="print">
+<link rel="alternate" type="application/rss+xml" title="A Dribble of Ink RSS Feed" href="http://aidanmoher.com/blog/feed/">
+<link rel="pingback" href="http://aidanmoher.com/blog/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="A Dribble of Ink » An Aside | Goodreads Comments Feed" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/feed/">
+<link rel="stylesheet" id="google-ajax-translation-css" href="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/google-ajax-translation.css?ver=20100412" type="text/css" media="screen">
+<link rel="stylesheet" id="lightboxStyle-css" href="http://aidanmoher.com/blog/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.0.2" type="text/css" media="screen">
+<link rel="stylesheet" id="sexy-bookmarks-css" href="http://aidanmoher.com/blog/wp-content/plugins/sexybookmarks/spritegen/shr-custom-sprite.css?ver=3.2.3.1" type="text/css" media="all">
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/collapsing-archives/collapsFunctions.js?ver=1.7"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/i-like-this/js/i-like-this.js?ver=3.0"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/sexybookmarks/js/sexy-bookmarks-public.js?ver=3.2.3.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aidanmoher.com/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aidanmoher.com/blog/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="A Dribble of Ink" href="http://aidanmoher.com/blog/">
+<link rel="start" title="Review | The Elves of Cintra – Terry Brooks" href="http://aidanmoher.com/blog/2007/05/reviews/review-the-elves-of-cintra-terry-brooks/">
+<link rel="prev" title="An Aside | When Richard Speaks We Listen" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-when-richard-speaks-we-listen/">
+<link rel="next" title="Free Readin’ | Tor, Tor, Tor" href="http://aidanmoher.com/blog/2008/04/free-readin/free-readin-tor-tor-tor/">
+<meta name="generator" content="WordPress 3.0">
+<link rel="shortlink" href="http://wp.me/p4Bom-2y">
+
+<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[336,412] -->
+<meta name="description" content="So, apparently my insane obsession with tracking A Dribble of Ink's stats has come in handy for once. I noticed I got a referral from a web site called">
+<meta name="keywords" content="novels, reading, writing, goodreads, social networking, facebook, authors, books, stories, friends,asides">
+<link rel="canonical" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/">
+<!-- /all in one seo pack -->
+<style type="text/css">
+    .calnk a:hover {
+         background-position:0 0;
+         text-decoration:none;  
+         color:#BE561B;
+         border-bottom:1px dotted #000000;
+         }
+    .calnk a:visited {
+         text-decoration:none;
+         color:#BE561B;
+         border-bottom:1px dotted #000000;
+        }
+    .calnk a {
+        text-decoration:none; 
+        color:#BE561B; 
+        border-bottom:1px dotted #000000;
+        }
+    .calnk a span { 
+        display:none; 
+        }
+    .calnk a:hover span {
+        color:#BE561B; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        }
+     .calendar-table {
+        border:none;
+        width:100%;
+     }
+     .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+     }
+     .calendar-next {
+        width:25%;
+        text-align:center;
+     }
+     .calendar-prev {
+        width:25%;
+        text-align:center;
+     }
+     .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+     }
+     .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+     }
+     .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+     }
+     .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+     }
+     .no-events {
+
+     }
+     .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+     }
+     span.weekend {
+        color:#FF0000;
+     }
+     .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+     }
+     span.event {
+        font-size:0.75em;
+     }
+     .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+     }
+     .event-title {
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+     }
+     .event-title-break {
+        width:96%;
+        margin-left:2%;
+        margin-right:2%;
+        margin-top:5px;
+        margin-bottom:5px;
+        text-align:center;
+        height:1px;
+        background-color:#000000;
+     }
+     .event-content-break {
+        width:96%;
+        margin-left:2%;
+        margin-right:2%;
+        margin-top:5px;
+        margin-bottom:5px;
+        text-align:center;
+        height:1px;
+        background-color:#000000;
+     }
+     .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+     }
+     .calendar-date-switcher form {
+        margin:0;
+        padding:0;
+     }
+     .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+     }
+     .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+     }
+     .cat-key {
+        width:100%;
+        margin-top:10px;
+        padding:5px;
+        border:1px solid #D6DED5;
+     }
+</style>
+<style type="text/css">
+    
+    </style>
+<meta name="GeneralStats" content="2.00">
+<link rel="stylesheet" type="text/css" href="http://aidanmoher.com/blog/wp-content/plugins/i-like-this/css/i-like-this.css" media="screen">
+<script type="text/javascript">var blogUrl = 'http://aidanmoher.com/blog'</script>
+<meta name="tweetmeme-title" content="An Aside | Goodreads">				<link rel="stylesheet" href="http://aidanmoher.com/blog/wp-content/plugins/spectacula-threaded-comments/style/comments.css?ver=2.0.0" type="text/css" media="screen"></head>
+<body>
+
+<script type="text/javascript" src="http://track2.mybloglog.com/js/jsserv.php?mblID=2007110211143533"></script>
+
+<div id="page">
+  <div id="header">
+    <div id="headerlogo">
+	  <h1><a href="http://aidanmoher.com/blog/">A Dribble of Ink</a></h1>
+	  <div class="description">A part of the Aidan Moher network</div>
+	</div>
+	
+  </div>
+  <div id="navbottom">
+<span id="back_to_aidanmoherdotcom"><a href="http://www.aidanmoher.com">back to aidanmoher.com</a></span></div>
+  <!--/header -->
+  <div id="content">
+  
+  
+  
+    <div class="post" id="post-158">
+        <h1><a href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/" rel="bookmark" title="Permanent Link: An Aside | Goodreads">An Aside | Goodreads</a></h1>
+		<span class="post-cat"><a href="http://aidanmoher.com/blog/category/asides/" title="View all posts in Asides" rel="category tag">Asides</a>  <span class="post-print"><a href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/print/" title="Print This Post" rel="nofollow">Print This Post</a>
+</span></span> <span class="post-calendar">April 23rd, 2008</span>
+		<div class="post-content">
+
+		<div id="content_div-158">
+<div style="margin:0px;" class="author_pic">
+  <embed width="190" height="300" src="http://www.goodreads.com/images/widget/widget2.swf" quality="high" wmode="transparent" flashvars="id=1109421&amp;shelf=my-books&amp;title=Aidan's bookshelf&amp;sort=random&amp;order=d&amp;params=amazon,,dest_site,goodreads">
+</div>
+<p>So, apparently my insane obsession with tracking <strong>A Dribble of Ink’s</strong> stats has come in handy for once. I noticed I got a referral from a web site called <a href="http://www.goodreads.com/">Goodreads</a>. Curious, I followed the link and found on the other side a terrific web site that I can see myself using a lot in the future!</p>
+<p>From their web site:</p>
+<div class="quote">
+<p>When I was in second grade, I discovered the Hardy Boys series. Ever since, I’ve loved to read — both for fun and to improve my mind. And I’m always looking for the next great book. Reviews on Amazon and other sites are helpful, but I thought there might be a better way.</p>
+<p>One afternoon while I was scanning a friend’s bookshelf for my next great read, it struck me. When I want to know what books to read, I’d rather turn to a friend than any random person, bestseller list or algorithm. So I thought I’d build a website — a website where I could see my friends’ bookshelves and learn about what they thought of all their books.</p>
+<p>Goodreads is that site. It is a place where you can see what your friends are reading and vice versa. You can create “bookshelves” to organize what you’ve read (or want to read). You can comment on each other’s reviews. And on this journey with your friends you can explore new territory, gather information, and expand your mind.</p>
+<p>Knowledge is power; and power is best shared among friends.</p>
+</div>
+<p><strong>Goodreads</strong> is, in many ways, a social networking web site, like Face<strong>book</strong>. It allows you to index, rate, review, sell, trade and more. It even allows published/aspiring writers to upload downloadable pieces of their own novels. It’s definitely a place where I can see myself spending a lot of time, I’ve only indexed a small portion of my library and I’ve already got over 400 novels! It’s easy (and fun) to go through your library and take a look at some of the novels you haven’t read for years and then compare it with your friends.</p>
+<p><strong>Goodreads</strong> also seems like a terrific place to find reviews of nearly every novel out there, I haven’t found a single novel that I own that isn’t in their database, which is quite a feat.</p>
+<p>You can sign up for <strong>Goodreads</strong> <a href="http://www.goodreads.com/user/new?next=sign+up+%C2%BB">HERE</a> and check out my profile <a href="http://www.goodreads.com/profile/ADribbleofInk ">HERE</a>.</p>
+<p>If you sign up, be sure to add me as a friend!</p>
+<div id="iLikeThis-158" class="iLikeThis"><span class="counter"><a onclick="likeThis(158);" class="image">0</a></span></div><!-- PHP 5.x -->
+
+<div class="shr-bookmarks shr-bookmarks-expand shr-bookmarks-center shr-bookmarks-bg-enjoy">
+<ul class="socials">
+		<li class="shr-delicious">
+			<a href="http://delicious.com/post?url=http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/&amp;title=An+Aside+%7C+Goodreads" rel="nofollow" class="external" title="Share this on del.icio.us">&nbsp;</a>
+		</li>
+		<li class="shr-digg">
+			<a href="http://digg.com/submit?phase=2&amp;url=http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/&amp;title=An+Aside+%7C+Goodreads" rel="nofollow" class="external" title="Digg this!">&nbsp;</a>
+		</li>
+		<li class="shr-facebook">
+			<a href="http://www.facebook.com/share.php?v=4&amp;src=bm&amp;u=http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/&amp;t=An+Aside+%7C+Goodreads" rel="nofollow" class="external" title="Share this on Facebook" onclick="window.open(this.href,'sharer','toolbar=0,status=0,width=626,height=436'); return false;">&nbsp;</a>
+		</li>
+		<li class="shr-googlebookmarks">
+			<a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/&amp;title=An+Aside+%7C+Goodreads" rel="nofollow" class="external" title="Add this to Google Bookmarks">&nbsp;</a>
+		</li>
+		<li class="shr-reddit">
+			<a href="http://reddit.com/submit?url=http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/&amp;title=An+Aside+%7C+Goodreads" rel="nofollow" class="external" title="Share this on Reddit">&nbsp;</a>
+		</li>
+		<li class="shr-stumbleupon">
+			<a href="http://www.stumbleupon.com/submit?url=http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/&amp;title=An+Aside+%7C+Goodreads" rel="nofollow" class="external" title="Stumble upon something good? Share it on StumbleUpon">&nbsp;</a>
+		</li>
+		<li class="shr-twitter">
+			<a href="http://twitter.com/home?status=An+Aside+%7C+Goodreads+-+http://b2l.me/4pn8a&amp;source=shareaholic" rel="nofollow" class="external" title="Tweet This!">&nbsp;</a>
+		</li>
+		<li class="shr-yahoomail">
+			<a href="http://compose.mail.yahoo.com/?Subject=An+Aside+%7C+Goodreads&amp;body=Link: http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/ (sent via shareaholic)%0D%0A%0D%0A----%0D%0A %0D%0A%20%20%0D%0ASo%2C%20apparently%20my%20insane%20obsession%20with%20tracking%20A%20Dribble%20of%20Ink%27s%20stats%20has%20come%20in%20handy%20for%20once.%20I%20noticed%20I%20got%20a%20referral%20from%20a%20web%20site%20called%20Goodreads.%20Curious%2C%20I%20followed%20the%20link%20and%20found%20on%20the%20other%20side%20a%20terrific%20web%20site%20that%20I%20can%20see%20myself%20using%20a%20lot%20in%20the%20future%21%0D%0A%0D%0AFr" rel="nofollow" class="external" title="Email this via Yahoo! Mail">&nbsp;</a>
+		</li>
+</ul>
+<div style="clear:both;"></div>
+</div>
+
+</div>
+<div class="translate_block" style="display: none;">
+<hr class="translate_hr">
+<a class="translate_translate" id="translate_button_post-158" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 158);">[Translate]</a><img src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-158" class="translate_loading" style="display: none;" width="16" height="16" alt="">
+</div>
+
+
+<h3>Related posts</h3><ul><li><a href="http://aidanmoher.com/blog/2010/02/asides/an-aside-john-ottingers-5-tips-for-better-blogging/" rel="bookmark" title="Permanent Link: An Aside | John Ottinger’s 5 Tips for Better Blogging">An Aside | John Ottinger’s 5 Tips for Better Blogging</a></li>
+<li><a href="http://aidanmoher.com/blog/2008/01/asides/an-aside-fantasy-book-news-reviews/" rel="bookmark" title="Permanent Link: An Aside | Fantasy Book News &amp; Reviews">An Aside | Fantasy Book News &amp; Reviews</a></li>
+<li><a href="http://aidanmoher.com/blog/2008/07/asides/an-aside-suvudu-launches/" rel="bookmark" title="Permanent Link: An Aside | Suvudu Launches">An Aside | Suvudu Launches</a></li>
+<li><a href="http://aidanmoher.com/blog/2007/08/asides/an-aside-joe-abercrombies-web-site-has-launched/" rel="bookmark" title="Permanent Link: An Aside | Joe Abercrombie’s web site has launched!">An Aside | Joe Abercrombie’s web site has launched!</a></li>
+<li><a href="http://aidanmoher.com/blog/2007/05/asides/mini-reviews-an-explanation/" rel="bookmark" title="Permanent Link: Mini Reviews – An Explanation">Mini Reviews – An Explanation</a></li>
+</ul><p></p>		
+				
+			
+
+		</div>
+	
+			<div id="comments">
+		<div class="comment-title">Comments</div>			<ul id="commentlist">
+				
+		<li id="comment-1357" class="comment even thread-even depth-1">
+
+			<div id="div-comment-1357" class="comment-body">
+				
+								<div class="comment-content">
+					<div class="comment-meta">
+						<cite class="fn"><a href="http://fantasybookreviewer.blogspot.com/" rel="external">Jeff C</a><a href="http://fantasybookreviewer.blogspot.com/" rel="external"><img style="float: left; margin-right: 10px; display:inline;" src="http://www.gravatar.com/avatar/a1a51bf2b07dfef16aa38ce01e7295d0?rating=PG&amp;default=identicon" alt="No Gravatar" width="50" height="50/"></a></cite>
+						<span class="date">April 24, 2008 at 3:42 am</span>
+					</div>
+
+					<div class="comment-text">
+						<p>Yeah, Goodreads is pretty cool. I actually posted a question in the malazan forum yesterday in a related thread, asking which was better: library thing or goodreads. I think I like goodreads better. I’ll have to add you to my list of friends this am <img src="http://aidanmoher.com/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+					</div>
+
+										<div class="comment-buttons"><a rel="nofollow" class="comment-reply-link" href="/blog/2008/04/asides/an-aside-goodreads/?replytocom=1357#respond" onclick="return addComment.moveForm(&quot;comment-1357&quot;, &quot;1357&quot;, &quot;respond&quot;, &quot;158&quot;)">Reply</a>						<a class="comment-button comment-link" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/comment-page-1/#comment-1357">Link</a>
+					</div>
+				</div>
+
+			</div>
+		</li>
+
+		<li id="comment-1362" class="comment odd alt thread-odd thread-alt depth-1">
+
+			<div id="div-comment-1362" class="comment-body">
+				
+								<div class="comment-content">
+					<div class="comment-meta">
+						<cite class="fn"><a href="http://templelibraryreviews.blogspot.com/" rel="external">Harry~DayDream</a><a href="http://templelibraryreviews.blogspot.com/" rel="external"><img style="float: left; margin-right: 10px; display:inline;" src="http://www.gravatar.com/avatar/c800b8087e453df5b32535c50887bcb0?rating=PG&amp;default=identicon" alt="No Gravatar" width="50" height="50/"></a></cite>
+						<span class="date">April 24, 2008 at 10:43 pm</span>
+					</div>
+
+					<div class="comment-text">
+						<p>This actually reminds me of another similar site called Shelfari, which seems a bit identical. I am there as well, but not as much active as I would like. Cool blog.</p>
+					</div>
+
+										<div class="comment-buttons"><a rel="nofollow" class="comment-reply-link" href="/blog/2008/04/asides/an-aside-goodreads/?replytocom=1362#respond" onclick="return addComment.moveForm(&quot;comment-1362&quot;, &quot;1362&quot;, &quot;respond&quot;, &quot;158&quot;)">Reply</a>						<a class="comment-button comment-link" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/comment-page-1/#comment-1362">Link</a>
+					</div>
+				</div>
+
+			</div>
+		</li>
+
+		<li id="comment-1378" class="comment even thread-even depth-1">
+
+			<div id="div-comment-1378" class="comment-body">
+				
+								<div class="comment-content">
+					<div class="comment-meta">
+						<cite class="fn">ediFanoB<img style="float: left; margin-right: 10px; display:inline;" src="http://www.gravatar.com/avatar/52adbc428ebe7b9979e2b0c5d311a802?rating=PG&amp;default=identicon" alt="No Gravatar" width="50" height="50/"></cite>
+						<span class="date">May 2, 2008 at 10:15 am</span>
+					</div>
+
+					<div class="comment-text">
+						<p>I didn’t know Goodreads before. I agree with Jeff C. It’s pretty cool. Thank you for mention Goodreads. Based on your blog entry I signed up. After a few days  I can tell you it’s a kind of drug for me.</p>
+					</div>
+
+										<div class="comment-buttons"><a rel="nofollow" class="comment-reply-link" href="/blog/2008/04/asides/an-aside-goodreads/?replytocom=1378#respond" onclick="return addComment.moveForm(&quot;comment-1378&quot;, &quot;1378&quot;, &quot;respond&quot;, &quot;158&quot;)">Reply</a>						<a class="comment-button comment-link" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/comment-page-1/#comment-1378">Link</a>
+					</div>
+				</div>
+
+			</div>
+		</li>
+
+		<li id="comment-1381" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+
+			<div id="div-comment-1381" class="comment-body">
+				
+								<div class="comment-content">
+					<div class="comment-meta">
+						<cite class="fn"><a href="http://www.aidanmoher.com" rel="external">aidan</a><a href="http://www.aidanmoher.com" rel="external"><img style="float: left; margin-right: 10px; display:inline;" src="http://www.gravatar.com/avatar/c5fb70e49d3522a282c8486826b840ab?rating=PG&amp;default=identicon" alt="No Gravatar" width="50" height="50/"></a></cite>
+						<span class="date">May 2, 2008 at 10:02 pm</span>
+					</div>
+
+					<div class="comment-text">
+						<p>Judging by the invites I’ve received, and ediFanoB’s comments, it looks like some of you are following my advice and signing up! Now I just need to get back and continue adding my huge library of books….</p>
+					</div>
+
+										<div class="comment-buttons"><a rel="nofollow" class="comment-reply-link" href="/blog/2008/04/asides/an-aside-goodreads/?replytocom=1381#respond" onclick="return addComment.moveForm(&quot;comment-1381&quot;, &quot;1381&quot;, &quot;respond&quot;, &quot;158&quot;)">Reply</a>						<a class="comment-button comment-link" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/comment-page-1/#comment-1381">Link</a>
+					</div>
+				</div>
+
+			</div>
+		</li>
+
+		<li id="comment-1390" class="comment even thread-even depth-1">
+
+			<div id="div-comment-1390" class="comment-body">
+				
+								<div class="comment-content">
+					<div class="comment-meta">
+						<cite class="fn"><a href="http://www.rulethewaves.net" rel="external">Li</a><a href="http://www.rulethewaves.net" rel="external"><img style="float: left; margin-right: 10px; display:inline;" src="http://www.gravatar.com/avatar/69125824b9a4fe456732fd0efc5f375d?rating=PG&amp;default=identicon" alt="No Gravatar" width="50" height="50/"></a></cite>
+						<span class="date">May 5, 2008 at 6:12 am</span>
+					</div>
+
+					<div class="comment-text">
+						<p>I recently came across GoodReads from another website as well…love the idea of a social networking site with books as its focus (I could never say no to that, haha). <img src="http://aidanmoher.com/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+					</div>
+
+										<div class="comment-buttons"><a rel="nofollow" class="comment-reply-link" href="/blog/2008/04/asides/an-aside-goodreads/?replytocom=1390#respond" onclick="return addComment.moveForm(&quot;comment-1390&quot;, &quot;1390&quot;, &quot;respond&quot;, &quot;158&quot;)">Reply</a>						<a class="comment-button comment-link" href="http://aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/comment-page-1/#comment-1390">Link</a>
+					</div>
+				</div>
+
+			</div>
+		</li>
+
+			<li class="depth-1" id="respond">
+				<div class="comment-body">
+						<form action="http://aidanmoher.com/blog/wp-comments-post.php" method="post" id="comment-form">
+							<fieldset>
+								<div class="comment-form-row">
+									<label for="author">Name</label>
+									<input type="text" name="author" id="author" value="" size="30" tabindex="1" class="vital">
+								</div>
+
+								<div class="comment-form-row">
+									<label for="email">Email</label>
+									<input type="text" name="email" id="email" value="" size="30" tabindex="2" class="vital">
+								</div>
+
+								<div class="comment-form-row">
+									<label for="url">Website</label>
+									<input type="text" name="url" id="url" value="" size="30" tabindex="3">
+								</div>
+								
+								<div class="textarea-border">
+									<textarea name="comment" id="comment" cols="50" rows="3" tabindex="4" class="vital"></textarea>
+								</div>
+
+								<div class="comment-buttons">
+									<input name="submit" type="submit" tabindex="5" value="Post your comment" class="submit">
+									<a rel="nofollow" id="cancel-comment-reply-link" href="/blog/2008/04/asides/an-aside-goodreads/#respond" style="display:none;">Cancel reply</a>								</div>
+
+								<input type="hidden" name="comment_post_ID" value="158"><input type="hidden" name="comment_post_ID" value="158" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+
+
+	<p style="clear: both;" class="subscribe-to-comments">
+	<input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;">
+	<label for="subscribe">Subscribe to these comments?</label>
+	</p>
+
+
+
+<!-- Threaded commenting powered by http://Spectacu.la/ code. -->
+							</fieldset>
+						</form>				</div>
+			</li>			</ul>
+
+			<div id="comment-pagination">
+							</div>
+
+				</div>
+			
+</div><!--/post -->
+
+  </div><!--/content -->
+
+<div id="sidebar">
+<ul>
+<li>
+      <h2 class="sidebartitle">Home</h2>
+      <ul class="list-blogroll">
+        <li><strong><a href="http://aidanmoher.com/blog">A Dribble of Ink</a></strong></li>
+<li><strong><a href="http://www.aidanmoher.com/mightierthanthesword">Mightier than the Sword</a></strong></li>
+<li><strong><a href="http://aidanmoher.com">aidanmoher.com</a></strong></li>
+
+<h2 class="sidebartitle"> Blogroll </h2>
+<li><strong><a href="http://aidanmoher.com/blog/?page_id=322">Big List o' SF Blogs</a></strong></li>
+
+<h2 class="sidebartitle"> Find Me </h2>
+<strong><li><a href="http://www.aidanmoher.com/contact"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/email_32x32.png" width="32px" height="32" alt="Email Me Icon"> contact me</a></li></strong>
+<strong><li><a href="http://feeds2.feedburner.com/aidanmoher/eiaU" rel="alternate" type="application/rss+xml"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/rss_32x32.png" width="32px" height="32" alt="RSS Icon"> subscribe</a><br><!-- --><p><a href="http://feeds.feedburner.com/aidanmoher/eiaU"><img src="http://feeds.feedburner.com/~fc/aidanmoher/eiaU?bg=FFFFFF&amp;fg=c4570a&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p><!-- --></li></strong>
+<strong><li><a href="http://twitter.com/adribbleofink"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/twitter_32.png" width="32px" height="32" alt="Twitter Icon"> twitter</a></li></strong>
+<strong><li><a href="http://delicious.com/adribbleofink"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/delicious_32x32.png" width="32px" height="32" alt="Delicious Icon"> delicious</a></li></strong>
+<strong><li><a href="http://technorati.com/blogs/aidanmoher.com/blog"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/technorati_32x32.png" width="32px" height="32" alt="Technorati Icon"> technorati</a></li></strong>
+<strong><li><a href="http://www.linkedin.com/profile?viewProfile=&amp;key=37907316&amp;locale=en_US&amp;trk=tab_pro"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/linkedin_32.png" width="32px" height="32" alt="LinkedIn Icon"> linkedin</a></li></strong>
+<strong><li><a href="http://www.flickr.com/photos/aidanmoher"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/flickr_32.png" width="32px" height="32" alt="Flickr Icon"> flickr</a></li></strong>
+<strong><li><a href="http://lmgtfy.com/?q=Aidan+Moher"><img src="http://aidanmoher.com/blog/wp-content/themes/lonelyway/img/icons/google_32.png" width="32px" height="32" alt="Google Icon"> google me</a></li></strong>
+
+  <li id="rss-2" class="widget widget_rss"><h2 class="sidebartitle"><a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword/category/fiction/feed/" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://aidanmoher.com/blog/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword" title="Aidan Moher's Words and Rambles on Writing.">Recent Fiction</a></h2><ul><li><a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword/2010/05/07/short-story-big-blue-malibu/" title="Big Blue Malibu I’m dying. And as I lay here dying, my frail body cushioned and caressed by my deathbed, I find it funny what thoughts run through my head. My life these days consists of nothing but thinking and pondering, but they are not the thoughts I would have expected in my situation: instead of begrudging […]">Short Story | Big Blue Malibu</a></li><li><a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword/2010/04/01/short-story-the-harsh-mistress/" title="The Harsh Mistress She first caught my trail when I lost my job. I did not recognize her as a monster, while she lurked within the shadows on the edge of my despair, nor when she stepped into the light, offering all the answers. We grew close, as she seduced me, took me under her wing and […]">Short Story | The Harsh Mistress</a></li><li><a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword/2010/03/16/short-story-whisperwind/" title="Whisperwind If the city of Marrakech is a living beast, Djemaa El-Fna is its heart. It is known as The Assembly of the Dead in my tongue, and no name suits it better. A vast plaza, edged on one side by the souk, the labyrinthine markets of Marrakech, it is home to snake charmers and merchants […]">Short Story | Whisperwind</a></li><li><a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword/2010/02/01/flash-fiction-what-we-left-behind/" title="What We Left Behind And there he was. The rich American. The fat American. My Husband. My knight in shining armour. &nbsp;&nbsp;&nbsp;Well, ‘shining’ maybe is not the best word. ‘Tarnished’. That is a better word. My knight in tarnished armour. Though, ‘knight’ is not the best word, also. I do not know a better one. It was […]">Flash Fiction | What We Left Behind</a></li><li><a class="rsswidget" href="http://aidanmoher.com/mightierthanthesword/2010/01/26/short-story-piss-and-vinegar/" title="Piss and Vinegar There wasn’t much evidence to go by, not enough for my liking at least. Just an empty club, the maelstrom remnants of a dried out party, a skinny girl, a fat man and a very dead body. &nbsp;&nbsp;&nbsp;It wasn’t much, no, but I’d worked with less and come through the other end all right. &nbsp;&nbsp;&nbsp;The […]">Short Story | ‘Piss and Vinegar’</a></li></ul></li>
+<li id="search-2" class="widget widget_search"><form method="get" id="searchform" action="http://aidanmoher.com/blog/">
+<div><input type="text" value="" name="s" id="s">
+<input type="submit" id="searchsubmit" value="Search">
+</div>
+</form>
+</li>
+<li id="categories-1" class="widget widget_categories"><h2 class="sidebartitle">Categories</h2>		<ul>
+	<li class="cat-item cat-item-21"><a href="http://aidanmoher.com/blog/category/articles/" title="View all posts filed under Articles">Articles</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://aidanmoher.com/blog/category/asides/" title="View all posts filed under Asides">Asides</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://aidanmoher.com/blog/category/cover-art/" title="View all posts filed under Cover Art">Cover Art</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://aidanmoher.com/blog/category/free-readin/" title="View all posts filed under Free Readin'">Free Readin'</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://aidanmoher.com/blog/category/i-ask-you/" title="View all posts filed under I Ask You">I Ask You</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://aidanmoher.com/blog/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://aidanmoher.com/blog/category/reviews/" title="My uber-egotistical book reviews. ">Reviews</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://aidanmoher.com/blog/category/videogames/" title="View all posts filed under Videogames">Videogames</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://aidanmoher.com/blog/category/writing/" title="View all posts filed under Writing">Writing</a>
+</li>
+		</ul>
+</li>
+<li id="calendar-2" class="widget widget_calendar"><h2 class="sidebartitle">Calendar</h2><div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
+	<caption>April 2008</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Sunday">S</th>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://aidanmoher.com/blog/2008/03/" title="View posts for March 2008">« Mar</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="http://aidanmoher.com/blog/2008/05/" title="View posts for May 2008">May »</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td><a href="http://aidanmoher.com/blog/2008/04/02/" title="An Aside | The (Late) Bastards and the (Tardy) Knives">2</a></td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td>7</td><td>8</td><td><a href="http://aidanmoher.com/blog/2008/04/09/" title="Review | The Ancient by R.A. Salvatore">9</a></td><td>10</td><td><a href="http://aidanmoher.com/blog/2008/04/11/" title="An Aside | A Reeeealy Old Widget">11</a></td><td>12</td>
+	</tr>
+	<tr>
+		<td><a href="http://aidanmoher.com/blog/2008/04/13/" title="Interview | Michael Swanwick">13</a></td><td>14</td><td><a href="http://aidanmoher.com/blog/2008/04/15/" title="Review | The Forever War by Joe Haldeman">15</a></td><td>16</td><td><a href="http://aidanmoher.com/blog/2008/04/17/" title="An Aside | Tobias Buckell Cares About YOU, Free Readin’ | Last Contact by Stephen Baxter">17</a></td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td><a href="http://aidanmoher.com/blog/2008/04/23/" title="An Aside | When Richard Speaks We Listen, An Aside | Goodreads">23</a></td><td>24</td><td><a href="http://aidanmoher.com/blog/2008/04/25/" title="Free Readin’ | Tor, Tor, Tor">25</a></td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td><a href="http://aidanmoher.com/blog/2008/04/28/" title="Mini-review | Cockeyed by Ryan Knighton">28</a></td><td>29</td><td>30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>
+<li id="generalstats-2" class="widget widget_generalstats"><h2 class="sidebartitle">Statistics</h2><div class="generalstats-refreshable-output"><ul><li><strong>Posts |</strong>&nbsp;748</li><li><strong>Words in Posts |</strong>&nbsp;375,839</li><li><strong>Comments |</strong>&nbsp;4,101</li><li><strong>Words in Comments |</strong>&nbsp;246,353</li></ul></div></li>
+
+</ul>
+
+</li></ul>
+<div style="visibility:hidden;"><!-- Site Meter XHTML Strict 1.0 -->
+<script type="text/javascript" src="http://s21.sitemeter.com/js/counter.js?site=s21adribbleofink">
+</script>
+<!-- Copyright (c)2009 Site Meter --></div>
+
+</div>
+<!--/sidebar -->
+  
+  <div id="close">
+ </div> 
+</div><!--/page -->
+<!--footer bar -->
+<div id="fbar">
+<font color="white"><span id="created_by"> Based on a template by: &nbsp;<a href="http://www.sadhweb.com" title="SadhWeb Directory" target="_blank">SadhWeb Directory</a> &nbsp;&amp; &nbsp;<a href="http://www.wptheme.net" title="WP Theme" target="_blank">WP Theme</a> </span> </font>
+<!--footer bar end -->
+<div id="translate_popup" style="display: none;">
+	<table class="translate_links"><tbody><tr><td valign="top">
+		<a class="languagelink" lang="en" xml:lang="en" href="#" title="English"><img class="translate_flag en" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="English" width="16" height="11"> English</a>
+		<a class="languagelink" lang="af" xml:lang="af" href="#" title="Afrikaans"><img class="translate_flag af" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Afrikaans" width="16" height="11"> Afrikaans</a>
+		<a class="languagelink" lang="ar" xml:lang="ar" href="#" title="Arabic"><img class="translate_flag ar" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="العربية" width="16" height="11"> العربية</a>
+		<a class="languagelink" lang="be" xml:lang="be" href="#" title="Belarusian"><img class="translate_flag be" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Беларуская" width="16" height="11"> Беларуская</a>
+		<a class="languagelink" lang="bg" xml:lang="bg" href="#" title="Bulgarian"><img class="translate_flag bg" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="български" width="16" height="11"> български</a>
+		<a class="languagelink" lang="ca" xml:lang="ca" href="#" title="Catalan"><img class="translate_flag ca" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="català" width="16" height="11"> català</a>
+		<a class="languagelink" lang="cs" xml:lang="cs" href="#" title="Czech"><img class="translate_flag cs" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="česky" width="16" height="11"> česky</a>
+		<a class="languagelink" lang="cy" xml:lang="cy" href="#" title="Welsh"><img class="translate_flag cy" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Cymraeg" width="16" height="11"> Cymraeg</a>
+		<a class="languagelink" lang="da" xml:lang="da" href="#" title="Danish"><img class="translate_flag da" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="dansk" width="16" height="11"> dansk</a>
+		<a class="languagelink" lang="de" xml:lang="de" href="#" title="German"><img class="translate_flag de" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Deutsch" width="16" height="11"> Deutsch</a>
+		<a class="languagelink" lang="el" xml:lang="el" href="#" title="Greek"><img class="translate_flag el" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ελληνική" width="16" height="11"> ελληνική</a>
+		<a class="languagelink" lang="es" xml:lang="es" href="#" title="Spanish"><img class="translate_flag es" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="español" width="16" height="11"> español</a>
+		<a class="languagelink" lang="et" xml:lang="et" href="#" title="Estonian"><img class="translate_flag et" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="eesti" width="16" height="11"> eesti</a>
+		<a class="languagelink" lang="fa" xml:lang="fa" href="#" title="Persian"><img class="translate_flag fa" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="فارسی" width="16" height="11"> فارسی</a>
+		<a class="languagelink" lang="fi" xml:lang="fi" href="#" title="Finnish"><img class="translate_flag fi" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="suomi" width="16" height="11"> suomi</a>
+		<a class="languagelink" lang="fr" xml:lang="fr" href="#" title="French"><img class="translate_flag fr" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="français" width="16" height="11"> français</a>
+		<a class="languagelink" lang="ga" xml:lang="ga" href="#" title="Irish"><img class="translate_flag ga" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Gaeilge" width="16" height="11"> Gaeilge</a>
+		<a class="languagelink" lang="gl" xml:lang="gl" href="#" title="Galician"><img class="translate_flag gl" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="galego" width="16" height="11"> galego</a>
+	</td><td valign="top">
+		<a class="languagelink" lang="he" xml:lang="he" href="#" title="Hebrew"><img class="translate_flag he" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="עברית" width="16" height="11"> עברית</a>
+		<a class="languagelink" lang="hi" xml:lang="hi" href="#" title="Hindi"><img class="translate_flag hi" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="हिन्दी" width="16" height="11"> हिन्दी</a>
+		<a class="languagelink" lang="hr" xml:lang="hr" href="#" title="Croatian"><img class="translate_flag hr" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="hrvatski" width="16" height="11"> hrvatski</a>
+		<a class="languagelink" lang="hu" xml:lang="hu" href="#" title="Hungarian"><img class="translate_flag hu" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="magyar" width="16" height="11"> magyar</a>
+		<a class="languagelink" lang="id" xml:lang="id" href="#" title="Indonesian"><img class="translate_flag id" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="bahasa Indonesia" width="16" height="11"> bahasa Indonesia</a>
+		<a class="languagelink" lang="is" xml:lang="is" href="#" title="Icelandic"><img class="translate_flag is" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="íslenska" width="16" height="11"> íslenska</a>
+		<a class="languagelink" lang="it" xml:lang="it" href="#" title="Italian"><img class="translate_flag it" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="italiano" width="16" height="11"> italiano</a>
+		<a class="languagelink" lang="ja" xml:lang="ja" href="#" title="Japanese"><img class="translate_flag ja" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="日本語" width="16" height="11"> 日本語</a>
+		<a class="languagelink" lang="ko" xml:lang="ko" href="#" title="Korean"><img class="translate_flag ko" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="한국어" width="16" height="11"> 한국어</a>
+		<a class="languagelink" lang="lt" xml:lang="lt" href="#" title="Lithuanian"><img class="translate_flag lt" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="lietuvių" width="16" height="11"> lietuvių</a>
+		<a class="languagelink" lang="lv" xml:lang="lv" href="#" title="Latvian"><img class="translate_flag lv" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="latviešu" width="16" height="11"> latviešu</a>
+		<a class="languagelink" lang="mk" xml:lang="mk" href="#" title="Macedonian"><img class="translate_flag mk" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="македонски" width="16" height="11"> македонски</a>
+		<a class="languagelink" lang="ms" xml:lang="ms" href="#" title="Malay"><img class="translate_flag ms" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="bahasa Melayu" width="16" height="11"> bahasa Melayu</a>
+		<a class="languagelink" lang="mt" xml:lang="mt" href="#" title="Maltese"><img class="translate_flag mt" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Malti" width="16" height="11"> Malti</a>
+		<a class="languagelink" lang="nl" xml:lang="nl" href="#" title="Dutch"><img class="translate_flag nl" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Nederlands" width="16" height="11"> Nederlands</a>
+		<a class="languagelink" lang="no" xml:lang="no" href="#" title="Norwegian"><img class="translate_flag no" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="norsk" width="16" height="11"> norsk</a>
+		<a class="languagelink" lang="pl" xml:lang="pl" href="#" title="Polish"><img class="translate_flag pl" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="polski" width="16" height="11"> polski</a>
+		<a class="languagelink" lang="pt" xml:lang="pt" href="#" title="Portuguese"><img class="translate_flag pt" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="português" width="16" height="11"> português</a>
+	</td><td valign="top">
+		<a class="languagelink" lang="ro" xml:lang="ro" href="#" title="Romanian"><img class="translate_flag ro" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="română" width="16" height="11"> română</a>
+		<a class="languagelink" lang="ru" xml:lang="ru" href="#" title="Russian"><img class="translate_flag ru" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="русский" width="16" height="11"> русский</a>
+		<a class="languagelink" lang="sk" xml:lang="sk" href="#" title="Slovak"><img class="translate_flag sk" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="slovenčina" width="16" height="11"> slovenčina</a>
+		<a class="languagelink" lang="sl" xml:lang="sl" href="#" title="Slovenian"><img class="translate_flag sl" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="slovenščina" width="16" height="11"> slovenščina</a>
+		<a class="languagelink" lang="sq" xml:lang="sq" href="#" title="Albanian"><img class="translate_flag sq" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="shqipe" width="16" height="11"> shqipe</a>
+		<a class="languagelink" lang="sr" xml:lang="sr" href="#" title="Serbian"><img class="translate_flag sr" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="српски" width="16" height="11"> српски</a>
+		<a class="languagelink" lang="sv" xml:lang="sv" href="#" title="Swedish"><img class="translate_flag sv" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="svenska" width="16" height="11"> svenska</a>
+		<a class="languagelink" lang="sw" xml:lang="sw" href="#" title="Swahili"><img class="translate_flag sw" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Kiswahili" width="16" height="11"> Kiswahili</a>
+		<a class="languagelink" lang="th" xml:lang="th" href="#" title="Thai"><img class="translate_flag th" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ภาษาไทย" width="16" height="11"> ภาษาไทย</a>
+		<a class="languagelink" lang="tl" xml:lang="tl" href="#" title="Filipino"><img class="translate_flag tl" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Filipino" width="16" height="11"> Filipino</a>
+		<a class="languagelink" lang="tr" xml:lang="tr" href="#" title="Turkish"><img class="translate_flag tr" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Türkçe" width="16" height="11"> Türkçe</a>
+		<a class="languagelink" lang="uk" xml:lang="uk" href="#" title="Ukrainian"><img class="translate_flag uk" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="українська" width="16" height="11"> українська</a>
+		<a class="languagelink" lang="vi" xml:lang="vi" href="#" title="Vietnamese"><img class="translate_flag vi" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="tiếng Việt" width="16" height="11"> tiếng Việt</a>
+		<a class="languagelink" lang="yi" xml:lang="yi" href="#" title="Yiddish"><img class="translate_flag yi" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ייִדיש" width="16" height="11"> ייִדיש</a>
+		<a class="languagelink" lang="zh-cn" xml:lang="zh-cn" href="#" title="Chinese (Simplified)"><img class="translate_flag zh-cn" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="中文 (简体)" width="16" height="11"> 中文 (简体)</a>
+		<a class="languagelink" lang="zh-tw" xml:lang="zh-tw" href="#" title="Chinese (Traditional)"><img class="translate_flag zh-tw" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/transparent.gif" alt="中文 (繁體)" width="16" height="11"> 中文 (繁體)</a>
+		<a class="google_branding" rel="nofollow" href="http://translate.google.com/translate?sl=auto&amp;tl=en&amp;u=aidanmoher.com/blog/2008/04/asides/an-aside-goodreads/" title="translate page">powered by<img src="http://www.google.com/uds/css/small-logo.png" alt="Google" title="" width="51" height="15"></a>
+	</td></tr></tbody></table>
+</div>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/google-ajax-translation/jquery.translate-1.4.1.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/lightbox-plus/js/jquery.colorbox-min.js?ver=1.3.8"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-includes/js/json2.js?ver=20090817"></script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/spectacula-threaded-comments/js/jquery.scrollTo-1.4.2-min.js?ver=1.4.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var commentingL10n = {
+	tb_show: "Show trackbacks",
+	tb_hide: "Hide trackbacks",
+	rpl_hide_2: "Hide %count% replies to %name%\'s comment",
+	rpl_show_2: "View %count% replies to %name%\'s comment",
+	rpl_hide_1: "Hide the reply to %name%\'s comment",
+	rpl_show_1: "View the reply to %name%\'s comment",
+	tb_from: "Trackback from: %s",
+	err_txt_mis: "Missing some fields",
+	unknown: "Unknown commenter",
+	order: "asc",
+	polling: "30",
+	update: "0",
+	time: "2010-07-22 10:23:12",
+	post_id: "158",
+	ajax_url: "http://aidanmoher.com/blog/",
+	nest_depth: "10",
+	max_depth: "5"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://aidanmoher.com/blog/wp-content/plugins/spectacula-threaded-comments/js/commenting.min.js?ver=1.0.3"></script>
+<!-- Lightbox Plus v2.0.5 - 2010.07.02 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({opacity:0.8});
+});
+</script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201029.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'1097050',v:'ext',post:'158'});
+var load_cmc = function(){linktracker_init(1097050,158,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1953591-2";
+urchinTracker();
+</script>
+<!-- Google Analytics -->
+
+
+
+
+
+
+
+</div></body></html><!-- Dynamic page generated in 8.044 seconds. --><!-- Cached page generated by WP-Super-Cache on 2010-07-22 10:23:19 --><!-- super cache -->

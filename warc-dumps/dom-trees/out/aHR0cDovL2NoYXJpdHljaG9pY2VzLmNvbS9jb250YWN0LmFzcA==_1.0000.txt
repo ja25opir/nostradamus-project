@@ -1,0 +1,539 @@
+<html><head>
+<title>Request More Information</title>
+<link rel="stylesheet" href="Main.css" type="text/css">
+<meta name="description" content="Please use our on-line Information Request Form to learn more about any charity on this website, learn more about Charitable Choices or receive our publications in the future.">
+</head>
+<body bgcolor="#E05438" leftmargin="5" topmargin="0">
+
+<table width="760" border="0" cellspacing="0" class="Bodytxt" cellpadding="0">
+  <tbody><tr> 
+    <td valign="top" colspan="2"><img src="images/2000logo.gif" width="161" height="57"></td>
+    
+  <td valign="top" class="unnamed1">
+  <b class="unnamed1"><font color="#FFFFFF">&nbsp;&nbsp;Here are inspiring stories of 300+ charities. All have met the accountability<br>&nbsp;&nbsp;standards of the federal government's charity drive. We tell you how much<br>&nbsp;&nbsp;each spends on overhead.  You can make an online donation to nearly all.</font> </b>
+  </td>
+  </tr>
+
+  <tr> 
+    <td valign="top" colspan="3" height="33">
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top" rowspan="2" width="161">
+       
+<table border="0">
+  <tbody><tr align="center"> 
+    <td colspan="3" valign="top" class="MenuHeader"> <b class="MenuHeader"><font color="#FFFFFF">Charities 
+      by<br>
+      Categories</font></b></td>
+  </tr>
+  <tr align="center"> 
+    <td colspan="3" valign="top"> <table border="2" bgcolor="#F8BC00" width="98%">
+        <tbody><tr align="center" valign="top"> 
+          <td> <a href="categories/all.asp" class="MenuLinkBlack">All 
+            Charities A to Z</a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr align="center"> 
+    <td colspan="3" valign="top"> <table border="2" bgcolor="#F8BC00" width="99%">
+        <tbody><tr align="center" valign="top"> 
+          <td> <a href="categories/national.asp" class="MenuLinkBlack">National/International</a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr align="center"> 
+    <td colspan="3" height="36" valign="top"> <table border="2" bgcolor="#F8BC00" width="100%">
+        <tbody><tr align="center" valign="top"> 
+          <td> <a href="categories/dc.asp" class="MenuLinkBlack">Charities 
+            Serving <br>
+            the DC Metro Area</a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr align="center"> 
+    <td colspan="3" height="36" valign="top"> <table border="2" bgcolor="#F8BC00" width="100%">
+        <tbody><tr align="center" valign="top"> 
+          <td> <a href="categories/ca.asp?cart=" class="MenuLinkBlack">Charities 
+            Serving <br>
+            California</a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="22" colspan="3" align="left" valign="top"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="10" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/accountablegovt.asp" class="menulink">Accountable 
+            Government</a></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="10" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/adoption.asp" class="menulink">Adoption</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="10" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/aging.asp" class="menulink">Aging</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="10" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/wildlife.asp" class="menulink">Animal\Wildlife 
+            Protection</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="10" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/arts.asp" class="menulink">Arts</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/children.asp" class="menulink">Children</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/civil.asp" class="menulink">Civil 
+            and Human Rights</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/conflicttrans.asp" class="menulink">Conflict 
+            Transformation </a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/Conservation.asp" class="menulink">Conservation</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/consumer.asp" class="menulink">Consumer 
+            Protection</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/disabilities.asp" class="menulink">Disabilities</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td width="10" height="18" colspan="3" align="left" valign="top"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/disaster.asp" class="menulink">Disaster 
+            Relief</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="18" colspan="3" align="left" nowrap><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/domviolence.asp" class="menulink">Domestic 
+            Violence</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/education.asp" class="menulink">Education</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/environmental.asp" class="menulink">Environmental 
+            Protection</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/faith.asp" class="menulink">Faith-Based 
+            Services</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/FamilySupport.asp" class="menulink">Family 
+            Support</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/health.asp" class="menulink">Health</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/homeless.asp" class="menulink">Homeless</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/hospice.asp" class="menulink">Hospice</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/housing.asp" class="menulink">Housing</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/hunger.asp" class="menulink">Hunger</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/international.asp" class="menulink">International</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><span class="GiveMenu"><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></span></td>
+          <td nowrap><b><a href="categories/jails.asp" class="menulink">Jails/Prisons</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="18" colspan="3" align="left" valign="top"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><span class="GiveMenu"><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></span></td>
+          <td nowrap><b><a href="categories/legal.asp" class="menulink">Legal 
+            Services </a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><span class="GiveMenu"><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></span></td>
+          <td nowrap><b><a href="categories/medicalresearch.asp" class="menulink">Medical 
+            Research </a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><span class="GiveMenu"><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></span></td>
+          <td nowrap><b><a href="categories/mental.asp" class="menulink">Mental 
+            Health</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/military.asp" class="menulink">Military\Veterans</a></b><b><a href="categories/military.asp" class="menulink"> 
+            Services</a></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/museums.asp" class="menulink">Museums</a></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/peace.asp" class="menulink">Peace</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/poverty.asp" class="menulink">Poverty</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/publicsafety.asp" class="menulink">Public 
+            Safety</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"><table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/rural.asp" class="menulink">Rural 
+            Concerns </a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/socailjustice.asp" class="menulink">Social 
+            and Economic Justice</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/socialserv.asp" class="menulink">Social 
+            Services</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+<!--
+  <tr> 
+    <td align='left' height='18' width='10' colspan='3'> <table width='12' border='0' cellspacing='0' cellpadding='2' align='left'>
+        <tr> 
+          <td><b><img src='images/frontbutton.gif' width='8' height='9' align='baseline'></b></td>
+          <td nowrap><b><a href='categories/special.asp' class='menulink'>Special 
+            Activities</a></b><b></b></td>
+        </tr>
+      </table></td>
+  </tr>
+-->  
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/women.asp" class="menulink">Women</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" height="18" width="10" colspan="3"> <table width="12" border="0" cellspacing="0" cellpadding="2" align="left">
+        <tbody><tr> 
+          <td><b><img src="images/frontbutton.gif" width="8" height="9" align="baseline"></b></td>
+          <td nowrap><b><a href="categories/youth.asp" class="menulink">Youth</a></b><b></b></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+    </td>
+    <td valign="top" align="right" width="18" background="images/bar.gif">&nbsp; </td>
+    <td valign="top" bgcolor="#FFFFF0" rowspan="2">
+      <table width="542" border="0" bgcolor="#FFFFF0" cellspacing="2" cellpadding="2" align="center" class="Bodytxt">
+    <tbody><tr> 
+          <td valign="top" bgcolor="#FFFFF0" class="BodyLinkBold"> 
+            <p class="SectionHeader">&nbsp;&nbsp; How to Contact Us </p>
+            <table cols="1" width="100%" class="Bodytxt">
+              <tbody><tr> 
+                <td valign="TOP" class="BodyLinkBold"> 
+                  <center>
+                    <b>To Contact a charity on this site</b><br>
+                    <br>
+                    <table border cols="1" width="100%">
+                      <tbody><tr> 
+                        <td class="Bodytxt">To contact a charity on this site, 
+                          use the phone number or e-mail address that you will 
+                          see on the left side of their page<br>
+                          <br>
+                           
+                          <center>
+                            <center>
+                              <a href="#" class="Bodytxt" onclick="history.back()">Click 
+                              here to Return the previous page</a> 
+                            </center>
+                          </center>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <b><br>
+                    Request more information about Charitable Choices</b><br>
+                    <br>
+                  </center>
+                  <table border cols="1" width="100%" class="Bodytxt">
+                    <tbody><tr> 
+                      <td class="Bodytxt">Please use our on-line Information Request 
+                        Form to learn more about any charity on this website, 
+                        learn more about Charitable Choices or receive our publications 
+                        in the future.&nbsp; <br>
+                        &nbsp; 
+                        <center>
+                          <a href="infoform.asp" class="Bodytxt">Click here for 
+                          the Charitable Choices</a> 
+                        </center>
+                        <center>
+                          <a href="infoform.asp" class="Bodytxt">Information Request 
+                          Form</a>&nbsp; 
+                        </center>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <br>
+            <br>
+            <center>
+              <b><a name="Address"></a>Contact us by email, phone, mail or fax</b><br>
+              <br>
+            </center>
+            <table border cols="2" width="100%" class="Bodytxt">
+              <tbody><tr> 
+                <td valign="TOP" colspan="2" class="Bodytxt"> 
+                  <center>
+                    <i>Email us:&nbsp;</i>&nbsp; 
+                  </center>
+                  <center>
+                    <b>General Information: </b><a href="mailto:info@charitychoices.com" class="Bodytxt">info@charitychoices.com</a> 
+                  </center>
+                  <br>
+                  <center>
+                    <b>Website Problems: </b><a href="mailto:webteam@charitychoices.com" class="Bodytxt">webteam@charitychoices.com</a> 
+                  </center>
+                  <center>
+                  </center>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2" class="Bodytxt"> 
+                  <p class="cat1menu" align="center"><b>Charitable Choices</b><br>
+                    4 Park Ave., Suite 200,<br>
+                    Gaithersburg, MD 20877</p>
+                </td>
+              </tr>
+              <tr> 
+                <td class="Bodytxt"> 
+                  <center>
+                    &nbsp;<i>Call Us:</i> 
+                  </center>
+                  <center>
+                    (240) 683-7100 
+                  </center>
+                  <center>
+                    &nbsp; 
+                  </center>
+                </td>
+                <td valign="TOP" class="Bodytxt"> 
+                  <center>
+                    <i>Send us a fax:</i> 
+                  </center>
+                  <center>
+                    (240) 683-8337 
+                  </center>
+                </td>
+              </tr>
+            </tbody></table>
+    
+<table width="542" border="0" bgcolor="#FFFFF0" valign="bottom" align="center">
+  <tbody><tr>
+    <td align="right" valign="bottom">
+	<a href="/contact.asp?sty=plain"><img border="0" src="images/printl1.gif"></a>
+      <a href="/contact.asp?sty=plain" class="Bodytxt">Printer-friendly 
+      page</a>
+      
+    </td>
+  </tr>
+</tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="bottom" width="18" background="images/bar.gif"><img src="images/bottombar.gif" width="18" height="30"></td>
+  </tr>
+  <tr valign="TOP"> 
+    <td colspan="3">
+<hr>
+<div align="center"><span class="copyright">Copyright 1999 - 2010 
+  © Charitable Choices</span> </div>
+   </td>
+  </tr>
+</tbody></table><img src="images/spacer.gif" width="9" height="25">
+
+<script type="text/javascript">
+
+//HV Menu v5- by Ger Versluis (http://www.burmees.nl/)
+//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
+//Visit http://www.dynamicdrive.com for this script and more
+
+function Go(){return}
+
+</script>
+        <script type="text/javascript" src="scripts/exmplmenu_var.js"></script>
+        <script type="text/javascript" src="scripts/menu_com.js" language="">
+</script>
+<noscript> <a href="Default.asp"><img src="images/home.gif" width="128" height="25" border="0"></a><a href="contact.asp"><img src="images/contact.gif" width="173" height="25" border="0"></a><a href="about.asp"><img src="images/about.gif" width="153" height="25" border="0"></a><a href="howtouse.asp"><img src="images/charities.gif" width="196" height="25" border="0"></a><a href="give.asp"><img src="images/give.gif" width="109" height="25" border="0"></a> 
+</noscript> 
+
+</body></html>

@@ -1,0 +1,104 @@
+<html><head>
+<title>PDI</title>
+</head>
+
+
+<body bgcolor="#ffffff" text="#000000" link="#452500">
+
+<center>
+<font size="+2"><b>Clinical Significance of Peritoneal Dialysate IgG Levels in CAPD Patients
+</b></font></center>
+<p></p><hr><p>
+
+<b>Amedo De Vecchi, Claudia Castelnovo, Nunzia Failla*, Antonio Scalamogna</b></p><p>
+
+</p><dd><i>To assess the normal range and the clinical significance of peritoneal IgG, the levels of these proteins were measured in 24 hour dialysates of 69 patients .<p>
+
+</p></i></dd><dd><i>The mean + SD of IgG levels was 7.2 :!: 4.3 mg/dl. Two patients had peritonealIgG concentrations below and 6 above the mean:!: SD range. There were no significant correlations between peritoneal[ gG levels and sex, previous hemodialysis, age, timeofdialysis, number of peritonitis or estimated daily protein intake. In 29 of these patients dialysate IgG levels measured again one year later did not show significant differences between the first and the second determination of IgG (from 6.3 :!: 3.3 to 6.6:!: 3.2 mg/dl), but changes of 10% or more were observed in 14 of these patients .<p>
+
+</p></i></dd><dd><i>Our data show no relation between peritoneal[ gG and peritonitis episodes. Therefore by these results dialysate IgG cannot be used as a reliable index to decide which patients are at high riskfor peritonitis.</i><p><i></i>
+
+<font size="+1"><b>Key words</b></font><br>
+
+</p></dd><dd>Peritoneal dialysis, IgG peritoneal levels, peritoneal proteins, peritonitis prevention<p>
+
+<b>From </b><br>
+
+</p></dd><dd>the Oivisione di Nefrologia and Laboratorio Centrale*, Ospedale Maggiore, Milano, Italy.<br><hr><p>
+
+<font size="+1"><b>Introduction</b></font><br>
+
+</p></dd><dd>In recent years several studies have focused on the role of intraperitoneal immunologic mechanisms in preventing peritonitis episodes (1-5). Some importance was attributed to the opsonic activity of peritoneal fluid (2,3) and later the concentration of IgG in dialysate was considered a prognostic factor for discriminating between patients at high or low risk for peritonitis (4,5).<p>
+
+</p></dd><dd>The aims of the present study were to assess the normal range of IgG in peritoneal dialysate, to search the possible relationship between dialysate IgG level and peritonitis, and to evaluate the variation of IgG level in repeated measurements performed in the same patients. For these aims we measured dialysate IgG in 69 CAPD patients followed at our Unit.<p>
+
+<font size="+1"><b>Patients and methods</b></font><br>
+
+</p></dd><dd>All patients who had been on CAPD for more than 6 months and agreed to collect their 24-hour peritoneal dialysates and had no peritonitis episodes in the last two months were enrolled in the study. On this basis 6 patients were excluded from the study. There were 69 patients, 46 men and 23 women, aged 60.1 ::!: 11.8 years, who had been on CAPD for 27.4 ::!: 22.3 months, at the time of the first IgG measurement (Table 1). None of the patients had been given immunosuppressive therapy in the six months prior to the study. They were dialyzed with 4-5 daily exchanges, 1-2 each using the y set system with sodium hypochlorite (6). Fourteen of these patients had been on hemodialysis for more than 3 months and were then changed to CAPD . The peritonitis rate was 1 episode every 41.9 patient months; 32 patients (46%) had never had episodes of peritoneal infection.<p>
+
+</p><center><img src="gifs/clinicaltab1.gif"></center><p>
+
+</p></dd><dd>After the cross-sectional study, all patients were followed for 12 additional months. Twenty-one dropped out after 8.8 ::!: 5.5 months, due to death (10 patients), change to hemodialysis (6 patients), transplantation (3 patients) or transfer to another dialysis unit (2 patients). In 29 patients, 22 men and 7 women, aged 59.5 ::!: 11.5, on CAPD for 24.4 ::!: 18.9 months, with an incidence of 1 episode of peri tonitis every 64.2 months (0.38 episodes/patients) peritoneal IgG levels were again measured ten to fourteen months after the first measurement. These patients were the first who agreed to continue the study. Twenty-four hour effluents were collected in containers with thymol preservative and kept at 10-15°C until the 24-hour collection was completed. Plasma, dialysate and urine proteins were measured by the Instrumentation Laboratories Monarch autoanalyzer. Dialysate IgG was determined by a nephelometric method, using commercial kits (Behring, Scoppitto). Dietary protein intake (g/kg/ day) was estimated according to Blumenkrantz (7) on the basis of daily urea and protein losses in urine and peritoneal dialysate.<p>
+
+</p></dd><dd>Data are reported as means::!:: standard.deviations. The data were analyzed statistically by student's t -test for unpaired data and linear correlation by the least square method.<p>
+
+<font size="+1"><b>Results</b></font><br>
+
+</p></dd><dd>The mean dialysate IgG levels were 7.2 ::!:: 4.4 mg/dl (range 1.0-26.1). Mean 24 hour peritoneal loss of IgG was 643 ::!:: 378 mg, with a daily mean protein loss of 5.4 ::!:: 2.4 g/hours (Table II).<p>
+
+</p><center><img src="gifs/clinicaltab2.gif"></center><p>
+
+</p></dd><dd>IgG levels were not correlated with age (r = 0.043), time on dialysis (r = 0.032) or protein intake (0.036). Peritoneal IgG concentrations were the same in men and women (7.4::!:: 3.5 vs 6.8 ::!:: 3.5 mg/dl). Peritoneal IgG levels were slightly higher in patients with prior hemodialysis (10.8 ::!:: 0.3 mg/dl) than in patients who had CAPD as the first dialytic treatment (6.3 ::!:: 2.5 mg/dl), but the difference was not statistically significant.<p>
+
+</p></dd><dd>There were significant correlations between IgG concentrations and 24 hour dialysate loss of total protein or IgG (r = 0.35, p &lt; 0.01 and r = 0.94, p &lt; 0.001, respectively).<p>
+
+</p></dd><dd>Mean 19G levels were similar in patients with (7.5 ::!:: 4.7 mg/dl) or without (6.5 ::!:: 3.4 mg/dl) peritonitis episodes before IgG measurement. In addition IgG levels were not significantly different between patients with (7.5 ::!:: 4.7 mg/dl) and without (5.4::!:: 1.5mg/dl) peritonitis episodes in the twelve months after IgG determination, or between patients who had zero (7.2 ::!:: 4.8 mg/dl), one (7.1 ::!:: 4.1 mg/dl) or more than one (6.9 ::!:: 2.6 mg/dl) episodes of peritoneal infection during the entire follow up.<p>
+
+</p></dd><dd>The normal range of peritoneal 19G levels was defined as the mean::!:: standard deviation (2.811.6mg/dl). The incidence of peritonitis was 1/ 49.6pt months for the 61 patients with IgG levels within the normal range. However, for the 6 patients whose IgG levels were above the normal range, the incidence of peritonitis was 1 every 38 patient months. No peritonitis episodes had been diagnosed for the 2 patients with IgG levels below the normal range.<p>
+
+</p></dd><dd>Wide changes in peritoneal IgG levels were observed between the 2 measurements (Figure 1) in the 29 patients who had second peritoneal IgG measurements 1 year after the first determination. In all these cases, number and dextrose concentration of peritoneal exchanges where the same for both measurements. Percentage changes between the first and the second measurement ranged from -90% to +770%.<p>
+
+</p><center><img src="gifs/clinicalfig1.gif"></center><p>
+
+<font size="+1"><b>Discussion</b></font><br>
+
+</p></dd><dd>In the recent years we (7) and other authors reported a strong reduction of peritonitis incidence in CAPD patients by using the Y set system with disinfectant, showing that a large number of peritoneal infection are due to exogenous rather than host factors and can be prevented by reducing the risk of bacterial contamination. The importance ofIgG in the immunological defense against bacteria in the pertioneal cavity has been stressed by other authors (4,5), who suggested that IgG administration into the pertioneal cavity might be useful in preventing peritonitis in patients with low peritoneal fluid IgG concentrations .<p>
+
+</p></dd><dd>Coles et al. (4) suggested that patients with peritoneal dialysate levels below 10.5 fig/dl should be considered at high risk for peritonitis: Lamperi et al. (5) considered at high risk of peritonitis patients with dialysate IgG below 10 fig/ dl and suggested to give intraperitoneal IgG to reduce the risk of peritonitis in these patients.<p>
+
+</p></dd><dd>Unfortunately, wide variations in the mena peritoneal IgG concentrations and in IgG daily peritoneal losses have been reported in the literature (2-4,8-10). these differences could be attributed to several factors, such as different techniques for determining IgG in peritoneal fluid, different sampling (i.e. , collection of 24 hIs or just of overnight exchange effluent), differences in patient population (age, sex, renal disease, CAPD duration, incidence of peritonitis and other unknown factors) or selection (patients with or without peritoneal function abnormalities). Therefore, based on these data one cannot establish the normal range of peritoneal IgG. In the present paper we report IgG levels in 24 hour peritoneal dialysate on a large series of CAPD patients followed at a single centre for more than 6 months.<p>
+
+</p></dd><dd>Some investigators have reported a relationship between dialysate IgG and opsonic activity of peritoneal dialysate (3) or between peritoneal IgG (4,5) and peritonitis. In our series and in other studies (8) the late relationship was not confirmed.<p>
+
+</p></dd><dd>The use of the y set system with disinfectant has allowed us to reduce the incidence of peritoneal infections due to intraluminal contamination. Therefore peritonitis episodes observed in our series could be attributed to periluminal sources and/ or host factors. In this selected group of peritonitis we could not confirm the relationship between IgG and peritonitis rate by any of the statistical methods used.<p>
+
+</p></dd><dd>As reported by other investigators (8,11) also in our series a wide variation of peritoneal IgG was observed in the patients who had dialysate IgG measured at different times. This poor reproducibility makes peritoneal dialysate IgG measurements unreliable as a prognostic factor. In addition, the fact that a wide variation of peritoneal IgG was observed in patients free of peritonitis indicate that the variation is due to unknown causes rather than to peritoneal infection.<p>
+
+</p></dd><dd>From our data and the data in the literature it is impossible to draw definite conclusions on the clinical significance of peritoneal IgG. Furthermore, the wide variations in this protein's levels in the peritoneal effluent make it impossible to identify on the basis of dialysate IgG levels the patients who might benefit from the administration of IgG into the peritoneal cavity to prevent peritonitis. We wish to emphasize that mean peritoneal IgG concentration in our series was largely within the range of risk reported by other authors (4,5) despite the fact that our patients have a very low rate of peritonitis.<p>
+
+<font size="+1"><b>Acknowledgments</b></font><br>
+
+</p></dd><dd>This work was presented in part as a poster at the XXVI EDTA Congress. The authors are grateful to Mrs Carla Brera and Mrs Nadia Soriani for their skillful technical assistance.<p>
+
+<font size="+1"><b>References</b></font>
+</p><ol>
+
+<li> Keane WF, Peterson PK. Host defense mechanisms of the peritoneal cavity and continuous ambulatory peritoneal dialysis. Perit Dial Bull 1984; 4: 122-27.
+</li><li> Keane WF, Compty CM, Verbrugh HA, Peterson PK. Opsonic deficiency of peritoneal dialysis effluent in continuous ambulatory peritoneal dialysis. Kidney Int 1984; 25: 539-43.
+</li><li> McGregor S, Brock JH, Briggs Dl, Junor BJR. Relationship of IgG C3 and transferrin with opsonizing and bacteriostatic activity of peritoneal fluid from CAPD patients and the incidence of peritonitis. Nephrol Dial Transplant 1987; 2: 551-56.
+</li><li> Lamperi S, Carozzi S. Defective opsonic activity of peritoneal effluent during continuous ambulatory peritoneal dialysis: importance and prevention. Periton Dial Bu111986; 6: 87-92.
+</li><li> Coles GA, Alobaidi H, Topley N, Davies M. Opsonic activity of dialysis effluent predicts those at risk of staphylococcus epidermidis peritonitis. Nephrol Dial Transplant 1987; 2: 359-65. 101
+</li><li> Scalamogna A, De Vecchi A, Castelnovo C, Guerra L, Ponticelli C. The Oreopoulos and the Y set techniques for long-term prevention of peritonitis in CAPD patients: nine years of experience in one center. Nephron.(ln Press.)
+</li><li> Blumenkranz MJ, Gahl GM, Kopple ill, Kamdar A V, Jones MR, Kessel M, Coburn JW. Protein losses during peritoneal dialysis. Kidney Int 1981; 19: 593-602.
+</li><li> Zemel D, Struijk DG, Krediet RT, Koomen GCM, Arisz L. No relationship between dialysate IgG and peritonitis incidence in CAPD. Abstracts of the XXVth EDTA Congress, p 109 (1989).
+</li><li>Saku K, Sasaki J, Naito S, Arakawa K. Lipoproteins and apolipoprotein losses during CAPD Nephron 1989; 51: 220-24.
+</li><li> Young GA, Brownjohn AM, Parsons FM. Protein losses in patients receiving continuous ambulatory peritoneal dialysis. Nephron 1987; 45: 196-201.
+</li><li> Coles G, Minors SJ, Horton JK, Fifield R, Davies M. Can the risk of peritonitis be predicted for new continuous ambulatory peritoneal dialysis patients? Peritoneal Dial Intern 1989; 9: 69-72.
+
+</li></ol>
+<i>Corresponding author:</i><br>
+
+</dd><dd>Dr. Amedeo De Vecchi, Divisione di Nefrologia, Padiglione Croff-Ospedale Maggiore, Via Commenda 15, 20122 Milano, Italy.
+
+
+</dd></body></html>

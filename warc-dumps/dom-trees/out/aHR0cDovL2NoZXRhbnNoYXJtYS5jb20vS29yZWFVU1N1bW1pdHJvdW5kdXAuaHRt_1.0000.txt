@@ -1,0 +1,639 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<!-- #BeginEditable "PageInformation" -->
+
+ <meta name="DESCRIPTION" content="Chetan Sharma,Author Wireless Books, Mobile,Wireless,Mobile Ecosystem,Wireless carriers,Wireless Internet,Wirelss Data,Wireless applications,Wireless devices,WAP,wireless application protocol,M-Telligence,Mobile Commerce,M-Commerce, VoiceXML, Multimodal, Expert Witness, Intellectual Property, Product Management.">
+ <meta name="AUTHOR" content="Chetan Sharma">
+ <meta name="KEYWORDS" content="Chetan Sharma,Author Wireless Books, Mobile,Wireless,Mobile Ecosystem,Wireless carriers,Wireless Internet,Wirelss Data,Wireless applications,Wireless devices,WAP,wireless application protocol,M-Telligence,Mobile Commerce,M-Commerce">
+ <meta name="SUBJECT" content="Chetan Sharma: Technology &amp; Strategy Consulting">
+
+ <title>Chetan Sharma: Technology &amp; Strategy Consulting</title>
+<!-- #EndEditable -->
+
+<base target="_self">
+
+<!-- #BeginEditable "ColourSchemeSetup" -->
+<link rel="stylesheet" href="stylesheets/base/sand.css" type="text/css">
+<link rel="stylesheet" href="stylesheets/left-strong/sand.css" type="text/css">
+<link rel="stylesheet" href="stylesheets/main-medium/sand.css" type="text/css">
+<link rel="stylesheet" href="stylesheets/right-strong/sand.css" type="text/css">
+<!-- #EndEditable -->
+
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+//-->
+</script>
+<style>
+<!--
+h1
+	{margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Trebuchet MS";
+	color:#003399;
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.MsoFootnoteReference
+	{vertical-align:super}
+-->
+</style>
+<!--[if !mso]>
+<style>div.Section1
+	{page:Section1;}
+span.bodybold11
+	{font-family:Verdana;
+	color:black;
+	font-weight:bold;
+	font-style:normal}
+h2
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman"}
+</style>
+<![endif]-->
+</head>
+<body bgcolor="#000000" text="#000000" link="#E69C2D" alink="#E69C2D" vlink="#999999" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" class="ocean" onload="MM_preloadImages('/images/topnav/Srch_W.gif','/images/topnav/St_mapW.gif','/images/topnav/Loc_W.gif','/images/topnav/Cty_olW.gif','/images/topnav/Cnt_UsW.gif','/images/topnav/Gbl_hmW.gif','/images/gx/eng/main/home/ct2.gif')">
+<basefont face="Arial, Helvetica, sans serif" size="-2"> 
+<script language="JavaScript" src="extweb/jsincludes.nsf/JSByURL/gx-eng.js"></script>
+<!-- #BeginEditable "JavaScriptTop" --><!-- #EndEditable -->
+<!-- #BeginEditable "JavaScriptLeft" -->
+<!-- #EndEditable -->
+<p>
+<!-- #BeginEditable "Webtrends-trackpage" -->
+&nbsp;<!-- #EndEditable "Webtrends-trackpage"--><table class="header" width="800" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" bordercolor="#3300CC" height="55">
+<tbody><tr>
+<td align="LEFT" valign="bottom" rowspan="2" height="55" width="757">
+<font face="Tahoma" size="6" color="#FFFFFF">
+<a style="color: #FFFFFF" href="index.htm"><span style="text-decoration: none">CHETAN SHARMA</span></a></font></td>
+<td align="right" valign="top" height="54" width="43">
+
+<!-- PERSISTENT NAV STARTS -->
+<!-- PERSISTENT NAV ENDS --></td>
+
+</tr>
+
+</tbody></table>
+<!-- HEADER ENDS -->
+
+<!-- NAV BAR STARTS -->
+<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#333333" bordercolor="#00ff00" class="navbar" height="1">
+<tbody><tr>
+<td align="left" valign="middle" height="1">
+
+<!-- select item starts -->
+<!-- select item ends --></td>
+
+<td align="right" style="background-color: #000000"><span style="letter-spacing: -1pt">
+<font face="Tw Cen MT" size="6">
+<em style="font-style: normal; vertical-align: sub">Technology &amp; Strategy 
+Consulting</em></font></span></td>
+<td align="left" valign="middle" style="background-color: #000000"><img src="images/ui/tran.gif" width="7" height="1" border="0" alt=""></td>
+<td align="left" valign="bottom" style="background-color: #000000"><br><img src="images/ui/tran.gif" width="20" height="11" border="0" alt=""></td>
+</tr>
+
+</tbody></table>
+<!-- search item ends -->
+
+
+
+<!-- NAV BAR ENDS -->
+
+<table width="922" border="0" cellspacing="0" cellpadding="0" bordercolor="#800000" height="2254" style="border-collapse: collapse">
+<tbody><tr>
+    <td class="left" width="176" align="left" valign="top" bgcolor="#141414" style="border-style: solid; border-width: 1; background-color: #008000" height="5" colspan="2"> 
+      <!-- #BeginEditable "ContentLeft" --> 
+      <!-- BEGIN RANDOM IMAGE -->
+      </td>
+<td align="left" valign="top" width="706" bgcolor="#FFFFFF" id="main" rowspan="12" height="2254">
+
+<img src="images/ui/tran.gif" width="1" height="15" border="0" alt=""><table border="0" width="100%" id="table3">
+	<tbody><tr>
+		<td>
+		<h1 style="margin-top: 0; margin-bottom: 0">
+		<font size="6" color="#000080">
+		<span style="font-family: Felix Titling; font-weight: 400">Korea-US 
+		third annual Trade summit Roundup: Interactive media &amp; Wireless</span></font></h1>
+		<p style="margin-top: 0; margin-bottom: 0">
+		&nbsp;</p>
+		<p style="margin-top: 0; margin-bottom: 0">
+		<font face="Trebuchet MS" size="3" color="#808000">
+		<a href="http://www.chetansharma.com/">
+		<span style="text-decoration: none">Chetan Sharma</span></a></font></p>
+		<h2><font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Seattle was the venue for </span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS">Korea - 
+		Pacific U.S. States 3rd Annual Joint Trade Conference</span><span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal"> 
+		(13-14<sup>th</sup> Oct). A high level Korean delegation was in town to 
+		educate, discuss, and forge new partnerships. The theme and topic of 
+		discussions was </span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS">Interactive 
+		Media and Wireless Technologies</span><span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">. 
+		I had the distinct honor and privilege of serving on the US Advisory 
+		Committee and of moderating the US panel. It was also an opportunity to 
+		meet with some senior executives from the Korean wireless industry.
+		</span></font></h2>
+		<h2><font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		This note summarizes the discussions and observations from the summit.</span></font></h2>
+		<h2><font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		The US panel consisted of executives from Infospace, Disney, Melodeo, 
+		and AOL. The major discussion points on mobile future were:</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Integrated mobile search</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Affinity groups and superdistribution</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Consistent user experience across devices, networks, languages, regions.</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Active Home Screen Content push and voice input</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		New content genres (e.g. podcasting)</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Mobile advertising</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Efficient DRM, management of content rights and royalties</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Integration of customer experience across all channels</span></font></h2>
+		<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+		<font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+		·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+		</span>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Access Democratization (e.g. P2P, shopping, community)</span></font></h2>
+		<h2><font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		These point to the challenges of our industry and hence the 
+		opportunities for entrepreneurs. </span></font></h2>
+		<table border="0" width="100%" id="table4">
+			<tbody><tr>
+				<td>
+				<h2><font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				Korean panel consisted of current and former senior executives 
+				from SKT and KTF – the two leading carriers. The main technical 
+				issues that Korean telecom companies are focused on are 
+				proliferation of the following services:</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				WiBro</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				DMB (mobile broadcasting service)</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				Home Network Service</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				Telematics</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				RFID</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				WCDMA</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				Terrestrial DTV</span></font></h2>
+				<h2 style="text-indent: -.25in; margin-left: .5in; margin-top: 0; margin-bottom: 0">
+				<font color="#800000">
+				<span style="font-size: 10.0pt; font-family: Symbol; font-weight: normal">
+				·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</span></span>
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+				VoIP</span></font></h2>
+				<p><font face="Trebuchet MS" color="#800000">From a business 
+				point of view, focus is on making these services based on 
+				fixed-priced, unlimited usage. Also, once content is purchased, 
+				it can be used on any device (music purchased can be played on 
+				PC, mobile device, and MP3 player)</font></p></td>
+				<td width="391">
+				<p align="right">
+				<img border="0" src="gov_pic_s.JPG" width="384" height="256"></p>
+				<p align="right" style="margin-top: 0; margin-bottom: 0"><i>
+				<font face="Trebuchet MS" color="#808000">With Hon. Governors 
+				Gregoire (Washington) </font></i></p>
+				<p align="right" style="margin-top: 0; margin-bottom: 0"><i>
+				<font face="Trebuchet MS" color="#808000">and Kempthorne (Idaho) 
+				at the Summit</font></i></p></td>
+			</tr>
+		</tbody></table>
+		<h2><font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		Koreans are also focused on converging several different technologies 
+		like WiBro, RFID, Zigbee. They are focused on making mobile device an 
+		ubiquitous and perceptual interface with integrated functions to deliver 
+		all day-to-day services. For 4G, they are not focused on one single 
+		standard or technology but rather an amalgam of standards – most 
+		appropriate technology is picked for the task with interoperability, 
+		hand-off and service transparency being the critical issues.</span></font></h2>
+		<h2>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		<font color="#800000">By Sept 05, Korean market penetration was close to 
+		80% with over 38 million subs. SKT has 51% market share while KTF 32.4% 
+		and LGT 16.6%. The % data ARPU is inching towards DoCoMo standards of 
+		25% and beyond</font><a name="_ftnref1" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftn1"><span class="MsoFootnoteReference"><span style="font-size: 10.0pt; font-family: Trebuchet MS">[1]</span></span></a>.
+		<font color="#800000">Wireless data penetration is going to rise to over 
+		70% by 2008</font><a name="_ftnref2" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftn2"><span class="MsoFootnoteReference"><span style="font-size: 10.0pt; font-family: Trebuchet MS">[2]</span></span></a>.
+		<font color="#800000">Korea already leads the world in broadband 
+		penetration.</font></span></h2>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;">
+		<font color="#800000">One of the presenters was Dr. Jung Uck Seo (“How 
+		Korea became a Global Telecom Leader”), who lead SKT during the nineties 
+		when they trail blazed through the deployment of CDMA and catapulted 
+		Korea as a leader in telecommunications. He currently heads Korea 
+		International Trade Association (KITA). According to him, two most 
+		important future needs are Energy and Education. In education, Korea is 
+		specifically focused on being very competitive. The current generation 
+		understands globalization and its impact and how to play in the future 
+		competitive economies. SKT’s investment into the SK-Earthlink MVNO 
+		venture is part of that strategy</font><a name="_ftnref3" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftn3"><span class="MsoFootnoteReference"><span style="font-size: 10.0pt; font-family: Trebuchet MS">[3]</span></span></a>.
+		<font color="#800000">Korea is also wary of the emerging economic threat 
+		of what Dr Seo referred to as “Chindia” or China+India. Korea is 
+		aggressively seeking to place themselves in the emerging economies in 
+		the world through trade, technology, and business partnerships. KITA is 
+		focused on building a comprehensive eTrade platform. Realizing the 
+		importance of aggressive marketing and public relations, e-Trade 
+		Facilitation Center is working on the actual proliferation of e-Trade. 
+		e-Trade model covers all the processes from marketing to settlement.
+		</font></span></p>
+		<h2>
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		<font color="#800000">In 2000, in my first book</font><a name="_ftnref4" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftn4"><span class="MsoFootnoteReference"><span style="font-size: 10.0pt; font-family: Trebuchet MS">[4]</span></span></a>,
+		<font color="#800000">I had proposed a mobile agent based personalized 
+		service that acts a personal secretary. The agent is interfaced with a 
+		variety of infotainment services and content is presented based on 
+		context at that very instant. I was delighted to hear about an 
+		incarnation of such a service while sitting through the SKT 
+		presentation. <img border="0" src="1mms.jpg" width="74" height="22">
+		</font></span><font color="#800000">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		(The service objective is to provide the most convenient services 
+		offered by the place nearest to the customer) is a personal agent 
+		providing intelligent interface to the services based on presence, 
+		context, and preference information.</span></font></h2>
+		<h2 align="center">
+		<span style="font-size: 10.0pt; font-family: Trebuchet MS; font-weight: normal">
+		<img border="0" src="1mm.JPG" width="629" height="356">Source: SKT</span></h2>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;">
+		<font color="#800000">In my </font>
+		<a style="color: #800000; text-underline: single; text-decoration: none" href="http://www.chetansharma.com/ctia0905roundup.htm">
+		last note</a><font color="#800000">, I had briefly talked about 
+		Motorola’s Screen3 and Mobile ESPN service. These are steps in the right 
+		direction to make phone much more than a just a talking device. 1mm 
+		service provides a guiding light of the potential of “true” personalized 
+		services.</font></span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;">
+		<font color="#800000">Microsoft’s Shane Kim gave a demo of one of their 
+		most popular games (Ninety-Nine Nights from </font>
+		<a style="color: #800000; text-underline: single; text-decoration: none" href="http://www.phantagram.com/">
+		Phantagram</a><font color="#800000">) on XBOX. Pretty impressive. 
+		Virtual characters are indeed becoming very real in their expressions 
+		and activity. One of the luncheon keynotes was given by Young Kim, CEO
+		</font>
+		<a style="color: #800000; text-underline: single; text-decoration: none" href="http://www.innodesign.com/">
+		Innodesign</a><font color="#800000">, design extraordinaire, and 
+		innovator with several innovative designs and prestigious awards to his 
+		credits.</font></span></p>
+		<p class="MsoNormal"><font color="#800000">
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;">
+		Korea is clearly a good case study of use of technology to enhance 
+		everyday life. It is also a great model of how industry and government 
+		can collaborate to achieve distinct competitive advantage.</span></font></p>
+		<p class="MsoNormal"><font color="#800000">
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;">Next 
+		year’s summit is in Seoul.</span></font></p>
+		<p class="MsoNormal"><font color="#800000">
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;">Your 
+		comments are always welcome.</span></font></p>
+		<div style="mso-element:footnote-list">
+			<hr align="left" size="1" width="33%">
+			<div style="mso-element:footnote" id="ftn1">
+				<p class="MsoFootnoteText" style="margin-top: 0; margin-bottom: 0">
+				<a name="_ftn1" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftnref1">
+				<span class="MsoFootnoteReference">
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS">[1]</span></span></a><span style="font-family:&quot;Trebuchet MS&quot;"> 
+				NTT DoCoMo again recorded the world's highest data ARPU in Q2 
+				2005, according to the September edition of Informa Telecoms &amp; 
+				Media's World Cellular Data Metrics. NTT DoCoMo's subscribers 
+				spent $17.6 per month on data services during the period. DoCoMo 
+				was followed by KDDI ($16.4), O2 Ireland ($13.7), Vodafone Japan 
+				($12.4) and O2 UK ($11.8). For a more exhaustive ARPU analysis, 
+				please see http://www.chetansharma.com/PerspectivesWirelessDataARPU.pdf</span></p></div>
+			<div style="mso-element:footnote" id="ftn2">
+				<p class="MsoFootnoteText" style="margin-top: 0; margin-bottom: 0">
+				<a name="_ftn2" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftnref2">
+				<span class="MsoFootnoteReference">
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS">[2]</span></span></a><span style="font-family:&quot;Trebuchet MS&quot;"> 
+				Source: IDC</span></p></div>
+			<div style="mso-element:footnote" id="ftn3">
+				<p class="MsoFootnoteText" style="margin-top: 0; margin-bottom: 0">
+				<a name="_ftn3" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftnref3">
+				<span class="MsoFootnoteReference">
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS">[3]</span></span></a><span style="font-family:&quot;Trebuchet MS&quot;"> 
+				I continue to believe that MVNOs will change the US market in 
+				06. Consumers will expect more from carriers and content 
+				providers and this will lead to deployment of innovative user 
+				experience and services.</span></p></div>
+			<div style="mso-element:footnote" id="ftn4">
+				<p class="MsoFootnoteText" style="margin-top: 0; margin-bottom: 0">
+				<a name="_ftn4" title style="color: blue; text-decoration: underline; text-underline: single" href="#_ftnref4">
+				<span class="MsoFootnoteReference">
+				<span style="font-size: 10.0pt; font-family: Trebuchet MS">[4]</span></span></a><span style="font-family:&quot;Trebuchet MS&quot;"> 
+				Wireless Internet Enterprise Applications, John Wiley &amp; Sons, 
+				Oct 2000</span></p>
+				<p class="MsoFootnoteText" style="margin-top: 0; margin-bottom: 0">&nbsp;</p></div>
+		</div>
+		</td>
+	</tr>
+</tbody></table>
+<div style="mso-element:footnote-list">
+	<div style="mso-element:footnote" id="ftn11">
+		<span style="FONT-SIZE: 10pt; COLOR: gray; FONT-FAMILY: Tahoma">
+		<table id="table1" width="100%" border="0">
+			<tbody><tr>
+				<td><font face="Trebuchet MS" color="#800000">
+				<font face="Tw Cen MT">© Chetan Sharma Consulting 2005. All 
+				Rights Reserved.</font></font></td>
+			</tr>
+			<tr>
+				<td><font face="Verdana" color="#800000" size="1">Chetan Sharma 
+				Consulting is a consulting and advisory firm focused on 
+				ASSISTING companies in the mobile and voice communications</font><font face="Verdana" color="#800000" size="1"> 
+				sector with product management, technical due diligence, market 
+				and competitive research, patent and IP strategy, technology and 
+				business strategy. Our clients range from small startups with disruptive ideas to multinational conglomerates looking for an 
+				edge.
+				<a title="http://www.chetansharma.com/" href="http://www.chetansharma.com/">
+				<span title="http://www.chetansharma.com/" style="TEXT-DECORATION: none">
+				<font title="http://www.chetansharma.com/" color="#6e6e6e">
+				www.chetansharma.com</font></span></a></font></td>
+			</tr>
+		</tbody></table>
+		</span>
+		</div>
+</div>
+<p class="MsoNormal"><font face="Verdana" size="1">
+<span style="FONT-SIZE: 7.5pt; FONT-FAMILY: Verdana">If you have questions or 
+suggestions or feedback on this subject or on the wireless &amp; mobile industry at large, 
+please contact us at <a href="mailto:chetan@chetansharma.com?subject=Feedback">
+<span style="text-decoration: none">feedback@chetansharma.com</span></a> - we look forward to hearing from 
+you.<br>
+<b><span style="FONT-WEIGHT: bold"><br>
+<span class="bodybold11"><font face="Verdana" color="#808000">Subscription 
+Information</font></span></span></b><br>
+We provide news and analysis on a regular basis to anyone interested in the 
+mobile communications industry. Please feel free to pass along this email 
+message in its entirety to friends and colleagues who you think might find it 
+useful. Anyone wishing to be added to the email list can subscribe by writing to 
+<a href="mailto:subscribe@chetansharma.com?subject=Subscribe">
+<span style="text-decoration: none">subscribe@chetansharma.com</span></a>. To unsubscribe, please send an email to 
+<a href="mailto:unsubscribe@chetansharma.com?subject=Unsubscribe">
+<span style="text-decoration: none">unsubscribe@chetansharma.com</span></a>.
+</span></font></p>
+<p>&nbsp;</p></td>
+    <td class="right" width="38" align="left" valign="top" bgcolor="#E6E6E6" rowspan="12" height="2254"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber2" height="320">
+        <tbody><tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15">
+          </td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15">
+          </td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15">
+          </td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15">
+          </td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+        <tr>
+          <td width="100%" height="15"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+<tr>
+    <td class="left" width="4" align="left" valign="top" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="308" rowspan="9"> 
+      &nbsp;<p>&nbsp;</p></td>
+    <td class="left" width="173" align="left" valign="top" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="61" bordercolor="#F5E3C4"> 
+      &nbsp;</td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="30" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="publications_b.htm">Thought Leadership&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;
+      </b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="35" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="consulting.htm">Consulting Services&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="29" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="clients.htm">Clients</a></b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="31" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="expertise.htm">Expertise</a></b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="27" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="resources.htm">Resources</a></b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="28" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="bio.htm">Bio</a></b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="34" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="affiliations.htm">Affiliations</a></b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="173" align="left" bgcolor="#141414" style="border-top-style: solid; border-top-width: 1" height="33" bordercolor="#F5E3C4"> 
+      <font color="#008000"><b><a href="KoreaUSSummitroundup.htm">Contact Us</a></b></font></td>
+  </tr>
+<tr>
+    <td class="left" width="178" align="left" valign="top" bgcolor="#141414" height="659" colspan="2"> 
+      &nbsp;<p align="center"><img border="0" src="report3.jpg" width="141" height="218"></p></td>
+  </tr>
+<tr>
+    <td class="left" width="178" align="left" valign="top" bgcolor="#141414" height="1283" colspan="2"> 
+      sx</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+</p></body><!-- #EndTemplate --></html><!--
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->

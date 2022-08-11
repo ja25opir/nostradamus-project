@@ -1,0 +1,187 @@
+<!DOCTYPE html><html><head>
+			
+				<title>
+					Almond Breeze  : Privacy Policy 
+				</title>
+			
+			<link href="/common/styles.css" rel="stylesheet" type="text/css">
+			<link href="/common/userstyles.css" rel="stylesheet" type="text/css">
+			<!--[if gte IE 5]> <link rel="stylesheet" href="/common/ie.css"> <![endif]-->
+			<script src="/common/scripts.js" type="text/javascript"></script>
+			<script src="/common/dhtml.js" type="text/javascript"></script>
+
+			<script src="/common/animation.js" type="text/javascript"></script>
+			<script src="/common/ajax.js" type="text/javascript"></script>
+			<script src="/common/engine-jel.js" type="text/javascript"></script>
+			
+			<script src="/globals/js/dump/dump.js" type="text/javascript"></script>
+			
+			
+				<meta name="Keywords" content="">
+				<meta name="Description" content="">
+			
+
+			<link href="/common/print.css" rel="stylesheet" type="text/css" media="print">
+		</head>
+		
+		<body onload="doLoadProc();">
+			
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9265209-37");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17320276-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+			<a name="top"></a>
+			<a href="#pastNav" class="skipLink">Skip Navigation</a>
+			<a href="#contentArea" class="skipLink" style="margin-top: 1.1em;">Skip To Content</a>
+			<center>
+				<div id="main">
+					
+	<div id="header">
+		<a href="/"><img src="/common/images/logo.jpg" width="171" height="164" alt="Blue Diamond Almond Breeeze" border="0" id="logo"></a>
+
+		<div id="utilnav">
+			<div id="utility">
+				<a href="/">Home</a>
+				&nbsp;|&nbsp;
+				
+				<a href="/?navid=359" target="">Product Locator</a>
+				&nbsp;|&nbsp;
+				
+				<a href="/?navid=360" target="">Contact</a>
+				&nbsp;|&nbsp;
+				
+				<a href="/?navid=503" target="_blank"><img src="/common/images/diamond.gif" width="9" height="9" alt="BlueDiamond.com" border="0" align="absmiddle"> BlueDiamond.com</a>
+			</div>
+			<div id="nav">
+				<script type="text/javascript">
+				<!--
+				
+				productsOff = preload("/common/images/nav/products-off.gif");
+				productsOn = preload("/common/images/nav/products-on.gif");
+				takeOff = preload("/common/images/nav/take-off.gif");
+				takeOn = preload("/common/images/nav/take-on.gif");
+				differenceOff = preload("/common/images/nav/difference-off.gif");
+				differenceOn = preload("/common/images/nav/difference-on.gif");
+				recipesOff = preload("/common/images/nav/recipes-off.gif");
+				recipesOn = preload("/common/images/nav/recipes-on.gif");
+				communityOff = preload("/common/images/nav/community-off.gif");
+				communityOn = preload("/common/images/nav/community-on.gif");
+				promosOff = preload("/common/images/nav/promos-off.gif");
+				promosOn = preload("/common/images/nav/promos-on.gif");
+				
+				//-->
+				</script>
+				
+				<a href="/?navid=328" onmouseover="swapImg('products', productsOn);" onmouseout="swapImg('products', productsOff);" target=""><img name="products" src="/common/images/nav/products-off.gif" width="97" height="34" alt="Products" border="0"></a><!-- 
+				
+				 --><a href="/?navid=342" onmouseover="swapImg('take', takeOn);" onmouseout="swapImg('take', takeOff);" target=""><img name="take" src="/common/images/nav/take-off.gif" width="149" height="34" alt="Take The Taste Challenge" border="0"></a><!-- 
+				
+				 --><a href="/?navid=344" onmouseover="swapImg('difference', differenceOn);" onmouseout="swapImg('difference', differenceOff);" target=""><img name="difference" src="/common/images/nav/difference-off.gif" width="177" height="34" alt="The Almond Breeze Difference" border="0"></a><!-- 
+				
+				 --><a href="/?navid=351" onmouseover="swapImg('recipes', recipesOn);" onmouseout="swapImg('recipes', recipesOff);" target=""><img name="recipes" src="/common/images/nav/recipes-off.gif" width="99" height="34" alt="Recipes &amp; Ideas" border="0"></a><!-- 
+				
+				 --><a href="/?navid=352" onmouseover="swapImg('community', communityOn);" onmouseout="swapImg('community', communityOff);" target=""><img name="community" src="/common/images/nav/community-off.gif" width="104" height="34" alt="Our Community" border="0"></a><!-- 
+				
+				 --><a href="/?navid=353" onmouseover="swapImg('promos', promosOn);" onmouseout="swapImg('promos', promosOff);" target=""><img name="promos" src="/common/images/nav/promos-off.gif" width="147" height="34" alt="Promotions &amp; Coupons" border="0"></a>
+			</div>
+		</div>
+	</div>
+
+
+					<a name="pastNav"></a>
+					
+
+	<div id="pagecontainer" class="utility">
+		<a name="contentArea"></a>
+		<div id="content">
+			<table border="0" cellpadding="0" cellspacing="0" class="utilityMain">
+				<tbody><tr valign="top">
+					<td id="contentLeft"><h1><span class="lightBlue">Privacy</span> Policy</h1>
+<p>This website ("Site") is owned and operated by Blue Diamond Growers, a California Corporation ("we", "our," or "us"). This Privacy Policy discloses our collection of information through any use of the Site by you ("you," "your," or "User") and how we may use the information. By accessing, browsing, or otherwise using the Site, you acknowledge and consent to our collection and use of information as set forth in this Privacy Policy.</p>
+<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOUR USE OF THE SITE CONSTITUTES YOUR CONSENT TO THIS PRIVACY POLICY. DO NOT USE THE SITE IF YOU ARE UNWILLING OR UNABLE TO CONSENT TO THIS PRIVACY POLICY. Please check back periodically as this Privacy Policy may change from time to time.</p>
+<h2>The Information We Collect and How We Use It</h2>
+<p>The Site is a general-audience website, and we do not knowingly collect personal information from children under the age of 13. If you are under the age of 13, you should not and may not provide any personal information to us through or on the Site.</p>
+<p>The Site may allow online orders. When you order online, we may collect your name, shipping and billing addresses, telephone numbers, e-mail address, and preferred shipping methods in order to deliver your orders. When shipment for a gift is made to someone else, we also collect the recipient's name and address. Your credit card information is used for billing purposes.</p>
+<p>The Site may allow you to submit your contact information for the opportunity to receive e-mails or mailings that, for example, introduce new products, notify you of special offers, and announce upcoming promotions. We will always give you the option of whether or not to receive these. If you would prefer not to receive such information in the future, please see the Removal from Mailings section.</p>
+<p>The Site may allow you to submit, upload, or link to your comments or other content such as photos or video (individually and collectively, "User Content"). To be eligible to submit any such User Content, you must be at least 18 years old and a resident of the United States. When you submit User Content, we may collect your name, city, state, e-mail address, other contact information, and information about the stores at which you buy our products. If we publish User Content, we may publish it along with your first name and last initial, city, and state and your photo or other likeness that you may have uploaded as part of the User Content. If you have indicated that you would like to receive e-mails from us, we will use your e-mail address to send you e-mails that, for example, introduce new products, notify you of special offers, and announce upcoming promotions. If you would prefer not to receive such information in the future, please see the Removal from Mailings section.</p>
+<p>We may release personal information when we believe release is necessary to comply with law. We may also exchange information with third parties for fraud protection and credit risk reduction.</p>
+<p>We may use third party organizations that assist us in delivering electronic mail or coupons, providing customer service, or shipping products to you. They may use personal information to perform their functions.</p>
+<p>If we acquire or merge with other companies, or were to be acquired, customer information is generally one of the transferred business assets.</p>
+<h2>IP Address</h2>
+<p>We track IP addresses (the Internet address of your computer) for system administration purposes. IP addresses are logged per the user's session and help us determine how often areas on our site are visited. In most cases, we view and delete the information immediately. We never link an IP address to a specific customer.</p>
+<h2>Cookies</h2>
+<p>Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to keep track of, if applicable, your shopping cart and remember your selections while you are ordering. We do not use cookies to retrieve any personal information about you from your computer.</p>
+<h2>Security</h2>
+<p>The Site has security measures in place intended to protect the loss, misuse, and alteration of the information under our control. We are committed to the protection of your personal and order information. We use the Secure Socket Layer (SSL) to ensure that all the information you provide is encrypted and cannot be read as the information travels over the Internet. SSL is a worldwide industry standard for such sensitive transactions.</p>
+<h2>Removal from Mailings</h2>
+<p>To be removed from our e-mail or mailing lists, you may respond to the e-mails that we send out with your request for removal, or you may send an e-mail to&nbsp;<a href="mailto:feedback@bdgrowers.com">feedback@bdgrowers.com</a>. There may be some lag time between our receipt of your request and our being able to update our lists. Thank you for your patience in this regard.</p>
+<h2>Links</h2>
+<p>The Site may include links to other websites owned or operated by third parties. We may do this for the convenience of you and other users of the Site, but we do not have control over the operation of these third-party websites. Please consult those websites' privacy policies or otherwise with the owners or operators of those websites to learn about any information collection or usage at or by those websites.</p>
+<h2>International Visitors</h2>
+<p>This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, or processed in the United States. The data protection and other laws of the United States might not be as comprehensive as those in your country. By accessing or using the Site, or by providing any of your information to us through the Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.</p>
+<h2>Notification of Changes</h2>
+<p>If at some point in the future, there is a change to our information usage practices that affect your personal information, we will post these relevant changes on the Site.</p>
+<p>Effective Date: January 27, 2010</p></td>
+					
+				</tr>
+			</tbody></table>
+		</div>
+	</div>
+
+
+				</div>
+				
+				
+
+<div id="footer">
+	<span class="copyright">Copyright © 2010 Blue Diamond Growers. All rights reserved.</span>
+	<span class="footerLinks">
+		
+		<a href="/?navid=362" target="_top">Sign Up</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		
+		<a href="/?navid=363" target="">Privacy Policy</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		
+		<a href="/?navid=371" target="">Terms of Use</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		
+		<a href="/?navid=364" target="">Accessibility</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		
+		<a href="/?navid=365" target="_blank">Company Info</a>
+	</span>
+
+	<span class="feedLinks">
+		Join us on Facebook:
+		
+		<a href="/?navid=366" target="_blank"><img src="/common/images/uploads/facebook.gif" width="16" height="16" alt="Join us on Facebook" border="0" align="absmiddle" style="margin-left: 4px;"></a>
+
+	</span>
+</div>
+
+
+			</center>
+		
+		
+	</body></html>

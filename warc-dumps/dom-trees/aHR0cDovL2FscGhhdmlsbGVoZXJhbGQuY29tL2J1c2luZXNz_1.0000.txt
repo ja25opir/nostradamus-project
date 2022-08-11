@@ -1,0 +1,668 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
+    <title>Business | The Alphaville Herald</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="http://alphavilleherald.com/site/wp-content/themes/gothamnews/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://alphavilleherald.com/site/wp-content/themes/gothamnews/centered.css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/AlphavilleHerald">
+<link rel="pingback" href="http://alphavilleherald.com/site/xmlrpc.php">
+    
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta2)/IE7.js" type="text/javascript"></script>
+<![endif]-->
+
+  
+<link rel="alternate" type="application/rss+xml" title="The Alphaville Herald » Business Category Feed" href="http://alphavilleherald.com/business/feed">
+<link rel="stylesheet" id="slimbox2-css" href="http://alphavilleherald.com/site/wp-content/plugins/wp-slimbox2/slimbox2.css?ver=1.0" type="text/css" media="screen">
+<script type="text/javascript" src="http://alphavilleherald.com/site/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://alphavilleherald.com/site/wp-content/plugins/wp-slimbox2/javascript/slimbox2.js?ver=2.02"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var slimbox2_options = {
+	autoload: "",
+	overlayColor: "#000000",
+	loop: "",
+	overlayOpacity: "0.8",
+	overlayFadeDuration: "400",
+	resizeDuration: "400",
+	resizeEasing: "swing",
+	initialWidth: "250",
+	initialHeight: "250",
+	imageFadeDuration: "400",
+	captionAnimationDuration: "400",
+	caption: "el.title || el.firstChild.alt || el.firstChild.title || el.href || el.href",
+	url: "1",
+	selector: "div.entry-content, div.gallery, div.entry, div.post, div#page, body",
+	counterText: "Image {x} of {y}",
+	closeKeys: "27,88,67",
+	previousKeys: "37,80",
+	nextKeys: "39,78",
+	prev: "http://alphavilleherald.com/site/wp-content/plugins/wp-slimbox2/images/default/prevlabel.gif",
+	next: "http://alphavilleherald.com/site/wp-content/plugins/wp-slimbox2/images/default/nextlabel.gif",
+	close: "http://alphavilleherald.com/site/wp-content/plugins/wp-slimbox2/images/default/closelabel.gif",
+	LTR: "LTR",
+	picasaweb: "",
+	flickr: "",
+	mobile: ""
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://alphavilleherald.com/site/wp-content/plugins/wp-slimbox2/javascript/slimbox2_autoload.js?ver=1267708991"></script>
+<script type="text/javascript" src="http://alphavilleherald.com/site/wp-content/themes/gothamnews/includes/js/tabs.js?ver=2.9.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://alphavilleherald.com/site/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://alphavilleherald.com/site/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="The Alphaville Herald" href="http://alphavilleherald.com">
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="http://alphavilleherald.com/business">
+
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS BEGIN -->
+<script type="text/javascript" src="http://alphavilleherald.com/site/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS END -->
+
+<link href="http://alphavilleherald.com/site/wp-content/themes/gothamnews/styles/default.css" rel="stylesheet" type="text/css">
+<link href="http://alphavilleherald.com/site/wp-content/themes/gothamnews/custom.css" rel="stylesheet" type="text/css">
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+</head>
+
+<body>
+
+<!-- TOP MENU STARTS -->
+	<div id="top-menu-out">
+	<div id="top-menu">
+		<ul>
+						<li class="page_item current_page_item first"><a href="http://alphavilleherald.com">Home</a></li>
+			<li class="page_item page-item-3266"><a href="http://alphavilleherald.com/archives" title="Archives">Archives</a></li>
+<li class="page_item page-item-3181"><a href="http://alphavilleherald.com/about" title="About">About</a></li>
+<li class="page_item page-item-3191"><a href="http://alphavilleherald.com/disclaimer" title="disclaimer">disclaimer</a></li>
+<li class="page_item page-item-3194"><a href="http://alphavilleherald.com/contact" title="contacts">contacts</a></li>
+		</ul>
+	</div>
+	</div>
+	<!-- TOP MENU ENDS -->
+	<!-- HEADER STARTS -->
+	<div id="header-out">
+	<div id="header-bg">
+	<div id="header">
+		<div class="col-left">
+			<a href="http://alphavilleherald.com" title="Always Fairly Unbalanced">
+            	<img src="http://alphavilleherald.com/images/graphics/logo.png" alt="The Alphaville Herald">
+            </a>	
+			<h1><a href="http://alphavilleherald.com">The Alphaville Herald</a></h1>
+		</div>
+		<div class="col-right">
+			<div class="date"><p>Friday, September 17th, 2010</p></div>
+			<div id="search">
+				<form method="get" id="searchform" action="http://alphavilleherald.com/">
+					<div>
+						<label for="search">Search</label>
+						<input type="text" value=" Type in and hit enter" onfocus="this.value = ''" name="s" id="s">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+	<!-- HEADER ENDS -->
+	<!-- MAIN MENU STARTS -->
+	<div id="main-menu-out">
+	    
+	<div id="main-menu" class="">
+    	<ul>
+        		<li class="cat-item cat-item-49 current-cat"><a href="http://alphavilleherald.com/business" title="View all posts filed under Business">Business</a>
+<ul class="children">
+	<li class="cat-item cat-item-30"><a href="http://alphavilleherald.com/business/advertisements" title="View all posts filed under Advertisements">Advertisements</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://alphavilleherald.com/business/currency-traders-and-gold-farmers" title="View all posts filed under Currency Traders and Gold Farmers">Currency Traders and Gold Farmers</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://alphavilleherald.com/business/legal-issues" title="View all posts filed under Legal Issues">Legal Issues</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://alphavilleherald.com/business/virtual-business-finance-and-economics" title="View all posts filed under Virtual Business, Finance and Economics">Virtual Business, Finance and Economics</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://alphavilleherald.com/business/virtual-products-services-and-reviews" title="View all posts filed under Virtual Products, Services and Reviews">Virtual Products, Services and Reviews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://alphavilleherald.com/media" title="View all posts filed under Media">Media</a>
+<ul class="children">
+	<li class="cat-item cat-item-23"><a href="http://alphavilleherald.com/media/art" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://alphavilleherald.com/media/back-stories" title="View all posts filed under Back Stories">Back Stories</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://alphavilleherald.com/media/building-a-better-vr" title="View all posts filed under Building a Better VR">Building a Better VR</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://alphavilleherald.com/media/comix" title="View all posts filed under Comix">Comix</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://alphavilleherald.com/media/film" title="View all posts filed under Film">Film</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://alphavilleherald.com/media/game-development-in-sl" title="View all posts filed under Game Development in SL">Game Development in SL</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://alphavilleherald.com/media/games-journalism-and-the-virtual-press" title="View all posts filed under Games Journalism and the Virtual Press">Games Journalism and the Virtual Press</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://alphavilleherald.com/media/gaming-in-general" title="View all posts filed under Gaming in General">Gaming in General</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://alphavilleherald.com/media/gossip-and-drama" title="View all posts filed under Gossip and Drama">Gossip and Drama</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://alphavilleherald.com/media/herald-literary-suppository" title="View all posts filed under Herald Literary Suppository">Herald Literary Suppository</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://alphavilleherald.com/media/interviews" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://alphavilleherald.com/media/miscellaneous" title="View all posts filed under Miscellaneous">Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://alphavilleherald.com/media/new-media" title="View all posts filed under New Media">New Media</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://alphavilleherald.com/media/off-the-grid" title="View all posts filed under Off the Grid">Off the Grid</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://alphavilleherald.com/media/phunnies" title="View all posts filed under Phunnies">Phunnies</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://alphavilleherald.com/media/second-life-artists" title="View all posts filed under Second Life Artists">Second Life Artists</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://alphavilleherald.com/media/sights-and-sims" title="View all posts filed under Sights and Sims">Sights and Sims</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://alphavilleherald.com/media/stats" title="View all posts filed under Stats">Stats</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://alphavilleherald.com/media/webtech" title="View all posts filed under Web/Tech">Web/Tech</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://alphavilleherald.com/media/weblogs" title="View all posts filed under Weblogs">Weblogs</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://alphavilleherald.com/news" title="View all posts filed under News">News</a>
+<ul class="children">
+	<li class="cat-item cat-item-21"><a href="http://alphavilleherald.com/news/announcements" title="View all posts filed under Announcements">Announcements</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://alphavilleherald.com/news/clubs-casinos-and-events" title="View all posts filed under Clubs, Casinos, and Events">Clubs, Casinos, and Events</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://alphavilleherald.com/news/fashion-and-fashionista-drama" title="View all posts filed under Fashion and Fashionista Drama">Fashion and Fashionista Drama</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://alphavilleherald.com/news/featured" title="View all posts filed under Featured">Featured</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://alphavilleherald.com/news/mafias-gangs-and-virtual-governments" title="View all posts filed under Mafias, Gangs and Virtual Governments">Mafias, Gangs and Virtual Governments</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://alphavilleherald.com/news/news-from-facebook" title="View all posts filed under News from Facebook">News from Facebook</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://alphavilleherald.com/news/news-from-lively" title="View all posts filed under News from Lively">News from Lively</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://alphavilleherald.com/news/news-from-metaplace" title="View all posts filed under News from Metaplace">News from Metaplace</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://alphavilleherald.com/news/news-from-other-mmos" title="View all posts filed under News from Other MMOs">News from Other MMOs</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://alphavilleherald.com/news/news-from-second-life" title="View all posts filed under News from Second Life">News from Second Life</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://alphavilleherald.com/news/news-from-the-sims-online" title="View all posts filed under News from The Sims Online">News from The Sims Online</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://alphavilleherald.com/news/news-you-can-abuse" title="View all posts filed under News You Can Abuse">News You Can Abuse</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://alphavilleherald.com/news/scammers-griefers-and-goons" title="View all posts filed under Scammers, Griefers and Goons">Scammers, Griefers and Goons</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://alphavilleherald.com/news/sex-cybersex-and-beyond" title="View all posts filed under Sex, Cybersex and Beyond">Sex, Cybersex and Beyond</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://alphavilleherald.com/news/stratics" title="View all posts filed under Stratics">Stratics</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://alphavilleherald.com/news/the-borg-news-about-ea" title="View all posts filed under The Borg. News about EA">The Borg. News about EA</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://alphavilleherald.com/news/war-and-militias" title="View all posts filed under War and militias">War and militias</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://alphavilleherald.com/opinion" title="View all posts filed under Opinion">Opinion</a>
+<ul class="children">
+	<li class="cat-item cat-item-3"><a href="http://alphavilleherald.com/opinion/letters-to-the-editor" title="View all posts filed under Letters to the Editor">Letters to the Editor</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://alphavilleherald.com/opinion/oped" title="View all posts filed under Op/Ed">Op/Ed</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://alphavilleherald.com/opinion/philosophical-issues" title="View all posts filed under Philosophical Issues">Philosophical Issues</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://alphavilleherald.com/uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+        </ul>
+    </div>
+        
+	</div>
+	<!-- MAIN MENU out ENDS -->
+
+	    
+    
+	<div id="middle-out">
+	<div id="middle" class="wrap">
+		
+		<div id="content" class="col-left">
+			
+			<div id="main" class="wrap archives">
+			
+				<div id="latest" class="col-left" style="width:auto;">
+				
+								
+				<h2 class="arh">Archive for 'Business'</h2>
+				
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/08/fake-trial-of-century-ends.html" rel="bookmark" title="Fake Trial of Century Ends">Fake Trial of Century Ends</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/08/fake-trial-of-century-ends.html"><img src="http://alphavilleherald.com/images/2010/08/150/judge.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>Bigfoot Convicted — Miss Petunia to Be Sentenced by Herald Reader survey!!!</p>
+<p>by Journey Yellowlist, Herald Legal Desk </p>
+<p>Bored office-clones clung to the edges  of their coffee-stained chairs, withered doyens of the china-cup crowd  shredded lace hankies in anguish, and drunken hillbillies fell off pickle-barrels  in the general store in hysterics as Judge [...]</p>
+<a href="http://alphavilleherald.com/2010/08/fake-trial-of-century-ends.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">12/08/10 at 2:54 am | <a href="http://alphavilleherald.com/2010/08/fake-trial-of-century-ends.html#comments" title="Comment on Fake Trial of Century Ends">19 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/07/metaverse-meetup-long-beach-july-30-31.html" rel="bookmark" title="Metaverse Meetup – Long Beach July 30 – 31">Metaverse Meetup – Long Beach July 30 – 31</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/07/metaverse-meetup-long-beach-july-30-31.html"><img src="http://alphavilleherald.com/images/2010/07/150/metaverse-meetup.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>&nbsp;<br>
+Future of Metaverse be decided around a hookah on Queen Mary?<br>
+&nbsp;</p>
+<p>The decks of the Queen Mary will echo at the end of July with the sound of open source techno-communists in jackboots, academics in clogs, birkenstock and flip-flop clad developers, and more than a few virtual world entrepreneurs sporting the sort of butter soft handmade [...]</p>
+<a href="http://alphavilleherald.com/2010/07/metaverse-meetup-long-beach-july-30-31.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">22/07/10 at 11:35 pm | <a href="http://alphavilleherald.com/2010/07/metaverse-meetup-long-beach-july-30-31.html#comments" title="Comment on Metaverse Meetup – Long Beach July 30 – 31">44 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/07/us-government-hits-73000-blogs-with-ban-stick.html" rel="bookmark" title="US Government Hits 73,000 Blogs With Ban Stick">US Government Hits 73,000 Blogs With Ban Stick</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/07/us-government-hits-73000-blogs-with-ban-stick.html"><img src="http://alphavilleherald.com/images/2010/07/150/siteseized.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>by IntLibber Brautigan</p>
+<p>In a blatant show of force against a host of more than 73,000 wordpress blogs, the US Government ordered BurstNet Technologies to take down the server of Blogetery.com for repeated acts of abuse of intellectual property and insufficient respect for the DMCA. According to a story on TorrentFreak, the owner/renter of the server [...]</p>
+<a href="http://alphavilleherald.com/2010/07/us-government-hits-73000-blogs-with-ban-stick.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">19/07/10 at 11:46 am | <a href="http://alphavilleherald.com/2010/07/us-government-hits-73000-blogs-with-ban-stick.html#comments" title="Comment on US Government Hits 73,000 Blogs With Ban Stick">51 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/06/oped-how-supply-linden-games-the-l-currency-exchange.html" rel="bookmark" title="Op/Ed: How Supply Linden Games The L$ Currency Exchange">Op/Ed: How Supply Linden Games The L$ Currency Exchange</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/06/oped-how-supply-linden-games-the-l-currency-exchange.html"><img src="http://alphavilleherald.com/images/2010/06/150/supply-linden-off-duty.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>by IntLibber Brautigan<br>
+Under a normal market, where there is a healthy flow of cash in and out of a given economy, those operating currency exchanges make significant profits in ways most people do not realize. With the LindeX, for example, the spread, i.e. the distance between the lowest sell price vs the highest buy price, [...]</p>
+<a href="http://alphavilleherald.com/2010/06/oped-how-supply-linden-games-the-l-currency-exchange.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">21/06/10 at 4:40 am | <a href="http://alphavilleherald.com/2010/06/oped-how-supply-linden-games-the-l-currency-exchange.html#comments" title="Comment on Op/Ed: How Supply Linden Games The L$ Currency Exchange">79 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/06/it-has-to-be-said-time-beats-money.html" rel="bookmark" title="It Has to Be Said: Time Beats Money?">It Has to Be Said: Time Beats Money?</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/06/it-has-to-be-said-time-beats-money.html"><img src="http://alphavilleherald.com/images/2010/06/150/allods.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>I have been taking a break from Second Life lately by playing the MMO Allods Online. &nbsp;Its a free to play MMO similar to World of Warcraft developed by Russians. &nbsp;Seeing how their players respond to a situation is very telling on how MMO’s and virtual worlds might be paid for in the future.&nbsp;</p>
+<p>World of [...]</p>
+<a href="http://alphavilleherald.com/2010/06/it-has-to-be-said-time-beats-money.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">16/06/10 at 1:26 am | <a href="http://alphavilleherald.com/2010/06/it-has-to-be-said-time-beats-money.html#comments" title="Comment on It Has to Be Said: Time Beats Money?">8 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/06/will-lab%e2%80%99s-over-half-off-sale-for-large-landowners-continue.html" rel="bookmark" title="Will Lab’s Over Half-Off Sale For Large Landowners Continue?">Will Lab’s Over Half-Off Sale For Large Landowners Continue?</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/06/will-lab%e2%80%99s-over-half-off-sale-for-large-landowners-continue.html"><img src="http://alphavilleherald.com/images/2010/06/150/laggy-empty-and-for-sale.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>According to a reliable source, Linden Lab has been heavily – and secretly – discounting the initial “purchase” price of virtual land for the largest landowners – those with holdings of 20 or more regions in Second Life. Under the Atlas program, standalone Second Life islands are sold for approximately $440 USD rather than the [...]</p>
+<a href="http://alphavilleherald.com/2010/06/will-lab%e2%80%99s-over-half-off-sale-for-large-landowners-continue.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">12/06/10 at 10:22 pm | <a href="http://alphavilleherald.com/2010/06/will-lab%e2%80%99s-over-half-off-sale-for-large-landowners-continue.html#comments" title="Comment on Will Lab’s Over Half-Off Sale For Large Landowners Continue?">24 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/04/loki-clifton-the-lab-was-not-respecting-the-deal-we-made.html" rel="bookmark" title="Loki Clifton: The Lab Was Not Respecting The Deal We Made">Loki Clifton: The Lab Was Not Respecting The Deal We Made</a></h2>
+
+					
+					<p>Loki Clifton’s Second Life consulting business is in trouble. Until Wednesday, Loki was a gold level solutions provider for Linden Lab, the makers of Second Life. But according to Mr. Clifton, despite months of negotiations and an agreement to expand Woodbury University’s Second Life presence, everything suddenly changed Tuesday when the Lindens abruptly terminated accounts [...]</p>
+<a href="http://alphavilleherald.com/2010/04/loki-clifton-the-lab-was-not-respecting-the-deal-we-made.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">26/04/10 at 2:57 am | <a href="http://alphavilleherald.com/2010/04/loki-clifton-the-lab-was-not-respecting-the-deal-we-made.html#comments" title="Comment on Loki Clifton: The Lab Was Not Respecting The Deal We Made">100 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/04/bnt-claims-500000-usd-in-damages-hopes-to-join-class-action-lawsuit.html" rel="bookmark" title="BNT Claims $500,000 USD in Damages – Hopes to Join Class Action Lawsuit">BNT Claims $500,000 USD in Damages – Hopes to Join Class Action Lawsuit</a></h2>
+
+					
+					<p>Intlibber Brautigan notified the Herald today that he has applied to join a virtual land class action lawsuit against Linden Lab and Philip Rosedale which was filed April 15th. The complaint alleges that after inducing players to join Second life with claims they "would receive and retain all right, title, interest, copyright and intellectual property [...]</p>
+<a href="http://alphavilleherald.com/2010/04/bnt-claims-500000-usd-in-damages-hopes-to-join-class-action-lawsuit.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">23/04/10 at 11:26 am | <a href="http://alphavilleherald.com/2010/04/bnt-claims-500000-usd-in-damages-hopes-to-join-class-action-lawsuit.html#comments" title="Comment on BNT Claims $500,000 USD in Damages – Hopes to Join Class Action Lawsuit">76 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/04/baby-starves-korean-couple-pleads-ignorance-internet-gaming-addiction.html" rel="bookmark" title="Baby Starves – Korean Couple Pleads Ignorance, Internet Gaming Addiction">Baby Starves – Korean Couple Pleads Ignorance, Internet Gaming Addiction</a></h2>
+
+					<a href="http://alphavilleherald.com/2010/04/baby-starves-korean-couple-pleads-ignorance-internet-gaming-addiction.html"><img src="http://alphavilleherald.com/images/2010/04/150/Facebook-baby.jpg" width="150" height="150" class="alignleft woo-image"></a>
+					<p>The Korean couple who’s child starved to death while they played marathon sessions of an online 3-D game plead guilty to negligent homicide Friday and apparently blamed an unfortunate combination of missing owners’ manuals for the child and Internet gaming addiction. CNN reports that the South Korean couple engaged in 10 hour overnight gameplay sessions [...]</p>
+<a href="http://alphavilleherald.com/2010/04/baby-starves-korean-couple-pleads-ignorance-internet-gaming-addiction.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">06/04/10 at 12:22 pm | <a href="http://alphavilleherald.com/2010/04/baby-starves-korean-couple-pleads-ignorance-internet-gaming-addiction.html#comments" title="Comment on Baby Starves – Korean Couple Pleads Ignorance, Internet Gaming Addiction">19 Comments</a></div>
+					
+												
+					<div class="post wrap">
+					<h2><a href="http://alphavilleherald.com/2010/04/linden-labs-new-terms-of-service-making-somethings-better-and-subtly-taking-something-away.html" rel="bookmark" title="Linden Lab’s New ToS: Some Things Improve While Taking Something Away">Linden Lab’s New ToS: Some Things Improve While Taking Something Away</a></h2>
+
+					
+					<p>Linden Lab has unveiled today its new Terms of Service, the backbone of the interaction between the user and the Lab when it comes to using Second Life. &nbsp;While some of the new ToS is very much welcome, there are hidden aspects that put a damper on things that have happened in the past.&nbsp;<br>
+First the [...]</p>
+<a href="http://alphavilleherald.com/2010/04/linden-labs-new-terms-of-service-making-somethings-better-and-subtly-taking-something-away.html" class="read-more">Full Story</a>
+					</div>	
+					<div class="post-info">01/04/10 at 3:48 am | <a href="http://alphavilleherald.com/2010/04/linden-labs-new-terms-of-service-making-somethings-better-and-subtly-taking-something-away.html#comments" title="Comment on Linden Lab’s New ToS: Some Things Improve While Taking Something Away">34 Comments</a></div>
+					
+							
+				<div class="more_entries">
+				<h2><a href="http://alphavilleherald.com/business/page/2">« Older Entries</a> &nbsp; </h2>
+				</div>
+			
+							
+
+					
+				</div>
+							
+			</div>
+			
+		</div>
+		
+				<div id="sidebar" class="col-right">
+
+			<!-- TABS STARTS -->           
+			<div id="tabs" class="block">
+                <ul class="idTabs tabs wrap">
+                    <li><a href="#comm">Comments</a></li>
+                    <li><a href="#feat">Featured</a></li>
+                                    </ul>
+                
+                <ul class="inside" id="comm">
+                                        
+                    <li><strong><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!! was posted on September 17, 2010">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a>&nbsp;(<a href="#" title="There are 21 comments to this posting">21</a>)</strong><ul>
+<li><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html#comment-64502" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!!, September 17, 2010"><em>Edna</em></a>: You know else is an egghead…. Lebron James</li>
+<li><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html#comment-64501" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!!, September 17, 2010"><em>Believer</em></a>: @Boyd Please go back to Hanja and not bother anybody else with your droning, pointless geriatric babble....</li>
+<li><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html#comment-64500" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!!, September 17, 2010"><em>IntLibber Brautigan</em></a>: Alyx, Julian’s undead-like albinoism is so Twilight-ago. I agree with most of what Peter...</li>
+<li><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html#comment-64499" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!!, September 17, 2010"><em>IntLibber Brautigan</em></a>: Persephone, You are, of course, correct in your analysis. The corporate-government collusion you...</li>
+<li><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html#comment-64498" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!!, September 17, 2010"><em>Persephone Bolero</em></a>: @Darrien “It’s the concentration of wealth, power, and influence into the hands of a few...</li>
+</ul></li>
+                </ul>	
+    
+                <ul class="inside" id="feat">
+                                        
+                        <li><h3><a title="Permanent Link to Writing for The Nation – Urizenus Sklar’s Secret Shame!!!" href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html" rel="bookmark">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a></h3>
+                        												                        </li>
+                    
+                                        
+                        <li><h3><a title="Permanent Link to Peaches Limondi — Post 6 Grrrrl" href="http://alphavilleherald.com/2010/09/peaches-limondi-post-6-grrrrl.html" rel="bookmark">Peaches Limondi — Post 6 Grrrrl</a></h3>
+                        																								<a class="read-more" title="Peaches Limondi — Post 6 Grrrrl" href="http://alphavilleherald.com/2010/09/peaches-limondi-post-6-grrrrl.html"><img src="http://alphavilleherald.com/images/2010/09/150/Peaches-Limondi-Final-1.jpg"></a>
+												                        </li>
+                    
+                                        
+                        <li><h3><a title="Permanent Link to Op/Ed: Our Responsibilities As Avatars" href="http://alphavilleherald.com/2010/09/our-responsibilities-as-avatars.html" rel="bookmark">Op/Ed: Our Responsibilities As Avatars</a></h3>
+                        												                        </li>
+                    
+                                        
+                        <li><h3><a title="Permanent Link to Ban Hammer Smashes Emerald – Phox Threatens Linden Tell-All" href="http://alphavilleherald.com/2010/09/ban-hammer-smashes-emerald-phox-threatens-linden-tell-all.html" rel="bookmark">Ban Hammer Smashes Emerald – Phox Threatens Linden Tell-All</a></h3>
+                        																								<a class="read-more" title="Ban Hammer Smashes Emerald – Phox Threatens Linden Tell-All" href="http://alphavilleherald.com/2010/09/ban-hammer-smashes-emerald-phox-threatens-linden-tell-all.html"><img src="http://alphavilleherald.com/images/2010/09/150/Eshi4.jpg"></a>
+												                        </li>
+                    
+                                        
+                        <li><h3><a title="Permanent Link to Kasandra Rage — Post 6 Grrrrl" href="http://alphavilleherald.com/2010/09/kasandra-rage-post-6-grrrrl.html" rel="bookmark">Kasandra Rage — Post 6 Grrrrl</a></h3>
+                        																								<a class="read-more" title="Kasandra Rage — Post 6 Grrrrl" href="http://alphavilleherald.com/2010/09/kasandra-rage-post-6-grrrrl.html"><img src="http://alphavilleherald.com/images/2010/09/150/Kasandra-Rage-Final-1.jpg"></a>
+												                        </li>
+                    
+                    		
+                </ul>
+                
+                                    
+            </div>      
+			<!-- TABS ENDS -->
+
+			
+<div class="subscribe">
+    <h2><a href="http://feeds.feedburner.com/AlphavilleHerald">Subscribe to our RSS</a></h2>
+    <p>Receive updates as soon as they are posted.</p>
+</div>
+
+<div id="archives-3" class="last block widget widget_archive"><h2>Archives</h2>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://alphavilleherald.com/2010/09"> September 2010 </option>
+	<option value="http://alphavilleherald.com/2010/08"> August 2010 </option>
+	<option value="http://alphavilleherald.com/2010/07"> July 2010 </option>
+	<option value="http://alphavilleherald.com/2010/06"> June 2010 </option>
+	<option value="http://alphavilleherald.com/2010/05"> May 2010 </option>
+	<option value="http://alphavilleherald.com/2010/04"> April 2010 </option>
+	<option value="http://alphavilleherald.com/2010/03"> March 2010 </option>
+	<option value="http://alphavilleherald.com/2010/02"> February 2010 </option>
+	<option value="http://alphavilleherald.com/2010/01"> January 2010 </option>
+	<option value="http://alphavilleherald.com/2009/12"> December 2009 </option>
+	<option value="http://alphavilleherald.com/2009/11"> November 2009 </option>
+	<option value="http://alphavilleherald.com/2009/10"> October 2009 </option>
+	<option value="http://alphavilleherald.com/2009/09"> September 2009 </option>
+	<option value="http://alphavilleherald.com/2009/08"> August 2009 </option>
+	<option value="http://alphavilleherald.com/2009/07"> July 2009 </option>
+	<option value="http://alphavilleherald.com/2009/06"> June 2009 </option>
+	<option value="http://alphavilleherald.com/2009/05"> May 2009 </option>
+	<option value="http://alphavilleherald.com/2009/04"> April 2009 </option>
+	<option value="http://alphavilleherald.com/2009/03"> March 2009 </option>
+	<option value="http://alphavilleherald.com/2009/02"> February 2009 </option>
+	<option value="http://alphavilleherald.com/2009/01"> January 2009 </option>
+	<option value="http://alphavilleherald.com/2008/12"> December 2008 </option>
+	<option value="http://alphavilleherald.com/2008/11"> November 2008 </option>
+	<option value="http://alphavilleherald.com/2008/10"> October 2008 </option>
+	<option value="http://alphavilleherald.com/2008/09"> September 2008 </option>
+	<option value="http://alphavilleherald.com/2008/08"> August 2008 </option>
+	<option value="http://alphavilleherald.com/2008/07"> July 2008 </option>
+	<option value="http://alphavilleherald.com/2008/06"> June 2008 </option>
+	<option value="http://alphavilleherald.com/2008/05"> May 2008 </option>
+	<option value="http://alphavilleherald.com/2008/04"> April 2008 </option>
+	<option value="http://alphavilleherald.com/2008/03"> March 2008 </option>
+	<option value="http://alphavilleherald.com/2008/02"> February 2008 </option>
+	<option value="http://alphavilleherald.com/2008/01"> January 2008 </option>
+	<option value="http://alphavilleherald.com/2007/12"> December 2007 </option>
+	<option value="http://alphavilleherald.com/2007/11"> November 2007 </option>
+	<option value="http://alphavilleherald.com/2007/10"> October 2007 </option>
+	<option value="http://alphavilleherald.com/2007/09"> September 2007 </option>
+	<option value="http://alphavilleherald.com/2007/08"> August 2007 </option>
+	<option value="http://alphavilleherald.com/2007/07"> July 2007 </option>
+	<option value="http://alphavilleherald.com/2007/06"> June 2007 </option>
+	<option value="http://alphavilleherald.com/2007/05"> May 2007 </option>
+	<option value="http://alphavilleherald.com/2007/04"> April 2007 </option>
+	<option value="http://alphavilleherald.com/2007/03"> March 2007 </option>
+	<option value="http://alphavilleherald.com/2007/02"> February 2007 </option>
+	<option value="http://alphavilleherald.com/2007/01"> January 2007 </option>
+	<option value="http://alphavilleherald.com/2006/12"> December 2006 </option>
+	<option value="http://alphavilleherald.com/2006/11"> November 2006 </option>
+	<option value="http://alphavilleherald.com/2006/10"> October 2006 </option>
+	<option value="http://alphavilleherald.com/2006/09"> September 2006 </option>
+	<option value="http://alphavilleherald.com/2006/08"> August 2006 </option>
+	<option value="http://alphavilleherald.com/2006/07"> July 2006 </option>
+	<option value="http://alphavilleherald.com/2006/06"> June 2006 </option>
+	<option value="http://alphavilleherald.com/2006/05"> May 2006 </option>
+	<option value="http://alphavilleherald.com/2006/04"> April 2006 </option>
+	<option value="http://alphavilleherald.com/2006/03"> March 2006 </option>
+	<option value="http://alphavilleherald.com/2006/02"> February 2006 </option>
+	<option value="http://alphavilleherald.com/2006/01"> January 2006 </option>
+	<option value="http://alphavilleherald.com/2005/12"> December 2005 </option>
+	<option value="http://alphavilleherald.com/2005/11"> November 2005 </option>
+	<option value="http://alphavilleherald.com/2005/10"> October 2005 </option>
+	<option value="http://alphavilleherald.com/2005/09"> September 2005 </option>
+	<option value="http://alphavilleherald.com/2005/08"> August 2005 </option>
+	<option value="http://alphavilleherald.com/2005/07"> July 2005 </option>
+	<option value="http://alphavilleherald.com/2005/06"> June 2005 </option>
+	<option value="http://alphavilleherald.com/2005/05"> May 2005 </option>
+	<option value="http://alphavilleherald.com/2005/04"> April 2005 </option>
+	<option value="http://alphavilleherald.com/2005/03"> March 2005 </option>
+	<option value="http://alphavilleherald.com/2005/02"> February 2005 </option>
+	<option value="http://alphavilleherald.com/2005/01"> January 2005 </option>
+	<option value="http://alphavilleherald.com/2004/12"> December 2004 </option>
+	<option value="http://alphavilleherald.com/2004/11"> November 2004 </option>
+	<option value="http://alphavilleherald.com/2004/10"> October 2004 </option>
+	<option value="http://alphavilleherald.com/2004/09"> September 2004 </option>
+	<option value="http://alphavilleherald.com/2004/08"> August 2004 </option>
+	<option value="http://alphavilleherald.com/2004/07"> July 2004 </option>
+	<option value="http://alphavilleherald.com/2004/06"> June 2004 </option>
+	<option value="http://alphavilleherald.com/2004/05"> May 2004 </option>
+	<option value="http://alphavilleherald.com/2004/04"> April 2004 </option>
+	<option value="http://alphavilleherald.com/2004/03"> March 2004 </option>
+	<option value="http://alphavilleherald.com/2004/02"> February 2004 </option>
+	<option value="http://alphavilleherald.com/2004/01"> January 2004 </option>
+	<option value="http://alphavilleherald.com/2003/12"> December 2003 </option>
+	<option value="http://alphavilleherald.com/2003/11"> November 2003 </option>
+	<option value="http://alphavilleherald.com/2003/10"> October 2003 </option>
+ </select>
+</div><div id="categories-3" class="last block widget widget_categories"><h2>Categories</h2>		<ul>
+	<li class="cat-item cat-item-30"><a href="http://alphavilleherald.com/business/advertisements" title="View all posts filed under Advertisements">Advertisements</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://alphavilleherald.com/news/announcements" title="View all posts filed under Announcements">Announcements</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://alphavilleherald.com/media/art" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://alphavilleherald.com/media/back-stories" title="View all posts filed under Back Stories">Back Stories</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://alphavilleherald.com/media/building-a-better-vr" title="View all posts filed under Building a Better VR">Building a Better VR</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://alphavilleherald.com/news/clubs-casinos-and-events" title="View all posts filed under Clubs, Casinos, and Events">Clubs, Casinos, and Events</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://alphavilleherald.com/media/comix" title="View all posts filed under Comix">Comix</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://alphavilleherald.com/business/currency-traders-and-gold-farmers" title="View all posts filed under Currency Traders and Gold Farmers">Currency Traders and Gold Farmers</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://alphavilleherald.com/news/fashion-and-fashionista-drama" title="View all posts filed under Fashion and Fashionista Drama">Fashion and Fashionista Drama</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://alphavilleherald.com/news/featured" title="View all posts filed under Featured">Featured</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://alphavilleherald.com/media/film" title="View all posts filed under Film">Film</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://alphavilleherald.com/media/game-development-in-sl" title="View all posts filed under Game Development in SL">Game Development in SL</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://alphavilleherald.com/media/games-journalism-and-the-virtual-press" title="View all posts filed under Games Journalism and the Virtual Press">Games Journalism and the Virtual Press</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://alphavilleherald.com/media/gaming-in-general" title="View all posts filed under Gaming in General">Gaming in General</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://alphavilleherald.com/media/gossip-and-drama" title="View all posts filed under Gossip and Drama">Gossip and Drama</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://alphavilleherald.com/media/herald-literary-suppository" title="View all posts filed under Herald Literary Suppository">Herald Literary Suppository</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://alphavilleherald.com/media/interviews" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://alphavilleherald.com/business/legal-issues" title="View all posts filed under Legal Issues">Legal Issues</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://alphavilleherald.com/opinion/letters-to-the-editor" title="View all posts filed under Letters to the Editor">Letters to the Editor</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://alphavilleherald.com/news/mafias-gangs-and-virtual-governments" title="View all posts filed under Mafias, Gangs and Virtual Governments">Mafias, Gangs and Virtual Governments</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://alphavilleherald.com/media/miscellaneous" title="View all posts filed under Miscellaneous">Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://alphavilleherald.com/media/new-media" title="View all posts filed under New Media">New Media</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://alphavilleherald.com/news/news-from-facebook" title="View all posts filed under News from Facebook">News from Facebook</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://alphavilleherald.com/news/news-from-lively" title="View all posts filed under News from Lively">News from Lively</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://alphavilleherald.com/news/news-from-metaplace" title="View all posts filed under News from Metaplace">News from Metaplace</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://alphavilleherald.com/news/news-from-other-mmos" title="View all posts filed under News from Other MMOs">News from Other MMOs</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://alphavilleherald.com/news/news-from-second-life" title="View all posts filed under News from Second Life">News from Second Life</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://alphavilleherald.com/news/news-from-the-sims-online" title="View all posts filed under News from The Sims Online">News from The Sims Online</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://alphavilleherald.com/news/news-you-can-abuse" title="View all posts filed under News You Can Abuse">News You Can Abuse</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://alphavilleherald.com/media/off-the-grid" title="View all posts filed under Off the Grid">Off the Grid</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://alphavilleherald.com/opinion/oped" title="View all posts filed under Op/Ed">Op/Ed</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://alphavilleherald.com/opinion" title="View all posts filed under Opinion">Opinion</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://alphavilleherald.com/opinion/philosophical-issues" title="View all posts filed under Philosophical Issues">Philosophical Issues</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://alphavilleherald.com/media/phunnies" title="View all posts filed under Phunnies">Phunnies</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://alphavilleherald.com/news/scammers-griefers-and-goons" title="View all posts filed under Scammers, Griefers and Goons">Scammers, Griefers and Goons</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://alphavilleherald.com/media/second-life-artists" title="View all posts filed under Second Life Artists">Second Life Artists</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://alphavilleherald.com/news/sex-cybersex-and-beyond" title="View all posts filed under Sex, Cybersex and Beyond">Sex, Cybersex and Beyond</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://alphavilleherald.com/media/sights-and-sims" title="View all posts filed under Sights and Sims">Sights and Sims</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://alphavilleherald.com/media/stats" title="View all posts filed under Stats">Stats</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://alphavilleherald.com/news/stratics" title="View all posts filed under Stratics">Stratics</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://alphavilleherald.com/news/the-borg-news-about-ea" title="View all posts filed under The Borg. News about EA">The Borg. News about EA</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://alphavilleherald.com/uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://alphavilleherald.com/business/virtual-business-finance-and-economics" title="View all posts filed under Virtual Business, Finance and Economics">Virtual Business, Finance and Economics</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://alphavilleherald.com/business/virtual-products-services-and-reviews" title="View all posts filed under Virtual Products, Services and Reviews">Virtual Products, Services and Reviews</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://alphavilleherald.com/news/war-and-militias" title="View all posts filed under War and militias">War and militias</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://alphavilleherald.com/media/webtech" title="View all posts filed under Web/Tech">Web/Tech</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://alphavilleherald.com/media/weblogs" title="View all posts filed under Weblogs">Weblogs</a>
+</li>
+		</ul>
+</div>		</div>		
+	</div>
+	</div>
+		<!-- FOOTER STARTS -->
+	<div id="footer-out">
+	<div id="footer" class="wrap">
+        
+		<div class="widget block">
+			<div class="flickr">
+    <h2>Photos on <span>flick<span>r</span></span></h2>
+    <div class="inside">
+		<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=&amp;display=latest&amp;size=s&amp;layout=x&amp;source=user&amp;user="></script>        
+	<div class="fix"></div>
+    </div>
+</div>
+
+		</div>
+		<div class="widget block">
+					<div id="recent-posts-3" class="last block widget widget_recent_entries">		<h2>Recent Posts</h2>		<ul>
+				<li><a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html" title="Writing for The Nation – Urizenus Sklar’s Secret Shame!!!">Writing for The Nation – Urizenus Sklar’s Secret Shame!!! </a></li>
+				<li><a href="http://alphavilleherald.com/2010/09/peaches-limondi-post-6-grrrrl.html" title="Peaches Limondi — Post 6 Grrrrl">Peaches Limondi — Post 6 Grrrrl </a></li>
+				<li><a href="http://alphavilleherald.com/2010/09/our-responsibilities-as-avatars.html" title="Op/Ed: Our Responsibilities As Avatars">Op/Ed: Our Responsibilities As Avatars </a></li>
+				<li><a href="http://alphavilleherald.com/2010/09/ban-hammer-smashes-emerald-phox-threatens-linden-tell-all.html" title="Ban Hammer Smashes Emerald – Phox Threatens Linden Tell-All">Ban Hammer Smashes Emerald – Phox Threatens Linden Tell-All </a></li>
+				<li><a href="http://alphavilleherald.com/2010/09/kasandra-rage-post-6-grrrrl.html" title="Kasandra Rage — Post 6 Grrrrl">Kasandra Rage — Post 6 Grrrrl </a></li>
+				</ul>
+		</div>		</div>
+		<div class="widget block last">
+					<div id="recent-comments-4" class="last block widget widget_recent_comments">			<h2>Recent Comments</h2>			<ul id="recentcomments"><li class="recentcomments">Edna on <a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html/comment-page-1#comment-64502">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a></li><li class="recentcomments">Believer on <a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html/comment-page-1#comment-64501">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a></li><li class="recentcomments">IntLibber Brautigan on <a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html/comment-page-1#comment-64500">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a></li><li class="recentcomments">IntLibber Brautigan on <a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html/comment-page-1#comment-64499">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a></li><li class="recentcomments">Persephone Bolero on <a href="http://alphavilleherald.com/2010/09/writing-for-the-nation-urizenus-sklars-secret-shame.html/comment-page-1#comment-64498">Writing for The Nation – Urizenus Sklar’s Secret Shame!!!</a></li></ul>
+		</div>		</div>
+	</div>
+	</div>
+	<!-- FOOTER ENDS -->
+	<div id="copyright-out">
+	<div id="copyright" class="wrap">
+		<div class="col-left">
+			<ul>
+								<li class="page_item current_page_item first"><a href="http://alphavilleherald.com">Home</a></li>
+				<li class="page_item page-item-3266"><a href="http://alphavilleherald.com/archives" title="Archives">Archives</a></li>
+<li class="page_item page-item-3181"><a href="http://alphavilleherald.com/about" title="About">About</a></li>
+<li class="page_item page-item-3191"><a href="http://alphavilleherald.com/disclaimer" title="disclaimer">disclaimer</a></li>
+<li class="page_item page-item-3194"><a href="http://alphavilleherald.com/contact" title="contacts">contacts</a></li>
+			</ul>
+		<p>© Copyright The Alphaville Herald. All Rights Reserved. <span class="cred"><a style="text-decoration: none;" href="http://foliovision.com/2008/11/17/typepad-to-wordpress/">Typepad to Wordpress</a> Conversion by Foliovision</span></p>
+		</div>
+		<div class="col-right">
+			<a href="#"><img src="http://alphavilleherald.com/site/wp-content/themes/gothamnews/images/img_top.gif" width="34" height="24" alt="Back on Top"></a>
+		</div>
+	</div>
+	</div>
+<script type="text/javascript">
+var sc_project=5656542; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="7e418274"; 
+var sc_remove_link=1; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c.statcounter.com/5656542/0/7e418274/1/" alt="wordpress analytics"></div></noscript>
+
+
+
+
+</body></html>

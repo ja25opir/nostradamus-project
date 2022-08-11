@@ -1,0 +1,579 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
+<!--The Title-->
+<title>Microsoft Windows | AGT.ID.AU - Cairns - Part 4</title>
+
+<!--The Favicon-->
+<link rel="shortcut icon" href="http://agt.id.au/wp-content/themes/FlexxCanvas/images/favicon.ico" type="image/x-icon">
+
+<!--The Meta Info-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!--The Stylesheets-->
+<link rel="stylesheet" href="http://agt.id.au/wp-content/themes/FlexxCanvas/style.css" type="text/css" media="screen">
+<!--[if lte IE 7]>
+    <link rel="stylesheet" href="http://agt.id.au/wp-content/themes/FlexxCanvas/css/lte-ie7.css" type="text/css" media="screen" />
+<![endif]-->
+<!--[if lt IE 7]>
+    <link rel="stylesheet" href="http://agt.id.au/wp-content/themes/FlexxCanvas/css/lt-ie7.css" type="text/css" media="screen" />
+    <script src="http://agt.id.au/wp-content/themes/FlexxCanvas/js/dropdown.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+sfHover = function() {
+	if(document.getElementById("pagemenu")) {
+		var sfEls = document.getElementById("pagemenu").getElementsByTagName("LI");
+		for (var i=0; i<sfEls.length; i++) {
+			sfEls[i].onmouseover=function() {
+				this.className+=" sfhover";
+			}
+			sfEls[i].onmouseout=function() {
+				this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+			}
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+sfHover = function() {
+	if(document.getElementById("catmenu")) {
+		var sfEls = document.getElementById("catmenu").getElementsByTagName("LI");
+		for (var i=0; i<sfEls.length; i++) {
+			sfEls[i].onmouseover=function() {
+				this.className+=" sfhover";
+			}
+			sfEls[i].onmouseout=function() {
+				this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+			}
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+//--><!]]></script>
+
+
+<!-- custom style-sheet -->
+
+<!--The RSS and Pingback-->
+<link rel="alternate" type="application/rss+xml" title="AGT.ID.AU – Cairns RSS Feed" href="http://agt.id.au/?feed=rss2">
+<link rel="pingback" href="http://agt.id.au/xmlrpc.php">
+
+
+<link rel="alternate" type="application/rss+xml" title="AGT.ID.AU - Cairns » Microsoft Windows Category Feed" href="http://agt.id.au/?feed=rss2&amp;cat=6">
+<link rel="stylesheet" id="ithemes_feedburner_widget-theme-options-css" href="http://agt.id.au/wp-content/themes/FlexxCanvas/lib/feedburner-widget/css/style.css.php?ver=abc" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="http://agt.id.au/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
+<script type="text/javascript" src="http://agt.id.au/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://agt.id.au/wp-content/plugins/countdown-timer/js/fergcorp_countdownTimer_java.js?ver=2.4.2"></script>
+<script type="text/javascript" src="http://agt.id.au/wp-content/plugins/countdown-timer/js/webtoolkit.sprintf.js?ver=2.4.2"></script>
+<script type="text/javascript" src="http://agt.id.au/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1"></script>
+<script type="text/javascript" src="http://agt.id.au/wp-content/themes/FlexxCanvas/lib/contact-page-plugin/js/md5.js?ver=abc"></script>
+<script type="text/javascript" src="http://agt.id.au/wp-content/themes/FlexxCanvas/lib/contact-page-plugin/js/contact-page-plugin.js?ver=abc"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://agt.id.au/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://agt.id.au/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="AGT.ID.AU – Cairns" href="http://agt.id.au">
+
+<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[224,278] -->
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="http://agt.id.au/?cat=6/page/4/">
+<!-- /all in one seo pack -->
+<link rel="stylesheet" href="http://agt.id.au/wp-content/plugins/commentluv/style/cl_style.css" type="text/css"><style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 5px;
+	line-height: 7px;
+	height: 7px;
+	background-image: url('http://agt.id.au/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+	<style type="text/css">
+		body {
+																									background-image: url(http://agt.id.au/wp-content/themes/FlexxCanvas/images/body-bg.gif);
+																																	background-color: #DDD;
+																																	background-position: top left;
+																																	background-attachment: scroll;
+																																	background-repeat: repeat-x;
+																				}
+	</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-8350783-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body>
+<div class="c960 center wrap" id="container">
+
+	
+	<div id="header" style="position:relative;">
+		<script type="text/javascript" src="http://agt.id.au/wp-content/themes/FlexxCanvas/lib/featured-images2/js/jquery.cross-slide.js?ver=abc"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+			jQuery(document).ready(
+				function() {
+					jQuery('#featured-images-rotator').crossSlide(
+						{sleep: 2, fade: 1},
+						[
+							{src: 'http://agt.id.au/wp-content/uploads/2010/09/header.jpg'},
+{src: 'http://agt.id.au/wp-content/uploads/2010/09/PICT1003-resized-image-960x146.jpg'},
+{src: 'http://agt.id.au/wp-content/uploads/2010/09/Mat_Me-resized-image-960x146.jpg'},
+{src: 'http://agt.id.au/wp-content/uploads/2010/09/Truck_Boat-resized-image-960x146.jpg'},
+{src: 'http://agt.id.au/wp-content/uploads/2010/09/BMRoad-resized-image-960x146.jpg'}
+						]
+					);
+				}
+			);
+		/* ]]> */
+	</script>
+	<style type="text/css">
+		#featured-images-rotator {
+			background: url('http://agt.id.au/wp-content/uploads/2010/09/header.jpg');
+		}
+		#featured-images-rotator,
+		#featured-images-rotator-wrapper {
+			width: 960px;
+			height: 146px;
+			text-align: left;
+		}
+		#featured-images-rotator-container .featured-images-link-overlay {
+			height: 146px;
+			width: 960px;
+			position: absolute;
+			top: 0;
+			display: block;
+		}
+		#featured-images-rotator-container .featured-images-link {
+			text-decoration: none;
+		}
+		#featured-images-rotator-container .featured-images-title-overlay {
+			width: 960px;
+			position: absolute;
+			bottom: 0;
+			text-align: center;
+			padding: px;
+			display: block;
+		}
+		#featured-images-rotator-container .featured-images-title-overlay-header {
+			width: 100%;
+			color: #FF0000;
+			font-size: px;
+		}
+		#featured-images-rotator-container .featured-images-title-overlay-subheader {
+			width: 100%;
+			color: #FF0000;
+			font-size: px;
+		}
+		#featured-images-rotator-container .featured-images-title-overlay-header {
+			padding-bottom: px;
+		}
+		#featured-images-rotator-container .featured-images-title-overlay-header a {
+			color: #FF0000;
+			font-size: px;
+			line-height: 1;
+		}
+		#featured-images-rotator-container .featured-images-title-overlay-subheader a {
+			color: #FF0000;
+			font-size: px;
+			line-height: 1;
+		}
+	</style>
+	
+	<div id="featured-images-rotator-wrapper" style="position:relative;">
+		<div id="featured-images-rotator-container" style="position:relative;">
+			<div id="featured-images-rotator"><!-- placeholder --></div>
+			
+						
+						
+		</div>
+	</div>
+	</div>
+	
+	<div id="below-header">
+<div id="pagemenu" class="wrap">
+	<ul class="wrap">
+							<li class="home "><a href="http://agt.id.au">Home</a></li>
+						
+													<li class="page_item page-item-2"><a href="http://agt.id.au/?page_id=2" title="About">About</a></li>
+<li class="page_item page-item-15"><a href="http://agt.id.au/?page_id=15" title="Contact Me">Contact Me</a></li>
+<li class="page_item page-item-21"><a href="http://agt.id.au/?page_id=21" title="Privacy Policy">Privacy Policy</a></li>
+			</ul>
+</div>
+</div>
+<div class="wrap" id="feature-top">
+
+	<div class="w480-" id="feature-top-left">
+		<div class="widget"><h4><a class="rsswidget" href="http://www.abc.net.au/farnorth/rss/?ref=footer" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://agt.id.au/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.abc.net.au/local/rss/farnorth/all.xml" title="Latest Media Content from ABC Far North">Far North Local News</a></h4><ul><li><a class="rsswidget" href="http://www.abc.net.au/news/photos/2010/09/17/3015334.htm?site=farnorth&amp;source=rss" title="Lleyton Hewitt of Australia plays a backhand in his match against Ruben Bemelmans of Belgium during day one of the Davis Cup tie between Australia and Belgium at Cairns International Tennis Centre on September 17, 2010. […]">Lleyton does his country proud</a></li><li><a class="rsswidget" href="http://www.abc.net.au/news/video/2010/09/17/3015279.htm?site=farnorth&amp;source=rss" title="The mother of a profoundly autistic boy who died in state care says she holds State Government departments responsible for his death. […]">A mother's anguish</a></li><li><a class="rsswidget" href="http://www.abc.net.au/news/stories/2010/09/17/3015271.htm?site=farnorth&amp;source=rss" title="Refugee advocates say the Government should house asylum seekers closer to capital cities rather than in remote areas of Australia. […]">Isolation solution 'no help to asylum seekers'</a></li><li><a class="rsswidget" href="http://www.abc.net.au/news/stories/2010/09/17/3015085.htm?site=farnorth&amp;source=rss" title="Lleyton Hewitt overcame surprise resistance to give Australia a perfect start to its Davis Cup World Group Play-off in Cairns, before Belgium hit back to draw the tie level at 1-1. […]">Belgium responds to Hewitt's bright start</a></li><li><a class="rsswidget" href="http://www.abc.net.au/news/stories/2010/09/17/3015199.htm?site=farnorth&amp;source=rss" title="The man who conspired to topple Australia from the elite level of tennis was at it again in Cairns on Friday, helping Belgium put its Davis Cup World Group Play-off at 1-1. […]">Rochus stands tall over Ball</a></li></ul></div>	</div>
+	
+
+	<div class="w480-" id="feature-top-right">
+	<div class="widget"><h4>Tags</h4><div><a href="http://agt.id.au/?tag=apple" class="tag-link-220" title="25 topics" style="font-size: 13.8202247191pt;">Apple</a>
+<a href="http://agt.id.au/?tag=australia" class="tag-link-391" title="21 topics" style="font-size: 12.7191011236pt;">Australia</a>
+<a href="http://agt.id.au/?tag=barra" class="tag-link-188" title="13 topics" style="font-size: 9.73033707865pt;">barra</a>
+<a href="http://agt.id.au/?tag=barron" class="tag-link-76" title="17 topics" style="font-size: 11.4606741573pt;">Barron</a>
+<a href="http://agt.id.au/?tag=boat" class="tag-link-36" title="23 topics" style="font-size: 13.3483146067pt;">boat</a>
+<a href="http://agt.id.au/?tag=cairns" class="tag-link-41" title="70 topics" style="font-size: 20.7415730337pt;">Cairns</a>
+<a href="http://agt.id.au/?tag=crab" class="tag-link-240" title="10 topics" style="font-size: 8pt;">crab</a>
+<a href="http://agt.id.au/?tag=cricket" class="tag-link-379" title="11 topics" style="font-size: 8.62921348315pt;">Cricket</a>
+<a href="http://agt.id.au/?tag=entrecard" class="tag-link-874" title="12 topics" style="font-size: 9.10112359551pt;">EntreCard</a>
+<a href="http://agt.id.au/?tag=fishing" class="tag-link-4" title="85 topics" style="font-size: 22pt;">Fishing</a>
+<a href="http://agt.id.au/?tag=ford" class="tag-link-899" title="18 topics" style="font-size: 11.7752808989pt;">ford</a>
+<a href="http://agt.id.au/?tag=internet" class="tag-link-166" title="14 topics" style="font-size: 10.202247191pt;">internet</a>
+<a href="http://agt.id.au/?tag=iphone" class="tag-link-918" title="12 topics" style="font-size: 9.10112359551pt;">iPhone</a>
+<a href="http://agt.id.au/?tag=island" class="tag-link-151" title="11 topics" style="font-size: 8.62921348315pt;">Island</a>
+<a href="http://agt.id.au/?tag=karumba" class="tag-link-1151" title="23 topics" style="font-size: 13.3483146067pt;">karumba</a>
+<a href="http://agt.id.au/?tag=linux" class="tag-link-3" title="20 topics" style="font-size: 12.404494382pt;">Linux</a>
+<a href="http://agt.id.au/?tag=matt" class="tag-link-897" title="18 topics" style="font-size: 11.7752808989pt;">Matt</a>
+<a href="http://agt.id.au/?tag=matthew" class="tag-link-260" title="19 topics" style="font-size: 12.0898876404pt;">Matthew</a>
+<a href="http://agt.id.au/?tag=microsoft" class="tag-link-103" title="18 topics" style="font-size: 11.7752808989pt;">Microsoft</a>
+<a href="http://agt.id.au/?tag=monday" class="tag-link-1880" title="11 topics" style="font-size: 8.62921348315pt;">monday</a>
+<a href="http://agt.id.au/?tag=music" class="tag-link-1879" title="11 topics" style="font-size: 8.62921348315pt;">music</a>
+<a href="http://agt.id.au/?tag=new" class="tag-link-88" title="20 topics" style="font-size: 12.404494382pt;">new</a>
+<a href="http://agt.id.au/?tag=north" class="tag-link-294" title="13 topics" style="font-size: 9.73033707865pt;">North</a>
+<a href="http://agt.id.au/?tag=of" class="tag-link-302" title="14 topics" style="font-size: 10.202247191pt;">of</a>
+<a href="http://agt.id.au/?tag=playstation" class="tag-link-21" title="11 topics" style="font-size: 8.62921348315pt;">Playstation</a>
+<a href="http://agt.id.au/?tag=prawns" class="tag-link-75" title="11 topics" style="font-size: 8.62921348315pt;">prawns</a>
+<a href="http://agt.id.au/?tag=psp" class="tag-link-23" title="16 topics" style="font-size: 10.9887640449pt;">PSP</a>
+<a href="http://agt.id.au/?tag=queensland" class="tag-link-295" title="28 topics" style="font-size: 14.606741573pt;">Queensland</a>
+<a href="http://agt.id.au/?tag=rain" class="tag-link-429" title="11 topics" style="font-size: 8.62921348315pt;">rain</a>
+<a href="http://agt.id.au/?tag=ranger" class="tag-link-900" title="21 topics" style="font-size: 12.7191011236pt;">ranger</a>
+<a href="http://agt.id.au/?tag=reef" class="tag-link-140" title="11 topics" style="font-size: 8.62921348315pt;">reef</a>
+<a href="http://agt.id.au/?tag=review" class="tag-link-8" title="10 topics" style="font-size: 8pt;">review</a>
+<a href="http://agt.id.au/?tag=river" class="tag-link-77" title="25 topics" style="font-size: 13.8202247191pt;">River</a>
+<a href="http://agt.id.au/?tag=service" class="tag-link-46" title="12 topics" style="font-size: 9.10112359551pt;">service</a>
+<a href="http://agt.id.au/?tag=site" class="tag-link-434" title="11 topics" style="font-size: 8.62921348315pt;">site</a>
+<a href="http://agt.id.au/?tag=sony" class="tag-link-20" title="15 topics" style="font-size: 10.5168539326pt;">Sony</a>
+<a href="http://agt.id.au/?tag=the" class="tag-link-204" title="13 topics" style="font-size: 9.73033707865pt;">the</a>
+<a href="http://agt.id.au/?tag=trip" class="tag-link-57" title="12 topics" style="font-size: 9.10112359551pt;">trip</a>
+<a href="http://agt.id.au/?tag=update" class="tag-link-316" title="12 topics" style="font-size: 9.10112359551pt;">update</a>
+<a href="http://agt.id.au/?tag=upgrade" class="tag-link-177" title="15 topics" style="font-size: 10.5168539326pt;">upgrade</a>
+<a href="http://agt.id.au/?tag=vista" class="tag-link-101" title="13 topics" style="font-size: 9.73033707865pt;">Vista</a>
+<a href="http://agt.id.au/?tag=weather" class="tag-link-147" title="11 topics" style="font-size: 8.62921348315pt;">weather</a>
+<a href="http://agt.id.au/?tag=wind" class="tag-link-214" title="13 topics" style="font-size: 9.73033707865pt;">wind</a>
+<a href="http://agt.id.au/?tag=windows" class="tag-link-102" title="15 topics" style="font-size: 10.5168539326pt;">Windows</a>
+<a href="http://agt.id.au/?tag=wordpress" class="tag-link-62" title="23 topics" style="font-size: 13.3483146067pt;">Wordpress</a></div>
+</div>	</div>
+
+</div>
+
+<!--archive.php-->
+<div class="w600-" id="content">
+	
+		
+	<h4 class="archive-header">			Archive for Microsoft Windows		</h4>
+	
+		
+	<!--Post Wrapper Class-->
+	<div class="post-862 post type-post hentry category-computers category-microsoft-windows category-tech tag-2 tag-changes tag-dell tag-laptop tag-m1530 tag-microsoft tag-pack tag-reverting tag-service tag-stage tag-vista tag-windows tag-xps">
+	
+	<!--Title/Date/Meta-->
+	<div class="title wrap">
+		<div class="date">
+			<div class="month">Jun</div>
+			<div class="day">08</div>
+		</div>
+		<div class="post-title">
+			<h3 id="post-862"><a href="http://agt.id.au/?p=862">Vista SP2 troubles</a></h3>
+			Posted by: 
+			<span class="meta-author"><a href="http://agt.id.au/?author=1" title="Posts by Andrew Tunney">Andrew Tunney</a></span> 
+			| Comments
+			<span class="meta-comments"><a href="http://agt.id.au/?p=862#comments" title="Comment on Vista SP2 troubles">(1)</a></span>
+		</div>
+	</div>
+	
+	<!--post text with the read more link-->
+	<p><img class="alignleft size-full wp-image-863" title="windows_vista_logo" src="http://www.agt.id.au/wp-content/uploads/2009/06/windows_vista_logo.png" alt="windows vista logo Vista SP2 troubles" width="200" height="147">Over the last week or so I have been trying unsuccessfully to install <a title="Microsoft Australia home page" href="http://www.microsoft.com/australia" target="_blank">Microsoft</a> <a title="Windows Vista Australia home page" href="http://www.microsoft.com/australia/windows/windows-vista/" target="_blank">Windows Vista</a> <a title="Windows Vista Service Packs" href="http://www.microsoft.com/windows/windows-vista/quick-start/service-packs.aspx" target="_blank">SP 2</a> to my <a title="Dell Australia Home Page" href="http://www.dell.com.au" target="_blank">Dell</a> <a title="XPS M1530 Support page" href="http://support.ap.dell.com/support/topics/topic.aspx/ap/shared/support/en/product_support_central?~ck=ln&amp;c=au&amp;cs=audhs1&amp;l=en&amp;lnki=0&amp;s=dhs&amp;SystemID=XPS_M1530" target="_blank">XPS M1530</a> laptop.</p>
+<p>The installer proceeds fine through the Windows based install and then on reboot completing stage three of the installation process, it errors out advising that there was an error and that it is reverting the changes, this is after reaching 100% of stage three?!?</p>
+<p>Only thing that I haven’t tried is making sure that the laptop reboots into safe mode after the initial two stages; running the installer in safe mode seems to make no difference to the outcome.</p>
+<p>Is there anyone else out there that is experiencing this problem and what if you have been able to resolve the issue, did you do?</p>
+<div style="float:right;margin:0px 0px 0px 0px;"></div>		
+	<!--post meta info-->
+	<div class="meta-bottom wrap">
+		<div class="alignleft"><span class="categories">Categories : <a href="http://agt.id.au/?cat=85" title="View all posts in Computers" rel="category">Computers</a>, <a href="http://agt.id.au/?cat=6" title="View all posts in Microsoft Windows" rel="category">Microsoft Windows</a>, <a href="http://agt.id.au/?cat=462" title="View all posts in Tech" rel="category">Tech</a></span></div>
+		<div class="alignright"><span class="comments">Comments <a href="http://agt.id.au/?p=862#comments" title="Comment on Vista SP2 troubles">(1)</a></span></div>
+	</div>
+    
+	</div><!--end .post-->
+	
+		
+		
+	<!--Post Wrapper Class-->
+	<div class="post-793 post type-post hentry category-computers category-linux category-microsoft-windows category-tech category-internet tag-broadband tag-closed tag-engin tag-mail tag-network tag-port25 tag-relay tag-scanner tag-server tag-smtp tag-virus tag-voip">
+	
+	<!--Title/Date/Meta-->
+	<div class="title wrap">
+		<div class="date">
+			<div class="month">Apr</div>
+			<div class="day">24</div>
+		</div>
+		<div class="post-title">
+			<h3 id="post-793"><a href="http://agt.id.au/?p=793">Engin launches broadband service, but…</a></h3>
+			Posted by: 
+			<span class="meta-author"><a href="http://agt.id.au/?author=1" title="Posts by Andrew Tunney">Andrew Tunney</a></span> 
+			| Comments
+			<span class="meta-comments"><a href="http://agt.id.au/?p=793#respond" title="Comment on Engin launches broadband service, but…">(0)</a></span>
+		</div>
+	</div>
+	
+	<!--post text with the read more link-->
+	<p><a title="Engin - Your VOIP Provider" href="http://www.engin.com.au" target="_blank"><img class="alignleft size-medium wp-image-797" title="philips-voip841" src="http://www.agt.id.au/wp-content/uploads/2009/04/philips-voip841-138x300.jpg" alt="philips voip841 138x300 Engin launches broadband service, but..." width="138" height="300">Engin</a>, the VOIP (<strong>V</strong>oice <strong>O</strong>ver <strong>IP</strong>) company has recently launched a broadband service.</p>
+<p>A client called up at work yesterday and was having trouble configuring the service&nbsp; to work with his domain email accounts; on further investigation I found that there is a bit of a problem with the <a title="Engin Broadband" href="http://www.engin.com.au/Broadband/Broadband.aspx" target="_blank">Engin Broadband</a> service for the un-initiated or non technical amongst us.</p>
+<p>Asides from the fact that I found that the pricing for the plans were a little expensive; $64.95 per month for 10Gb data transfer including the Engin free calls to local and national numbers ( I pay a similar price on my Internode connection and get 40Gb data), which sweetens the deal a bit.&nbsp; Your bandwidth allocation is divided into two, Peak data and Off-Peak data designated as follows:</p>
+<ul>
+<li>Peak data transfer times:&nbsp; 8:00am to 2:00am</li>
+<li>Off peak&nbsp; data transfer:&nbsp; 2:00am to 8:00am</li>
+</ul>
+<p>It’s not disclosed what happens on the site, but I wonder if you can still download if you exceed you 5Gb peak data allowance (which would be <em><span style="text-decoration: underline;"><strong>very</strong></span></em> easy to do); or if you immediately start on your off peak allowance metered at the peak metering rate?</p>
+<p>Still, back to the story…</p>
+<p>The client called asking what they use as the outgoing STMP server for sending email as they have just changed over to Engin from I think, Optus.&nbsp; I advised that he should use the outgoing mail server advised by his ISP, in this case, Engin.&nbsp; He told me that Engin didn’t have any SMTP server to which I replied, huh?!?</p>
+<p>Furthermore, Engin had told him to use GMAIL or another similar service to send email.</p>
+<p>So to set this straight, this is a company who has essentially started an ISP business unit, and doesn’t provide any email accounts, no SMTP server and charges you $64.95 per month for the privilege?!?!&nbsp; I had to find out more myself….</p>
+<p>Last night I called Engin and spoke to Greg in sales and explained that I was interested in the broadband offering but wanted to confirm that they were also providing all the services that a normal ISP would offer.&nbsp; Typically, the connection, at least one email address, oh and as I have a domain, I need to make sure that I can send email through the SMTP server.</p>
+<p>Greg advised that I could have all of these things except the email address.&nbsp; So I went further; “So how will I send email then Greg, if you don’t provide me with an email address or SMTP server?”&nbsp; This was where Greg started to get way out of his depth, and to his credit he admitted it; “Let me put you through to Business they will be able to help you better”, ok – no problem.</p>
+<p>Then, after a short wait, I spoke to Christian in Business.&nbsp; I relayed all my requirements to him and he also went down the GMAIL path and I said that while yes, that would provide a fix for the email issue, what about my domain email?&nbsp; Now Christian was starting to struggle, so I explained the reason why I would require access to an SMTP server, these being that:</p>
+<ul>
+<li>Most ISP’s block access to Port25 on their network, so I cannot use my domain as the SMTP server.</li>
+<li>My host also has the mail relay closed due to spam concerns, so even if the Port25 issue was not a concern I couldn’t use it anyway.</li>
+</ul>
+<p>Now a lot of you may ask why would a host close their mail relay?&nbsp; Well, there’s a good reason which I will outline below:</p>
+<p>The simple fact is that the majority of people with a web site cannot tell you what version of Windows they are running let alone if they have a virus scanner installed and if it has the latest dat files, or when the last time that a full system virus scan was completed on their system.&nbsp; A host can put into their terms and conditions that clients <span style="text-decoration: underline;"><strong>must</strong></span> have a current virus scanner installed, but how many can or actually enforce this?&nbsp; Answer, none because in a public network you can’t.&nbsp; On a private or corporate network you can because the management tools are there to prevent viruses spreading and any PC that connects to the network which doesn’t quickly has it installed automatically or is excluded from the network as a result.</p>
+<p>Given that hosts cannot force people to have anti-virus software, there is every chance that nearly every host out there who has an open mail relay will have several hundred spam messages going out of their server per hour as a result of this and clients infected with viruses or spyware being the cause.</p>
+<p>So the usual solution to this is to have the clients use their service providers SMTP server to send email, which until now, has been a very workable solution…&nbsp; Still – I digress:</p>
+<p>I relayed&nbsp; the same example to Christian, and he was beginning to see the predicament that I was describing but he as a bit confused all the same and asked to put me on hold to ask another collegue, to which I obliged.</p>
+<p>When Christian came back he admitted that at present, there wasn’t much that Engin could offer me in light of the situation that I had described, however, in another 2 to 3 weeks he advised that they were going to be announcing that with a third party, they would be providing an ‘Engin email account’ with the service (maybe not @engin.com.au).&nbsp; He wouldn’t elaborate who this third party would be, only that my situation would not exist at that time.</p>
+<h2>Summary:</h2>
+<p>It just concerns me that an experienced VOIP provider like Engin could release a product like this in the market without seemingly doing their homework on possible issues for clients.&nbsp; At this stage, it would seem that Engin Broadband for clients with domain names is not an option until what would seem to be somewhere around the 14th May 2009.</p>
+<p>Are you on Engin Broadband?&nbsp; What’s your impression of the product and do you feel that it is quite expensive for the amount of data transfer per month that Engin offer?&nbsp; Or are you happy with the the quota and the peak and off peak times that are part of the plan?</p>
+<div style="float:right;margin:0px 0px 0px 0px;"></div>		
+	<!--post meta info-->
+	<div class="meta-bottom wrap">
+		<div class="alignleft"><span class="categories">Categories : <a href="http://agt.id.au/?cat=85" title="View all posts in Computers" rel="category">Computers</a>, <a href="http://agt.id.au/?cat=3" title="View all posts in Linux" rel="category">Linux</a>, <a href="http://agt.id.au/?cat=6" title="View all posts in Microsoft Windows" rel="category">Microsoft Windows</a>, <a href="http://agt.id.au/?cat=462" title="View all posts in Tech" rel="category">Tech</a>, <a href="http://agt.id.au/?cat=166" title="View all posts in internet" rel="category">internet</a></span></div>
+		<div class="alignright"><span class="comments">Comments <a href="http://agt.id.au/?p=793#respond" title="Comment on Engin launches broadband service, but…">(0)</a></span></div>
+	</div>
+    
+	</div><!--end .post-->
+	
+		
+		
+	<!--Post Wrapper Class-->
+	<div class="post-699 post type-post hentry category-computers category-general category-humour category-linux category-microsoft-windows category-offbeat-stuff category-tech category-internet tag-computers tag-development tag-email tag-good tag-how tag-it tag-jargon tag-microsoft tag-not tag-off tag-password tag-piss tag-platform tag-publisher tag-refund tag-server tag-support tag-tech tag-to tag-ver tag-web tag-with">
+	
+	<!--Title/Date/Meta-->
+	<div class="title wrap">
+		<div class="date">
+			<div class="month">Mar</div>
+			<div class="day">02</div>
+		</div>
+		<div class="post-title">
+			<h3 id="post-699"><a href="http://agt.id.au/?p=699">How to p1$$ off tech support</a></h3>
+			Posted by: 
+			<span class="meta-author"><a href="http://agt.id.au/?author=1" title="Posts by Andrew Tunney">Andrew Tunney</a></span> 
+			| Comments
+			<span class="meta-comments"><a href="http://agt.id.au/?p=699#comments" title="Comment on How to p1$$ off tech support">(6)</a></span>
+		</div>
+	</div>
+	
+	<!--post text with the read more link-->
+	<p><img class="alignright size-full wp-image-700" title="frustrated" src="http://www.agt.id.au/wp-content/uploads/2009/02/frustrated.gif" alt="frustrated How to p1$$ off tech support" width="125" height="124">The pic to the right says it all – it’s just been one of those fortnights at least!</p>
+<p>So I’ve decided to have a bit of a rant and let off some steam about what really pisses me off with tech support at the moment.&nbsp; It all first started when A Current Affair ran a story on making money on the Internet; apparently all you needed was a domain name and a web site, apparently that was the key to making you fortune in these difficult times.&nbsp; Good work there, all this has achieved is that there are a lot of people with no IT skills trying to do things that they are not (from a skills point of view) in the race to do.</p>
+<p>Next I believe that the Global Financial Crisis (GFC – aren’t we all sick of hearing about this!?) has produced a bunch of PA’s that seem to be doubling as the corporate IT support desk.&nbsp; Ye Gads – these people may be great at developing the spreadsheet or memo that does everything except zip your fly for you but for God’s sake; please leave them to do this, they are <em><span style="text-decoration: underline;"><strong>not</strong></span></em> able to develop a web site or administer 30 or so email accounts with numerous redirects!</p>
+<p>So without any further ado, here’s my list of the top six items (in no particular order) that pisses of tech support:</p>
+<ul>
+<li><strong>No, I don’t know what your email password is:</strong> No, just joking – I really don’t get enough emails advertising viagra, replica watches, diet pills and penis enhancement procedures of my own and I keep the passwords of every client on file just so I can make sure that you aren’t getting offered anything I’m missing out on!</li>
+<li><strong>No, you can’t have the money you paid 8 months ago for that domain refunded because you spelt it wrong on the application:</strong> Of course!&nbsp; It’s my fault that you signed up and purchased a domain and didn’t check the spelling of it before submitting the application.&nbsp; It’s also my fault that you didn’t notice it when you received the certificate of registration when we could have cancelled the domain in the first three days, then fixed it at no charge and that you only noticed this just now 8 months later.</li>
+<li><strong>Microsoft Publisher is <span style="text-decoration: underline;">NOT</span> a web development platform:</strong> I don’t care how friendly that it is when you are writing the site; bottom line is that this software is a curse for building web sites.&nbsp; When publishing to HTML, you need to know where you saved this on your computer; despite my best efforts with the ‘mystical IT crystal ball’, I can’t read your mind or know where you saved it.&nbsp; Oh, by the way, any images that you put into the site if you must persist with Publisher are stored in the directory called ‘Index_Files’ in the same directory that you saved the HTML files, you have to upload this as well.&nbsp; One last thing; earlier versions of Publisher set the path to your image files relative to you local drive structure.&nbsp; So yes, that means that the image path obscured somewhere in all that bloated Microsoft® HTML&nbsp; of C:\Users\jim\My Documents\web site\Index_Files\me.jpg isn’t going to work up on the web.&nbsp; No, I can’t fix it because you don’t know HTML or don’t have the time – but Publisher was so easy to use though right?</li>
+<li><strong>“I’m not very good with computers”:</strong> This phrase is something that strikes fear into the hearts of tech support people everywhere.&nbsp; If this is the case and you admit it, then why are you trying to set up a web site or administer email addresses for your company?&nbsp; I have in excess of 10 years of experience that was learned the hard way; despite your expectations to the contrary, I cannot bring you up to the same level of proficiency in under 10 minutes.&nbsp; Short of <a title="The Matrix on Wikipedia" href="http://en.wikipedia.org/wiki/The_Matrix#Plot" target="_blank">explaining The Matrix to you</a> there is no way I can download this information to your brain Neo <img src="http://agt.id.au/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" title="icon smile photo"> &nbsp; Bottom line is that at some stage you are going to need some level of minor technical proficiency to complete the task you have started.</li>
+<li><strong>What’s an email program and how do I know what version I am running?:</strong> So you’ve told me that you can’t get your email or you are getting weird error messages.&nbsp; I need to verify your mail configuration that you have the correct mail server etc. specified; now if you can’t tell me what the program is that you are using how can I help you?&nbsp; In the perfect world with different versions, the menu structures and item names wouldn’t change.&nbsp; In the real world however, Microsoft have changed the location and wording of the mail account configuration in every version of Outlook since I think Office 2000.&nbsp; So given that you don’t know what an email program is, if I ask you to go to menu options that don’t exist; you are going to be even more lost.&nbsp; <em><strong>I need to know what software you are using and the version to efficiently help you!</strong></em></li>
+<li><strong>It just came up with this error techie jargon…:</strong> Hmmm, well, yep I know just the cause of this one – the user!&nbsp; Ok, so you can’t do a specific item, there is an error on the screen but this is the best that you can reproduce for me on the other end of a phoneline?!?&nbsp; I need to know precisely the error message, the software that you were using at the time the error appeared on your screen and has it happened again since you first noticed the issue.</li>
+</ul>
+<p>Yep, it’s going to be one of those months by the look of it; honestly, I feel someday that I should take the next flight down to Sydney and prop up at the Royal North shore hospital and proudly announce to the&nbsp; head nurse on duty that I would like to learn open heart surgery and ask if there is a surgeon around who can show me what to do and how to do it.&nbsp; “I’m not really good with knives, blood and stuff and have a bit of a shaky hand but so long as he or she is there to re-assure and walk me through it then I’m pretty confident that I will have no problems…”</p>
+<p>Think that sounds ridiculous?&nbsp; Well that is what tech support in IT is like every day…</p>
+<div style="float:right;margin:0px 0px 0px 0px;"></div>		
+	<!--post meta info-->
+	<div class="meta-bottom wrap">
+		<div class="alignleft"><span class="categories">Categories : <a href="http://agt.id.au/?cat=85" title="View all posts in Computers" rel="category">Computers</a>, <a href="http://agt.id.au/?cat=42" title="View all posts in General" rel="category">General</a>, <a href="http://agt.id.au/?cat=1179" title="View all posts in Humour" rel="category">Humour</a>, <a href="http://agt.id.au/?cat=3" title="View all posts in Linux" rel="category">Linux</a>, <a href="http://agt.id.au/?cat=6" title="View all posts in Microsoft Windows" rel="category">Microsoft Windows</a>, <a href="http://agt.id.au/?cat=273" title="View all posts in Offbeat Stuff" rel="category">Offbeat Stuff</a>, <a href="http://agt.id.au/?cat=462" title="View all posts in Tech" rel="category">Tech</a>, <a href="http://agt.id.au/?cat=166" title="View all posts in internet" rel="category">internet</a></span></div>
+		<div class="alignright"><span class="comments">Comments <a href="http://agt.id.au/?p=699#comments" title="Comment on How to p1$$ off tech support">(6)</a></span></div>
+	</div>
+    
+	</div><!--end .post-->
+	
+		
+		
+	<!-- Previous/Next page navigation -->
+	<div class="paging clearfix">
+		<div class="alignleft"><a href="http://agt.id.au/?cat=6&amp;paged=3">« Previous Page</a></div>
+		<div class="alignright"><a href="http://agt.id.au/?cat=6&amp;paged=5">Next Page »</a></div>
+	</div>
+	 
+		
+</div><!--end #content-->
+
+<div class="w360- left sidebar" id="sidebar">
+
+<!--sidebar.php-->
+
+	<div class="widget">
+	<h4>This is a Widget Section</h4>
+	<p>This section is widgetized. If you would like to add content to this section, you may do so by using the Widgets panel from within your WordPress Admin Dashboard. This Widget Section is called "Wide Sidebar Top"</p>
+	</div>
+
+<div class="w180- left sidebar">
+
+<div class="widget"><h4>Check Out:</h4>			<div class="textwidget"><center><a href="http://www.ask2link.com/make-money?u=atunney" title="Buy Link" target="_blank"><img src="http://www.ask2link.com/img/promotion/120x60-make-money-blog-website-.gif" alt="Buy and sell Text Links" border="0"></a>
+<p>
+
+</p><center><script src="http://entrecard.s3.amazonaws.com/widget.js?user_id=24074&amp;type=standard_127" type="text/javascript" id="ecard_widget"></script>
+<br>
+
+<a href="http://www.bloganol.com/2008/10/join-our-entrecard-drop-list.html" target="_blank"><img src="http://1.bp.blogspot.com/_Sy2Ab2UICp0/SOxv0cC1YTI/AAAAAAAAAaU/lKKW0Zd0qHs/s400/drop+list+22x125.png" alt="Join our Entrecard Drop List"></a>
+<p>
+
+
+<a href="http://au.loadedweb.com/cities/queensland/cairns/blogs/" title="Blog Directory for Cairns, Queensland"><img src="http://www.loadedweb.com/loadedweb.png" style="height:15px;width:80px;border:0" alt="Blog Directory for Cairns, Queensland"></a>
+</p><p>
+
+<!-- EasyBanner Pro code begin -->
+</p><center>
+<iframe src="http://www.125exchange.com/work.php?n=1833&amp;size=1&amp;c=53-4-40-52-35-21" width="125" height="145" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</center>
+<!-- EasyBanner Pro code end -->
+<p>
+
+</p><center><a href="http://www.ringsurf.com/ring/nr362/">Entrecard DropSurf</a><br><a href="http://www.ringsurf.com">Powered By Ringsurf</a></center>
+<p></p></center></center></div>
+		</div><div class="widget"><h4>Meta</h4>			<ul>
+						<li><a href="http://agt.id.au/wp-login.php">Log in</a></li>
+			<li><a href="http://agt.id.au/?feed=rss2" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://agt.id.au/?feed=comments-rss2" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</div>
+</div><div class="w180- left sidebar">
+
+<!--sidebar.php-->
+<div class="widget">			<div class="textwidget"><!-- Facebook Badge START --><a href="http://www.facebook.com/andrew.tunney" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Andrew Tunney">Andrew Tunney</a><br><a href="http://www.facebook.com/andrew.tunney" target="_TOP" title="Andrew Tunney"><img src="http://badge.facebook.com/badge/1350950169.548.965479459.png" width="120" height="263" style="border: 0px;"></a><br><a href="http://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Create Your Badge</a><!-- Facebook Badge END --></div>
+		</div><div class="widget"><h4>Cairns Blogs</h4>			<div class="textwidget"><a href="http://www.imaginif.com.au">imaginif</a>
+<p>
+
+<a href="http://www.cairnsblog.net/">CairnsBlog.net</a>
+</p><p>
+
+<a href="http://melody-biglittlesister.blogspot.com/">BigLittleSister</a>
+</p><p>
+
+<a href="http://cairnsactionforsustainabletransport.blogspot.com/">Cairns Action For Sustainable Transport</a>
+</p><p>
+
+<a href="http://cairnsunlimited.com/blog/">Cairns Unlimited Blog</a>
+</p><p>
+
+<a href="http://www.psipsychologytutor.org">PSI Tutor</a>
+</p><p>
+
+<a href="http://fosnez.blogspot.com/">The Blarg Of Fosnez</a>
+</p><p></p></div>
+		</div><div class="widget"><h4>Services I Use</h4>			<div class="textwidget"><p><a href="http://www.domainregistration.com.au" target="_blank">Australian Domain Names</a></p>
+<p><a href="http://www.internode.on.net" target="_blank">InterNode</a></p>
+</div>
+		</div></div>
+	<div class="widget">
+	<h4>This is a Widget Section</h4>
+	<p>This section is widgetized. If you would like to add content to this section, you may do so by using the Widgets panel from within your WordPress Admin Dashboard. This Widget Section is called "Wide Sidebar Bottom"</p>
+	</div>
+
+</div><div style="clear:both; height:0px"><!-- blank --></div>
+
+</div><!--end #container-->
+
+<div class="c960 center wrap" id="footer">
+	<div class="alignleft">
+	<strong>AGT.ID.AU – Cairns</strong><br>
+	Copyright © 2010 All Rights Reserved	</div>
+	<div class="alignright">
+		<a href="http://flexxtheme.com/" title="Flexx Theme">Flexx Theme</a> by <a href="http://ithemes.com" title="WordPress Themes">iThemes</a><br>Powered by <a href="http://wordpress.org">WordPress</a>	</div>
+       
+	<script type="text/javascript">
+/* <![CDATA[ */
+var pollsL10n = {
+	ajax_url: "http://agt.id.au/wp-content/plugins/wp-polls/wp-polls.php",
+	text_wait: "Your last request is still being processed. Please wait a while ...",
+	text_valid: "Please choose a valid poll answer.",
+	text_multiple: "Maximum number of choices allowed: ",
+	show_loading: "1",
+	show_fading: "1"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://agt.id.au/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
+<script type="text/javascript">
+<!--
+var getOptions = new Array();
+getOptions['showYear'] = 0;
+getOptions['showMonth'] = 0;
+getOptions['showWeek'] = 0;
+getOptions['showDay'] = 1;
+getOptions['showHour'] = 1;
+getOptions['showMinute'] = 1;
+getOptions['showSecond'] = 0;
+getOptions['stripZero'] = 1;
+var fergcorp_countdownTimer_js_language = new Array();
+fergcorp_countdownTimer_js_language['year'] = '%d year, ';
+fergcorp_countdownTimer_js_language['years'] = '%d years, ';
+fergcorp_countdownTimer_js_language['month'] = '%d month, ';
+fergcorp_countdownTimer_js_language['months'] = '%d months, ';
+fergcorp_countdownTimer_js_language['week'] = '%d week, ';
+fergcorp_countdownTimer_js_language['weeks'] = '%d weeks, ';
+fergcorp_countdownTimer_js_language['day'] = '%d day, ';
+fergcorp_countdownTimer_js_language['days'] = '%d days, ';
+fergcorp_countdownTimer_js_language['hour'] = '%d hour, ';
+fergcorp_countdownTimer_js_language['hours'] = '%d hours, ';
+fergcorp_countdownTimer_js_language['minute'] = '%d minute, ';
+fergcorp_countdownTimer_js_language['minutes'] = '%d minutes, ';
+fergcorp_countdownTimer_js_language['second'] = '%d second, ';
+fergcorp_countdownTimer_js_language['seconds'] = '%d seconds, ';
+fergcorp_countdownTimer_js_language['ago'] = '%s ago';
+fergcorp_countdownTimer_js_language['in'] = 'in %s';
+var fergcorp_countdownTimer_js_events = new Array();
+fergcorp_countdownTimer_js();
+//-->
+</script>
+
+<!-- Woopra Analytics Code -->
+<script type="text/javascript" src="http://static.woopra.com/js/woopra.v2.js"></script>
+<script type="text/javascript">
+woopraTracker.track();
+</script>
+<!-- End of Woopra Analytics Code -->
+
+<p style="font-size:x-small">Compression Plugin created by Jake Ruston's <a href="http://www.jakeruston.co.uk">Wordpress Plugins</a> - Powered by <a href="http://www.sunglasses.cm/category/d-g/">DG Sunglasses</a> and <a href="http://www.giftswithstyle.co.uk">Gift Ideas</a>.</p><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201037.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'4106406',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(4106406,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8350783-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body></html>

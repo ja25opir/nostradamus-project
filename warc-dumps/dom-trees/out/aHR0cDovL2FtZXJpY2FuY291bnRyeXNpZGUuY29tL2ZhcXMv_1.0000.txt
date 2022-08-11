@@ -1,0 +1,203 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<title> American Countryside  </title>
+	
+	<link rel="stylesheet" href="http://americancountryside.com/wp-content/themes/amc2009/style.css" type="text/css" media="screen">
+	<link rel="alternate" type="application/rss+xml" title="American Countryside RSS Feed" href="http://americancountryside.com/feed/">
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://americancountryside.com/feed/rss/">
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://americancountryside.com/feed/atom/">
+	<link rel="pingback" href="http://americancountryside.com/xmlrpc.php">
+	
+	<link rel="shortcut icon" href="http://americancountryside.com/wp-content/themes/amc2009/amc.gif">
+	<link rel="icon" href="http://americancountryside.com/wp-content/themes/amc2009/amc.gif" type="image/ico">
+	
+<link rel="alternate" type="application/rss+xml" title="American Countryside » FAQ’s Comments Feed" href="http://americancountryside.com/faqs/feed/">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://americancountryside.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://americancountryside.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://americancountryside.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="American Countryside" href="http://americancountryside.com/">
+<link rel="prev" title="About Andrew McCrea" href="http://americancountryside.com/about/">
+<link rel="next" title="Contact Andrew" href="http://americancountryside.com/contact-andrew/">
+<meta name="generator" content="WordPress 3.0">
+<link rel="canonical" href="http://americancountryside.com/faqs/">
+<script type="text/javascript" src="http://americancountryside.com/wp-content/plugins/powerpress/player.js"></script>
+<script type="text/javascript">
+function powerpress_pinw(pinw){window.open('http://americancountryside.com/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=360,height=320');	return false;}
+</script>
+	
+</head><body id="Page">
+<div id="Container">
+	<div id="Content">
+		<div id="ACHeader">
+			<a href="http://americancountryside.com/">American Countryside</a>
+		</div>
+		<div id="SideColumn">
+			<ul>
+			<li id="text-450789561" class="widget widget_text">			<div class="textwidget"><ul>
+<li id="about"><a href="/about/">About Andrew</a></li>
+<li id="contact"><a href="/contact-andrew/">Contact Andrew</a></li>
+<li id="radio"><a href="/radio-station-inquiries/">Books and CD's</a></li>
+<li id="books"><a href="http://www.andrewmccrea.com/products/index.html">Books and CD's</a></li>
+<li id="faq"><a href="/faqs/">FAQ's</a></li>
+</ul>
+
+</div>
+		</li><li id="text-430450101" class="widget widget_text"><h2 class="widgettitle">Subscribe to American Countryside</h2>			<div class="textwidget"><ul>
+<li><a class="rss" href="http://americancountryside.com/feed/">Blog RSS Feed</a></li>
+<li><a class="pod" href="http://americancountryside.com/category/podcast/feed">Podcast and Radio Show</a></li>
+</ul></div>
+		</li>			</ul>
+		</div>
+		<div id="SideColumnRight">
+			<ul>
+			<li id="text-441714641" class="widget widget_text">			<div class="textwidget"><div id="Americana">
+<b>The American Countryside</b> is truly a slice of Americana. It might be a well-known music or TV star or just someone with an interesting story that lives down the street. From Iditarod sled dog mushers, to NASA scientists... from the Rooster Crowing Championships to NFL greats...The American Countryside is sure to be of interest. Click the button above to listen to the latest show, or visit the American Countryside archives.
+</div></div>
+		</li><li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://americancountryside.com/2010/09/"> September 2010 </option>
+	<option value="http://americancountryside.com/2010/08/"> August 2010 </option>
+	<option value="http://americancountryside.com/2010/07/"> July 2010 </option>
+	<option value="http://americancountryside.com/2010/06/"> June 2010 </option>
+	<option value="http://americancountryside.com/2010/05/"> May 2010 </option>
+	<option value="http://americancountryside.com/2010/04/"> April 2010 </option>
+	<option value="http://americancountryside.com/2010/03/"> March 2010 </option>
+	<option value="http://americancountryside.com/2010/02/"> February 2010 </option>
+	<option value="http://americancountryside.com/2010/01/"> January 2010 </option>
+	<option value="http://americancountryside.com/2009/12/"> December 2009 </option>
+	<option value="http://americancountryside.com/2009/11/"> November 2009 </option>
+	<option value="http://americancountryside.com/2009/10/"> October 2009 </option>
+	<option value="http://americancountryside.com/2009/09/"> September 2009 </option>
+	<option value="http://americancountryside.com/2009/08/"> August 2009 </option>
+	<option value="http://americancountryside.com/2009/07/"> July 2009 </option>
+	<option value="http://americancountryside.com/2009/06/"> June 2009 </option>
+	<option value="http://americancountryside.com/2009/05/"> May 2009 </option>
+	<option value="http://americancountryside.com/2009/04/"> April 2009 </option>
+ </select>
+</li><li id="categories-430450391" class="widget widget_categories"><h2 class="widgettitle">Categories</h2><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="24">Alaska</option>
+	<option class="level-0" value="8">American Countryside</option>
+	<option class="level-0" value="72">American Revolution</option>
+	<option class="level-0" value="7">Announcement</option>
+	<option class="level-0" value="9">Arizona</option>
+	<option class="level-0" value="29">baseball</option>
+	<option class="level-0" value="44">Best of</option>
+	<option class="level-0" value="30">California</option>
+	<option class="level-0" value="49">cattle</option>
+	<option class="level-0" value="22">Civil War</option>
+	<option class="level-0" value="53">Colorado</option>
+	<option class="level-0" value="45">FFA</option>
+	<option class="level-0" value="26">Florida</option>
+	<option class="level-0" value="33">food</option>
+	<option class="level-0" value="57">Georgia</option>
+	<option class="level-0" value="27">Hawaii</option>
+	<option class="level-0" value="32">Idaho</option>
+	<option class="level-0" value="21">Illinois</option>
+	<option class="level-0" value="37">Indiana</option>
+	<option class="level-0" value="34">international</option>
+	<option class="level-0" value="17">Iowa</option>
+	<option class="level-0" value="12">Kansas</option>
+	<option class="level-0" value="56">Kansas City</option>
+	<option class="level-0" value="69">Korean War</option>
+	<option class="level-0" value="73">Louisiana</option>
+	<option class="level-0" value="25">Maryland</option>
+	<option class="level-0" value="35">Massachusetts</option>
+	<option class="level-0" value="43">Michigan</option>
+	<option class="level-0" value="6">Miscellaneous</option>
+	<option class="level-0" value="3">Missouri</option>
+	<option class="level-0" value="23">Montana</option>
+	<option class="level-0" value="64">National Battlefield</option>
+	<option class="level-0" value="65">National Historic Site</option>
+	<option class="level-0" value="66">National Memorial</option>
+	<option class="level-0" value="67">National Monument</option>
+	<option class="level-0" value="68">National Park</option>
+	<option class="level-0" value="63">National Park Service</option>
+	<option class="level-0" value="50">Nebraska</option>
+	<option class="level-0" value="51">Nevada</option>
+	<option class="level-0" value="15">New Hampshire</option>
+	<option class="level-0" value="18">New Mexico</option>
+	<option class="level-0" value="28">New York</option>
+	<option class="level-0" value="71">North Carolina</option>
+	<option class="level-0" value="40">North Dakota</option>
+	<option class="level-0" value="16">Ohio</option>
+	<option class="level-0" value="42">Oklahoma</option>
+	<option class="level-0" value="31">Pearl Harbor</option>
+	<option class="level-0" value="47">Pennsylvania</option>
+	<option class="level-0" value="5">Podcast</option>
+	<option class="level-0" value="13">Presidents</option>
+	<option class="level-0" value="11">Saint Joseph</option>
+	<option class="level-0" value="39">South Dakota</option>
+	<option class="level-0" value="55">Sports</option>
+	<option class="level-0" value="36">Tennessee</option>
+	<option class="level-0" value="48">Texas</option>
+	<option class="level-0" value="52">Utah</option>
+	<option class="level-0" value="54">Vegetables</option>
+	<option class="level-0" value="20">Vermont</option>
+	<option class="level-0" value="70">Vietnam War</option>
+	<option class="level-0" value="46">Virginia</option>
+	<option class="level-0" value="19">Washington, DC</option>
+	<option class="level-0" value="38">Wisconsin</option>
+	<option class="level-0" value="14">World War II</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://americancountryside.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</li><li id="search-3" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://americancountryside.com/">
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="Search">
+	</div>
+	</form></li><li id="text-450912121" class="widget widget_text"><h2 class="widgettitle">Have an idea for a story?</h2>			<div class="textwidget"><a href="/contact-andrew/">Click here to send your idea to Andrew</a></div>
+		</li>			</ul>
+		</div>
+		<div id="Posts">
+
+										<div class="post">
+						<span class="edit"></span>
+							<h2 class="postHead">FAQ’s</h2>
+				<div class="postBody">
+					<p><strong>Does Andrew personally travel to the locations featured on the American Countryside?</strong><br>
+Yes! On a couple of occasions each year there are times when a story deadline does not allow enough time to personally travel to the location. But this is the only exception. Andrew personally conducts the interviews for over 90% of the shows you hear. Show producer, Tom Brand, also gathers some interviews when he is on the road. To our knowledge, we know of no other show where the host personally travels so extensively to so many locations for a daily broadcast.</p>
+<p><strong>How do you find your story ideas?</strong><br>
+Most often it is word of mouth. Andrew keeps a huge dry-erase-board full of story ideas plus he has file folders with story leads. Once he hears about it or reads about it, the story idea is recorded so that it can hopefully be used in the future. We love to hear from listeners and get their story ideas. You can e-mail us by using the link on the home page.</p>
+<p><strong>How do you decide where to travel?</strong><br>
+Probably the most amazing part of the American Countryside broadcast story is that Andrew doesn’t have a travel budget! He is a nationally known speaker and is called to present programs in all parts of the nation. He uses these speaking engagements to get him to new locations to record stories. In other words, if Andrew is speaking in Nashville, TN he’ll probably stick around for an extra day to gather stories that are in the area.</p>
+<p><strong>How do I book Andrew to speak at my event?</strong><br>
+Andrew’s calendar fills up quickly, so let us know about your event as soon as possible. You can go to www.AndrewMcCrea.com to learn more about Andrew’s programs. His keynotes and workshops are fun and humorous yet down-to-earth and based on real-world ways we can improve our lives and the lives of those around us. Andrew has spoken in 49 states and to audiences of over 10,000 people.</p>
+<p><strong>Where can I find Andrew McCrea’s books and cds?</strong><br>
+Andrew has written three books and produced two cds. Just follow the link on the home page to get details about each and order on-line. You can also find all of Andrew’s books at on-line bookstores and they can be ordered at book stores if they are out of stock.</p>
+<p><strong>How can my radio station carry the American Countryside?</strong><br>
+The program is provided to stations throughout the nation.  Simply e-mail Andrew at <a href="mailto:andrew@andrewmccrea.com">andrew@andrewmccrea.com</a> to get more information and begin airing the show.</p>
+<p><strong>How many locations have been featured on American Countryside?</strong><br>
+Our records indicate that we’ve featured stories from every state except for Rhode Island. Coincidentally, Andrew has spoken to groups in every state in the nation except Rhode Island. We have nothing against the state and we hope the residents of RI have nothing against us. We anxiously await a trip to our smallest state in order to feature stories from there!</p>
+<p><strong>With so much travel, is Andrew ever at “home”?</strong><br>
+You can gather a lot of stories in one day. Sometimes those interviews turn into a two-part show. It’s not uncommon for one day’s worth of interviews to produce almost two week’s worth of shows. Wile the program makes it seem that Andrew is constantly on the road, family and home are important to him, and he is actually on the family farm far more than he is traveling.</p>
+				</div>
+			</div>			
+								</div>
+		<div id="Footer">
+	 			Copyright© 2009 The American Countryside. All rights reserved.
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9571973-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

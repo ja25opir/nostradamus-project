@@ -1,0 +1,918 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="en-gb">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="copyright" content="2002-2006 phpBB Group">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<title>4w-Forums.com - View topic - The next Messi/Ronaldo/Kaka/Torres/Rooney...</title>
+
+<link rel="stylesheet" href="./styles/acidtech/theme/stylesheet.css" type="text/css">
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="./styles/acidtech/theme/ie7.css" />
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+
+
+function popup(url, width, height, name)
+{
+	if (!name)
+	{
+		name = '_popup';
+	}
+
+	window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
+	return false;
+}
+
+function jumpto()
+{
+	var page = prompt('Enter the page number you wish to go to:', '1');
+	var perpage = '15';
+	var base_url = './viewtopic.php?f=26&amp;t=8718';
+
+	if (page !== null && !isNaN(page) && page > 0)
+	{
+		document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * perpage);
+	}
+}
+
+/**
+* Find a member
+*/
+function find_username(url)
+{
+	popup(url, 760, 570, '_usersearch');
+	return false;
+}
+
+/**
+* Mark/unmark checklist
+* id = ID of parent container, name = name prefix, state = state [true/false]
+*/
+function marklist(id, name, state)
+{
+	var parent = document.getElementById(id);
+	if (!parent)
+	{
+		eval('parent = document.' + id);
+	}
+
+	if (!parent)
+	{
+		return;
+	}
+
+	var rb = parent.getElementsByTagName('input');
+	
+	for (var r = 0; r < rb.length; r++)
+	{
+		if (rb[r].name.substr(0, name.length) == name)
+		{
+			rb[r].checked = state;
+		}
+	}
+}
+
+
+if(navigator.userAgent && navigator.userAgent.indexOf('Mac OS X') > 0)
+{
+	document.write('<link rel="stylesheet" href="./styles/acidtech/theme/mac.css" type="text/css" />');
+}
+
+// ]]>
+</script>
+</head>
+<body class="ltr">
+
+<a name="top"></a>
+
+<table border="0" cellspacing="0" cellpadding="0" width="800" id="maintable" align="center">
+<tbody><tr>
+	<td id="logorow" align="center"><div id="logo-left"><div id="logo-right">
+		<a href="./index.php"><img src="./styles/acidtech/imageset/site_logo.gif" alt="" title=""></a>
+	</div></div></td>
+</tr>
+<tr>
+	<td class="navrow">
+		<a href="./ucp.php?mode=register">Register</a> • 		<a href="./faq.php">FAQ</a>
+		 • <a href="./search.php">Search</a> • <a href="./ucp.php?mode=login">Login</a>         • <a href="http://www.4w-wrestling.com">4w Wrestling</a> 
+	</td>
+</tr>
+<tr>
+	<td id="contentrow">
+
+
+<table width="100%" cellspacing="0">
+<tbody><tr>
+	<td class="gensmall"></td>
+	<td class="gensmall" align="right">It is currently Fri Sep 17, 2010 8:01 am<br></td>
+</tr>
+</tbody></table>
+
+		<p class="searchbar">
+		<span style="float: left;"><a href="./search.php?search_id=unanswered">View unanswered posts</a> | <a href="./search.php?search_id=active_topics">View active topics</a></span>
+			</p>
+	
+	<br style="clear: both;">
+
+	<table class="tablebg" width="100%" cellspacing="0" cellpadding="0" style="margin-top: 5px;">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php">Board index</a> » <a href="./viewforum.php?f=9">Sports</a> » <a href="./viewforum.php?f=26">Hooligan Central</a></p>
+			<p class="datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>
+	<br>
+<div id="pageheader">
+	<h2><a class="titles" href="./viewtopic.php?f=26&amp;t=8718&amp;start=0">The next Messi/Ronaldo/Kaka/Torres/Rooney...</a></h2>
+
+	<p class="moderators">Moderator: <a href="./memberlist.php?mode=group&amp;g=11">Head Hooligan</a></p>
+</div>
+
+<br clear="all"><br>
+
+<div id="pagecontent">
+
+	<table width="100%" cellspacing="1">
+	<tbody><tr>
+					<td align="left" valign="middle" nowrap="nowrap">
+				<a href="./posting.php?mode=post&amp;f=26"><img src="./styles/acidtech/imageset/en/button_topic_new.gif" width="101" height="20" alt="Post new topic" title="Post new topic"></a>&nbsp;<a href="./posting.php?mode=reply&amp;f=26&amp;t=8718"><img src="./styles/acidtech/imageset/en/button_topic_reply.gif" width="103" height="20" alt="Reply to topic" title="Reply to topic"></a>			</td>
+					<td class="nav" valign="middle" nowrap="nowrap">&nbsp;Page <strong>1</strong> of <strong>2</strong><br></td>
+			<td class="gensmall" nowrap="nowrap">&nbsp;[ 17 posts ]&nbsp;</td>
+			<td class="gensmall" width="100%" align="right" nowrap="nowrap"><b><a href="#" onclick="jumpto(); return false;" title="Click to jump to page…">Go to page</a> <strong>1</strong><span class="page-sep">, </span><a href="./viewtopic.php?f=26&amp;t=8718&amp;start=15">2</a> &nbsp;<a href="./viewtopic.php?f=26&amp;t=8718&amp;start=15">Next</a></b></td>
+			</tr>
+	</tbody></table>
+
+	<table class="tablebg" width="100%" cellspacing="0" style="border-bottom-width: 0;">
+	<caption><div class="cap-left"><div class="cap-right">&nbsp;The next Messi/Ronaldo/Kaka/Torres/Rooney...&nbsp;</div></div></caption>	<tbody><tr>
+		<td class="cat">
+			<table width="100%" cellspacing="0">
+			<tbody><tr>
+				<td class="nav" nowrap="nowrap">
+				<a href="./viewtopic.php?f=26&amp;t=8718&amp;start=0&amp;view=print" title="Print view">Print view</a>				</td>
+				<td class="nav" align="right" nowrap="nowrap"><a href="./viewtopic.php?f=26&amp;t=8718&amp;view=previous">Previous topic</a> | <a href="./viewtopic.php?f=26&amp;t=8718&amp;view=next">Next topic</a>&nbsp;</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+
+	<table class="tablebg" width="100%" cellspacing="0" style="border-top-width: 0;">
+		<tbody><tr>
+			<th>Author</th>
+			<th width="100%">Message</th>
+		</tr>
+	<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p105707"></a>
+				<div class="postauthor">tort</div>
+				<div class="postonline"><img src="./styles/acidtech/imageset/en/icon_user_online.gif" width="36" height="11" alt="Online" title="Online"></div><div class="posterrank">Intercontinental Champion</div><div class="postrankimg"><img src="./images/ranks/rank_3.gif" alt="Intercontinental Champion" title="Intercontinental Champion"></div><div class="postavatar"><img src="./download/file.php?avatar=199_1260873421.gif" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Sun Feb 10, 2008 6:54 pm<br><b>Posts:</b> 1195				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105707#p105707"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">Show us your scouting skills and give your tips on who the next big superstars are going to be. Feel free to berate or appreciate opinions if you've already heard of the guys. Interesting to look back on this thread in a year or two and see who picked a Diego and who picked a D'Alessandro!<br><br><span style="font-size: 150%; line-height: normal"><span style="text-decoration: underline">The Next Fernando Torres</span></span><br><br><img src="http://img.photobucket.com/albums/v117/tort666/n_20091124154700_el_real_madrid_sig.jpg" alt="Image"><br><br><span style="font-size: 200%; line-height: normal"><span style="font-weight: bold"><span style="color: #FF0000"><span style="text-decoration: underline">Sergio Canales</span></span></span></span><br><br>Sergio Canales is a 18-year old Spanish forward who currently plays for Racing Santander in La Liga. He made his debut in UEFA Cup against FC Honka in September 2008 and his league debut two weeks later against Osasuna. He made six league appearances as he began progressing. This season he has broken into the team and played a slightly larger part, having played just under half of Racing's league games this season, scoring 5 times. He came to my attention by scoring two goals in a 2-1 away win against Sevilla and followed this up with a goal against Valladolid a week later. He has represented Spain at national levels from U16-U19.<br><br>It has been reported in the media that he has unofficially signed with Real Madrid, but will be loaned back to Racing for the next 18-months. I hope this move works for him as he has fantastic potential to be big. He (or his advisors) are wise in negotiating a deal allowing him to develop further for a season-and-a-half before heading off the the Bernabéu. It would be pointless him going there now as he would be fighting for a place in the attacking forward/striker roles with Ronaldo, Kaka, Benzema, Granero, Higuain, Gago and Van der Vaart, and that could damage confidence.<br><br>Defo one to look out for in Poland/Ukraine in 2012.<br><br><embed src="http://www.youtube.com/v/oKnXGEihM6U" wmode="transparent" style="width:400px</div>
+
+											<span class=" postbody signature"><br><span class="line">_________________</span><br><img src="http://img.photobucket.com/albums/v117/tort666/WeAreScientists_L1.jpg" alt="Image">
+					<br clear="all"><br>			</div></td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Tue Jan 26, 2010 9:33 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p105712"></a>
+				<div class="postauthor">SPECIAL 1</div>
+				<div class="posterrank">Last Man Standing</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Last Man Standing" title="Last Man Standing"></div><div class="postavatar"><img src="./download/file.php?avatar=164_1274653431.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Nov 27, 2007 5:55 pm<br><b>Posts:</b> 6344<br><b>Location:</b> Birmingham				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105712#p105712"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody"><img src="http://vr21.es/wp-content/uploads/2009/02/sebastian-giovinco.jpg" alt="Image"><br><br>Sebastian Giovinco<br><br>The guy is seen as the next Alessandro Del Piero. He is massively talented and is just like the great man and can play as attacking midfielder or a second striker. Give him a few years and he'll be huge.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i2.photobucket.com/albums/y12/strung13/TheKing.jpg" alt="Image"></div><br><span style="font-size: 85%; line-height: normal">Most Improved Poster Slammy Winner (2009)<br>POTM (October 2009, May 2010)<br>WWE PPV Prediction Champion (2008)</span></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Tue Jan 26, 2010 10:03 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p105928"></a>
+				<div class="postauthor">SPECIAL 1</div>
+				<div class="posterrank">Last Man Standing</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Last Man Standing" title="Last Man Standing"></div><div class="postavatar"><img src="./download/file.php?avatar=164_1274653431.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Nov 27, 2007 5:55 pm<br><b>Posts:</b> 6344<br><b>Location:</b> Birmingham				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105928#p105928"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody"><img src="http://e0.img.v4.skyrock.net/e0a/ciss78/pics/1779903458_small.jpg" alt="Image"><br><br>Neymar Da Silva<br><br><br>Referred to as the 'new Robinho' or even the 'new Pele', the 17 year old has only played one season for Santos but has attracted massive interest from huge clubs like Milan, Chelsea, Man Utd and Barcelona. He's a bit of a lightweight at the moment so he isn't exactly ready for the leagues those clubs play in yet but in a few years, he'll be massive.<br><br><img src="http://www.semfrini.com/images/id_25807_Paulo-Henriqueficha.jpeg" alt="Image"><br><br>Paulo Henrique Lima<br><br>Another player from Santos, this guy is just soooo good, it's not even funny. He has awesome vision for passing, blinding pace and one hell of a left foot.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i2.photobucket.com/albums/y12/strung13/TheKing.jpg" alt="Image"></div><br><span style="font-size: 85%; line-height: normal">Most Improved Poster Slammy Winner (2009)<br>POTM (October 2009, May 2010)<br>WWE PPV Prediction Champion (2008)</span></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Thu Jan 28, 2010 10:21 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p105978"></a>
+				<div class="postauthor">tort</div>
+				<div class="postonline"><img src="./styles/acidtech/imageset/en/icon_user_online.gif" width="36" height="11" alt="Online" title="Online"></div><div class="posterrank">Intercontinental Champion</div><div class="postrankimg"><img src="./images/ranks/rank_3.gif" alt="Intercontinental Champion" title="Intercontinental Champion"></div><div class="postavatar"><img src="./download/file.php?avatar=199_1260873421.gif" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Sun Feb 10, 2008 6:54 pm<br><b>Posts:</b> 1195				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105978#p105978"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">Santos have a great track record of  producing/developing good players. Robinho, Diego, Alex, Elano and some guy called Pele. <br><br>I look forward to seeing how Paulo Henrique Lima and Neymer Da Silva get on. The last Brazilian to make a splash was Kerlon, but due to injuries and youth, he's not made it in Italy or Holland yet. My hope for Kerlon is he develops from being a 'trick pony' into a rounded player. He should aim for Ronaldo's development.<br><br>Good call on Giovinco, he looks quality. Fuck Amauri off and just let this kid loose.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><img src="http://img.photobucket.com/albums/v117/tort666/WeAreScientists_L1.jpg" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Fri Jan 29, 2010 1:57 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p105984"></a>
+				<div class="postauthor">SPECIAL 1</div>
+				<div class="posterrank">Last Man Standing</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Last Man Standing" title="Last Man Standing"></div><div class="postavatar"><img src="./download/file.php?avatar=164_1274653431.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Nov 27, 2007 5:55 pm<br><b>Posts:</b> 6344<br><b>Location:</b> Birmingham				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105984#p105984"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">They won't sell Amauri, especially since they spent such a high amount on him. Plus he is scoring goals for them so I won't expect him to be shipped off. The one gripe I have is the fact that Juve have given him Nedved's number... disgraceful really since Amauri and Nedved are light years apart in everything.<br><br>Giovinco is just waiting for Del Piero to pack it in before taking over the mantle. Juve have been smart with Giovinco, giving him 25-30 mins here and there in Serie A and almost always starting him in the Italian Cup Competitions. Get rid of the manager Ciro Ferrara who despite being a great player, has taken way too big a jump by managing such a legendary club like Juventus when he should be managing clubs like Bari, Parma etc.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i2.photobucket.com/albums/y12/strung13/TheKing.jpg" alt="Image"></div><br><span style="font-size: 85%; line-height: normal">Most Improved Poster Slammy Winner (2009)<br>POTM (October 2009, May 2010)<br>WWE PPV Prediction Champion (2008)</span></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Fri Jan 29, 2010 4:11 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p105987"></a>
+				<div class="postauthor">tort</div>
+				<div class="postonline"><img src="./styles/acidtech/imageset/en/icon_user_online.gif" width="36" height="11" alt="Online" title="Online"></div><div class="posterrank">Intercontinental Champion</div><div class="postrankimg"><img src="./images/ranks/rank_3.gif" alt="Intercontinental Champion" title="Intercontinental Champion"></div><div class="postavatar"><img src="./download/file.php?avatar=199_1260873421.gif" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Sun Feb 10, 2008 6:54 pm<br><b>Posts:</b> 1195				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105987#p105987"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">It's a matter of time before they get rid of Ciro. They were waiting for Hiddink, but he said no, so maybe they'll stick with Ciro until another big manager comes free. <br><br>Bet Ranieri is loving this.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><img src="http://img.photobucket.com/albums/v117/tort666/WeAreScientists_L1.jpg" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Fri Jan 29, 2010 4:42 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p105991"></a>
+				<div class="postauthor">SPECIAL 1</div>
+				<div class="posterrank">Last Man Standing</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Last Man Standing" title="Last Man Standing"></div><div class="postavatar"><img src="./download/file.php?avatar=164_1274653431.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Nov 27, 2007 5:55 pm<br><b>Posts:</b> 6344<br><b>Location:</b> Birmingham				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105991#p105991"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">Ranieri is probably laughing his arse off everytime he looks at the table. He has done awesomely with Roma, with limited resources by the way. They aren't the Roma of before, they can't spend 20 million on one player now and have to do what Lazio, Palermo, Parma and Napoli all have to do now  which is to buy young players and nurture them into superstars. Ranieri has a good squad to play with, hence why their in 3rd place, only 2 points behind Milan.<br><br>Ciro is a good footballing man, very knowlegable and very respected but with Juventus, it's just too much too early for him as club jobs go. He needs to work at smaller clubs before jumping to that level a club.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i2.photobucket.com/albums/y12/strung13/TheKing.jpg" alt="Image"></div><br><span style="font-size: 85%; line-height: normal">Most Improved Poster Slammy Winner (2009)<br>POTM (October 2009, May 2010)<br>WWE PPV Prediction Champion (2008)</span></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Fri Jan 29, 2010 5:05 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p105993"></a>
+				<div class="postauthor">tort</div>
+				<div class="postonline"><img src="./styles/acidtech/imageset/en/icon_user_online.gif" width="36" height="11" alt="Online" title="Online"></div><div class="posterrank">Intercontinental Champion</div><div class="postrankimg"><img src="./images/ranks/rank_3.gif" alt="Intercontinental Champion" title="Intercontinental Champion"></div><div class="postavatar"><img src="./download/file.php?avatar=199_1260873421.gif" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Sun Feb 10, 2008 6:54 pm<br><b>Posts:</b> 1195				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105993#p105993"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">I've seen Roma play a couple of time this year and they looked good. I think Benitez picked the wrong midfielder as De Rossi, Perrotta or Pizarro would have added more to Liverpool than Aquilani, injury or no injury.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><img src="http://img.photobucket.com/albums/v117/tort666/WeAreScientists_L1.jpg" alt="Image"></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Fri Jan 29, 2010 5:24 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=199"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p105999"></a>
+				<div class="postauthor">SPECIAL 1</div>
+				<div class="posterrank">Last Man Standing</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Last Man Standing" title="Last Man Standing"></div><div class="postavatar"><img src="./download/file.php?avatar=164_1274653431.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Nov 27, 2007 5:55 pm<br><b>Posts:</b> 6344<br><b>Location:</b> Birmingham				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=105999#p105999"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">LOL, yeah. Benitez really fucked up with Aquilani... good player but not good enough for the Premiership. He bought into the hype more than anything, not realising that the only reason he was good is because he had players like De Rossi, Pizzaro, Perrotta and the incomparable Totti (my 2nd favourite player) in the team which helped him.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i2.photobucket.com/albums/y12/strung13/TheKing.jpg" alt="Image"></div><br><span style="font-size: 85%; line-height: normal">Most Improved Poster Slammy Winner (2009)<br>POTM (October 2009, May 2010)<br>WWE PPV Prediction Champion (2008)</span></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Fri Jan 29, 2010 5:46 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p106188"></a>
+				<div class="postauthor" style="color: #FFDD66">Rossi Benayoun</div>
+				<div class="posterrank">Forum Grouch</div><div class="postrankimg"><img src="./images/ranks/rank_mvp.gif" alt="Forum Grouch" title="Forum Grouch"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 9:13 am<br><b>Posts:</b> 3469				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=106188#p106188"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">Everyone's going a bit wild for that Victor Moses lad. The administrators at Palace have stopped him from playing because they don't want their prize asset to be injured before he moves to a bigger club.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i53.tinypic.com/qqrhih.png" alt="Image"></div></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Sat Jan 30, 2010 12:18 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=73"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=73"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p111661"></a>
+				<div class="postauthor">R_K</div>
+				<div class="posterrank">Legend</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Legend" title="Legend"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 5:06 pm<br><b>Posts:</b> 4539				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=111661#p111661"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">I'll give Swansea another advert here by bigging up this youngster:<br><br><img src="http://www.swanseacity.net/javaImages/ef/bd/0,,10354~5291503,00.jpg" alt="Image"><br><br><span style="font-weight: bold">Name:</span> Joe Allen<br><span style="font-weight: bold">Age:</span> 19 (D.O.B 14/3/90)<br><span style="font-weight: bold">Position:</span> Box-to-box midfielder<br><br>This is a young lad loved by the Swansea faithful, he can literally play anywhere in the centre of midfield, whether defensively or attackingly. In my opinion he has the potential to be better than Aaron Ramsey in the future, but it's just Swansea do not get the media attention Cardiff do and thus Ramsey was found first.<br><br>The best thing about this young player is his intelligence, vision and control of the ball, his little touches may not seem much but I've seen them tear open defences. He reminds me of another one of our players, Leon Britton, however, Allen has time on his side to add other credentials to his game.<br><br>Some weaknesses he may have would definitely be his strength and play in the air, of course, his little touches are fine now, but if up against better opposition, he'd be pushed off the ball. With this he can work on, firstly Martinez now Sousa are easing him in and soon he'll be playing week-in, week-out.<br><br>I'd love to see him playing for a Top 4 club like Ramsey because that is where he can fullfil all his potential, but right now, I want to see him stay here.<br><br>Plus his one and only goal has been against Cardiff - instant legend!</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://img193.imageshack.us/img193/8168/jrocket1.jpg" alt="Image"></div><br>I came here to drink milk and kick ass - and I've just finished my milk.</span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Wed Mar 03, 2010 10:28 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=85"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=85"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p111664"></a>
+				<div class="postauthor">Rhys</div>
+				<div class="posterrank">4CW Head Booker</div><div class="postrankimg"><img src="./images/ranks/rank_booker.gif" alt="4CW Head Booker" title="4CW Head Booker"></div><div class="postavatar"><img src="./download/file.php?avatar=236_1268856608.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Apr 15, 2008 7:22 pm<br><b>Posts:</b> 7934<br><b>Location:</b> UK				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=111664#p111664"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">I second R_K's comments. Joe Allen is a great young player.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><span style="font-weight: bold">BPN: ted didn't win last night, but he fucked maryse, which means he is happy</span><br>1-Time POTM Winner (Mar 2010)<br>7-Time POTM Runner Up (2009 [Apr, May, Jul, Sept, Oct] 2010 [Jan, Feb]).<br>Longest Reigning 4CW Custom Cup Champion Ever.</div><br><div align="center"><img src="http://i267.photobucket.com/albums/ii288/rhysus2008/triplehbanner.jpg" alt="Image"></div></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Wed Mar 03, 2010 10:31 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=236"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=236"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p112286"></a>
+				<div class="postauthor" style="color: #FFDD66">Rossi Benayoun</div>
+				<div class="posterrank">Forum Grouch</div><div class="postrankimg"><img src="./images/ranks/rank_mvp.gif" alt="Forum Grouch" title="Forum Grouch"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 9:13 am<br><b>Posts:</b> 3469				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=112286#p112286"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">Nicolás Lodeiro is a Uruguayan footballer playing for Dutch Eredivisie club Ajax Amsterdam. Lodeiro is well known for his ability to glide past players with ease, due to his speed, close control and dribbling ability. He is also a very energetic player and his fitness ensures excellent movement on the pitch. <br><br>Lodeiro likes to come towards a player in order to receive the ball and subsequently take control of play. However, he also likes to move wide towards the flanks and can often be found on both sides of the pitch and operating in the middle during the course of the same game. Lodeiro is two footed but has a particularly lethal left foot shot and is dangerous from free kicks. <br><br>His senior international debut for Uruguay came against Costa Rica, in the CONCACAF-CONMEBOL 2010 World Cup Play-Off. He played both legs of the play-off, showing off his exquisite technique in the second leg at home, where he was named player of the match for Uruguay, which local pundits have said Lodeiro was vital for Uruguay in this game and qualification to the 2010 world cup.<br><br><span style="font-style: italic">Bio off Wikipedia</span><br><br><img src="http://i48.tinypic.com/waqzvr.jpg" alt="Image"></div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i53.tinypic.com/qqrhih.png" alt="Image"></div></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Mon Mar 08, 2010 6:10 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=73"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=73"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row2">
+			<td align="center" valign="top" class="row">
+				<a name="p130516"></a>
+				<div class="postauthor">R_K</div>
+				<div class="posterrank">Legend</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Legend" title="Legend"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Wed Nov 14, 2007 5:06 pm<br><b>Posts:</b> 4539				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=130516#p130516"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody">So what happened to Giovinco, Special? I heard Juve are looking to get rid.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://img193.imageshack.us/img193/8168/jrocket1.jpg" alt="Image"></div><br>I came here to drink milk and kick ass - and I've just finished my milk.</span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="postbottom" align="center">Mon Jul 19, 2010 2:54 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=85"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=85"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+<tr class="row1">
+			<td align="center" valign="top" class="row">
+				<a name="p130688"></a>
+				<div class="postauthor">SPECIAL 1</div>
+				<div class="posterrank">Last Man Standing</div><div class="postrankimg"><img src="./images/ranks/rank_6.gif" alt="Last Man Standing" title="Last Man Standing"></div><div class="postavatar"><img src="./download/file.php?avatar=164_1274653431.jpg" width="100" height="100" alt="User avatar"></div>
+				<div class="postdetails">
+					<br><b>Joined:</b> Tue Nov 27, 2007 5:55 pm<br><b>Posts:</b> 6344<br><b>Location:</b> Birmingham				</div>
+			</td>
+			<td width="100%" height="25" class="row" valign="top">
+				<div style="float: right;"></div>				<div class="postsubject"><a href="./viewtopic.php?p=130688#p130688"><img src="./styles/acidtech/imageset/icon_topic_latest.gif" width="13" height="9" alt="Post" title="Post"></a>&nbsp;Re: The next Messi/Ronaldo/Kaka/Torres/Rooney...</div>
+
+					
+						<div class="postbody"><div class="quotewrapper"><div class="quotetitle">R_K wrote:</div><div class="quotecontent">So what happened to Giovinco, Special? I heard Juve are looking to get rid.</div></div><br><br>Really? I haven't heard that.. All I've heard from Juventus is that they want to buy Elijero Elia from Hamburg and a possible swap deal involving Edin Dzeko for Diego... that's it. I'm not worried about Juve really, they should have a good season. It's AC Milan I'm worried about, even as a Roma fan, it's sad to see such a great club being so rubbish. A top 4 finish looks unlikely for them at the moment.</div>
+
+											<span class="postbody signature"><br><span class="line">_________________</span><br><div align="center"><img src="http://i2.photobucket.com/albums/y12/strung13/TheKing.jpg" alt="Image"></div><br><span style="font-size: 85%; line-height: normal">Most Improved Poster Slammy Winner (2009)<br>POTM (October 2009, May 2010)<br>WWE PPV Prediction Champion (2008)</span></span>
+					<br clear="all"><br>			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="postbottom" align="center">Tue Jul 20, 2010 4:53 pm</td>
+			<td class="postbottom postbuttons" valign="middle">
+									<div style="float: right">
+										</div>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_user_profile.gif" width="49" height="13" alt="Profile" title="Profile"></a> <a href="./memberlist.php?mode=email&amp;u=164"><img src="./styles/acidtech/imageset/en/icon_contact_email.gif" width="41" height="13" alt="E-mail" title="E-mail"></a> 			</td>
+		</tr>
+
+		<tr>
+		<td class="spacer" colspan="2" height="1"><img src="./styles/acidtech/theme/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+	<tr align="center">
+		<td class="cat" colspan="2"><form name="viewtopic" method="post" action="./viewtopic.php?f=26&amp;t=8718&amp;start=0"><span class="gensmall">Display posts from previous:</span> <select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select>&nbsp;<span class="gensmall">Sort by</span> <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select> <select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select>&nbsp;<input class="btnlite" type="submit" value="Go" name="sort"></form></td>
+	</tr>
+	</tbody></table>
+
+	<table width="100%" cellspacing="1">
+	<tbody><tr>
+					<td align="left" valign="middle" nowrap="nowrap">
+				<a href="./posting.php?mode=post&amp;f=26"><img src="./styles/acidtech/imageset/en/button_topic_new.gif" width="101" height="20" alt="Post new topic" title="Post new topic"></a>&nbsp;<a href="./posting.php?mode=reply&amp;f=26&amp;t=8718"><img src="./styles/acidtech/imageset/en/button_topic_reply.gif" width="103" height="20" alt="Reply to topic" title="Reply to topic"></a>			</td>
+					<td class="nav" valign="middle" nowrap="nowrap">&nbsp;Page <strong>1</strong> of <strong>2</strong><br></td>
+			<td class="gensmall" nowrap="nowrap">&nbsp;[ 17 posts ]&nbsp;</td>
+			<td class="gensmall" width="100%" align="right" nowrap="nowrap"><b><a href="#" onclick="jumpto(); return false;" title="Click to jump to page…">Go to page</a> <strong>1</strong><span class="page-sep">, </span><a href="./viewtopic.php?f=26&amp;t=8718&amp;start=15">2</a> &nbsp;<a href="./viewtopic.php?f=26&amp;t=8718&amp;start=15">Next</a></b></td>
+			</tr>
+	</tbody></table>
+
+</div>
+
+<div id="pagefooter"></div>
+
+<br clear="all">
+
+<table class="tablebg" width="100%" cellspacing="0" cellpadding="0" style="margin-top: 5px;">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php">Board index</a> » <a href="./viewforum.php?f=9">Sports</a> » <a href="./viewforum.php?f=26">Hooligan Central</a></p>
+			<p class="datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>	<br clear="all">
+
+	<table class="tablebg" width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="cat"><h4>Who is online</h4></td>
+	</tr>
+	<tr>
+		<td class="row1"><p class="gensmall">Users browsing this forum: No registered users and 2 guests</p></td>
+	</tr>
+	</tbody></table>
+
+<br clear="all">
+
+<table width="100%" cellspacing="1">
+<tbody><tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">You <strong>cannot</strong> post new topics in this forum<br>You <strong>cannot</strong> reply to topics in this forum<br>You <strong>cannot</strong> edit your posts in this forum<br>You <strong>cannot</strong> delete your posts in this forum<br>You <strong>cannot</strong> post attachments in this forum<br></span></td>
+</tr>
+</tbody></table>
+
+<br clear="all">
+
+<table width="100%" cellspacing="0">
+<tbody><tr>
+	<td><form method="post" name="search" action="./search.php?t=8718"><span class="gensmall">Search for:</span> <input class="post" type="text" name="keywords" size="20"> <input class="btnlite" type="submit" value="Go"></form></td>
+	<td align="right">	<form method="post" name="jumpbox" action="./viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}">
+
+	<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:</span>&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ document.forms['jumpbox'].submit() }">
+
+					<option value="-1">Select a forum</option>
+		<option value="-1">------------------</option>			<option value="1">4w Announcements And Introductions</option>
+					<option value="2">&nbsp; &nbsp;McMahon's Office</option>
+					<option value="3">Pro Wrestling News And Discussion</option>
+					<option value="4">&nbsp; &nbsp;WWE Universe</option>
+					<option value="5">&nbsp; &nbsp;Rawzone</option>
+					<option value="6">&nbsp; &nbsp;The SmackDown Hotel</option>
+					<option value="180">&nbsp; &nbsp;The NXT Big Thing</option>
+					<option value="14">&nbsp; &nbsp;In Your House</option>
+					<option value="15">&nbsp; &nbsp;Cross The Line</option>
+					<option value="16">&nbsp; &nbsp;The Indies</option>
+					<option value="13">&nbsp; &nbsp;&nbsp; &nbsp;The Land Of Extreme (ECW)</option>
+					<option value="170">&nbsp; &nbsp;Highlight Reel</option>
+					<option value="189">&nbsp; &nbsp;&nbsp; &nbsp;WWE</option>
+					<option value="190">&nbsp; &nbsp;&nbsp; &nbsp;TNA</option>
+					<option value="191">&nbsp; &nbsp;&nbsp; &nbsp;ROH</option>
+					<option value="193">&nbsp; &nbsp;&nbsp; &nbsp;Indies</option>
+					<option value="7">Off-Topic Forums</option>
+					<option value="17">&nbsp; &nbsp;The VIP Lounge</option>
+					<option value="18">&nbsp; &nbsp;The Palace Of Wisdom</option>
+					<option value="19">&nbsp; &nbsp;Rated R Forum</option>
+					<option value="8">Games</option>
+					<option value="90">&nbsp; &nbsp;Greatest ________ of All Time</option>
+					<option value="21">&nbsp; &nbsp;War Games</option>
+					<option value="22">&nbsp; &nbsp;Wrestling Draft</option>
+					<option value="169">&nbsp; &nbsp;&nbsp; &nbsp;Previous Drafts</option>
+					<option value="88">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Drafts #12 and 13</option>
+					<option value="96">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #14</option>
+					<option value="116">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #15</option>
+					<option value="138">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #16</option>
+					<option value="141">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #17</option>
+					<option value="154">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #18</option>
+					<option value="165">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #19</option>
+					<option value="174">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #20</option>
+					<option value="185">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #21</option>
+					<option value="199">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Draft #22</option>
+					<option value="187">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Greatest Draft Card of All Time</option>
+					<option value="143">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;GM: Generations Archive</option>
+					<option value="148">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;DWA</option>
+					<option value="146">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;HWA</option>
+					<option value="144">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;IWL</option>
+					<option value="156">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;JWE</option>
+					<option value="147">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;NGS</option>
+					<option value="23">&nbsp; &nbsp;GM Game</option>
+					<option value="195">&nbsp; &nbsp;&nbsp; &nbsp;DWA</option>
+					<option value="95">&nbsp; &nbsp;&nbsp; &nbsp;GWA</option>
+					<option value="71">&nbsp; &nbsp;&nbsp; &nbsp;IFW</option>
+					<option value="194">&nbsp; &nbsp;&nbsp; &nbsp;P&amp;G</option>
+					<option value="73">&nbsp; &nbsp;&nbsp; &nbsp;SCW</option>
+					<option value="196">&nbsp; &nbsp;&nbsp; &nbsp;SWA</option>
+					<option value="178">&nbsp; &nbsp;&nbsp; &nbsp;TCW</option>
+					<option value="9">Sports</option>
+					<option value="25">&nbsp; &nbsp;Sacks And Tackles</option>
+					<option value="26" selected="selected">&nbsp; &nbsp;Hooligan Central</option>
+					<option value="27">&nbsp; &nbsp;The Octagon</option>
+					<option value="179">&nbsp; &nbsp;&nbsp; &nbsp;4FFLICTION</option>
+					<option value="28">&nbsp; &nbsp;Sidelines</option>
+					<option value="10">Entertainment</option>
+					<option value="29">&nbsp; &nbsp;Shattered Dreams Productions</option>
+					<option value="30">&nbsp; &nbsp;Basic Thuganomics</option>
+					<option value="31">&nbsp; &nbsp;The Parents' Basement</option>
+					<option value="11">4CW Fantasy Wrestling</option>
+					<option value="32">&nbsp; &nbsp;Front Office</option>
+					<option value="33">&nbsp; &nbsp;Cards And Shows</option>
+					<option value="91">&nbsp; &nbsp;&nbsp; &nbsp;4CW Classics</option>
+					<option value="92">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Classic Roleplays</option>
+					<option value="34">&nbsp; &nbsp;Out Of Character</option>
+					<option value="35">&nbsp; &nbsp;Roleplay</option>
+					<option value="175">&nbsp; &nbsp;&nbsp; &nbsp;"No Class" Bobby Pinash</option>
+					<option value="188">&nbsp; &nbsp;&nbsp; &nbsp;Brock McSweeney</option>
+					<option value="93">&nbsp; &nbsp;&nbsp; &nbsp;Clyde Bonham</option>
+					<option value="42">&nbsp; &nbsp;&nbsp; &nbsp;Cocozo</option>
+					<option value="171">&nbsp; &nbsp;&nbsp; &nbsp;Damien Blood</option>
+					<option value="49">&nbsp; &nbsp;&nbsp; &nbsp;Eddie Wolfbaine</option>
+					<option value="87">&nbsp; &nbsp;&nbsp; &nbsp;Fabian Miles</option>
+					<option value="192">&nbsp; &nbsp;&nbsp; &nbsp;Fairy Beaufeur</option>
+					<option value="113">&nbsp; &nbsp;&nbsp; &nbsp;Firecracker</option>
+					<option value="61">&nbsp; &nbsp;&nbsp; &nbsp;Fish</option>
+					<option value="64">&nbsp; &nbsp;&nbsp; &nbsp;Inferno</option>
+					<option value="172">&nbsp; &nbsp;&nbsp; &nbsp;Jacob "The Thunderbolt" Scharff</option>
+					<option value="115">&nbsp; &nbsp;&nbsp; &nbsp;Jeremiah Judah Blaze</option>
+					<option value="183">&nbsp; &nbsp;&nbsp; &nbsp;Julian MagneZ</option>
+					<option value="173">&nbsp; &nbsp;&nbsp; &nbsp;"The American Lion" Nate Johnson</option>
+					<option value="184">&nbsp; &nbsp;&nbsp; &nbsp;Nick Daniels</option>
+					<option value="103">&nbsp; &nbsp;&nbsp; &nbsp;Rasheed Evans</option>
+					<option value="111">&nbsp; &nbsp;&nbsp; &nbsp;Retro Modern</option>
+					<option value="140">&nbsp; &nbsp;&nbsp; &nbsp;'The Bruiser' Rhysus</option>
+					<option value="59">&nbsp; &nbsp;&nbsp; &nbsp;Senecca</option>
+					<option value="197">&nbsp; &nbsp;&nbsp; &nbsp;Serpent</option>
+					<option value="54">&nbsp; &nbsp;&nbsp; &nbsp;Supreme</option>
+					<option value="198">&nbsp; &nbsp;&nbsp; &nbsp;The Cage</option>
+					<option value="177">&nbsp; &nbsp;&nbsp; &nbsp;The Hunters</option>
+					<option value="76">&nbsp; &nbsp;&nbsp; &nbsp;The Murphy Brothers</option>
+					<option value="104">&nbsp; &nbsp;&nbsp; &nbsp;Universal Invader</option>
+					<option value="139">&nbsp; &nbsp;&nbsp; &nbsp;Vision</option>
+					<option value="158">&nbsp; &nbsp;&nbsp; &nbsp;Willy Twist</option>
+					<option value="100">&nbsp; &nbsp;&nbsp; &nbsp;Retired, MIA, Injured...</option>
+					<option value="56">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Aaron McNeil</option>
+					<option value="98">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Alexandre</option>
+					<option value="55">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Aranethon</option>
+					<option value="58">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Black Massacre</option>
+					<option value="81">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Cam Maddox</option>
+					<option value="52">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Crusher Cremonese</option>
+					<option value="110">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Dementis</option>
+					<option value="44">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Drake Blackstone</option>
+					<option value="78">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Drunkin Janitur</option>
+					<option value="50">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Gabrielle Montgomery</option>
+					<option value="77">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Joseph Bennison</option>
+					<option value="94">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Mark Caulder</option>
+					<option value="47">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: "The It Factor" Phil Duncan</option>
+					<option value="75">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Shane Hellman</option>
+					<option value="102">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: "Sherriff" JC James</option>
+					<option value="60">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Synder</option>
+					<option value="114">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: The Leader</option>
+					<option value="82">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Travis Williams</option>
+					<option value="80">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: WMD4</option>
+					<option value="99">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Asylum</option>
+					<option value="112">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Chris Martin</option>
+					<option value="109">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Christopher Worc</option>
+					<option value="101">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Cortex</option>
+					<option value="57">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: John Krone</option>
+					<option value="79">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: TC Tucker</option>
+					<option value="53">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Retired: Stardust</option>
+					<option value="136">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: S&amp;M</option>
+					<option value="149">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Richie Copeland</option>
+					<option value="163">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Jaxin Brock</option>
+					<option value="164">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Medaglia d'Oro</option>
+					<option value="43">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: [chux]</option>
+					<option value="155">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Cielo De Oro</option>
+					<option value="48">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Rocket Roky</option>
+					<option value="135">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Shinobu Mask X</option>
+					<option value="51">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;MIA: Carstein</option>
+					<option value="45">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Lord Skywolf</option>
+					<option value="46">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;RETIRED: Chris Drake</option>
+					<option value="63">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Arrested: Sery</option>
+					<option value="12">4w Site Discussion</option>
+					<option value="36">&nbsp; &nbsp;4w Fanzone</option>
+					<option value="37">&nbsp; &nbsp;Hall of Fame</option>
+		
+		</select>&nbsp;<input class="btnlite" type="submit" value="Go"></td>
+	</tr>
+	</tbody></table>
+
+	</form>
+</td>
+</tr>
+</tbody></table>
+
+
+<div id="wrapfooter">
+		<span class="copyright">
+	Powered by <a href="http://www.phpbb.com/">phpBB</a> © phpBB Group.
+	<br>Designed by <a href="www.4w-forums.com">Rob Green</a> for <a href="4w-wrestling.com" title="4w">4w-wrestling</a>/<a href="www.4w-forums.com">4w</a>.
+<ceter><br><p><!-- ADDFREESTATS.COM AUTOCODE V4.0 -->
+<script type="text/javascript">
+<!--
+var AFS_Account="00307557";
+var AFS_Tracker="auto";
+var AFS_Server="www3";
+var AFS_Page="DetectName";
+var AFS_Url="DetectUrl";
+// -->
+</script>
+<script type="text/javascript" src="http://www3.addfreestats.com/cgi-bin/afstrack.cgi?usr=00307557">
+</script>
+<noscript>
+<a href="http://www.addfreestats.com">
+<img src="http://www3.addfreestats.com/cgi-bin/connect.cgi?usr=00307557Pauto" border="0" title="AddFreeStats.com Free Web Stats!"></a>
+</noscript>
+<!-- ENDADDFREESTATS.COM AUTOCODE V4.0  -->
+</p><center>
+<br>
+<p>
+
+<script type="text/javascript" language"javascript">
+
+
+
+// Cache-busting and pageid values
+
+var random = Math.round(Math.random() * 100000000);
+
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+
+
+document.write('<scr');
+
+document.write('ipt type="text/javascript" language ="JavaScript" SRC="http://ads.joinaxxess.com/jserver/acc_random=' + random + '/SITE=4WRESTLING.COM/AREA=SPORTS/AAMSZ=728X90/EX=N/POS=1/VIBE=SMT/pageid=' + pageNum + '">');
+
+document.write('</');
+
+document.write('ipt>');
+
+</script>
+
+<br></p><p>
+
+<script type="text/javascript" language"javascript">
+
+
+
+// Cache-busting and pageid values
+
+var random = Math.round(Math.random() * 100000000);
+
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+
+
+document.write('<scr');
+
+document.write('ipt type="text/javascript" language ="JavaScript" SRC="http://ads.joinaxxess.com/jserver/acc_random=' + random + '/SITE=4WRESTLING.COM/AREA=SPORTS/AAMSZ=300X250/EX=N/POS=1/VIBE=SMT/pageid=' + pageNum + '">');
+
+document.write('</');
+
+document.write('ipt>');
+
+</script>
+
+<!-- Publisher Ad Code, Do Not Modify, Copyright 2004, Accipiter Solutions Inc. -->
+
+<script type="text/javascript" language"javascript">
+
+
+
+// Cache-busting and pageid values
+
+var random = Math.round(Math.random() * 100000000);
+
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+
+
+document.write('<scr');
+
+document.write('ipt type="text/javascript" language ="JavaScript" SRC="http://ads.joinaxxess.com/jserver/acc_random=' + random + '/SITE=4WRESTLING.COM/AREA=SPORTS/AAMSZ=300X250/EX=N/POS=1/VIBE=SMT/pageid=' + pageNum + '">');
+
+document.write('</');
+
+document.write('ipt>');
+
+</script>
+
+<!-- Publisher Ad Code, Do Not Modify, Copyright 2004, Accipiter Solutions Inc. -->
+</p></center></ceter></span></div>
+
+	</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
