@@ -1,0 +1,118 @@
+<html lang="en-US"><head>
+		<title>NorthAmericanBodies.com - Ryan L'Ecuyer</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta lang="en" name="Author" content="http://www.InnovativeWebStudios.com">
+		<link href="style/style.css" type="text/css" rel="stylesheet" media="all">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<center>
+<br>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<center>
+<table class="border" width="676" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<img src="images/index3_01.jpg" width="676" height="13" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/index3_02.jpg" width="676" height="90" alt=""></td>
+	</tr>
+	<tr>
+		<td valign="top" width="676" height="14" background="images/index3_03.gif">
+			<center>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr><td>
+                        <a href="http://www.northamericanbodies.com/~aabmember/"><img src="images/Mmembers.gif" width="89" height="13" border="0" alt="MEMEBRS"></a>
+                        <a href="models.html"><img src="images/Mmodels.gif" width="79" height="13" border="0" alt="MODELS"></a>
+                        <a href="preview.html"><img src="images/Mpreview.gif" width="85" height="13" border="0" alt="PREVIEW"></a>
+                        <a href="join.html"><img src="images/Mjoin.gif" width="54" height="13" border="0" alt="JOIN"></a>
+                        <a href="video.html"><img src="images/Mvideo.gif" width="111" height="13" border="0" alt="VIDEO"></a>
+                        <a href="forum.html"><img src="images/Mforum.gif" width="71" height="13" border="0" alt="FORUM"></a>
+                        <a href="store.html"><img src="images/Mstore.gif" width="69" height="13" border="0" alt="STORE"></a>
+	                <a href="links.html"><img src="images/Mlinks.gif" width="63" height="13" border="0" alt="LINKS"></a>
+                        </td></tr></tbody></table>
+	                </center>
+        </td></tr>
+	<tr>
+		<td class="mainbody" width="676" height="500" valign="top">
+		 <img src="images/models.gif" width="626" height="38" border="0" alt=""><br><br>
+                 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                 <tbody><tr><td valign="top">	
+                        <table border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                        <td>
+                        <table border="0" cellpadding="4" cellspacing="0" align="left">
+                        <tbody><tr>
+
+                        <td align="left" valign="top" height="200">
+                        <b class="profile">RYAN L'ECUYER<br>
+                        </b><br>
+                        <img alt="Ryan L'Ecuyer" longdesc="Ryan L'Ecuyer" src="images/models/RyanLecuyerProfilePic.jpg" width="110" height="140"></td>
+
+                        <td valign="top" height="200"><br>
+                        </td>
+                        </tr>
+                        </tbody></table>
+                        <table border="0" align="right" cellpadding="3">
+                          <tbody><tr>
+                            <td width="100%">
+							<img alt="Ryan L'Ecuyer" longdesc="Ryan L'Ecuyer" src="images/models/RyanLecuyerPreviewPic1.jpg" width="176" height="375"></td>
+                          </tr>
+                        </tbody></table>
+                        <br>Ryan L'Ecuyer is a 19 year old upcoming bodybuilder from Connecticut.  He stands 5'10" tall 
+                            and weighs 176 lbs. in competition.  He has a 32" waist with a 46" chest.  Ryan had an 
+                            active sports background, wrestling in school before realizing that he was much more
+                            passionate about bodybuilding.  He realized the two sports did not mix, and so is now 
+                            pursuing his bodybuilding dream.  He started training in a gym at age 11, and got more 
+                            serious about bodybuilding at 14.  To date, he has been very successful in bodybuilding 
+                            competitions, including the 2009 USBF Empire States Natural (2nd Place Teen Class, 1st 
+                            Place Novice Lightweight Class), the 2010 INBF Natural Connecticut (1st Place Teen Class, 
+                            2nd Place Open Middleweight Class) and the 2010 INBF Hercules Championships (1st Place 
+                            Teen Class, 2nd Place Open Middleweight Class).  We met Ryan competing at the 2010 
+                            Hercules show, and with the help of NAB photographer Steve Roberts, we photographed him 
+                            during the course of that show.  We hope to schedule a photoshoot with Ryan L'Ecuyer again 
+                            in the future, and for now we are pleased to introduce him to you and add Ryan to our 
+                            roster of upcoming bodybuilders and fitness models at NorthAmericanbodies.com!<br>
+                        <br>
+                        </td>
+                        </tr>
+                        </tbody></table>
+                </td>
+                </tr>
+                </tbody></table>
+                        <table>
+                        <tbody><tr>
+                            <td>
+                            <img alt="Ryan L'Ecuyer" longdesc="Ryan L'Ecuyer" src="images/models/RyanLecuyerPreviewPic2.jpg" width="375" height="225"></td>
+                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td width="300">
+                                Coming Soon!
+                                </td>
+	                </tr>
+                        </tbody></table>
+                </td>
+	</tr>
+</tbody></table>
+</center>
+</td></tr>
+<tr><td height="16">
+<center><a href="index.htm"><img src="images/Lhome.gif" width="43" height="16" border="0" alt="HOME"></a><a href="about.html"><img src="images/Labout.gif" width="62" height="16" border="0" alt="ABOUT"></a><a href="contact.html"><img src="images/Lcontact.gif" width="77" height="16" border="0" alt="CONTACT"></a><a href="privacy.html"><img src="images/Lprivacy.gif" width="119" height="16" border="0" alt="PRIVACY POLICY"></a><a href="terms.html"><img src="images/Lterms.gif" width="107" height="16" border="0" alt="TERMS OF USE"></a></center></td></tr></tbody></table>
+
+</center>
+<p><br>
+</p>
+<!--webbot bot="Include" U-Include="footer.html" TAG="BODY" startspan -->
+<p>
+                                </p><center>
+                                <span class="copyright"> <font size="1">Administer
+                                or cancel your NAB membership </font><a href="https://secure.netbilling.com/gw/native/selfservice1.2?110170879878" target="_blank"><font size="1">here</font></a><font size="1"><br>
+ 2010 © The Adam Company. All Rights Reserved<br>
+                                "North American Bodies" is a trademark of The Adam Company.</font></span></center>
+<p></p>
+<!--webbot bot="Include" i-checksum="50346" endspan -->
+<p>&nbsp;</p>
+
+
+</body></html>

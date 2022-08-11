@@ -1,0 +1,677 @@
+<!DOCTYPE html><html><!-- InstanceBegin template="/Templates/index_template_full03.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Animal Emergency Center - 24 Hour Emergency and Critical Care Veterinary Hospital</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+<!--
+.style22 {color: #FF0000}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="aec.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	background-color: #CBC0B6;
+}
+.style15 {font-size: 10px; line-height: 14px; font-style: normal; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style20 {color: #FFFF99}
+.style21 {font-size: 12px; line-height: 16px; font-style: normal; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif;}
+-->
+</style><!-- zStats web tools statistics hit counter code -->
+<script type="text/javascript" id="wa_u"></script>
+<script type="text/javascript">//<![CDATA[
+wa_account="aecenter"; wa_location=111;
+wa_pageName=location.pathname;  // you can customize the page name here
+document.cookie='__support_check=1';wa_hp='http';
+wa_rf=document.referrer;wa_sr=window.location.search;
+wa_tz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
+wa_hp='https';wa_data='&an='+escape(navigator.appName)+ 
+'&sr='+escape(wa_sr)+'&ck='+document.cookie.length+
+'&rf='+escape(wa_rf)+'&sl='+escape(navigator.systemLanguage)+
+'&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
+'&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName);
+wa_data=wa_data+'&cd='+
+screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
+'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled();
+wa_img=new Image();wa_img.src=wa_hp+'://loc1.hitsprocessor.com/statistics.asp'+
+'?v=1&s='+wa_location+'&acct='+wa_account+wa_data+'&tks='+wa_tz.getTime();
+document.getElementById('wa_u').src=wa_hp+'://loc1.hitsprocessor.com/track.js'; //]]>
+</script>
+<!-- End zStats statistics web tools hit counter code -->
+</head>
+
+<body>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="3" bgcolor="#000000">
+      <table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><img src="images/aec_logo.jpg" width="308" height="27" border="0" usemap="#Map"></td>
+          <td><div align="right"><span class="top_nav"><a href="education.html">Continuing Education</a> | <a href="animaledit/home/index3.asp?w=pages&amp;r=0&amp;pid=2">Medical Staff</a> | <a href="animaledit/home/index3.asp?w=pages&amp;r=0&amp;pid=3">News</a></span> | <a href="jobs.html" class="top_navGreen">Job Opportunities</a> <img src="images/whitedot.gif" width="10" height="8"></div></td>
+        </tr>
+      </tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="header_pic" --><img src="images/header_pic01.jpg" width="760" height="185" border="0" usemap="#Map2"><!-- InstanceEndEditable --></td>
+  </tr>
+  <tr bgcolor="F2EDEC">
+    <td colspan="3"><div align="right"><span class="middle_nav"><a href="about.html">About AEC</a> </span>|<span class="middle_nav"> <a href="specialty_services.html">Specialty Services </a></span><span class="style21">|</span><span class="middle_nav"><a href="facility.html"> Facility Tour</a> </span>|<span class="middle_nav"> <a href="health.html">Your Pets Health</a> </span>|<span class="middle_nav"> <a href="kids.html">Kids Corner</a> </span>|<span class="middle_nav"> <a href="contact.html">Contact/Directions</a> </span>|<span class="middle_nav"> <a href="index.html">Home</a> <span class="top_nav"> <img src="images/whitedot.gif" width="10" height="8"></span></span></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#FFFFFF"><img src="images/whitedot.gif" width="20" height="10"></td>
+  </tr>
+  <tr bgcolor="#003300">
+    <td width="20" bgcolor="#FFFFFF"><img src="images/whitedot.gif" width="20" height="350"></td>
+    <td width="720" valign="top" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="middle" -->
+      <p class="middle_nav">Case Studies</p>
+      <blockquote> 
+        <p class="subheads"><a name="emergency"></a>Emergency Critical Care</p>
+        <blockquote> 
+          <p class="bodycopy"><strong><span class="style22">Case Study</span>: 
+            Gastric Dilatation-Volvulus Syndrome in a German Shepherd</strong></p>
+          <p class="bodycopy"><img src="images/sasha.jpg" width="267" height="225" hspace="6" vspace="6" align="left">"Sasha" 
+            is a 6-year-old neutered male German Shepherd that presented for making 
+            repeated retching motions, producing only a white foamy fluid. The 
+            owners felt that his abdomen was distended.</p>
+          <p class="bodycopy"><strong>Presenting signs </strong><br>
+            An initial rapid assessment was made for life-threatening problems 
+            (called primary survey). Sasha's problems included: mental depression, 
+            labored breathing, early decompensatory shock), rapid heart rate (240 
+            beats per minute), weak, irregular pulses, and significant cranial 
+            abdominal distention. Percussion of the abdomen demonstrated tympany, 
+            suggestive of a gas distended stomach, compatible with gastric-dilatation-volvulus 
+            (GDV) syndrome.</p>
+          <p class="bodycopy">&nbsp;</p>
+          <p class="bodycopy"><strong>What is GDV?</strong><br>
+            The GDV syndrome occurs the stomach rotates at the level of the esophagus 
+            within the abdomen, causing gas accumulation within the stomach and 
+            gastric distension (Figure 1). Blood supply to the stomach and spleen 
+            can be significantly compromised.</p>
+          <table width="279" border="0" align="right" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td width="162"><img src="images/dog_stomach.jpg" width="150" height="226" hspace="6" vspace="6"></td>
+              <td width="117" valign="top"><p class="bodycopy"><em>Figure 1.<br>
+                  </em><em>Drawing of stomach with arrows demonstrating direction 
+                  of stomach rotation.</em></p></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy"><strong>Initial Stabilization</strong><br>
+            Oxygen was supplemented, an intravenous catheter placed and blood 
+            was taken for an emergency baseline. Intravenous fluid therapy was 
+            started with rapid infusion of a large volume crystalloids and stroma 
+            free hemoglobin* to resuscitate shock. He was given a narcotic for 
+            pain control. The initial blood tests founs a reduced number of platelets 
+            suggestive of an early problem with coagulation due to the severe 
+            shock. </p>
+          <p class="bodycopy">An electrocardiogram (ECG) was done, revealing a 
+            ventricular tachycardia (Figure 2). He had a rapid heart rate and 
+            an elevated blood pressure of 200/110 mmHg. </p>
+          <p class="bodycopy">&nbsp;</p>
+          <table width="350" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><img src="images/ecg.jpg" width="350" height="100"></td>
+            </tr>
+            <tr> 
+              <td><div align="center"><span class="bodycopy"><em>Figure 2. ECG 
+                  showing ventricular tachycardia</em></span></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy"> Intravenous lidocaine was given to correct the 
+            heart arrhythmia and then his gas filled stomach decompressed percutaneously 
+            to allow the gas to escape. A new ECG (Figure 3), heart rate and blood 
+            pressure showed that he was stabilized enough to continue with radiographs 
+            and emergency surgical intervention.</p>
+          <table width="350" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><img src="images/ecg_after.jpg" width="350" height="81"></td>
+            </tr>
+            <tr> 
+              <td><div align="center"><span class="bodycopy"><em>Figure 3. ECG 
+                  after lidocaine (4 mg/kg)<br>
+                  was given IV showing normal rhythm</em></span></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy"><strong>Confirming the Diagnosis</strong><br>
+            A radiograph was taken and showed that the stomach was filled with 
+            gas (black coloration) and rotated, with the pylorus now located in 
+            a dorsal position (Figure 4).</p>
+          <table width="400" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><img src="images/fig_5_stomach.jpg" width="400" height="279"></td>
+            </tr>
+            <tr> 
+              <td><div align="center"><span class="bodycopy"><em>Figure 4. Right 
+                  lateral radiographshowing a rotated gas filled stomach.</em></span></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy"> Emergency surgery was necessary to correct the 
+            stomach rotation, fix the stomach into normal position, and examine 
+            other organs that might be affected. Common complications include: 
+            anesthetic risks, stomach necrosis due to impaired circulation, blood 
+            clots in major vessels, rupture of blood vessels due to the distension 
+            and rotation of the stomach, and splenic damage due to the obstruction 
+            of its blood vessels by the stomach.<br>
+            <br>
+            <strong>Emergency Surgical Correction</strong><br>
+            A combination of anesthetic agents were chosen that had minimal effect 
+            on the cardiovascular system and induction and intubation so that 
+            his breathing could be rapidly controlled. The abdomen was clipped 
+            and scrubbed for surgery. An abdominal incision was made. The stomach 
+            was immediately seen to be hugely distended with gas, rotated and 
+            the stomach wall was black due to loss of blood supply and necrosis 
+            (Figure 5). The stomach was de-rotated, a stomach tube passed for 
+            relieving the gas, and the dead area of the stomach wall was removed. 
+            The stomach was then attached to the body wall (called a “gastropexy”) 
+            to prevent rotation in the future. The spleen was found to have an 
+            infarct, and that area was removed. The pancreas was swollen.<br>
+          </p>
+          <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><div align="center"><img src="images/black_stomach.jpg" width="191" height="124"></div></td>
+            </tr>
+            <tr> 
+              <td><div align="center"><span class="bodycopy"><em>Figure 5. Black 
+                  stomach wall<br>
+                  from loss of blood supply.</em></span></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy"><strong>Post-operative Care</strong><br>
+            Post-operative recovery was prolonged due to pancreatitis. Procedures 
+            that aided recovery included: nasogastric tube stomach decompression 
+            and feeding; plasma transfusions; administration of crystalloids and 
+            colloids to maintain intravascular volume, antibiotics, and gastric 
+            motility stimulants. The dog was closely monitored in the intensive 
+            care unit with blood pressure, ECG and laboratory tests. Because of 
+            the knowledge and skills of the emergency/critical care team of doctors 
+            and nurses, Sasha was able to go home 5 days after admission.</p>
+          <p class="bodycopy"> <em>* Stroma free hemoglobin solution is an oxygen 
+            carrying fluid that is approved for use in dogs.</em><br>
+            <br>
+          </p>
+          <blockquote> 
+            <p class="bodycopy"><a href="emergency_critical_care.html">(click 
+              here to learn more about our specialty ER / CC Services) </a></p>
+          </blockquote>
+          <p></p>
+        </blockquote>
+        <p class="subheads"><a name="exotic"></a>Exotic Pets</p>
+        <blockquote> 
+          <table width="350" border="0" align="right" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><img src="images/popo1.jpg" width="350" height="400" hspace="6" vspace="6"></td>
+            </tr>
+            <tr> 
+              <td><div align="center"><span class="bodycopy"><em>Popo and one 
+                  of his doctors.</em></span></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy">Popo is a 5 year old ferret who was brought into 
+            Animal Emergency Clinic for signs of coughing, sneezing and not feeling 
+            well. The owner had been sick with influenza for 2 weeks. She knew 
+            that ferrets are susceptible to the human influenza virus and was 
+            concerned. Popo had not eaten well that day.</p>
+          <p class="bodycopy">A physical examination was done and found Popo to 
+            be depressed, dehydrated, and to have labored breathing. At this time, 
+            he weighed only one pound. He was admitted to the hospital and a catheter 
+            was placed and intravenous fluids and antibiotics were administered. 
+            Blood work was done, confirming dehydration. His other blood parameters 
+            were normal. Radiographs were taken and showed that Popo had developed 
+            pneumonia. The infection had spread to the entire lung fields on the 
+            right side of his chest. This lung pathology was most likely the reason 
+            for his difficulty breathing.</p>
+          <p class="bodycopy">The next day Popo appeared to be getting worse in 
+            spite of the fluids and antibiotics. The owner was contacted and surgery 
+            was recommended to remove the infected lung lobes. It was felt that 
+            the infection was causing lung abscesses and could not be treated 
+            effectively with medications alone. The risks were discussed and the 
+            owner agreed to surgery.</p>
+          <p class="bodycopy">That afternoon Popo was taken to surgery. Because 
+            of his small size, the anesthesia and surgery were very delicate procedures. 
+            The emergency/critical care specialist planned a balanced anesthesia 
+            protocol using both injectable and gas anesthetic. </p>
+          <table width="350" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><img src="images/Popo3.jpg" width="350" height="282"></td>
+            </tr>
+            <tr> 
+              <td><div align="center"></div>
+                <div align="center" class="bodycopy"><em>The Emergency/Critical 
+                  Care specialist is administering and monitoring anesthesia for 
+                  the &lt;1 pound ferret.</em></div></td>
+            </tr>
+          </tbody></table>
+          <div align="center"></div>
+          <p class="bodycopy">The surgeons were very concerned about performing 
+            chest surgery on such a small animal. Though there had never been 
+            any written reports about chest surgery on a ferret in United States, 
+            the board certified surgeon used her experience with the dog and cat 
+            to plan out the procedure.<br>
+            The chest was opened and all of the right lung lobes were found to 
+            be completely infected. The surgeons decided to remove all the right 
+            lung lobes knowing that most animals can live with only 1/2 of the 
+            lung lobes in tact. The surgery was very difficult because of Popo’s 
+            small size. The procedure took approximately 2 hours to perform. A 
+            chest tube was placed into the right side of his chest so that extra 
+            fluid and air could be removed from his chest after surgery. Popo 
+            woke up well after the surgery.</p>
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td width="279"><div align="center"><img src="images/Popo4.jpg" width="250" height="204"></div></td>
+              <td width="273"><div align="center"><img src="images/Popo5.jpg" width="250" height="204"></div></td>
+            </tr>
+            <tr> 
+              <td height="40"><div align="center"><span class="bodycopy"><em>The 
+                  chest tube is placed and Popo recovered from anesthesia.</em></span></div></td>
+              <td valign="top"><div align="center"><span class="bodycopy"><em> 
+                  Popo is recovering in the ICU.</em></span></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy">Popo was maintained on pain medication, intravenous 
+            fluids and antibiotics in the ICU during his recovery. He went home 
+            with the chest tube in place after three days.</p>
+          <table width="350" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td><img src="images/Popo6.jpg" width="350" height="282"></td>
+            </tr>
+            <tr> 
+              <td><div align="center"></div>
+                <div align="center" class="bodycopy"><em>Popo going home with 
+                  chest tube and chest wrap.</em></div></td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy">The owner came back in with Popo one week later 
+            to remove the chest tube. Popo is doing well 1 year after surgery!!<br>
+          </p>
+          <blockquote> 
+            <p class="bodycopy"><a href="exotic_pets.html">(click here to learn 
+              more about our specialty Exotic Pets Services) </a></p>
+            <p class="bodycopy">&nbsp;</p>
+          </blockquote>
+        </blockquote>
+        <p class="subheads"><a name="dental"></a>Dental &amp; Oral Surgery</p>
+        <blockquote> 
+          <p class="bodycopy"><strong><span class="style22">Case Study</span>: 
+            Dentigerous Cyst<br>
+            </strong>An eight month old, 21.6kg neutered male Dalmatian/Springer 
+            mix, was referred for assessment and treatment of a 15 mm firm mass 
+            on the left rostral mandible. The lesion was located between the mandibular 
+            canine (#304) and the second premolar tooth (#306). Our presumptive 
+            diagnosis of the lesion was a dentigerous cyst.</p>
+          <p class="bodycopy">The preliminary physical examination revealed an 
+            asymmetrical enlargement of the left anterior mandible. The diagnostic 
+            plan included anesthesia for a thorough oral examination, professional 
+            prophylaxis, intraoral radiography and biopsy for histopathology.</p>
+        </blockquote>
+        <p align="center" class="bodycopy"><img src="images/fig01_02.jpg" width="271" height="103"></p>
+        <blockquote> 
+          <p class="bodycopy">The intraoral radiographs of the clinically affected 
+            area, demonstrated a radiodense tooth structure within an approximately 
+            13 mm by 16 mm radiolucent area distal to tooth #304 (Figs.2,3). These 
+            radiographic findings supported a presumptive diagnosis of dentigerous 
+            cyst. The revised diagnostic and treatment plan was to surgically 
+            explore the mandible and obtain excisional biopsies for a histopathological 
+            diagnosis. The premolars (#305 and #306) would be extracted and the 
+            oral defect was to be reconstructed using a mucogingival pedicle flap 
+            closure. The histopathologic diagnosis of the lesion was odontogenic 
+            keratocyst. </p>
+          <p class="bodycopy"><a href="images/Case%20report%20dentigerous%20#10.pdf" target="_blank">Diagnosis 
+            and Treatment of a Dentigerous Cyst in a Dalmatian/Springer Mix</a><strong><strong><strong><a href="images/Case%20report%20dentigerous%20#10.pdf" target="_blank"><img src="images/pdf_icon.jpg" width="25" height="27" border="0" align="middle"></a></strong></strong></strong><br>
+            Dale Kressin DVM, FAVD, Dipl. AVDC - June, 2005</p>
+          <blockquote> 
+            <p class="bodycopy"><a href="animal_dental_center.html">(click here 
+              to learn more about our specialty Dental &amp; Oral Surgery Services) 
+              </a></p>
+          </blockquote>
+          <p class="bodycopy"> <strong><strong><strong></strong></strong></strong></p>
+        </blockquote>
+        <p class="subheads"><a name="imaging"></a>Imaging</p>
+        <blockquote> 
+          <p class="bodycopy">"Smokey" was a 6 year old neutered male 
+            domestic long haired cat that ran away from home two days prior to 
+            presentation. Smokey presented to the Animal Emergency Center emergency 
+            service with the following neurologic and physical abnormalities:</p>
+          <ul>
+            <li class="bodycopy">significant mental depression,</li>
+            <li class="bodycopy">circling to the right,</li>
+            <li class="bodycopy"> increased extenor tone to the left front and 
+              rear limbs</li>
+            <li class="bodycopy">third eyelid raised on right</li>
+            <li class="bodycopy">small puncture wound typical of a retrobulbar 
+              abscess by the last molar on the right.</li>
+          </ul>
+          <p class="bodycopy"><img src="images/smokey-MR-contrast.jpg" width="200" height="200" align="right">Routine 
+            blood work did not show any significant abnormalities. Infectious 
+            titers were submitted. Exploration of the mouth wound found no obvious 
+            etiology. Further diagnostics included a MRI to assess the brain due 
+            to the sudden onset and focal right cortical/subcortical neurologic 
+            signs. (see Figures 1 and 2).</p>
+          <p class="bodycopy">The MR showed a lesion in the ventral subcortical 
+            (diencephalons) region of the brain. The lesion was not typical for 
+            a tumor nor for a pyogranulomatous lesion seen with infectious or 
+            granulomatous diseases. Cerebral edema was present.</p>
+          <p class="bodycopy">The likely cause of the sudden onset of neurologic 
+            signs and the lesion found on MR was found the next day when a cuterebra 
+            was found migrating in the tissues in the mouth.</p>
+          <blockquote> 
+            <p class="bodycopy"><a href="imaging.html">(click here to learn more 
+              about our Specialty Imaging Services) </a></p>
+          </blockquote>
+        </blockquote>
+        <p class="subheads"><a name="oncology"></a>Oncology</p>
+        <p class="bodycopy"><strong><img src="images/Comet-Photo2.jpg" width="300" height="375" hspace="12" vspace="12" align="left"></strong> 
+        </p>
+        <blockquote> 
+          <blockquote> 
+            <blockquote> 
+              <p class="bodycopy"><strong>“Comet”</strong></p>
+            </blockquote>
+          </blockquote>
+          <p class="bodycopy">Comet is a 7-year-old Labrador retriever. At the 
+            beginning of February 2007, Comet began having choking episodes and 
+            coughing. He was taken to his veterinary office, where a physical 
+            examination revealed enlarged lymph nodes in multiple locations. A 
+            fine needle aspirate on one of the lymph nodes was taken. This sample 
+            was consistent with high-grade lymphoma. </p>
+          <p class="bodycopy">Lymphoma is a relatively common cancer in dogs. 
+            It is a cancer of lymphocytes (a type of white blood cell) and lymphoid 
+            tissues. Lymphoid tissue is normally present in many places in the 
+            body, including lymph nodes, spleen, liver, digestive tract and bone 
+            marrow. In most cases, we cannot tell what causes lymphoma. The most 
+            common form is involvement of one or more of the external lymph nodes 
+            similar to what Comet had. Many dogs may not feel sick or may have 
+            only very mild signs such as tiredness or decreased appetite. Other 
+            dogs may have more severe signs such as weight loss, vomiting, diarrhea, 
+            excessive thirst or urination, weakness, or difficulty breathing. 
+            The severity of the signs depends upon the extent of the disease and 
+            on whether the cancer has caused changes in organ function. Often, 
+            the only noticeable sign is an enlargement of the lymph nodes under 
+            the neck, behind the knees or in front of the shoulders. Other organs, 
+            such as the liver, spleen and bone marrow can be involved as well. 
+          </p>
+          <p class="bodycopy">Chemotherapy is the mainstay of treatment for lymphoma. 
+            Lymphoma is very sensitive to chemotherapy, and up to 90% of dogs 
+            treated will go into remission when our most effective treatment protocols 
+            are used. The definition of remission is the complete disappearance 
+            of all signs of cancer. A remission is NOT a cure but it does allow 
+            pets to experience a good quality of life. It is important to remember 
+            this because chemotherapy should not be discontinued as soon as a 
+            remission is achieved. The length of remission depends upon many factors 
+            including the primary site, how sick an animal is at the start of 
+            treatment, blood calcium level, and the extent of disease. For those 
+            dogs, like Comet, that have the most common type (external lymph nodes 
+            enlarged) and are treated with the most effective treatment protocol, 
+            the average survival time is about 12-14 months; approximately 25% 
+            of dogs may live longer than 2 years. Unfortunately without treatment, 
+            most dogs will succumb to their disease within 4-6 weeks. </p>
+          <p class="bodycopy">Compared to people receiving chemotherapy, pets 
+            experience fewer and less severe side effects. because we use lower 
+            doses of drugs and do not combine as many drugs as in human patients. 
+            The normal tissues that are most sensitive to chemotherapy are the 
+            intestinal lining, the bone marrow (which makes new blood cells), 
+            and hair follicles. Toxic effects to the digestive tract are responsible 
+            for decreased appetite, vomiting, and diarrhea. In most cases, these 
+            signs are mild and usually resolve on their own or with oral medication 
+            given at home. We seldom see severe side effects; it is estimated 
+            to be less than 5% of all pets receiving chemotherapy will have a 
+            side effect requiring hospitalization. </p>
+          <p class="bodycopy">After discussing options for treatment, Comet’s 
+            owner elected to begin therapy with chemotherapy. Comet’s treatment 
+            will consist of 4 cycles of a combination of chemotherapy medications. 
+            During the first phase of his treatment (called induction), Comet 
+            will get four weekly treatments followed by one week off. This is 
+            repeated for another 4 weekly treatments and then Comet will go to 
+            every other week therapy.</p>
+          <p class="bodycopy">Comet was given his first dose of chemotherapy on 
+            March 2, 2007.</p>
+          <p class="bodycopy">Update:<br>
+            3/8/2007 - Comet returned today for his second dose of chemotherapy. 
+            He is feeling great and his cough is much improved. His lymph nodes 
+            are much smaller as well, his appetite is good, and his weight is 
+            stable. </p>
+          <p class="bodycopy"><img src="images/Weighing-Comet.gif" width="350" height="462"></p>
+          <p class="bodycopy">4/10/2007 – Comet’s lymph nodes are 
+            no longer enlarged!! He is in complete remission for his lymphoma!! 
+            He is feeling great! </p>
+          <p class="bodycopy"><img src="images/Katie-at-Scope.gif" width="350" height="438"></p>
+          <p class="bodycopy">4/24/07 – Comet was given his last weekly 
+            injection today. He will be treated every other week from now on. 
+            He remains in complete remission and is feeling great! </p>
+          <p class="bodycopy"><img src="images/Chemo-Injection.gif" width="350" height="263"></p>
+          </blockquote>
+        <p class="subheads"><a name="oncology_cat" id="oncology_cat"></a>Oncology</p>
+        <blockquote> 
+          <p class="bodycopy"><strong><img src="images/nucat.gif" width="297" height="198" hspace="12" vspace="12" align="left"></strong> 
+          </p>
+          <p class="bodycopy"><strong>“Taj”<br>
+            A Wonderful Cat with Wonderful Owners<br>
+            </strong><strong><span class="bodycopy">A Case of Feline lymphoma</span></strong><br>
+          </p>
+          <p class="bodycopy">Taj is an 18-year-old Maine Coon. Last August he 
+            presented to the Animal Emergency Center emergency service for fever, 
+            lethargy, weight loss and difficulty using his hind legs. A physical 
+            examination revealed that Taj was thin (6 1/2 lbs). He had a fever 
+            (Temp = 104 F: normal = 101.5 F), was dehydrated, and had difficulty 
+            walking on his rear legs. Taj was admitted to the hospital for intravenous 
+            fluids to help correct his dehydration and help to lower his temperature. 
+            Basic diagnostic tests were preformed to try to identify the cause 
+            of Taj's illness. Blood work revealed a mild anemia and a mild elevation 
+            in kidney enzymes. A urine sample contained bacteria indicating Taj 
+            had a urinary tract infection. Taj was started on intravenous antibiotics. 
+            After one night in the hospital, Taj's temperature was normal and 
+            he was eating again on his own. He was discharged with oral antibiotics 
+            and scheduled to recheck in a few days. </p>
+          <p class="bodycopy">Taj returned the following evening, now with vomiting 
+            and diarrhea. His temperature was normal at presentation but he was 
+            again dehydrated and lethargic. Repeated blood work showed that the 
+            kidney values were more elevated and his anemia had gotten worse. 
+            The owners allowed more advanced diagnostics. An abdominal ultrasound 
+            was performed to evaluate Taj's kidneys and other organs in his abdomen. 
+            The ultrasound showed that Taj's kidneys were smaller than normal 
+            indicating some kidney disease, most likely associated with advanced 
+            age. Taj also had some enlarged lymph nodes in his abdomen associated 
+            with his intestines. A needle was placed in some of the lymph nodes 
+            and cells were aspirated for examination under the microscope (cytology). 
+            A consultation was obtained with Dr. Rachel Reiman from the oncology 
+            service. </p>
+          <p class="bodycopy">The cells were examined by Dr. Reiman and the diagnosis 
+            of lymphoma (or lymphosarcoma) was made. Lymphoma is one of the most 
+            common cancers diagnosed in cats. It is a cancer of the lymphocytes 
+            (a type of white blood cell) and lymphoid tissues. Lymphoid tissue 
+            is normally present in many places in the body including lymph nodes, 
+            spleen, liver, gastrointestinal tract and bone marrow. Cats of any 
+            age, breed and sex can be affected. </p>
+          <p class="bodycopy">Lymphoma can be divided into several different forms, 
+            which depend upon the predominant location of the tumor (Table 1). 
+            Some cats have multiple sites of involvement and do not fit well into 
+            just one category. </p>
+          <p class="bodycopy">Chemotherapy is the mainstay of treatment for lymphoma. 
+            Lymphoma is very responsive to chemotherapy and up 75% of treated 
+            cats will have the complete disappearance of all signs of cancer (remission). 
+            However, microscopic amounts of tumor cells can remain hidden in the 
+            body. A remission is NOT a cure but it does allow your cat to experience 
+            a good quality of life. Because of this, chemotherapy should not be 
+            discontinued as soon as remission is obtained. The length of remission 
+            depends upon many factors, including the primary site, the degree 
+            of illness at the start of treatment, FeLV status, and the extent 
+            of disease. </p>
+          <p class="bodycopy">Most cats tolerate their chemotherapy well with 
+            minimal side effects. Serious side effects are seen in less than 5% 
+            of the cats treated. Side effects might include nausea, vomiting and 
+            loss of appetite, diarrhea, tiredness or infection. If side-effects 
+            are serious or intolerable, steps will be taken to eliminate or reduce 
+            these effects to a tolerable level. Cats do not lose their hair, but 
+            may lose their whiskers and develop a different texture to their fur. 
+          </p>
+          <p class="bodycopy">Taj had the gastrointestinal form of lymphoma. Without 
+            treatment most cats will succumb to this disease rapidly. They will 
+            often continue to lose weight, stop eating or have worsening vomiting 
+            and/or diarrhea. Taj's owner elected to begin chemotherapy treatments 
+            with the oncology team. Taj had a high-grade form of lymphoma so a 
+            more aggressive chemotherapy protocol was needed. Taj was given weekly 
+            injections of chemotherapy drugs for the first 8 weeks, and then he 
+            was given injections every other week. Taj seemed to handle these 
+            treatments fairly well with only a few episodes of vomiting and anorexia. 
+            Throughout treatment, Taj gained weight very slowly. In the first 
+            month of treatment he went up to seven pounds. He seemed to hover 
+            in this range for most of his treatment. </p>
+          <p class="bodycopy">Taj finished chemotherapy on May 4th, 2006. He comes 
+            in for periodic rechecks and remains in complete remission. He is 
+            now up to 8 pounds! </p>
+          <table width="600" border="3" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><p><span class="bodycopy"><strong><font size="3">Table 1. Different 
+                  Forms of Lymphoma According to Location</font></strong></span></p>
+                <ul>
+                  <li><span class="bodycopy">Digestive tract (Gastrointestinal): 
+                    This is the most common form of lymphoma in cats. The digestive 
+                    tract includes the stomach, intestines and liver as well as 
+                    some of the lymph nodes surrounding the intestines. Cats with 
+                    this type of lymphoma may have vomiting, diarrhea, weight 
+                    loss or a decreased appetite. </span> </li>
+                  <li><span class="bodycopy">Mediastinal: The mediastinum is a 
+                    term used for a special group of lymph nodes in the chest. 
+                    Cats with this type of lymphoma are usually younger and infected 
+                    with Feline Leukemia Virus (FeLV). Symptoms include difficulty 
+                    breathing due to a large mass in the chest or an accumulation 
+                    of fluid around the lungs. </span></li>
+                  <li><span class="bodycopy">Kidney: The kidneys may be the primary 
+                    site of involvement. Cats that have this type are often seen 
+                    because of signs related to kidney failure (increased thirst, 
+                    increased urination, loss of appetite, vomiting). </span></li>
+                  <li><span class="bodycopy">Bone marrow: If the cancer is confined 
+                    to the bone marrow, we call this leukemia. The signs that 
+                    we see in cats are usually related to the decreased numbers 
+                    of normal cells (such as red blood cells that carry oxygen, 
+                    white blood cells that fight infection and platelets that 
+                    help with clotting) which are made in the bone marrow. </span></li>
+                  <li><span class="bodycopy">External lymph nodes: These cats 
+                    may be seen because the owner notes "lumps" (enlarged 
+                    lymph nodes) on their cat. </span></li>
+                  <li><span class="bodycopy">Other sites: Other sites such as 
+                    the skin, nose, brain, and spinal cord as the primary site 
+                    of involvement. </span></li>
+                </ul></td>
+            </tr>
+          </tbody></table>
+          <br>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td width="43%"><div align="center"><img src="images/cells.gif" width="205" height="205"></div></td>
+              <td width="57%"><div align="center"><img src="images/Reiman%20001.jpg" width="300" height="225"></div></td>
+            </tr>
+            <tr valign="top"> 
+              <td class="bodycopy"><div align="center"><strong><font face="Arial, Helvetica, sans-serif"><em>The 
+                  type of large lymphoblastic cells found in <br>
+                  Taj’s lymph nodes, indicating lymphoma.</em></font></strong></div></td>
+              <td><div align="center"><span class="bodycopy"><em>The Oncology 
+                  Team and Taj<br>
+                  Katie Bratberg, oncology nurse (left)<br>
+                  Dr. Rachel Reiman (right)<br>
+                  <strong> </strong></em></span> </div></td>
+            </tr>
+          </tbody></table>
+          <blockquote> 
+            <p class="bodycopy"><a href="oncology.html">(click here to learn more 
+              about our Specialty Oncology Services)</a></p>
+          </blockquote>
+          <p class="bodycopy">&nbsp; </p>
+        </blockquote>
+        <p class="subheads"><a name="surgery"></a>Surgery </p>
+        <blockquote> 
+          <p class="bodycopy"><strong><span class="style22">Case Study</span>: 
+            External Skeletal Fixator</strong></p>
+          <table width="181" border="0" align="right" cellpadding="7" cellspacing="0">
+            <tbody><tr> 
+              <td><span class="bodycopy"><img src="images/kody.jpg" width="206" height="274" hspace="12" vspace="12"></span></td>
+            </tr>
+            <tr> 
+              <td class="bodycopy"><div align="center"><em>Kody shortly before 
+                  his<br>
+                  external fixator was removed. </em></div></td>
+            </tr>
+            <tr> 
+              <td><img src="images/kody_arm_01.jpg" width="181" height="352" hspace="12" vspace="12"></td>
+            </tr>
+            <tr> 
+              <td><span class="bodycopy"><em>Radiograph (also know as an x-ray) 
+                of Kody’s broken leg. The radius and ulna are both broken 
+                in the forearm, just above his carpus (wrist). </em></span><span class="bodycopy"><em>The 
+                yellow arrow identifies the fractures</em></span><br> </td>
+            </tr>
+          </tbody></table>
+          <p class="bodycopy">Kody is a two year old Husky. This spring, he was 
+            hit by a car, sustaining a broken forearm and multiple abrasions to 
+            the skin. The skin was open at the fracture, increasing the chances 
+            of infection after surgery because of bacterial contamination.</p>
+          <p class="bodycopy">Kody had an external skeletal fixator placed on 
+            his forelimb to stabilize the fractured bones. An external fixator 
+            allows stabilization of the fracture without placing permanent implants 
+            in the limb. Pins and wires are placed through the bone and connect 
+            to a frame outside the limb. </p>
+          <p class="bodycopy">As Kody's bone healed, his owners provided daily 
+            wound care to the sites where pins and wires exited the skin. The 
+            external fixator was bandaged to prevent Kody from catching it on 
+            furniture and to prevent him from hitting people and objects with 
+            his fixator. Restricting his exercise was hard, but Kody's owners 
+            did a great job of limiting his activity to help his bones heal.<br>
+            Kody did develop minor pin tract infections which were managed with 
+            antibiotic therapy. As his bone grew stronger some of the pins and 
+            wires were removed from Kody's leg. This procedure is not painful 
+            and Kody tolerated pin removal without any medication.</p>
+          <p class="bodycopy"><strong>After 8 weeks, Kody's external fixator is 
+            coming off!</strong></p>
+          <p class="bodycopy">Kody's bones will continue to strengthen as the 
+            fracture site remodels. Restricted exercise for the next 4-6 weeks 
+            is still important after the external fixator is removed to allow 
+            the bone to adapt back to life without the external fixator.</p>
+          <table width="300" height="390" border="0" cellpadding="7" cellspacing="0">
+            <tbody><tr> 
+              <td width="139" height="198"><div align="center"><img src="images/kody_fixator_plate.jpg" width="137" height="236"></div></td>
+              <td width="133"><img src="images/kody_fixator_plate02.jpg" width="137" height="236"></td>
+            </tr>
+            <tr valign="top" class="bodycopy"> 
+              <td height="140"><em>Here is a radiograph of Kody’s leg with 
+                the external fixator in place.</em><em><br>
+                </em></td>
+              <td><em>Kody’s leg with the external fixator before it was 
+                removed. Note there is a pin missing from the radiograph above.</em></td>
+            </tr>
+          </tbody></table>
+          <blockquote> 
+            <p><span class="bodycopy"><a href="surgery.html">(click here to learn 
+              more about our Specialty Surgery Services)</a></span></p>
+          </blockquote>
+          <p class="bodycopy">&nbsp;</p>
+          <p class="bodycopy">&nbsp;</p>
+        </blockquote>
+      </blockquote>
+    <!-- InstanceEndEditable --></td>
+    <td width="20" bgcolor="#FFFFFF"><img src="images/whitedot.gif" width="20" height="20"></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#CC0000"><div align="center"><span class="style14 style20">2100 
+        W. Silver Spring Drive | Glendale, WI 53209 | 1.414.540.6710 | </span><span class="style14 style17">© 
+        200</span><span class="style19">8 Animal Emergency Center</span><span class="style15"><font color="#cccccc"><br>
+        </font></span></div></td>
+  </tr>
+</tbody></table>
+<map name="Map">
+  <area shape="rect" coords="4,4,199,31" href="index.html">
+</map>
+
+
+</body><!-- InstanceEnd --></html>

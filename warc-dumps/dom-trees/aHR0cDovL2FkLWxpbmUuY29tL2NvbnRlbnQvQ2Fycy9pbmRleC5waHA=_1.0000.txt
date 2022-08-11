@@ -1,0 +1,297 @@
+<html><head>
+  <title>Cars Information and Resources</title>
+</head>
+<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" marginheight="0" marginwidth="0" bgcolor="#ffffff">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="topbkg1-1.jpg">
+  <tbody>
+    <tr>
+      <td width="50%" style="text-align: center;">
+      
+<!-- Search Google -->
+<center><br>
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table bgcolor="#ffffff">
+<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
+<a href="http://www.google.com/">
+<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a>
+<input type="text" name="q" size="20" maxlength="255" value="">
+<input type="submit" name="sa" value="Search">
+<input type="hidden" name="client" value="pub-2596616149848207">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="cof" value="GALT:#003324;GL:1;DIV:#66CC99;VLC:FF6600;AH:center;BGC:C5DBCF;LBGC:73B59C;ALC:000000;LC:000000;T:330033;GFNT:333300;GIMP:333300;FORID:1;">
+<input type="hidden" name="hl" value="en">
+</td></tr></tbody></table>
+</form>
+</center>
+<!-- Search Google -->
+
+<br>
+      </td>
+      <td width="50%" valign="top" style="text-align: center;">
+      <p>
+<!-- BANNER -->
+<br><!-- START OF SCRIPT -->
+<script language="JavaScript">
+
+image = new Array(3);
+link = new Array(3);
+image[0] = 'http://www.ad-line.com/banners/maximumblog.GIF'
+image[1] = 'http://www.auctiongeneral.com/auction-images/logo.jpg'
+image[2] = 'http://www.southernhomefinder.com/myimages/shfbanner1.gif'
+image[3] = 'http://www.ad-line.com/banners/maximumblog.GIF'
+image[4] = 'http://www.ad-line.com/banners/Travanation2.jpg'
+image[5] = 'http://www.ad-line.com/banners/adbanner.GIF'
+image[6] = 'http://www.auctiongeneral.com/auction-images/logo.jpg'
+
+link[0] = 'http://www.maximumblog.com target="new"'
+link[1] = 'http://www.auctiongeneral.com target="new"'
+link[2] = 'http://www.southernhomefinder.com target="new"'
+link[3] = 'http://www.maximumblog.com target="new"'
+link[4] = 'http://www.travanation.com target="new"'
+link[5] = 'http://www.ad-line.com target="new"'
+link[6] = 'http://www.auctiongeneral.com target="new"'
+
+index = Math.floor(Math.random() * image.length);
+document.write("<DL>\n");
+document.write("<A HREF="+link[index]+">");
+document.write("<IMG SRC="+image[index]+"></A>");
+document.write("</DL>\n");
+</script>
+<!-- END OF SCRIPT -->
+
+<!-- BANNER -->      
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="1%" background="sidebkg2.jpg" valign="top"><br>
+
+<center>
+<span style="font-family: arial;">
+<a href="index.php"><font face="Arial" color="#000066"><b>HOME PAGE</b></font></a><br><br>
+<a href=".xml"><img src="xml.gif" border="0"></a> 
+<a href="Google_Sitemap.xml"><img src="rss.gif" border="0"></a>
+
+</span></center>
+      <br>
+      <img border="0" src="sidebkg.jpg" width="122" height="13"><br>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2596616149848207";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "000066";
+google_color_bg = "FFFFFF";
+google_color_link = "000099";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+      <p>&nbsp;</p>
+      <p>&nbsp; </p>
+      </td>
+      <td width="98%" valign="top">
+      <div style="text-align: center;"> </div>
+      <blockquote>
+        <div style="text-align: center;"> </div>
+        <p style="text-align: center;">   
+        
+<!-- WIDE BANNER --></p><p></p><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-2596616149848207";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+<!-- WIDE BANNER -->
+
+   
+        <br>
+        <p></p>
+        <span style="font-family: arial;">
+        
+<!-- SITE CONTENT -->
+
+<a href="
+3-Hot-Sports-Cars.php"><font face="Arial" color="#000066"><b>
+3 Hot Sports Cars</b></font></a>
+The muscle car era of old is long gone, but in its place are a pack of “modern marvels” that can tear up any track! The Mercedes SLR McLaren, Porsche 911 Turbo S Cabriolet, and the Nissan Z350, are all hot performers in their own right. The first...<br><br>
+
+<a href="
+A-Cars-HVAC-System.php"><font face="Arial" color="#000066"><b>
+A Cars HVAC System</b></font></a>
+Not only do we depend on our cars to get us where we want to go, we also depend on them to get us there without discomfort. We expect the heater to keep us warm when it's cold outside, and the air conditioning system to keep us cool when it's hot. ...<br><br>
+
+<a href="
+A-Review-of-Alamo-Rental-Cars.php"><font face="Arial" color="#000066"><b>
+A Review of Alamo Rental Cars</b></font></a>
+Many people are in need of rental cars. This can be for dozens of reasons. Some people need 
+rental cars because they are on vacation or traveling. Other people need a rental car because their 
+car is being repaired. Some people just need rental...<br><br>
+
+<a href="
+Airbag-SDM-Black-Box-Crash-Data-Retrieval-Information-for-GM-Cars.php"><font face="Arial" color="#000066"><b>
+Airbag SDM ' Black Box ' Crash Data Retrieval Information for GM Cars </b></font></a>
+The benefit of retrieving data from flight data recorder using the Black Box was only available to airlines for many years. This invaluable instrument, which helps determine what happened in the critical time before a crash, is now available as...<br><br>
+
+<a href="
+Buying-new-vs-used-cars.php"><font face="Arial" color="#000066"><b>
+Buying new vs. used cars.</b></font></a>
+ New vs used. Which car is right for you? Consider the following.  Owning a brand new car is exciting. But financially speaking, it makes more sense to buy a used car. As soon as you drive a new car off the lot, it loses a great portion of its...<br><br>
+
+<a href="
+Buying-Used-Cars-Top-10-Dealership-Scams.php"><font face="Arial" color="#000066"><b>
+Buying Used Cars - Top 10 Dealership Scams </b></font></a>
+Top 5 Dealership Scams: 
+1. The VIN# window etching scam 
+Basically a dealer will charge you $300-$900 for
+window etching and they will tell you that you
+have to pay the money to get the loan because the
+banks insists on it. 
+Some dealers might tell...<br><br>
+
+<a href="
+Caring-For-Your-Cars-Brakes-and-Rotors.php"><font face="Arial" color="#000066"><b>
+Caring For Your Car's Brakes and Rotors</b></font></a>
+Having properly functioning brakes on your car is a must. Without working brakes, the front of your car will soon be attached to the car ahead of you, to a fence, to a tree or, God forbid, on top of a pedestrian. Regular brake inspections are...<br><br>
+
+<a href="
+Cool-Cars-What-is-Hot-and-What-is-Not.php"><font face="Arial" color="#000066"><b>
+Cool Cars - What is Hot and What is Not!</b></font></a>
+What is at the heart of cool cars everywhere? Is it the speed they can travel at? Is it the thought of the wind brushing your hair? If it's the latter, then you have a soft top (convertible), or someone's pinched your roof! 
+Well, it could be...<br><br>
+
+<a href="
+Cooling-System-How-It-Affects-Your-Mazda-Cars-Performance.php"><font face="Arial" color="#000066"><b>
+Cooling System: How It Affects Your Mazda Car’s Performance</b></font></a>
+Just like human beings, the car needs to dissipate heat in order to avoid overheating and exhaustion. During combustion, the engine produces large amount of heat—about 4,000 degrees Fahrenheit. This is too much for the engine to bear so a cooling...<br><br>
+
+<a href="
+Do-You-Want-to-Increase-Your-Cars-Resale-Value-Heres-How.php"><font face="Arial" color="#000066"><b>
+Do You Want to Increase Your Car's Resale Value? Here's How!</b></font></a>
+If you are planning to resell your car in the future and buy a new and more advanced model, then you have to exert more effort in keeping it in good shape and excellent driving condition. Even if it's already old, you can sell it at high price if it...<br><br>
+
+<a href="
+Formula-One-Cars-Unsurpassed-Technology-at-Its-Finest.php"><font face="Arial" color="#000066"><b>
+Formula One Cars - Unsurpassed Technology at Its Finest</b></font></a>
+Formula One Racing is, quite simply, the paramount of karting. It is the professional form of the sport in its entirety. Formula One is an international phenomenon, a media conglomerate that rakes in millions and millions of dollars a year from...<br><br>
+
+<a href="
+How-to-Change-Your-Cars-Motor-Oil.php"><font face="Arial" color="#000066"><b>
+How to Change Your Car's Motor Oil</b></font></a>
+   First, let's answer the question; Why should you change your own oil? Because you can save time and money. You don't have to wait in line at the service garage or quick oil change shop. For ten bucks you can get the best oil and a brand new oil...<br><br>
+
+<a href="
+How-To-Make-Money-With-Used-Cars.php"><font face="Arial" color="#000066"><b>
+How To Make Money With Used Cars!</b></font></a>
+   One of the most important purchases consumers make is a car. The average consumer purchases another car every several years.  With the High Cost of new cars millions of people are opting to purchase affordable used cars.    There is a Massive...<br><br>
+
+<a href="
+How-To-Repair-Your-Cars-Power-Windows.php"><font face="Arial" color="#000066"><b>
+How To Repair Your Car's Power Windows</b></font></a>
+ As you’re driving down the turnpike and approaching the tollbooth, you reach for the switch to lower your window and nothing happens. The switch moves but the window does not budge. Not even a noise from the window motor can be heard which strongly...<br><br>
+
+<a href="
+Hybrid-cars-with-250-mpg-fuel-mileage.php"><font face="Arial" color="#000066"><b>
+Hybrid cars with 250 mpg fuel mileage</b></font></a>
+Hybrid cars with 250 mpg fuel mileage  Is it possible to have 250-mpg mileage with hybrid cars? Yes, Bellevue auto visionaries’ thinks so. The people owning Toyota Prius and Honda hybrid cars are eyeing for an mpg of 40 to 50 then how a automaker...<br><br>
+
+<a href="
+Hydrogen-Cars-Are-Not-All-Hot-Air.php"><font face="Arial" color="#000066"><b>
+Hydrogen Cars Are Not All Hot Air</b></font></a>
+Ever hear of hydrogen cars? This new breed of cars being developed far exceeds the current gasoline-electric hybrid cars as far as cleaning up the environment and lessening the U. S. dependence upon foreign oil. Automakers expect to have hydrogen...<br><br>
+
+<a href="
+In-the-Nick-of-Time-Your-Cars-Serpentine-Belt.php"><font face="Arial" color="#000066"><b>
+In the Nick of Time: Your Car’s Serpentine Belt</b></font></a>
+Drive by any car lot in the United States and ask to see the latest hybrid car models. Don’t be stupefied if eight out of ten tell you that they can’t seem to keep them on the lot—that they’re just selling too fast! There is reasoning behind the...<br><br>
+
+<a href="
+Interference-engines-the-sleeping-time-bomb-in-new-cars.php"><font face="Arial" color="#000066"><b>
+Interference engines....the sleeping time bomb in new cars</b></font></a>
+Interference Engines  Interference Engines: ……..Free Useful information  When buying a used car always insist on determining if the vehicle has a rubber timing-belt. Be aware that about five years ago an International Oil Company did a follow up on...<br><br>
+
+<a href="
+Lemon-Laws-for-Used-Cars-are-Just-Around-the-Corner.php"><font face="Arial" color="#000066"><b>
+Lemon Laws for Used Cars are Just Around the Corner</b></font></a>
+ In 1982, California became the first state to pass an automobile “lemon law” which gave owners of defective cars the opportunity to seek a replacement or a refund for a new car that had a defect that could not be repaired in a reasonable amount of...<br><br>
+
+<a href="
+Performance-Computer-Chips-For-Cars-And-Trucks.php"><font face="Arial" color="#000066"><b>
+Performance Computer Chips For Cars And Trucks</b></font></a>
+Hey, look under the hood!  It’s a bird!  It’s a plane!  It’s SUPERCHIP!  With apologies to Superman, performance computer chips or superchips are quickly becoming a popular way for auto enthusiasts to squeeze out more power from their cars....<br><br>
+
+<a href="
+index2.php"><font face="Arial" color="#000066"><b>Next</b></font></a><br><br>
+<p>
+
+<!-- SITE CONTENT -->        
+        
+        </p></span></blockquote>
+      <br>
+      <p align="center"><font face="Arial" size="1"><br>
+      </font></p>
+      </td>
+      <td width="1%" background="leftsidebkg2.jpg" valign="top">
+      <p align="right"> <img border="0" src="leftsidebkg2.jpg" width="95" height="2"></p>
+            
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table border="0" width="100%" bgcolor="#000080" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="100%">
+
+<!-- WIDE BANNER --><p></p><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-2596616149848207";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "#000080";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+<!-- WIDE BANNER -->
+      
+      
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+</body></html>

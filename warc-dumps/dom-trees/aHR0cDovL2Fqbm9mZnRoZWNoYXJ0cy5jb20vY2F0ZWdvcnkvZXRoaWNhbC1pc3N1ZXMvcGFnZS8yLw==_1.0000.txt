@@ -1,0 +1,705 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ethical issues « Off the Charts</title>
+	
+
+	<link rel="stylesheet" href="http://s2.wp.com/wp-content/themes/pub/neat/style.css?m=1274400606g&amp;1" type="text/css" media="screen">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://ajnoffthecharts.com/feed/">
+	<link rel="pingback" href="http://ajnoffthecharts.com/xmlrpc.php">
+
+	<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_badge_uber_wrapper {width:150px;}
+#flickr_www {display:block; text-align:center; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+		<script src="http://wordpress.com/remote-login.php?action=js&amp;host=ajnoffthecharts.com&amp;id=6547425&amp;t=1284709970&amp;back=ajnoffthecharts.com%2Fcategory%2Fethical-issues%2Fpage%2F2%2F" type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="Off the Charts » ethical issues Category Feed" href="http://ajnoffthecharts.com/category/ethical-issues/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/h4/global.css?m=1256671583g" type="text/css">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ajnoffthecharts.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ajnoffthecharts.wordpress.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Off the Charts" href="http://ajnoffthecharts.com/">
+<meta name="generator" content="WordPress.com">
+<link rel="shortcut icon" type="image/x-icon" href="http://s1.wp.com/i/favicon-stacked.ico?m=1284002170g" sizes="16x16 24x24 32x32 48x48">
+<link rel="icon" type="image/x-icon" href="http://s1.wp.com/i/favicon-stacked.ico?m=1284002170g" sizes="16x16 24x24 32x32 48x48">
+<link rel="apple-touch-icon" href="http://s0.wp.com/wp-content/themes/h4/i/webclip.png?m=1250548519g">
+	<style type="text/css">
+	/* <![CDATA[ */
+				div#likes { margin-top: 15px; }
+		.like-button { border: 1px solid #eee; padding: 2px 6px; font-size: 13px; font-family: arial, tahoma, sans-serif; }
+		#wpl-likebox { clear: left; font-size: 11px; font-family: arial, tahoma, verdana, sans-serif !important; min-height: 30px; margin: 10px 0 !important; padding: 5px 0 10px 0 !important; }
+		#wpl-button { float: left; background: url( /i/buttonbg.png ) top left repeat-x; margin-right: 7px; border: 1px solid #d4d4d4; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+		#wpl-button a { color: #666 !important; line-height: 130% !important; text-decoration: none !important; outline: none; float: left; padding: 3px 6px 2px 24px !important; font-size: 11px !important; background: url( /i/likestar.png ) 6px 49.8% no-repeat; }
+		#wpl-button.liked { background: #feffce; border: 1px solid #f3e389; }
+		#wpl-button.liked a { color: #ba871b !important; }
+		#wpl-likebox #wpl-count { min-height: 25px; line-height: 130% !important; float: left; padding-top: 4px; }
+		#wpl-likebox #wpl-avatars { clear: left; max-height: 98px; overflow: hidden; margin-top: 15px; line-height: 130% !important; }
+		#wpl-likebox #wpl-avatars img { border: none !important; }
+	/* ]]> */
+	</style>
+	<link rel="openid.server" href="http://ajnoffthecharts.wordpress.com/?openidserver=1">
+<link rel="openid.delegate" href="http://ajnoffthecharts.wordpress.com/">
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com">
+<link rel="search" type="application/opensearchdescription+xml" href="http://ajnoffthecharts.com/osd.xml" title="Off the Charts">
+<style type="text/css">
+#header {
+	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	text-align: left;
+	background: url(http://ajnoffthecharts.files.wordpress.com/2009/02/rbanner700x20022.jpg);
+ 	width: 700px;
+ 	height: 200px;
+	margin: 0px;
+}
+#header * {
+	display: none;
+}
+</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding: 0 !important;margin: 0 !important;}</style>
+<meta name="application-name" content="Off the Charts"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="American Journal of Nursing blog"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://ajnoffthecharts.com/feed/;icon-uri=http://s1.wp.com/i/favicon-stacked.ico"><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><link rel="stylesheet" href="http://ajnoffthecharts.wordpress.com/wp-content/mu-plugins/sharing/sharing.css?v=0.3" type="text/css">
+<script defer="defer" id="snap_preview_anywhere" type="text/javascript" src="http://spa.snap.com/snap_preview_anywhere.js?ap=0&amp;si=1&amp;sb=1&amp;key=e5a3c1e6dff5de35b1c6e7c470411886&amp;domain=&amp;fl=wordpress&amp;pub=pub-2311827-www.wordpress.com&amp;es=all&amp;lang=en"></script>
+
+</head>
+<body>
+<br><br><br>
+<div id="page">
+
+<div id="header" onclick="location.href='http://ajnoffthecharts.com';" style="cursor: pointer;">
+    <h1><a href="http://ajnoffthecharts.com">Off the Charts</a></h1>
+    <div class="description">American Journal of Nursing blog</div>
+</div>
+
+	<div id="content">
+
+		
+		 			<h2 class="pagetitle">Archive for the ‘ethical issues’ Category</h2>
+
+	
+
+		<div class="navigation">
+			<div class="alignleft"><a href="http://ajnoffthecharts.com/category/ethical-issues/">« Newer Entries</a></div>
+			<div class="alignright"><a href="http://ajnoffthecharts.com/category/ethical-issues/page/3/">Older Entries »</a></div>
+		</div>
+
+				<div class="post-4321 post type-post hentry category-shawn-kennedy-ajn-interim-editor-in-chief category-advocacypolitical-action category-ethical-issues category-legal-issues category-nursing-perspective category-patient-safety category-professional-identity tag-ethics tag-mortality tag-nebr tag-nurses-strike tag-temple-university-hospital">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-4321"><a href="http://ajnoffthecharts.com/2010/04/16/are-nursing-strikes-ethical-new-research-raises-the-stakes/" rel="bookmark" title="Permanent Link to Are Nursing Strikes Ethical? New Research Raises the&nbsp;Stakes">Are Nursing Strikes Ethical? New Research Raises the&nbsp;Stakes</a></h2>
+				<small>April 16, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><p><em>By Shawn Kennedy, MA, RN, </em>AJN<em> interim editor-in-chief</em></p>
+<div id="attachment_4324" class="wp-caption alignleft" style="width: 160px"><a href="http://www.flickr.com/photos/love4loaded/3023677803/"><img class="size-thumbnail wp-image-4324" title="ToughDecision" src="http://ajnoffthecharts.files.wordpress.com/2010/04/toughdecision.jpg?w=150&amp;h=100" alt="" width="150" height="100"></a><p class="wp-caption-text">Tough Decision/by love4loaded, via Flickr </p></div>
+<p><strong>Nurses at Temple University Hospital in Philadelphia</strong> have been <a href="http://www.kyw1060.com/Mediator-Calls-Nurses--Temple-Hosp--Back-to-Table/6812635">on strike</a> since March 31st over a number of issues including wages, health benefits,&nbsp;and a “gag order” that could prohibit nurses from speaking out against the hospital. Nurses walking picket lines is not a new phenomenon. What <em>is</em> new is research showing that patients suffer harm when nurses strike.</p>
+<p>In March, <a href="http://www.nber.org/papers/w15855.pdf">a paper</a> (subscription only) published by the <a href="http://www.nber.org/">National Bureau of Economic Research</a> provided some evidence that nurses’ strikes have harmful effects on patients. The authors analyzed strikes (in all, 50 strikes in 43 hospitals) in New York State over a 20-year period and looked at what happens to inpatient mortality rates and 30-day readmission rates for patients admitted during a strike. They found that inpatient hospital mortality increased by 19.4% and that readmission within 30 days increased by 6.5%. The researchers asked, “Is this because [patients] receive less care, or because they receive worse care?”<strong><em> </em></strong>And, in an analysis to see if the results were different in strikes where management hired replacement workers, it showed they were not—outcomes were still worse.</p>
+<p><strong>These findings really shouldn’t come as a surprise.</strong> How can care be safe when there are fewer nurses than the normal levels (which often are already less than adequate for providing optimum care)? How can care be safe when replacement nurses—whether newly hired or shifted from other positions—are plopped onto units with little time to get to know the patient or families? (This is the “nurse-is-a-nurse-is-a-nurse” concept—also known as the “just send me a warm body” approach.)</p>
+<p>So now I wonder: will employers at hospitals where nurses strike try to make nurses the “bad guys,” claiming striking nurses have no regard for patients or are failing to follow the professional code? This has been the argument that has stopped nurses from striking for years and is still the reason many nurses will cross a picket line or not join a union.</p>
+<p><strong>But the alternative question is this:</strong> is it better to take a stand now to change the status quo so that, ultimately, patient care and working conditions and staffing improve—and thus, in the long run, more patients get better care? It’s a question I’ve always struggled with. I have been fortunate in that I’ve not worked in a facility during a labor dispute—but that’s perhaps because the state nurses’ association that negotiated our contracts did a good job and I was a recipient of others’ hard work and hard choices.</p>
+<p><strong>What about you?<em> </em>Would you strike now for better conditions in the future, or would you cross the line to provide care for the patients already there?</strong><!-- AddThis Button BEGIN --><br>
+<!-- var addthis_pub="jacob7767"; // --><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/shawn-kennedy-ajn-interim-editor-in-chief/" title="View all posts in Shawn Kennedy, AJN interim editor-in-chief" rel="category tag">Shawn Kennedy, AJN interim editor-in-chief</a>, <a href="http://en.wordpress.com/tag/advocacypolitical-action/" title="View all posts in advocacy/political action" rel="category tag">advocacy/political action</a>, <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/legal-issues/" title="View all posts in legal issues" rel="category tag">legal issues</a>, <a href="http://en.wordpress.com/tag/nursing-perspective/" title="View all posts in nursing perspective" rel="category tag">nursing perspective</a>, <a href="http://en.wordpress.com/tag/patient-safety/" title="View all posts in patient safety" rel="category tag">patient safety</a>, <a href="http://en.wordpress.com/tag/professional-identity/" title="View all posts in professional identity" rel="category tag">professional identity</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/ethics/" rel="tag">ethics</a>, <a href="http://en.wordpress.com/tag/mortality/" rel="tag">mortality</a>, <a href="http://en.wordpress.com/tag/nebr/" rel="tag">NEBR</a>, <a href="http://en.wordpress.com/tag/nurses-strike/" rel="tag">nurses strike</a>, <a href="http://en.wordpress.com/tag/temple-university-hospital/" rel="tag">Temple University Hospital</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/04/16/are-nursing-strikes-ethical-new-research-raises-the-stakes/#comments" title="Comment on Are Nursing Strikes Ethical? New Research Raises the&nbsp;Stakes">5 Comments »</a></p> 
+
+			</div>
+	
+				<div class="post-4187 post type-post hentry category-ethical-issues category-nursing-perspective category-nursing-students tag-dementia tag-favoritism tag-long-term-care tag-lpn tag-residents tag-rn">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-4187"><a href="http://ajnoffthecharts.com/2010/03/31/in-long-term-care-whats-favoritism/" rel="bookmark" title="Permanent Link to In Long-Term Care, What’s&nbsp;Favoritism?">In Long-Term Care, What’s&nbsp;Favoritism?</a></h2>
+				<small>March 31, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><p><em>By Sheena Jones, an LPN who is in training to be an RN at Dutchess Community College, Poughkeepsie, NY</em></p>
+<div id="attachment_4188" class="wp-caption alignleft" style="width: 160px"><a href="http://www.flickr.com/photos/eggybird/82241276/"><img class="size-thumbnail wp-image-4188" title="birthdaycake" src="http://ajnoffthecharts.files.wordpress.com/2010/03/birthdaycake.jpg?w=150&amp;h=112" alt="" width="150" height="112"></a><p class="wp-caption-text">Birthday Cake/by Eggybird, via Flickr</p></div>
+<p>Is it really fair when&nbsp;we get&nbsp;the favoritism speech from our superiors when we supply residents who have no family or friends with hygiene supplies? When there are two roommates and one has family and friends who visit daily and bring her all that she could need or want and the other has nothing and no one? Am I wrong for getting a couple&nbsp;of&nbsp;supplies from the dollar store for her? We all know that the hygiene supplies in&nbsp;many facilities are watered down and cheap. Am I wrong for buying someone some socks when they have none? We can’t share supplies or clothing between patients, so do I let someone walk around with nothing? If these people were my family or friends I would want someone to make them comfortable. They can’t leave the facility to go shopping with family or friends, and&nbsp;many of them have lost most of their mental capacity and have no one to help them—but that does not mean that they should walk around less put together than someone with a family? Do we just let these residents go without?<br>
+<!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/nursing-perspective/" title="View all posts in nursing perspective" rel="category tag">nursing perspective</a>, <a href="http://en.wordpress.com/tag/nursing-students/" title="View all posts in nursing students" rel="category tag">nursing students</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/dementia/" rel="tag">dementia</a>, <a href="http://en.wordpress.com/tag/favoritism/" rel="tag">favoritism</a>, <a href="http://en.wordpress.com/tag/long-term-care/" rel="tag">long-term care</a>, <a href="http://en.wordpress.com/tag/lpn/" rel="tag">LPN</a>, <a href="http://en.wordpress.com/tag/residents/" rel="tag">residents</a>, <a href="http://en.wordpress.com/tag/rn/" rel="tag">RN</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/03/31/in-long-term-care-whats-favoritism/#comments" title="Comment on In Long-Term Care, What’s&nbsp;Favoritism?">3 Comments »</a></p> 
+
+			</div>
+	
+				<div class="post-3915 post type-post hentry category-ethical-issues category-health-care-reform tag-government-takeover tag-hcr tag-health-care-reform-summit tag-insurance-premiums">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3915"><a href="http://ajnoffthecharts.com/2010/02/26/the-power-of-no/" rel="bookmark" title="Permanent Link to The Power of&nbsp;No">The Power of&nbsp;No</a></h2>
+				<small>February 26, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><blockquote><p><a href="http://www.nytimes.com/2010/02/26/opinion/26krugman.html?em"><img class="alignleft size-thumbnail wp-image-3916" title="afflictingtheafflicted" src="http://ajnoffthecharts.files.wordpress.com/2010/02/afflictingtheafflicted.png?w=150&amp;h=145" alt="" width="150" height="145"></a>. . . . What really struck me about the meeting, however, was the inability of Republicans to explain how they propose dealing with the issue that, rightly, is at the emotional center of much health care debate: the plight of Americans who suffer from pre-existing medical conditions. In other advanced countries, everyone gets essential care whatever their medical history. But in America, a bout of cancer, an inherited genetic disorder, or even, in some states, having been a victim of domestic violence can make you uninsurable, and thus make adequate health care unaffordable.</p>
+<p>One of the great virtues of the Democratic plan is that it would finally put an end to this unacceptable case of American exceptionalism. But what’s the Republican answer? Mr. Alexander was strangely inarticulate on the matter, saying only that “House Republicans have some ideas about how my friend in Tullahoma can continue to afford insurance for his wife who has had breast cancer.” He offered no clue about what those ideas might be.</p></blockquote>
+<p>That’s from <a href="http://www.nytimes.com/2010/02/26/opinion/26krugman.html?em">“Afflicting the Afflicted,”</a> Paul Krugman’s NY<em> Times</em> column about the health care reform summit that took place yesterday. It really is bewildering that so many elected officials can simply refuse to engage one of the major issues of our time. How can their supporters not begin to wonder at this as they themselves in ever greater numbers go into medical bankruptcy, are forced to choose between basic medications for chronic illnesses, and spend days on end struggling with insurance companies over every simple claim they make? Didn’t any of the naysayers notice the increases in insurance premiums announced this week, for example, with some major plans raising premiums by as much as 35%?</p>
+<p>Nurses: Are your patients’ lives really improving? Are they getting any easier? Don’t they deserve a sincere effort to solve their problems, rather than more posturing designed to win votes in the next election cycle?</p>
+<p><em>-Jacob Molyneux, senior editor/blog editor</em><br>
+<!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/health-care-reform/" title="View all posts in health care reform" rel="category tag">health care reform</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/government-takeover/" rel="tag">government takeover</a>, <a href="http://en.wordpress.com/tag/hcr/" rel="tag">HCR</a>, <a href="http://en.wordpress.com/tag/health-care-reform-summit/" rel="tag">Health Care Reform Summit</a>, <a href="http://en.wordpress.com/tag/insurance-premiums/" rel="tag">insurance premiums</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/02/26/the-power-of-no/#comments" title="Comment on The Power of&nbsp;No">4 Comments »</a></p> 
+
+			</div>
+	
+				<div class="post-3898 post type-post hentry category-ethical-issues category-professional-identity tag-convicted tag-diabetes-educator tag-ethical-dilemma tag-pedophile">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3898"><a href="http://ajnoffthecharts.com/2010/02/24/the-job-description-doesnt-say-you-get-to-choose-your-patients/" rel="bookmark" title="Permanent Link to The Job Description Doesn’t Say You Get to Choose Your&nbsp;Patients">The Job Description Doesn’t Say You Get to Choose Your&nbsp;Patients</a></h2>
+				<small>February 24, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><blockquote><p><a href="http://journals.lww.com/ajnonline/Fulltext/2010/03000/Convicted.30.aspx"><img class="alignleft size-thumbnail wp-image-3899" title="reflections" src="http://ajnoffthecharts.files.wordpress.com/2010/02/reflections.png?w=150&amp;h=110" alt="" width="150" height="110"></a>He was a pedophile, just released from jail after 20 years. His diabetes required two different types of insulin. He had acute renal failure and a recent ileostomy.</p>
+<p>“They didn’t know what to do with him,” the previous nurse said, “so they dumped him on our doorstep.”</p></blockquote>
+<p><!-- AddThis Button BEGIN -->The <a href="http://journals.lww.com/ajnonline/Fulltext/2010/03000/Convicted.30.aspx"><em>Reflections</em> essay </a>in the March issue of <em>AJN</em> tells one nurse’s story of holding fast to her responsibility to provide compassionate and quality care to all patients, whatever they may have done in the past, whoever they might be. We hope you’ll click the link above, read it, and let us know your thoughts (the best version to read is reached by clicking through to the PDF version).</p>
+<p><a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/professional-identity/" title="View all posts in professional identity" rel="category tag">professional identity</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/convicted/" rel="tag">convicted</a>, <a href="http://en.wordpress.com/tag/diabetes-educator/" rel="tag">diabetes educator</a>, <a href="http://en.wordpress.com/tag/ethical-dilemma/" rel="tag">ethical dilemma</a>, <a href="http://en.wordpress.com/tag/pedophile/" rel="tag">pedophile</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/02/24/the-job-description-doesnt-say-you-get-to-choose-your-patients/#comments" title="Comment on The Job Description Doesn’t Say You Get to Choose Your&nbsp;Patients">8 Comments »</a></p> 
+
+			</div>
+	
+				<div class="post-3827 post type-post hentry category-shawn-kennedy-ajn-interim-editor-in-chief category-ethical-issues category-legal-issues tag-whistle-blower tag-whistleblower tag-anne-mitchell tag-nurse-anesthetist tag-scope-of-practice tag-texas-nurse">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3827"><a href="http://ajnoffthecharts.com/2010/02/16/nurses-under-fire-cleared-in-texas-embattled-in-california/" rel="bookmark" title="Permanent Link to Nurses Under Fire: Cleared in Texas, Embattled in&nbsp;California">Nurses Under Fire: Cleared in Texas, Embattled in&nbsp;California</a></h2>
+				<small>February 16, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><p><em>By Shawn Kennedy, interim editor-in-chief</em></p>
+<p><strong><a href="http://www.nytimes.com/2010/02/12/us/12nurses.html"><img class="alignleft size-thumbnail wp-image-3829" title="WhistleblowerNurse" src="http://ajnoffthecharts.files.wordpress.com/2010/02/whistleblowernurse.png?w=150&amp;h=105" alt="" width="150" height="105"></a>By now you’ve probably heard</strong> that last Thursday Anne Mitchell, the Texas nurse who found herself fired from her job and on trial after reporting a physician for what she felt was poor medical practice (see our <a href="http://journals.lww.com/ajnonline/Fulltext/2009/10000/Texas_Nurses_Under_Fire_for_Whistleblowing.8.aspx">report</a> in the October 2009 issue) was found not guilty (her colleague, Vicki Galle, had her case dismissed prior to trial). It only took the jury about an hour to exonerate Mitchell of criminal charges and uphold her right to advocate for patients. (Day-by-day <a href="http://www.texasnurses.org/displaycommon.cfm?an=1&amp;subarticlenbr=509#rested">reports</a> from the trial were made available on the Texas Nurses Association &nbsp;(TNA) Web site.)</p>
+<p>The case garnered national attention—at its core was a nurse’s right (duty, really) to safeguard patients in her or his care. It seemed a no-brainer, and almost incredible that the case even came to trial. Last Friday, I spoke with TNA president Susan Sportsman, PhD, RN, who agreed, saying she was surprised the case went forward, especially after the state medical board agreed that what the nurses did was appropriate. Sportsman said, “This is the role of nurses—it’s required that we report what we see to safeguard patients. This nurse was just doing her job, what she was supposed to do.”</p>
+<p>Like nurses everywhere, Sportsman was “delighted and ecstatic” about the verdict. Sportsman noted a guilty verdict would have discouraged nurses and others from coming forward about poor care out of fear of losing their jobs and facing prosecution.&nbsp; Perhaps more chilling would be the result that nurses would be powerless and without support to protect patients from unsafe care. (See JParadisi’s excellent <a href="http://jparadisirn.com/2010/02/15/whistle-blowers-patient-advocates-when-the-nurse-stands-alone/">piece</a> on this on her blog.)</p>
+<p><strong>Nurses seem to be coming under fire lately</strong>—witness the lawsuit California anesthesiologists have filed against their governor. According to the petition (available on the American Association of Nurse Anesthetists’ <a href="http://www.aana.com/csalawsuit020510.aspx">Web site</a>), the anesthesiologists charge that, in following Medicare policy allowing a state to “opt out” of the physician supervision requirement, the governor is acting outside of California law in allowing nurse anesthetists to practice without physician supervision. It’s another case that bears watching (and rallying!) by all nurses, not just CRNAs. Nurses have a right to practice within the scope allowed under the law and for which they are qualified; a challenge to one nursing group should be a challenge to all of us.</p>
+<p><strong>What’s your take on these issues?</strong> Will the Mitchell case (despite the verdict in her favor) discourage potential whistle-blowers among nurses? And should physician groups really be&nbsp;attempting to restrict nurses’ scope of practice?<br>
+<!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a></p>
+<p><!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/shawn-kennedy-ajn-interim-editor-in-chief/" title="View all posts in Shawn Kennedy, AJN interim editor-in-chief" rel="category tag">Shawn Kennedy, AJN interim editor-in-chief</a>, <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/legal-issues/" title="View all posts in legal issues" rel="category tag">legal issues</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/whistle-blower/" rel="tag">whistle-blower</a>, <a href="http://en.wordpress.com/tag/whistleblower/" rel="tag">whistleblower</a>, <a href="http://en.wordpress.com/tag/anne-mitchell/" rel="tag">Anne Mitchell</a>, <a href="http://en.wordpress.com/tag/nurse-anesthetist/" rel="tag">nurse anesthetist</a>, <a href="http://en.wordpress.com/tag/scope-of-practice/" rel="tag">scope of practice</a>, <a href="http://en.wordpress.com/tag/texas-nurse/" rel="tag">Texas nurse</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/02/16/nurses-under-fire-cleared-in-texas-embattled-in-california/#comments" title="Comment on Nurses Under Fire: Cleared in Texas, Embattled in&nbsp;California">4 Comments »</a></p> 
+
+			</div>
+	
+				<div class="post-3782 post type-post hentry category-ethical-issues category-patient-perspective category-practice-tips tag-difficult-patients tag-ethical-principles tag-listen tag-nurse-ethicist tag-nursing-ethics">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3782"><a href="http://ajnoffthecharts.com/2010/02/09/want-to-achieve-the-greatest-good-listen-to-your-patients/" rel="bookmark" title="Permanent Link to Want to Achieve the ‘Greatest Good’? Listen to Your&nbsp;Patients">Want to Achieve the ‘Greatest Good’? Listen to Your&nbsp;Patients</a></h2>
+				<small>February 9, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><blockquote><p>Ethical dilemmas abound in nursing practice. Consider these commonplace scenarios:</p>
+<p>* An angry patient threatens to leave the hospital against medical advice. Should you hold him against his will?</p>
+<p>* A cancer patient fears chemotherapy. Should you give less detailed information about the effects of anticancer drugs?</p>
+<p>* An obese home care patient with pressure ulcers refuses to cooperate in turning. Should you turn her anyway?</p>
+<p>Such conflicts between the patient’s wishes and the nurse’s perception of the patient’s best interests occur regularly. That doesn’t make these ethical dilemmas any easier to resolve, but how nurses approach them can significantly affect clinical outcomes. Taking the time to listen to patients—and to integrate relationship skills with principles of ethical practice—can help nurses achieve solutions that are both ethical and appropriate for individual patients.</p></blockquote>
+<div id="attachment_3783" class="wp-caption alignleft" style="width: 160px"><a href="http://www.flickr.com/photos/ky_olsen/3133347219/"><img class="size-thumbnail wp-image-3783" title="Listen" src="http://ajnoffthecharts.files.wordpress.com/2010/02/listen.jpg?w=150&amp;h=126" alt="" width="150" height="126"></a><p class="wp-caption-text">ky olsen/via Flickr</p></div>
+<p><strong>That’s from</strong>&nbsp;the February issue of <em>AJN,</em> in which nurse–ethicist Doug Olsen (who has in the past written for this blog on&nbsp;ethical issues&nbsp;related to<a href="http://ajnoffthecharts.wordpress.com/2009/08/26/is-it-ethical-for-a-nurse-to-decline-the-h1n1-vaccine/"> mandated H1N1 vaccinations </a>for nurses)&nbsp;offers <a href="http://journals.lww.com/ajnonline/Fulltext/2010/02000/Want_to_Achieve_the__Greatest_Good___Listen_to.40.aspx">a thoughtful discussion </a>that may resonate for all nurses who’ve ever faced a situation like&nbsp;those in the above examples. It may seem obvious or cliched to say that&nbsp;listening to patients can help solve apparently intractable problems—but just because listening as a skill is hard to measure doesn’t mean that it’s not sometimes effective where more rigid tactics would fail.<br>
+<!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/patient-perspective/" title="View all posts in patient perspective" rel="category tag">patient perspective</a>, <a href="http://en.wordpress.com/tag/practice-tips/" title="View all posts in practice tips" rel="category tag">practice tips</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/difficult-patients/" rel="tag">difficult patients</a>, <a href="http://en.wordpress.com/tag/ethical-principles/" rel="tag">ethical principles</a>, <a href="http://en.wordpress.com/tag/listen/" rel="tag">listen</a>, <a href="http://en.wordpress.com/tag/nurse-ethicist/" rel="tag">nurse ethicist</a>, <a href="http://en.wordpress.com/tag/nursing-ethics/" rel="tag">nursing ethics</a> <strong>|</strong>   <span>Comments Off</span></p> 
+
+			</div>
+	
+				<div class="post-3774 post type-post hentry category-ethical-issues category-legal-issues category-nursing-perspective tag-acquitted tag-anne-mitchell tag-ethics tag-nurse tag-prosecution tag-texas tag-whistle-blower tag-whistleblower">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3774"><a href="http://ajnoffthecharts.com/2010/02/07/will-texas-nurse-whistle-blower-case-have-dangerous-ripple-effect/" rel="bookmark" title="Permanent Link to Will Texas Nurse Whistle-blower Case Have Dangerous Ripple&nbsp;Effect?">Will Texas Nurse Whistle-blower Case Have Dangerous Ripple&nbsp;Effect?</a></h2>
+				<small>February 7, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><blockquote><p>KERMIT, Tex. — It occurred to Anne Mitchell as she was writing the letter that she might lose her job, which is why she chose not to sign it. But it was beyond her conception that she would be indicted and threatened with 10 years in prison for doing what she knew a nurse must: inform state regulators that a doctor at her rural hospital was practicing bad medicine.</p></blockquote>
+<p>That’s from an <a href="http://www.nytimes.com/2010/02/07/us/07nurses.html?em">article in today’s New York<em> Times</em> </a>about a Texas nurse who’s being prosecuted for blowing the whistle on what she asserts were inappropriate medical practices by a doctor she worked with. We’ve<a href="http://ajnoffthecharts.wordpress.com/2009/08/03/nurse-whistle-blowers-pay-heavy-price-for-doing-the-right-thing/"> posted on this</a> as the case has developed and also written about it in the journal. Ultimately, the judgment is up to the court. But the concern we’ve expressed and which others have also voiced is that this will have the effect of silencing others who should be speaking out. In the process it may well reinforce old nurse–physician dynamics that profit no one. What do you think?</p>
+<p><strong>UPDATE: She was </strong><a href="http://www.nytimes.com/2010/02/12/us/12nurses.html"><strong>acquitted today</strong></a><strong>&nbsp;(February 11)!</strong><a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a></p>
+<p><!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --></p>
+<p><!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/legal-issues/" title="View all posts in legal issues" rel="category tag">legal issues</a>, <a href="http://en.wordpress.com/tag/nursing-perspective/" title="View all posts in nursing perspective" rel="category tag">nursing perspective</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/acquitted/" rel="tag">acquitted</a>, <a href="http://en.wordpress.com/tag/anne-mitchell/" rel="tag">Anne Mitchell</a>, <a href="http://en.wordpress.com/tag/ethics/" rel="tag">ethics</a>, <a href="http://en.wordpress.com/tag/nurse/" rel="tag">nurse</a>, <a href="http://en.wordpress.com/tag/prosecution/" rel="tag">prosecution</a>, <a href="http://en.wordpress.com/tag/texas/" rel="tag">Texas</a>, <a href="http://en.wordpress.com/tag/whistle-blower/" rel="tag">whistle-blower</a>, <a href="http://en.wordpress.com/tag/whistleblower/" rel="tag">whistleblower</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/02/07/will-texas-nurse-whistle-blower-case-have-dangerous-ripple-effect/#comments" title="Comment on Will Texas Nurse Whistle-blower Case Have Dangerous Ripple&nbsp;Effect?">5 Comments »</a></p> 
+
+			</div>
+	
+				<div class="post-3669 post type-post hentry category-ethical-issues category-home-care-nursing category-palliative-care tag-end-of-life-care tag-letters-to-the-editor tag-nurses tag-palliative-care tag-stopping-eating-and-drinking">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3669"><a href="http://ajnoffthecharts.com/2010/02/03/i-often-feel-anxious-and-nervous-when-i-care-for-a-dying-patient/" rel="bookmark" title="Permanent Link to “I often feel anxious and nervous when I care for a dying patient . .&nbsp;.”">“I often feel anxious and nervous when I care for a dying patient . .&nbsp;.”</a></h2>
+				<small>February 3, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><blockquote>
+<p style="text-align:left;">As a nursing student, I often feel anxious and nervous when I care for a dying patient. My classroom lectures have been similar to those given in medical school—death is an enemy to be conquered. We focus on treating the disease process and give very little attention to death and dying.</p>
+</blockquote>
+<p>That’s from a <a href="http://journals.lww.com/ajnonline/Fulltext/2010/02000/Hastening_Death.9.aspx">letter to the editor </a>now online in our February issue. The article the letter writer was responding&nbsp;to was <a href="http://journals.lww.com/ajnonline/Fulltext/2009/09000/Stopping_Eating_and_Drinking.28.aspx">“Stopping Eating and Drinking,” </a>which we published back in September. The article is about an end-of-life option that is a choice available to patients who aren’t “actively dying” but who have experienced a radical diminution in their quality of life. It’s also about what a nurse legally and ethically should and should not discuss with a patient.</p>
+<p>The notion of a nurse advising a patient on stopping eating and drinking is a potentially controversial one, but the responses we received were surprisingly unalarmed that we would publish such an article. <a href="http://journals.lww.com/ajnonline/Fulltext/2010/02000/Hastening_Death.8.aspx">Here’s</a> another letter we got in response. We love to hear from our readers, whether in the old print format or here on the blog.</p>
+<p><a href="http://journals.lww.com/ajnonline/Fulltext/2009/09000/Stopping_Eating_and_Drinking.28.aspx"><img class="aligncenter size-medium wp-image-2511" title="StoppingEatingAndDrinking" src="http://ajnoffthecharts.files.wordpress.com/2009/09/stoppingeatinganddrinking.png?w=267&amp;h=300" alt="" width="267" height="300"></a><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/home-care-nursing/" title="View all posts in home care nursing" rel="category tag">home care nursing</a>, <a href="http://en.wordpress.com/tag/palliative-care/" title="View all posts in palliative care" rel="category tag">palliative care</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/end-of-life-care/" rel="tag">end of life care</a>, <a href="http://en.wordpress.com/tag/letters-to-the-editor/" rel="tag">letters to the editor</a>, <a href="http://en.wordpress.com/tag/nurses/" rel="tag">nurses</a>, <a href="http://en.wordpress.com/tag/palliative-care/" rel="tag">palliative care</a>, <a href="http://en.wordpress.com/tag/stopping-eating-and-drinking/" rel="tag">stopping eating and drinking</a> <strong>|</strong>   <span>Comments Off</span></p> 
+
+			</div>
+	
+				<div class="post-3511 post type-post hentry category-advocacypolitical-action category-ethical-issues category-pain-control category-palliative-care tag-dying tag-hospice-nursing tag-intolerable-pain tag-palliative-sedation tag-terminal-sedation">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3511"><a href="http://ajnoffthecharts.com/2010/01/07/some-observations-in-response-to-the-ny-times-article-on-palliative-sedation/" rel="bookmark" title="Permanent Link to Some Observations In Response to the NY Times Article on Palliative&nbsp;Sedation">Some Observations In Response to the NY Times Article on Palliative&nbsp;Sedation</a></h2>
+				<small>January 7, 2010</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><p><em>By Judy Schwarz, PhD, RN*</em>&nbsp;&nbsp;</p>
+<p><a href="http://www.nytimes.com/2009/12/27/health/27sedation.html?_r=2"><img class="alignleft size-medium wp-image-3512" title="TerminalSedationNYTimes" src="http://ajnoffthecharts.files.wordpress.com/2010/01/terminalsedationnytimes.png?w=300&amp;h=281" alt="" width="300" height="281"></a><br>
+The <a href="http://www.nytimes.com/2009/12/27/health/27sedation.html?_r=1">NY <em>Times</em> article </a>of 12/26/09 that described use of palliative sedation in hospice institutional settings provided helpful and clinically accurate informative—for the most part. These few notes are meant to address those issues raised by the article that may unduly alarm dying patients, their families, and their clinical caregivers.</p>
+<p><em><br>
+<strong>1)&nbsp;</strong></em><strong>There is a consensus</strong> among palliative care clinicians that “palliative sedation to unconsciousness” (a descriptive&nbsp;term that eliminates some of the visceral reaction elicited&nbsp;by use of the term “terminal sedation”) is an intervention used only when other therapies that do not compromise patient consciousness have failed and the patient continues to experience intolerable and&nbsp;intractable suffering that cannot otherwise be relieved.</p>
+<p><strong>2) Use of palliative sedation to unconsciousness</strong> has NOT been shown to cause a hastened death. Research showing that patients at the very end of life who receive palliative sedation do not die more quickly than patients who are not sedated has been published in such peer-reviewed journals as <em>Annals of Oncology</em>, <em>Journal of Palliative Medicine</em>, <em>Journal of Pain and Symptom Management</em>, <em>Archives of Internal Medicine</em>, and <em>Palliative Medicine</em>. (In response to the <em>Times</em> article, the National Hospice and Palliative Care Organization has made available&nbsp;a&nbsp;<a href="http://www.nhpco.org/files/NY-Times_palliative-sedat_biblio.pdf">bibliography of these articles</a>.)</p>
+<p>This intervention is generally only provided when patients are “imminently” dying (a condition the recognition of which requires experience and clinical judgment) and is distinct from&nbsp;”respite sedation,” which is used&nbsp;when&nbsp;clinicians plan to awaken a patient from the unconscious state to determine if their suffering has been relieved. It would be clinically inappropriate to awaken a dying patient whose suffering was deemed intractable and intolerable to them.</p>
+<p><strong>3)&nbsp;The <em>Times&nbsp;</em>article mentions</strong> an article published by Billings and Block in 1996 in the <em>Journal of Palliative Care</em> (vol 12, pp 21-30), an article intended to highlight the inappropriate use of morphine drips that were ordered by some physicians with the intention of causing a merciful death. These two very skilled and experienced palliative care clinicians were attempting to highlight the difference between the appropriate use of palliative sedation, in which the infusion of opiate and sedative is titrated and set to relieve suffering and cause unconsciousness, and&nbsp;“hanging a morphine drip,”&nbsp;in which&nbsp;the infusion rate is continuously increased in order to cause obtundation, respiratory depression, and death.</p>
+<p><strong>4)&nbsp;Finally, the one issue that was not addressed</strong> in this generally excellent article was the difficulties faced by dying, suffering patients whose symptoms merit use of palliative sedation to unconsciousness but who want to be able to die at home. In my experience, most hospices are unable or unwilling to provide this intervention to suffering patients who want to die comfortably and peacefully in their own homes.</p>
+<p><em>*Schwarz, the author of </em><a href="http://journals.lww.com/ajnonline/Fulltext/2009/09000/Stopping_Eating_and_Drinking.28.aspx"><em>“Stopping Eating and Drinking,” </em></a><em>published in the September 2009 issue of</em> AJN, <em>is a regional clinical coordinator at Compassion and Choices, a nonprofit end-of-life advocacy and consultative organization.</em><br>
+<!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --><br>
+<a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/advocacypolitical-action/" title="View all posts in advocacy/political action" rel="category tag">advocacy/political action</a>, <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/pain-control/" title="View all posts in pain control" rel="category tag">pain control</a>, <a href="http://en.wordpress.com/tag/palliative-care/" title="View all posts in palliative care" rel="category tag">palliative care</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/dying/" rel="tag">dying</a>, <a href="http://en.wordpress.com/tag/hospice-nursing/" rel="tag">hospice nursing</a>, <a href="http://en.wordpress.com/tag/intolerable-pain/" rel="tag">intolerable pain</a>, <a href="http://en.wordpress.com/tag/palliative-sedation/" rel="tag">palliative sedation</a>, <a href="http://en.wordpress.com/tag/terminal-sedation/" rel="tag">terminal sedation</a> <strong>|</strong>   <a href="http://ajnoffthecharts.com/2010/01/07/some-observations-in-response-to-the-ny-times-article-on-palliative-sedation/#comments" title="Comment on Some Observations In Response to the NY Times Article on Palliative&nbsp;Sedation">1 Comment »</a></p> 
+
+			</div>
+	
+				<div class="post-3458 post type-post hentry category-ethical-issues category-healingholistic category-pain-control category-palliative-care tag-chaplain tag-clergy tag-dying tag-nurse tag-pain-control">
+				<img src="http://s2.wp.com/wp-content/themes/pub/neat/images/h1.gif?m=1224279792g" class="lefth2img" alt="h1"><h2 id="post-3458"><a href="http://ajnoffthecharts.com/2009/12/23/different-gods-different-ideas-of-compassion-a-clergywomans-story-of-the-doctor-who-wouldnt/" rel="bookmark" title="Permanent Link to Different Gods, Different Ideas of Compassion: A Clergywoman’s Story of the Doctor Who&nbsp;Wouldn’t">Different Gods, Different Ideas of Compassion: A Clergywoman’s Story of the Doctor Who&nbsp;Wouldn’t</a></h2>
+				<small>December 23, 2009</small>
+				
+				<div class="entry">
+					<div class="snap_preview"><p><a href="http://journals.lww.com/ajnonline/Fulltext/2009/12000/Baring_Witness.35.aspx"><img class="aligncenter size-medium wp-image-3459" title="BaringWitness" src="http://ajnoffthecharts.files.wordpress.com/2009/12/baringwitness.png?w=300&amp;h=281" alt="" width="300" height="281"></a></p>
+<blockquote><p>Jeanine was in her 60s. She wasn’t a church member and I barely knew her. A neighbor had called me to the hospital-Jeanine’s husband was dead, and there were no family or friends at her side. Trying to get my bearings, I leaned over her and recited the words of the Twenty-third Psalm: “The Lord is my shepherd …. Yea, though I walk through the valley of the shadow of death, I will fear no evil ….”</p>
+<p>“Help me,” Jeanine moaned. Her eyes opened and then closed. I knew she was pleading for release from her pain.</p>
+<p>“Jeanine, I’m so sorry,” I whispered. I hurried to the nurses’ station. When a young nurse looked up, I asked if she could do more to relieve Jeanine’s pain.</p>
+<p>“Nothing more to do,” she said, looking back down at an open ledger.</p></blockquote>
+<p style="text-align:left;">The above is an excerpt from the&nbsp;<a href="http://journals.lww.com/ajnonline/Fulltext/2009/12000/Baring_Witness.35.aspx">Reflections essay</a> in the December issue of <em>AJN</em>. It’s by a retired clergywoman who tells of a moment early in her career that brought her face to face with a doctor who believed in a very different kind of God than her own.&nbsp;Click the&nbsp;link above to read the essay in entirety. &nbsp;</p>
+<p><!-- AddThis Button BEGIN --><!-- var addthis_pub="jacob7767"; // --><a href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0;" src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" alt="Bookmark and Share" width="125" height="16"></a><br>
+<!-- AddThis Button END --></p>
+</div>				</div>
+		
+				<p class="postmetadata">Posted in <a href="http://en.wordpress.com/tag/ethical-issues/" title="View all posts in ethical issues" rel="category tag">ethical issues</a>, <a href="http://en.wordpress.com/tag/healingholistic/" title="View all posts in healing/holistic" rel="category tag">healing/holistic</a>, <a href="http://en.wordpress.com/tag/pain-control/" title="View all posts in pain control" rel="category tag">pain control</a>, <a href="http://en.wordpress.com/tag/palliative-care/" title="View all posts in palliative care" rel="category tag">palliative care</a> <strong>|</strong> Tagged <a href="http://en.wordpress.com/tag/chaplain/" rel="tag">chaplain</a>, <a href="http://en.wordpress.com/tag/clergy/" rel="tag">clergy</a>, <a href="http://en.wordpress.com/tag/dying/" rel="tag">dying</a>, <a href="http://en.wordpress.com/tag/nurse/" rel="tag">nurse</a>, <a href="http://en.wordpress.com/tag/pain-control/" rel="tag">pain control</a> <strong>|</strong>   <span>Comments Off</span></p> 
+
+			</div>
+	
+		
+		<div class="navigation">
+			<div class="alignleft"><a href="http://ajnoffthecharts.com/category/ethical-issues/">« Newer Entries</a></div>
+			<div class="alignright"><a href="http://ajnoffthecharts.com/category/ethical-issues/page/3/">Older Entries »</a></div>
+		</div>
+	
+			
+	</div>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+						<p>You are currently browsing the archives for the ethical issues category.</p>
+
+						</li>
+<li id="pages-2" class="widget widget_pages"><h2 class="widgettitle">Pages</h2>
+		<ul>
+			<li class="page_item page-item-2"><a href="http://ajnoffthecharts.com/about/" title="About">About</a></li>
+<li class="page_item page-item-4997"><a href="http://ajnoffthecharts.com/in-florences-footsteps-notes-from-a-journey/" title="In Florence’s Footsteps: Notes from a&nbsp;Journey">In Florence’s Footsteps: Notes from a&nbsp;Journey</a></li>
+		</ul>
+		</li>
+<li id="search-2" class="widget widget_search"><form method="get" id="searchform" action="http://ajnoffthecharts.com/">
+<div><input type="text" value="search archives" name="s" id="s" onblur="if (this.value == '') {this.value = 'search archives';}" onfocus="if (this.value == 'search archives') {this.value = '';}">
+<input type="submit" id="searchsubmit">
+</div>
+</form>
+</li>
+
+		<li id="recent-comments" class="widget widget_recent_comments">			<h2 class="widgettitle">Recent Comments</h2>
+			<ul id="recentcomments"><li class="recentcomments">Kaitlin on <a href="http://ajnoffthecharts.com/2010/09/14/after-the-angels-in-search-of-a-knowledge-based-professional-identity/#comment-2308">After the Angels: In Search of A ‘Knowledge-Based’ Professional&nbsp;Identity</a></li><li class="recentcomments">Hildy on <a href="http://ajnoffthecharts.com/2010/09/13/maybe-palliative-care-should-go-to-the-dogs/#comment-2306">Maybe Palliative Care SHOULD Go to the&nbsp;Dogs</a></li><li class="recentcomments"><a href="http://homebrewindustrialrevolution.wordpress.com" rel="external nofollow" class="url">freemarketanticapitalist</a> on <a href="http://ajnoffthecharts.com/2010/05/20/go-home-stay-good-nurse-hospital-staffing-practices-suck-the-life-out-of-nurses/#comment-2305">‘Go Home, Stay, Good Nurse’: Hospital Staffing Practices Suck the Life Out of&nbsp;Nurses</a></li><li class="recentcomments"><a href="http://www.ajnonline.com" rel="external nofollow" class="url">Shawn</a> on <a href="http://ajnoffthecharts.com/2010/09/13/maybe-palliative-care-should-go-to-the-dogs/#comment-2302">Maybe Palliative Care SHOULD Go to the&nbsp;Dogs</a></li><li class="recentcomments">Kathleen Burke, RN-BC on <a href="http://ajnoffthecharts.com/2010/09/14/after-the-angels-in-search-of-a-knowledge-based-professional-identity/#comment-2296">After the Angels: In Search of A ‘Knowledge-Based’ Professional&nbsp;Identity</a></li></ul>
+		</li>
+<li id="text-414540876" class="widget widget_text">			<div class="textwidget"><div style="text-align:center;"><a href="http://thedailyreviewer.com/top/nursing" title="Top nursing blogs"><img src="http://thedailyreviewer.com/img/top100-125x125.png" alt="Top nursing blogs award" border="0"></a><br><p style="display:inline;text-transform:uppercase;font-family:Times New Roman;"><a href="http://thedailyreviewer.com/top/nursing" title="Top nursing blogs">Top nursing blogs</a></p></div></div>
+		</li>
+<li id="twitter-2" class="widget widget_twitter"><h2 class="widgettitle"><a href="http://twitter.com/AmJNurs">AJN Twitter Feed</a></h2>
+<ul class="tweets">
+<li>I simulate, therefore I am...a nursing instructor's flight of fancy. <a href="http://wp.me/prthD-1sy" rel="nofollow">http://wp.me/prthD-1sy</a> <a href="http://twitter.com/AmJNurs/statuses/24697134384" class="timesince">10&nbsp;hours&nbsp;ago</a></li>
+<li>'Moral panic' in push to monitor pain control? <a href="http://wp.me/pBvPo-Ub" rel="nofollow">http://wp.me/pBvPo-Ub</a> @<a href="http://twitter.com/TorontoEmerg">TorontoEmerg</a> via @<a href="http://twitter.com/onlinenursing">onlinenursing</a> <a href="http://twitter.com/AmJNurs/statuses/24588799707" class="timesince">1&nbsp;day&nbsp;ago</a></li>
+<li>Bone-Loss Drugs May be Linked to Thigh Fracture: <a href="http://on.wsj.com/97xIyK" rel="nofollow">http://on.wsj.com/97xIyK</a> and this on marketing osteoporosis: <a href="http://bit.ly/17T2zF" rel="nofollow">http://bit.ly/17T2zF</a> <a href="http://twitter.com/AmJNurs/statuses/24501317013" class="timesince">2&nbsp;days&nbsp;ago</a></li>
+<li>Corn industry wants to change name of high fructose corn syrup...rationale: "name is confusing consumers" <a href="http://nyti.ms/9QdvLm" rel="nofollow">http://nyti.ms/9QdvLm</a> via @<a href="http://twitter.com/abbrody">abbrody</a> <a href="http://twitter.com/AmJNurs/statuses/24500598327" class="timesince">2&nbsp;days&nbsp;ago</a></li>
+</ul>
+</li>
+<li id="blog_subscription-3" class="widget widget_blog_subscription"><h2 class="widgettitle"><label for="subscribe-field">Email Subscription</label></h2>
+
+<form action="http://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+			<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+		<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" value="" id="subscribe-field"></p>
+	
+	<input type="hidden" name="action" value="subscribe">
+	<input type="hidden" name="blog_id" value="6547425">
+	<input type="hidden" name="source" value="http://ajnoffthecharts.com/category/ethical-issues/page/2/">
+	<input type="hidden" name="sub-type" value="widget">
+
+	<input type="hidden" id="_wpnonce" name="_wpnonce" value="626074f42a"><input type="hidden" name="_wp_http_referer" value="/category/ethical-issues/page/2/">
+	<p><input type="submit" value="Sign me up!"></p>
+</form>
+
+</li>
+<li id="linkcat-29674579" class="widget snap_preview widget_links"><h2 class="widgettitle">Blogs and Sites by (and for) Nurses</h2>
+
+	<ul class="snap_preview xoxo blogroll">
+<li><a href="http://npview.blogspot.com/">A Nurse Practitioner's View</a></li>
+<li><a href="http://guitargirlrn.blogspot.com/" target="_blank">Adventures of GuitarGirl RN</a></li>
+<li><a href="http://atyourcervix.blogspot.com/">At Your Cervix</a></li>
+<li><a href="http://www.codeblog.com/" title="“Tales of a Nurse”" target="_blank">Code Blog</a></li>
+<li><a href="http://wilomis.wordpress.com/" title="“An illustrated view of my life. I am currently in an accelerated nursing school program (11 months to achieve BSN) in Philadelphia, PA.”">Drawing on Experience</a></li>
+<li><a href="http://www.emergiblog.com/" title="“The Life and Times of an ER Nurse”" target="_blank">Emergiblog</a></li>
+<li><a href="http://florencedotcom.blogspot.com/" title="One nurse blogger’s “real-time patient safety primer.”">Florence dot com</a></li>
+<li><a href="http://www.impactednurse.com/" title="“no fluff, no guff, no duff”">Impacted Nurse</a></li>
+<li><a href="http://www.nursingcenter.com/Blog/" title="The blog of NursingCenter.com">In the Round</a></li>
+<li><a href="http://inqri.blogspot.com/" title="Interdisciplinary Nursing Quality Research Initiative blog">INQRI Blog</a></li>
+<li><a href="http://jparadisirn.com/" title="“Where science, humanity, and art converge (a nurse blog about art)”">JParadisi RN</a></li>
+<li><a href="http://mystrongmedicine.com/">My Strong Medicine</a></li>
+<li><a href="http://www.nabeepchen.com/" title="“Vital signs and remedies for a full spectrum world”">Nabeepchen.com</a></li>
+<li><a href="http://newfnp.blogspot.com/" title="Blunt talk from the trenches (Warning: some rated R language!)">New Family Nurse Practitioner</a></li>
+<li><a href="http://themountainsarecalling.blogspot.com/">New Nurse Insanity: Fundus Chop</a></li>
+<li><a href="http://subjectguides.lib.neu.edu/content.php?pid=23728&amp;sid=893616">Northeastern University Libraries – nursing newsfeeds</a></li>
+<li><a href="http://notratched.wordpress.com/" title="Former medical editor becomes nurse, starts blog">Not Nurse Ratched</a></li>
+<li><a href="http://www.nurseratchedsplace.com/" target="_blank">Nurse Ratched’s Place</a></li>
+<li><a href="http://nursestory.com/" title="“blog about nursing, NPs, and health care”">Nurse Story</a></li>
+<li><a href="http://nursetopia.wordpress.com/" title="“a random stream of consciousness about nursing and the world we impact”">Nursetopia</a></li>
+<li><a href="http://www.nursingjobsplus.com/">Nursing Jobs Plus</a></li>
+<li><a href="http://www.nursingcenter.com/home/index.asp" title="Resources, including continuing education (CE), for nurses." target="_blank">NursingCenter.com</a></li>
+<li><a href="http://www.realityrn.com/" title="“New Nurses, Real Conversation”" target="_blank">RealityRN.com</a></li>
+<li><a href="http://rehabrn.blogspot.com/">RehabRN</a></li>
+<li><a href="http://www.rnchat.org/" title="registered nurses on Twitter – easy to participate">RNchat</a></li>
+<li><a href="http://studentnurselaura.wordpress.com/">Student Nurse Laura</a></li>
+<li><a href="http://mannursediaries.blogspot.com/#">The Man-Nurse Diaries</a></li>
+<li><a href="http://themusern.com/" title="“sometimes sarcastic, purposefully edgy”">The Muse, RN</a></li>
+<li><a href="http://nationalnurse.blogspot.com/" title="site devoted to creation of a National Nurse post in U.S.">The National Nurse</a></li>
+<li><a href="http://arnp.blogspot.com/">The Nurse Practitioner's Place</a></li>
+<li><a href="http://www.truthaboutnursing.org/">The Truth About Nursing</a></li>
+<li><a href="http://torontoemerg.wordpress.com/" title="smart, sharp-tongued blogging from a Toronto emergency RN">Those Emergency Blues</a></li>
+<li><a href="http://katiebeern.blogspot.com/">Young and Restless Nurse</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-35348033" class="widget snap_preview widget_links"><h2 class="widgettitle">Blogs by MDs</h2>
+
+	<ul class="snap_preview xoxo blogroll">
+<li><a href="http://anondoc.blogspot.com/" title="“First-year internal medicine resident at a big-city hospital. Or not.”">Anonymous Doc</a></li>
+<li><a href="http://www.kevinmd.com/blog/">KevinMD</a></li>
+<li><a href="http://runningahospital.blogspot.com/" title="And now for the CEO’s perspective…" target="_blank">Running a Hospital</a></li>
+<li><a href="http://scopeblog.stanford.edu/" title="“Medical news and conversation from Stanford School of Medicine”">Scope</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-29674425" class="widget snap_preview widget_links"><h2 class="widgettitle">Health Care News, Opinion, Journalism</h2>
+
+	<ul class="snap_preview xoxo blogroll">
+<li><a href="http://journals.lww.com/ajnonline/pages/default.aspx" title="The American Journal of Nursing Web site">AJN Online</a></li>
+<li><a href="http://nursing.alltop.com/" title="Links to nursing blogs and related Web sites">Alltop Nursing News</a></li>
+<li><a href="http://latimesblogs.latimes.com/booster_shots/" title="“Oddities, musings and news from the health world”">Booster Shots (LA Times Health Blog)</a></li>
+<li><a href="http://mediahealth.wordpress.com/">Center for Health Media and Policy at Hunter College</a></li>
+<li><a href="http://www.healthjournalism.org/blog/" title="Association of Health Care Journalists blog">Covering Health</a></li>
+<li><a href="http://voices.washingtonpost.com/health-care-reform/daily-dose/" title="Washington Post blog on health care reform">Daily Dose</a></li>
+<li><a href="http://www.disruptivewomen.net/" title="Provocative, informed opinions from various contributors.">Disruptive Women in Health Care</a></li>
+<li><a href="http://globalhealthreport.blogspot.com/" title="Health journalist Christine Gorman blogs about “what works, what doesn’t and what needs to happen next…”" target="_blank">Global Health Report</a></li>
+<li><a href="http://www.healthnewsreview.org/" title="“Grades for health news reporting”">HealthNewsReview.org</a></li>
+<li><a href="http://www.kaiserhealthnews.org/">Kaiser Health News</a></li>
+<li><a href="http://health.newamerica.net/blogmain" title="“blog from the New America Foundation”">New Health Dialogue</a></li>
+<li><a href="http://www.npr.org/blogs/health/" title="Health blog of National Public Radio">NPR Health Blog</a></li>
+<li><a href="http://www.nursingtimes.net/" title="“The leading weekly magazine for nurses in the United Kingdom”" target="_blank">Nursing Times</a></li>
+<li><a href="http://www.nytimes.com/pages/health/index.html" title="New York Times Health Page" target="_blank">NY Times – Health</a></li>
+<li><a href="http://www.pallimed.org/" title="“A hospice and palliative medicine blog”">Pallimed</a></li>
+<li><a href="http://www.propublica.org/" title="“Journalism in the public interest”" target="_blank">ProPublica</a></li>
+<li><a href="http://www.reportingonhealth.org/" title="“the country’s first online community for journalists and new media practitioners who cover health issues”">Reporting on Health</a></li>
+<li><a href="http://scopeblog.stanford.edu/" title="“Medical news and conversation from Stanford School of Medicine”">Scope</a></li>
+<li><a href="http://blogs.wsj.com/health/" title="WSJ’s blog on “health and the business of health”">WSJ Health Blog</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-3083828" class="widget snap_preview widget_links"><h2 class="widgettitle">Health Care Resources</h2>
+
+	<ul class="snap_preview xoxo blogroll">
+<li><a href="http://www.medicare.gov/NHCompare/Include/DataSection/Questions/SearchCriteriaNEW.asp?version=default&amp;browser=IE%7C6%7CWinXP&amp;language=English&amp;defaultstatus=0&amp;pagelist=Home&amp;CookiesEnabledStatus=True" title="“Find and compare nursing homes.”">Nursing Home Compare</a></li>
+<li><a href="http://blogs.hcpro.com/osha/blog/">OSHA Healthcare Advisor blog</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-29674275" class="widget snap_preview widget_links"><h2 class="widgettitle">Patient-Focused Blogs and Web Sites</h2>
+
+	<ul class="snap_preview xoxo blogroll">
+<li><a href="http://achronicdose.blogspot.com/" title="“A blog about chronic illness, healthcare, and writing.”">A Chronic Dose</a></li>
+<li><a href="http://brassandivory.blogspot.com/" title="health policy, living with MS, music, big pharma">Brass and Ivory</a></li>
+<li><a href="http://medicalconsumers.org/">Center for Medical Consumers</a></li>
+<li><a href="http://www.consumerreports.org/health/home.htm">Consumer Reports Health</a></li>
+<li><a href="http://www.diabetesmine.com/" title="“straight talk and encouragement for people living with diabetes”">Diabetes Mine</a></li>
+<li><a href="http://www.furiousseasons.com/" title="smart observations by a patient and journalist on the business of mental health">Furious Seasons</a></li>
+<li><a href="http://rheumablog.wordpress.com/" title="“Living well with rheumatoid arthritis”">Rheumablog</a></li>
+<li><a href="http://www.rheumatoidarthritisguy.com/" title="“Adventures of a superhero on his journey through chronic pain and debilitating inflammation”">Rheumatoid Arthritis Guy</a></li>
+<li><a href="http://www.wheelchairkamikaze.com/" title="“The Rants, Ruminations, and Reflections of a Mad MS Patient”">Wheelchair Kamikaze</a></li>
+
+	</ul>
+</li>
+
+<li id="text-414540872" class="widget widget_text">			<div class="textwidget"><!-- twitter follow badge by go2web20 --><a href="http://twitter.com/AmJNurs"><img src="http://www.twitip.com/wp-content/uploads/2008/11/twitter-button-small.png" alt="twitter-button-small.png" width="70" height="70">
+</a><!-- end of twitter follow badge --></div>
+		</li>
+<li id="text-414540878" class="widget widget_text">			<div class="textwidget"><div id="medpedia_badge_medium" style="display:block!important;text-align:left!important;"><a href="http://www.medpedia.com/news_analysis" class="image_link" style="font-family:Lucida,sans-serif!important;color:#FFF!important;font-weight:bold!important;text-decoration:none!important;font-size:10px!important;display:block!important;line-height:12px!important;height:40px!important;width:150px!important;"><img alt="Medpedia News &amp; Analysis" src="http://www.medpedia.com/b/141/8672/image?type=medium" style="display:block!important;"></a><a href="http://www.medpedia.com/news_analysis" class="text_link" style="font-family:Lucida,sans-serif!important;color:#FFF!important;font-weight:bold!important;text-decoration:none!important;font-size:10px!important;display:block!important;width:150px!important;position:relative!important;left:6px!important;top:-13px!important;line-height:1em!important;">News &amp; Analysis</a></div></div>
+		</li>
+<li id="categories-3" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+		<ul>
+			<li class="cat-item cat-item-28717178"><a href="http://ajnoffthecharts.com/category/advocacypolitical-action/" title="View all posts filed under advocacy/political action">advocacy/political action</a> (23)
+</li>
+	<li class="cat-item cat-item-17023804"><a href="http://ajnoffthecharts.com/category/art-and-nursing/" title="View all posts filed under art and nursing">art and nursing</a> (13)
+</li>
+	<li class="cat-item cat-item-91119"><a href="http://ajnoffthecharts.com/category/audio-interviews/" title="View all posts filed under audio interviews">audio interviews</a> (8)
+</li>
+	<li class="cat-item cat-item-102910"><a href="http://ajnoffthecharts.com/category/childrens-health/" title="View all posts filed under children's health">children's health</a> (31)
+</li>
+	<li class="cat-item cat-item-19549692"><a href="http://ajnoffthecharts.com/category/christine-moffa-ajn-clinical-editor/" title="View all posts filed under Christine Moffa, AJN clinical editor">Christine Moffa, AJN clinical editor</a> (32)
+</li>
+	<li class="cat-item cat-item-37468860"><a href="http://ajnoffthecharts.com/category/combat-nursing/" title="View all posts filed under combat nursing">combat nursing</a> (6)
+</li>
+	<li class="cat-item cat-item-81112"><a href="http://ajnoffthecharts.com/category/continuing-education/" title="View all posts filed under continuing education">continuing education</a> (6)
+</li>
+	<li class="cat-item cat-item-21363200"><a href="http://ajnoffthecharts.com/category/diana-mason-editor-in-chief-emeritus/" title="View all posts filed under Diana Mason, editor-in-chief emeritus">Diana Mason, editor-in-chief emeritus</a> (46)
+</li>
+	<li class="cat-item cat-item-749905"><a href="http://ajnoffthecharts.com/category/electronic-medical-records/" title="View all posts filed under electronic medical records">electronic medical records</a> (2)
+</li>
+	<li class="cat-item cat-item-30554 current-cat"><a href="http://ajnoffthecharts.com/category/ethical-issues/" title="View all posts filed under ethical issues">ethical issues</a> (49)
+</li>
+	<li class="cat-item cat-item-91401"><a href="http://ajnoffthecharts.com/category/from-the-archives/" title="View all posts filed under from the archives">from the archives</a> (1)
+</li>
+	<li class="cat-item cat-item-20247498"><a href="http://ajnoffthecharts.com/category/h1n1-virus-swine-flu/" title="View all posts filed under H1N1 virus (swine flu)">H1N1 virus (swine flu)</a> (37)
+</li>
+	<li class="cat-item cat-item-17858762"><a href="http://ajnoffthecharts.com/category/healingholistic/" title="View all posts filed under healing/holistic">healing/holistic</a> (26)
+</li>
+	<li class="cat-item cat-item-53652"><a href="http://ajnoffthecharts.com/category/health-care-reform/" title="View all posts filed under health care reform">health care reform</a> (74)
+</li>
+	<li class="cat-item cat-item-23020072"><a href="http://ajnoffthecharts.com/category/health-information-technology-hit/" title="View all posts filed under health information technology (HIT)">health information technology (HIT)</a> (7)
+</li>
+	<li class="cat-item cat-item-22343"><a href="http://ajnoffthecharts.com/category/hivaids/" title="View all posts filed under HIV/AIDS">HIV/AIDS</a> (5)
+</li>
+	<li class="cat-item cat-item-23431237"><a href="http://ajnoffthecharts.com/category/home-care-nursing/" title="View all posts filed under home care nursing">home care nursing</a> (4)
+</li>
+	<li class="cat-item cat-item-2720"><a href="http://ajnoffthecharts.com/category/human-rights/" title="View all posts filed under human rights">human rights</a> (12)
+</li>
+	<li class="cat-item cat-item-665222"><a href="http://ajnoffthecharts.com/category/infection-control/" title="View all posts filed under infection control">infection control</a> (8)
+</li>
+	<li class="cat-item cat-item-542851"><a href="http://ajnoffthecharts.com/category/international-nursing/" title="View all posts filed under international nursing">international nursing</a> (41)
+</li>
+	<li class="cat-item cat-item-7009"><a href="http://ajnoffthecharts.com/category/legal-issues/" title="View all posts filed under legal issues">legal issues</a> (26)
+</li>
+	<li class="cat-item cat-item-5929132"><a href="http://ajnoffthecharts.com/category/male-nurses/" title="View all posts filed under male nurses">male nurses</a> (6)
+</li>
+	<li class="cat-item cat-item-21362123"><a href="http://ajnoffthecharts.com/category/media-depictions-of-nursing/" title="View all posts filed under media depictions of nursing">media depictions of nursing</a> (35)
+</li>
+	<li class="cat-item cat-item-1890993"><a href="http://ajnoffthecharts.com/category/nurse-practitioners/" title="View all posts filed under nurse practitioners">nurse practitioners</a> (10)
+</li>
+	<li class="cat-item cat-item-19211838"><a href="http://ajnoffthecharts.com/category/nursing-innovations/" title="View all posts filed under nursing innovations">nursing innovations</a> (32)
+</li>
+	<li class="cat-item cat-item-17046872"><a href="http://ajnoffthecharts.com/category/nursing-perspective/" title="View all posts filed under nursing perspective">nursing perspective</a> (186)
+</li>
+	<li class="cat-item cat-item-542841"><a href="http://ajnoffthecharts.com/category/nursing-research/" title="View all posts filed under nursing research">nursing research</a> (47)
+</li>
+	<li class="cat-item cat-item-532640"><a href="http://ajnoffthecharts.com/category/nursing-shortage/" title="View all posts filed under nursing shortage">nursing shortage</a> (23)
+</li>
+	<li class="cat-item cat-item-1686347"><a href="http://ajnoffthecharts.com/category/nursing-students/" title="View all posts filed under nursing students">nursing students</a> (30)
+</li>
+	<li class="cat-item cat-item-907461"><a href="http://ajnoffthecharts.com/category/pain-control/" title="View all posts filed under pain control">pain control</a> (10)
+</li>
+	<li class="cat-item cat-item-98165"><a href="http://ajnoffthecharts.com/category/palliative-care/" title="View all posts filed under palliative care">palliative care</a> (9)
+</li>
+	<li class="cat-item cat-item-8289640"><a href="http://ajnoffthecharts.com/category/patient-perspective/" title="View all posts filed under patient perspective">patient perspective</a> (26)
+</li>
+	<li class="cat-item cat-item-183057"><a href="http://ajnoffthecharts.com/category/patient-safety/" title="View all posts filed under patient safety">patient safety</a> (24)
+</li>
+	<li class="cat-item cat-item-850011"><a href="http://ajnoffthecharts.com/category/practice-tips/" title="View all posts filed under practice tips">practice tips</a> (34)
+</li>
+	<li class="cat-item cat-item-2265069"><a href="http://ajnoffthecharts.com/category/professional-identity/" title="View all posts filed under professional identity">professional identity</a> (82)
+</li>
+	<li class="cat-item cat-item-35999406"><a href="http://ajnoffthecharts.com/category/public-health-nursing-2/" title="View all posts filed under public health nursing">public health nursing</a> (12)
+</li>
+	<li class="cat-item cat-item-3298142"><a href="http://ajnoffthecharts.com/category/school-nurses/" title="View all posts filed under school nurses">school nurses</a> (11)
+</li>
+	<li class="cat-item cat-item-26175442"><a href="http://ajnoffthecharts.com/category/shawn-kennedy-ajn-interim-editor-in-chief/" title="View all posts filed under Shawn Kennedy, AJN interim editor-in-chief">Shawn Kennedy, AJN interim editor-in-chief</a> (65)
+</li>
+	<li class="cat-item cat-item-4952013"><a href="http://ajnoffthecharts.com/category/spirituality-and-nursing/" title="View all posts filed under spirituality and nursing">spirituality and nursing</a> (11)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://ajnoffthecharts.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (16)
+</li>
+	<li class="cat-item cat-item-1149"><a href="http://ajnoffthecharts.com/category/videos/" title="View all posts filed under videos">videos</a> (6)
+</li>
+	<li class="cat-item cat-item-17858901"><a href="http://ajnoffthecharts.com/category/writing-and-nursing/" title="View all posts filed under writing and nursing">writing and nursing</a> (65)
+</li>
+		</ul>
+</li>
+	<li id="flickr" class="widget snap_preview widget_flickr">	<h2 class="widgettitle">Photos of messages left at recently deceased St. Vincent's Hospital, NYC</h2>
+<!-- Start of Flickr Badge -->
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tbody><tr><td><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tbody><tr><td align="center">
+<a href="http://www.flickr.com/photos/51669559@N07/4752631909/"><img alt="RIP St. Vincent's Hospital, NYC" title="RIP St. Vincent's Hospital, NYC" src="http://farm5.static.flickr.com/4123/4752631909_92090944fe_t.jpg" border="0"></a><br><br><a href="http://www.flickr.com/photos/51669559@N07/4753272038/"><img alt="IMG_1694" title="IMG_1694" src="http://farm5.static.flickr.com/4120/4753272038_c21e135cc3_t.jpg" border="0"></a><br><br><a href="http://www.flickr.com/photos/51669559@N07/4753271566/"><img alt="IMG_1693" title="IMG_1693" src="http://farm5.static.flickr.com/4117/4753271566_2b83be6f88_t.jpg" border="0"></a><br><br><a href="http://www.flickr.com/photos/51669559@N07/">More Photos</a>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<!-- End of Flickr Badge -->
+
+		</li>
+<li id="rss-411086492" class="widget snap_preview widget_rss"><h2 class="widgettitle"><a class="rsswidget" href="http://www.topix.com/rss/nursing" title="Syndicate this content"><img style="background:orange;color:white;border:none;" width="14" height="14" src="http://s.wordpress.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.topix.com/nursing" title="News on Nursing continually updated from thousands of sources around the net.">Nursing News</a></h2>
+<ul><li><a class="rsswidget" href="http://www.topix.com/nursing/2010/09/st-francis-hospital-lays-off-nurses-other-workers?fromrss=1" title="St. Francis Hospital and Medical Center laid off 30 full-time workers this week, including nurses , as it continues to thin its employee ranks.">St. Francis Hospital Lays Off Nurses, Other Workers</a></li><li><a class="rsswidget" href="http://www.topix.com/nursing/2010/09/local-universities-help-with-nursing-shortage?fromrss=1" title="Nationally, and around the state of Virginia, there is a need for more nurses. However, Harrisonburg does not have quite as great a need as the rest of the state.">Local Universities Help With Nursing Shortage</a></li><li><a class="rsswidget" href="http://www.topix.com/nursing/2010/09/imperial-club-names-directors-for-nursing-food-service?fromrss=1" title="By Lynn Carroll. The Imperial Club Retirement Community, 2751 NE 183rd Street, Aventura, named Evelyn Watkins director of nursing and Hector David Lima director of food services.">Imperial Club names directors for nursing, food service</a></li><li><a class="rsswidget" href="http://www.topix.com/nursing/2010/09/prescription-bill-aims-to-track-deception?fromrss=1" title="Two Republican Ohio House members want to revamp how the state's dangerous drug database can be used to keep pills off the streets.">Prescription bill aims to track deception</a></li><li><a class="rsswidget" href="http://www.topix.com/nursing/2010/09/urgent-steps-needed-to-tackle-inadequate-support-for-women-with-secondary-breast-cancer?fromrss=1" title="Many said that they felt ill equipped to care for women with secondary breast cancer and that their time was dominated by meeting the needs of women with primary breast cancer.">Urgent Steps Needed To Tackle Inadequate Support For Women With Secondary Breast Cancer</a></li></ul></li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+				<li><a href="http://ajnoffthecharts.com/2010/09/16/i-simulate-therefore-i-am/" title="I Simulate, Therefore I&nbsp;Am…">I Simulate, Therefore I&nbsp;Am…</a></li>
+				<li><a href="http://ajnoffthecharts.com/2010/09/14/after-the-angels-in-search-of-a-knowledge-based-professional-identity/" title="After the Angels: In Search of A ‘Knowledge-Based’ Professional&nbsp;Identity">After the Angels: In Search of A ‘Knowledge-Based’ Professional&nbsp;Identity</a></li>
+				<li><a href="http://ajnoffthecharts.com/2010/09/13/maybe-palliative-care-should-go-to-the-dogs/" title="Maybe Palliative Care SHOULD Go to the&nbsp;Dogs">Maybe Palliative Care SHOULD Go to the&nbsp;Dogs</a></li>
+				<li><a href="http://ajnoffthecharts.com/2010/09/10/beware-of-the-killer-tubes/" title="Tubes Don’t Kill Patients, Errors&nbsp;Do">Tubes Don’t Kill Patients, Errors&nbsp;Do</a></li>
+				<li><a href="http://ajnoffthecharts.com/2010/09/08/with-inadequate-staffing-nonessential-care-goes-first-then-patient-safety/" title="With Inadequate Staffing, ‘Nonessential’ Care Goes First–Then Patient&nbsp;Safety">With Inadequate Staffing, ‘Nonessential’ Care Goes First–Then Patient&nbsp;Safety</a></li>
+				</ul>
+		</li>
+<li id="text-414540874" class="widget widget_text"><h2 class="widgettitle">Comments Policy</h2>
+			<div class="textwidget">We welcome comments, discussion, curiosity, debate, but we also value civility. Let us know about your lives and thoughts as nurses and as citizens. We reserve the right to moderate comments that are intended to sell something or that are hostile, rude, or otherwise inappropriate.</div>
+		</li>
+<li id="text-2" class="widget widget_text"><h2 class="widgettitle">Content Disclaimer</h2>
+			<div class="textwidget">Views expressed on the blog are solely those of the authors or persons quoted. They do not necessarily reflect AJN’s views or those of Wolters Kluwer Health/Lippincott Williams and Wilkins.
+</div>
+		</li>
+<li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+		<ul>
+			<li><a href="http://ajnoffthecharts.com/2010/09/" title="September 2010">September 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/08/" title="August 2010">August 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/07/" title="July 2010">July 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/06/" title="June 2010">June 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/05/" title="May 2010">May 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/04/" title="April 2010">April 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/03/" title="March 2010">March 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/02/" title="February 2010">February 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2010/01/" title="January 2010">January 2010</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/12/" title="December 2009">December 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/11/" title="November 2009">November 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/10/" title="October 2009">October 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/09/" title="September 2009">September 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/08/" title="August 2009">August 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/07/" title="July 2009">July 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/06/" title="June 2009">June 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/05/" title="May 2009">May 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/04/" title="April 2009">April 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/03/" title="March 2009">March 2009</a></li>
+	<li><a href="http://ajnoffthecharts.com/2009/02/" title="February 2009">February 2009</a></li>
+		</ul>
+</li>
+<li id="text-414540879" class="widget widget_text"><h2 class="widgettitle">AJN Facebook Page</h2>
+			<div class="textwidget"><a href="http://www.facebook.com/AJNfans">AJN Facebook page</a></div>
+		</li>
+<li id="text-414538521" class="widget widget_text"><h2 class="widgettitle">Copyright © AJN. All rights reserved.</h2>
+			<div class="textwidget"></div>
+		</li>
+<li id="text-414540871" class="widget widget_text"><h2 class="widgettitle">Privacy Disclaimer</h2>
+			<div class="textwidget">Names and identifying details of all patients mentioned have been changed to protect their privacy.</div>
+		</li>
+<li id="calendar-2" class="widget widget_calendar"><h2 class="widgettitle">&nbsp;</h2>
+<div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
+	<caption>September 2010</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://ajnoffthecharts.com/2010/08/" title="View posts for August 2010">« Aug</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td><a href="http://ajnoffthecharts.com/2010/09/01/" title="Back to School: Team Sports and&nbsp;Concussions">1</a></td><td><a href="http://ajnoffthecharts.com/2010/09/02/" title="Nightingale, One More&nbsp;Time">2</a></td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td><a href="http://ajnoffthecharts.com/2010/09/07/" title="An Evidence-Based Look at the ‘Unvoiced Symptom’: Fecal&nbsp;Incontinence">7</a></td><td><a href="http://ajnoffthecharts.com/2010/09/08/" title="With Inadequate Staffing, ‘Nonessential’ Care Goes First–Then Patient&nbsp;Safety">8</a></td><td>9</td><td><a href="http://ajnoffthecharts.com/2010/09/10/" title="Tubes Don’t Kill Patients, Errors&nbsp;Do">10</a></td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td><a href="http://ajnoffthecharts.com/2010/09/13/" title="Maybe Palliative Care SHOULD Go to the&nbsp;Dogs">13</a></td><td><a href="http://ajnoffthecharts.com/2010/09/14/" title="After the Angels: In Search of A ‘Knowledge-Based’ Professional&nbsp;Identity">14</a></td><td>15</td><td><a href="http://ajnoffthecharts.com/2010/09/16/" title="I Simulate, Therefore I&nbsp;Am…">16</a></td><td id="today">17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>
+<li id="meta-2" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>
+			<ul>
+			<li><a href="http://ajnoffthecharts.wordpress.com/wp-login.php?action=register">Register</a></li>			<li><a href="http://ajnoffthecharts.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="http://ajnoffthecharts.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://ajnoffthecharts.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>
+						</ul>
+</li>
+		</ul>
+	</div>
+
+<div id="footer">
+	<p>
+	<a href="http://wordpress.com/" rel="generator">Blog at WordPress.com</a>.
+		<br>Theme: Neat.		<a href="http://ajnoffthecharts.com/feed/">Entries (RSS)</a>
+		and <a href="http://ajnoffthecharts.com/comments/feed/">Comments (RSS)</a>.
+	</p>
+</div>
+
+</div>
+		<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">_qoptions={qacct:'p-18-mFEk4J448M',labels:'language.en'};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><p><img class="robots-nocontent" src="http://pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=language.en" style="display:none" height="1" width="1" alt=""></p></noscript>
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p class="robots-nocontent"><img src="http://b.scorecardresearch.com/p?cj=1c1=2&amp;c2=7518284" alt="" style="display:none" width="1" height="1"></p></noscript><script src="http://s.stats.wordpress.com/w.js?19" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'6547425','v':'wpcom','user_id':'0','post':'0','subd':'ajnoffthecharts'});
+ex_go({'crypt':'RDZ8LFkxbXEtSmVlbmNuOUklLytJVjAuaD9Xa1BfaV9LRnNkPzVyLCxKfk0vaHl8MEl+N1pzMDVPWlF5N11pdkpyJk1BNlcsPys5bTIwSkdiSHcvVkUuKzdRYzdZdFdyWk1iMEd+XU5aTCw/KzllUHZrejg9NWhIX3J2P2QldzlIUHVWRVVGT1F0WnlHZUVMbU5kNW9uSz9HVj0rcExEVitbJW9nVl1nVFpMJlVVL3gtPyZiRXBtSGp4Tk9MYnJ3ZGk4bCVMSFQ4NTJ8LWcrM05lQkdReFI1dFtTUHh0R1JFXytKbw=='});
+addLoadEvent(function(){linktracker_init('6547425',0);});
+	</script>
+<br><br><br>
+
+
+</body></html>

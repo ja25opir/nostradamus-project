@@ -1,0 +1,781 @@
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="author" content="Running Dog">
+<title>The Miracle Planet by Bruce Brown (PBS-TV Show #1)</title>
+		<meta content="Bruce Brown explores the theory that a huge meteor impact caused of the dinosaurs' extinction in the first installment of the PBS-TV series, The Miracle Planet." name="description">
+		<meta name="Keywords" content="Bruce Brown, astonisher, astonisher.com, Bruce Brown's writing, Bruce Brown's TV scripts, The Miracle Planet, dinosaur extinction, meteor impact theory, Luis Alvarez, Walter Alvarez, Dr. Jan Smit, Dr. Frank Asaro, Dr. Finn Surlyk, Dr. Dennis Roy, Dr. Eugene Shoemaker, Carol Shoemaker, Barringer Crater, Wolf Creek Crater, Manicouagan Crater, Murchison meteorite, Allende meteorite, Iridium, Cretaceous/Tertiary boundary, Cretaceous-Tertiary boundary, Cretaceous Tertiary boundary, PBS-TV, Bill Kurtis, Barry Stoner, KCTS-TV">
+		<meta http-equiv="refresh" content="120">
+		</head><body onload="CSScriptInit();" background="../images/gray_back.gif" bgcolor="#FFFFFF"><csscriptdict import>
+			<script type="text/javascript" src="../GeneratedItems/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csimport user="../../astoni.data/Components/header1_archives.html" occur="97">
+			<csactions>
+				<csaction name="5867C61" class="SlideShowAuto" type="onload" val0="us_dead2" val1="8" val2="5" val3="false"></csaction>
+				<csaction name="5867C63" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_02.jpg" urlparams="1"></csaction>
+				<csaction name="5867C65" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_03.jpg" urlparams="1"></csaction>
+				<csaction name="5867C67" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_04.jpg" urlparams="1"></csaction>
+				<csaction name="5867D69" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_05.jpg" urlparams="1"></csaction>
+				<csaction name="7F390713" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_06.jpg" urlparams="1"></csaction>
+				<csaction name="1A08DE00" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_07.jpg" urlparams="1"></csaction>
+				<csaction name="1A0F15D1" class="Preload Image" type="onload" val0="../images/bumper_stickers/animated/rots/5/rot5_290pix_08.jpg" urlparams="1"></csaction>
+			</csactions>
+			<csactiondict>
+				<script type="text/javascript"><!--
+CSInit[CSInit.length] = new Array(CSSlideShowAuto,/*CMP*/ 'us_dead2',8,5,false);
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_02.jpg');
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_03.jpg');
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_04.jpg');
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_05.jpg');
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_06.jpg');
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_07.jpg');
+CSInit[CSInit.length] = new Array(CSPreloadImage,/*URL*/ '../images/bumper_stickers/animated/rots/5/rot5_290pix_08.jpg');
+
+// --></script>
+			</csactiondict>
+			<csactionitem name="5867C61"></csactionitem>
+			<csactionitem name="5867C63"></csactionitem>
+			<csactionitem name="5867C65"></csactionitem>
+			<csactionitem name="5867C67"></csactionitem>
+			<csactionitem name="5867D69"></csactionitem>
+			<csactionitem name="7F390713"></csactionitem>
+			<csactionitem name="1A08DE00"></csactionitem>
+			<csactionitem name="1A0F15D1"></csactionitem>
+		</csimport>
+		
+	<style type="text/css">
+<!--
+body,td,th {
+	font-family: Times New Roman, Times, serif;
+	font-size: 16px;
+	color: #000;
+}
+-->
+</style>
+
+
+
+
+
+		<p>
+		<csobj csref="../../astoni.data/Components/header1_archives.html" h="182" occur="97" t="Component" w="871">
+		<!-- #BeginLibraryItem "/Library/header1_archives.lbi" --></csobj></p><div align="left">
+			<table border="0" cellpadding="0" cellspacing="0" width="586">
+				<tbody><tr>
+				  <td height="10">&nbsp;</td>
+			  </tr>
+				<tr>
+					<td>
+						<p align="center"><a href="museum/index.html"><img src="../images/cover_banners/100voices_290x65pix.jpg" alt="100 Voices from the Little Bighorn: eye-witness accounts of the Battle of the Little Bighorn" height="65" width="290" border="0"></a> <a href="ripvanwinkle3.html"><img src="../images/bumper_stickers/290x65/win7xp_network4_290x65pix.jpg" alt="Windows 7 / Windows XP Wireless Home Network Bible by Bruce Brown" height="65" width="290" border="0"></a><br>
+							<a href="cuba_baseball.html"><img src="../images/cover_banners/biesbol_cuba_290x65pix.jpg" alt="Biesbol en Cuba!" height="65" width="290" border="0"></a> <a href="../sticker/index.html#current"><img src="../images/bumper_stickers/animated/rots/5/rot5_290pix_01.jpg" alt="Astonisher.com Free (Thought) Banners" name="us_dead2" height="65" width="290" border="0"></a><noedit></noedit></p><hr align="left" width="586" color="#000080">
+							<a href="../index.html"><img src="../images/astonisher_new_logo_359pix.jpg" alt="Astonisher.com logo" width="359" height="83" border="0"></a><a href="index.html"><img src="../images/library_banner5_h83pix.gif" alt="" width="218" height="83" border="0"></a>
+					  <div align="left">
+					  <csobj csref="header1_navline3.html" h="46" occur="53" t="Component" w="586">
+								<div align="left"><!-- #BeginLibraryItem "/Library/header1_navline3.lbi" --><div align="left">
+			<hr align="left" width="586" color="#000080">
+			<table width="580" border="0" cellspacing="0" cellpadding="6" bgcolor="white">
+				<tbody><tr>
+					<td colspan="2" width="568"><font size="2"><i><b><a href="../index.html">Home</a> </b></i></font><font size="2"><i><b>*</b></i></font> <font size="2"><i><b><a href="index_books.html">Books</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="index_journalism.html">Stories</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"> <i><b><a href="index_web.html">Web</a> </b></i></font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="../sketchbook/index.html">Art</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="miracle_planet1.htm">Video</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="design.html">Design</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"> <i><b><a href="../skinny/index.html">Skinny</a></b></i> </font><font size="2"><i><b>*</b></i></font><img src="../images/spacers/space_6pix.jpg" alt="" height="6" width="4" border="0"><font size="2"><i><b><a href="../sticker/index.html">Banners</a></b></i> <i><b>*</b></i> <i><b><a href="../store/index.html">Store</a> * <a href="http://likiwiki.com/likiwiki/index.php?showforum=16">Forums</a></b></i></font></td>
+				</tr>
+			</tbody></table>
+			<hr align="left" width="586" color="#000080">
+		</div><!-- #EndLibraryItem --></div>
+							</csobj></div>
+					</td>
+				</tr>
+			</tbody></table>
+</div><!-- #EndLibraryItem --><p>&nbsp;</p>
+	    <div align="left">
+
+<table width="727" border="0" cellpadding="6">
+  <tbody><tr>
+    <td valign="top" width="463">
+						<h1><i><font size="4">From PBS-TV...</font></i><br>
+							The Miracle Planet</h1>
+						<p><em><font size="4"><strong>MY KIDS REMEMBER </strong>
+    <u>The Miracle Planet</u> TV series as a big event in our family because it required the purchase of a TV and VCR.</font></em></p>
+						<p><font size="4"><em>When I look back at the six <a href="#script">scripts</a> I wrote for the series, though, what strikes me now is how many hunches KCTS-TV Director Barry Stoner and I played, and how well the science has fallen into line behind in the years that followed.</em></font></p>
+    <p><em><font size="4">For instance, Luis and Walter Alvarez's theory that a meteorite-caused natural catastrophe killed the dinosaurs was still highly speculative then, but <u>The
+    Miracle Planet</u> understood the importance of the idea, and how it connected to the big
+    picture. </font></em></p>
+						<p><font size="4"><i>It wasn't until 1991, two years after <u>The Miracle Planet</u> series debuted on PBS-TV and almost four years after this script was written, that scientists located the impact site of the meteor that killed the dinosaurs 65 million years ago, Chicxulub crater off what is now Mexico's Yucatan Peninsula</i></font></p>
+						<p><font size="4"><i>And another 20 years would pass before rock samples recovered from Graphite Peak, Antarctica, would indicate that a meteor impact may have also caused the "great dying" that occurred 250 million years ago, the so-called Permian-Triassic (or P-T) mass extinction, which was the world's worst.</i></font></p>
+						<p><em><font size="4"><b>IN ADDITION</b> to a TV and VCR, working on <u>The
+      Miracle Planet</u> gave me the broad natural sciences education I'd somehow evaded in school.</font></em></p>
+						<p><em><font size="4">The challenges of writing for the TV camera proved educational as well. </font></em><em><font size="4">When we started filming the series, for instance, it quickly became apparent that the narrator, Bill Kurtis, couldn't move both ways on the emotional scale. </font></em></p>
+						<p><em><font size="4">He could downshift his pacing and mood -- the verbal equivalent of a diminuendo -- but he couldn't move the other way, increasing his pace and emotional intensity as he played out the narrative.</font></em></p>
+						<p><em><font size="4">Oh, really? Kurtis, who came from CBS Radio, was essentially a guy who couldn't handle the ball to his forehand at all, and so to make him look credible on camera I had to serve him a steady diet of balls to his backhand, which is a fairly bizarre way to tell a story.</font></em></p>
+						<p><em><font size="4"><b>BUT&nbsp;IT&nbsp;ALL</b> worked out well. The <u>Miracle Planet</u> went on to be one of PBS-TV's most popular earth science shows, won a bunch of awards, and spawned </font></em><em><font size="4">t</font></em><em><font size="4">he gorgeous <u>The Miracle Planet</u> book, which was largely the work of my wife Lane Morgan.</font></em></p>
+						<p><em><font size="4">The <u>Miracle Planet</u> book was, in fact, a major undertaklng in itself, with its own daunting slew of editorial, scientific and trans-oceanic production challenges (the book was published by an Australian publisher, while Lane and I lived in the United States).</font></em></p>
+						<p><em><font size="4">Ultimately translated into four languages and published globally, Lane's <u>Miracle Planet</u> book remains a dazzling demonstration of just how good a coffee table book can be.    </font></em></p>
+						<div align="right">
+							<p><font size="4"><em>-- Bruce Brown</em></font></p>
+						</div>
+					</td>
+    <td valign="top" width="240"><hr align="left" width="100">
+    <p><img src="../images/miracle3.jpg" alt="Cover of The Miracle Planet by Bruce Brown &amp; Lane Morgan" width="150" height="220" border="1"></p>
+      <table border="0" cellpadding="6" width="109">
+        <tbody><tr>
+          <td width="91">
+    <p><font size="2"><em>French hardback edition from Atlas</em></font></p>
+    <hr align="left" width="100">
+          </td>
+        </tr>
+      </tbody></table>
+						<p><img src="../images/lm_lb_faye_xmas1984_240pix.jpg" alt="" height="358" width="240" border="0"></p>
+						<table border="0" cellpadding="6" width="109">
+							<tbody><tr>
+								<td width="91">
+									<p><font size="2"><em>Lane Morgan in Seattle, Christmas 1984.</em></font></p>
+									<hr align="left" width="100">
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+  </tr>
+</tbody></table>
+</div>
+		<hr align="left" width="584">
+		<table width="975" border="0" cellspacing="2" cellpadding="0">
+			<tbody><tr>
+				<td width="647">
+					<h4 align="left"><a name="script"></a><em>The First Episode from...</em></h4>
+					<h1 align="left">The Miracle Planet</h1>
+					<h2 align="left"><em>"The Third Planet"</em></h2>
+					<h3 align="left">by Bruce Brown</h3>
+					<table border="0" cellpadding="6" width="645">
+						<tbody><tr>
+							<td bgcolor="#000080"><font color="#FFFFFF"><strong><i>Audio</i></strong></font></td>
+							<td bgcolor="#000080"><font color="#FFFFFF"><em><strong>Video</strong></em></font></td>
+						</tr>
+						<tr>
+							<td valign="top">For generations, people have wondered about the earth.
+								<p>Could our world once have been bombarded by meteorites like the ones that cratered the surface of the moon?</p>
+								<p>Were dinosaurs the victims of a later day meteorite impact that caused mass extinctions?</p>
+								<p>Could meteorites strike again and bring about a great cataclysm?</p>
+								<p>Join us in a search for the meteorites that have shaped our world. They were here at our planet's birth, and they've left clues of their return.</p>
+								<p>"The Third Planet" -- this time on <em>The Miracle Planet</em>.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_87x.jpg" width="200" height="150">
+								<p><img src="../images/miracle_planet/mp1_88x.jpg" width="200" height="150"></p>
+							</td>
+						</tr>
+						<tr>
+							<td valign="top">SERIES OPEN -- TITLE MUSIC
+								<p>FUNDING CREDITS -- BULL, AMOCO, CBC</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_89x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR ON CAMERA: Hello, I'm Bill Kurtis for <em>The Miracle Planet</em>.
+								<p>Billions of years of history have brought us to this moment on this evening.</p>
+								<p>At any point along the way, the development of the earth might have been diverted, and followed another course.</p>
+								<p>Considering the odds, it's miraculous that the earth did not develop differently, becoming a blazing inferno like Venus, or a frozen desert like Mars.</p>
+								<p>Our planet is a world of vast and intricate systems; of astonishing extremes: dense forests and barren deserts; volcanic heat and glacial cold.</p>
+								<p>The Earth is teeming with a million forms of life that have helped shape the very nature of our world, from the land under our feet to the air we breath.</p>
+								<p>In this series, we'll explore the unique combination of events and forces that have formed our planet and continue to shape it today.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_85x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">This huge crater in the heart of the Arizona desert was caused by a meteorite, or rocky meteor which plunged to earth between 25,000 and 50,000 years ago.
+								<p>Today, the momentary flash of meteors across the evening sky is a reminder of that world forming process.</p>
+								<p>These travelers through space hold a key to understanding how our earth was formed and what our future may hold.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_86x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: In the middle of the Pacific Ocean, the island of Hawaii rises above the clouds; from rocky shores and tropical rain forests to a snowy peak. This is Mauna Kea, the "White Mountain."
+								<p>From the dormant volcanic crater on its summit, you can look down on the clouds gathered below, and up toward distant galaxies.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_1x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">At sunset, its almost possible to believe that you can see forever. And in fact, the high altitude of Mauna Kea, and the clean, mid-oceanic air -- do make it possible to view the heavens with particular clarity, as the high clouds dissolve in the evening sky.
+								<p>Yet as beautiful as it may seem, the sunset is just the prelude to the real show.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_2x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Almost every night the great doors at the Mauna Kea Observatory roll open and some of the world's most powerful optical telescopes are turned on the night sky. Tonight the telescope scans the pockmarked surface of the moon.
+								<p>As early as 1826, the German astronomer von Gruithuisen proposed that lunar craters were the result of meteorite impacts. But his credibility was undermined because he had previously maintained that other lunar features were built by a race of moon creatures he called "Selenites."</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_3x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Gradually, though, the images from sophisticated telescopes and recent space exploration have led to the wide acceptance of the meteorite impact theory.
+								<p>During the last two decades, space probes have brought back evidence of tremendous cratering throughout the solar system.</p>
+								<p>Craters were discovered on Mars and two of its moons by NASA's Mariner probes between 1965 and 1971.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_26x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">These 1974 images of Mercury from the Mariner 10 probe show the planet closest to the sun. Like our moon, Mercury is scarred with a staggering array of craters. The Voyager probe revealed a huge crater in Mimas, one of the satellites of Saturn. And on Enceladus, an ice-covered satellite, the frozen surface is marked with thousands of meteorite craters.
+								<p>The evidence of so many craters on the moons and planets of our solar system raises a basic question -- where did all these meteorites come from? The effort to find an answer has touched the fundamental theories of how the our solar system came into being.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_4x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>No one can say precisely what happened more than four and a half billion years ago, but many scientists now believe our solar system was born when dust and gases began to coalesce into a immense disk.
+								<p>The center of the disk grew increasingly dense and bright, giving birth to the sun. Around the sun, other solid bodies were coalescing, forming an incredible number of planetesimals.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_5x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">They contained the raw material of the planets and ranged in size from a grain of sand to much larger protoplanets several miles diameter.
+								<p>According to one estimate, there were once more than 100 trillion planetesimals in our solar system. Not surprisingly, they began to collide with each other.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_16x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>Sometimes the planetesimals fragmented on impact, but more often they combined to form larger aggregate bodies.
+								<p>Over millions of years these young planets continued to grow, impact by impact, to nearly their present size. As each one of the protoplanets grew in mass, the increase in its gravity attracted more of the remaining planetesimals.</p>
+								<p>This is how Mercury was formed and Venus, and Mars. This is also how the earth was formed.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_6x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>At an early stage, the earth was undoubtedly pockmarked with craters as meteorites rained down on the unprotected surface of the primeval planet.
+								<p>The scars of those ancient meteorites can still be seen today on the surface of the moon and other planets. But they have long since vanished from the earth, victims of weathering and the continuing development of our world.</p>
+								<p>And yet there is evidence of more recent collisions of large meteorites with the earth.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_9x.jpg" width="200" height="193"></td>
+						</tr>
+						<tr>
+							<td valign="top">In 1904 the first identification was made of a meteorite crater on earth. It's location is in the Arizona desert. David Moreau Barringer, a mining engineer, found meteorite fragments and sedimentary deposits that eventually led to dating the impact at between 25,000 and 50,000 years ago.
+								<p>The Barringer crater allows us to explore the kind of craters we see on the moon, and marvel at the power that could create a giant crater like this in the batting of an eye.</p>
+								<p>The meteorite responsible for the Barringer Crater was probably no more than 100 feet in diameter. Yet it left behind a crater three quarters of a mile wide and fully 640 feet deep.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_7x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Since Barringer's discovery, more than 100 terrestrial meteorite craters have been identified. They occur in all parts of the world, but are particularly impressive in northern Canada.
+								<p>This ring-shaped lake is the scar of a meteorite impact long after the birth of our world.</p>
+								<p>Across the terrain, the shapes of other craters are still discernable. One of the largest and oldest craters lies on the west side of the Ungava Peninsula in northern Quebec. First identified from aerial photographs by a prospector in 1950, the New Quebec Crater is over two miles wide and 1200 feet deep.</p>
+								<p>The antiquity of this crater, together with the action of ice age glaciers, have obliterated all trace of the original meteorite. But it is estimated that a meteorite the size of a football stadium crashed into the earth at 50 times the speed of sound.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_8x.jpg" width="200" height="150">
+								<p><img src="../images/miracle_planet/mp1_21x.jpg" width="200" height="150"></p>
+							</td>
+						</tr>
+						<tr>
+							<td valign="top">Even before Apollo 11's historic exploration of the moon, NASA began experimenting with craters and how they are formed.
+								<p>Here meteorite impacts are simulated in miniature. The target area is a bed of fine sand. This projectile gun will fire an aluminum bullet into the target at 5 miles per second. That's the equivalent of nearly 18,000 miles per hour.</p>
+								<p>By analyzing experiments like this, we can understand the dynamics of how craters are formed.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_10x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">A high speed camera records the impact of the projectile. As the simulated meteorite passes through the air in the chamber, it begins to glow brighter than the sun.
+								<p>On impact, this tremendous energy is suddenly released as heat which melts the projectile and the surrounding sand in a violent explosion. The shock wave is so powerful that it propels the sand outward at supersonic speed.</p>
+								<p>From the point of impact, sand and molten material rise into the air. In the sand of the laboratory, all traces of the impact can easily smoothed away, but when the impact occurs in solid rock, the evidence can persist for millions of years.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_12x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">This is the Wolf Creek Crater in Australia. It was formed from a relatively recent impact only about a hundred thousand years ago.
+								<p>The dramatically eroded Gosse's Bluff Crater of western Australia shows how the weathering process eventually must have worn down the traces of our planet's primeval landscape.</p>
+								<p>Sometimes after a powerful impact pushes the floor of the crater down into the earth, it rebounds, raising a peak of rock at the center.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_13x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">At one of the earth's largest known craters, Manicouagan Crater in Quebec, satellite photographs reveal a peak at the crater's center.
+								<p>Today, a lake surrounds the point of impact. Within the ring of water, a central peak rises above the trees on a large island. This is the central peak. It is 600 feet high and composed of solid rock that was forced up instantly after the impact of the huge meteorite.</p>
+								<p>At the foot of the peak, the shore also yields up some clues about the force of the impact. Dr. Dennis Roy of the University of Quebec's Geology Department has studied this crater, and the effects of a meteorite strike. Near the central peak, rocks have been found that appear to be very similar to lava.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_22x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">DR. DENNIS ROY ON CAMERA: "Actually, it was molten rock from the impact that made a pool in the crater and then solidified as if it was erupted from a volcano.
+								<p>"So the rock is very similar to volcanic rock, but its composition and its position in the structure indicate an origin from melting after the impact."</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_20x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: This same process has been observed on the moon. The central peak of the lunar crater Copernicus was also formed by a massive meteorite collision.
+								<p>The lower region around it was a depression filled with molten rock after the impact. This scenario has been played out on earth countless times, particularly in its early days when numerous planetesimal collisions were creating the planet.</p>
+								<p>In those days, there were many more planetesimals in orbit with the planets around the sun. The primeval earth must have been covered with craters from frequent collisions.</p>
+								<p>As the planet grew bigger, it exerted a stronger pull of gravity. More planetesimals and meteorites were drawn to it at increasing speed. The great collisions caused intense heat that melted the surface, like the giant impact that created the Manicouagan crater.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_17x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Gradually, over hundreds of millions of years, the face of the planet began to change. The incessant bombardment began to melt the outer crust of the earth. Deep below the surface, growing radioactivity heated the planet from
+								<p>A sea of molten rock covered much of the earth, obliterating many of the earlier craters. Our planet, which was born in the cold depths of space, had become a fireball.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_24x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR ON CAMERA: How different the earth is today. Four and a half billion years after the formation of our planet, we live in a mild environment where the temperature hovers between the freezing and boiling points of water.
+								<p>Water can be found in one form or another almost everywhere on earth, and it is the major component of virtually every form of life.</p>
+								<p>But how did water emerge from a world of molten rock and falling meteorites? A clue may be found in the meteorites themselves.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_23xx.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: This is the Field Museum of Natural History in Chicago. It houses one of the world's most renowned collections of meteorites. Among them is the Murchison meteorite that fell in Australia in 1969. These fragments contain a sample of our primeval solar system -- the hot gasses and bits of dust that cooled and solidified.
+								<p>The Murchison meteorite caused a good deal of excitement because in it were discovered organic compounds from outside the earth.</p>
+								<p>It did not contain life itself, but rather amino acids, the building blocks of life. The meteorite also held within it another chemical compound that would change the face of the Earth.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_30x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">A simple experiment will reveal the secret. The sample is crushed and then heated to simulate what happens when a meteorite explodes on impact with a planet.
+								<p>The heat will release some of the gasses trapped in the meteorite for billions of years.</p>
+								<p>After about a minute, the glass vessel begins to cloud over as one of the meteorite's components begins to vaporize. What is being extracted is a purified liquid from outer space.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_31x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">This liquid is water, a surprising amount of which is released from even this small sample of a meteorite.
+								<p>This experiment helps focus attention on the role that early meteorites - the planetesimals - played in our planet's development from a fireball to a temperate world.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_32xx.jpg" width="200" height="141"></td>
+						</tr>
+						<tr>
+							<td valign="top">Planetesimals continued to rain down on the developing planet, bringing water and other compounds, as they had done for millions of years.
+								<p>Inside the earth radioactive energy generated intense heating, which emerged as volcanic activity on the surface. Heated from above and below, the surface of the earth became a sea of molten rock.</p>
+								<p>Water locked within some of the planetesimals vaporized on impact. Much more water, which was brought by planetesimals at the birth of the planet, was "sweated out" by the growing radioactive heat with the earth.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_33x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">The greater supply of water brought by the earlier planet forming collisions, was gradually being released from the earth itself.
+								<p>As the interior of the earth became molten, the minerals began to separate. The denser ones, like iron, sank...while vast amounts of water from within the planet joined with carbon dioxide and other gasses to form thick clouds.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_36x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">As the clouds rose from the surface of this changing world, the force of gravity kept the gasses from dissipating into space.
+								<p>This was the origin of the earth's primeval atmosphere. Gradually, the surface of the earth began to cool down as the number of planetesimals striking it declined. The temperature of the atmosphere began to cool as well, and the moisture laden clouds began to descend.</p>
+								<p>As the surface temperature gradually fell, an amazing thing happened. For the first time on earth, it began to rain.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_34x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Torrents of rain fell on the still-hot surface of the new planet. It washed over the barren rocks and flowed down into the lowlands and broad plains.
+								<p>Eventually, the clouds broke, and the sun's rays spread across a new world covered with broad blue oceans.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_35x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR ON CAMERA: Although the number of meteorites hitting the earth has drastically declined since the planet's infancy, occasional impacts may still occur.
+								<p>The Barringer Crater is just one example of these later collisions. This crater was blown out by a relatively small meteorite at that -- only about 100 feet in diameter. But what would happen if a truly massive meteorite crashed into the earth?</p>
+								<p>One controversial theory links meteorite impacts with evidence in the earth's fossil record of a mass extinction. This global catastrophe occurred 65 million years ago, wiping out many species of marine and land animals, including the huge creatures which then ruled the earth.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_37x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: They were called "dinosaurs," the Greek name for "Terrible Lizards." These giant reptiles flourished for over 145 million years.
+								<p>By comparison, our period of earthly dominance has been a fleeting instant. The dinosaurs may have been the most successful higher animal life form ever to inhabit the earth. Now, only a faint shadow of their glory remains.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_38x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Today, dinosaur bones are found on every continent, indicating that in they were widespread and able to survive in many climates and conditions.
+								<p>The once mighty dinosaurs are only dimly reflected today in reptiles like the land iguana, found on the remote Galapagos Islands.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_39x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Marine iguanas, which frequent the waters around the Galapagos Islands, are an ancient species that trace back to the time of the dinosaurs.
+								<p>However, they are not believed to be direct descendants of the "Terrible Lizards." Modern reptiles have developed from these independent lines since the catastrophe which destroyed the dinosaurs.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_40x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">We don't know for certain that it was a meteorite that caused the death of the dinosaurs. In fact, the theory remains controversial, partly because we have found no traces on land of a crater the size necessary to have produced such a cataclysm.
+								<p>But there is some supporting evidence for both the theory of meteorite impact and the theory of mass extinction.</p>
+								<p>On the coast of Denmark, these high cliffs at Stevn's Klint contain a geological record that spans the time of the dinosaur extinction, about 65 million years ago. It is here in the layers of sediment that strong evidence can be found for the theory of mass extinction.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_41x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">This is it. The thin, black layer, clearly visible here between the white clay below and the pink clay above, was laid down at the time of the dinosaurs' death.
+								<p>Dr. Finn Surlyk of the Geological Survey of Greenland has studied the clay layer that separates the Cretaceous and Tertiary epochs.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_43x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">DR. FINN SURLYK: "This is a world famous locality in geology because it is the type locality of the Cretaceous/Tertiary boundary. In the upper part of the cliff, from here and upwards, we have the lowest part of the Tertiary, and that is called the Danian, and it is named after Denmark.
+								<p>"This is a so-called fish clay. It marks the boundary between the Cretaceous and the Tertiary Periods. The fish clay is starting with this very dark brown or black layer. We had a very profound change in oceanographic conditions. Something clearly happened."</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_42x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: The clay above and below the dark layer hold many microscopic marine creatures...but the black clay holds none at all.
+								<p>This layer, devoid of evidence of life, is just one indication of the worldwide scope of the mass extinctions.</p>
+								<p>Here, on the Japanese island of Hokkaido, a search is underway for more evidence to support the global nature of this dark layer.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_44x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">A team of scientists from Tamagata University survey the hilly region, looking for the distinctive layer of clay.
+								<p>Here, half way around the world from Denmark, they discover a layer similar to the one found at Stevn's Klint. Above and below this dark layer, the whitish remains of fossilized plankton are abundant.</p>
+								<p>Within the dark clay itself, however, there is no sign of life. When this layer was deposited on the ocean floor, there were no plankton in the sea.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_45x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Only an event of giant and catastrophic proportions could account for such an occurrence. But was this mass extinction caused by a huge meteorite?
+								<p>If a huge meteorite were to collide with the earth, it would throw up enormous clouds of dust containing material from the meteorite itself.</p>
+								<p>If an impact of this size did wipe out the dinosaurs' world, we should find traces of the meteorite in the lifeless layer of clay.</p>
+							</td>
+							<td valign="top"></td>
+						</tr>
+						<tr>
+							<td>At the University of California in Berkeley, Noble Laureate Luis Alvarez and and his son Walter first discovered evidence in 1980 that linked the mass extinction 65 million years ago with a giant meteorite impact.
+								<p>A team of scientists analyzed the various elements found within the clay. They collected 80 samples from all over the world.</p>
+								<p>Their analysis of the dark clay revealed a significant fact. The clay contained unusually high amounts of iridium, an element normally found in very low levels at the surface of the earth, but slightly more common in meteorites.</p>
+								<p>Dr. Frank Asaro was one of the team that studied the clay samples at the University of California's Lawrence Laboratory.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_52x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>DR. FRANK ASARO: "When we first discovered the iridium...this was with the new detector, the big detector, we couldn't see it with the old ones,...we were very surprised because we didn't think we should see it. I didn't think we should see it, and it was a very large amount. And you couldn't explain that much iridium coming from the surface of the earth, at least from what we knew at that time, so we said it had to come from outer space."</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_51x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: Iridium is found on the earth as well, but most of it was carried toward the Earth's core during the planet's formation.
+								<p>There are two plausible explanations for its relative abundance in the dark bands of lifeless clay.</p>
+								<p>One is the possibility of massive volcanic eruptions that would bring iridium up from deep within the earth.</p>
+								<p>The other, according to Alvarez, is the impact of equally massive meteorites.</p>
+							</td>
+							<td valign="top"></td>
+						</tr>
+						<tr>
+							<td valign="top">The first samples of dark clay that revealed significant levels of iridium came from Gubbio, Italy. Then iridium was found in the dark band from the sea cliff of Stevn's Klint.
+								<p>One by one, similar samples of clay from all over Europe were found to contain iridium. Surface samples weren't the only ones to reveal the rare substance.</p>
+								<p>It was also found in layers from the same period formed on the bottom of the Atlantic Ocean and other sites around the globe as well.</p>
+								<p>The slight but significant increase of iridium occurred 65 million years ago, at the time of the mass extinction.</p>
+								<p>Scientists estimate that a meteorite containing iridium in the amounts discovered would have measured between 5 and 10 miles in diameter.</p>
+								<p>But still the question remains: where did such a giant meteorite strike the earth?</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_53x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>A clue that may shed light on this question has been found at Caravaca, Spain. Here, in addition to the dark clay, there is also a narrow reddish band.
+								<p>Analysis has shown that the red vein contains materials that were probably formed by the massive melting of basalt rock on the ocean floor.</p>
+								<p>This evidence, along with the absence of a huge crater on land has led scientists like Dr. Jan Smit to speculate that the meteorite that may have killed the dinosaurs plunged into the ocean.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_54x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>DR. JAN SMIT: "What you see here is an ancient sea bottom. Within this reddish layer are the very tiny millimeter-sized droplets which originate by the force and the impact of the Cretaceous/Tertiary boundary. The force, the sheer energy of the impact melts a lot of the surrounding rock and this rock is thrown into the air, into outer space, and it drops down on the sea floor where it is preserved as a solid layer."</td>
+							<td><img src="../images/miracle_planet/mp1_55x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: In the dark layer of clay, scientists have also identified a type of soot produced by the burning of wood or fossil fuels. The amount of soot found in deposits from 65 million years ago is so large that it suggests many of the world's forests may have burned during this period.
+								<p>This is a scenario of what might have happened if a giant meteorite crossed the earth's orbit and collided with the planet at a speed of about 70,000 miles per hour.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_56x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Let's suppose the impact occurred at a location where the ocean is over 1,000 feet deep.
+								<p>An meteorite 6 miles in diameter would hit bottom a fraction of a second after touching the ocean surface.</p>
+								<p>As it buried itself in the earth, the energy of the impact would have caused the meteorite to explode with almost inconceivable violence.</p>
+								<p>The energy released would be equivalent to 100 million megatons of TNT, and greater than the explosive power of the combined nuclear forces of the United States and the Soviet Union.</p>
+								<p>At the center of the explosion, the temperature would briefly be three times hotter than the surface of the sun.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_57x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">The heat generated by the impact would have started massive forest fires,destroying plant and animal life over a vast area.
+								<p>These fires would have been only the beginning of the far reaching effects of a huge meteorite collision.</p>
+								<p>The impact would send up a tremendous cloud of debris from the sea bed and the shattered meteorite, including traces of iridium.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_60x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">Along with the fine debris, water vapor would rise from the steaming ocean.
+								<p>The initial fiery holocaust would be followed by a long cloud-shrouded night when the sunlight reaching the earth would be one tenth the intensity of moonlight.</p>
+								<p>Under these conditions, the temperature of the air near the surface would have dropped rapidly to below freezing.</p>
+								<p>In the cold and darkness, photosynthesis would have stopped and green plants perished, breaking the first link of the delicate food chain.</p>
+								<p>Many creatures, including the dinosaurs, would have died of starvation. First the plant-eaters would face a dwindling food supply. Then the large meat-eaters would not find enough prey to survive. The clouds of a long global winter would shroud the earth.</p>
+								<p>Gradually, the dust and water vapor from the meteorite impact would begin to settle out.</p>
+								<p>The layer of lifeless clay would begin to sink to the ocean floor as the snow blanketed the ground.</p>
+								<p>The temperature would gradually rise as more heat from the sun penetrated the thinning cloud.</p>
+								<p>Snow would turn to rain, washing out even more of the remaining atmospheric dust.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_50x.jpg" width="200" height="150">
+								<p><img src="../images/miracle_planet/mp1_46x.jpg" width="200" height="150"></p>
+								<p><img src="../images/miracle_planet/mp1_47x.jpg" width="200" height="150"></p>
+								<p><img src="../images/miracle_planet/mp1_48x.jpg" width="200" height="150"></p>
+							</td>
+						</tr>
+						<tr>
+							<td valign="top">Only after several months would the clouds thin out enough to allow the sun to shine through on the earth again.
+								<p>A falling meteorite causing worldwide catastrophe -- this may be what killed the dinosaurs that reigned supreme on earth for 145 million years.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_62x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>But dinosaurs would not have been the only casualties of the impact. The consequences also would have been felt in the sea.
+								<p>The darkness that enshrouded the planet would have a similar devastating affect on life in the oceans.</p>
+								<p>Just as plants are the basic foundations of the food chain on land, marine plants called phytoplankton are essential to life in the world's oceans.</p>
+								<p>Phytoplankton, essentially the grass of the ocean, was affected in the same way the land plants; the darkness would kill them.</p>
+								<p>This was a mortal blow to the many species that directly or indirectly depended on plankton for their own food.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_63x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">After plankton ceased to photosynthesize, the oxygen in the ocean would fall to lethally low levels in many areas, further spreading the devastation.
+								<p>Fish would die in incredible numbers. With the break in this critical link of the ocean food chain, many species of animals and plants would die out.</p>
+								<p>Was this mass extinction really caused by a giant meteorite? Did the dinosaurs die out in a dark world of ash and clouds?</p>
+								<p>And is this global catastrophe only one in a recurring cycle of mass extinctions caused by meteorite collisions with the earth?</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_64x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR ON CAMERA: More discoveries about meteorites and mass extinctions have galvanized the scientific world.
+								<p>In 1983, two University of Chicago paleontologists concluded that mass extinctions have occurred on a 26 million year cycle. One study of the earth's best dated meteorite craters suggests that the collisions seemed to occur on a similar cycle.</p>
+								<p>Because of the lack of conclusive evidence, it is still unknown whether meteorite impacts caused these extinctions. But we do know one thing for certain: meteorites do continue to bombard the earth."</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_65x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>NARRATOR VOICE OVER: There's a saying in Mexico that "The Mexican earth invites meteorites." The Mexico City Museum displays some of the largest meteorites which have fallen on that country.
+								<p>This one weighs fourteen tons and is almost pure iron. It was once at the core of a much larger, ancient planetesimal. This fragment of the iron core eventually fell to the earth after two planetesimals collided in space and smashed apart.</p>
+								<p>On the night of February 8th, 1969 a shower of meteorites fell on the small Mexican village of Allende.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_66x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>MAN ON CAMERA: "Let me tell you that as the meteorites fell, it suddenly became very bright. It was as bright as day. The roofs and houses started to shake violently and made a loud noise. That is what made us get up, the shaking and vibrating of our homes.
+								<p>"We could see the metal windows vibrate while it was still light outside from the meteorites. When the light disappeared we saw that the tremendous pounding that we heard was made by the pounding of rocks from the meteorite."</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_69x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: These are just a few of the meteorites that fell from the sky that night, but they will not be the last.
+								<p>Today astronomers are scanning the skies for the remaining planetesimals called asteroids that still revolve around our sun.</p>
+								<p>An astronomical observatory sits on top of Mt. Palomar in California. One of its functions is to monitor the solar system for asteroids, fragments of which occasionally appear as meteors and meteorites on earth.</p>
+								<p>For many years, research on the nature and movement of meteors, has been carried out by Dr. Eugene Shoemaker and his wife Carol of the United States Geological Survey.</p>
+								<p>Using a special camera and telescope, with a wide visual field, they have identified 25 meteors travelling on courses of particular interest.</p>
+								<p>Each of these meteors has an orbit which intersects the Earth's orbit.</p>
+								<p>Although the probability is slight, if even one of these asteroids were to collide with the Earth as a meteorite it would be disastrous.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_71x.jpg" width="200" height="150">
+								<p><img src="../images/miracle_planet/mp1_77x.jpg" width="200" height="150"></p>
+							</td>
+						</tr>
+						<tr>
+							<td>The film in the telescope's camera is exposed for many hours. Minute celestial bodies that are normally invisible to the naked eye can be seen as bright dots. Because a meteor travels at an unusual speed and trajectory, it shows up as a short streak instead of a pinpoint of light.
+								<p>In March, 1985, the Shoemakers discovered this meteor. It is 2 kilometers or about six miles in diameter, and made of iron. If it were to collide with Earth, the impact and explosion would leave a crater 25 miles wide. But the meteorite that may have killed the dinosaurs would have been five times this size.</p>
+								<p>Is there a possibility that a huge meteorite or asteroid as they are sometimes called, might strike again?</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_73x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>DR. EUGENE SHOEMAKER: "Yes, there very definitely is a chance that a 10 km asteroid will collide with the earth in the future. They have in the past: on average they've hit about once every fifty million years, on a long-term average. So the expectation is there's a better than fifty percent there will be another one of these that collide.
+								<p>We actually know of two asteroids right now...we've not discovered all the earth-crossing asteroids, but there are two of them that we know...that are about that size, each of which could hit the earth. And in fact there are even bigger asteroids. There's an asteroid called Eros which has about a twenty percent chance of hitting the earth in the next several hundred million years, and this asteroid is about 20 km in average diameter, so it would produce an even bigger effect."</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_74x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR VOICE OVER: A Wyoming family took home movies of this meteor, whose weight is estimated at 1,000 tons. Fortunately, the meteor didn't collide with the Earth.
+								<p>It skimmed through the high atmosphere, leaving a white trail. If it had struck the Earth, the disaster would have rivaled a nuclear explosion.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_75x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">NARRATOR ON CAMERA: Today, a large meteorite collision with the earth would be a major disaster, to say the least.
+								<p>But meteorites have played an important role in the development of our temperate world. Four and a half billion years ago, the earliest meteorites -- the planetesimals -- carried the building blocks of our planet.</p>
+								<p>Through countless collisions, they formed the primeval Earth. As they continued to fall, the planet changed dramatically with great oceans covering the surface.</p>
+								<p>Later, meteorite collisions may have dramatically affected the development of life on our planet, causing the extinction of some species, and allowing others to succeed.</p>
+								<p>Will a great meteorite change the earth in our lifetime? Probably not.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_78x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td valign="top">According to one theory, the next visit of huge meteorites isn't expected for another 15 million years.
+								<p>Eventually, though, a meteor like this -- or bigger -- will hit the earth again.</p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_79x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>CREDITS
+								<p>GRANTOR</p>
+								<p>BOOK OFFER</p>
+								<p>PBS LOGO</p>
+							</td>
+							<td><img src="../images/miracle_planet/mp1_80x.jpg" width="200" height="150"></td>
+						</tr>
+						<tr>
+							<td>NARRATOR VOICE OVER: Next time on <em>The Miracle Planet</em>, we'll explore more mysteries of our changing world. How can mountains grow, and living creatures be turned to stone? How can a planet covered by cool oceans be hot enough inside to shine like a star?
+								<p>Join us in a search for the heat within the earth. It has transformed the surface over billions of years. Even now, it is bringing into being a very different world of tomorrow.</p>
+								<p>"The Heat from Within" -- next time on <em>The Miracle Planet.</em></p>
+							</td>
+							<td valign="top"><img src="../images/miracle_planet/mp1_82x.jpg" width="200" height="150"></td>
+						</tr>
+					</tbody></table>
+					<hr align="left" width="584">
+					<p><font size="2"><em>"The Miracle Planet" </em></font><em><font size="2">© </font></em><font size="2"><em>Copyright 1989 KCTS-TV </em></font></p><!-- #BeginLibraryItem "/Library/footer1_stories.lbi" -->
+
+			<hr align="left" width="580" color="#000080">
+			<table width="570" border="0" cellspacing="2" cellpadding="0">
+				<tbody><tr>
+					<td valign="top" width="282">
+						<table width="100%" border="0" cellspacing="2" cellpadding="0">
+							<tbody><tr>
+								<td colspan="2" align="center" bgcolor="#8b0000"><font color="white">New CD-ROM <b>LIBRARY EDITION</b></font></td>
+							</tr>
+							<tr height="10">
+								<td height="10"></td>
+								<td height="10"></td>
+							</tr>
+							<tr>
+								<td><a href="corporation_intro.html"><img src="../images/new_q_corpbook_h150pix.jpg" alt="cover thumbnail of The History of the Corporation by Bruce Brown" height="149" width="101" border="0"></a></td>
+								<td>
+									<h4><i>"Great book. Fascinating..."</i><i><br>
+											<font size="2">-- Jack Weatherford, <br>
+												
+											author of <br>
+												<u>The History of Money</u></font></i></h4>
+									<h1></h1>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">
+									<h1>The History of the Corporation<br>
+										<font size="3">by Bruce Brown</font></h1>
+									<p>* READ <b>free excerpts</b> on <a href="corporation_intro.html">astonisher.com</a><br>
+										
+									* BUY the <b>complete book</b> at the <a href="../store/orders_store.html#corp">astonisher.com store</a></p>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td valign="top" width="282">
+						<table width="100%" border="0" cellspacing="2" cellpadding="0">
+							<tbody><tr>
+								<td colspan="2" align="center" bgcolor="#191970"><font color="white"><i>"An environtmental classic..."</i></font></td>
+							</tr>
+							<tr height="10">
+								<td colspan="2" bgcolor="#dcdcdc" height="10"></td>
+							</tr>
+							<tr>
+								<td colspan="2" align="center" bgcolor="#dcdcdc"><a href="mitc_ch7.html"><img src="../images/store/mitc_25_225pix.jpg" alt="Moutnain in the Clouds by Bruce Brown: 25th Anniversary" height="133" width="225" border="0"></a></td>
+							</tr>
+							<tr>
+								<td colspan="2" bgcolor="#dcdcdc">
+									<h1>Mountain in the Clouds<br>
+										<font size="3">by Bruce Brown</font></h1>
+									<p>* READ <b>free excerpts</b> on <a href="mitc_ch7.html">astonisher.com</a><br>
+										
+									* BUY the <b>complete book</b> at the <a href="../store/orders_store.html#mitc">astonisher.com store</a></p>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+			<div align="left"><!-- #BeginLibraryItem "/Library/header1_navline3.lbi" --><div align="left">
+			<hr align="left" width="586" color="#000080">
+			<table width="580" border="0" cellspacing="0" cellpadding="6" bgcolor="white">
+				<tbody><tr>
+					<td colspan="2" width="568"><font size="2"><i><b><a href="../index.html">Home</a> </b></i></font><font size="2"><i><b>*</b></i></font> <font size="2"><i><b><a href="index_books.html">Books</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="index_journalism.html">Stories</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"> <i><b><a href="index_web.html">Web</a> </b></i></font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="../sketchbook/index.html">Art</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="miracle_planet1.htm">Video</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"><i><b> </b></i><i><b><a href="design.html">Design</a></b></i> </font><font size="2"><i><b>*</b></i></font><font size="2"> <i><b><a href="../skinny/index.html">Skinny</a></b></i> </font><font size="2"><i><b>*</b></i></font><img src="../images/spacers/space_6pix.jpg" alt="" height="6" width="4" border="0"><font size="2"><i><b><a href="../sticker/index.html">Banners</a></b></i> <i><b>*</b></i> <i><b><a href="../store/index.html">Store</a> * <a href="http://likiwiki.com/likiwiki/index.php?showforum=16">Forums</a></b></i></font></td>
+				</tr>
+			</tbody></table>
+			<hr align="left" width="586" color="#000080">
+		</div><!-- #EndLibraryItem --><div align="left">
+		<p><font size="1">© Copyright 1973 - 2010 by <a href="../resume/index.html">Bruce Brown</a><br>
+					
+					
+				
+				and BF Communications Inc.</font></p>
+			<p><font size="1"><i>Astonisher and <a href="../index.html">Astonisher.com</a><br>
+						
+						are trademarks of BF Communications Inc.</i></font></p>
+			<p><font size="1">BF Communications Inc.<br>
+					P.O. Box 393<br>
+					Sumas, WA 98295 USA<br>(360) 927-3234</font></p>
+			<p><font size="1"><em>Website by <a href="design.html">Running Dog</a></em></font><font size="2"><em> </em></font><a href="design.html"><img border="0" src="../images/run_dog.gif" align="top" width="72" height="44"></a></p>
+		</div><!-- #EndLibraryItem --></div></td>
+				<td width="20"></td>
+				<td valign="middle" width="300"><!-- #BeginLibraryItem "/Library/sidebanner.lbi" -->
+
+		  <!-- #BeginLibraryItem "/Library/astoni_top10.lbi" -->
+<table width="288" border="0" cellspacing="2" cellpadding="2">
+			<tbody><tr>
+				<td bgcolor="#00008b"><font size="2" color="white"><b><u>Astonisher.com</u> Most Read</b></font></td>
+			</tr>
+			<tr>
+				<td bgcolor="#f5f5f5"><p><font size="2">1. <a href="corporation_intro.html">The History of the Corporation<br>
+				</a>2. <a href="sturgeon.html">Heart-stopping Sturgeon</a><a href="museum/white_cow_bull_little_big_horn.html"><br>
+		        </a>3. <a href="museum/who_killed_custer.html">Who Killed Custer?</a><a href="cwch/cwch_ch1.html"><br>
+		        </a>4. <a href="museum/white_cow_bull_little_big_horn.html">White Cow Bull at the Little Bighorn, #1</a><br>
+		        5. <a href="ripvanwinkle3.html">Windows 7 / XP Wireless  Network Bible</a><br>
+		        6. <a href="cwch/cwch_ch1.html">Conversations With Crazy Horse</a><br>
+		        7. <a href="drwhacko.htm">Dr. Whacko's Guide To Slow-pitch Softball</a><br>
+		        8. <a href="museum/crazy_horse_bogus_pics.html">Bogus Crazy Horse Photos</a><br>
+		        9. <a href="ripvanwinkle4.html">GoLive / Dreamweaver Migration Bible</a><br>
+              10. </font><font size="2"><a href="museum/index_crazy_horse.html">Crazy Horse In Action</a></font></p></td>
+			</tr>
+			<tr height="10">
+				<td bgcolor="#00008b" height="10"></td>
+			</tr>
+			<tr height="8">
+				<td height="8"></td>
+			</tr>
+		</tbody></table><!-- #EndLibraryItem --><p><a href="../sticker/index.html"><img src="../images/bumper_stickers/290x65/obama_has_jobs_vert290x438pix.jpg" alt="Obama has jobs for young Americans!" height="438" width="290" border="0"></a></p>
+          <p><a href="ripvanwinkle3.html"><img src="../images/bumper_stickers/290x65/win7xp_network4_290x65pix.jpg" alt="Windows 7 / Windows XP Wireless Home Network Bible by Bruce Brown" height="65" width="290" border="0"></a></p>
+          <p><a href="museum/index.html"><img src="../images/cover_banners/100voices_290x65pix.jpg" alt="100 Voices from the Little Bighorn: eye-witness accounts of the Battle of the Little Bighorn" height="65" width="290" border="0"></a>
+          </p><p><a href="ripvanwinkle6.html"><img src="../images/cover_banners/apple_dell_bed_120x600pix.jpg" alt="&quot;What happens when an Apple goes to bed with a Dell?&quot; by Bruce Brown" width="120" height="600" border="0"></a>
+          </p><p><a href="../sticker/palin_see.html"><img src="../images/bumper_stickers/sarah_palin_290pix.jpg" alt="Sarah Palin: The kind of change America wants!" height="438" width="290" border="0"></a><br>
+            <br>
+            <a href="museum/who_killed_custer.html"><img src="../images/cover_banners/who_killed_banner_290pix.gif" alt="&quot;Who Killed Custer -- The Eye-Witness Answer&quot; by Bruce Brown" height="65" width="290" border="0"></a>
+          </p><p><a href="parrington.html"><img src="../images/cover_banners/parrington_290pix.jpg" alt="&quot;Vernon Louis Parrington&quot; by Bruce Brown" height="65" width="290" border="0"></a>
+          </p><p>
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="290" height="290" id="FlashID" title="Stop Destroying the Lives of Good People -- Legalize Marijuana">
+              <param name="movie" value="../images/bumper_stickers/flash/dope_stop_destroy4.swf">
+              <param name="quality" value="high">
+              <param name="wmode" value="opaque">
+              <param name="swfversion" value="6.0.65.0">
+              <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+              <param name="expressinstall" value="../Scripts/expressInstall.swf">
+              <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+              <!--[if !IE]>-->
+              <object type="application/x-shockwave-flash" data="../images/bumper_stickers/flash/dope_stop_destroy4.swf" width="290" height="290">
+                <!--<![endif]-->
+                <param name="quality" value="high">
+                <param name="wmode" value="opaque">
+                <param name="swfversion" value="6.0.65.0">
+                <param name="expressinstall" value="../Scripts/expressInstall.swf">
+                <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+                <div>
+                  <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+                  <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33"></a></p>
+                </div>
+                <!--[if !IE]>-->
+              </object>
+              <!--<![endif]-->
+            </object>
+          </p><p><a href="drwhacko.htm"><img src="../images/cover_banners/drw6_290pix.jpg" alt="Dr. Whacko's Guide to Slow-Pitch Softball by Bruce Brown" height="65" width="290" border="0"></a>
+          </p><p><a href="opal.html"><img src="../images/cover_banners/opal_290pix.jpg" alt="&quot;Opal Whiteley&quot; by Bruce Brown" height="65" width="290" border="0"></a>
+          </p><p>           
+          </p><p><!-- #BeginLibraryItem "/Library/google_adsense_1vert.lbi" --></p><p><noedit>
+					<script type="text/javascript"><!--
+google_ad_client = "pub-0056089664246256";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_channel ="";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>	
+                            </noedit></p><!-- #EndLibraryItem --><a href="ripvanwinkle1.html"><img src="../images/cover_banners/digital_rip_van_winkle3_120x600pix.jpg" alt="&quot;The Digital Rip Van Winkle Returns&quot; by Bruce Brown" width="120" height="600" border="0"></a><p></p>
+          <p><a href="../sticker/index.html"><img src="../images/bumper_stickers/290x65/america_today_290x65pix.jpg" alt="America Today by Running Dog" width="290" height="65" border="0"></a>
+          </p>
+          <p><a href="http://likiwiki.com/likiwiki/index.php?showforum=16"><img src="../images/cover_banners/astoni_forum_banner_290x65pix.jpg" alt="Astonisher.com Forums on LikiWiki.com" width="290" height="65" border="0"></a></p>
+<!-- #EndLibraryItem --><p>&nbsp;</p></td>
+			</tr>
+		</tbody></table>
+
+
+</body></html>

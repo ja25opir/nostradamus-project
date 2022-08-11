@@ -1,0 +1,210 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Ace Records</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Ace is the leading reissue record company in the UK, specilaising in rock'n'roll, soul, funk, blues, jazz, R&amp;B, garage rock and punk. ">
+<meta name="keywords" content="Reissues, oldies, soul, funk, rock'n'roll, pop, garage, blues, jazz,gospel, doo wop, nothern soul, vocal, golden age, mod, folk, surf,psychedelia, stax, cajun, swamp, ojc, obc, acid jazz, bluegrass,world music, guitar, punk, pub rock, Rhythm &amp; Blues,instrumental,Ace,BGP,Big Beat, Blue Horizon, Boplicity, Cascade,Chiswick,Fantasy,Globestyle, Kent, Kicking Mule, Prestige, Southbound, Stax,Takoma,Vanguard, Westbound">
+<meta name="author" content="Ace Records">
+<meta name="publisher" content="Ace Records"> 
+<meta name="allow-search" content="yes"><meta name="robots" content="all, index, follow"><meta name="revisit-after" content="7 days"><meta name="language" content="en"><meta name="distribution" content="global"><meta name="audience" content="all">
+<link href="layout/css/global.css" rel="stylesheet" type="text/css">
+<style type="text/css">@import "layout/css/advanced.css";</style>
+<script type="text/javascript" src="layout/script/global.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF">
+<div id="page" align="center">
+<table width="721" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td rowspan="2"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+    <td><img src="layout/images/blank.gif" width="637" height="5" alt=""></td>
+    <td><img src="layout/images/blank.gif" width="74" height="5" alt=""></td>
+    <td rowspan="2"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+  </tr>
+  <tr>
+    <td><a href="content.php?page_id=28"><img src="layout/images/acerecords.gif" alt="AceRecords" border="0"></a></td>
+    <td><a href="content.php?page_id=28"><img src="layout/images/acelogo.gif" alt="ace logo" border="0"></a></td>
+  </tr>
+  <tr>
+    <td colspan="4"><img src="layout/images/dottedline721.gif" alt=""></td>
+  </tr>
+</tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+      <td width="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+      <td><table border="0" cellspacing="0" cellpadding="0" id="navigation"><tbody><tr><td><a href="content.php?page_id=29"><img src="http://www.acerecords.co.uk/cache/84cb87e736869553f125b639057c4687.gif" alt="features" width="71" height="23" border="0"></a></td>
+<td><a href="content.php?page_id=64"><img src="http://www.acerecords.co.uk/cache/5a15e522a75c812f46b67b99355e9ff5.gif" alt="ace history" width="93" height="23" border="0"></a></td>
+<td><a href="content.php?page_id=92"><img src="http://www.acerecords.co.uk/cache/0ab626d3bd80fdb4df8d80101a182547.gif" alt="links" width="44" height="23" border="0"></a></td>
+<td><a href="content.php?page_id=31"><img src="http://www.acerecords.co.uk/cache/0544e1253b7454ebb43deb26dd996f3d.gif" alt="shopping" width="81" height="23" border="0"></a></td>
+<td><a href="content.php?page_id=63"><img src="http://www.acerecords.co.uk/cache/3408ca925ac347283a6996304344b44b.gif" alt="about us" width="76" height="23" border="0"></a></td>
+<td><a href="content.php?page_id=30"><img src="http://www.acerecords.co.uk/cache/e0abffe47cc2ab66a0c6cbfa838d1d4b.gif" alt="contact" width="69" height="23" border="0"></a></td>
+<td><a href="#" class="menu_link">&nbsp;</a></td>
+<td><a href="#" class="menu_link">&nbsp;</a></td>
+</tr></tbody></table><a id="licensing" href="http://www.acerecords.co.uk/licensing/" target="_blank">ACE LICENSING</a></td>
+      <td width="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+  </tr>
+  <tr>
+  	<td colspan="3"><img src="layout/images/dottedline721.gif" alt=""></td>
+  </tr>
+</tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td>
+<table width="721" border="0" cellspacing="0" cellpadding="0" id="search">
+<form action="content.php?page_id=53" name="searchform" id="searchform" method="get"></form><input type="hidden" id="page_id" name="page_id" value="53">
+  <tbody><tr>
+    <td width="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+    <td><a href="content.php?page_id=51"><img src="layout/images/viewartists.gif" width="94" height="23" alt="view artists" border="0"></a></td>
+    <td><a href="content.php?page_id=50"><img src="layout/images/viewlabels.gif" width="101" height="23" alt="view labels" border="0"></a></td>
+    <td><a href="content.php?page_id=1121"><img src="layout/images/viewgenres.gif" alt="view genres" width="117" height="23" border="0"></a></td>
+    <td><img src="layout/images/searchby.gif" width="79" height="23" alt="search by"></td>
+    <td class="middle"><img src="layout/images/blank.gif" width="8" height="5" alt=""></td>
+    <td class="middle"><select name="searchtype" id="searchtype" class="searchmenu">
+      <option value="1" selected="selected">artist</option>
+      <option value="2">album title</option>
+      <option value="3">song title</option>
+      </select></td>
+	  <td class="middle"><img src="layout/images/blank.gif" width="8" height="5" alt=""></td>
+    <td align="right" class="middle"><input name="searchterm" type="text" class="search" id="searchterm" size="10"></td>
+    <td class="bottom">&nbsp;<a href="javascript:document.forms.searchform.submit();">GO!</a><br><img src="layout/images/blank.gif" alt="" width="2" height="5" align="top"></td>
+    <td width="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+  </tr>
+  
+
+  <tr>
+  	<td colspan="14"><img src="layout/images/dottedline721.gif" alt=""></td>
+  </tr>
+</tbody></table></td></tr>
+</tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+      <td width="5" rowspan="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+      <td><img src="layout/images/blank.gif" width="5" height="2" alt=""></td>
+      <td rowspan="4"><img src="layout/images/blank.gif" width="10" height="5" alt=""></td>
+      <td colspan="3" valign="top"><img src="layout/images/blank.gif" width="424" height="3" alt=""></td>
+      <td colspan="2" valign="top"><img src="layout/images/blank.gif" width="5" height="3" alt=""></td>
+      <td width="5" rowspan="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><img src="http://www.acerecords.co.uk/releases/cdchd1006.jpg" alt="Bread And Butter/Big Beat Sounds" width="167" height="167" border="0"></td>
+      <td colspan="3" valign="top"><img src="http://www.acerecords.co.uk/cache/b61f62611fe94e532de2a98519fe0699.gif" alt="The Newbeats" width="124" height="23" border="0"><br><img src="http://www.acerecords.co.uk/cache/5a423bb4974915cd506eefbe0b467aaa.gif" alt="Bread And Butter/Big
+Beat Sounds" width="171" height="48" border="0"><br><a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0001KIHR2/wwwacerecordc-21" target="_blank"><img src="layout/images/buyatamazoncouk.gif" alt="Buy at Amazon" border="0"></a></td>
+	<td colspan="2" valign="top"><a href="content.php?page_id=61&amp;label=144"><img src="http://www.acerecords.co.uk/matrix_engine/../images/ace2_0.jpg" alt="ACE" width="110" height="124"></a></td>
+	</tr>
+  <tr>
+    <td colspan="5" valign="top"><img src="layout/images/dottedline534.gif" alt=""></td>
+    </tr>
+  <tr>
+    <td><img src="layout/images/blank.gif" width="95" height="5" alt=""></td>
+    <td><img src="layout/images/blank.gif" width="176" height="5" alt=""></td>
+    <td><img src="layout/images/blank.gif" width="152" height="5" alt=""></td>
+    <td><img src="layout/images/blank.gif" width="23" height="5" alt=""></td>
+    <td><img src="layout/images/blank.gif" width="87" height="5" alt=""></td>
+  </tr>
+  <tr>
+    <td><img src="layout/images/blank.gif" width="10" height="41" alt=""></td>
+    <td valign="top"><img src="http://www.acerecords.co.uk/cache/99f1f949baeb0488f265427dd97221d0.gif" alt="CD" width="38" height="19" border="0"></td>
+    <td valign="top"><span class="blue">CATALOGUE NUMBER</span><br>CDCHD 1006</td>
+    <td valign="top"><!--<span class="blue">RELEASE DATE</span><br />{}--></td>
+    <td colspan="2" valign="top"><span class="blue">LABEL</span><br>ACE<!--label listing will disappear and be replaced by genre<span class="blue">GENRE</span><br /><a href="link to subgenre">{}</a>--></td>
+  </tr>
+  <tr>
+    <td colspan="9"><img src="layout/images/blank.gif" width="5" height="3" alt=""></td>
+  </tr>
+   <tr>
+    <td colspan="9">  <img src="layout/images/dottedline721t.gif" alt=""></td>
+  </tr>
+</tbody></table>
+</div>
+<div id="content" align="center">
+<table width="721" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+						<td colspan="2"><img src="http://www.acerecords.co.uk/cache/2e0dd1dae374875c0a1551c58e019319.gif" alt="DISC01" width="74" height="23" border="0">
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+							  <td valign="top"><table border="0" cellspacing="0" cellpadding="0" width="179" class="listing"><tbody><tr><td>01</td><td>BREAD AND BUTTER</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>02</td><td>BYE BYE LOVE</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>03</td><td>THE SHOOP SHOOP SONG (IT'S IN HER KISS)</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>04</td><td><a href="http://www.acerecords.co.uk/songfiles/cdchd100604_0.m3u">THERE OUGHTA BE A LAW (‘BOUT THE STUFF I SAW)<img src="layout/images/soundicon.gif" alt="mp3 available" width="12" height="13" border="0" align="top"></a></td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>05</td><td>SO FINE</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>06</td><td>PINK DALLY RUE</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>07</td><td>EVERYTHING'S ALRIGHT</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td><img src="layout/images/blank.gif" width="22" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="152" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr></tbody></table></td>
+							  <td valign="top"><table border="0" cellspacing="0" cellpadding="0" width="179" class="listing"><tbody><tr><td>08</td><td>A PATENT ON LOVE</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>09</td><td>I'M BLUE (THE GONG GONG SONG)</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>10</td><td>TOUGH LITTLE BUGGY</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>11</td><td>THOU SHALT NOT STEAL</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>12</td><td>AIN'T THAT LOVIN' YOU BABY</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>13</td><td><a href="http://www.acerecords.co.uk/songfiles/cdchd100613_0.m3u">I CAN'T HEAR YOU NO MORE<img src="layout/images/soundicon.gif" alt="mp3 available" width="12" height="13" border="0" align="top"></a></td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>14</td><td>(THE BEES ARE FOR THE BIRDS) THE BIRDS ARE FOR THE BEES</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td><img src="layout/images/blank.gif" width="22" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="152" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr></tbody></table></td>
+							  <td valign="top"><table border="0" cellspacing="0" cellpadding="0" width="179" class="listing"><tbody><tr><td>15</td><td>MOTHER-IN-LAW</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>16</td><td>BREAK AWAY (FROM THAT BOY)</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>17</td><td>BABY LET'S PLAY HOUSE</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>18</td><td>GREAT BALLS OF FIRE</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>19</td><td>POISON PEN</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>20</td><td>HEY-O DADDY-O</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>21</td><td>FIND YA SOMEWHERE ELSE TO EAT YOUR CRACKERS</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td><img src="layout/images/blank.gif" width="22" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="152" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr></tbody></table></td>
+							  <td valign="top"><table border="0" cellspacing="0" cellpadding="0" width="179" class="listing"><tbody><tr><td>22</td><td>BETTER WATCH YOUR STEP</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>23</td><td>THE NATURAL</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>24</td><td>HUMAN KINDNESS</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>25</td><td><a href="http://www.acerecords.co.uk/songfiles/cdchd100625_0.m3u">SHAKE HANDS (AND COME OUT CRYING)<img src="layout/images/soundicon.gif" alt="mp3 available" width="12" height="13" border="0" align="top"></a></td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td>26</td><td>TOO SWEET TO BE FORGOTTEN</td><td><img src="layout/images/blank.gif" width="1" height="1" alt=""></td></tr><tr><td><img src="layout/images/blank.gif" width="22" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="152" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr></tbody></table></td>
+							</tr>
+						</tbody></table></td></tr><tr><td colspan="3"><img src="layout/images/dottedline721t.gif" alt=""></td></tr></tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0" class="buff"><tbody><tr><td><img src="layout/images/blank.gif" width="5" height="23" alt=""></td><td colspan="2">&nbsp;</td><td><img src="http://www.acerecords.co.uk/cache/b61f62611fe94e532de2a98519fe0699.gif" alt="The Newbeats" width="124" height="23" border="0"></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr><tr><td colspan="5"><img src="layout/images/dottedline721t.gif" class="dotted" alt=""></td></tr><tr><td colspan="5"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr><tr><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td><td valign="top"><table width="264" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"><img src="http://www.acerecords.co.uk/matrix_engine/../images/cdchd_1006_1.jpg" alt="" width="264" height="211"></td></tr><tr><td colspan="2"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr><tr><td valign="top"><img src="layout/images/blank.gif" border="0" alt=""></td><td valign="top"> <img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr><tr><td colspan="2"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr></tbody></table></td><td>&nbsp;</td><td valign="top"><p><span class="blue"></span><br><br>Fans of the kind of in-your-face pop created by those such as the 4 Seasons and Lou Christie will go ape for this stomping screechfest from Nashville's finest falsetto merchants. Those with a taste for white quasi-Motown won't go far wrong either. And Newbeats die-hards? Well, they'll be in hog heaven! <br><br>Only the Animals' The House Of The Rising Sun and Oh, Pretty Woman by Roy Orbison could keep the Newbeats' Bread And Butter from the top of Billboard's Hot 100 back in September 1964. Within a year the boys had notched up three further hits, establishing them as Hickory Records' top act. All are present and correct on this package. <br><br>Sure, the Newbeats have been the subject of the odd "Best Of" in their time, but Ace have something more definitive planned. Well, they would, wouldn't they? By next year the group's complete Hickory output will be available, spread across three CDs. Can't wait! The project commences with this twofer of their first pair of albums, remastered from the original stereo production tapes, and bolstered by Shake Hands (And Come Out Crying) and Too Sweet To Be Forgotten, two sides of a non-LP 45. <br><br>It was a dazzling demo version of Bye Bye Love - cunningly remodelled to sound more like the 4 Seasons than the Everly Brothers - that landed the group their Hickory contract, although Dean Mathis, his brother Marc and lead singer Larry Henley had all previously waxed for the label in different guises. Cut at the first Newbeats session, it became a cream track on the "Bread And Butter" platter and would surely have made a great single. Talking of transformations, wait until you hear their bluebeat version of the Fiestas' So Fine! Thou Shalt Not Steal, from the pen of the great John D Loudermilk, became a hit single, but in a carbon copy rendition by Dick &amp; Dee Dee. Elsewhere the boys give the girls a run for their money with great takes of It's In Her [His] Kiss and I'm Blue (The Gong-Gong Song), previously hits for Betty Everett and the Ikettes, respectively. Believe it or not, Bread And Butter was originally the designated B-side of Tough Little Buggy, a Jan &amp; Dean-style car-song. How different the career of the Newbeats might have been if some smart Detroit DJ hadn't flipped the record over. <br><br>1965's "Big Beat Sounds Of <a href="content.php?page_id=60&amp;artist=4349" class="glossary">The Newbeats</a>" long-player kicks off with a driving re-do of Goffin &amp; King's I Can't Hear You, another song popularised by Betty Everett. The album's key track, Break Away (From That Boy), a great Motown-styled pounder, was written by the clever Mathis brothers. Other standouts are The Birds Are For The Bees, Hey-O-Daddy-O, Find Ya Somewhere Else To Eat Your Crackers, Better Watch Your Step and The Natural, all from the Bread And Butter songwriting gang of Finnicum, Parks and Turnbow. Golden Age staples like Mother-In-Law, Baby Let's Play House and Great Balls Of Fire all get the unmistakable Newbeats treatment, God bless 'em. <br><br>Late in 1965 the Newbeats shot back into the charts with Run, Baby Run (Back Into My Arms), but we'll have to wait for their next Ace CD for that floorshaker. Until then, toast and jam, anyone?<br><br>By Mick Patrick</p></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td> </tr><tr><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="264" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="16" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="431" height="5" alt=""></td><td><img src="layout/images/blank.gif" width="5" height="5" alt=""></td></tr><tr><td colspan="5"><img src="layout/images/dottedline721t.gif" alt=""></td></tr></tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0" class="buff">
+  <tbody><tr>
+    <td><img src="layout/images/blank.gif" width="5" height="5"></td>
+    <td width="716"><img src="layout/images/relatedreleases.gif" alt="related releases"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="layout/images/dottedline721t.gif" alt=""></td>
+  </tr>
+</tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0" class="buff"><tbody><tr><td colspan="10"><img src="layout/images/blank.gif" width="3" height="3" alt=""></td></tr>
+						  <tr>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td rowspan="3" valign="top"><img src="http://www.acerecords.co.uk/cache/99f1f949baeb0488f265427dd97221d0.gif" alt="CD" width="38" height="19" border="0"><br><img src="layout/images/blank.gif" width="76" height="1" alt=""></td>
+							<td rowspan="3" valign="top"><a href="content.php?page_id=59&amp;release=417"><img src="http://www.acerecords.co.uk/releases/cdchd1006.jpg" alt="" width="72" height="72" border="0"></a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="14" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">ARTIST</span><br><a href="content.php?page_id=59&amp;release=417">THE NEWBEATS</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">CATALOGUE NUMBER</span><br><a href="content.php?page_id=59&amp;release=417">CDCHD 1006</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">LABEL</span><br><a href="content.php?page_id=59&amp;release=417">ACE</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+						  </tr>
+						  <tr>
+							<td valign="top"><img src="layout/images/blank.gif" width="174" height="8" alt=""></td>
+							<td valign="top"><img src="layout/images/blank.gif" width="174" height="3" alt=""></td>
+							<td valign="top"><img src="layout/images/blank.gif" width="176" height="3" alt=""></td>
+						  </tr><tr>
+						  	<td valign="top"><span class="blue">TITLE</span><br><a href="content.php?page_id=59&amp;release=417">BREAD AND BUTTER/BIG BEAT SOUNDS</a></td>
+						  	<td valign="top"><span class="blue">GENRE</span><br><a href="content.php?page_id=1122&amp;sub=10"><img src="layout/images/caption_arrow.gif" border="0" alt=""></a><a href="content.php?page_id=1122&amp;sub=10">Pop</a></td>
+						  	<td valign="top"><a href="content.php?page_id=59&amp;release=417"><img src="layout/images/viewmore.gif" border="0" alt="view more"></a><br><a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0001KIHR2/wwwacerecordc-21" target="_blank"><img src="layout/images/buyatamazoncouk.gif" alt="Buy at Amazon" border="0"></a></td>
+						  </tr><tr><td colspan="10"><img src="layout/images/blank.gif" width="3" height="3" alt=""></td></tr><tr><td colspan="10"><img src="layout/images/dottedline721t.gif" alt=""></td></tr></tbody></table><table width="721" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="10"><img src="layout/images/blank.gif" width="3" height="3" alt=""></td></tr>
+						  <tr>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td rowspan="3" valign="top"><img src="http://www.acerecords.co.uk/cache/99f1f949baeb0488f265427dd97221d0.gif" alt="CD" width="38" height="19" border="0"><br><img src="layout/images/blank.gif" width="76" height="1" alt=""></td>
+							<td rowspan="3" valign="top"><a href="content.php?page_id=59&amp;release=4476"><img src="http://www.acerecords.co.uk/releases/cdchd1033_0.jpg" alt="" width="72" height="72" border="0"></a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="14" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">ARTIST</span><br><a href="content.php?page_id=59&amp;release=4476">THE NEWBEATS</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">CATALOGUE NUMBER</span><br><a href="content.php?page_id=59&amp;release=4476">CDCHD 1033</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">LABEL</span><br><a href="content.php?page_id=59&amp;release=4476">ACE</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+						  </tr>
+						  <tr>
+							<td valign="top"><img src="layout/images/blank.gif" width="174" height="8" alt=""></td>
+							<td valign="top"><img src="layout/images/blank.gif" width="174" height="3" alt=""></td>
+							<td valign="top"><img src="layout/images/blank.gif" width="176" height="3" alt=""></td>
+						  </tr>
+						  <tr>
+						  	<td valign="top"><span class="blue">TITLE</span><br><a href="content.php?page_id=59&amp;release=4476">RUN BABY RUN</a></td>
+						  	<td valign="top"><span class="blue">GENRE</span><br><a href="content.php?page_id=1122&amp;sub=10"><img src="layout/images/caption_arrow.gif" border="0" alt=""></a><a href="content.php?page_id=1122&amp;sub=10">Pop</a></td>
+						  	<td valign="top"><a href="content.php?page_id=59&amp;release=4476"><img src="layout/images/viewmore.gif" border="0" alt="view more"></a><br><a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0006332WY/wwwacerecordc-21" target="_blank"><img src="layout/images/buyatamazoncouk.gif" alt="Buy at Amazon" border="0"></a></td>
+						  </tr><tr><td colspan="10"><img src="layout/images/blank.gif" width="3" height="3" alt=""></td></tr><tr><td colspan="10"><img src="layout/images/dottedline721t.gif" alt=""></td></tr></tbody></table>	<table width="721" border="0" cellspacing="0" cellpadding="0" class="buff"><tbody><tr><td colspan="10"><img src="layout/images/blank.gif" width="3" height="3" alt=""></td></tr>
+						  <tr>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td rowspan="3" valign="top"><img src="http://www.acerecords.co.uk/cache/99f1f949baeb0488f265427dd97221d0.gif" alt="CD" width="38" height="19" border="0"><br><img src="layout/images/blank.gif" width="76" height="1" alt=""></td>
+							<td rowspan="3" valign="top"><a href="content.php?page_id=59&amp;release=4713"><img src="http://www.acerecords.co.uk/releases/cdchd1088_0.jpg" alt="" width="72" height="72" border="0"></a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="14" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">ARTIST</span><br><a href="content.php?page_id=59&amp;release=4713">THE NEWBEATS</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">CATALOGUE NUMBER</span><br><a href="content.php?page_id=59&amp;release=4713">CDCHD 1088</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+							<td valign="top" width="174"><span class="blue">LABEL</span><br><a href="content.php?page_id=59&amp;release=4713">ACE</a></td>
+							<td rowspan="3"><img src="layout/images/blank.gif" width="5" height="5" alt=""></td>
+						  </tr>
+						  <tr>
+							<td valign="top"><img src="layout/images/blank.gif" width="174" height="8" alt=""></td>
+							<td valign="top"><img src="layout/images/blank.gif" width="174" height="3" alt=""></td>
+							<td valign="top"><img src="layout/images/blank.gif" width="176" height="3" alt=""></td>
+						  </tr><tr>
+						  	<td valign="top"><span class="blue">TITLE</span><br><a href="content.php?page_id=59&amp;release=4713">GROOVIN' OUT ON LIFE: LATER HICKORY SINGLES AND SOLO RARITIES</a></td>
+						  	<td valign="top"><span class="blue">GENRE</span><br><a href="content.php?page_id=1122&amp;sub=10"><img src="layout/images/caption_arrow.gif" border="0" alt=""></a><a href="content.php?page_id=1122&amp;sub=10">Pop</a></td>
+						  	<td valign="top"><a href="content.php?page_id=59&amp;release=4713"><img src="layout/images/viewmore.gif" border="0" alt="view more"></a><br><a href="http://www.amazon.co.uk/exec/obidos/ASIN/B000BPN2AO/wwwacerecordc-21" target="_blank"><img src="layout/images/buyatamazoncouk.gif" alt="Buy at Amazon" border="0"></a></td>
+						  </tr><tr><td colspan="10"><img src="layout/images/blank.gif" width="3" height="3" alt=""></td></tr><tr><td colspan="10"><img src="layout/images/dottedline721t.gif" alt=""></td></tr></tbody></table>
+<table width="721" border="0" cellspacing="0" cellpadding="0" class="buff">
+  <tbody><tr>
+    <td><img src="layout/images/blank.gif" width="721" height="100" alt=""></td>
+  </tr>
+</tbody></table>
+</div>
+
+</body></html>

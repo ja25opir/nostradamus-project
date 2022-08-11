@@ -1,0 +1,1127 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Planet Drupal | Aaron Winborn</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/rss+xml" title="RSS - Planet Drupal" href="/taxonomy/term/17/0/feed">
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/codefilter/codefilter.css?g">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/aaronwinborn.com/files/css/css_55d2a093f9aac065ab41e008df8d3307.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/aaronwinborn.com/files/css/css_3165c0fb4553ab467abbd5f7c4709c26.css">
+    <script type="text/javascript" src="/sites/aaronwinborn.com/files/js/js_b824c82e3edd6a968a73b644dfc5646f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/aaronwinborn.com/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": 0.8, "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/aaronwinborn.com/themes/awgarland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebars">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/" title="Aaron Winborn"><img src="/sites/aaronwinborn.com/files/color/awgarland-d26a097c/logo.png" alt="Aaron Winborn" id="logo"><span>Aaron Winborn</span></a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="menu-16111 first"><a href="http://advomatic.com/" title="Advomatic (I work there!)">Advomatic</a></li>
+<li class="menu-4015"><a href="http://5secondgame.com/" title="">5 Second Game</a></li>
+<li class="menu-22931"><a href="/video-term/drupalcon-dc" title="Wall of DrupalCon DC Videos">DrupalCon DC Videos</a></li>
+<li class="menu-204"><a href="http://drupal.org/planet" title="Planet Drupal.">Planet Drupal</a></li>
+<li class="menu-201"><a href="http://spindowners.com/" title="Spindowners, an upcoming RPG being developed with Drupal RPG.">Spindowners</a></li>
+<li class="menu-4014 last"><a href="http://singularitycountdown.com/" title="My blog about the coming Singularity.">Singularity Countdown</a></li>
+</ul>                                  
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+          <div class="block block-theme"><form action="/drupal?page=5" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-2f3a1f0fe08f87c0be9933d72bc58887" value="form-2f3a1f0fe08f87c0be9933d72bc58887">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+</div>          <div id="block-block-8" class="clear-block block block-block">
+
+  <h2>Drupal Multimedia</h2>
+
+  <div class="content"><p><a href="http://www.packtpub.com/create-multimedia-website-with-drupal/book/mid/230609ykjxg1"><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/drupal-multimedia/book-sm.jpg" alt="Drupal Multimedia" title="Drupal Multimedia">Drupal Multimedia, by Aaron Winborn, Available Now!</a></p>
+</div>
+</div>
+<div id="block-views-popular-block" class="clear-block block block-views">
+
+  <h2>Popular content</h2>
+
+  <div class="content"><div class="view view-popular view-id-popular view-display-id-block view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/blogs/aaron/media-dx-summit-2010">Media DX Summit 2010</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,200)</span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/jquery">jQuery</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,144)</span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/ubercart-drupal-6">Ubercart on Drupal 6</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,135)</span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupal-databases-next-generation">Drupal Databases: The Next Generation</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,127)</span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/install-profiles">Install Profiles</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,124)</span>
+  </span>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/beyond-web-drupal-meets-desktop-and-mobile">Beyond The Web: Drupal Meets The Desktop (And Mobile)</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,120)</span>
+  </span>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/using-sms-data-collection">Using SMS for Data Collection</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,116)</span>
+  </span>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/making-dates-and-calendars-rock">Making Dates and Calendars Rock!</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,111)</span>
+  </span>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/business-open-source">The Business of Open Source</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,109)</span>
+  </span>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/pbs-drupal-great">PBS + Drupal = Great</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,105)</span>
+  </span>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/limitations-drupal-theme-layer">Limitations of the Drupal theme layer</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,104)</span>
+  </span>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/why-i-hate-drupal">Why I Hate Drupal</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,103)</span>
+  </span>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/scaling-drupal-using-amazon-web-services-aws">Scaling Drupal using Amazon Web Services (AWS)</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,100)</span>
+  </span>
+</li>
+          <li class="views-row views-row-14 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/state-drupal-association">The State of the Drupal Association</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,093)</span>
+  </span>
+</li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/lightning-panel-search-drupal">Lightning Panel: Search in Drupal</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,091)</span>
+  </span>
+</li>
+          <li class="views-row views-row-16 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupal-multimedia">Drupal Multimedia</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,091)</span>
+  </span>
+</li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/future-callbacks">The future of callbacks</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,090)</span>
+  </span>
+</li>
+          <li class="views-row views-row-18 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/mailing-strategies-drupal">Mailing strategies for Drupal</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,089)</span>
+  </span>
+</li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/path-richer-text-input-format-improvements-drupal-7">The Path to Richer Text: Input Format Improvements in Drupal 7</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,085)</span>
+  </span>
+</li>
+          <li class="views-row views-row-20 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/pregnancyorg-casestudy">Pregnancy.org -- A Casestudy</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,076)</span>
+  </span>
+</li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/typography-and-layout-web">Typography and Layout on the Web</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,057)</span>
+  </span>
+</li>
+          <li class="views-row views-row-22 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupal-taxonomy-revisited">Drupal taxonomy, revisited</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,054)</span>
+  </span>
+</li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/flash-and-drupal">Flash and Drupal</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,052)</span>
+  </span>
+</li>
+          <li class="views-row views-row-24 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/performance-drupal-7">Performance in Drupal 7</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,051)</span>
+  </span>
+</li>
+          <li class="views-row views-row-25 views-row-odd views-row-last">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/learning-jquery-ui">Learning jQuery UI</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,042)</span>
+  </span>
+</li>
+      </ul>
+</div>    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/drupal" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/drupal?page=4" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-item"><a href="/drupal" title="Go to page 1" class="active">1</a></li>
+<li class="pager-item"><a href="/drupal?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/drupal?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item"><a href="/drupal?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/drupal?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-current">6</li>
+<li class="pager-item"><a href="/drupal?page=6" title="Go to page 7" class="active">7</a></li>
+<li class="pager-item"><a href="/drupal?page=7" title="Go to page 8" class="active">8</a></li>
+<li class="pager-next"><a href="/drupal?page=6" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/drupal?page=7" title="Go to last page" class="active">last »</a></li>
+</ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/popular/all">
+    more  </a>
+</div>
+  
+  
+  
+</div> </div>
+</div>
+<div id="block-user-0" class="clear-block block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/drupal?destination=taxonomy%2Fterm%2F17%3Fpage%3D5" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-openid-identifier-wrapper">
+ <label for="edit-openid-identifier">Log in using OpenID: </label>
+ <input type="text" maxlength="255" name="openid_identifier" id="edit-openid-identifier" size="13" value="" class="form-text">
+ <div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username or e-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required">
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-efba674f5c5c4411cabe9eb872664249" value="form-efba674f5c5c4411cabe9eb872664249">
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+<input type="hidden" name="openid.return_to" id="edit-openid.return-to" value="http://aaronwinborn.com/openid/authenticate?destination=taxonomy%2Fterm%2F17%3Fpage%3D5">
+<div class="item-list"><ul><li class="openid-link first"><a href="/%2523">Log in using OpenID</a></li>
+<li class="user-link last"><a href="/%2523">Cancel OpenID login</a></li>
+</ul></div><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div>
+</div></form>
+</div>
+</div>
+<div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/contact" title="Form to send an e-mail to Aaron Winborn.">Contact Aaron</a></li>
+<li class="leaf"><a href="/my-widget.png" title="A dynamic widget with a node teaser.">My Widget</a></li>
+<li class="leaf"><a href="/popular">Popular content</a></li>
+<li class="leaf"><a href="/tracker">Recent posts</a></li>
+<li class="collapsed last"><a href="/aggregator">Feed aggregator</a></li>
+</ul></div>
+</div>
+<div id="block-block-6" class="clear-block block block-block">
+
+
+  <div class="content"><p><a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://aaronwinborn.com"><img src="http://static.technorati.com/pix/fave/btn-fave2.png" alt="Add to Technorati Favorites"></a></p>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="/">Home</a></div>                              <h2>Planet Drupal</h2>                                                  <div class="clear-block">
+            <div id="node-56" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_115 first"><a href="/category/tags/drupal-media-player" rel="tag" title="">Drupal Media Player</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_118"><a href="/category/tags/openlaszlo" rel="tag" title="">OpenLaszlo</a></li>
+<li class="taxonomy_term_17 last active"> and <a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/media-player-with-dynamic-logo" title="Media Player with Dynamic Logo!">Media Player with Dynamic Logo!</a></h2>
+
+      <span class="submitted">Fri, 08/08/2008 - 11:16 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p>Made some progress last night with the Drupal <a href="http://drupal.org/project/media_player">Media Player</a> that I <a href="http://aaronwinborn.com/blogs/aaron/home-brewed-drupal-media-player-works">blogged about</a> recently. Dynamic logos!
+
+</p><div>  <script type="text/javascript">
+    lz.embed.swf({url: '/sites/all/modules/media_player/bundled_flash_player/media_player.lzx.lzr%3Dswf8.swf?lzproxied=false&file=http://spindowners.com/files.dm/videos/20051210-w50s.flv&display_logo=1&logo=//sites/aaronwinborn.com/files/my-logo.png&color_bg=black&image=/sites/all/modules/media_player/bundled_flash_player/resources/druplicon.png', bgcolor: 'black', width: '500', height: '400', id: 'media-player-0', accessible: 'false'});
+  </script><noscript>
+    Please enable JavaScript in order to use this application.
+  </noscript></div>
+
+<p>This was created with an hour of tweaking the <a href="http://openlaszlo.org/">OpenLaszlo XML</a>, and then pasting the following into this node: <code>print theme('media_player_player', 'http://spindowners.com/files.dm/videos/20051210-w50s.flv', array('logo' =&gt; '/sites/aaronwinborn.com/files/my-logo.png');</code>
+
+</p><p>Couldn't be simpler! I see a dev release as soon as we have an icon for the play button!
+
+</p><p>Of course, playlists and the like will take more. We've talked about including several players, including a light-weight and one with all the bells &amp; whistles, and have the module call the proper one according to passed parameters.
+  </p></div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/media-player-with-dynamic-logo#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/media-player-with-dynamic-logo" title="Read the rest of Media Player with Dynamic Logo!.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fmedia-player-with-dynamic-logo&amp;linkname=Media%20Player%20with%20Dynamic%20Logo%21" id="da2a_1"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var a2a_config = a2a_config || {}, da2a = {ready: false, html_ready: false, script_ready: false, script_onready: function() { da2a.script_ready = true; if(da2a.html_ready)da2a.init(); }}; a2a_config.tracking_callback = ['ready', da2a.script_onready];
+(function(){var a = document.createElement('script');a.type = 'text/javascript';a.async = true;a.src = 'http://static.addtoany.com/menu/page.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(a, s);})();
+//--><!]]>
+</script>
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-55" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_115 first"><a href="/category/tags/drupal-media-player" rel="tag" title="">Drupal Media Player</a>, </li>
+<li class="taxonomy_term_5"><a href="/taxonomy/term/5" rel="tag" title="">Drupal Multimedia</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_117"><a href="/category/tags/jw-flash-media-player" rel="tag" title="">JW Flash Media Player</a>, </li>
+<li class="taxonomy_term_114"><a href="/category/tags/media-player" rel="tag" title="">Media Player</a>, </li>
+<li class="taxonomy_term_118"><a href="/category/tags/openlaszlo" rel="tag" title="">OpenLaszlo</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a></li>
+<li class="taxonomy_term_116 last"> and <a href="/category/tags/wimpy" rel="tag" title="">Wimpy</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/home-brewed-drupal-media-player-works" title="Home-Brewed Drupal Media Player in the Works!">Home-Brewed Drupal Media Player in the Works!</a></h2>
+
+      <span class="submitted">Wed, 08/06/2008 - 01:51 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p>Here's a sneak peek of the new flash Drupal <a href="http://drupal.org/project/media_player">Media Player</a>, developed by yours truly with <a href="http://openlaszlo.org/">OpenLaszlo</a>!
+
+</p><p>Obviously, it's still rough on the edges, and all the options in the theme function aren't hooked up yet. Although it works already (after a fashion), don't use it yet unless you're willing to suffer the consequences.
+
+</p><div>  <script type="text/javascript">
+    lz.embed.swf({url: '/sites/all/modules/media_player/bundled_flash_player/media_player.lzx.lzr%3Dswf8.swf?lzproxied=false&file=http://drupal-multimedia.org/files.dm/videos/20051210-w50s.flv&display_logo=1&logo=/sites/all/modules/media_player/bundled_flash_player/resources/druplicon.png&color_bg=black&image=/sites/all/modules/media_player/bundled_flash_player/resources/druplicon.png', bgcolor: 'black', width: '500', height: '400', id: 'media-player-1', accessible: 'false'});
+  </script><noscript>
+    Please enable JavaScript in order to use this application.
+  </noscript></div>
+
+<p>When it's done, this module will come with its own player, fully GPL'd, and will support others out of the box as well, such as JW Flash Media Player and Wimpy. But who's going to want those anymore?
+
+</p><p>The module adds theme functions and a simple API that should be easily usable by other media modules, such as <a href="http://drupal.org/project/emfield">Embedded Media Player</a>, <a href="http://drupal.org/project/jquery_media">jQuery Media</a> and whoever else wants to jump on board. The other modules won't need to worry about where a particular player lives or how to invoke it; the theme functions provided will be robust enough to handle player colors, sizes, icons (including placement, layout, and other customization options), splash screens, playlists and more. Administrators will be able to override any of the defaults, including player of choice. Additionally, it'll be easy enough to invoke manually as well:
+
+</p><p><code>
+print theme('media_player_player', $filepath);
+</code>
+
+</p><p>And best of all, since it's in OpenLaszlo and GPL, with the source included in the module, it's easy for developers to modify even the player, without even needing a Flash IDE. (The whole thing is created with an XML.)
+
+</p><p>Kudos to <a href="http://drupal.org/user/61203">EclipseGc</a> for nudges and encouragement to get this project going!
+
+</p><p>Next on the list: volume controls, playlists, override color/logo/splash options, settings pages, pull in the other players, youtube/blip.tv/other provider support, tie into other media modules
+
+</p><p>(Cross-posted at <a href="http://groups.drupal.org/node/13745">gdo</a>.)
+  </p></div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/home-brewed-drupal-media-player-works#comments" title="Jump to the first comment of this posting.">18 comments</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/home-brewed-drupal-media-player-works" title="Read the rest of Home-Brewed Drupal Media Player in the Works!.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fhome-brewed-drupal-media-player-works&amp;linkname=Home-Brewed%20Drupal%20Media%20Player%20in%20the%20Works%21" id="da2a_2"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-54" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_5 first"><a href="/taxonomy/term/5" rel="tag" title="">Drupal Multimedia</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_9"><a href="/taxonomy/term/9" rel="tag" title="">Erik Gecas</a>, </li>
+<li class="taxonomy_term_113"><a href="/category/tags/magnifier" rel="tag" title="">Magnifier</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a></li>
+<li class="taxonomy_term_11 last"> and <a href="/taxonomy/term/11" rel="tag" title="">Views Slideshow</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/erik-gecass-art-show" title="Erik Gecas's Art Show">Erik Gecas's Art Show</a></h2>
+
+      <span class="submitted">Tue, 08/05/2008 - 02:11 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p>So my brother in law (<a href="http://erikgecas.com/">Erik Gecas</a>) has an art exhibit, <a href="http://www.lasvegascac.org/exhibitions/index.html">Painting Physical Presence</a>, that's just opened in Las Vegas! Particularly exciting for me (though admittedly only slightly relevant to the world of Drupal) is that I created his <a href="http://erikgecas.com/">web gallery</a> a few months ago, with Drupal of course. The show is in tandem with <a href="http://bluepaintings.net/">Ayako Ono</a>.</p>
+<p><a href="http://aaronwinborn.com/blogs/aaron/erik-gecass-art-show"><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/cannonball+boom+image.png"></a></p>
+<p>The <a href="http://erikgecas.com/paintings/2007">web gallery</a> is largely created with <a href="http://drupal.org/project/views_slideshow">Views Slideshow</a> (for which I still owe a port to d6). In fact, it was largely for this site, which makes a small appearance in <a href="http://www.packtpub.com/create-multimedia-website-with-drupal/book/mid/300608sz1cqj">Drupal Multimedia</a>, that I beefed up development for that module (and the <a href="http://drupal.org/project/magnifier">Magnifier</a> module, that is also used on the site, though not in the book).</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/erik-gecass-art-show#comments" title="Jump to the first comment of this posting.">5 comments</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/erik-gecass-art-show" title="Read the rest of Erik Gecas's Art Show.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Ferik-gecass-art-show&amp;linkname=Erik%20Gecas%27s%20Art%20Show" id="da2a_3"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-51" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_7 first"><a href="/taxonomy/term/7" rel="tag" title="">Advomatic</a>, </li>
+<li class="taxonomy_term_111"><a href="/category/tags/drewish" rel="tag" title="">drewish</a>, </li>
+<li class="taxonomy_term_5"><a href="/taxonomy/term/5" rel="tag" title="">Drupal Multimedia</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_109"><a href="/category/tags/hookfile" rel="tag" title="">hook_file</a>, </li>
+<li class="taxonomy_term_112"><a href="/category/tags/jhedstrom" rel="tag" title="">jhedstrom</a>, </li>
+<li class="taxonomy_term_104"><a href="/category/tags/media-code-sprint" rel="tag" title="">Media Code Sprint</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a>, </li>
+<li class="taxonomy_term_106"><a href="/category/tags/portland" rel="tag" title="">Portland</a></li>
+<li class="taxonomy_term_110 last"> and <a href="/category/tags/simpletests" rel="tag" title="">SimpleTests</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/simpletests-hookfile-media-code-sprint-status-report-two" title="SimpleTests for hook_file in Media Code Sprint (Status Report Two)">SimpleTests for hook_file in Media Code Sprint (Status Report Two)</a></h2>
+
+      <span class="submitted">Sat, 07/26/2008 - 04:51 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p>The <a href="http://aaronwinborn.com/blogs/aaron/media-code-sprint-top-3-goals">Media Code Sprint</a> has been a great success thus far! We have built a fairly comprehensive <a href="http://drupal.org/node/142995">test suite for hook_file</a>. It still needs to be rounded out, so that, for instance, all the cases for file saving are covered. However, validation is fleshed out, and the framework is pretty much usable and ready for testing gurus to go in and run it through its courses.</p>
+<p>Jonathan Hedstrom (<a href="http://drupal.org/user/208732">jhedstrom</a>) of <a href="http://opensourcery.com/people/jonathan-hedstrom">OpenSourcery</a> joined us this morning, and created the FileDirectoryTest class, finding and fixing some flaws in the current file api in the process. His help was invaluable. And we all quashed other minor bugs and problems in the documentation, so it's been a most successful sprint thus far.</p>
+<p>Tomorrow should prove to be productive as well. It's my last day in Portland before heading back east to Pennsylvania, so I plan to make it a great one. <strong>Thanks to <a href="http://advomatic.com/">Advomatic</a></strong> for sending me out to the media code sprint! It's great to work with a company that recognizes the value of Open Source, and reinvests in the community.</p>
+<p><a href="http://drupal.org/user/34869">Drewish</a> and I will be taking a break in the early afternoon to present a remote session for <a href="http://drupalcampcolorado.org/">DrupalCamp Colorado</a> on <a href="http://drupalcampcolorado.org/content/drupal-multimedia">Drupal Multimedia</a>, where we plan to talk about the state of the art and our recommendations for Drupal 6, as well as a brief overview of the successes of the Media Code Sprint, and what that means for the future of Drupal. See you there!</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/simpletests-hookfile-media-code-sprint-status-report-two#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/simpletests-hookfile-media-code-sprint-status-report-two" title="Read the rest of SimpleTests for hook_file in Media Code Sprint (Status Report Two).">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fsimpletests-hookfile-media-code-sprint-status-report-two&amp;linkname=SimpleTests%20for%20hook_file%20in%20Media%20Code%20Sprint%20%28Status%20Report%20Two%29" id="da2a_4"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-50" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_18 first"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_81"><a href="/category/tags/file-api" rel="tag" title="">File API</a>, </li>
+<li class="taxonomy_term_109"><a href="/category/tags/hookfile" rel="tag" title="">hook_file</a>, </li>
+<li class="taxonomy_term_104"><a href="/category/tags/media-code-sprint" rel="tag" title="">Media Code Sprint</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a></li>
+<li class="taxonomy_term_110 last"> and <a href="/category/tags/simpletests" rel="tag" title="">SimpleTests</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/media-code-sprint-status-report-one" title="Media Code Sprint: Status Report One">Media Code Sprint: Status Report One</a></h2>
+
+      <span class="submitted">Fri, 07/25/2008 - 01:58 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p><a href="http://aaronwinborn.com/blogs/aaron/media-code-sprint-top-3-goals">As announced</a>, we've begun the Media Code Sprint to put better media handling into Drupal core!</p>
+<p>It's been a great time so far. In the morning, <a href="http://drupal.org/user/34869">drewish</a> compiled a <a href="http://groups.drupal.org/node/13420">file function guessing game</a> (free beer!), and <a href="http://groups.drupal.org/user/15300">andreiashu</a> took the bait and completed the first round with great feedback about how unusable the current state is.</p>
+<p>Next, we've sat down and begun writing SimpleTests for the <a href="http://drupal.org/node/142995">hook_file patch</a>. This has been great fun for me personally; though drewish is an old hand at building tests, this is completely new for me. And to top it off, <a href="http://drupal.org/user/24967">webchick</a>, Queen of Drupal testing, dropped by our table and got involved!</p>
+<p>Even the process of writing tests has been helpful; we found at least one case for validation that had been missed in the original patch, and drewish decided that <a href="http://api.drupal.org/api/function/file_scan_directory/6">file_scan_directory</a> needed refactoring. (He's currently chasing other problems as well, and cursing about finding himself going down <a href="http://drupal.org/node/247095">rabbit holes</a>.)</p>
+<p>There's more fun to be had for all! If you want a quick 15 minute task that everyone is qualified to do, go play the <a href="http://groups.drupal.org/node/13420">File API Function Guessing Game</a>. If you want to do more, then ping me (aaronwinborn), drewish, or <a href="http://drupal.org/user/22202">dopry</a> at #drupal in IRC, or leave a comment here!</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/media-code-sprint-status-report-one#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/media-code-sprint-status-report-one" title="Read the rest of Media Code Sprint: Status Report One.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fmedia-code-sprint-status-report-one&amp;linkname=Media%20Code%20Sprint%3A%20Status%20Report%20One" id="da2a_5"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-49" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_5 first"><a href="/taxonomy/term/5" rel="tag" title="">Drupal Multimedia</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_107"><a href="/category/tags/file-handling" rel="tag" title="">File Handling</a>, </li>
+<li class="taxonomy_term_109"><a href="/category/tags/hookfile" rel="tag" title="">hook_file</a>, </li>
+<li class="taxonomy_term_108"><a href="/category/tags/media" rel="tag" title="">Media</a>, </li>
+<li class="taxonomy_term_104"><a href="/category/tags/media-code-sprint" rel="tag" title="">Media Code Sprint</a>, </li>
+<li class="taxonomy_term_65"><a href="/taxonomy/term/65" rel="tag" title="">Multimedia</a>, </li>
+<li class="taxonomy_term_105"><a href="/category/tags/oscon" rel="tag" title="">OSCON</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a></li>
+<li class="taxonomy_term_106 last"> and <a href="/category/tags/portland" rel="tag" title="">Portland</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/media-code-sprint-top-3-goals" title="Media Code Sprint (Top 3 Goals)">Media Code Sprint (Top 3 Goals)</a></h2>
+
+      <span class="submitted">Thu, 07/24/2008 - 02:50 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p>Andrew Morton (<a href="http://drupal.org/user/34869">drewish</a>), Darrel O'Pry (<a href="http://drupal.org/user/22202">dopry</a>, remotely), and I are heading up a <a href="http://groups.drupal.org/node/11810">Media Code Sprint</a> in Portland this week! Come help, in person or remotely, if you're interested in multimedia and Drupal! It has now officially started, and as I've volunteered to help keep folks updated, here goes...</p>
+<p>First the reasons.</p>
+<h2>Number One: Better Media Handling in Core</h2>
+<p>Dries conducted a survey prior to his <a href="http://buytaert.net/starting-to-work-on-drupal-7">State of Drupal</a> presentation at Boston Drupalcon 2008, and <strong>number one</strong> on the top ten (or 11) list of what would make THE KILLER DRUPAL 7 Release was "Better media handling".</p>
+<p>Let me repeat that. <strong>Better media handling</strong>.</p>
+<p>People have done really amazing stuff in contrib, but it is difficult (if not impossible in many cases) for developers to coordinate the use of files, as there is no good means for file handling in the core of Drupal. Thus, we have several dozen (or more) media modules doing some small part, or even duplicating functionality, sometimes out of necessity.</p>
+<p>We need (better) media and file handling in Drupal core. In particular, there has been a <a href="http://drupal.org/node/142995">patch for a hook_file</a> in the queue for over a year, which has been in the <a href="http://drupal.org/patch/spotlight">Patch Spotlight</a> (for the second time, no less) since May! (And has been RTBC several times during that process...) Come on folks.</p>
+<p>One of the powers of Drupal is its system of hooks. We have hooks to modify nodes, to notify changes to user objects, to alter nearly any data (such as forms and menus). Noticeably absent is a consistent handling for files or any sort of notification. We need hook_file.</p>
+<p>So goal <strong>Number One: get media handling in core</strong>. <em>The means?</em> <a href="http://drupal.org/node/142995">Add hook_file and make files into a 1st class Drupal object</a>. We'll be creating a test suite for functionality in the hook_file patch to validate it and "grease the wheels" to get it committed.</p>
+<p>The other goals of this sprint pale in comparison to the first in utility, but are still highly desirable and worthwhile.</p>
+<h2>Number Two: Refactor File Functionality in Core</h2>
+<p>As an extension to the first goal, there is a lot of inconsistency with how Drupal currently handles files. For instance, in some areas a function may return an object, and in others a string. Additionally, some functions are misnamed, or try to do too much to be useful as a file API.</p>
+<p>Some specific examples: for what it does, <a href="http://api.drupal.org/api/function/file_check_directory/6">file_check_directory</a> may be better suited as something like file_check_writable, or maybe even split into that and file_check_make_writable. Also, for instance, <a href="http://api.drupal.org/api/function/file_scan_directory/6">file_scan_directory</a> needs to return file objects, rather than the current <cite>associative array (keyed on the provided key) of objects with "path", "basename", and "name" members corresponding to the matching files.</cite> (The function does what it needs to, but the returned objects have keys not corresponding to anything else used in core.)</p>
+<p>So goal <strong>Number Two: refactor file functionality in core</strong>. <em>The means?</em> Go through and check for (and fix!) existing file functionality for documentation and consistency.</p>
+<h2>Number Three: Spruce up Existing Contributed Media Modules</h2>
+<p>There are several much needed multimedia modules that have not yet been upgraded to Drupal 6 (or which are still in heavy progress). This includes (but is not limited to) <a href="http://drupal.org/project/imagefield">Image Field</a>, <a href="http://drupal.org/project/imageapi">Image API</a>, and <a href="http://drupal.org/project/emfield">Embedded Media Field</a>. Additionally, some major improvements can be made, both to these, and to other essentials, such as the <a href="http://drupal.org/project/image">Image</a> module, such as creating a migration path from Image to Image Field (once that module is stable).</p>
+<p>So goal <strong>Number Three: spruce up existing contributed media modules</strong>. <em>The means?</em> Get these modules upgraded!</p>
+<p><strong>I want to recognize</strong> the valiant and heroic efforts made by everyone to date, as fortunately, there has already been significant progress on all these fronts. That makes our job (relatively) easy. In some respects, we just need to finish up the jobs that have already been started.</p>
+<p>Thus, drewish declared this week the <a href="http://groups.drupal.org/node/11810">Media Code Sprint</a>!</p>
+<p><strong>We need your help.</strong> If you are a developer, or want to be a developer, jump on in! If you aren't ready to develop, or consider yourself too new for that, you can still help test patches and functionality. Jump on in! And please, even if you don't know how to apply a patch, you can still help with documentation and other small (but important) tasks. Jump on in!</p>
+<p>If you're in Portland, You Have No Excuse®. If not, you can jump into #drupal in IRC any time you're available.</p>
+<p>The official dates for the sprint are today (Wednesday July 23, 2008) through Saturday (the 26th). We'll be online and working most of that time. I'll make sure we continue to post progress as the week develops.</p>
+<p>Of course, as is the wonderful nature of Drupal, this is an ongoing process. Even if we achieve our stated goals, there will always be more.</p>
+<p>Thanks,<br>
+Aaron Winborn</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/media-code-sprint-top-3-goals#comments" title="Jump to the first comment of this posting.">8 comments</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/media-code-sprint-top-3-goals" title="Read the rest of Media Code Sprint (Top 3 Goals).">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fmedia-code-sprint-top-3-goals&amp;linkname=Media%20Code%20Sprint%20%28Top%203%20Goals%29" id="da2a_6"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-48" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_103 first"><a href="/category/tags/ajax" rel="tag" title="">AJAX</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_102"><a href="/category/tags/embed-widgets" rel="tag" title="">Embed Widgets</a>, </li>
+<li class="taxonomy_term_101"><a href="/category/tags/javascript-theming" rel="tag" title="">JavaScript Theming</a>, </li>
+<li class="taxonomy_term_13"><a href="/taxonomy/term/13" rel="tag" title="">jQuery</a>, </li>
+<li class="taxonomy_term_87"><a href="/category/tags/json" rel="tag" title="">JSON</a></li>
+<li class="taxonomy_term_17 last active"> and <a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/javascript-theming-a-paradigm-shift" title="JavaScript Theming, a Paradigm Shift">JavaScript Theming, a Paradigm Shift</a></h2>
+
+      <span class="submitted">Fri, 07/18/2008 - 02:51 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p>Oleg Terenchuk (<a href="http://drupal.org/user/78134">litwol</a>) is now developing the <a href="http://drupal.org/project/js_theming">JavaScript Theming</a> module. The five second elevator spiel: this will move theming from the server to the client.</p>
+<p>The longer explanation is a bit more exciting. This module plans to abstract the core of Drupal theming into a javascript layer. This will allow a JSON feed to pass raw data to a browser to be formatted on the fly for display.</p>
+<p>The implications are astounding, and I'm still wrapping my brain around the possibilities. For one, it could mean super fast in place load times, because Drupal doesn't have to mess around with passing everything around the theming system. An AJAX request could just ask for the data, Drupal sends it, and jQuery will format your list, table, teaser, or what have you. In its second day of life, it already works with messages (and item lists, I believe).</p>
+<p>A potential problem I see might be that slower computers would see slower rendering times. But this is already happening with some jQuery-heavy sites anyway. The benefit would be most seen with faster hardware, but this is always true with cutting-edge technology. Everyone else will catch up soon enough.</p>
+<p>In any case, I have a feeling that by this time next year, I'll be blogging about the killer combo that changed the world of Drupal and is sending ripples through the Internet: <a href="http://drupal.org/project/embed_widgets">Embed Widgets</a> + <a href="http://drupal.org/project/js_theming">JavaScript Theming</a>...</p>
+<p><strong>PS</strong> Come to <a href="http://groups.drupal.org/node/12747">DrupalCampNYC</a> next month to <a href="http://groups.drupal.org/node/13208#comment-42913">find out more</a>!</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/javascript-theming-a-paradigm-shift#comments" title="Jump to the first comment of this posting.">11 comments</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/javascript-theming-a-paradigm-shift" title="Read the rest of JavaScript Theming, a Paradigm Shift.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fjavascript-theming-a-paradigm-shift&amp;linkname=JavaScript%20Theming%2C%20a%20Paradigm%20Shift" id="da2a_7"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-47" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_18 first"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_100"><a href="/category/tags/maplight" rel="tag" title="">MapLight</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a></li>
+<li class="taxonomy_term_39 last"> and <a href="/taxonomy/term/39" rel="tag" title="">widgets</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/built-a-new-widget" title="Built a New Widget!">Built a New Widget!</a></h2>
+
+      <span class="submitted">Wed, 07/16/2008 - 19:06 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p><a href="http://maplight.org/map/us/bill/10572/default/votes/vote-294451/75a8a96c"><img src="http://maplight.org/map/us/bill/10572/default/votes/widgetimg-294451/75a8a96c" ismap usemap="#maplight-widget" alt="Medicare Prescription Drug Price Negotiation Act of 2007 (at MAPLight.org)" title="Medicare Prescription Drug Price Negotiation Act of 2007 (at MAPLight.org)" align="right"></a><map name="maplight-widget"><area shape="RECT" coords="160,243 300,253" href="http://www.opensecrets.org/" alt="Center for Responsive Politics" title="Center for Responsive Politics"><area shape="default" href="http://maplight.org/map/us/bill/10572/default/votes/vote-294451/75a8a96c" alt="Medicare Prescription Drug Price Negotiation Act of 2007 (at MAPLight.org)" title="Medicare Prescription Drug Price Negotiation Act of 2007 (at MAPLight.org)"></map></p>
+<p><a href="http://drupal.org/user/3064">Neil Drumm</a> and I just launched a new widget with <a href="http://advomatic.com/">Advomatic</a>, over at <a href="http://maplight.org/">MapLight</a>.</p>
+<p>This widget is <a href="http://maplight.org/map/us/bill/10572/default/votes/widget-294451">fully customizable</a>, and returns a dynamic image with data created on the fly. I did the image part of things.</p>
+<p>I'll do a write up someday soon. I promise! Busy with book editing and work this week...</p>
+<p><strong>Edit:</strong> I forgot to link to the production version earlier. Sorry... Should be working now...</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/built-a-new-widget#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/built-a-new-widget" title="Read the rest of Built a New Widget!.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fbuilt-a-new-widget&amp;linkname=Built%20a%20New%20Widget%21" id="da2a_8"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-46" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_18 first"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_99"><a href="/category/tags/drupal-therapy" rel="tag" title="">Drupal Therapy</a>, </li>
+<li class="taxonomy_term_92"><a href="/category/tags/file-field" rel="tag" title="">File Field</a>, </li>
+<li class="taxonomy_term_140"><a href="/category/tags/filefield-jquery-media" rel="tag" title="">FileField + jQuery Media</a>, </li>
+<li class="taxonomy_term_40"><a href="/taxonomy/term/40" rel="tag" title="">jQuery Media</a>, </li>
+<li class="taxonomy_term_17 active"><a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a>, </li>
+<li class="taxonomy_term_58"><a href="/taxonomy/term/58" rel="tag" title="">Tutorials</a>, </li>
+<li class="taxonomy_term_32"><a href="/taxonomy/term/32" rel="tag" title="">Video</a></li>
+<li class="taxonomy_term_98 last"> and <a href="/category/tags/video-tutorial" rel="tag" title="">Video Tutorial</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/magic-local-video-recipe" title="Magic Local Video Recipe!">Magic Local Video Recipe!</a></h2>
+
+      <span class="submitted">Sun, 07/13/2008 - 23:39 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p><a href="http://aaronwinborn.com/blogs/aaron/magic-local-video-recipe"><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/filefield-jquery-media-tn.png" align="right"></a></p>
+<p>If you haven't already, make sure to check out Sean Effel's latest <a href="http://drupaltherapy.com/node/50">Filefield + jQuery Media screencast</a>! As was his earlier <a href="http://aaronwinborn.com/blogs/aaron/map-a-video-feed">Feed API + Emfield</a> video tutorial, this is a joy to watch: he does things in thirteen minutes that took developers hours or more to do even a few short months ago, and that's with a running commentary! By the end of the video, you will have learned a simple way to upload a video (using the light-weight <a href="http://drupal.org/project/filefield">File Field</a> module) and have it properly displayed without any messy configurations or external libraries. Plus, as the recipe uses the <a href="http://drupal.org/project/jquery_media">jQuery Media</a> plug-in wrapper module, the display will be cross-browser compliant and accessible.</p>
+<p>Next on my plate for <a href="http://drupal.org/project/jquery_media">jQuery Media</a> is to have it be easily added to nodes on an individual basis, so that a media clip could be linked inline and automatically turned into an embedded display. Additionally, I would like to make it an option for <a href="http://drupal.org/project/views">Views</a> as well, perhaps as an additional setting. (Although even without that, my upcoming book <a href="http://www.packtpub.com/create-multimedia-website-with-drupal/book">Drupal Multimedia</a>, to be published in September, goes into some detail about how this can already be done, to create powerful video and audio playlists.)</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/magic-local-video-recipe#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/magic-local-video-recipe" title="Read the rest of Magic Local Video Recipe!.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fmagic-local-video-recipe&amp;linkname=Magic%20Local%20Video%20Recipe%21" id="da2a_9"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-45" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_5 first"><a href="/taxonomy/term/5" rel="tag" title="">Drupal Multimedia</a>, </li>
+<li class="taxonomy_term_18"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_97"><a href="/category/tags/drupalorg" rel="tag" title="">Drupal.org</a></li>
+<li class="taxonomy_term_17 last active"> and <a href="/drupal" rel="tag" title="" class="active">Planet Drupal</a>.</li>
+</ul></div>
+        </div>
+
+
+  <h2><a href="/blogs/aaron/drupal-multimedia-book-announcement-drupalorg" title="Drupal Multimedia Book Announcement at Drupal.org">Drupal Multimedia Book Announcement at Drupal.org</a></h2>
+
+      <span class="submitted">Thu, 07/10/2008 - 08:31 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    <p><a href="http://www.packtpub.com/create-multimedia-website-with-drupal/book/mid/300608sz1cqj"><img src="http://drupalmultimedia.org/sites/drupalmultimedia.org/files/book-tn.jpg" align="right"></a></p>
+<p>So I just made a <a href="http://drupal.org/node/280461">formal announcement</a> of the pending publication of <a href="http://www.packtpub.com/create-multimedia-website-with-drupal/book/mid/300608sz1cqj">Drupal Multimedia</a> to Drupal.org, which was promoted to the front page of d.o!</p>
+<p>What a fun and nerve-wracking task that was. Trying to distill several months of work into a small list. Tweaking every word to make sure it's right. Then even in the end, realizing I'd made the post in third person, but left my signature in first.</p>
+<p>But this is nothing compared to the book! We've just started the editing process, and it's really great, seeing the words from the first chapter I wrote months ago, and having to face the reality of their obsolescence. I knew taking on the project that I wanted to write the book for Drupal 6, which didn't even exist at the time. So the first half of the book was speculative in a very real sense; few of us knew in October what merlinofchaos had planned for Views 2!</p>
+<p>That's what the editing process is for though. We're making sure the book is relevant for Drupal 6. (And I'm trying to keep in the necessary parts to ensure it's still useful for those still using Drupal 5, even if those are relegated to hint and tip boxes.)</p>
+<p>It's amazing how far Drupal has come over the years. That we can devote an entire book to integrating multimedia into Drupal is a testament to that. When the book is finally in your hands, I hope reading it will be as helpful for your continued learning as writing it has been for mine.</p>
+<p>Though my next book might simply be a blog...</p>
+  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="comment_comments"><a href="/blogs/aaron/drupal-multimedia-book-announcement-drupalorg#comments" title="Jump to the first comment of this posting.">8 comments</a></li>
+<li class="node_read_more"><a href="/blogs/aaron/drupal-multimedia-book-announcement-drupalorg" title="Read the rest of Drupal Multimedia Book Announcement at Drupal.org.">Read more</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fdrupal-multimedia-book-announcement-drupalorg&amp;linkname=Drupal%20Multimedia%20Book%20Announcement%20at%20Drupal.org" id="da2a_10"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/drupal" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/drupal?page=4" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a href="/drupal?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/drupal?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item"><a href="/drupal?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/drupal?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-current">6</li>
+<li class="pager-item"><a href="/drupal?page=6" title="Go to page 7" class="active">7</a></li>
+<li class="pager-item"><a href="/drupal?page=7" title="Go to page 8" class="active">8</a></li>
+<li class="pager-item"><a href="/drupal?page=8" title="Go to page 9" class="active">9</a></li>
+<li class="pager-item"><a href="/drupal?page=9" title="Go to page 10" class="active">10</a></li>
+<li class="pager-next"><a href="/drupal?page=6" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/drupal?page=9" title="Go to last page" class="active">last »</a></li>
+</ul></div>          </div>
+          <a href="/taxonomy/term/17/0/feed" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="RSS - Planet Drupal" width="16" height="16"></a>          <div id="footer"><div id="block-system-0" class="clear-block block block-system">
+
+
+  <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15"></a></div>
+</div>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-block-1" class="clear-block block block-block">
+
+
+  <div class="content"><div id="adsense-skyscraper-wide-1" class="adsense adsense-skyscraper-wide"><script type="text/javascript"><!--
+google_ad_client = "pub-0048007647043471";
+/* 160x600, aaronwinborn wide skyscraper 2008-06-07 */
+google_ad_slot = "1740793573";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div></div>
+</div>
+<div id="block-views-comments_recent-block" class="clear-block block block-views">
+
+  <h2>Recent comments</h2>
+
+  <div class="content"><div class="view view-comments-recent view-id-comments_recent view-display-id-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/built-a-new-widget#comment-2009">Jo Barton</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://suahkw.is.com/m" rel="nofollow">Sonia Moody</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>7 hours 49 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p><a href="http://rwijm.is.com/fm">Free Ocean Powerpoint Backgrounds</a><br>
+<a href="http://jphruuz.is.com/2m">Christmas Decorating Ideas Stairways</a><br>
+<a href="http://suahkw.is.com/iq">Nfl Playoff Tree 2006</a><br>
+<a href="http://iuuepkpei.is.com/2p">28mm Deck Plan</a><br>
+<a href="http://suahkw.is.com/k8">Pinched Nerve Neck Working Out</a><br>
+<a href="http://jphruuz.is.com/15p">Lift Carry Story</a><br>
+<a href="http://iuuepkpei.is.com/kp">Myspace Cursor For Mac</a><br>
+<a href="http://lmmeyxmc.is.com/jo">Games Online Seek And Find</a><br>
+<a href="http://rwijm.is.com/fg">70s Trivia Questions</a><br>
+<a href="http://lmmeyxmc.is.com/oe">Older Women Lactating</a><br>
+<a href="http://suahkw.is.com/3m">Kindergarten Poems First Day</a><br>
+<a href="http://suahkw.is.com/hq">One Minute Comedic Monologues For Men</a><br>
+<a href="http://lmmeyxmc.is.com/1u">Printable Graffiti</a><br>
+<a href="http://rwijm.is.com/13e">Locating Canine Lymph Nodes</a><br>
+<a href="http://iuuepkpei.is.com/n1">Used Truck Caps For Sale Buffalo Ny</a><br>
+<a href="http://lmmeyxmc.is.com/gu">4x6 Cargo Trailer</a><br>
+<a href="http://jphruuz.is.com/yl">Real Street Fights Caught On Tape</a><br>
+<a href="http://suahkw.is.com/7n">Diagram On Digestive System Of A Bear</a><br>
+<a href="http://lmmeyxmc.is.com/5p">Bock Solar Water Heaters</a><br>
+<a href="http://lmmeyxmc.is.com/6v">Honey Baked Ham Centerville Oh</a><br>
+<a href="http://iuuepkpei.is.com/138">Bending Over Mini Skirt</a><br>
+<a href="http://lmmeyxmc.is.com/d9">Height And Weight Chart Ratio</a><br>
+<a href="http://jphruuz.is.com/f">Sallow Free Trailers</a><br>
+<a href="http://suahkw.is.com/10n">Bee Leadership Styles</a><br>
+<a href="http://rwijm.is.com/10j">Marysville Outlet Mall</a><br>
+<a href="http://iuuepkpei.is.com/xb">Patterns For Goose Clothing</a><br>
+<a href="http://jphruuz.is.com/bm">Cross Tattoo Flash</a><br>
+<a href="http://jphruuz.is.com/qq">Tawnee Stones En La Playa</a><br>
+<a href="http://jphruuz.is.com/pc">Free Version Adobe Acrobat Reader 6.0</a><br>
+<a href="http://iuuepkpei.is.com/4z">The Rolling Stones Wallpaper</a><br>
+<a href="http://rwijm.is.com/i8">Pokemon Emerald Gameshark Sp Cheat Codes</a><br>
+<a href="http://jphruuz.is.com/tv">Printable Blank Rulers</a><br>
+<a href="http://suahkw.is.com/10y">Ford Galaxie 500 Xl For Sale</a><br>
+<a href="http://lmmeyxmc.is.com/ao">Baseball World Series Myspace Layout</a><br>
+<a href="http://rwijm.is.com/3j">Free Restaurant Menu Design</a><br>
+<a href="http://iuuepkpei.is.com/13k">Glock Auto Conversion Drawing</a><br>
+<a href="http://iuuepkpei.is.com/z5">Clouds Worksheet First Grade</a><br>
+<a href="http://lmmeyxmc.is.com/13h">Free Easy Knitting Patterns</a><br>
+<a href="http://iuuepkpei.is.com/cu">Fleur De Lis Print Online Free</a><br>
+<a href="http://iuuepkpei.is.com/st">Tv Remote Program Codes</a></p>
+<p>大阪　デリヘル</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/drupal-dads-day#comment-2008">Rob Chen</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://rwijm.is.com/dm" rel="nofollow">Tony Shelton</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>8 hours 28 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p><a href="http://lmmeyxmc.is.com/9u">Pinoy Online Store</a><br>
+<a href="http://suahkw.is.com/fh">Bunnies Eiffel Tower</a><br>
+<a href="http://lmmeyxmc.is.com/b5">Age Of Empires 3 Product Key And Crack</a><br>
+<a href="http://suahkw.is.com/lo">2005 Top 40 Rock Songs</a><br>
+<a href="http://lmmeyxmc.is.com/s1">Wiring Diagram For Radio Gm</a><br>
+<a href="http://lmmeyxmc.is.com/ut">Maternity Dresses In Houston Tx</a><br>
+<a href="http://rwijm.is.com/ld">Schnauzer Chihuahua Mix</a><br>
+<a href="http://lmmeyxmc.is.com/bj">Printable Hello Kitty Valentine's Cards</a><br>
+<a href="http://jphruuz.is.com/vc">Yuna Flash Game</a><br>
+<a href="http://suahkw.is.com/13">Apply Concealed Weapons Permit Oregon</a><br>
+<a href="http://rwijm.is.com/ys">Punk Women's Short Hairstyles Photo</a><br>
+<a href="http://suahkw.is.com/wo">Horse Template Joomla</a><br>
+<a href="http://jphruuz.is.com/88">Train Lady Coloring Page</a><br>
+<a href="http://iuuepkpei.is.com/3n">Military Display Cases</a><br>
+<a href="http://lmmeyxmc.is.com/1s">A Map Of Spain With The Capital Marked</a><br>
+<a href="http://lmmeyxmc.is.com/2a">Tropical Rainforest Lanforms</a><br>
+<a href="http://rwijm.is.com/3u">Pam Anderson Laid</a><br>
+<a href="http://lmmeyxmc.is.com/gh">2004 Dodge Stratus Repair Manual</a><br>
+<a href="http://suahkw.is.com/13j">Large Flower Origami</a><br>
+<a href="http://iuuepkpei.is.com/yp">Against School Dress Codes</a><br>
+<a href="http://suahkw.is.com/lm">Prom Dresses England</a><br>
+<a href="http://suahkw.is.com/166">Mens Slipper Acrylic Knitting Pattern</a><br>
+<a href="http://rwijm.is.com/jo">Harry Potter Movie Theme Song</a><br>
+<a href="http://lmmeyxmc.is.com/ml">Windows Xp Pro Upgrade Cd Key Gen</a><br>
+<a href="http://lmmeyxmc.is.com/10o">Universal Remote Sanyo</a><br>
+<a href="http://suahkw.is.com/14h">Ice Cream Recipes</a><br>
+<a href="http://lmmeyxmc.is.com/fp">Pictures Of Butterflies On Body</a><br>
+<a href="http://rwijm.is.com/156">Ceramic Wood Stove</a><br>
+<a href="http://iuuepkpei.is.com/4c">Women Formal Wear</a><br>
+<a href="http://suahkw.is.com/l9">Cole Fireplace Insert</a><br>
+<a href="http://lmmeyxmc.is.com/u8">Free Adobe Elements Full Version</a><br>
+<a href="http://lmmeyxmc.is.com/10u">Power Ranger Toddler Games</a><br>
+<a href="http://iuuepkpei.is.com/yf">Cherry Print Fabric</a><br>
+<a href="http://suahkw.is.com/2t">High Carbohydrate Food List</a><br>
+<a href="http://jphruuz.is.com/10x">Printable Short Poems</a><br>
+<a href="http://iuuepkpei.is.com/me">Printable Free Map Of Spain</a><br>
+<a href="http://suahkw.is.com/hr">Money Making In Conqueronline</a><br>
+<a href="http://lmmeyxmc.is.com/sy">Kids Name Tags</a><br>
+<a href="http://iuuepkpei.is.com/xc">True Love Download Free 95</a><br>
+<a href="http://rwijm.is.com/r0">California Highway Patrol Weapon Sale</a></p>
+<p>大阪　デリヘル</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/minimalist-drupal-themes#comment-2007">大阪　デリヘル</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://www.shinchakun.com/" rel="nofollow">大阪　デリヘル</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>23 hours 32 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p>新着ん。は<a href="http://www.shinchakun.com/">大阪　デリヘル</a>、大阪　ホテヘルなどのリアルタイム情報を掲載しています。<br>
+<a href="http://blog.livedoor.jp/osaka_huzoku/">大阪　デリヘル</a>をご利用したいとお考えの方、<a href="http://osakanohuzoku.blog13.fc2.com/">大阪　デリヘル</a>に興味をお持ちの方は是非こちらの<a href="http://www.kinspo.jp/">大阪　デリヘル</a>サイトをご覧下さい。<br>
+<a href="http://www.osakadelivery.com/">大阪　デリヘル</a>、大阪　風俗。キャバクラ、ホスト等の高収入求人情報に興味のある方は<a href="http://www.galsworker-plus.com/">大阪　高収入求人</a>ワーカープラスへ！</p>
+<p><a href="http://www.at-copy.net/">中古コピー機</a>専門店アットコピーは、<a href="http://ameblo.jp/atcopy/">中古コピー機</a>を「あっと」驚く価格。「あっと」いう間に全国配送致します！<a href="http://oldcopy.blog99.fc2.com/">中古コピー機</a>ならアットコピーへ！</p>
+<p>神戸で<a href="http://www.warpnetwork.com/">風俗</a>、<a href="http://www.warpnetwork.com/">ヘルス</a>をお探しならこちらで！！</p>
+<p>神戸でアルバイトをお探しなら<a href="http://www.warp-recruit.com/">神戸　高収入アルバイト</a>で！<a href="http://www.warp-recruit.com/m/">神戸　高収入アルバイト</a>ならきっとお望みのアルバイトが見つかります！</p>
+<p><a href="http://www.actiblog.com/jrap/">日本語ラップ</a>好きによるBLOG。メディアで知ることの出来ないアーティストも多数紹介しています！<br>
+大手流通では置いていない<a href="http://soundgarden2008.com/">日本語ラップ　通販</a>はこちら。</p>
+<p>漫画好きによる<a href="http://manga55.exblog.jp/">漫画 おすすめ マンガ</a>のBLOGです。歴史的名作からB級作品まで、様々な漫画を紹介します！</p>
+<p>誰が何と言おうと<a href="http://newworldoder.cocolog-nifty.com/blog/">プロレス</a>は最高です！プロレスLOVEな男によるBLOGです。</p>
+<p>崇高なる音楽<a href="http://plaza.rakuten.co.jp/ironman55/">ヘビーメタル</a>を愛する人間によるBLOGです。</p>
+<p>日本人の精神を見失った人達へのメッセージ。<a href="http://j-aikokushin.jugem.jp/">愛国心</a>を取り戻しましょう！</p>
+<p>名作「<a href="http://hokutonootokotati.seesaa.net/">北斗の拳</a>」から人生を学びましょう。</p>
+<p>CDやDVDを作りたい方、<a href="http://yaplog.jp/cdpress/">CD　プレス</a>BLOGを参考にして下さい。</p>
+<p>世界に誇る素晴らしい<a href="http://jpopsaikou.at.webry.info/">J-POP</a>を紹介します。</p>
+<p>夜のお仕事,、<a href="http://www.mnavi.jp/">キャバクラ　求人</a>,大阪･神戸･京都･滋賀･奈良･和歌山の高収入ﾊﾞｲﾄ情報のエムナビ｡<a href="http://www.mnavi.jp/">キャバクラ　アルバイト</a>をお探しの方に最適！</p>
+<p>毎日使える無料<a href="http://mdecome.jp/">デコメ</a>画像素材サイト！会員登録無しで取り放題。</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/minimalist-drupal-themes#comment-2006">CD　プレス</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://www.yasui-press.com/" rel="nofollow">CD　プレス</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>23 hours 36 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p>CD,DVDをプレスするなら高品質で激安の<a href="http://www.yasui-press.com/">CD　プレス</a>、YASUI PRESSで！</p>
+<p>フライヤー、ポスター、冊子、ステッカー…印刷なら「安い」「早い」<a href="http://www.yotsuba-insatsu.com/">印刷　激安</a>のYOTSUBA印刷で！</p>
+<p>HipHop,R&amp;B,Reggae,Houseの<a href="http://www.monster-dream.com/">MIX CD</a>なら<a href="http://www.monstermusic-store.com/">MIX CD　通販</a>Monster Musicのページで！</p>
+<p>大阪でロープライス、ハイクオリティーなデリヘルをお探しなら<a href="http://www.pin-colle.net/">大阪　デリヘル</a>で！</p>
+<p>大阪でお仕事をお探しの方は<a href="http://www.pink-job.jp/">大阪　高収入求人</a>で！</p>
+<p>フラミンゴヒップはブランド<a href="http://www.rakuten.ne.jp/gold/flamingohip/">コスメ</a>、海外コスメ、韓国コスメ、香水、アパレル、雑貨などを豊富な品揃えで、激安通販しております。</p>
+<p>CMのBGM、WEB用のオリジナル楽曲の制作なら<a href="http://www.ongakuseisaku.net/">音楽制作</a>で！</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/drupal-dads-day#comment-2005">sfefew</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://www.jeansonlineclothing.com/" rel="nofollow">r43</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>23 hours 49 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p>Një person që ecin në shi dritë mbrëmje<br>
+Mendoni për mendjen, të menduarit e ju prej së largu<br>
+era butë, shi drita<br>
+dëshirë e madhe kujdesshëm, kënaqin në erë dhe shi në sintezë të ekranit<br>
+Gjithmonë mendojnë se çfarë i takon në kujtesën e jetës së kaluar<br>
+Në mënyrë që të plotësojnë një të bukur<br>
+Në Zot unë nuk e di se sa kohë para se të kërkojnë<br>
+Ju lutem, qiell-na dërgoi një shans<br>
+Filloni me i ri tuaj</p></div>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/comments/recent">
+    more  </a>
+</div>
+  
+  
+  
+</div> </div>
+</div>
+<div id="block-node-0" class="clear-block block block-node">
+
+  <h2>Syndicate</h2>
+
+  <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate" width="16" height="16"></a></div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+da2a.init = function(){
+a2a_config.linkname='Media Player with Dynamic Logo!'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/media-player-with-dynamic-logo'; a2a.init('page', {target: '#da2a_1'});
+a2a_config.linkname='Home-Brewed Drupal Media Player in the Works!'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/home-brewed-drupal-media-player-works'; a2a.init('page', {target: '#da2a_2'});
+a2a_config.linkname='Erik Gecas&#039;s Art Show'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/erik-gecass-art-show'; a2a.init('page', {target: '#da2a_3'});
+a2a_config.linkname='SimpleTests for hook_file in Media Code Sprint (Status Report Two)'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/simpletests-hookfile-media-code-sprint-status-report-two'; a2a.init('page', {target: '#da2a_4'});
+a2a_config.linkname='Media Code Sprint: Status Report One'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/media-code-sprint-status-report-one'; a2a.init('page', {target: '#da2a_5'});
+a2a_config.linkname='Media Code Sprint (Top 3 Goals)'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/media-code-sprint-top-3-goals'; a2a.init('page', {target: '#da2a_6'});
+a2a_config.linkname='JavaScript Theming, a Paradigm Shift'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/javascript-theming-a-paradigm-shift'; a2a.init('page', {target: '#da2a_7'});
+a2a_config.linkname='Built a New Widget!'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/built-a-new-widget'; a2a.init('page', {target: '#da2a_8'});
+a2a_config.linkname='Magic Local Video Recipe!'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/magic-local-video-recipe'; a2a.init('page', {target: '#da2a_9'});
+a2a_config.linkname='Drupal Multimedia Book Announcement at Drupal.org'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/drupal-multimedia-book-announcement-drupalorg'; a2a.init('page', {target: '#da2a_10'});
+da2a.ready = true;
+}
+da2a.html_ready = true;
+if(da2a.script_ready && !da2a.ready)da2a.init();
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/aaronwinborn.com/files/js/js_2210100a40493bc7aefa2b4dc761321f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-962486-7");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+  
+
+</body></html>
