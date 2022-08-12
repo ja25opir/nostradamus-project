@@ -164,7 +164,7 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
         def distributed_filter(text):
             if len(text) < 1000:  # only extract long texts
                 return False
-            n_matches = len(re.findall(regex, text))
+            n_matches = len(regex.findall(text))
             if n_matches == 0:
                 return False
             if not resiliparse.parse.lang.detect_fast(text)[0] == "en":  # only extract english texts
@@ -188,19 +188,17 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
 
 if __name__ == "__main__":
     interesting_snippets = [
-        "someday",
-        "in the future",
-        "the future will be",
-        "in the future we will",
-        "in a year",
-        "in one year",
-        "in ten years",
-        "in a hundred years",
-        "in a few years",
-        "the future will bring",
-        "I think in the future"
+        "(?:hope|think|believe|wish) someday",
+        "in the (?:upcoming times?|times? to come|times? [is|are]\s? coming|times? [is]\s?[lays?|laying]?\s?ahead|future)",
+        "the (?:upcoming times?|times? to come|times? [is|are]\s? coming|times? [is]\s?[lays?|laying]?\s?ahead|future) will (?:be|bring|get|support)",
+        "(?:good|better|best|bad|worse|worst|sad|sadder|saddest|funny|funnier|funniest|happy|happier|happiest|scary|scarier|scariest|hot|hotter|hottest|bright|horrible|terrible|crazy|cruel|cool|fantastic|fragile|glorious|messy|nice|perfect|strange|ugly|dirty|exciting|beautiful) (?:upcoming times?|times? to come|times? [is|are]\s? coming|times? [is]\s?[lays?|laying]?\s?ahead|future)",
+        "In (?:a|the next)\s?[few]*\s?(?:months?|years?)",
+        "in [the next][like|about|around|maybe|ca]\s?a?\s?(?:one|two|three|four|five|six|seven|eight|nine|ten|hundred|thousand|million|billion) (?:months?|years?)",
+        "in [the next]\s?[like|about|around|maybe|ca]\s?a?\s?[1-9][0-9]?[0-9]?[0-9]?[0-9]?[0-9]? (?:months?|years?)"
     ]
+
     regex = "|".join(interesting_snippets)
+    regex = re.compile(regex, re.IGNORECASE)
     out_dir = "data/regex_counter/out/"
     p = RegexCounterPipeline(regex, out_dir)
     p.run()
