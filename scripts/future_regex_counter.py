@@ -174,6 +174,17 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
 
         return distributed_filter
 
+    def get_tokenizer(self):
+        regex = self.regex
+
+        def tokenizer(text):
+            reg_matches = regex.findall(text)
+            sentences = re.split('[.!?\n]', text)
+            matches = [s for s in sentences if any(r in s for r in reg_matches)]
+            return matches
+
+        return tokenizer
+
     def start_threads(self):
         def save_stats():
             while True:
