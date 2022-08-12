@@ -180,7 +180,7 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
         def tokenizer(text):
             reg_matches = regex.findall(text)
             sentences = re.split('[.!?\n]', text)
-            matches = [s for s in sentences if any(r in s for r in reg_matches)]
+            matches = " ###".join([s for s in sentences if any(r in s for r in reg_matches)])
             return matches
 
         return tokenizer
