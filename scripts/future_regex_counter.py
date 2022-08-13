@@ -139,11 +139,11 @@ class CandidatePipeline(Pipeline, abc.ABC):
 
     def export(self, prediction, export_text, url):
         prediction = np.reshape(prediction, ())
-        tokenizer = self.get_tokenizer()
+        tokenizer = self.get_tokenizer()    # added tokenizer to save only candidate sentences
         print(url.decode("utf-8"), prediction)
         with open(f"{self.out_dir}/{base64.urlsafe_b64encode(url[:128]).decode('utf-8')}_{prediction:1.4f}.txt",
                   "w") as f:
-            f.write(tokenizer(export_text.decode("utf-8")))
+            f.write(tokenizer(export_text.decode("utf-8")))     # call tokenizer when writing to file
 
 
 class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
@@ -180,8 +180,8 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
 
         def tokenizer(text):
             reg_matches = regex.findall(text)
-            sentences = re.split('[.!?\n]', text)
-            matches = " ###".join([s for s in sentences if any(r in s for r in reg_matches)])
+            sentences = re.split('[.!?\n]', text)   # split text up into sentences
+            matches = " ###".join([s for s in sentences if any(r in s for r in reg_matches)])   # search sentences for regex matches
             return matches
 
         return tokenizer
@@ -210,7 +210,7 @@ if __name__ == "__main__":
     ]
 
     regex = "|".join(interesting_snippets)
-    regex = re.compile(regex, re.IGNORECASE)
+    regex = re.compile(regex, re.IGNORECASE)    # precompile regexes
     out_dir = "data/regex_counter/out/"
     p = RegexCounterPipeline(regex, out_dir)
     p.run()
