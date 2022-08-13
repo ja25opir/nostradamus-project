@@ -139,11 +139,10 @@ class CandidatePipeline(Pipeline, abc.ABC):
 
     def export(self, prediction, export_text, url):
         prediction = np.reshape(prediction, ())
-        tokenizer = self.get_tokenizer()    # added tokenizer to save only candidate sentences
         print(url.decode("utf-8"), prediction)
         with open(f"{self.out_dir}/{base64.urlsafe_b64encode(url[:128]).decode('utf-8')}_{prediction:1.4f}.txt",
                   "w") as f:
-            f.write(tokenizer(export_text.decode("utf-8")))     # call tokenizer when writing to file
+            f.write(export_text.decode("utf-8"))
 
 
 class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
@@ -185,6 +184,14 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
             return matches
 
         return tokenizer
+
+    def export(self, prediction, export_text, url):
+        prediction = np.reshape(prediction, ())
+        tokenizer = self.get_tokenizer()    # added tokenizer to save only candidate sentences
+        print(url.decode("utf-8"), prediction)
+        with open(f"{self.out_dir}/{base64.urlsafe_b64encode(url[:128]).decode('utf-8')}_{prediction:1.4f}.txt",
+                  "w") as f:
+            f.write(tokenizer(export_text.decode("utf-8")))  # call tokenizer when writing to file
 
     def start_threads(self):
         def save_stats():
