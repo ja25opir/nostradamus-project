@@ -1,0 +1,715 @@
+<html><head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="High School of Art &amp; Design, School of Industrial Art Alumni Association official website">
+<meta name="keywords" content="high school , art &amp; design , industrial arts , art school , art , design , graphic design , graphics , photography school , school , industrial , art , silk screen , architecture school , industrial design , fashion illustration , art direction , alumni , alumnus , association , alumni association , reunion , grand reunion ">
+		<title>Welcome to Art &amp; Design Alumni Association</title>
+		</head><body bgcolor="#ffffff" link="#003399" vlink="#003399" alink="black" text="black" background="../media/background.gif"><csscriptdict import>
+			<script src="../GeneratedItems/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ '1C5055363'] = new Array(CSOpenWindow,/*URL*/ 'http://paulmordetsky.artspan.com/','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1CA7AAA67'] = new Array(CSOpenWindow,/*URL*/ 'http://www.heberts-enterprises.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D1BA3275'] = new Array(CSOpenWindow,/*URL*/ 'http://www.vsearch.com/Kenney/','',600,600,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D2722877'] = new Array(CSOpenWindow,/*URL*/ 'http://www.jlawdesign.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D2722879'] = new Array(CSOpenWindow,/*URL*/ 'http://www.mellowyellowtheatre.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D2724781'] = new Array(CSOpenWindow,/*URL*/ 'http://www.jlawdesign.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D39DE683'] = new Array(CSOpenWindow,/*URL*/ 'http://www.DianaPonceART.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D5A4D285'] = new Array(CSOpenWindow,/*URL*/ 'http://ExploreYourWorld@www.discovery.com/','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D6E19787'] = new Array(CSOpenWindow,/*URL*/ 'http://www.mdngraphics.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1D6E1A789'] = new Array(CSOpenWindow,/*URL*/ 'http://www.independent-soul.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '8B89DC0'] = new Array(CSOpenWindow,/*URL*/ 'http://web.mac.com/cheryl_green','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '362AD20'] = new Array(CSOpenWindow,/*URL*/ 'http://www.themadhand.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '36B7A11'] = new Array(CSOpenWindow,/*URL*/ 'http://www.thepridecartoon.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '19111D0'] = new Array(CSOpenWindow,/*URL*/ 'http://www.cardinalhealth.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '19E8531'] = new Array(CSOpenWindow,/*URL*/ 'http://jeremyginsberg.com/family/','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '3CECFC0'] = new Array(CSOpenWindow,/*URL*/ 'http://www.regalandrebel.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '3DF41B1'] = new Array(CSOpenWindow,/*URL*/ 'http://www.guillermocastillo.net','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '564F940'] = new Array(CSOpenWindow,/*URL*/ 'http://www.quitting-time.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '5F1D7C5'] = new Array(CSOpenWindow,/*URL*/ 'http://www.shadensmilen.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '6001166'] = new Array(CSOpenWindow,/*URL*/ 'http://www.gppcomic.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '60D2417'] = new Array(CSOpenWindow,/*URL*/ 'http://www.dungbeetlecomics.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '61A6698'] = new Array(CSOpenWindow,/*URL*/ 'http://www.gigcast.nightgig.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '6285319'] = new Array(CSOpenWindow,/*URL*/ 'http://www.nightgig.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ 'B164C70'] = new Array(CSOpenWindow,/*URL*/ 'http://www.guitarpixel.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '1301D160'] = new Array(CSOpenWindow,/*URL*/ 'http://stores.lulu.com/newstetter','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '11C78181'] = new Array(CSOpenWindow,/*URL*/ 'http://www.lynxairways.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '3F4C480'] = new Array(CSOpenWindow,/*URL*/ 'http://www.personaltrainingconnection.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ 'FB6F4F0'] = new Array(CSOpenWindow,/*URL*/ 'http://www.readflyoveramerica.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '10166681'] = new Array(CSOpenWindow,/*URL*/ 'mailto:sdtex2001@yahoo.com','',550,550,true,true,true,true,true,true,true);
+CSAct[/*CMP*/ '101E9B22'] = new Array(CSOpenWindow,/*URL*/ 'http://www.sophiadembling.com','',550,550,true,true,true,true,true,true,true);
+
+// --></script>
+		</csactiondict>
+		<csimport user="file:///artalumni.data/Components/navhead.html" occur="92"></csimport>
+		<csactions>
+			<csaction name="1C5055363" class="Open Window" type="onevent" val0="http://paulmordetsky.artspan.com/" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1CA7AAA67" class="Open Window" type="onevent" val0="http://www.heberts-enterprises.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D1BA3275" class="Open Window" type="onevent" val0="http://www.vsearch.com/Kenney/" val1="" val2="600" val3="600" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D2722877" class="Open Window" type="onevent" val0="http://www.jlawdesign.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D2722879" class="Open Window" type="onevent" val0="http://www.mellowyellowtheatre.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D2724781" class="Open Window" type="onevent" val0="http://www.jlawdesign.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D39DE683" class="Open Window" type="onevent" val0="http://www.DianaPonceART.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D5A4D285" class="Open Window" type="onevent" val0="http://ExploreYourWorld@www.discovery.com/" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D6E19787" class="Open Window" type="onevent" val0="http://www.mdngraphics.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1D6E1A789" class="Open Window" type="onevent" val0="http://www.independent-soul.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="8B89DC0" class="Open Window" type="onevent" val0="http://web.mac.com/cheryl_green" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="362AD20" class="Open Window" type="onevent" val0="http://www.themadhand.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="36B7A11" class="Open Window" type="onevent" val0="http://www.thepridecartoon.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="19111D0" class="Open Window" type="onevent" val0="http://www.cardinalhealth.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="19E8531" class="Open Window" type="onevent" val0="http://jeremyginsberg.com/family/" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="3CECFC0" class="Open Window" type="onevent" val0="http://www.regalandrebel.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="3DF41B1" class="Open Window" type="onevent" val0="http://www.guillermocastillo.net" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="564F940" class="Open Window" type="onevent" val0="http://www.quitting-time.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="5F1D7C5" class="Open Window" type="onevent" val0="http://www.shadensmilen.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="6001166" class="Open Window" type="onevent" val0="http://www.gppcomic.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="60D2417" class="Open Window" type="onevent" val0="http://www.dungbeetlecomics.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="61A6698" class="Open Window" type="onevent" val0="http://www.gigcast.nightgig.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="6285319" class="Open Window" type="onevent" val0="http://www.nightgig.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="B164C70" class="Open Window" type="onevent" val0="http://www.guitarpixel.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="1301D160" class="Open Window" type="onevent" val0="http://stores.lulu.com/newstetter" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="11C78181" class="Open Window" type="onevent" val0="http://www.lynxairways.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="3F4C480" class="Open Window" type="onevent" val0="http://www.personaltrainingconnection.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="FB6F4F0" class="Open Window" type="onevent" val0="http://www.readflyoveramerica.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="10166681" class="Open Window" type="onevent" val0="mailto:sdtex2001@yahoo.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			<csaction name="101E9B22" class="Open Window" type="onevent" val0="http://www.sophiadembling.com" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+		</csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csaction></csactions>
+		<csimport user="../../artalumni.data/Components/navside.html" occur="94">
+			<csactiondict>
+				<script><!--
+CSAct[/*CMP*/ 'Cmp00625CD494131FA042'] = new Array(CSOpenWindow,/*URL*/ 'http://pub50.bravenet.com/guestbook/4261923459/','',550,550,true,true,true,true,true,true,true);
+
+// --></script>
+			</csactiondict>
+			<csactions>
+				<csaction name="131FA042" class="Open Window" type="onevent" val0="http://pub50.bravenet.com/guestbook/4261923459/" val1="" val2="550" val3="550" val4="true" val5="true" val6="true" val7="true" val8="true" val9="true" val10="true">
+			</csaction></csactions>
+		</csimport>
+		<csimport user="../../artalumni.data/Components/navbottom.html" occur="79">
+			<csactiondict>
+				<script><!--
+CSAct[/*CMP*/ 'Cmp0072D99179B70DEF233'] = new Array(CSOpenWindow,/*URL*/ 'privacypolicy.html','',400,400,false,false,false,false,false,true,false);
+
+// --></script>
+			</csactiondict>
+			<csactions>
+				<csaction name="B70DEF233" class="Open Window" type="onevent" val0="privacypolicy.html" val1="" val2="400" val3="400" val4="false" val5="false" val6="false" val7="false" val8="false" val9="true" val10="false">
+			</csaction></csactions>
+		</csimport>
+	
+
+	
+		<table cool width="613" height="13149" usegridx usegridy showgridx showgridy gridx="4" gridy="4" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr height="96">
+				<td width="1" height="96"></td>
+				<td width="611" height="96" colspan="3" valign="top" align="left" xpos="1"><csobj w="611" h="18" t="Component" csref="file:///artalumni.data/Components/navhead.html" occur="92">
+						<table cool width="577" height="87" usegridx usegridy showgridx showgridy gridx="4" gridy="4" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr height="4">
+								<td width="100" height="4" colspan="2"></td>
+								<td width="476" height="86" rowspan="2" valign="top" align="left" xpos="100"><img src="../media/logoType4PlusBrush.gif" width="476" height="86" border="0"></td>
+								<td width="1" height="4"><spacer type="block" width="1" height="4"></spacer></td>
+							</tr>
+							<tr height="82">
+								<td width="2" height="82"></td>
+								<td width="98" height="82" valign="top" align="left" xpos="2"><a href="../index.html" target="_top"><img src="../media/Logo115.gif" width="83" height="82" border="0"></a></td>
+								<td width="1" height="82"><spacer type="block" width="1" height="82"></spacer></td>
+							</tr>
+							<tr height="1" cntrlrow>
+								<td width="2" height="1"><spacer type="block" width="2" height="1"></spacer></td>
+								<td width="98" height="1"><spacer type="block" width="98" height="1"></spacer></td>
+								<td width="476" height="1"><spacer type="block" width="476" height="1"></spacer></td>
+								<td width="1" height="1"></td>
+							</tr>
+						</tbody></table>
+					</csobj></td>
+				<td width="1" height="96"><spacer type="block" width="1" height="96"></spacer></td>
+			</tr>
+			<tr height="12918">
+				<td width="112" height="12918" colspan="2" valign="top" align="left" xpos="0"><csobj w="32" h="25" t="Component" csref="../../artalumni.data/Components/navside.html" occur="94">
+						<table border="0" cellpadding="0" cellspacing="2" width="99">
+							<tbody><tr>
+								<td>
+									<div align="left">
+										<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003399" size="2"><b><a href="../index.html" target="_top">HOME<br>
+												</a></b><a href="events.html" target="_top">Event Calendar<br>
+											</a><a href="aboutus.html" target="_top">About Us</a><a href="aboutus.html"><br>
+											</a><a href="joinus.html" target="_top">Membership<br>
+											</a><a href="links.html" target="_top">Important Links</a><a href="joinus.html" target="_top"><br>
+											</a><a href="history.html" target="_top">School History<br>
+											</a><a href="schoolnews.html" target="_top">School News</a><a href="schoolnews.html" target="_top"><br>
+											</a><a href="alumninews.html" target="_top">Alumni Bios<br>
+											</a><a href="alumnigallery.html" target="_top">Alumni Gallery<br>
+											</a><a href="alumnibooks.html" target="_top">Alumni Library</a><a href="alumnigallery.html" target="_top"><br>
+											</a><a href="literary.html" target="_top">Creative Writing</a><a href="alumnigallery.html" target="_top"><br>
+											</a><a href="alumnistore.html" target="_top">Alumni Store</a><a href="alumnigallery.html" target="_top"><br>
+											</a><a href="yrbookframe.html" target="_top">Yearbooks<br>
+											</a><a href="photoframe.html" target="_top">Photo Albums<br>
+											</a></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003399" size="2"><a href="reunions.html" target="_top">Reunions<br>
+											</a></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003399" size="2"><a href="http://pub50.bravenet.com/guestbook/4261923459/" onclick="CSAction(new Array(/*CMP*/'Cmp00625CD494131FA042'));return CSClickReturn();" csclick="131FA042">Guest Book &amp;<br>
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												MessageBoards<br>
+											</a><a href="contactus.html" target="_top">Contact Us<br>
+											</a></font></div>
+								</td>
+							</tr>
+						</tbody></table>
+					</csobj></td>
+				<td width="500" height="12918" colspan="2" valign="top" align="left" xpos="112">
+					<table border="1" cellpadding="0" cellspacing="2" width="491">
+						<tbody><tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="4" color="#0033cc"><b>Alumni Bios</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="4"><b> <a name="Anchor-6290"></a></b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
+										<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Call it "Alumni News" or call it our "Brag Board," but it's here for you to send us information about what you are doing. You can include a link to your website and definitely include your email address.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">We request that you keep your information to a maximum of 300 words. Don't forget to include your name at graduation, your name now (if changed), and the year you graduated.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Please be patient with us as it will take us a few days to post it. Email your info to: </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033cc">editor@artalumni.com</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">. Be warned, overly long, rambling bios will be returned for you to edit.<br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div align="center">
+									<br>
+									<table border="1" cellpadding="0" cellspacing="2" width="218">
+										<tbody><tr>
+											<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="alumninews.html">1936 - 1939</a></font></b></td>
+											<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="alumninews.html">1940 - 1949</a></font></b></td>
+										</tr>
+										<tr>
+											<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><a href="alumninews.html">1950 - 1959</a></font></b></td>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><b><a href="alumninews.html">1960 - 1969</a></b></font></td>
+										</tr>
+										<tr>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><b><a href="#Anchor-197-10489">1970 - 1979</a></b></font></td>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><b><a href="#Anchor-198-48021">1980 - 1989</a></b></font></td>
+										</tr>
+										<tr>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><b><a href="#Anchor-54875">1990 - 1999</a></b></font></td>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><b><a href="#Anchor-200-475">2000 - 2010</a></b></font></td>
+										</tr>
+									</tbody></table>
+									<br>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#0033ff">1970 through <a name="Anchor-197-10489"></a>1979</font></b></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Ivan Rivas </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1970) a Drafting and Architecture student and was privileged, like many Art and Design alumni, to have been in Ms. Daisy Aldan creative writing experience. To this day, because of a little seed planted by Ms. Aldan, Ivan continues to express his creative writing as the CEO and owner of Lynx Airways Worldwide, a virtual airline for storytellers located at <a href="http://www.lynxairways.com" onclick="CSAction(new Array(/*CMP*/'11C78181'));return CSClickReturn();" csclick="11C78181">http://www.lynxairways.com</a>.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">After graduation, Ivan pursued a professional career in the military and retired from the US Navy in 1999 as a Master Chief Petty Officer. During his twenty-six years in the Navy, Ivan served with three Patrol Aircraft squadrons as an Aircrewmen and In-Flight Technician keeping an eye on the then Soviet Submarine fleet. On one of his shore duty station, Ivan was a Company Commander in Orlando, Florida pushing eleven companies of new recruits into the Navy way of life. He also severed as the Public Affairs Officer for a major naval base during Desert Storm at which time he had the opportunity to use some of the techniques in photography and creative writing he'd learn while at Art and Design.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Currently, Ivan works as the Department of Defense Architectural Framework (DoDAF) Architect at the Naval Air Station Saufley Field, Pensacola Florida. He is married to his best friend Sharon and they have four children and two grand kids. In 1998, just before retiring from the Navy, Ivan finished his first marathon race. By the end of 2009 he has completed twenty marathons and has recently qualified for the Boston Marathon. Ivan continues to run at least two marathons a year and hopes someday to complete all five major world marathons.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">His favorite quote by anonymous: "The will to win is not nearly as important as the will to prepare." Email: <a href="mailto:ginns@aol.com">ginns@aol.com</a>.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Marino Gallo</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> (1970) is currently a senior designer at Ogilvy &amp; Mather Worldwide, NY. "I've been here for 6 + years handling design for various clients including Ford, Jaguar, IBM, American Express and Kodak. I also keep up a freelance schedule that allows for more creative work to unfold."<br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Kenneth (Kenny) Polinskie</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> (1970) Is currently a co-owner of Kendon Antiques, Inc. in Hudson, New York. He recently exhibited new works on paper at the Carrie Haddad Gallery, also in Hudson. Kenny has taught hand papermaking as far away as Riga, Latvia, and help found the "Responsive Hands' program, which brings the art form to NYC schoolchildren on behalf of the Dieu Donne Papermill. Ken's active gallery career&nbsp;includes one-man shows at the Fischbach Gallery in the 1980s and selected group shows at the Corcoran Museum, Washington, DC, and the New York Public Library Print Room Collection. Noncredited studies after graduation&nbsp;include the Art Students League, New School, and School of Visual Arts, as well as private research in the field of Artistmade papers. He lives in Germantown, New York, with his partner of 28 years and a Jack Russell terrier named Wilbur. E-mail Kenny at: <a href="mailto:kendon@capital.net">kendon@capital.net<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Pearl Lau</b> </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1970) lives in Brooklyn and is a freelance designer. She was formerly Executive Art Director of Macmillan Publishing, Little Brown and Co. in Boston, Scholastic, and Time-Life. In addition to freelance, she's the campaign manager for a candidate running in the 39th Councilman district (Carroll Gardens, Cobble Hill, Park Slope, Windsor Terrace, Sunset Park and Boro Park). In Boston, she co-wrote the BS degree in Graphic Design for Northeastern University and taught there for several years, in addition to teaching at SVA. She wrote and illustrated a book with her cat, <i>Clawed Monet's Book of Famous Cats</i>. "My husband is an editor, and my daughter is 11 (she gets into the same trouble in school as I did because of drawing all day), and plays the violin." E-mail Pearl at <a href="mailto:PearlLau@aol.com">PearlLau@aol.com<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Alex Simmons</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033cc"><b> </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1970) Over the past 30 years Simmons has been a professional actor and writer. He's penned (and in some cases also created) a number of juvenile mysteries under a variety of pseudonyms for many well-known publishers. He's also written several educational documentaries and stage plays. One of his plays, Sherlock Holmes &amp; the Hands of Othello, received critical praise and was published in an anthology by Signet/Mentor Books.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Simmons has written three movie novelizations for Disney and three biographies for Steck-Vaughn, including one on Denzel Washington. He has also created/written and independently published a critically acclaimed adventure comic book series, BLACKJACK, about an African-American soldier of fortune in the 1930s. Simmons co-created an African-American hero for DC Comics in their Batman books, authored several Scooby-Doo comic book stories, and created 12 interactive mysteries for the Tiger Toys electronic game WHO DONE IT(which received three educational awards). He's co-written a middle grade mystery series, The Raven League (Penguin Books), and is currently consulting on several exciting entertainment projects.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Simmons travels the country as a guest speaker and teaching artist.  He conducts workshops in creative writing (prose, comics, and playwriting), as well as performing and producing for theater.  Simmons has received several awards for his work with young people, and&nbsp;consulted on a number of creative arts programs and curricula for children.&nbsp; <br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Currently, Simmons is serving&nbsp;as Educational Outreach Coordinator for the Museum for Comic and Cartoon Art (MoCCA) in New York City, and as a board member on the New York State Alliance for Arts and Education.&nbsp; He is also a member of the New York Writer's Workshop. <br>
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									Email: <a href="mailto:Alex@SimmonsHereAndNow.com">Alex@SimmonsHereAndNow.com</a>.<br>
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									Web site: <a href="http://www.SimmonsHereAndNow.com">http://www.SimmonsHereAndNow.com</a><br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Paul Mordetsky </b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">(1971) Mr. Mordetsky's highly-regarded and atmospheric landscapes have been described as "painterly," "lyrical," and "effecting a haunting stillness." The artist says of his work, "It is as a forum for organizing space and light and as metaphor, rather than record, that the landscape image interests me. Though my images depict places which l have photographed or drawn, it is not their existence as real places which I hope to evoke. Instead, I wish for the viewer an experience of silence contemplated in an unpopulated, often barren, openness where a soul might wander, alone and undisturbed, discovering itself."<br>
+									</font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="white">____</font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Mr. Mordetsky received a BFA in painting from the Philadelphia College of Art. His numerous group and solo shows include exhibitions at The Ruth Morpeth Gallery, the Gross McCleaf and Rosenfeld galleries in Philadelphia, The Trenton City Museum, The Artists' Gallery, the Peddie School, Mercer County Community College, Mercer Medical Center, The College of New Jersey, and Artworks. His works are in many public and private collections, notably Cigna, NYNEX, NJ Bell, Dupont, Mercer County Cultural and Heritage Commission and Educational Testing Services. Currently, Mr. Mordetsky teaches general art and art history at the Princeton Latin Academy and drawing at both Mercer County Community College and Artworks. </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">More work can be seen at: <a href="http://paulmordetsky.artspan.com/" onclick="CSAction(new Array(/*CMP*/'1C5055363'));return CSClickReturn();" csclick="1C5055363">http://paulmordetsky.artspan.com/</a><br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Chelle Cordero</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> (1971) went on to attend Fordham University and continued her studies of Theatre Arts &amp; Drama. After college, she married </font><font color="#003399" size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Mark Engleman</font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> (1970 - Photography) and they settled in Rockland County with 2 kids and various felines. Today, Chelle is a full-time free-lance writer and part owner (with Mark) of BY-LINES, an editing and photo services company catering to small businesses. Chelle has been published in <i>Gannett Newspapers/The Journal News, Hudson Valley Magazine, Spotlight</i>, and several regional and trade magazines. She is the author of novels Bartlett's Rule, Forgotten, Within the Law, Courage of the Heart and Final Sin; all published through Vanilla Heart Publishing and available at all online retailers and specified retail outlets.<br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Mitchell Goldstein</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1972) After graduating I attended Art Center College of Design in Pasedena, California. After a year became a textile designer in California and New York. Went back to school (SVA) graduated and decided to teach. I received my Masters from St John's and Queens College and have been teaching art and music for the 20 years in NYC. Currently writing music and painting</font>.<br>
+									<br>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Brian Lane </b></font><font color="black" size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">(1972) "I am still living and working in New York. Even though my major in A&amp;D was illustration and advertising, I went to FIT (after attending Hunter College) for fashion illustration. I am now a design director for men's outerwear for a company by the name of Amerex in the Empire State Building. Prior to this I have been the design director for companies such as Members Only, Perry Ellis Outerwear, London Fog, and Weatherproof Garment Company. I've been designing strictly men's outerwear and some sportswear accessories for the past twenty years."<br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Joe Savoia</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1972) has over 32 years of experience in the Advertising Industry. Joe is also a personal trainer who was a competitive bodybuilder in the early 80's. He received his initial training certification at Jack LaLanne/Bally's and has over 27 years of Personal Training experience. He is currently certified by The American Council on Exercise, and has extended certifications in "Training and Conditioning for Sports Performance" and Specialized Strength Training for Special Populations". In 2007, Joe launched his business Personal Training Connection, where he brings personal training to clients in the convenience of their homes.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Joe previously enjoyed a successful career in Advertising Management, until he decided to make his passion for fitness and helping people his full time career. With a background in Fine Art and Design, he sees each client as a work in progress. Joe uses focus and visualization techniques to help his clients "make the connection" to accelerate their goals.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Joe currently resides in Ridgefield, CT with his wife Cathy, and daughter Carolyn, and services clients throughout Fairfield County CT and Westchester County NY. Visit his website: <a href="http://www.personaltrainingconnection.com" onclick="CSAction(new Array(/*CMP*/'3F4C480'));return CSClickReturn();" csclick="3F4C480">www.personaltrainingconnection.com</a>.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>David Setlow</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> (1974) majored in advertising &amp; illustration. He went on to attend the School of Visual Arts where majored in media arts and graduated in 1978 with a BFA. "After a restful summer I started looking for a job in the fall of that year but had a hard time as we had a newspaper strike and there were no classified ads except for the Village Voice. There I found a few paste-up mechanical jobs but found an ad for designing rugs. I went up there with my illustration portfolio and got the job the next week. The company was Stark Carpet Corporation, a large name in the interior design field.&nbsp;There I learned how to paint and design oriental and european carpet designs, both handmade and machine made, in traditional and contemporary styles. I later became the staff photographer cataloging our new carpets as they came in. In 1980 I was appointed Art Director and have been ever since. Today I have seven full-time artist in our New York showroom, seven freelance artists, two freelance studios, and more than a dozen artist across the country in our other showrooms who work with me. Stark's clients include such top interior design names as Mario Buwatta, Mark Hampton, Bunny Williams, Diamond Barratta, and Ann Downey, to name a few. Our clients have ranged from the average home owner to the White House. A few of the people and places I have designed carpets for are Donald Trump, Leona Helmsley, Secretary of State Cyrus Vance, Vice President Dan Quayle, Gracie Mansion, The Oval Office, Dan Rather, Rex Reed, Lee Radziwill, The New York State House, Luther Vandross, the Disney Cruise Ships, and the Macy's Flower Show. Aside from work at Stark I have illustrated two books, one called 'Tough Calls,' a baseball book, and a children's book that the author and I are trying to get printed. I have lectured to students at FIT and A &amp; D a few years ago and also to interior designers. I got married in 1984, have a ten-year-old daughter, and live on Staten Island. Except for a few of us who attended SVA, I have not been in touch with anyone from A &amp; D in 27 years and would love to hear from any of my old friends." E-mail David at either <a href="mailto:dmsetlow@aol.com">dmsetlow@aol.com</a> or <a href="mailto:dsetlow@starkcarpet.com">dsetlow@starkcarpet.com<br>
+										<br>
+									</a></font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Robin Hebert</b> </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">(1974) graduated from College of the Redwoods in Eureka, California, in 1985 with a degree in Computers. She has her own business designing spec ads for yellow page books and have has different jobs in the advertising field and as a typesetter. "I'm mainly majoring in being a mom to two beautiful kids and enjoying hobbies such as web designing and graphic arts." Robin lives in Port Orchard, WA., with her husband, two kids, and one Maine Coon cat. Visit her website at: <a href="http://www.hebertsenterprises.com">http://www.hebertsenterprises.com</a><a href="http://www.hebert-enterprises.com" onclick="CSAction(new Array(/*CMP*/'1CA7AAA67'));return CSClickReturn();" csclick="1CA7AAA67"><br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Mark Newman</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1974) <b>Now named </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Mark Newstetter</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>. </b>After graduating Art and Design as a Cinematography major, studying with Charlie Coles and Tom Gartner, I attended the School of Visual Arts for one year after which I left school play music in Greenwich Village where I gigged regularly before relocating to Los Angeles. In L.A. I continued my music career, studying theory and record production at UCLA Extension and gigging with several nearly successful rock bands which led to airplay for one of my songs on an </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">L.A. commercial rock station and a college station. Music rarely pays the rent so I've taken lots of regular jobs, a few of them in the graphics biz. I worked for a year as a map maker and several months operating a process camera.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">In 1981 I married and changed my name from Newman to Newstetter, which is a combination of my name and my wife's. We have since divorced, but I've kept the name Newstetter, which is also my daughter's name. I moved to San Francisco in 1981- more moderately successful bands and solo gigs - local radio and cable TV appearances while working several day jobs; as a graphic camera operator, shooting halftones and stats for the San Francisco Chronicle and doing pasteup for a typographer before giving up graphics and committing fully to music. Still living in San Francisco, I own a guitar shop where I repair guitars and give lessons. I have also written and illustrated several </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">guitar method books which I self publish ( available at <a href="(http://stores.lulu.com/newstetter" onclick="CSAction(new Array(/*CMP*/'1301D160'));return CSClickReturn();" csclick="1301D160">http://stores.lulu.com/newstetter</a>).<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____I</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">If you're ever in San Francisco and want to take a guitar lesson - ( or just talk about Art and Design) contact me at</font><font color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> mark@guitarpixel.com</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> and check out my website; </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><a href="http://www.guitarpixel.com" onclick="CSAction(new Array(/*CMP*/'B164C70'));return CSClickReturn();" csclick="B164C70">http://www.guitarpixel.com</a></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">.</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Ilene Prussack</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1974) I graduated from The High School of Art and Design in 1974. After a year studying communication design at Buffalo State College, I spent the next year at Parsons School of Design and the New School for Social Research. I started working in the Graphic design industry for a small printing company where I learned about offset colour printing and production design. I was hired to work in the Production department of a corporate Design firm: Corporate Annual Reports. After two years as Production assistant and quality control supervisor I left New York City to travel to Italy and France, visiting my Sicilian relatives in the coastal town of Trapani. On my return to Manhattan, I started my own freelance business:Promotion through Printing. Designing and quality control were my two main activities. In 1982 I opened a small dessert café on the upper west side. The Pastry Room. Which is where I met an Australian dishwasher who I married in Perth, Western Australia four years later. We became a family with the birth of our son Ben(now 19) and expanded to four when our daughter Ella (now 16) was born three years later. Perth life has suited my deep need for a peaceful and non threatening environment in which to live and raise my two children. I returned to study and complete my Bachelor of Arts degree in 1999. And will complete my final year this December of 2006. Calligraphy, Painting, and some design work have been my pursuits in the past. Painting on commission and for pure pleasure. Selling work at different private venues. Currently I am working on an installation which addresses the subject of Distance, seperation and connection. I look forward to its completion and final presentation. The years have passed and I regret none of them. I remain friends with three wonderful women from my Art and Design years. I often wonder how others in my Co-hort are doing with their lives. And was so pleased to learn of the Allumni connection. I will always have a tender spot in my heart for Mr. Greenberg, a wonderful teacher from 1973-74. Wishing all of us well. Sophie Ilene Hammersley [nee: Ilene Prussack] email: <a href="mailto:sophieh@iinet.net.au">sophieh@iinet.net.au</a><br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Robert Trombley</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1974) I graduated from A&amp;D in 1974. Went to college for 2 semesters and left school to join the Air Force. In 1979, became an executive recruiter and landed a part-time job as a comedy writer for WNBC radio's Don Imus (Imus in the Morning Show) (also doing the voices of Muhammad Ali and Howard Cosell) Wrote for Imus until 1981. Did a lot of stand up and a few commercials, and searched awhile for acting jobs (even had an audition for Saturday Night Live with a second call back, but no dice. I then realized that I had developed a strange habit... I liked to eat! So, I opened my own executive recruitment firm in 1982 which went belly-up during the recession. On a lark I had taken the postal exam years earlier (does this sound like an art career to you?????) and just as my business failed (and when I needed the money most), I took a position as a clerk with the US Postal Service. Fast forward to 2003, I am now the Postmaster of Manhasset, NY and have returned to college. I host a national television show for the US Postal Service and have done many training videos, and promotional projects for the Postal Service. I have been married for 25 years to a lovely woman, Joanne, and have two children, Dina (22 years old) and Robert Jr. (18 years old). I live in Whitestone NY (the Queens Riviera), and I'm very happy. I would love to contact some of my old pals from A&amp;D... Where are you guys??? You can contact me at <a href="mailto:Metfans4@aol.com">Metfans4@AOL.Com</a> Let's catch up!<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Mahboob Bari Khan</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> (1975) found his experiences at A&amp;D to be some of his best. He majored in Advertising and Illustration but specifically enjoyed the fine arts with teachers such as Irwin Greenberg, Burmah Burris, and others. After high school, he attended SVA for a year but left to attend NYU for a liberal arts degree in political science and near eastern history. After ten years in developing Indian restaurants in Manhattan, he went on to pursue a graduate degree in public finance at NYU's Wagner School. Since then he has worked in investment banking and City Hall and has traveled extensively throughout Europe and Asia. Today he resides in Manhattan, is married, and keeps busy with a two-year-old daughter. He is currently serving as Director of Capital Budgeting at the Health Department and in his spare time buys and sells Northern European antiques. His knowledge and appreciation of the arts is a constant help in coping with parenting and at the work place, all thanks to the High School of Art &amp; Design. You can e-mail Bari at <a href="mailto:bari.rifatkhan@att.net">bari.rifatkhan@att.net</a>.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Sophia Dembling </b></font><font color="black" size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">(1976) After high school, Sophia worked in the art </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">department of a medical publisher, then at Fairchild Publications. In </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">1982, after being laid off from her job, she packed up her East Village </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">apartment and moved—on little more than a whim--to Dallas,Texas. She's </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">still in Dallas, living happily in a little house on three acres with </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">husband and dog. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">After several years in the art department of The Dallas Morning News, </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Sophie began writing design-related feature stories for the newspaper, </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">and eventually she was hired as a full-time feature writer. A couple of </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">years later, she became assistant editor of the travel section, a job </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">she stayed in for four years, traveling the world, writing about her </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">experiences, and winning awards. In 1994, Sophie went freelance. She has </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">published hundreds of articles and essays in newspapers, books, </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">magazines and websites. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Sophia also is author of "</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">The </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Yankee Chick's Survival Guide to Texas", </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">and is co-author of </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">The </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Making of Dr. Phil: The Straight-Talking True Story of Everyone's </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Favorite </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Therapist</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">" </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Can Still Laugh: Stories of Inspiration and Hope from Individuals Living </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">with </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Alzheimer's. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">In addition, 23 years after graduating A&amp;D, Sophie decided it was time </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">to get a college degree; in 2004, she graduated summa cum laude from the </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">University of Texas at Dallas with a degree in psychology. She currently </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">blogs </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">about living as an introvert for Psychology Today magazine. And, </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">still an avid traveler, she writes about traveling in the United States </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">on a <a href="http://www.readflyoveramerica.com" onclick="CSAction(new Array(/*CMP*/'FB6F4F0'));return CSClickReturn();" csclick="FB6F4F0">http://www.readflyoveramerica.com</a> Flyover </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">America. Sophia </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">can be reached at <a href="mailto:sdtex2001@yahoo.com" onclick="CSAction(new Array(/*CMP*/'10166681'));return CSClickReturn();" csclick="10166681">sdtex2001@yahoo.com</a>. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Sophia Dembling </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><a href="http://www.sophiadembling.com" onclick="CSAction(new Array(/*CMP*/'101E9B22'));return CSClickReturn();" csclick="101E9B22">http://www.sophiadembling.com</a><br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Nancy "Sunny" Oswald Babbitt</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b> </b>(1976) has left her vintage apartment in the Ft. Lauderdale area for greener pastures in New York. She can still be contacted at her</font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> email at: <a href="mailto:nancybabbitt@hotmail.com">nancybabbitt@hotmail.com</a><br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff">Patty Tyrol</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> </font></b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1976) is the Art in Education coordinator at Women's Studio Workshop in Rosendale, NY where she has been a teaching artist for 25 years. She designs residencies for schools in the etching, silkscreen, handmade paper and bookbinding studios and also coordinates arts residencies, trips and performances for the New Paltz, NY school district where she lives. Her sons Lyle, 12 and Morgan, 6 -plus being back at school full-time- all help keep her on her toes. <a href="mailto:PPLandM@hvi.net">PPLandM@hvi.net</a>. <br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font color="#0033ff" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Emilio Marrero, Jr.</b></font><font color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b> </b></font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1978) "I was an architecture major at A&amp;D. I am </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">currently a Navy Chaplain, at the rank of CAPTAIN, currently serving as </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">the Force Chaplain for Commander Naval Surface Forces in San Diego, CA. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">After A&amp;D I went to Eastern College, a small Christian liberal-arts </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">college in Pennsylvania, where I majored in sociology and religion. I </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">married following college and pursued my Master's in Divinity at Eastern </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Baptist Theological Seminary in Philadelphia. I pastored a church in New </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Brunswick, New Jersey, for two years and was the Assistant Director of </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Youth and Family Outreach at the Open Door Outpatient Alcoholism Center. <br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">I joined the Navy in September 1986 and served throughout the Pacific </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Rim, western United States, and Iceland. I served with the First Marine </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Expeditionary Brigade in both Operation Desert Shield and Desert Storm </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">and was one of the handful of chaplains who actually accompanied troops </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">into Kuwait City for the liberation. I completed my Doctorate of </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Ministry in Religious Education. My wife and I founded a non-profit </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">charter school for children from kindergarten to eighth grade and have </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">more than 420 students during our time in Yuma.<br>
+										
+										
+										
+										
+										
+										
+										I have served two tours </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">in Iraq with the I Marine Expeditionary Force and visited Iraq again in </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">2008 as the Force Chaplain for Navy Expeditionary Combat Command. I </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">published a book, A Quiet Reality, reflecting my experiences in Iraq </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(available at www.aquietreality.com or Amazon). Life has been exciting </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">and rewarding. I thank God for that. </font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> If you were at A&amp;D between 1975 and 1978, drop me a line at: <a href="mailto:ewm01@sprynet.com">ewm01@sprynet.com<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Jane Sayre Denny</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1979) is an award-winning graphic designer and illustrator. Her NYC design firm, The Mad Hand Arts, Graphics &amp; Design (<a href="http://www.themadhand.com" onclick="CSAction(new Array(/*CMP*/'362AD20'));return CSClickReturn();" csclick="362AD20">www.themadhand.com</a>) creates visual communications campaigns for businesses worldwide, empahsizing music, entertainment and event promotions. Her cartoon series, <i>The Pride, a true story cat cartoon Starring Crazy Johnny</i> (<a href="http://www.thepridecartoon.com" onclick="CSAction(new Array(/*CMP*/'36B7A11'));return CSClickReturn();" csclick="36B7A11">www.thepridecartoon.com</a>), won the 2007 Cat Writers’ Association Muse Medallion for best cartoon. Ms. Denny donates many hours yearly designing campaigns for humane animal charities, and her popular Cats of <i>Old San Juan</i> calendar series sells thousands annually. <br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#0033ff">1980 through <a name="Anchor-198-48021"></a>1989</font></b></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Nicole Willis</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1980) didn't pursue visual arts and fashion illustration / costume design as originally intended as much as music. She's been performing live as a vocalist since 1984 and has recorded with a New York Acid Jazz group which she fronted called Repercussions. Further news may be found at her official website <a href="http://www.nicolewillis.com">http://www.nicolewillis.com</a>. "Although I am not rich but I am very happy, I just got married almost two years ago and our life is simple..even though we are nomadic musicians! There's lots of love and lucky for me lots of patience. I just want to keep growing!"<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff"><b>Joel Gomez</b> </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">(1980) was an Advertising Design major. "After graduating from A&amp;D, I went on to New York City Technical College where I majored in </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Advertising Design. Two years after, while attending The School of Visual </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Arts part time, I started working for a graphic design firm where I worked </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">on catalogs and direct advertising for JCPenney, Sears, Spiegel, Lane Bryant </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">and Montgomery Ward. Today, I am an Art Director for an advertising agency </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">in New York City. My clients include airlines, home electronics, computers </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">and communications, and health and beauty. I am happily married and have two </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">boys who keep me busy on weekends. When I'm not doing ads, you can find me </font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">coaching little league or playing golf. Email me at <a href="mailto:jgomezadv@aol.com">jgomezadv@aol.com</a><br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Cheryl Green</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#333399"><b> </b></font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1981).At Art &amp; Design, Cheryl had a passion for fashion but instead, majored in Commercial Art, which included an internship at Lord, Geller, Federico, Einstein, Inc., a boutique agency on Madison Avenue. She continued her studies at Parsons School of Design, where she earned a BFA in Communication Design. Cheryl then took freelance graphics jobs in order to sing with several bands in New York City. She achieved a gold record in 1987 for her backup performance with rap artist Dana Dane and also did tracks with Salt n Pepa on their second album. She ended her music career singing in Michael Bolton's choir when he performed at the Jones Beach Theater in 1997. Over the last 22 years, she has developed a successful freelance career, working with some of the most prestigious companies in America. She has designed and art directed ads and promotional materials for Cablevision, the New York Islanders and Madison Square Garden. Her fashion expertise has afforded her work with Women's Wear Daily, W, and BRIDE'S magazines along with styling fashion shows and being the creative force behind the event marketing company Velvet Rope, that she and her 3 female partners formed in 2001. She has produced numerous collateral pieces for McDonald's Black History Month (1999) and held the position of Senior Art Director at Tipton &amp; Maglione, a brand-marketing company in New York City. She has spent the last 6 years at NBC, working on CNBC print ads, a campaign for the 2002 Winter Olympics in Salt Lake City, the CNBC billboards on the Westside Hwy., along with all print advertising and promotion for the TODAY Show and the Toyota Concert Series on TODAY. No longer employed at NBC, she is looking for a similar position and in the meantime, has been showing her paintings and drawings in NYC. Cheryl is a member of the Nat’l Academy of Television Arts &amp; Sciences (NATAS), American Women in Radio &amp; Television (AWRT), Advertising Women of New York (AWNY), Nat’l Assoc. of Black Females in Music and Entertainment (NABFEME) and the Nat’l Assoc. for Multi-ethnicity in Communications (NAMIC). To view her portfolio, go to: <a href="http://web.mac.com/cheryl_green" onclick="CSAction(new Array(/*CMP*/'8B89DC0'));return CSClickReturn();" csclick="8B89DC0">http://web.mac.com/cheryl_green</a>. <br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><b><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#0033ff">Michael Aschner</font></b> <font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">(1981) was an illustration/theatre arts major. In his senior year at A&amp;D he interned at Circle Repertory Company and fell in love with theater. Alas, it was unrequited. His first full-length play was featured in the 1983 Young Playwrights Festival. He later joined the Ensemble Studio Theatreís Playwrights Unit and Manhattan Punch Line's Comedy Corps apprentice program. Two years later, MPL invited him to return as a founding member of their Artist in Residence ensemble of actors, writers and directors. At MPL, Michael wrote and performed for the legendary sketch comedy group Another Fine Mess and was regularly featured as an actor and playwright in the theaterís Annual Festival of One-Act Comedies. As an animation writer, Michael is behind some of the worst cartoons ever made. He wrote five episodes for the direct-to-video Greatest Heroes and Legends of the Bible, the treatment for Buster &amp; Chaunceyís Silent Night and the screenplays for Rudolph the Red-Nosed Reindeer: The Movie and Rudolph the Red-Nosed Reindeer and the Island of Misfit Toys. He just completed the script for yet another heart-warming Christmas cartoon called In Search of Santa and just started as head writer and story editor for a new animated series called Oh Max! Recently, Michael began taking Continuing Ed filmmaking courses at the School of Visual Arts where he fell in love with editing. Will editing love him back? Michael lives in a tiny Manhattan apartment with his girlfriend and three cats. Email him at: <a href="mailto:michaelaschner@mac.com">michaelaschner@mac.com<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Guillermo Castillo</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b> </b>[1981]</font> <font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Regal &amp; Rebel is a new women’s sportswear, jewelry, and accessories collection which is presently available for viewing, press, or purchase on the web at <a href="http://www.regalandrebel.com" onclick="CSAction(new Array(/*CMP*/'3CECFC0'));return CSClickReturn();" csclick="3CECFC0">www.regalandrebel.com</a> Stylist Guillermo Castillo who as a versatile image-maker, (For more info <a href="http://www.guillermocastillo.net" onclick="CSAction(new Array(/*CMP*/'3DF41B1'));return CSClickReturn();" csclick="3DF41B1">www.guillermocastillo.net</a>) has worked for Bergdorf Goodman, Giorgio Armani, Ralph Lauren, and Interview magazine designs the collection. His debut collection Regal &amp; Rebel, heralds in a return to his roots as a fashion designer.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Salvatore Diaz</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> [1982] H.S. of Art &amp; Design alumni. Due to circumstances beyond my control, i didn't make it into the yearbook, but i did eventually graduate summer of '82.  here's my short but sweet bio :<br>
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									After H.S. I attended new york city technical college, earned an associates degree in art advertising &amp; design. I worked along side a couple of my professors who freelanced advertising and started working out of my home doing layouts, paste up &amp; mechanicals, and pretty much anything to make a buck. I also worked as a sous chef at a couple of restaurants in Queens and Manhattan until I landed a job doing old world hand engraving for Tiffany &amp; Co. in 1993.  Since I have extensive experience in lettering, they hired me quickly!! Thank goodness !!!  My apprenticeship went by without a hitch and i've been engraving ever since. I just reached a milestone this year.....15 yrs with the company!!!  I've done engraving for many celebrities such as Elton John, Mariah Carey, Keith Richards, Pope Benedict, and many many more.  I've also engraved the USTA trophies, the superbowl trophy ( twice ), and my personal favorite, I did a box for Prince Charles which was presented to him when he visited the Philadelphia Academy of Music commemorating their 150th anniversary.  I was married and divorced and am currently living in Maspeth Queens. I also teach spin for New York Sports Club in Manhattan, Astoria, Forest Hills and Glendale Queens in my spare time. Come check out my class. You can reach me at</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#003399"><b> sal2164@aol.com</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">.  Love to hear from anyone from class of '82 or '83.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Jeannine Fetsco</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1982) is a member at large with the Art &amp; Design Parents' Association and an Alumni Association Board Member. Jeannine is an Administrative Assistant at Beth Israel Medical Center and works at The Continuum Center for Health and Healing. "My four children are my greatest masterpiece. Two of them, Symone Johnson, a junior, and Suede Johnson, a freshman, attend Art &amp; Design. I also have an eight year old, Hugo-Fausto, and a six year old, Ruvianne. I am a single parent and feel very blessed to have had the opportunity to spend time at home with my children and work on numerous projects. If there are any other alumni with children presently attending the school, please contact me at <a href="mailto:jfetsco@chpnet.org">jfetsco@chpnet.org</a>. I would really like to meet you!"<br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Bruce Erik Brauer</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1982) is the Founder / Creative Director of Little Siberia Inc., a broadcast design company specializing in on-air promotions,ID's, launch campaigns, commercials and mnemonics. Brauer has directed film, video and web projects involving major talents and has amassed a prominent client list including HBO, American Express, Lifetime Television, Cinemax, CBS, ABC and NBC.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Prior to Little Siberia, Brauer spent seven years at WNBC, starting as a Senior Graphic Designer and later promoted to Design Director, He was responsible for the overall look of the stations on-air image. All of their advertising and promotional campaigns </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">including their newly designed Chopper 4.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">For 3 years he was a design consultant to Charlex Inc. working on commercials such as Jeep,Verizon,Kotex,Samsung,Reebok &amp; Covergirl.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Brauer has been nominated 54 times and received 20 Emmy Awards: Outstanding Promotional Announcements (two in '96, '97, two in '98, '99 2000 and most recently in 2004) and Outstanding Graphic Design (in '94, '95, '96, '98, 2003 and 2004); and a National Emmy in '93 for Outstanding Graphic Design for the 'NBA Showtime Open."The New York State Broadcasters Association" awarded Brauer for Outstanding Promotional Announcement in '97,' 98, '99 and he received Gold and Silver Promax Awards in '98, '99, 2000 and 2002. Brauer also won the BDA Bronze and Silver Awards in '94 and '95. His work was featured in the design reference book PAINTBOXED for innovative use of the Quantel paintbox as a design tool and he received Regional Design Excellence Awards from Print magazine in '92, '93, '95, '96 and '99.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Bruce was also a recipient of an International Monitor Award in 2001 for the "Moviefone" website redesign.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">His career began at the High School of Art &amp; Design in Manhattan. The next step was heading downtown to The School of Visual Arts, where Brauer majored in graphic design.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Brauer's accomplishments also include an impressive background in music. As co-founder, songwriter, and lead guitarist for the band Dog Society, Brauer persevered through 10 years of struggle, and </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">secured a record contract with East/West/Atlantic Records. Highlights included recording the album "<b><i>Test Your Own Eyes"</i></b> with Grammy nominated producers Tom Rothrock + Rob Schnapf, a 1993 nationwide tour playing major cities and selling out 2000 seat venues along the way. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Dog Society disbanded after becoming Album Networks &amp; CMJ's 6th most added band in radio for the summer of 1993. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Brauer is a member of The Art Directors Club of New York, BDA/Promax, AIGA and NATAS.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Fluent in German, Bruce travels throughout Europe several times a year while </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">digitally archiving his trips. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Brauer plays guitar, bass, mandolin, saxophone, piano and drums, Married for 17 years,  they </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> reside in Westchester, NY with their two children, Hansel and Gretel. <br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Kenney Mencher</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1982) attended Lehman College in the Bronx and then moved to California where he attended UC Davis and earned a masters in Art History. He then relocated to Cincinnati , where he received a masters in painting from the University of Cincinnati. Kenney is now a full-time professor of Art and Art History at Ohlone College in Fremont, California, just outside of San Francisco. "I'm still an artist and I have several galleries around the country showing my work." You can visit Kenney's site at <a href="http://www.vsearch.com/Kenney/" csclick="1D1BA3275" onclick="CSAction(new Array(/*CMP*/'1D1BA3275'));return CSClickReturn();">http://www.vsearch.com/Kenney<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Judy Law</b></font><font color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b> </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1983) A graduate of the Parsons School of Design, Judy has developed her distinctive style drawn from her illustration background. She continually evolves in her practice and education to maintain pace with the advancements in technology. In the last decade, she has worked in both print and web, with clients from areas of advertising, marketing to professional sports entertainment.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Judy has become a sought-after designer in the professional sports business. Over the past years, Judy designed yearbooks for the NFL's Super Bowl Champion Baltimore Ravens, the NHL's San Jose Sharks, the NBA's New York Knicks, MLB's Kansas City Royals and the USTA Eastern Section. Despite working with a variety of sports, she manages to create an unique image to match each sport¹s brand and style. Her unique signature is also delivered across all her work, for non-sports clients ranging from law firm, technology start-ups to entertainers. See her work at<a href="http://www.jlawdesign.com" onclick="CSAction(new Array(/*CMP*/'1D2722877'));return CSClickReturn();" csclick="1D2722877"> http://www.jlawdesign.com</a>.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">When there is down time, Judy also provides pro bono design assistance to non-profit organizations such as Big Brothers Big Sisters and the Puerto Rican Traveling Theatre.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Judy is married to Philippe Cu Leong, the artistic director of Mellow Yellow Theatre Company , Brooklyn's hot new improv troupe. Visit them at: <a href="http://www.mellowyellowtheatre.com" onclick="CSAction(new Array(/*CMP*/'1D2722879'));return CSClickReturn();" csclick="1D2722879">http://www.mellowyellowtheatre.com</a>. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">They live and work happily in their new home Brooklyn. She is also known for occasionally falling out of perfectly good planes from 15000 feet to debunk stress. Contact her website: <a href="http://www.jlawdesign.com" onclick="CSAction(new Array(/*CMP*/'1D2724781'));return CSClickReturn();" csclick="1D2724781">http://www.jlawdesign.com</a>.</font><br>
+									<br>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Jorge "Fabel" Pabon</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1983) was born and raised in Spanish Harlem, NYC. He attended A&amp;D from 1979-1983 and went for Advertising Art and Illustration. At an early age, he developed his dance and choreography career at Hip Hop jams and clubs throughout the city. His pioneering individuality has been showcased internationally since 1982. President of the Hierophysics crew, Senior Vice President of the Rock Steady Crew, member of Magnificent Force, and an honorary member of the Electric Boogaloos, Fabel is also co-founder of GhettOriginal Productions, Inc. With GhettOriginal, Fabel co-authored, co-directed, and co-choreographed the first two Hip Hop musicals ever, "So! What Happens Now?" and "Jam on the Groove" (first official Off-Broadway Hip Hop musical). He has also toured internationally as a featured performer with "Jam on the Groove", which was nominated for best choreography at the Drama Desk Awards in 1996. Fabel was also featured in the film "Beat Street". Along with fellow members of the Rhythm Technicians and Rock Steady Crew, he won the 1991 Bessie Award for choreography. Highlights of his career include performing in Lincoln Center's "Serious Fun!"; P.B.S.'s "Great Performances 20th Anniversary Special"; the Boston Ballet; the 1994 American-Japan Festival (sponsored by the Smithsonian Institution); both the 1983 and 1991 Kennedy Center Honors Gala events, and a Hip Hop version of Kurt Weill's "September Songs" for P.B.S. Fabel was the first American Hip Hop dancer to perform in Cuba, in 1986 &amp; 1988, with the dance company, Ballet D'Angelo.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">In 1999, Fabel served as a consultant, moderator, panelist, and writer for The Rock and Roll Hall of Fame and Museum's exhibit and conference: "The Hip Hop Nation: Roots, Rhyme and Rage". When this exhibit traveled to the Brooklyn Museum of Art in September, 2000, Fabel was invited to lecture and serve on the exhibit's Honorary Committee. A vintage Hip Hop outfit, owned by Fabel is presently on display at the Experience Music Project in Seattle, WA. Visitors to EMP are guided through the Hip Hop clothing exhibit with Fabel's voice detailing every aspect of the outfits displayed.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">He is the first Hip Hop dance instructor to be employed at N.Y.U.'s Experimental Dance Theater Wing. Fabel gives lectures, demonstrations, master classes, and participates in outreach programs and conferences internationally. In 2001, he addressed delegates at the United Nation's "Hip Hop Conference for Peace". Fabel regularly teaches dance in various schools for the Sports and Arts in School's Foundation. Fabel has also been commissioned to teach dance workshops at such institutions as The Dalton School and Central Park East One, among the many.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">He is currently working on two documentaries: "Fabel's History of Hip Hop Fashion Vol. 1" and "Puerto Ricans in Hip Hop". Fabel is a historian of and activist within Hip Hop culture. His other forms of expression include "graffiti" art, DJ'ing and rhyming. Fabel is a co-founder of Tools Of War, a grass roots Hip Hop company covering publicity, events coordination and promotions, activism, bookings, and consultation.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">As a witness to the growth of Hip Hop culture since 1976, Fabel believes that true Hip Hop culture is a blessing from the Creator given to uplift and unify youth globally. contact: <a href="mailto:FabelIRSC@aol.com">FabelRSC@aol.com</a><br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Diana Ponce</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1985) began drawing at an early age and was always recognized as the "artist" of her classes throughout grade school. She feels that the intensive daily art courses at Art and Design, coupled with being in the midst of the fashion world, ad agencies, world famous museums and galleries, set the course for her future career. After graduating in the top percentile of her class and receiving the Medal for Fashion Illustration in 1985, she immediately went on to The Fashion Institute of Technology, majoring in Illustration. After graduating with honors with an AAS degree in Fashion Illustration (and a well-deserved vacation in Europe), she entered the field of commercial art, working as an Illustrator for a variety of companies throughout the late 1980's and 1990's.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Not only an illustrator with her own graphics studio, she also has several years of experience as Creative Director for an international promotions marketing company.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Diana has been creating quality artwork for clients for over 14 years. Her ability to create a myriad of looks as well as having her own distinctive style, has been enjoyed by many clients, from small businesses to Fortune 500 companies. The wide spectrum of uses for her work has included fashion illustration, editorial art, home design product illustration, electronic product rendering, children's book illustration, portraits, and comic art.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Besides being well-trained in traditional art and design and fine art, she additionally has several years of training and experience in a variety of computer graphics software. She says "I embrace all the ways art can be created, whether it be pencil, watercolor, airbrush, pen and ink, painting on canvas or digital. If you are a good artist, they are all just tools to help get your idea across."<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Her next artistic challenge will be taking her illustration to the next level, 3D, by creating art dolls of her illustrations.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Diana married her fellow A&amp;D classmate, Bill Cwiekalo on June 22, 2002! Diana and Bill knew of each other in high school, but were only acquaintances. It was 17 years after graduation, that they were brought together on a three-way telephone call by a mutual friend from high school. The rest, they say is history.<br>
+										
+										
+										
+										
+										
+										
+										
+										Visit her site: <a href="http://www.DianaPonceART.com" onclick="CSAction(new Array(/*CMP*/'1D39DE683'));return CSClickReturn();" csclick="1D39DE683">http://www.DianaPonceART.com</a> or email her: <a href="mailto:DPonceART@aol.com">DPonceART@aol.com</a><br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>James Parris</b></font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b> </b></font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1987) continued his studies at Pratt Institute. After freelancing for a few years as an illustrator/storyboard artist in New York, James was approached by Walt Disney Feature Animation and asked to relocate to their fledgling east-coast facility in Orlando. As a Disney animator, James was a prominent artistic voice, contributing to the box-office triumph of 'The Lion King' in 1993, and staying on through the production of 'Tarzan' in 1998.<br>
+									</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">James' ultimate goal of live-action filmmaking brought him to Los Angeles, where he currently resides. In 2000, he was invited to join the Digital Character team at Sony Pictures Imageworks to help bring another box-office smash - 'Spider-Man', to life. As a visual effects concept artist, James helped develop many of the effects used in Fox's 'X-Men 2' at Cinesite Digital Studios, as well as creating animated effects for the 'Nightcrawler' character. After giving life to 3-d androids for Fox's 'I, Robot', New Line's 'Snakes on a Plane' and most recently 'The Curious Case of Benjamin Button', James is currently pursuing directing his own features. </font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">You can e-mail James at <a href="mailto:parris@imageworks.com">parris@imageworks.com</a><a href="mailto:parris@imageworks.com"><br>
+										</a><a href="mailto:parris@imageworks.com"><br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Michael Moss</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> [1988] is currently a cartoonist and illustrator living and working in sunny San Francisco. Publishing the webcomics <a href="http://www.quitting-time.com" onclick="CSAction(new Array(/*CMP*/'564F940'));return CSClickReturn();" csclick="564F940">Quitting Time</a>, <a href="http://www.shadensmilen.com" onclick="CSAction(new Array(/*CMP*/'5F1D7C5'));return CSClickReturn();" csclick="5F1D7C5">Shadensmilen</a> and <a href="http://www.gppcomic.com" onclick="CSAction(new Array(/*CMP*/'6001166'));return CSClickReturn();" csclick="6001166">Gods Playing Poker</a> under the banner of <a href="http://www.dungbeetlecomics.com" onclick="CSAction(new Array(/*CMP*/'60D2417'));return CSClickReturn();" csclick="60D2417">Dung Beetle Comics</a>, a webcomic collective of which he's a founding member. Michael also contributes cartoons to various magazines periodicals and is the News Editor for the weekly podcast the <a href="http://www.gigcast.nightgig.com" onclick="CSAction(new Array(/*CMP*/'61A6698'));return CSClickReturn();" csclick="61A6698">Gigcast</a> produced by the hard rockin' people at <a href="http://www.nightgig.com" onclick="CSAction(new Array(/*CMP*/'6285319'));return CSClickReturn();" csclick="6285319">NightGig Studios</a>. Email Michael at: <a href="mailto:vadermoss@gmail.com">vadermoss@gmail.com</a>.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Nattie Gomez-Schmidt</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1989) was a Photography major. "I am a Christian businesswoman. I've started my ninth year of employment with Walt Disney World; currently in Human Resources, Casting Center. I own a Financial Services business. I am a licensed Personal Financial Analyst with Primerica Financial Services, Citigroup. I serve in my church and community by volunteering with the Central Florida Helpline (crisis helpline), being a Sunday School teacher for pre-schoolers, and being singer at church and for hire for special functions/ occasions." Email her at <a href="mailto:nattiegosc@yahoo.com">nattiegosc@yahoo.com<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#0033ff">1990 through 1999<a name="Anchor-54875"></a></font></b></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Jennifer Primosch </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="black">(1990)</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b> </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">After I graduated from A&amp;D in 1990, I majored in Theatre Design at NYU's </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Tisch School of the Arts, where I recieved my BFA. I worked in the </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">theatrical world, mainly as a lighting designer for several years, while </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">continuing painting and cartooning on my own. Once theatre stopped being </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">fun, I began working as an architectural lighting designer and worked on </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">projects such as the George Washington Bridge.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">In 1999, I joined the US Naval Reserve as an Illustrator/Draftsman third </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">class, and did art and photography for the Navy. I was honorably discharged </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">in 2003, shortly after promotion to second class.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Currently, I am doing what always SWORE I would not! I am an art teacher </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">for the illustrious NYC public school system at PS 310 in the Kingsbridge </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">section of the Bronx. I recieved my Masters in May 2003. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">In addition to teaching art to k-5, I also teach theatre design to 4th and </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">5th graders. We do a very big musical production every spring in our </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">school, and the kids are phenominal! I also have an art studio in Brooklyn, </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">where I paint my own work, and write (as yet unpublished) children's books.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Please feel free to contact me at <a href="mailto:jenprimosch@yahoo.com">jenprimosch@yahoo.com</a>! Also, come see our </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">show at PS 310 this coming May of 2005! Contact me for details. Peace! I hope everyone is well!<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Jamal Yaseem Igle</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1990) Starting at the tender age of 17, Jamal Yaseem Igle has worked his way up the ranks from Intern at D.C.Comics to his successful penciling career. Over the years Jamal has been editor, art director and animation storyboard artist.Jamal majored in cartooning under Charles Ferguson, and was active in A&amp;D's various musical productions.Jamal also served as organizer for the Spring Arts festival.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Jamal is the Co- creator of the comic book series " VENTURE" along with writer Jay Faerber. Venture is published by Image comics. Jamal's detailed pencils have graced books as varied as The Narrative of the life of Frederick Douglas, the all ages action miniseries "Race Against Time" as well as mainstream hits such as G.I.Joe, Green Lantern, Iron Fist / Wolverine: the return of Kun Lun, Iron Man (Marvel), Wonder Woman: Our Worlds at War and Martian Manhunter , Supergirl , Noble Causes and a four issue run on New Warriors for Marvel. In addition Jamal is an active volunteer with the Museum of Comic and Cartoon art, as well as a guest lecturer on the subject of comics and animation. A former storyboard artist, He worked on both Starship Troopers Chronicles and Max Steel or Sony Animation.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Currently Jamal is working on several new projects including an untitled three graphic album series for Humanoids Publishing. Jamal is also co-writing and designing characters for a children’s property" Molly Danger".You can email Jamal at <a href="mailto: JamalYIgle@aol.com">JamalYIgle@aol.com</a><br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Dewi S. Subianto-Morales</b> </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(1990) was an Advertising major. On 8/6/2000 she married Benjamin Morales (1989) an Illustration </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">major.  It took up 12 years to finally wed, but she says good things are </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">worth the wait!  Her husband Benjamin has been with the Department of </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Veteran's Affairs since he graduated in 1989.  They currently reside in </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Woodside, Queens and have two dogs, Tommy a Shitzhu and Rosie a Lhasa Apso. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">For now they are the kids.  Dewi and Benjamin enjoy renovating their home, </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">camping, traveling abroad and spending time with their family.  Both  never </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">pursued anything "art related" after leaving A&amp;D.  Dewi says "I guess the </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">closest thing for me is the business side of advertising.  For over three </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">years now I have been working for Discovery Communications in the Ad Sales: </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Strategic Sales Services group as an Operations Associate.  I enjoy my job </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">and see my self working for Discovery a long time."  She invites you to </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><a href="http://ExploreYourWorld@www.discovery.com/" onclick="CSAction(new Array(/*CMP*/'1D5A4D285'));return CSClickReturn();" csclick="1D5A4D285">ExploreYourWorld@www.discovery.com</a> !<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Rebecca Carrasquillo</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1994) was a photography major. After she graduated, she went to work for Expressly Portraits / Picture People, a photography studio, and became an Assistant Manager within 6 months. Within a couple of years, she changed careers and became an assistant teacher for a special education preschool facility. &nbsp;Rebecca currently attends Nyack College, where she is pursuing a BS in Social Work and minors in Bible. She plans to continue her education and earn a MSW, Masters in Urban Ministry, and a Doctrine with Urban Ministry. E-mail Rebecca at <a href="mailto:Ricboop@aol.com">Ricboop@aol.com<br>
+											<br>
+										</a></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Felix Reinaldo Palao</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1994) majored in cartooning under the instruction of Ray Borkon, and Sali Stern. He also played left forward for the schools soccer team and was a member of the 1992 team that went to the 2nd round of the city playoffs. After graduation, Felix pursued a Associate in Applied Sciences Degree in graphic design from Bronx Community college and graduatied in 1997. He went on to graduate from New York City Technical College with a bachelors of Technology in Communication Design in 2001.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Felix is currently living in the Bronx, where he grew up, and making working as a freelance graphic/web designer. He says that he is proud of the fact that he graduated from a high school that has so much tradition and that makes an effort to look out for its graduates.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">"I want to send love to my fellow 94 brethren and hoping that we are all successful in our endevours and may our future efforts be fruitful ones."<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Michael Demetrius Nicholson</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> (1995) I am a graduate from the High School of Art and Design. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Currently I am Art Director of my own Graphic Design business in Columbus, Ohio called MDNGraphics <a href="http://www.mdngraphics.com" onclick="CSAction(new Array(/*CMP*/'1D6E19787'));return CSClickReturn();" csclick="1D6E19787">www.mdngraphics.com</a> as well as business partner with another venture called <a href="http://www.independent-soul.com" onclick="CSAction(new Array(/*CMP*/'1D6E1A789'));return CSClickReturn();" csclick="1D6E1A789">www.independent-soul.com</a>. After leaving the High School of A&amp;D, I attended Ohio Wesleyan University where I studied Fine Arts with a concentration in Graphic Design. I recently got married to a Food Scientist (Kenya Nicholson) and bought a home in Gahanna, Ohio. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">My years at the HS of A&amp;D were great. Although I wish I had stronger relationships with friends and colleagues there. </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Maybe I can possibly connect with some of my old classmates through this site.</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Jeremy Ginsberg (1998)</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"> currently resides in Delaware, Ohio (just outside of Columbus). Jeremy got married in 2004 to his wife Kimberly. They had a son in 2007 name Micah. After graduating A&amp;D back in 1998, Jeremy's family moved to Cheyenne, Wyoming. Jeremy however moved to Columbus, Ohio to attend The Ohio State University. After a year Jeremy decided to get out into the work force and was a Technical Services Manager for five years at CompUSA (now closed). Jeremy eventually took a position with Cardinal Health (<a href="http://www.cardinalhealth.com" onclick="CSAction(new Array(/*CMP*/'19111D0'));return CSClickReturn();" csclick="19111D0">http://www.cardinalhealth.com</a>) back in 2004 and now is currently a Sales Operations Manager for their sales force. Jeremy also volunteers his time to maintain a website for a non-profit animal shelter. You can check out some pictures of Jeremy's family and travels at <a href="http://jeremyginsberg.com/family/" onclick="CSAction(new Array(/*CMP*/'19E8531'));return CSClickReturn();" csclick="19E8531">http://jeremyginsberg.com/family/</a>.<br>
+									<br>
+								</font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#0033ff"><b>2000 through <a name="Anchor-200-475"></a>2010</b></font></td>
+						</tr>
+						<tr>
+							<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Anthony Marc Heyward</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#003399"><b> </b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">(2000) entered Art &amp; Design with a passionate interest in Architecture. Towards the end of his sophomore year he became more actively involved in writing and political movements. He also worked for The Aids &amp; Adolescents Network before it folded due to lack of funding in October of 1999. In March of the following year he volunteered for the Presidential campaign of Bill Bradley, where he wrote for New Youth Connections, and worked in the Library and Spark office attempting to enlist others in the Bradley campaign.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">To fund college, Anthony took a year off after graduating working at the Law Firm of Shearman &amp; Sterling just down the block from Art &amp; Design. In April 2001 he was accepted into Columbia College Chicago, one of the best Communication Arts schools in the Midwest. He continues to enjoy a challenging education, acquiring experience in his major, Broadcast Journalism. However he misses New York very much and is currently trying to transfer credits to a good journalism school here.<br>
+								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="white">____</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">He would like to send his prayers to those who were at the World Trade Center or who's relatives were. His advice is to live each day with nothing but a positive thought, something that makes you and only you happy no matter what. And if you are from the class of 2000 and have not yet gone out and done something, anything even if it has nothing to do with Art, he suggests that you get up off your butt and do it now! It's been only two years since graduation, and you're all about 20 now, so get it together before you turn 40 and the 90's are a distant memory. God bless all of you. Contact me at:<a href="mailto:jourlawstud@yahoo.com"> jourlawstud@yahoo.com</a></font>.<br>
+								<br>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>IN MEMORIAM</b> </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">-<br>
+										<br>
+									</font><a href="alumninews2.html"><img src="../media/daisyaldansm.jpg" width="80" height="108" border="0" align="left" hspace="7"></a></p>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">please visit our <a href="http://www.artalumni.com/forum">In Memoriam</a> bulletin board where you can post your reminiscences and recollections about alumni and faculty who have died.</font></p>
+								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2" color="#0033ff"><b>Daisy Aldan</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">, retired faculty member, passed away on <br>
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										February 26, 2001.<br>
+										<br>
+										<br>
+									</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div align="center">
+									<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><a href="alumninews.html">Previous Page</a><br>
+										<br>
+										<a href="#Anchor-6290">Top of page</a><br>
+									</font></div>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td width="1" height="12918"><spacer type="block" width="1" height="12918"></spacer></td>
+			</tr>
+			<tr height="134">
+				<td width="120" height="134" colspan="3"></td>
+				<td width="492" height="134" valign="top" align="left" xpos="120"><csobj w="32" h="25" t="Component" csref="../../artalumni.data/Components/navbottom.html" occur="79">
+						<table border="0" cellpadding="3" cellspacing="2" width="467">
+							<tbody><tr>
+								<td valign="top">
+									<div align="center">
+										<hr size="1">
+										<font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b><a href="../index.html" target="_top">Home</a></b><b> </b></font><font size="1" color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>| </b><a href="events.html">Event Calendar</a><b> |</b></font><font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b> </b><a href="aboutus.html" target="_top">About Us</a> </font><font size="1" color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">|<a href="joinus.html"> Membership</a> | <a href="links.html">Important Links</a> </font><font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="history.html" target="_top"><br>
+											</a><a href="history.html">School History</a> | <a href="alumninews.html">School News</a> </font><font size="1" color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">|</font><font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> <a href="alumninews.html">Alumni Bios</a> | <a href="alumnigallery.html" target="_top">Alumni Gallery</a> | <a href="alumnibooks.html">Alumni Library</a><br>
+											<a href="literary.html">Creative Writing</a> | <a href="alumnistore.html">Alumni Store</a> | <a href="yrbookframe.html">Yearbook Photos</a> | <a href="photoframe.html" target="_top">Photo Albums</a><br>
+										</font><font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="reunions.html" target="_top">Reunions</a> </font><font size="1" color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">|</font><font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> <a href="http://pub50.bravenet.com/guestbook/4261923459/">Guest Book &amp; Message Boards</a><a href="http://artalumni1.community.everyone.net" target="_top"><br>
+											</a></font><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1"></font><font color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1"><a href="contactus.html" target="_top">Contact Us<br>
+											</a></font>
+										<p><font size="1" color="#003399" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">© 2001-2010 artalumni.com. All Rights Reserved.<br>
+												<a href="privacypolicy.html" onclick="CSAction(new Array(/*CMP*/'Cmp0072D99179B70DEF233'));return CSClickReturn();" csclick="B70DEF233" target="_top">Privacy Policy</a></font></p>
+									</div>
+								</td>
+							</tr>
+						</tbody></table>
+					</csobj></td>
+				<td width="1" height="134"><spacer type="block" width="1" height="134"></spacer></td>
+			</tr>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></spacer></td>
+				<td width="111" height="1"><spacer type="block" width="111" height="1"></spacer></td>
+				<td width="8" height="1"><spacer type="block" width="8" height="1"></spacer></td>
+				<td width="492" height="1"><spacer type="block" width="492" height="1"></spacer></td>
+				<td width="1" height="1"></td>
+			</tr>
+		</tbody></table>
+		<p></p>
+	
+
+</body></html>

@@ -1,0 +1,2424 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<title>Ethical Blogging | A Filipina Mom Blogger</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="description" content="Parenting, Health, Wellnes, Family&amp; New Media">
+	<link rel="stylesheet" type="text/css" href="http://aboutmyrecovery.com/wp-content/themes/personal/style.css">
+	<link rel="alternate" type="application/rss+xml" href="http://aboutmyrecovery.com/feed/" title="A Filipina Mom Blogger Posts RSS feed">
+	<link rel="alternate" type="application/rss+xml" href="http://aboutmyrecovery.com/comments/feed/" title="A Filipina Mom Blogger Comments RSS feed">
+	<link rel="pingback" href="http://aboutmyrecovery.com/xmlrpc.php">
+
+
+<link rel="shortcut icon" href="/favicon5.ico">
+<script type="text/javascript">
+   var infolink_pid = 80575;
+   var infolink_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-484442-3";
+urchinTracker();
+</script>
+<meta name="msvalidate.01" content="D1E99C97CDFD47CFA93A545893E8EA17">
+
+
+	<link rel="alternate" type="application/rss+xml" title="A Filipina Mom Blogger » Ethical Blogging Comments Feed" href="http://aboutmyrecovery.com/2007/08/09/ethical-blogging/feed/">
+<script type="text/javascript" src="http://aboutmyrecovery.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://aboutmyrecovery.com/wp-content/plugins/commentluv/js/hoverIntent.js?ver=abc"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cl_settings = {
+	name: "author",
+	url: "url",
+	comment: "comment",
+	email: "email",
+	prepend: "",
+	badge: "http://aboutmyrecovery.com/wp-content/plugins/commentluv/images/CL91x17-white2.gif",
+	show_text: "CommentLuv Enabled",
+	badge_text: "",
+	heart_tip: "on",
+	default_on: "checked",
+	select_text: "choose a different post to show",
+	cl_version: "276",
+	images: "http://aboutmyrecovery.com/wp-content/plugins/commentluv/images/",
+	api_url: "http://api.comluv.com/cl_api/commentluvapi.php",
+	refer: "http://aboutmyrecovery.com/2007/08/09/ethical-blogging/"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://aboutmyrecovery.com/wp-content/plugins/commentluv/js/commentluv.js?ver=abc"></script>
+<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share?ver=abc"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aboutmyrecovery.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aboutmyrecovery.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="A Filipina Mom Blogger" href="http://aboutmyrecovery.com">
+<link rel="start" title="The Launch" href="http://aboutmyrecovery.com/2006/02/24/my-blog-is-launched/">
+<link rel="prev" title="How to Smile" href="http://aboutmyrecovery.com/2007/08/08/how-to-smile/">
+<link rel="next" title="Making Money Online" href="http://aboutmyrecovery.com/2007/08/12/making-money-online/">
+
+<meta name="description" content="questi">
+<meta name="keywords" content="bloggers, blogging">
+
+<!-- Powered by AdSense-Deluxe WordPress Plugin v0.7 - http://www.acmetech.com/blog/adsense-deluxe/ -->
+
+<!-- All in One SEO Pack 1.6.8.1 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
+<meta name="description" content="questi">
+<meta name="keywords" content="bloggers,blogging">
+<link rel="canonical" href="http://aboutmyrecovery.com/2007/08/09/ethical-blogging/">
+<!-- /all in one seo pack -->
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content-main");
+			if( !content )
+				content = document.getElementById("content");
+			if( content )
+			{
+				addComment.parentNode.removeChild(addComment);
+				content.appendChild(addComment);
+			}
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	/*width: 					100%;	*/
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+ 
+#commentform textarea {
+	width: 97%;
+}
+
+.btc_gravatar {
+	float: right;
+	margin: 3px 3px 4px 4px;
+}
+</style>
+<link rel="stylesheet" href="http://aboutmyrecovery.com/wp-content/plugins/commentluv/style/cl_style.css" type="text/css"><meta name="tweetmeme-title" content="Ethical Blogging"><style type="text/css" media="screen">
+
+/* Begin Contact Form CSS */
+.contactform {
+	position: static;
+	overflow: hidden;
+	width: 95%;
+}
+
+.contactleft {
+	width: 25%;
+	white-space: pre;
+	text-align: right;
+	clear: both;
+	float: left;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contactright {
+	width: 70%;
+	text-align: left;
+	float: right;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contacterror {
+	border: 1px solid #ff0000;
+}
+
+.contactsubmit {
+}
+/* End Contact Form CSS */
+
+	</style>
+
+
+<!-- Start Of Script Generated By WP-PostViews 1.50 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery.ajax({type:'GET',url:'http://aboutmyrecovery.com/wp-content/plugins/wp-postviews/wp-postviews.php',data:'postviews_id=1179',cache:false});/* ]]> */
+</script>
+<!-- End Of Script Generated By WP-PostViews 1.50 -->
+
+<style type="text/css">
+#headimg {
+	float: left;
+	margin: 0 0 0 15px;
+	width: 670px;
+	height: 200px;
+	background: url(http://aboutmyrecovery.com/wp-content/themes/personal/images/headimg.jpg) no-repeat;
+	overflow: hidden;
+	display: inline;
+}
+
+#headimg h1, #headimg #desc {
+	display: none;
+}
+
+</style>
+
+
+</head>
+<body class="personal">
+<div id="wrapper">
+<script type="text/javascript" src="http://track.mybloglog.com/js/jsserv.php?mblID=2006031205112946"></script>
+	<div id="header">
+		<h1><a href="http://aboutmyrecovery.com" title="A Filipina Mom Blogger home page">A Filipina Mom Blogger</a></h1>
+		<div id="search">
+			<form method="get" id="searchform" action="http://aboutmyrecovery.com/">
+				<div class="keyword"><input type="text" value="" name="s" id="s" size="30"></div>
+				<div class="go"><input type="image" src="http://aboutmyrecovery.com/wp-content/themes/personal/images/bg-search-button.gif" alt="Search" title="Search" name="searchsubmit" id="searchsubmit"></div>
+			</form>
+		</div>
+	</div>
+
+	<div class="container outter">
+		<div class="container inner">
+
+			<div id="menu">
+				<ul id="nav">
+					<ul><li><a href="http://aboutmyrecovery.com/">Home</a> </li><li> <a href="http://aboutmyrecovery.com/about/">About Me</a> </li><li> <a href="http://aboutmyrecovery.com/about-the-site/">About My Blog</a> </li> <li><a href="http://aboutmyrecovery.com/archives/">Archives</a></li><li><a href="http://aboutmyrecovery.com/suicide-prevention/">Suicide Prevention</a> </li><li> <a href="http://aboutmyrecovery.com/contact-me/">Contact Me</a></li>
+					
+				</ul>
+			</ul></div>
+			<div class="top"></div><div class="clear"></div>
+
+			<div id="headimg"></div>
+
+			<div id="content">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0197993005347291";
+/* 336x280recovery, created 4/17/08 */
+google_ad_slot = "9823170609";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br>
+
+				
+				<div id="post-1179" class="post">
+
+					<h2 class="entry-title"><a href="http://aboutmyrecovery.com/2007/08/09/ethical-blogging/" title="Ethical Blogging">Ethical Blogging</a></h2>
+					<div class="entry-meta">
+						<span class="author">blogged by <a href="http://aboutmyrecovery.com/author/noemi/" title="Posts by Noemi Lardizabal-Dado">Noemi Lardizabal-Dado</a> with 4,521 views </span>
+					</div>
+
+					<div class="entry-date">
+						<span class="month">Aug</span>
+						<span class="day">09</span>
+					</div>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Faboutmyrecovery.com%2F2007%2F08%2F09%2Fethical-blogging%2F&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:60px"></iframe>
+					<div class="entry-content">
+
+
+						<a name="fb_share" type="button_count" share_url="http://aboutmyrecovery.com/2007/08/09/ethical-blogging/">Share</a><div class="tweetmeme_button" style="float: right; margin-left: 10px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Faboutmyrecovery.com%2F2007%2F08%2F09%2Fethical-blogging%2F&amp;style=compact" height="20" width="90" frameborder="0" scrolling="no"></iframe></div>
+<p class="alert"><strong>Updated</strong></p><strong>
+<p> This entry was set to private after Alan Ocab &amp; I talked in August 20, 2007  because we felt that the issue should die down quietly. (<a href="http://aboutmyrecovery.com/2007/08/20/healthy-apologies-part-2/">Click here for more details</a>) . I decided to bring it back after someone questioned my removal without an explanation. Here it is:</p>
+<p> It was not my intention to hurt the boy or his family. I apologized to the father and apologies were accepted. However, I explained the purpose of my entry.  I mentioned that authorship of the entries posted in his blog should be cited clearly and not posted at the bottom of the entry. It wasn’t my intention to even mention the name but overzealous bloggers decided to spill it out. </p>
+<p> At the time I wrote the post, it was not clear who the authors were of some entries.  It was made to appear that Carl wrote the entries because the guest authors or bloggers were not cited.  I know Carl wrote some of them but not all  and it was not clear.  As of today, the guest authors (the byline) are now clearly shown after the title of the entry.  Hope that clears the matter. </p>
+</strong><p><strong>Alan Ocab and I understood each other and that is all that matters.</strong></p>
+<p>Responsible bloggers recognize that they are publishing words for everyone to read. Does it follow that they have  certain ethical obligations to their readers, the people they write about, and society in general ? The blog’s greatest strength, particularly  its uncensored and  uncontrolled voice,   is  deemed its greatest weakness. Most bloggers are against anything that constrain their freedom. But most bloggers also know that <i>The blogosphere runs on customs and norms – on what the community feels is acceptable</i>  (<a href="http://www.ojr.org/ojr/stories/050217lasica/">The cost of ethics: Influence peddling in the blogosphere</a>).  I presume most of you know the common sense rules on the <a href="http://www.cyberjournalist.net/news/000215.php">Bloggers’ Code of Ethics</a> . Whatever ethics in real life applies in cyberspace, right?</p>
+<p>Now what happens when you face a suspicion that the person who created a blog is misinterpreting the facts? </p>
+<p> I don’t care if you are a man pretending to be  woman or a prime time woman assuming a young woman’s persona. What infuriates me is when a parent uses their minor child to create a blog and misrepresent some facts!  (This is not the same thing as <a href="http://ceskypooh.wordpress.com/">Cessky Pooh</a> where the dad clearly states that his daughter is the voice of the blog.)  What gets to me is that it’s unfair to the child.  Do I continue to be a spectator of this modern day “The Emperor’s New Clothes”?  Some of you just like me willingly share in a collective ignorance of an obvious fact, despite individually recognizing the absurdity. I can’t blame you but think harder. </p>
+<p>Is this morally right?</p>
+<p><span id="more-1179"></span></p>
+<p>Should I ignore? </p>
+<p><i><a href="http://aboutmyrecovery.com/2007/07/25/dedma-or-dead-malice/">Dedmahan</a>?</i></p>
+<p>A few of you know who I am talking about. A few of you raised your suspicions to me .  I could easily turn a blind eye just so I don’t rock the boat.  In the end, my conscience took control of my “Emperor New Clothes” thinking.</p>
+<p>I probed  and asked one blogger after he talked with the child and the parent blogger. Guess what he said?</p>
+<p><i>The secret of the blog is the parent. The parent taught the child and then the  child  writes . So it’s really the child writing.</i></p>
+<p>Huh?</p>
+<p>That’s absurd.</p>
+<p>It’s still not the child’s blog.</p>
+<p>First of all, what kind of values is the parent instilling to the child that fudging the truth is OK?</p>
+<p>Secondly, what happens to the child? The child grows up confused and cannot meet people’s unrealistic expectations. The truth will come out sooner or later. </p>
+<p>What next?</p>
+<p>We continue to adhere to ethical blogging standards.</p>
+<p>The moral standards which guide us in real life should be the same standards that we observe in cyberspace. There should be no dichotomy. </p>
+<p>Therefore, moral values like honesty, adherence to truth and respect for other people (even your minor child) should also be observed in cyberspace.</p>
+<p>I cannot condone  blogs like this. There is no fault on the innocent child. Gosh, it’s an insult to my intelligence that some people expect me to believe blindly a questionable circumstance. </p>
+<p>I cannot turn a blind eye and ignore an obvious falsehood. This type of blog is not acceptable to the blogosphere.</p>
+<p>Pray tell me, would you do this to your own child?</p>
+<h2>Comments Closed. Everything has been said. If you want to discuss this further, post an entry in your blog.  If you have any questions, send me an <a href="http://aboutmyrecovery.com/contact-me">email</a></h2>
+<div class="wptouch-adsense-ad"><!-- google_afm --></div><a name="fb_share" type="button_count" share_url="http://aboutmyrecovery.com/2007/08/09/ethical-blogging/">Share</a>						
+						<br><br>
+
+
+
+					</div><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Faboutmyrecovery.com%2F2007%2F08%2F09%2Fethical-blogging%2F&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:60px"></iframe>
+					<div class="entry-foot">
+
+						<span class="cat-links">Filed under: <a href="http://aboutmyrecovery.com/category/online-culture/bloggers/" title="View all posts in Bloggers" rel="category tag">Bloggers</a>,  <a href="http://aboutmyrecovery.com/category/online-culture/blogging/" title="View all posts in Blogging" rel="category tag">Blogging</a></span>
+					</div>
+				</div>
+
+				<div id="comments"><ul><b>RELATED POSTS</b>:
+<dl><a href="http://aboutmyrecovery.com/2007/08/20/healthy-apologies-part-2/" rel="bookmark" title="Permanent Link: Healthy Apologies Part 2">Healthy Apologies Part 2</a></dl><dl><a href="http://aboutmyrecovery.com/2007/08/12/making-money-online/" rel="bookmark" title="Permanent Link: Making Money Online">Making Money Online</a></dl><dl><a href="http://aboutmyrecovery.com/2007/12/28/blog-posts-you-should-read/" rel="bookmark" title="Permanent Link: Best and Popular Blog Posts of 2007">Best and Popular Blog Posts of 2007</a></dl><dl><a href="http://aboutmyrecovery.com/2006/04/05/2nd-philippine-blogging-summit/" rel="bookmark" title="Permanent Link: April 18: 2nd Philippine Blogging Summit">April 18: 2nd Philippine Blogging Summit</a></dl><dl><a href="http://aboutmyrecovery.com/2008/05/04/blog-blogging-blogger-bloggers/" rel="bookmark" title="Permanent Link: Blog, Blogging, Blogger, Bloggers">Blog, Blogging, Blogger, Bloggers</a></dl><dl><a href="http://aboutmyrecovery.com/2009/02/07/round-table-talk-ethics-and-the-blogger-part-1/" rel="bookmark" title="Permanent Link: Round Table Talk: Ethics and the Blogger Part 1">Round Table Talk: Ethics and the Blogger Part 1</a></dl><dl><a href="http://aboutmyrecovery.com/2007/04/13/first-day-at-iblog-3-blogging-for-newbies/" rel="bookmark" title="Permanent Link: First Day at Iblog 3- Blogging for Newbies">First Day at Iblog 3- Blogging for Newbies</a></dl><dl><a href="http://aboutmyrecovery.com/2007/04/02/iblog-summit-3-third-philippine-blogging-summit/" rel="bookmark" title="Permanent Link: Iblog Summit 3: Third Philippine Blogging Summit">Iblog Summit 3: Third Philippine Blogging Summit</a></dl><dl><a href="http://aboutmyrecovery.com/2008/04/27/kapuso-mo-jessica-soho-features-blogging/" rel="bookmark" title="Permanent Link: Kapuso Mo Jessica Soho Features Blogging">Kapuso Mo Jessica Soho Features Blogging</a></dl><dl><a href="http://aboutmyrecovery.com/2007/04/12/mini-blogging-via-twitter/" rel="bookmark" title="Permanent Link: Mini Blogging via Twitter">Mini Blogging via Twitter</a></dl> </ul>
+<center>
+
+
+<!-- nuffnang -->
+<!-- nuffnang -->
+<script type="text/javascript"> 
+nuffnang_bid = "c9a3fa9e3935a17b779078540932ee7d";
+</script>
+<script type="text/javascript" src="http://synad2.nuffnang.com.ph/j.js"></script>
+<!-- nuffnang--></center><br>
+
+<!-- You can start editing here. -->
+<br><br>
+<b>You can also get Email Updates of any new posts by adding your email address below:</b><br>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=716143" name="url"><input type="hidden" value="Touched by an Angel" name="title"><input type="submit" value="Subscribe"><p>Delivered by <a href="http://www.feedburner.com" target="_blank">FeedBurner</a></p></form>
+<b>If you enjoyed this post, then make sure you <a href="http://feeds.feedburner.com/aboutmyrecovery" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="border:0"></a><a href="http://feeds.feedburner.com/aboutmyrecovery" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">subscribe to my RSS Feed</a>.</b><br><br>
+<font color="red">The comments posted on my blog are moderated.  I reserve the right to remove comments, words or phrases that are defamatory, abusive, incite hatred and advertise an email address or commercial services or just plain spammy. I also reserve the right to remove posts that to my opinion are off-topic, irrelevant, ad-hominem, personal attacks and or just plain rude. (January 16, 2009)</font>
+
+<p><a href="http://aboutmyrecovery.com/2007/08/09/ethical-blogging/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed</a> 
+</p>
+
+<h2 id="comments">71 Comments 
+</h2>
+<div class="#commentlist">
+			<div id="div-comment-84122" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/aa0f631f5bb5adb8a7a45fab16a7bba2?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84122" id="comment-84122"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84122&quot;)">
+					<cite>Comment by <a href="http://tesstermulo.com" rel="external nofollow" class="url">Prudence</a><a href="#comment-84122"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-09 23:38:44 						
+					</div>					
+					<div class="content">
+						<p>I think I know which blog you are referring to.  Yup, an exchange of some words did convince me that the blog isn’t that of the kid.  But I don’t think we can do anything about it.  It’s their personal lives, after all.  One thing we could do, though, is stop visiting the blog.  That’s about it.  Yeah, it’s sad that it happens.  Maybe the problem is that of perception.  In this case, the parent doesn’t seem to perceive it as deception, but rather a curious way to market himself in the blogosphere.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84127" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84127" id="comment-84127"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84127&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84127"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-09 23:50:48 						
+					</div>					
+					<div class="content">
+						<p>@prudence-  We can’t do anything about it now because there is a child to protect.  I am  just stating my stand and hope it doesn’t happen to any child in the future.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84128" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/601d8208a37875826291ede9c07badd9?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84128" id="comment-84128"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84128&quot;)">
+					<cite>Comment by <a href="http://atheista.net" rel="external nofollow" class="url">benj</a><a href="#comment-84128"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-09 23:51:33 						
+					</div>					
+					<div class="content">
+						<p>I just find it really funny. How did they blow their cover?! <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley">  links please. Hehe</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84129" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/8bdd8a48ddc8b49f3af160c2c92219af?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84129" id="comment-84129"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84129&quot;)">
+					<cite>Comment by <a href="http://www.alleba.com/blog/" rel="external nofollow" class="url">Andrew</a><a href="#comment-84129"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-09 23:55:54 						
+					</div>					
+					<div class="content">
+						<p>I know who this is and I’ve been suspecting it for a long time.  You hit the nail right on the head!!</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84131" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/ece96fecd5da762f4bab105a298d4429?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84131" id="comment-84131"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84131&quot;)">
+					<cite>Comment by <a href="http://riajose.wordpress.com" rel="external nofollow" class="url">Ria Jose</a><a href="#comment-84131"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-09 23:57:41 						
+					</div>					
+					<div class="content">
+						<p>I agree that the morals we follow for other aspects of our lives should be the same morals we should adhere to when we blog.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84133" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84133" id="comment-84133"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84133&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84133"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 00:02:48 						
+					</div>					
+					<div class="content">
+						<p>@benj- obvious ba?</p>
+<p>@andrew- thanks. I thought about this really carefully.  I am not imagining things and so did the others</p>
+<p>@ria jose- right! We uphold the same morals.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84136" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/d23e0cab7606afb128e02542543af9d4?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84136" id="comment-84136"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84136&quot;)">
+					<cite>Comment by <a href="http://baklaako.com" rel="external nofollow" class="url">Baklang AJ</a><a href="#comment-84136"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 00:09:38 						
+					</div>					
+					<div class="content">
+						<p>Hmmm… I think I know who this is. And I agree with you, the child will have a difficult time figuring out his own sense of self. Haaay. The things that some people do…</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84138" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/fcfcba7c4a2b752d07415ab24dd578fb?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84138" id="comment-84138"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84138&quot;)">
+					<cite>Comment by <a href="http://feistymomma.com" rel="external nofollow" class="url">dexie</a><a href="#comment-84138"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 00:14:23 						
+					</div>					
+					<div class="content">
+						<p>it’s just amazing what people do these days. geez. </p>
+<p>good for you for taking the stand.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84148" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/23fa5aa925ace5ec49651c6132657b03?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84148" id="comment-84148"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84148&quot;)">
+					<cite>Comment by <a href="http://dine.racoma.com.ph" rel="external nofollow" class="url">SexyMom</a><a href="#comment-84148"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 00:59:41 						
+					</div>					
+					<div class="content">
+						<p>You posed the question–will I do it to my own child? No, because I would not like to put my child on the spot, under the probing eyes of intelligent people. What moral values will I be emulating to my children if I live by this standard–if I deceive, if I misrepresent, and if I use my child as a willing victim?</p>
+<p>Just to put it on record–I am smart, I am intelligent, and I know when there is deception. No way will I be taken for a ride.</p>
+<p>Tickle your imagination: what does a teenager talk about? what are the interests of a teenager ? and how does a teenager talk? oh well, this teenager is not a “mikki fudolig”.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84155" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/4d351f0e6ef0fe38908251e60296ff4a?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84155" id="comment-84155"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84155&quot;)">
+					<cite>Comment by <a href="http://misteryosa.com/" rel="external nofollow" class="url">Shari</a><a href="#comment-84155"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 01:16:19 						
+					</div>					
+					<div class="content">
+						<p>Friends and I have been talking about it since the blog became a hit. I’ve always said that I don’t believe for a moment that the kid is the one who blogs, or that if he does, the kid’s parent/s make/s him do it.</p>
+<p>I’ve gone as far as saying that he has <em>no life</em>. And meeting them proved me right.</p>
+<p>I’m glad you made a stand. It’s sad that this has to happen, and we can only hope that  it doesn’t happen again.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84219" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/85486b07e96df1699fcb8c394f4d8592?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84219" id="comment-84219"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84219&quot;)">
+					<cite>Comment by <a href="http://mysoulfulthoughts.blogspot.com/" rel="external nofollow" class="url">Rach</a><a href="#comment-84219"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 05:12:53 						
+					</div>					
+					<div class="content">
+						<p>I seem to be in the dark here and don’t know who that person is but I think it’s sad when a child is being used in such a way you described.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84248" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84248" id="comment-84248"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84248&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84248"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 07:29:21 						
+					</div>					
+					<div class="content">
+						<p>@baklang AJ- it was more the child that I took pity of.  </p>
+<p>@Sexy Mom- We can’t be fooled. The thing is I had to consider the feelings of the kid. But in the end, I thought…heck the kid is going to suffer more with my silence.</p>
+<p>@Shari- I know everyone knew. But I also know you are respectful of people. “Rocking the boat” might put us in a bad light. Yes,the purpose is so that it won’t happen again . Also, in the future if something happens, speak up. Silence also means being an accomplice to this dishonesty.</p>
+<p>@Rach- yes i was sad…that’s why I had to make it known. We can’t allow parents to do this to their child.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84252" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/532c716691b1e6188a99b0bc33ee71d4?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84252" id="comment-84252"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84252&quot;)">
+					<cite>Comment by <a href="http://one-twentyone.com" rel="external nofollow" class="url">lady cess</a><a href="#comment-84252"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 07:38:40 						
+					</div>					
+					<div class="content">
+						<p>^ me too.  i dont what is this blog youre referring to, but id sure like to read it and see things for myself. curious ako <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley">  </p>
+<p>about your question — nooooo!</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84293" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/0305beb592b8e65a5bcc88417996ed92?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84293" id="comment-84293"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84293&quot;)">
+					<cite>Comment by <a href="http://www.manilamom.com" rel="external nofollow" class="url">Manila Mom</a><a href="#comment-84293"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 10:28:51 						
+					</div>					
+					<div class="content">
+						<p>Hmm, I think I have my suspicions on who you’re referring to and if I’m right, I’ve been fooled. I really thought the child was doing everything. This is so sad if true. I hope the child is not scarred for life by the deception.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84309" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/acdffabe3920102330832f689a191301?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84309" id="comment-84309"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84309&quot;)">
+					<cite>Comment by <a href="http://paraz.com" rel="external nofollow" class="url">Miguel</a><a href="#comment-84309"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 11:28:51 						
+					</div>					
+					<div class="content">
+						<p>Another factor is GREED. I googled for the father’s name, and all sorts of internet marketing crap came out. Maybe blogger senior is bribing junior with all this dubiously earned wealth.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84335" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/add98daeb9c414ab404088673239044b?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84335" id="comment-84335"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84335&quot;)">
+					<cite>Comment by <a href="http://vaes9.codedgraphic.com" rel="external nofollow" class="url">Eugene</a><a href="#comment-84335"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 12:51:43 						
+					</div>					
+					<div class="content">
+						<p>Hmmm… interesting. Minor blogger according to Noemi. Hit blogger according to Shari. I don’t know which blog this is exactly and I don’t read any minor’s blog. But those two clues seem to pinpoint only one blog. Can I dare I say “influential” blog? <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"> </p>
+<p>If I’m correct, then that’s really bad of the parent. <i>Pineperahan ang anak.</i> And under false pretenses to boot. Tsk, tsk, tsk.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84340" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84340" id="comment-84340"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84340&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84340"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 13:06:47 						
+					</div>					
+					<div class="content">
+						<p>@manila mom- don’t be swayed with what I wrote. You be the judge. This entry is just my stand. In fact, I didn’t expect anyone to comment</p>
+<p>@Miguel- whoa. That’s so sick. Greed? It’s despicable.</p>
+<p>@Eugene- The false pretense is the clincher. Especially since the kid is affected.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84343" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/601d8208a37875826291ede9c07badd9?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84343" id="comment-84343"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84343&quot;)">
+					<cite>Comment by <a href="http://atheista.net" rel="external nofollow" class="url">benj</a><a href="#comment-84343"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 13:27:44 						
+					</div>					
+					<div class="content">
+						<p>Shari’s dad is coaching her! I knew it. Lol.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84365" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/00b8f9949ccdbd7059a430d1fe45a927?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84365" id="comment-84365"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84365&quot;)">
+					<cite>Comment by lemon<a href="#comment-84365"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 14:24:59 						
+					</div>					
+					<div class="content">
+						<p>Ms Noemi,</p>
+<p>I think I know who you’re referring to. It’s just so sad and pathetic how a parent can do this to his own child.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84379" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/35faead91577ecff044c868a1f1de0d9?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84379" id="comment-84379"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84379&quot;)">
+					<cite>Comment by <a href="http://www.brinknotes.org" rel="external nofollow" class="url">Jeric</a><a href="#comment-84379"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 15:01:31 						
+					</div>					
+					<div class="content">
+						<p>Now, I know who’s this ! Hmmm… I’ve thinking about this also.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84381" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/35faead91577ecff044c868a1f1de0d9?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84381" id="comment-84381"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84381&quot;)">
+					<cite>Comment by <a href="http://www.brinknotes.org" rel="external nofollow" class="url">Jeric</a><a href="#comment-84381"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 15:10:56 						
+					</div>					
+					<div class="content">
+						<p>I’ve *BEEN* thinking about this also. <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  And by the way, I don’t think that a 13-year old boy who just started blogging last summer would right away blog about MAKING MONEY thru the net. Hmmm…</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84393" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/de00a7a7e23f483c3aecf77fb0e617c1?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84393" id="comment-84393"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84393&quot;)">
+					<cite>Comment by <a href="http://www.taintedsong.com" rel="external nofollow" class="url">Joni</a><a href="#comment-84393"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 15:32:36 						
+					</div>					
+					<div class="content">
+						<p>This makes a lot of sense! I had my doubts since the day I heard about that blog too. I thought that was just me. <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley"> </p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84395" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/efa5528dabdcfd85e65cf0951c1e7ef7?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84395" id="comment-84395"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84395&quot;)">
+					<cite>Comment by <a href="http://www.homeworked.blogspot.com" rel="external nofollow" class="url">raqgold</a><a href="#comment-84395"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 15:42:12 						
+					</div>					
+					<div class="content">
+						<p>like rach, am in the dark here. i dont know what blog you’re talking about but i admire you for taking a stand. i guess that blog would get more hits with this negative publicity, but let’s hope the kid wont be hurt. i hope the parents would take this chance to look within themselves and take appropriate actions before it is too late.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84403" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/c107db00e7359f5f800736226ef2a0bd?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84403" id="comment-84403"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84403&quot;)">
+					<cite>Comment by <a href="http://scroochchronicles.blogspot.com/" rel="external nofollow" class="url">Kongkong622</a><a href="#comment-84403"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 16:13:41 						
+					</div>					
+					<div class="content">
+						<p>I figured you were talking about “that” blog.  The title itself is kinda dubious.  When you start reading, things get scary.  I mean, really, a kid…doing this..and that?  Possible, yes. Fair, no way!</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84421" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/52a353dc80cbf5c715626ff7a0f0965c?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84421" id="comment-84421"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84421&quot;)">
+					<cite>Comment by <a href="http://http:/www.ode2old.blogspot.com" rel="external nofollow" class="url">annamanila</a><a href="#comment-84421"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 17:00:40 						
+					</div>					
+					<div class="content">
+						<p>I heard about this .. but haven’t really checked out the site nor the posts.  So I reserve my opinion.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84437" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/f059f765299abcc8ed1a64344363f298?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84437" id="comment-84437"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84437&quot;)">
+					<cite>Comment by <a href="http://www.ironwulf.net" rel="external nofollow" class="url">Ferdz</a><a href="#comment-84437"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 17:41:32 						
+					</div>					
+					<div class="content">
+						<p>Honestly I don’t know whose blog is this minor is, but as a parent of the one you are referring to. It’s like depriving your child’s own voice. Yes she/he writes but it’s mechanical since the parent is the idea behind it.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84448" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/fde60ef11d1f48fb6cb6a91f5ca793cc?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84448" id="comment-84448"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84448&quot;)">
+					<cite>Comment by <a href="http://www.pinoyblogero.com" rel="external nofollow" class="url">Karlo.PinoyBlogero</a><a href="#comment-84448"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 18:20:33 						
+					</div>					
+					<div class="content">
+						<p>Me and my friend have been speculating about this ever since the blog has become such a hit.  </p>
+<p>We even joked about it telling everyone that it is a conspiracy theory. It seems that our speculation was right all along!</p>
+<p>I feel sorry for the kid. Instead of spreading his own voice, he ends up using the voice of his dad.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84450" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/73941321471607502c0a35f859804eb1?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84450" id="comment-84450"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84450&quot;)">
+					<cite>Comment by <a href="http://teacherjulie.com" rel="external nofollow" class="url">julie</a><a href="#comment-84450"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 18:24:44 						
+					</div>					
+					<div class="content">
+						<p>Hmmm…This is interesting…I have been urging my daughter to write posts in the blog that we prepared but she is not ready yet. But to write for her? That would be irrespective of her right not just as a writer/blogger but as a person.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84468" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/c01959b6d2e8dca540b0d00bb5a1ff8a?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84468" id="comment-84468"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84468&quot;)">
+					<cite>Comment by <a href="http://silkenhut.com/blog" rel="external nofollow" class="url">Allen</a><a href="#comment-84468"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 19:00:50 						
+					</div>					
+					<div class="content">
+						<p>Finally, someone breaks the silence. I guess a lot of people were suspicious but without enough evidence, no one speaks out. ^_^</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84476" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/cf7d252c18dd7d70315f043059b66eb1?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84476" id="comment-84476"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84476&quot;)">
+					<cite>Comment by Hari Skwatir<a href="#comment-84476"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 19:21:51 						
+					</div>					
+					<div class="content">
+						<p>If we haven’t got a substantial proof, I think it’s still fair to give the kid the benefit of our doubt. Afterall, blogging about “money making” is no mystery these days. All you have to do is visit similar blogs and mimic them.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84482" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/245d5801423ff9e5d935d99b56aea96e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84482" id="comment-84482"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84482&quot;)">
+					<cite>Comment by <a href="http://aileenapolo.blogspot.com" rel="external nofollow" class="url">Aileen Apolo</a><a href="#comment-84482"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 19:42:27 						
+					</div>					
+					<div class="content">
+						<p>My son is a teenager and I know how he writes. From day 1 I knew it was quite obvious who was doing the writing. I’m teaching my child to blog, but on his own terms and based on his own interest. Oh well… <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84497" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/67a5465079ce42405f40f243794c41e7?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84497" id="comment-84497"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84497&quot;)">
+					<cite>Comment by <a href="http://www.tingog.com" rel="external nofollow" class="url">Nick</a><a href="#comment-84497"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 21:36:55 						
+					</div>					
+					<div class="content">
+						<p>Intriguing, and almost too obvious.  And to think, he’s an influential blog?</p>
+<p>But if it’s too good to be true, as the saying goes.. then it’s usually isn’t..</p>
+<p>Now, if it had been the likes of Matt of Wordpress fame, who had some street credentials to hang on, and is still young, although, not 13 years old, then I would have believed it.</p>
+<p>Just like those millionaires selling books on making millions, the only reason they’re millionaires is because of the book, not their strategy..  I’m not saying it’s bad to sell books, but as a previous comment said.. if its under false pretense..</p>
+<p>tsk tsk tsk… poor kid.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84498" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/691c24a094258dc6a904498e7c414de2?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84498" id="comment-84498"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84498&quot;)">
+					<cite>Comment by <a href="http://www.manuelviloria.com" rel="external nofollow" class="url">ManuelV</a><a href="#comment-84498"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 21:51:49 						
+					</div>					
+					<div class="content">
+						<p>Wait… it’s really the teener writing? As in, *all* the posts?</p>
+<p>For the longest time, I thought the parent was the one writing all of the ebiz posts in that blog.</p>
+<p>If the teener was the one who really wrote all those posts, then all I can say is he sure can write!</p>
+<p>Who knows? Maybe he’s the one ghostwriting for his dad. He probably just used his dad’s persona in the past, so that he’d be taken seriously online.</p>
+<p>Later on, he probably realized he was better off just being himself.</p>
+<p>Ahem. <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley"> </p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84510" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84510" id="comment-84510"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84510&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84510"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-10 23:16:50 						
+					</div>					
+					<div class="content">
+						<p>@lemon- greed is the motivation but don’t they realize how much harm is being done to their child. The child lives in the identity of the parent.</p>
+<p>@jeric- poor child. But as a parent, they should know this is the best for their child. Maybe in their own way of thinking, this is the best for them.</p>
+<p>@ferdz- the child will sooner or later know this is wrong. But since he is young, they are taught to obey their parents.</p>
+<p>@karlo- They should tell his loyal followers to stop defending them. The issue will just get bigger and bigger.</p>
+<p>@julie- yes we help them with setting up the blog. It’s unthinkable for parents to actually write for their child. And for whose glory? whose fame?</p>
+<p>@allen – i spoke to the child in front of Dine as witness. the child could barely talk of the topic I asked.</p>
+<p>@Hari- in fact i said to myself, i should give the child the benefit of the doubt. I actually talked to the child .</p>
+<p>@aileen- you of all people know what a young boy’s voice sounds like. Sure there are kids who are ultra gifted but still they take time to talk of other mundane topics . But not “Making Money Online”</p>
+<p>@Nick- well the blog is influenced me to blog about it </p>
+<p>@manuel- I hope you’re kidding. <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84602" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/601d8208a37875826291ede9c07badd9?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84602" id="comment-84602"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84602&quot;)">
+					<cite>Comment by <a href="http://atheista.net" rel="external nofollow" class="url">benj</a><a href="#comment-84602"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 10:42:20 						
+					</div>					
+					<div class="content">
+						<p>I haven’t seen their friends defending them yet. Hehe. Where exactly are those sites located, Noemi? hehe</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84608" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/eb34691a280c54a6144674ac8e6a52e6?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84608" id="comment-84608"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84608&quot;)">
+					<cite>Comment by <a href="http://houseonahill.net" rel="external nofollow" class="url">Connie</a><a href="#comment-84608"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 11:04:47 						
+					</div>					
+					<div class="content">
+						<p>Are you referring to this blog:<br>
+<a href="http://www.carlocab.com/" rel="nofollow">http://www.carlocab.com/</a></p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84622" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84622" id="comment-84622"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84622&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84622"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 12:31:45 						
+					</div>					
+					<div class="content">
+						<p>@benj- </p>
+<p>charleslau.com/2007/08/10/the-internet-business-is-best-done-by-young-children/</p>
+<p>@connie- obvious ba?</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84642" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/eb34691a280c54a6144674ac8e6a52e6?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84642" id="comment-84642"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84642&quot;)">
+					<cite>Comment by <a href="http://houseonahill.net" rel="external nofollow" class="url">Connie</a><a href="#comment-84642"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 14:36:30 						
+					</div>					
+					<div class="content">
+						<p>top of the search results sya if you google 13 year old make money online hahahahaha</p>
+<p>Calling Bantay Bata!!!</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84667" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/67a5465079ce42405f40f243794c41e7?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84667" id="comment-84667"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84667&quot;)">
+					<cite>Comment by <a href="http://www.tingog.com" rel="external nofollow" class="url">Nick</a><a href="#comment-84667"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 16:30:50 						
+					</div>					
+					<div class="content">
+						<p>Maybe now, it can be one of the top controversial blog, instead of being influential.. I don’t need that kind of bad influence anyway.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84718" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/601d8208a37875826291ede9c07badd9?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84718" id="comment-84718"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84718&quot;)">
+					<cite>Comment by <a href="http://atheista.net" rel="external nofollow" class="url">benj</a><a href="#comment-84718"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 20:00:38 						
+					</div>					
+					<div class="content">
+						<p>What did them in was that the father came with the boy a week ago. Tsk.</p>
+<p>Noemi, the link you gave me had a scary header, not to mention logical fallacies. hehe</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84740" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/7a5f67f30704f5890b0cc70f69ee786a?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84740" id="comment-84740"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84740&quot;)">
+					<cite>Comment by Jess<a href="#comment-84740"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 21:10:41 						
+					</div>					
+					<div class="content">
+						<p>the kid should be interviewed on LIVE TV. Let him blog about “monetization strategies” or a random topic of any of the categories in the blog. That’s the real evidence.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84742" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/bdebc97c2922750653d94f0b1a7dd2fe?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84742" id="comment-84742"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84742&quot;)">
+					<cite>Comment by <a href="http://noneed4ink.com" rel="external nofollow" class="url">Maki</a><a href="#comment-84742"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 21:13:25 						
+					</div>					
+					<div class="content">
+						<p>Now it makes sense. That’s why when I rad that blog months ago when it was still being discovered, it’s like reading a rip off with respect to John Chow’s articles (I tried comparing it with John Chow’s way of writing). I even speculated how would an early teen have interest in going pro with blogging. (My kuya at that age would’ve spent his time with more studies, crushes, and basketball <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley"> )</p>
+<p>Anyways, for parents, please don’t force your children to blog for you…or even *coughs* make money online under your name.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84746" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84746" id="comment-84746"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84746&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84746"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 21:16:56 						
+					</div>					
+					<div class="content">
+						<p>@connie- is this the responsibility  of “Bantay Bata” . Eh the parent will say he knows what is best.</p>
+<p>@Nick- well controversial blogs can be a useful marketing tool. </p>
+<p>@Benj- well you’re the expert in arguments/</p>
+<p>@Jess- true.</p>
+<p>@Maki- I don’t even understand half the contents of that blog . “canonical url”? what is that?</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84766" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/ae58510da7b7c934ae0636bd5a607cc6?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84766" id="comment-84766"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84766&quot;)">
+					<cite>Comment by emily<a href="#comment-84766"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 22:10:47 						
+					</div>					
+					<div class="content">
+						<p>just google the parent. and you will see</p>
+<p>_______will help you start your very own COMPLETE MONEY MAKING WEBSITE that’s 100% ready to capture orders and bring in ENORMOUS PROFITS for you right now … GUARANTEED! Visit: Work At Home</p>
+<p>maybe the father made the site and placed contents from this package.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84767" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84767" id="comment-84767"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84767&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84767"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 22:15:58 						
+					</div>					
+					<div class="content">
+						<p>@emily- if that is true, then the child blogger should have mentioned that fact. That doesn’t make it right. Still a misrepresentation of some facts.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84774" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/c01959b6d2e8dca540b0d00bb5a1ff8a?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84774" id="comment-84774"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84774&quot;)">
+					<cite>Comment by <a href="http://silkenhut.com/blog" rel="external nofollow" class="url">Allen</a><a href="#comment-84774"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 22:40:01 						
+					</div>					
+					<div class="content">
+						<p>hey you should take a look at this, especially at the comments.<br>
+hxxp://www.jozzua.com/2007/04/29/a-13-year-old-problogger-and-his-marketing-tactics/</p>
+<p>haha I replaced “http” with “hxxp” to prevent a trackback.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-84775" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-84775" id="comment-84775"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-84775&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-84775"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-11 22:52:02 						
+					</div>					
+					<div class="content">
+						<p>@allen- I made my stand. Everyone has their opinion on my entry whether in my favor or not. Anyone can choose to believe it’s the child’s pure writing skills. or otherwise. I believe the child wrote some entries but the very advanced ones are not his.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85014" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85014" id="comment-85014"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85014&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-85014"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 12:25:53 						
+					</div>					
+					<div class="content">
+						<p>Just note the conflicting statements on how the blog got setup</p>
+<p><a href="http://jozzua.com/2007/04/29/a-13-year-old-problogger-and-his-marketing-tactics/" rel="nofollow">from Jozzua.com</a> comments:</p>
+<p><i>@benj – Yes, tama po kayo.. he monitors my blog once in a while but i’m the only one who build it from scratch</i></p>
+<p>Then an interview with this blog<br>
+adii.co.za/2007/04/30/make-money-online-with-a-13-year-old/</p>
+<p><i>Yea, I started it only this February 4. With the help of my dad with the set-up.</i></p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85042" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/cea0094e66685d26c907cc36be76bb7a?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85042" id="comment-85042"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85042&quot;)">
+					<cite>Comment by <a href="http://jennys-corner.com" rel="external nofollow" class="url">jennyL</a><a href="#comment-85042"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 13:57:24 						
+					</div>					
+					<div class="content">
+						<p>hmmmm very interesting and poor lil kid being used by his dad kung totoo talaga.. tsktsk</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85060" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/691c24a094258dc6a904498e7c414de2?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85060" id="comment-85060"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85060&quot;)">
+					<cite>Comment by <a href="http://www.manuelviloria.com/archives/carl-ocabs-ghostwriter/" rel="external nofollow" class="url">ManuelV</a><a href="#comment-85060"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 14:36:26 						
+					</div>					
+					<div class="content">
+						<p>Noemi, did you speak with Mr. Alan Ocab regarding this ghostwriting issue before you published this post which practically accuses him publicly of unethical behavior, immorality and child abuse/exploitation?</p>
+<p>(You know, something along the lines of direct questions on authorship, asked face to face, so that you can gauge the sincerity of his answers.)</p>
+<p>If not, have you already spoken with him or his son Carl about your suspicions regarding the authorship of those CarlOcab.com blog posts?</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85068" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85068" id="comment-85068"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85068&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-85068"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 15:05:21 						
+					</div>					
+					<div class="content">
+						<p>@ManuelIV- Good you asked that question. But first of all,  I never wrote about ghostwriting issue. My post is about the misrepresentation of facts of the blog. You are referring to someone else’s blog post not mine.</p>
+<p>The exploitation issue was not mentioned by  me but one of my commenters. In fact, Connie did.</p>
+<p>I talked of  ethical standards in blogging.</p>
+<p>Yes , I talked to the boy in that event . We have photos taken together. Bloggers saw me talking to the boy . I spoke twice to the boy .( Dine who was beside me also spoke to the boy. But she will post her observations if she wants to.)</p>
+<p>And his answers confirmed my suspicions.  His reply on PPC didn’t match his post on PPC. He couldn’t reply to it. I asked if he could talk about money making online and he evaded the topic and rather talk about blogging tips.</p>
+<p>Then that blogger spoke to the boy but couldn’t get straight answers from the boy so turned to the father.he later on told me that the secret is the dad. (check that quote above)</p>
+<p>I also compared the writing style of the father and the boy. They are similar.</p>
+<p>My entry has basis my dear Manuel. What about you?</p>
+<p> Have you talked to the boy as in real life?  Did you ask  direct questions about the money making online tips?  You only emailed them separately, right?</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85073" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/691c24a094258dc6a904498e7c414de2?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85073" id="comment-85073"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85073&quot;)">
+					<cite>Comment by <a href="http://www.manuelviloria.com/archives/carl-ocabs-ghostwriter/" rel="external nofollow" class="url">ManuelV</a><a href="#comment-85073"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 15:17:39 						
+					</div>					
+					<div class="content">
+						<p>Thanks, Noemi. Glad to see more details here, particularly the one on PPC and writing style.</p>
+<p>In the case of , was he the one who said that the child did the writing (after being taught by the parent)?</p>
+<p>To answer your question: I’ve only emailed Carl and Alan on the issue of who wrote the posts. I didn’t ask them about making money online tips. I haven’t spoken with them yet, although I’ve scheduled a phone conversation with Alan tonight, so I’ll definitely ask about tips.</p>
+<p>So, if ghostwriting/authorship is not the issue here in your post, what facts were misrepresented?</p>
+<p>Ownership of the blog? (”It’s still not the child’s blog.”)</p>
+<p>And that the parent used the child to misrepresent which facts? Carl’s knowledge of PPC?</p>
+<p>What fudged truth were you referring to, Noemi?</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85079" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/dde02924388e4efd5595255fcea8e62e?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85079" id="comment-85079"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85079&quot;)">
+					<cite>Comment by <a href="http://aboutmyrecovery.com" rel="external nofollow" class="url">Noemi</a><a href="#comment-85079"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 15:36:04 						
+					</div>					
+					<div class="content">
+						<p>@ManuelIV- If you want to make the issue bigger, go on. I was just taking  a stand on an ethical issue.</p>
+<p>I cannot speak for Jomar . Ask him yourself.</p>
+<p>Maybe it’s best that you speak to them  and judge for yourself.</p>
+<p>Misrepresentation of facts – Like I said I didn’t write about ghost writing per se  rather it refers to ownership of blog and authorship of the entries. It says the boy wrote those entries in the about me page. “the guy behind the .com and I give tips to people who wants to make money online via blogging, websites and other methods.”</p>
+<p>Fudged truth means it’s not really the child writing most of the entries especially the more complicated ones e.g. PPC</p>
+<p>I believe the truth will come out eventually and , as the saying goes, will set us free.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85083" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/23fa5aa925ace5ec49651c6132657b03?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85083" id="comment-85083"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85083&quot;)">
+					<cite>Comment by <a href="http://dine.racoma.com.ph" rel="external nofollow" class="url">SexyMom</a><a href="#comment-85083"></a></cite> 
+														
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 15:47:43 						
+					</div>					
+					<div class="content">
+						<p>wait, Noemi, i am confused, is this ManuelV you are responding to, the same ManuelV who earlier posted this comment?</p>
+<p>ManuelV:</p>
+<p>Wait… it’s really the teener writing? As in, *all* the posts?</p>
+<p>For the longest time, I thought the parent was the one writing all of the ebiz posts in that blog.</p>
+<p>If the teener was the one who really wrote all those posts, then all I can say is he sure can write!</p>
+<p>Who knows? Maybe he’s the one ghostwriting for his dad. He probably just used his dad’s persona in the past, so that he’d be taken seriously online.</p>
+<p>Later on, he probably realized he was better off just being himself.</p>
+<p>Ahem. <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley"><br>
+- – - – -</p>
+<p>I wonder, it seems like he is singing a different tune now. He must have thoroughly interviewed the father-son tandem to make a quick conclusion.</p>
+<p>anyway, i was just wondering. do you remember when during the start of the program in Max’s, we were all asked to introduce ourselves, and tell the audience what we do? Mr Ocab said he was an “events organizer”. </p>
+<p>While google searching his name, I was very surprised to find pages and pages of his Making Money Online type of activities. I wonder why he did not tell us about it at that time? </p>
+<p>Just to put it on record, we talked to Carl. I asked him what the sources are of his writings–he said research and own ideas (wow! i said). i also asked if he goes to school, he said, yes. and again i said, good he still has a lot of time to write, and those are very complicated topics, i told him. i asked how does this pay per click operate, he said “affiliates”. We did not have a real conversation, because he answered only in one or few words, not even sentences.</p>
+<p>This issue has blown to proportions now. I know it is not your intention to hurt anyone, nor was it also my intention when i commented to your and ManuelV’s posts.</p>
+<p>If indeed it is Carl who writes his own articles in his blog, well and good–we have a child wonder in or midst.</p>
+<p>But if it is not him, and it is somebody else writing, well, they can continue fooling people. But really, they can just say the truth, it won’t hurt to tell the truth. </p>
+<p>As I commented in ManuelV’s post – The Marcoses said they did not plunder the Philippines, Erap says, too. Oh yes, there is no evidence. And Filipinos are indeed intelligent.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85084" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/691c24a094258dc6a904498e7c414de2?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85084" id="comment-85084"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85084&quot;)">
+					<cite>Comment by ManuelV<a href="#comment-85084"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 15:49:32 						
+					</div>					
+					<div class="content">
+						<p>Thanks, Noemi. My question about- relates to the quote you posted in your entry.</p>
+<p>At any rate, thank you for clarifying your view on whether Carl wrote most of the entries or not.</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+			<div id="div-comment-85087" class="comment">
+<div class="btc_gravatar gravatar">
+	<img alt="" src="http://www.gravatar.com/avatar/691c24a094258dc6a904498e7c414de2?s=64&amp;d=wavatar&amp;r=G" class="avatar avatar-64 photo" height="64" width="64">   <div style="clear: both;"></div>
+</div>
+				<a name="comment-85087" id="comment-85087"></a>
+				<div class="title">
+					<img class="collapseicon" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=spacer.png" onclick="collapseThread(&quot;div-comment-85087&quot;)">
+					<cite>Comment by ManuelV<a href="#comment-85087"></a></cite> 
+					<img alt="Subscribed to comments via email" src="http://aboutmyrecovery.com/wp-content/plugins/briansthreadedcomments.php?image=subscribed.png">									
+				</div>
+				<div class="body">
+					<div class="meta">
+						2007-08-12 15:55:31 						
+					</div>					
+					<div class="content">
+						<p>@SexyMom</p>
+<p>Singing a different tune? Nope…</p>
+<p>From the start I could not believe a teener was writing all those posts. And then I read in Noemi’s post the quote: “The secret of the blog is the parent. The parent taught the child and then the child writes . So it’s really the child writing.”</p>
+<p>That’s the context of my first comment in this post.</p>
+<p>How exactly did my tune change?</p>
+<p>(Looks like my “Ahem <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley"> ” got skimmed over.)</p>
+					</div>
+					<div class="reply">
+											</div>
+				</div>
+					
+
+			</div>
+			<!-- This has to be here because of Internet Explorers plethora of layout bugs -->
+			<div style="height: 1px; overflow: hidden;">&nbsp;</div>
+</div>
+<p>Sorry, the comment form is closed at this time.</p>
+
+<br><br><h3>My Advocacy</h3><br>
+
+<a href="http://compassionatefriends.info"><img id="image1567" src="http://aboutmyrecovery.com/wp-content/uploads/2008/02/compassionate_friends.jpg" alt="grief support after the death of a child"></a><br><center>
+<a href="http://compassionatefriends.info">Grief Support in the Philippines</a> <br>
+After the Death of a Child</center>
+
+<p class="info">
+	<a href="http://www.filipinaimages.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/filipina_icon.jpg" alt="filipina" align="left" border="0"></a><br>
+<a href="http://www.filipinaimages.com">FilipinaImages.com</a> is a collaborative effort of all the bloggers who believe that The Filipina of the Future deserves a more empowered, diverse image online.  Join the <a href="http://www.filipinaimages.com">Filipina Image Online Campaign</a></p>
+
+<p class="note"><a href="http://aboutmyrecovery.com/suicide-prevention/"><img id="image1374" src="http://aboutmyrecovery.com/wp-content/uploads/2007/11/suicide.jpg" alt="suicide" align="left"></a>
+<br><a href="http://aboutmyrecovery.com/suicide-prevention/">Suicide prevention</a> is everybody's business. <a href="http://aboutmyrecovery.com/2007/11/08/children-and-adolescent-suicide/">Educate our  community</a> that suicide is a preventable public health problem in the Philippines. Suicide should no longer be considered a  taboo topic, and that through raising awareness and educating the public, we can SAVE lives.
+
+</p>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+				
+				
+			</div>
+
+			<div id="primary" class="sidebar">
+				<ul>
+
+<li><h3>Be Updated with My Blog via Email</h3>
+<form style="border: 0px none rgb(204, 204, 204); padding: 3px; text-align: left;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><input style="width: 150px;" value="Enter your email address..." id="email-form" onfocus="if (this.value == 'Enter your email address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address...';}" name="email" type="text" < p>
+</p><p><input value="http://feeds.feedburner.com/~e?ffid=716143" name="url" type="hidden"><input value="Aboutmyrecovery.com" name="title" type="hidden"><input value="Subscribe" type="submit">  
+     
+</p></form></li><a href="http://feeds2.feedburner.com/aboutmyrecovery"><img src="http://feeds2.feedburner.com/~fc/aboutmyrecovery?bg=66CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a>
+
+					
+<li><h3>About Me</h3>
+		<img id="image1338" src="http://aboutmyrecovery.com/wp-content/uploads/2007/10/me_and_luijoe_icon.jpg" alt="luijoe and me" align="left" hspace="4"> This is about me ( a <a href="http://filipinaimages.com">Filipina</a> mom) and my  journey to a "new normal" after the death of <a href="http://angel-luijoe.net/">Luijoe</a> , my beautiful 6 year old son. Recovery is  a work in progress.... <a href="http://aboutmyrecovery.com/about/">read more?</a><br><br>
+		Now, it's your turn to <a href="http://aboutmyrecovery.com/2006/03/12/tell-me-about-you/">tell me about you</a> or read <a href="http://aboutmyrecovery.com/2007/12/28/blog-posts-you-should-read/">my best and popular blog posts</a>.<br><br>
+<!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Momblogger/121348374582695" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Momblogger">Momblogger</a><br><a href="http://www.facebook.com/pages/Momblogger/121348374582695" target="_TOP" title="Momblogger"><img src="http://badge.facebook.com/badge/121348374582695.926.1678202820.png" width="120" height="251" style="border: 0px;"></a><br><a href="http://www.facebook.com/business/dashboard/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END -->
+<br>
+<iframe src="http://www.formspring.me/widget/view/momblogger?&amp;size=medium&amp;bgcolor=%23fff&amp;fgcolor=%23333" frameborder="0" scrolling="no" width="170" height="275" style="border:none;"><a href="http://www.formspring.me/momblogger">http://www.formspring.me/momblogger</a></iframe>
+</li><li><h3>Hot Topics</h3>
+
+<ul><a href="http://blogwatch.ph"><img src="http://aboutmyrecovery.com/wp-content/uploads/2009/08/blogwatchface125.jpg" alt="voters education"></a><br>
+Visit <a href="http://blogwatch.ph">blogwatch.ph</a> - Citizen Watchdog<br>
+Philippine Elections</ul>
+
+
+<ul>- Who is this <a href="http://aboutmyrecovery.com/2008/04/03/mayens-story-on-alleged-scam/" <b>Tim Cumper, <b>tierramariauk</b> or <b>Ellumbra</b></a>? </ul>
+
+<ul>- Visit <a href="http://timcumper.com">timcumper.com</a></ul>
+
+
+
+
+
+</li>
+
+
+
+
+
+<li id="categories"><h3>Navigate</h3>
+						<ul>
+
+<li class="page_item page-item-2"><a href="http://aboutmyrecovery.com/about/">About Me</a>
+<ul>
+	<li class="page_item page-item-367"><a href="http://aboutmyrecovery.com/about/about-me/">More About Me</a></li>
+</ul>
+</li>
+<li class="page_item page-item-34"><a href="http://aboutmyrecovery.com/about-the-site/">About My Blog</a></li>
+<li class="page_item page-item-66"><a href="http://aboutmyrecovery.com/archives/">Archives</a></li>
+<li class="page_item page-item-31"><a href="http://aboutmyrecovery.com/contact-me/">Contact</a></li>
+<li class="page_item page-item-36"><a href="http://aboutmyrecovery.com/disclaimer/">Disclosure, Commentary, Privacy Policy</a></li>
+<li class="page_item page-item-1191"><a href="http://aboutmyrecovery.com/links/">Links</a></li>
+<li class="page_item page-item-3127"><a href="http://aboutmyrecovery.com/subscribe/">Subscribe For Free</a></li>
+<li class="page_item page-item-1375"><a href="http://aboutmyrecovery.com/suicide-prevention/">Suicide Prevention</a></li>
+<li class="page_item page-item-1759"><a href="http://aboutmyrecovery.com/videos/">Videos</a></li>
+<li class="page_item page-item-7357"><a href="http://aboutmyrecovery.com/voters-education/">Voters Education For Philippine Election 2010</a></li>
+
+							
+						</ul>
+					</li>
+
+
+
+
+	<li>
+<h3>Top Commentators</h3>
+<ul><li><a href="http://aboutmyrecovery.com">Noemi Lardizabal-Dado</a> (5)
+</li>
+<li>Agnes Dela Cruz (3)
+</li>
+<li>ryan m. (2)
+</li>
+<li><a href="http://simplyabbie.com">abbie</a> (2)
+</li>
+<li>lovely (2)
+</li>
+<li><a href="http://everydaysweetnotes.blogspot.com">Smarla</a> (2)
+</li>
+<li>april (2)
+</li>
+<li><a href="http://www.pensivethoughts.com">Tetcha</a> (1)
+</li>
+<li>Lindy (1)
+</li>
+<li><a href="http://www.mitch/moreno.com">MAUREEN</a> (1)
+</li>
+</ul>
+</li>
+
+<li><h3>Ads</h3>
+			<ul>
+<!-- nuffnang -->
+<script type="text/javascript">
+nuffnang_bid = "c9a3fa9e3935a17b779078540932ee7d";
+</script>
+<script type="text/javascript" src="http://synad2.nuffnang.com.ph/lmn.js"></script>
+<!-- nuffnang-->
+			</ul>
+
+	</li><li><h3>Most Recent Comments</h3>
+			<ul>
+				<li></li><li><strong>Cecile:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287740" title="View the entire comment by Cecile">Cebuanon drinks COKE with sparkling</a></li><li><strong>Smarla:</strong> <a href="http://aboutmyrecovery.com/2010/09/16/the-myth-of-closure/#comment-287738" title="View the entire comment by Smarla">Hi Noemi, I will continue</a></li><li><strong>april:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287737" title="View the entire comment by april">Coca-Cola has remained our favorite</a></li><li><strong>april:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287736" title="View the entire comment by april">Coca-Cola has remained our favorite</a></li><li><strong>tata:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287735" title="View the entire comment by tata">sabi ng mama ko always</a></li><li><strong>Smarla:</strong> <a href="http://aboutmyrecovery.com/2010/09/14/ebook-touched-by-an-angel/#comment-287733" title="View the entire comment by Smarla">Congratulations! <img src="http://aboutmyrecovery.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  This is yet</a></li><li><strong>Gelo Guison:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287732" title="View the entire comment by Gelo Guison">Love love love to drink</a></li><li><strong>Jam:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287725" title="View the entire comment by Jam">Certainly, The best time for</a></li><li><strong>Agnes Dela Cruz:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287719" title="View the entire comment by Agnes Dela Cruz">I uploaded Mama's bday photos</a></li><li><strong>Agnes Dela Cruz:</strong> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/#comment-287718" title="View the entire comment by Agnes Dela Cruz">I uploaded photos of my</a></li>
+			</ul>
+		
+
+</li><li><h3>Most Commented</h3>
+			<ul>
+					<a href="http://aboutmyrecovery.com/2007/03/07/college-sweethearts/">Our Love Story: College Sweethearts</a><br><a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/" title="Happy Kainan Monday: Eating Together = Family Happiness">Happy Kainan Monday: Eating Together = Family Happiness</a> (27)<br><a href="http://aboutmyrecovery.com/2010/06/03/should-parents-be-taught-on-sex-education/" title="Should parents be taught sex education?">Should parents be taught sex education?</a> (15)<br><a href="http://aboutmyrecovery.com/2010/05/26/where-i-am-today/" title="Where I am today">Where I am today</a> (12)<br><a href="http://aboutmyrecovery.com/2010/08/10/when-i-look-at-my-daughters-i-see-myself-only-better/" title="When I look at my daughters I see myself…only better.">When I look at my daughters I see myself…only better.</a> (11)<br><a href="http://aboutmyrecovery.com/2010/05/24/ambivalent-towards-erap/" title="Ambivalent towards Erap">Ambivalent towards Erap</a> (7)<br><a href="http://aboutmyrecovery.com/2010/08/14/divorce-in-the-philippines/" title="A Divorce Law is just a start">A Divorce Law is just a start</a> (6)<br><a href="http://aboutmyrecovery.com/2010/09/01/the-natasha-goulbourn-foundation-bringing-depression-to-light/" title="The Natasha Goulbourn Foundation: Bringing depression to light">The Natasha Goulbourn Foundation: Bringing depression to light</a> (6)<br><a href="http://aboutmyrecovery.com/2010/07/04/fighting-for-your-marriage/" title="On second chances">On second chances</a> (5)<br>			</ul>
+		</li>
+
+
+<li><h3>Most Recent Posts</h3>
+			<ul>
+
+				
+<img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/16/the-myth-of-closure/" rel="bookmark" title="Permanent Link: The myth of closure">The myth of closure</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/14/ebook-touched-by-an-angel/" rel="bookmark" title="Permanent Link: Vee Press to launch the ebook version of my blog on Sept 17 at the Book Fair ">Vee Press to launch the ebook version of my blog on Sept 17 at the Book Fair </a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/13/happy-kainan-monday-eating-together-family-happiness/" rel="bookmark" title="Permanent Link: Happy Kainan Monday: Eating Together = Family Happiness  ">Happy Kainan Monday: Eating Together = Family Happiness  </a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/06/walking-tour-of-historic-intramuros-with-carlos-celdran/" rel="bookmark" title="Permanent Link: If these walls could talk by Carlos Celdran">If these walls could talk by Carlos Celdran</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/04/manila-us-embassy-invites-bloggers-to-us-cultural-affairs-reception/" rel="bookmark" title="Permanent Link: Embassy of the United States in Manila invites bloggers">Embassy of the United States in Manila invites bloggers</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/03/the-secret-language-is-a-secret/" rel="bookmark" title="Permanent Link: The secret language is a secret">The secret language is a secret</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/09/01/the-natasha-goulbourn-foundation-bringing-depression-to-light/" rel="bookmark" title="Permanent Link: The Natasha Goulbourn Foundation: Bringing depression to light ">The Natasha Goulbourn Foundation: Bringing depression to light </a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/08/30/that-grief-is-light-which-can-take-counsel/" rel="bookmark" title="Permanent Link: That grief is light which can take counsel">That grief is light which can take counsel</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/08/29/birthday-greetings-to-the-love-of-my-life/" rel="bookmark" title="Permanent Link: Birthday greetings to the love of my life">Birthday greetings to the love of my life</a><br><img src="http://aboutmyrecovery.com/images/butterfly.gif"> <a href="http://aboutmyrecovery.com/2010/08/28/showing-compassion-a-grief-shared/" rel="bookmark" title="Permanent Link: Showing compassion, a grief shared">Showing compassion, a grief shared</a><br>			</ul>
+		</li>
+
+<li><h3>Twitter Updates</h3>
+
+<div id="twitter_div">
+<h2 class="sidebar-title">Twitter Updates</h2>
+<ul id="twitter_update_list"></ul>
+<a href="http://twitter.com/momblogger" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+</div>
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/momblogger.json?callback=twitterCallback2&amp;count=6"></script></li>
+
+<a href="http://t.extreme-dm.com/?login=noemid" target="_top"><img src="http://t1.extreme-dm.com/i.gif" name="EXim" border="0" height="38" width="41" alt="eXTReMe Tracker"></a>
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script type="text/javascript"><!--
+var EXlogin='noemid' // Login
+var EXvsrv='s9' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e0.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><noscript><img height="1" width="1" alt="" src="http://e0.extreme-dm.com/s9.g?login=noemid&amp;j=n&amp;jv=n">
+
+
+</noscript>
+<script type="text/javascript" src="http://track.mybloglog.com/js/jsserv.php?mblID=2006031205112946" defer="defer"></script>
+
+	<br>		
+	
+<!--NetworkedBlogs Start--><style type="text/css"><!--.networkedblogs_widget a {text-decoration:none;color:#3B5998;font-weight:normal;}.networkedblogs_widget .networkedblogs_footer a {text-decoration:none;color:#FFFFFF;font-weight:normal;}--></style><div id="networkedblogs_container" style="height:180px;padding-top:20px;"><div id="networkedblogs_above"></div><div id="networkedblogs_widget" style="width:120px;margin:0px auto;padding:0px 0px 3px 0px;font-family:'lucida grande',tahoma,Verdana,Arial,Sans-Serif;font-size:11px;font-weight:normal;text-decoration:none;background:#3B5998 none repeat scroll 0% 0%;border:none;line-height:13px;"><div id="networkedblogs_header" style="padding:1px 1px 2px 3px;text-align:left;"><a href="http://www.facebook.com/apps/application.php?id=9953271133" style="text-decoration:none;color:#FFFFFF;font-weight:normal;font-size:11px;background-repeat:no-repeat;">NetworkedBlogs</a></div><div id="networkedblogs_body" style="background-color:#FFFFFF;color:#444444;padding:4px;border-left:1px solid #D8DFEA;border-right:1px solid #D8DFEA;text-align:left;"><table cellpadding="0" cellspacing="0"><tbody><tr><td><span style="color:#777777;">Blog:</span></td></tr><tr><td><a target="_blank" href="http://www.networkedblogs.com/blog/filipina_mom_blogger/" style="text-decoration:none;color:#3B5998;">Filipina Mom Blogger</a></td></tr><tr><td><div style="padding:0px;padding-top:5px;color:#777777;">Topics:</div></td></tr><tr><td><a target="_blank" href="http://www.networkedblogs.com/topic/parenting" style="text-decoration:none;color:#3B5998;">parenting</a>, <a target="_blank" href="http://www.networkedblogs.com/topic/child+health" style="text-decoration:none;color:#3B5998;">child health</a>, <a target="_blank" href="http://www.networkedblogs.com/topic/advocacy" style="text-decoration:none;color:#3B5998;">advocacy</a></td></tr><tr><td><div id="networkedblogs_badges">&nbsp;</div></td></tr><tr><td><div style="padding:0px;text-align:center;"><a target="_blank" href="http://www.networkedblogs.com/blog/filipina_mom_blogger/?ahash=25aa04fcbe1f682e4b06cd2084d6b079" style="text-decoration:none;color:#666666;font-weight:normal;font-size:10px;">Follow my blog</a></div></td></tr></tbody></table></div></div><div id="networkedblogs_below" class="networkedblogs_below"></div></div><script type="text/javascript"><!--
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=72012;networkedblogs.shortName="filipina_mom_blogger";}
+--></script><script type="text/javascript" src="http://widget.networkedblogs.com/getwidget?bid=72012"></script><!--NetworkedBlogs End-->
+
+<br><br>
+
+
+<a href="http://filipinaimages.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/filipina.jpg" alt="filipina"></a><br>
+Reshaping the <a href="http://filipinaimages.com">Filipina</a> Images Online<br><br>
+<li><h3>Visit my Daughter's Blog </h3>
+
+<ul><a href="http://iambourgeois.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/2006/02/i-am-bourgeois-2.jpg"></a><br>
+<a href="http://iambourgeois.com">Makeup Reviews</a><br></ul>
+			<ul>
+
+<a href="http://ukaymanila.com"><img src="http://www.aboutmyrecovery.com/photos/d/9078-1/ukay+manila+banner.jpg" alt="ukay-ukay"></a><br>
+<a href="http://ukaymanila.com">ukay-ukay &amp; vintage clothes shopping</a></ul><br><br>
+
+
+<a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://aboutmyrecovery.com"><img src="http://static.technorati.com/pix/fave/tech-fav-1.png" alt="Add to Technorati Favorites"></a>	<br>
+
+<a href="http://www.topblogs.com.ph/home-living/"><img style="border:none" src="http://www.topblogs.com.ph/track_1120.gif" alt="Home &amp; Living - Top Blogs Philippines"></a>
+<br><br>
+
+					
+				</li></ul>
+
+			</div>
+			<div class="clear"></div><div class="bottom"></div>
+		</div>
+
+		<div id="secondary" class="sidebar">
+			<ul>
+
+				
+
+				<li id="rss-links"><h3>RSS Feeds</h3>
+					<ul>
+						<li><a href="http://aboutmyrecovery.com/feed/" title="Posts RSS feed" rel="alternate" type="application/rss+xml">Posts Feed</a></li>
+						<li><a href="http://aboutmyrecovery.com/comments/feed/" title="Comments RSS feed" rel="alternate" type="application/rss+xml">Comments Feed</a></li>
+					</ul>
+				</li>
+
+				<li id="linkcat-54" class="linkcat"><h3>Best Entries</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://aboutmyrecovery.com/2008/01/20/what-is-a-blog/">*What is a Blog?</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/03/14/words-to-comfort/">*Words of Comfort</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/05/29/a-healthy-attraction-to-people/">A Healthy Attraction to People</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/01/10/blogger-conversation-in-the-family/">Blogger Conversation</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/03/05/financial-responsibility/">Financial Responsibility</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/05/10/gossip/">Gossip</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/08/19/healthy-apologies/">Healthy Apologies</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/03/04/heaven-is-a-real-place/">Heaven is A Real Place</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/04/26/how-personal-should-a-personal-blog-be/">How Personal Should A Personal Blog Be?</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/11/04/how-to-live-an-exceptional-superb-and-powerful-life/">How to Live A Superb Life</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/01/06/how-to-promote-your-blog/">How to Promote Your Blog</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/08/08/how-to-smile/">How To Smile</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/04/15/laughter-is-the-best-medicine/">Laughter is the Best Medicine</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/06/27/letting-out-anger/">Letting Out Anger</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/05/12/me-time-nurturing-myself/">Nurturing Yourself</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/09/16/positive-mental-energy-and-affirmations">Positive Mental Enery</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/07/25/dedma-or-dead-malice/">Practice Dedma</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/07/21/sex-education-in-the-philippines/">Sex Education</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/02/19/ten-reasons-to-getting-through-hard-times">Ten Reasons to Getting Through Hard Times</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/06/29/the-lessons-of-pain/">The Lessons of Pain</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-50" class="linkcat"><h3>Cited-Media Mentions</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://aboutmyrecovery.com/2006/05/16/ali-sottos-special-mothers-day-feature/">ALI’s Mother Day Feature</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/02/27/welcome-to-visitors-of-shop-talk-anc-channel">ANC Shop Talk</a></li>
+<li><a href="http://newsinfo.inq7.net/breakingnews/infotech/view_article.php?article_id=23855">Bloggers chronicle typhoon’s fury in Metro Manila</a></li>
+<li><a href="http://showbizandstyle.inquirer.net/sim/sim/view_article.php?article_id=91588">Catching the Blog</a></li>
+<li><a href="http://newsinfo.inquirer.net/breakingnews/infotech/view_article.php?article_id=58235">Cozy reunion for small but growing RP blog community</a></li>
+<li><a href="http://filipinaimages.com/filipinaimagescom-on-tv/">Filipina Images on She Ka</a></li>
+<li><a href="http://news.inq7.net/sunday/index.php?index=2&amp;story_id=75740&amp;col=94">Gathering stories from wounded healers</a></li>
+<li><a href="http://www.yehey.com/gadgets/articles.aspx?pn=3&amp;id=167289">Her Life as a Blogger</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/03/10/in-sunday-inquirer-magazine-an-interview-with-the-compassionate-friends/">Interview with Sunday Inquirer Magazine</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/04/27/kapuso-mo-jessica-soho-features-blogging/">Kapuso Ko Jessica Soho Feature on Blogging</a></li>
+<li><a href="http://www.mb.com.ph/issues/2006/04/10/TECH2006041061111.html">Manila Bulletin “Blog-O-Rama”</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/02/02/marie-claire-magazine-features-countrys-female-bloggers/">Marie Claire</a></li>
+<li><a href="http://filipinaimages.com/filipinaimagescom-featured-on-modernong-maria-clara-at-100-pinoy-gma-7/">Modernong Maria Clara on 100% Pinoy, GMA 7</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/08/25/youtube-video-of-mom-bloggers-at-momworks-lifestyle-show/">Mom Bloggers at Lifestyle Channel</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/03/07/my-first-tv-interview/">MOMS QTV Interview</a></li>
+<li><a href="http://showbizandstyle.inquirer.net/lifestyle/lifestyle/view_article.php?article_id=66913">Mother Bloggers at Lifestyle Inquirer</a></li>
+<li><a href="http://www.gmanews.tv/story/36555/Philippine-Blog-Awards-cites-22-best-blogs-in-RP">Philippine Blog Awards cites 22 best blogs in RP</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/05/02/proudly-filipina/">Proudly Filipina</a></li>
+<li><a href="http://aboutmyrecovery.com/2008/07/01/qtv-sweet-life-on-a-childs-grief/">QTV Sweet Life on Child’s Grief</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/12/28/using-the-cellphone-for-therapy">Salamat Doc</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/06/03/the-grief-interview-with-cheche-lazaro/">Straight Talk</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-34" class="linkcat"><h3>Elsewhere</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.alveoland.com.ph/">Philippine Properties For Sale</a></li>
+<li><a href="http://aboutmyrecovery.com/archives">Thursday Thirteen Blogroll</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-25" class="linkcat"><h3>Grief Recovery</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://mourningtojoy.blogspot.com/">Grief Is A Journey</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-52" class="linkcat"><h3>Me &amp; My Mission</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.compassionatefriends.info" rel="me">The Compassionate Friends</a></li>
+<li><a href="http://news.inq7.net/sunday/index.php?index=1&amp;story_id=62334">What Do You Call Someone WHo Lost A Child? from the Sunday Inquirer Magazine</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-48" class="linkcat"><h3>My Family Sites</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://radiantview.com">Filipino American Marketing Consultant</a></li>
+<li><a href="http://laurganism.com">Lauren</a></li>
+<li><a href="http://nogirlydrama.com">Love &amp; Relationships Advice</a></li>
+<li><a href="http://marielli.misteryosa.com">Marielli</a></li>
+<li><a href="http://angel-luijoe.net" rel="child">My Angel, Luijoe</a></li>
+<li><a href="http://oscar-v-lardizabal.memory-of.com/about.aspx" rel="sibling">My brother, Oscar</a></li>
+<li><a href="http://reuben-v-lardizabal.memory-of.com">My brother, Ruben</a></li>
+<li><a href="http://jose-p-lardizabal.memory-of.com/About.aspx" rel="parent">My daddy Joe</a></li>
+<li><a href="http://thewarriorlawyer.com">Philippine Lawyer</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-47" class="linkcat"><h3>Projects</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://host.the-protagonist.net/?host=wordpress-hosting">Blog Hosting</a></li>
+<li><a href="http://weddingbellsblog.com">Bridal Gowns</a></li>
+<li><a href="http://goodnewsbalikbayan.com">Good News Balikbayan</a></li>
+<li><a href="http://aboutmyrecovery.com/2006/08/12/myspace-layouts-popular-and-free/">Mommy Myspace Layouts</a></li>
+<li><a href="http://aboutmyrecovery.com/photos">My Digital Scrapbooks</a></li>
+<li><a href="http://pinoyfoodblog.com/celebrations/noche-buena/noche-buena-and-holiday-cooking-ideas/">Noche Buena Recipes</a></li>
+<li><a href="http://pinoytravel.nimrodel.net/">Online Travel Booking</a></li>
+<li><a href="http://photos.the-protagonist.net">Paradise Philippines</a></li>
+<li><a href="http://pinoywebhosting.net" rel="me">Philippines Webhosting</a></li>
+<li><a href="http://pinoyfood.nimrodel.net">Pinoy Food PhotoBlog</a></li>
+<li><a href="http://pinoyidolblog.com">Pinoy Idol</a></li>
+<li><a href="http://www.yourpinoybroker.com">Pinoy Real Estate Broker</a></li>
+<li><a href="http://thenuvali.com/">Real Estate Investment In the Philippines</a></li>
+<li><a href="http://host.the-protagonist.net/?host=reseller">Reseller Hosting Plans</a></li>
+<li><a href="http://nimrodel.net" rel="me">Shopping Finds</a></li>
+<li><a href="http://filipinaimages.com">The Filipina</a></li>
+<li><a href="http://thevoipresources.com">VoIP Resources</a></li>
+<li><a href="http://globalizedecommerce.com/web-content-writing/">Web Content Writing Services</a></li>
+<li><a href="http://resources.the-protagonist.com">Web Development Resources</a></li>
+<li><a href="http://host.the-protagonist.net/?host=wordpress-hosting">Wordpress Blog Hosting</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-53" class="linkcat"><h3>Talks &amp; Seminars</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://filipinaimages.com/filipinaimagescom-at-iblog-4-summit/">Blogging for Advocacy- FilipinaImages.com</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/01/06/how-to-promote-your-blog/">Personal Blogging Experience</a></li>
+<li><a href="http://aboutmyrecovery.com/2007/04/15/iblog-3-personal-blogging-success/">Personal Blogging Success for iBlog 3</a></li>
+<li><a href="http://filipinaimages.com/using-technology-in-uplifting-the-image-of-the-filipina/">Using Technology in Uplifting the Image of the Filipina</a></li>
+
+	</ul>
+</li>
+
+
+				<li id="meta"><h3>Recovery Resources</h3>
+
+<ul>
+<ul>
+<li> <a href="http://www.hair-thinning.co.uk">Nourkrin</a> </li>
+<li> <a href="http://www.treatment-centers.net/drug-treatment.html">Drug Treatment</a> </li>
+<li> <a href="http://www.murad.com/acne-complex-treatments/">Acne Treatments</a> </li>
+<li> <a href="http://www.acnecomplex.com">Acne Solutions</a> </li>
+<li> <a href="http://www.acnecomplex.com">Murad Acne Products</a> </li>
+<li> <a href="http://www.casketoptions.com">Casket</a> </li>
+<li> <a href="http://www.nhc.com.au/">hearing tests</a> </li>
+<li> <a href="http://healthinsurancetx.net">Health insurance</a> in Texas</li>
+<li> <a href="http://www.naymz.com/andrew_embiricos_3404353">Andrew Embiricos</a> </li>
+<li> <a href="http://www.rachaelwestdesigns.com/medifastcoupons/medifast-coupons-for-2010/">Medifast Coupon Codes</a> </li>
+<li> <a href="http://www.hair-thinning.co.uk">Nourkrin</a> </li>
+<li> <a href="http://www.treatment-centers.net/drug-treatment.html">Drug Treatment</a> </li>
+<li> <a href="http://www.murad.com/acne-complex-treatments/">Acne Treatments</a> </li>
+<li> <a href="http://www.acnecomplex.com">Acne Solutions</a> </li>
+<li> <a href="http://www.acnecomplex.com">Murad Acne Products</a> </li>
+<li> <a href="http://www.casketoptions.com">Casket</a> </li>
+<li> <a href="http://www.nhc.com.au/">hearing tests</a> </li>
+<li> <a href="http://healthinsurancetx.net">Health insurance</a> in Texas</li>
+<li> <a href="http://www.naymz.com/andrew_embiricos_3404353">Andrew Embiricos</a> </li>
+<li> <a href="http://www.rachaelwestdesigns.com/medifastcoupons/medifast-coupons-for-2010/">Medifast Coupon Codes</a> </li>
+</ul></ul> </li>
+
+
+
+<li><h3>Visit My Blogs</h3>
+
+<ul>
+<br>
+<a href="http://www.timcumper.com"><img src="http://img232.imageshack.us/img232/3486/tcw120x240.jpg" alt="The Tim Cumper Watch" border="0" width="120" height="240"></a><br>
+
+<a href="http://techiegadgets.com"><img src="http://aboutmyrecovery.com/wp-content/uploads/2008/11/techiegadgets.jpg"></a><br>
+<a href="http://techiegadgets.com">Techie Gadgets</a><br>
+
+
+<a href="http://pinoyfoodblog.com"><img src="http://photos.the-protagonist.net/albums/album78/kare.thumb.jpg" border="1" alt="pinoy food blog"></a><br><a href="http://pinoyfoodblog.com">Pinoy Food</a> for my Baking and <a href="http://pinoyfoodblog.com/recipes/ ">Filipino food recipes</a>.
+<br>
+
+
+<a href="http://yourpinoybroker.com"><img id="image1490" src="http://yourpinoybroker.com/wp-content/uploads/2007/09/picture-of-turnover-unit-outside1.thumbnail.jpg" border="1" alt="pinoy real estate broker"></a><br>
+<a href="http://yourpinoybroker.com">Philippines' Real Estate Broker</a><br><a href="http://yourpinoybroker.com/sentosia-condominiums/">Bay City Living in the Philippines</a><br><br>
+
+
+
+
+
+
+<a href="http://twoserendra.net"><img id="image1647" src="http://aboutmyrecovery.com/wp-content/uploads/2008/03/two_serendra_condos.jpg" border="1" alt="two serendra"></a><br>
+<a href="http://twoserendra.net">Two Serendra</a>
+
+<br><br>
+
+<a href="https://www.paypal.com/row/mrb/pal=CZ8N5X8347F9A"><img id="image1539" src="http://aboutmyrecovery.com/wp-content/uploads/2008/01/paypal_logo.gif" alt="paypal"></a><br>
+Sign Up For <a href="https://www.paypal.com/row/mrb/pal=CZ8N5X8347F9A">Paypal Philippines</a>
+<br><br></ul>
+</li>
+
+				<li id="meta">
+					<h3>Meta</h3>
+					<ul>
+						
+						<li><a href="http://aboutmyrecovery.com/wp-login.php">Log in</a></li>
+						<li>
+</li>
+
+					</ul>
+				</li>
+
+				
+
+			</ul>
+		</div>
+	</div>
+
+	<div id="footer"><p>© A Filipina Mom Blogger. Using <a href="http://www.wpdesigner.com/2008/01/30/personal-wordpress-theme/">Personal</a> by Wpdesigner.</p></div>
+
+
+
+
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dllW5Qd_ir3PfTab7jrHtB&amp;s=2"></script>
+	
+</div>
+</body></html>

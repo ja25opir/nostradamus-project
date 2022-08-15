@@ -1,0 +1,260 @@
+<!DOCTYPE html><html><!-- InstanceBegin template="/Templates/an_template.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta name="description" content="AAMI News:  Official newsletter of the Association for the Advancement of Medical Instrumentation (AAMI) a unique alliance of the healthcare professions providing essential information on the development and use of medical instrumentation and technology">
+<meta name="keywords" content="AAMI, Association for the Advancement of Medical Instrumentation, medical device standards, AAMI Conference and Expo, International Standards Conference, quality system regulation, QS, GMP, FDA, CDRH, BIT, Biomedical Instrumentation &amp; Technology, certification, Biomedical Technician, BMET, biomed, CBET, CLES, CRES, Clinical Engineer, CCE, jobs, career center, implants, dialysis, sterilization standards, eo, ethylene oxide, steam, ISO, biological evaluation, hemodialysis, medical equipment">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>AAMI News: September 2010: New Campaign Touts Benefits of Standards</title>
+<style type="text/css">
+<!--
+.style8 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 10px;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+<link media="screen" href="../../../aami-style.css" rel="stylesheet" type="text/css">
+<link media="print" href="../../../aami-printstyle.css" rel="stylesheet" type="text/css">
+<link href="../../../css/aami-style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style7 {font-size: 10px}
+-->
+</style>
+</head>
+
+<body>
+
+
+<div id="utilities"><a href="http://www.aami.org/">Home</a> | <a href="http://www.aami.org/search/">Search</a>  | <a href="https://marketplace.aami.org/eseries/source/security/member-logon.cfm?">Member Log-in</a>	| <a href="http://www.aami.org/about/contactus.html">Contact</a> | <a href="javascript:print()">Print</a></div>
+<div id="container">
+<div id="masthead">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td rowspan="2" valign="bottom" id="logo"><a href="http://www.aami.org"><img src="../../../art/templates/aami.logo.175.gif" alt="Association for the Advancement of Medical Instrumentation" width="172" height="64" border="0"></a></td>
+      <td id="adbanner"><!-- InstanceBeginEditable name="ad" --><!-- InstanceEndEditable --></td>
+    </tr>
+    <tr>
+      <td id="navbar"><ul id="nav">
+        <li><a href="http://www.aami.org/">AAMI</a>
+            <ul>
+              <li><a href="http://www.aami.org/">AAMI Home</a></li>
+              <li><a href="http://www.aami.org/about/">About AAMI</a></li>
+              <li><a href="http://www.aami.org/about/contactus.html">Contact Us</a></li>
+              <li><a href="http://www.aami.org/news/">News</a></li>
+              <li><a href="http://www.aami.org/search/">Search</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.aami.org/standards/">STANDARDS</a>
+            <ul>
+             <li><a href="http://www.aami.org/standards/">About Standards</a></li>
+			  <li><a href="http://www.aami.org/standards/development.html">Standards Development</a></li>
+			  <li><a href="http://www.aami.org/standards/products.html">Standards Products</a></li>
+			  <li><a href="http://www.aami.org/standards/smo.html">Standards Monitor Online</a></li>
+              <li><a href="http://www.aami.org/committeecentral/">Committee Central</a></li>
+              <li><a href="http://www.aami.org/standards/tcmeetings.cfm">Committee Meetings</a></li>
+              <li><a href="http://www.aami.org/applications/search/">Search Standards</a></li> 
+            </ul>
+        </li>
+        <li><a href="http://www.aami.org/meetings/">EVENTS</a>
+            <ul>
+              <li><a href="http://www.aami.org/meetings/">AAMI Calendar</a></li>
+              <li><a href="http://www.aami.org/ac/">Annual Conference</a></li>
+              <li><a href="http://www.aami.org/standards/tcmeetings.cfm">Committee Meetings</a></li>
+              <li><a href="http://www.aami.org/meetings/isc/">Intl Standards Conference</a></li>
+              <li><a href="http://www.aami.org/meetings/courses/">QS Standards Training</a></li>
+              <li><a href="http://www.aami.org/meetings/webinars/index.html">Webinars</a></li>
+              <li><a href="http://www.aami.org/calendar/">Industry Calendar</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.aami.org/membership/">MEMBERSHIP</a>
+            <ul>
+              <li><a href="http://www.aami.org/membership/benefits.html">Member Benefits</a></li>
+              <li><a href="http://www.aami.org/membership/categories.html">Member Categories</a></li>
+			  <li><a href="http://www.aami.org/membership/involved.html">Getting Involved</a></li>
+              <li><a href="http://www.aami.org/membership/join.html">Join AAMI</a></li>
+			  <li><a href="http://marketplace.aami.org/eseries/scriptcontent/index_members_search.cfm">Member Directory <img src="../../../art/icons/member2.gif" border="0"></a></li>
+              <li><a href="http://www.aami.org/awards/">Awards</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.aami.org/publications/">PUBLICATIONS</a>
+            <ul>
+              <li><a href="http://www.aami.org/publications/standards/">Standards</a></li>
+              <li><a href="http://www.aami.org/publications/AAMINews/">AAMI News</a></li>
+              <li><a href="http://www.aami.org/publications/BIT/">BI&amp;T</a></li>
+              <li><a href="http://www.aami.org/publications/books/">Books &amp; CDs</a></li>
+              <li><a href="http://www.aami.org/publications/horizons/">Horizon Series</a></li>
+              <li><a href="http://www.aami.org/advertising/">Advertising</a></li>
+              <li><a href="http://marketplace.aami.org/eseries/ScriptContent/Index.cfm">Shop AAMI</a></li>
+			  </ul>
+        </li>
+        <li><a href="http://www.aami.org/resources/">RESOURCES</a>
+            <ul>
+              <li><a href="http://www.aami.org/resources/BMET/">BMET</a></li>
+              <li><a href="http://www.aami.org/career/">Career Center</a></li>
+              <li><a href="http://www.aami.org/directory/">Medical Technology Directory</a></li>
+			  <li><a href="http://www.aami.org/resources/education/ed.map.html">Education Links</a></li>
+              <li><a href="http://www.aami.org/resources/links/">Industry Links</a></li>
+			  <li><a href="http://www.aami.org/speakers/">Speakers Clearinghouse</a></li>
+              <li><a href="http://www.aami.org/tmc/">Technology Management Council</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.aami.org/certification/">CERTIFICATIONS</a>
+            <ul>
+              <li><a href="http://www.aami.org/certification/about.html">About Certification</a></li>
+              <li><a href="https://www.aami.org/certification/renewal.html">Renewal Program</a></li>
+              <li><a href="http://www.aami.org/certification/directories.html">Certification Directory</a></li>
+              <li><a href="http://www.aami.org/certification/library.html">Forms and Documents</a></li>
+              <li><a href="https://www.aami.org/JournalCertification/">Certification Journal</a></li>
+              <li><a href="http://www.aami.org/certification/faq.html">Certification FAQs</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.aami.org/communities/">COMMUNITIES</a>
+            <ul>
+              <li><a href="http://www.aami.org/subscriptions/index.html">CD Subscribers</a></li>
+              <li><a href="http://www.aami.org/committeecentral/">Committee Central</a></li>
+              <li><a href="http://marketplace.aami.org/eseries/source/security/member-logon.cfm?Section=Login">e-forums</a></li>
+              <li><a href="http://www.aami.org/qs/">Quality System Connect</a></li>
+              <li><a href="http://www.aami.org/tmcconnect/">TMC Connect</a></li>
+			  <li><a href="http://www.aami.org/cemc/">Clinical Engineering Management Committee</a></li>
+            </ul>
+        </li>
+      </ul></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="header" style="background: url(../../../art/background.hdr/anews.new.gif) top right no-repeat"><br><br><!-- InstanceBeginEditable name="Header" -->&nbsp;<!-- InstanceEndEditable -->
+</div> 
+<div id="wrap">
+ <div id="sidebar">
+   <div align="center"><br>
+     <img src="../../../art/anews/2010.sep/Sep2010.125.jpg" alt="AAMI News:  September 2010" width="133" height="170"></div>
+   <h6>LINKS </h6>
+   <ul class="sidenavbar">
+     <li><a href="../index.html">Current Issue </a></li>
+     <li><a href="../about.html">About AAMI News </a></li>
+	 <li><a href="../../../private/memnews/download/2010/Sep2010.pdf">Current Issue (PDF) <img src="../../../art/icons/member2.gif" alt="Members Only" width="15" height="8" border="0"></a></li>
+     <li><a href="../archives.html">Archives <img src="../../../art/icons/member2.gif" alt="Members Only" width="15" height="8" border="0"></a></li>
+     <li><a href="../advertising.html">Advertising</a></li>
+     <li><a href="../ed.calendar.html">Editorial Calendar </a></li>
+     <li><a href="../contacts.html">Staff Contacts </a></li>
+     <li><a href="../feedback.html">Feedback Form </a></li>
+   </ul>
+   <p>
+       <span class="style7 style7"><font face="Arial, Helvetica, sans-serif" size="2"><img src="../../../art/icons/member2.gif" width="15" height="8" alt="Members Only"></font>  </span><span class="text">indicates members only </span></p>
+   <h6>RELATED LINKS </h6>
+   <ul class="sidenavbar">
+     <li><a href="../../index.html">Publications Home </a></li>
+	 <li><a href="../../../copyright/form.reprint.html">Reprint Request Form </a></li>
+     <li><a href="../../../membership/index.html">Membership Home </a></li>
+   </ul>
+ </div>
+	  
+	  <div id="content"><!-- InstanceBeginEditable name="content" -->      
+      <h2><a name="top"></a>New Campaign Touts Benefits of Standards</h2>
+      <p>Looking to prove the importance of
+        standards to your company’s executives?
+      Here’s some help.</p>
+      <p>        <a href="www.standardsboostbusiness.org" target="_blank"><img src="../../../art/anews/2010.sep/boost.jpg" alt="Standards Boost Business Web Site" width="200" height="127" hspace="15" border="0" align="right"></a>AAMI is sponsoring the Standards
+        Boost Business campaign that was
+        launched by the American National
+        Standards Institute (ANSI) to show how
+        standards can help cut costs, improve
+        efficiency, and maintain market access.
+        The campaign promotes the website
+        <a href="http://www.standardsboostbusiness.org" target="_blank">www.standardsboostbusiness.org</a>.</p>
+      <p>“AAMI members sometimes tell us
+        that senior executives in their organization
+        have difficulty seeing the direct
+        benefit and importance of participation
+        in standards development work,” says
+        AAMI President Mary Logan.</p>
+      <p>        The Standards Boost Business campaign
+        gives AAMI members a toolkit to
+        demonstrate why standards and standards
+        participation are essential business
+        tools, Logan adds. “The campaign
+        should help increase the visibility of
+        standards development work, which is
+        good for all of us.”</p>
+      <p>        The toolkit, available for free on the 
+      website, includes:</p>
+      <ul>
+        <li> A PowerPoint presentation to show 
+          executives</li>
+        <li> A list of standards that can improve 
+          productivity and reduce costs</li>
+        <li> A question-and-answer document 
+        for executives</li>
+      </ul>
+      <p>        The toolkit offers a helpful reminder 
+        about the long-term benefits of standards, 
+        especially in the current economic 
+        climate. “Standards work doesn’t 
+        bear fruit for years to come,” says 
+        Charles Sidebottom, director of corporate 
+        standards at Medtronic in 
+        Minneapolis, MN, and a member of<br>
+        AAMI’s Board of Directors. “We need 
+        to constantly remind people internally, 
+        and keep refreshing the idea that standards 
+        work is a strategic initiative, and 
+      we are investing in the future.”</p>
+      <p>        Sidebottom adds this is particularly 
+        true in a regulated industry — such as 
+        the medical device industry — that uses 
+        voluntary consensus standards as part 
+      of the regulatory approval process.</p>
+      <p>        ANSI officials were appreciative of 
+        the sponsorship from AAMI. “Joining
+        as a sponsor signals AAMI understands
+        and values the critical role that
+        standards and conformity assessment
+        play — not just in the medical instrumentation
+        field, but throughout the
+        global marketplace,” says S. Joe Bhatia,
+        ANSI president and chief executive
+        officer (CEO).</p>
+      <p class="text"><em>AAMI News</em>: September 2010, Vol. 45, No. 9</p>
+	  <!-- InstanceEndEditable --></div>
+    <br class="clearfloat">
+  </div>
+
+</div>
+<div id="footer">
+  <p align="center">4301 North Fairfax Drive, Suite 301, Arlington, VA 22203-1633 | 703-525-4890 | fax 703-276-0793<br>
+  Copyright © 2010   Association for the Advancement of Medical Instrumentation<br>
+<a href="http://www.aami.org/copyright/index.html">AAMI WEB SITE POLICIES</a> | <a href="http://www.aami.org/about/contactus.html">CONTACT  US</a></p>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3763937-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+</body><!-- InstanceEnd --></html>

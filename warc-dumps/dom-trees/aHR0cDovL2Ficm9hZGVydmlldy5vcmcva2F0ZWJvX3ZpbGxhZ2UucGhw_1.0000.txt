@@ -1,0 +1,607 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Volunteer Abroad in Katebo Uganda: Volunteering Work Abroad, Ugandan International Volunteers Opportunities</title>
+<link rel="Shortcut Icon" href="images/favicons.ico">
+<meta name="description" content="Volunteer Abroad in Katebo Uganda. Call 1-215-780-1845 TOLL FREE 1-866-423-3258 SAFE CUSTOMIZED AFFORDABLE REWARDING Ugandan Volunteering">
+<meta name="keywords" content="Katebo Uganda volunteer abroad, Ugandan volunteering, volunteer overseas, volunteer programs, international volunteer programs, Katebo Uganda Volunteering"> 
+
+<link href="css/felipesoto.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Aboarderview.org RSS Feed" href="http://twitter.com/statuses/user_timeline/9806202.rss">
+ 
+ 
+ 
+
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script src="/js-global/FancyZoom.js" type="text/javascript"></script>
+<script src="/js-global/FancyZoomHTML.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<link type="text/css" rel="stylesheet" href="/min/f=css/felipesoto.css,menu_new/styles.css,css/jquery.lightbox-0.5.css,css/prettyPhoto.css,footer_new.css">
+<script type="text/javascript" src="/min/f=js/popup.js,menu_new/sliding_effect.js,js/jquery.lightbox-0.5.js,js/popimages.js,js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto();
+		});
+</script>
+</head>
+
+<body onload="setupZoom();">
+
+<div id="cuerpo">
+  <div id="header">
+    <div id="menu">
+      <table width="450" border="0" cellpadding="0" cellspacing="0" class="Rbanner">
+        <tbody><tr>
+          <td width="282" height="250">&nbsp;</td>
+          <td width="168"><div id="navigation-block">        	
+	<ul id="sliding-navigation">        
+            
+<li class="sliding-element"><a href="http://www.abroaderview.org" title="Volunteer Opportunity">Home</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/about-us.php" title="About Us">About Abroaderview</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/company.php" title="Contact Us">Contact Abv</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/volunteer-coordinators.php" title="Why Volunteer">Staff &amp; Coordinators</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/program-inclusions.php" title="Inclusions &amp; Costs">Inclusions &amp; Payment</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/inclusions.php" title="Inclusions &amp; Costs">Cost &amp; Fees</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/application_process.php" title="Application Process &amp; Form">Application &amp; Form</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/terms.php" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/travel.php" title="Travel With A Purpose">Travel With A Purpose</a></li>
+<li class="sliding-element"><a href="http://volunteer-abroad.abroaderview.org" title="Volunteer Feedback" target="_blank">International Travel Guide</a></li>
+<li class="sliding-element"><a href="http://student-trip.abroaderview.org/" target="_blank">Student Group Trips</a></li>
+<li class="sliding-element"><a href="http://www.abroaderview.org/faq.php" title="Volunteer FAQ">Volunteer <strong>FAQ</strong> <img src="http://www.abroaderview.org/menu_new/read.gif" alt="read more" width="64" height="11" border="0"></a></li>
+<li class="sliding-element"><a href="https://www.abroaderview.org/forms.php"><strong>APPLY NOW </strong></a></li>
+	</ul>
+</div></td>
+        </tr>
+      </tbody></table>
+    </div>
+    <div id="logo">
+            <div id="hora">
+<table width="280" border="0" align="right" cellpadding="1" cellspacing="1" summary="social web 2.0">
+  <tbody><tr>
+    <td><strong>Subscribe</strong> to:</td>
+    <td width="16"><a href="http://www.facebook.com/pages/Wyncote-PA/A-Broader-View-Volunteers-Corp/39190169488" target="_blank"><img src="http://www.abroaderview.org/images/medios/minis/facebook.png" alt="Volunteers facebook" width="16" height="16" border="0"></a></td>
+    <td width="16"><a href="http://twitter.com/abroaderview" target="_blank"><img src="http://www.abroaderview.org/images/medios/minis/twitter.png" alt="twiiter" width="16" height="16" border="0"></a></td>
+    <td width="16"><a href="http://www.youtube.com/abroadervieworg" target="_blank"><img src="http://www.abroaderview.org/images/medios/minis/youtube.png" alt="Volunteers youtube" width="16" height="16" border="0"></a></td>
+    <td width="16"><a href="http://www.flickr.com/photos/abroaderview-volunteers/" target="_blank"><img src="http://www.abroaderview.org/images/medios/minis/flickr.png" alt="Volunteers flickr" width="16" height="16" border="0"></a></td>
+    <td width="16"><a href="http://del.icio.us/post?url=http%3A//www.abroaderview.org2&amp;amptitle=Volunteer Abroad Programs" target="_blank"><img src="http://www.abroaderview.org/images/medios/minis/delicious.png" alt="delicious" width="16" height="16" border="0"></a></td>
+    <td width="16"><a href="http://blog.abroaderview.org/feed/" target="_blank"><img src="http://www.abroaderview.org/images/medios/minis/feed.png" alt="Blog feed" width="16" height="16" border="0"></a></td>
+    <td width="64"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3283125&amp;submit.x=72&amp;submit.y=12" target="_blank"><img src="http://www.abroaderview.org/images/donate-icon.gif" alt="donate" width="64" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>      </div>
+      <div id="titulo">
+        <div id="pag">Katebo Village </div>
+      </div>
+    </div>
+  </div>
+  <div id="contenido">
+    <div id="columna-izq">
+      <div id="columnas-fotos">
+        <div id="listaimg"><a rel="lightbox[roadtrip]" href="images/uganda/ugandakatebo/At_the_Orphange_uin_Gulu.jpg"><img src="images/uganda/ugandakatebo/At_the_Orphange_uin_Gulu_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/ugandakatebo/James_Kelli_Kids.jpg"><img src="images/uganda/ugandakatebo/James_Kelli_Kids_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/ugandakatebo/Kids_at_Gulu.jpg"><img src="images/uganda/ugandakatebo/Kids_at_Gulu_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/ugandakatebo/Kids_Camp.jpg"><img src="images/uganda/ugandakatebo/Kids_Camp_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/ugandakatebo/Kids_saying_goodbye.jpg"><img src="images/uganda/ugandakatebo/Kids_saying_goodbye_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_016.jpg"><img src="images/uganda/photos/uganda_016_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_017.jpg"><img src="images/uganda/photos/uganda_017_tb.jpg" width="96" height="71"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_018.jpg"><img src="images/uganda/photos/uganda_018_tb.jpg" width="96" height="71"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_019.jpg"><img src="images/uganda/photos/uganda_019_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_022.jpg"><img src="images/uganda/photos/uganda_022_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_023.jpg"><img src="images/uganda/photos/uganda_023_tb.jpg" width="96" height="64"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_024.jpg"><img src="images/uganda/photos/uganda_024_tb.jpg" width="96" height="72"></a><a rel="lightbox[roadtrip]" href="images/uganda/photos/uganda_025.jpg"><img src="images/uganda/photos/uganda_025_tb.jpg" width="96" height="72"></a></div>
+      </div>
+      <div id="menu-derecha">
+        <ul id="paises">
+<li id="chi" class="bgpaisV"><strong><a href="http://www.abroaderview.org/volunteer-chile/index.php"><img src="images/cl.gif" alt="Chile" width="16" height="11" border="0"> CHILE</a></strong>
+	<ul class="city" id="chiC"><li><a href="/volunteer-chile/elquivalley.php">Elqui Valley</a></li>
+	  <li><a href="/volunteer-chile/laserena.php">La Serena</a></li>
+	  <li><a href="/volunteer-chile/santiago.php">Santiago</a></li>
+	  <li><a href="/volunteer-chile/concepcion.php">Concepcion</a></li>
+	</ul>
+</li>
+    <li id="arg" class="bgpaisV"><strong><a href="argentina.php"><img src="images/ar.png" alt="Argentina" width="16" height="11" border="0"> ARGENTINA</a></strong><a href="argentina.php"></a>
+    <ul class="city" id="argC">
+      <li><a href="buenos_aires.php">Buenos Aires</a></li></ul>
+    </li>
+    <li id="per" class="bgpaisV"><strong><a href="http://www.abroaderview.org/volunteer-peru/index.php" title="Volunteer Peru"><img src="images/pe.gif" alt="volunteer Peru" width="16" height="11" border="0"> PERU</a></strong><a href="volunteer-peru/index.php"></a>
+    <ul class="city" id="perC">
+      <li><a href="/volunteer-peru/cusco/amazon.php">Amazon</a></li>
+      <li><a href="/volunteer-peru/lima.php">Lima</a></li>
+      <li><a href="/volunteer-peru/cusco.php">Cusco (Cuzco)</a></li>
+      <li><a href="/volunteer-peru/piura.php">Piura</a></li>
+    </ul>
+    </li>
+<li id="ecu" class="bgpaisV"><strong><a href="http://www.abroaderview.org/volunteer-ecuador/index.php"><img src="images/ec.gif" alt="Ecuador" width="16" height="11" border="0"> ECUADOR</a></strong>
+      <ul class="city" id="ecuC">
+      	<li><a href="/volunteer-ecuador/quito.php">Quito</a></li>
+        <li><a href="/volunteer-ecuador/cuenca.php">Cuenca</a></li>
+        <li><a href="/volunteer-ecuador/cayambe.php">Cayambe</a></li>
+        <li><a href="/volunteer-ecuador/esmeraldas.php">Esmeraldas North Coast</a></li>
+        <li><a href="/volunteer-ecuador/quito/amazon.php">Amazon Rainforest</a></li>
+        <li><a href="/volunteer-ecuador/salinas.php">Salinas - South Coast</a></li>
+    </ul>
+</li>
+
+<li id="cos" class="bgpaisV"><strong><a href="http://www.abroaderview.org/costa-rica/index.php"><img src="images/cr.gif" alt="Costa Rica" width="16" height="11" border="0"> COSTA RICA</a></strong>
+     <ul class="city" id="cosC">
+       <li><a href="/costa-rica/escazu.php">Near San Jose</a></li>
+       <li><a href="/costa-rica/sea-turtle-caribbean.php">Sea Turtle Caribbean</a></li>
+       <li><a href="/costa-rica/sea-turtle-pacific.php">Sea Turtle Pacific</a></li>
+      </ul>
+  </li>
+  
+    <li id="hon" class="bgpaisV"><strong><a href="http://www.abroaderview.org/honduras.php"><img src="images/honduras.png" alt="Honduras" width="16" height="11" border="0"> HONDURAS</a></strong>
+     <ul class="city" id="honC">
+       <li><a href="/laceiba.php">La Ceiba</a></li>
+      </ul>
+  </li>
+  
+    <li id="bel" class="bgpaisV"> <strong><a href="http://www.abroaderview.org/volunteer-belize.php"><img src="images/belize-flag.png" alt="Belize" width="16" height="11" border="0"> BELIZE</a></strong>
+    <ul class="city" id="belC">
+      <li><a href="/volunteer-near-belize-city.php">Near Belize city</a></li></ul>
+    </li>
+    <li id="gua" class="bgpaisV"> <strong><a href="http://www.abroaderview.org//volunteer-guatemala/index.php"><img src="images/guatemala-flag.png" alt="Guatema" width="16" height="11" border="0"> GUATEMALA</a></strong>
+    <ul class="city" id="guaC">
+      <li><a href="/volunteer-guatemala/antigua/">Antigua Guatemala</a></li>
+      <li><a href="/volunteer-guatemala/ciudad-vieja.php">Ciudad Vieja</a></li>
+      <li><a href="/volunteer-guatemala/san-miguel-duenas.php">San Miguel Dueñas</a></li>
+      <li><a href="/volunteer-guatemala/alotenango.php">Alotenango</a></li>
+    </ul>
+   </li>
+  <li id="mor" class="bgpaisA"> <strong><a href="http://www.abroaderview.org/morocco.php"><img src="images/ma.png" alt="Morocco" width="16" height="11" border="0"> MOROCCO</a></strong>
+       <ul class="city" id="morC"><li><a href="http://www.abroaderview.org/marrakesh.php">Marrakesh</a></li>
+         <li><a href="/safi.php">Safi</a></li>
+       </ul>
+  </li>
+  <li id="uga" class="bgpaisA"><strong><a href="http://www.abroaderview.org/uganda.php"><img src="images/ug.gif" alt="Uganda" width="16" height="11" border="0"> UGANDA</a></strong>
+      <ul class="city" id="ugaC">
+        <li><a href="/kampala.php">Kampala</a></li>
+        <li><a href="/volunteer-in-mukono.php">Mukono</a></li>
+      </ul>
+  </li>
+  <li id="gha" class="bgpaisA"><strong><a href="http://www.abroaderview.org/volunteer-ghana/index.php"><img src="images/gh.gif" alt="Ghana" width="16" height="11" border="0"> GHANA</a></strong>
+    <ul class="city" id="ghaC">
+      <li><a href="/volunteer-ghana/volta_region.php">Volta Region</a></li>
+      <li><a href="/volunteer-ghana/western_region.php">Western Region</a></li>
+    </ul>
+</li>
+    <li id="ken" class="bgpaisA"><strong><a href="http://www.abroaderview.org/volunteer-kenya/index.php"><img src="images/ke.gif" alt="Kenya" width="16" height="11" border="0"> KENYA</a></strong>
+    <ul class="city" id="kenC">
+      <li><a href="/volunteer-kenya/makuyu_village.php">Makuyu Village</a></li>
+      <li><a href="/volunteer-kenya/mombasa.php">Mombasa</a></li>
+      <li><a href="/volunteer-kenya/nairobi.php">Nairobi</a></li>
+      <li><a href="/volunteer-kenya/rift_valley.php">Rift Valley</a></li>
+    </ul>
+    </li>
+    <li id="cam" class="bgpaisA"><strong><a href="http://www.abroaderview.org/cameroon.php"><img src="images/cm.png" alt="Cameroon" width="16" height="11" border="0"> CAMEROON</a></strong>
+      <ul class="city" id="camC">
+        <li><a href="/buea.php">Buea</a></li></ul>
+      
+      </li>
+    <li id="sou" class="bgpaisA"><strong><a href="http://www.abroaderview.org/south_africa.php"><img src="images/za.png" alt="South Africa" width="16" height="11" border="0"> SOUTH AFRICA</a></strong>
+
+<ul class="city" id="souC">
+  <li><a href="/thonhoyandou.php">Thonhoyandou</a></li></ul>
+    </li>
+    <li id="zam" class="bgpaisA"><strong><a href="http://www.abroaderview.org/zambia.php"><img src="images/zm.png" alt="Zambia" width="16" height="11" border="0"> ZAMBIA</a></strong>
+<ul class="city" id="zamC">
+  <li><a href="/lusaka.php">Lusaka</a></li></ul>
+    </li>
+  <li id="tan" class="bgpaisA"><strong><a href="http://www.abroaderview.org/volunteer-tanzania/index.php"><img src="images/tanz.png" alt="Tanzania" width="16" height="11" border="0"> TANZANIA</a></strong>
+    <ul class="city" id="tanC">
+      <li><a href="http://www.abroaderview.org/volunteer-tanzania/mwanza.php">Mwanza</a></li>
+      <li><a href="http://www.abroaderview.org/volunteer-tanzania/arusha.php">Arusha</a></li>
+      <li><a href="http://www.abroaderview.org/volunteer-tanzania/salaam.php">Dar Es Salaam</a></li>
+    </ul>
+    </li>
+  <li id="camb" class="bgpaisN"><strong><a href="http://www.abroaderview.org/volunteer-cambodia/index.php"><img src="images/kh.png" alt="Cambodia" width="16" height="11" border="0"> CAMBODIA</a></strong>
+<ul class="city" id="cambC">
+  <li><a href="/volunteer-cambodia/phnom_penh.php">Phnom Penh</a></li></ul>
+</li>
+    <li id="chin" class="bgpaisN"><strong><a href="/china.php"><img src="images/cn.png" alt="China" width="16" height="11" border="0"> CHINA</a></strong>
+      <ul class="city" id="chinC">
+  <li><a href="/yantai.php">Yantai</a></li></ul>
+  </li>
+    <li id="vie" class="bgpaisN"> <strong><a href="http://www.abroaderview.org/volunteer-vietnam/index.php"><img src="images/vn.png" alt="Vietnam" width="16" height="11" border="0"> VIETNAM</a></strong>
+    <ul class="city" id="vieC">
+      <li><a href="/volunteer-vietnam/hanoi.php">Hanoi</a></li></ul>
+    </li>
+  <li id="nep" class="bgpaisN"><strong><a href="http://www.abroaderview.org/volunteer-nepal/index.php"><img src="images/np.gif" alt="Nepal" width="9" height="11" border="0"> NEPAL</a></strong>
+      <ul class="city" id="nepC">
+        <li><a href="/volunteer-nepal/patan.php">Patan or Lalitpur</a></li>
+        <li><a href="/volunteer-nepal/kathmandu.php">Kathmandu</a></li>
+        <li><a href="/volunteer-nepal/bhaktapur.php">Bhaktapur</a></li>
+      </ul>
+    </li>
+    <li id="ind" class="bgpaisN"><strong><a href="http://www.abroaderview.org/volunteer-india/index.php"><img src="images/in.gif" alt="India" width="16" height="11" border="0"> INDIA </a></strong>
+      <ul class="city" id="indC">
+        <li><a href="http://www.abroaderview.org/volunteer-india/jaipur/">Jaipur</a></li></ul>
+      </li>
+  <li id="phi" class="bgpaisN"><strong><a href="http://www.abroaderview.org/philippines.php"><img src="images/ph.png" alt="Philippines" width="16" height="11" border="0"> PHILIPPINES</a></strong>
+      <ul class="city" id="phiC">
+        <li><a href="/tacloban.php">Tacloban</a></li>
+        <li><a href="/tanauan.php">Tanauan</a></li>
+        <li><a href="/olango_island.php">Olango Island</a></li>
+      </ul>
+    </li>
+</ul>
+<script>
+$(".city").hide();
+
+// chile
+$("#chi").hover(function () {
+$('#chiC').show("slow");
+});
+$('#chi').mouseleave((function () {
+$('#chiC').hide("slow");}));
+
+// argentina
+$("#arg").hover(function () {
+$('#argC').show("fast");
+});
+$('#arg').mouseleave((function () {
+$('#argC').hide("slow");}));
+
+// peru
+$("#per").hover(function () {
+$('#perC').show("fast");
+});
+$('#per').mouseleave((function () {
+$('#perC').hide("slow");}));
+
+// ecuador
+$("#ecu").hover(function () {
+$('#ecuC').show("fast");
+});
+$('#ecu').mouseleave((function () {
+$('#ecuC').hide("slow");}));
+
+//honduras
+$("#hon").hover(function () {
+$('#honC').show("fast");
+});
+$('#hon').mouseleave((function () {
+$('#honC').hide("slow");}));
+
+//costa rica
+$("#cos").hover(function () {
+$('#cosC').show("fast");
+});
+$('#cos').mouseleave((function () {
+$('#cosC').hide("slow");}));
+
+// belize
+$("#bel").hover(function () {
+$('#belC').show("fast");
+});
+$('#bel').mouseleave((function () {
+$('#belC').hide("slow");}));
+
+// guatemala
+$("#gua").hover(function () {
+$('#guaC').show("fast");
+});
+$('#gua').mouseleave((function () {
+$('#guaC').hide("slow");}));
+
+// moroco
+$("#mor").hover(function () {
+$('#morC').show("fast");
+});
+$('#mor').mouseleave((function () {
+$('#morC').hide("slow");}));
+
+// uganda
+$("#uga").hover(function () {
+$('#ugaC').show("fast");
+});
+$('#uga').mouseleave((function () {
+$('#ugaC').hide("slow");}));
+
+//gha
+$("#gha").hover(function () {
+$('#ghaC').show("fast");
+});
+$('#gha').mouseleave((function () {
+$('#ghaC').hide("slow");}));
+
+// kenya
+$("#ken").hover(function () {
+$('#kenC').show("fast");
+});
+$('#ken').mouseleave((function () {
+$('#kenC').hide("slow");}));
+
+// cameroon
+$("#cam").hover(function () {
+$('#camC').show("fast");
+});
+$('#cam').mouseleave((function () {
+$('#camC').hide("slow");}));
+
+// south africa
+$("#sou").hover(function () {
+$('#souC').show("fast");
+});
+$('#sou').mouseleave((function () {
+$('#souC').hide("slow");}));
+
+// zambia
+$("#zam").hover(function () {
+$('#zamC').show("fast");
+});
+$('#zam').mouseleave((function () {
+$('#zamC').hide("slow");}));
+
+// tanzania
+$("#tan").hover(function () {
+$('#tanC').show("fast");
+});
+$('#tan').mouseleave((function () {
+$('#tanC').hide("slow");}));
+
+// cambodia
+$("#camb").hover(function () {
+$('#cambC').show("fast");
+});
+$('#camb').mouseleave((function () {
+$('#cambC').hide("slow");}));
+
+// china
+$("#chin").hover(function () {
+$('#chinC').show("fast");
+});
+$('#chin').mouseleave((function () {
+$('#chinC').hide("slow");}));
+
+// vietnam
+$("#vie").hover(function () {
+$('#vieC').show("fast");
+});
+$('#vie').mouseleave((function () {
+$('#vieC').hide("slow");}));
+
+//  Nepal
+$("#nep").hover(function () {
+$('#nepC').show("fast");
+});
+$('#nep').mouseleave((function () {
+$('#nepC').hide("slow");}));
+
+// india
+$("#ind").hover(function () {
+$('#indC').show("fast");
+});
+$('#ind').mouseleave((function () {
+$('#indC').hide("slow");}));
+
+// phillippines
+$("#phi").hover(function () {
+$('#phiC').show("fast");
+});
+$('#phi').mouseleave((function () {
+$('#phiC').hide("slow");}));
+
+</script>
+<table width="124" border="0" cellspacing="2" cellpadding="1">
+  
+  <tbody><tr>
+    <td align="left"><form action="#" name="form" id="form">
+      <select style="width:132px;" name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
+        <option value="#">Select Language</option>
+        <option value="http://www.google.com/translate?u=http%3A%2F%2Fwww.abroaderview.org%2F&amp;hl=en&amp;ie=UTF8&amp;langpair=en|es&amp;langpair.x=11&amp;langpair.y=3&amp;langpair=en|es">Español</option>
+        <option value="http://www.google.com/translate?u=http%3A%2F%2Fwww.abroaderview.org%2F&amp;hl=en&amp;ie=UTF8&amp;langpair=en|de&amp;langpair.x=10&amp;langpair.y=7&amp;langpair=en|de">German</option>
+        <option value="http://www.google.com/translate?u=http%3A%2F%2Fwww.abroaderview.org%2F&amp;hl=en&amp;ie=UTF8&amp;langpair=en|fr&amp;langpair.x=8&amp;langpair.y=4&amp;langpair=en|fr">French</option>
+        <option value="http://www.google.com/translate?u=http%3A%2F%2Fwww.abroaderview.org%2F&amp;hl=en&amp;ie=UTF8&amp;langpair=en|it&amp;langpair.x=10&amp;langpair.y=4&amp;langpair=en|it">Italian</option>
+        <option value="http://www.google.com/translate?u=http%3A%2F%2Fwww.abroaderview.org%2F&amp;hl=en&amp;ie=UTF8&amp;langpair=en|ja&amp;langpair.x=9&amp;langpair.y=5&amp;langpair=en|ja">Japanese</option>
+        <option value="http://www.google.com/translate?u=http%3A%2F%2Fwww.abroaderview.org%2F&amp;hl=en&amp;ie=UTF8&amp;langpair=en%7Czh-CN&amp;langpair.x=5&amp;langpair.y=2&amp;langpair=en%7Czh-CN">Chinese</option>
+      </select>
+      <p style="font-size:9px; color:#CCC; margin:0px;">Powered by
+      <img src="/images/mini_google.png" width="51" height="15" alt="translate"></p>
+    </form></td>
+  </tr>
+  <tr>
+    <td align="left"><strong> News &amp; Magazines</strong></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="news-articles.php"><img src="images/NEWS_Banner.jpg" alt="News and Articles" width="132" height="56" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Tax Exempt Letter</strong></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="tax_exempt.php"><img src="images/tax_exempt_letter_banner.jpg" alt="Tax Exempt Letter" width="132" height="38" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="left"><!-- Facebook Badge START --><a href="http://www.facebook.com/pages/A-Broader-View-Volunteers/152994001392971" target="_TOP" title="A Broader View Volunteers"><img src="http://badge.facebook.com/badge/152994001392971.2390.601615811.png" width="132" height="370" style="border: 0px;"></a>     <!-- Facebook Badge END --></td>
+  </tr>
+</tbody></table>
+      </div>
+    </div>
+<div id="columna-derecha">
+	          <h1>Volunteer Abroad in Katebo Uganda: Volunteering Opportunities</h1>
+      <p><strong>Volunteering Abroad in Katebo Uganda:</strong> This is a rural  village, situated close to the shore of Lake Victoria, about a 90 minute drive  from Kampala.&nbsp; In <strong>Katebo</strong> you will work  along a local organization in the creation of its “Children’s Village”.&nbsp; The goal is to support the local communities  with education, HIV support, healthcare&nbsp;  and child care.&nbsp; &nbsp;98% of its population live in rural areas, and subsistence agriculture is  the major activity. The main food cash crops are sweet  potatoes, beans, maize, bananas, ground nuts. &nbsp;Low income, especially among people living with HIV/Aids is one of the main  constraints people face in dealing with the effects of the disease in this  area. </p>
+      <p><img src="images/uganda/photos/uganda_023G.jpg" alt="uganda" width="470" height="313"></p>
+	          <p>The poverty experienced is not just a lack of money but also the  inability to access basic needs, such as health care and health facilities, voluntary  counselling and testing services and education.&nbsp; Many of the children of  this area are left destitute after they lose one, or both parents to the deadly  virus.&nbsp; <br>
+                </p>
+	          <p><img src="images/uganda/ugandakatebo/At_the_Orphange_uin_Gulu_main.jpg" width="220" height="170" class="imgCont">We offer programs supporting HIV/Aids  prevention and education, day care and teaching English programs, woman’s  support and healthcare project in <strong>Katebo</strong>.&nbsp;  With our volunteer program we allow you to discover the wonders of East Africa, while doing meaningful and rewarding community  work. </p>
+      <p>This is a great opportunity to explore life in rural Africa,  live and work amongst the locals and realize one person can make a difference </p>
+      <p class="titleinfo"><strong>We offer the following programs in Katebo:</strong> </p>
+              <table width="480" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td height="22" background="images/images/cuadro_01.gif" bgcolor="#D8D8B2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td bgcolor="#D8D8B2" class="Tprogram"><p class="titleinfo"><strong>Program Length:</strong> 1 to 24 weeks<br>
+              <strong>Program Date: </strong>Flexible  Start &amp; End Date<br>
+              <strong>Work Schedule:</strong> Monday-Friday, 8 hour per day<br>
+              <strong>Accommodations:</strong> &nbsp;Home stay.<br>
+              <strong>M<strong>eals:</strong></strong> Yes, 3 meals a day<br>
+              <strong>Requirements: </strong>18 years  or older, an open mind to new adventures. </p>          </td>
+        </tr>
+        <tr>
+          <td height="22" background="images/images/cuadro_03.gif">&nbsp;</td>
+        </tr>
+      </tbody></table>
+              <h2><span class="titleinfo"><img src="images/uganda/ugandakatebo/Kids_at_Gulu_main.jpg" width="220" height="170" class="imgCont2"><strong>Teaching/Education  Program</strong></span></h2><strong>
+      <p>Volunteers needed for kindergarten and  primary school levels (ages 5yrs-13yrs) to teach English and other  subjects.&nbsp; Schools and children’s homes  often double as the same location. Most schools serve hundreds of local  children from the surrounding communities. </p>
+      <p>The objective of this program is to  contribute to the academic development of the school in order to provide the  best opportunity for the orphans to receive quality education. Volunteers  support the local teachers; encourage students to learn and play and instill  pride in their schooling.. <strong>School terms  vary from year to year but are approximately as follows: February 1 to April  30, and May 20 to August 30, September 15 to November 15.&nbsp; </strong>Volunteers can assist with the physical  upkeep of the school; painting, decorating, mending desks etc. Most important  volunteers should try to develop activities/programs that can be sustained in  the future. Prior teaching experience is not required; volunteer simply need an  open mind, caring spirit and a compassionate nature. </p>
+      <h2><span class="titleinfo"><img src="images/uganda/ugandakatebo/Kids_Camp_main.jpg" width="220" height="170" class="imgCont"><strong>Construction/Building  Project </strong></span></h2><strong>
+      <p>Volunteers are needed for  the on-going construction<br>
+        and building projects  around the orphanage. Volunteers participate in manual labor jobs working along  side skilled and unskilled local workers.&nbsp;  </p>
+      <p>Some tasks include building a children’s playground, footbridge,  painting, renovation work at the school and farming programs. Volunteers do not  need prior experience, but skilled workers are very welcome.&nbsp; This is a very hand on, hands dirty sort of  program. Enthusiasm, a good sense of humor and helping spirit are  required.&nbsp; </p>
+      <h2><img src="images/uganda/ugandakatebo/James_Kelli_Kids_main.jpg" width="306" height="235" class="imgCont2">Woman’s Support  Projects</h2>
+      <p>Through these programs, volunteers have the  opportunity to help the destitute women in Uganda by giving them support,  guidance and training. As a volunteer, you will work  with the local woman’s group by teaching English; help to initiate income  generating activities and to create sustainable solutions to the challenges the  woman face on a day to day basis. You can assist in training woman in several  life and income generating skills and to carry out research to find alternative  solutions to fight poverty. Volunteers  assist with health education such as HIV/AIDS, child rearing, nutrition, yoga,  and sanitation, sewing, bead work, pig farming and other community outreach  programs. Volunteers also write grant letters to mobilize resources to assist  in the procurement of equipment, materials and supplies needed for income  generating activities. No specific requirements except willingness and  enthusiasm to help women</p>
+      <h2><img src="images/uganda/ugandakatebo/Kids_saying_goodbye_main.jpg" width="220" height="170" class="imgCont2">Health Care Program</h2>
+      <p>Volunteers with medical experience are needed to work in the  local communities and rural clinics.&nbsp;  Most clinics are very busy, understaffed; with limited medical  supplies.&nbsp; There is a wide variety of  cases but disease such as malaria, HIV/Aids, tuberculosis and syphilis, as well  as childbirth/maternity needs are most common. </p>
+      <p>Volunteers with medical  training; doctors, nurses, paramedics, lab technicians participate in direct  patient care such as diagnosing, injections, IV starts and lab work..&nbsp; Nursing and medical students are welcome and  assist with tasks like dressing wounds, record and immunization chart keeping,  helping dispense medications, helping to screen and organize patients and  assisting with administrative needs or seminars. *Medical volunteers must  submit a copy of their credentials or nursing certificate.&nbsp;</p>
+      </strong><h2><strong>Program Includes:</strong> </h2>
+      <p>Accommodation at a shared volunteer house, three meals a day are provided.  This is a rural area, with access to fresh water and no electricity. Internet access available in town, 10 miles away.  Basic outhouse shower and toilet facilities on premises.  Airport transfers on arrival and departure. First night accommodations in Kampala during orientation. 
+        Our local Project Coordinator will provide orientation tour on arrival, project briefing, an introduction to work placement and volunteer accommodations.</p>
+      <p><iframe width="480" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=katebo&amp;sll=37.0625,-95.677068&amp;sspn=33.710275,82.265625&amp;ie=UTF8&amp;t=h&amp;s=AARTsJrIpDpycRqtUZcj5yFmGiT_OBz8GQ&amp;ll=-0.014505,32.086601&amp;spn=0.021458,0.041199&amp;z=14&amp;iwloc=addr&amp;output=embed"></iframe><br><small><a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=katebo&amp;sll=37.0625,-95.677068&amp;sspn=33.710275,82.265625&amp;ie=UTF8&amp;t=h&amp;ll=-0.014505,32.086601&amp;spn=0.021458,0.041199&amp;z=14&amp;iwloc=addr&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>&nbsp;</p>
+      <table width="210" border="0" cellspacing="5" cellpadding="5">
+        <tbody><tr>
+          <td width="58" height="75"><a href="forms.php"><img src="images/icons/icon_write.gif" alt="form" width="58" height="65" border="0"></a></td>
+          <td width="117" class="titleinfo"><strong><a href="forms.php">Application Form! </a></strong></td>
+        </tr>
+      </tbody></table>
+      <table width="376" height="118" border="0" cellpadding="5" cellspacing="5">
+        <tbody><tr>
+          <td width="279" valign="top"><h3><span class="titleinfo">Location pages: </span></h3>
+              <ul>
+                <li><a href="kampala.php">Kampala </a></li>
+                <li><a href="jinja.php">Jijna </a></li>
+                <li><a href="kasese.php">Kasese </a></li>
+                <li><a href="katebo_village.php">Katebo village Mpigi District </a></li>
+              </ul></td>
+          <td width="62"><a href="inclusions.php#cost" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image49','','images/precios/precio_uganda_b.jpg',1)"><img src="images/precios/precio_uganda_a.jpg" alt="Cost Uganda" name="Image49" width="138" height="214" border="0" id="Image49"></a></td>
+        </tr>
+      </tbody></table>
+    
+</strong></div><strong>
+    <div id="footer">
+	
+<script type="text/javascript">
+
+$(document).ready(function(){
+	
+  //hide toolbar and make visible the 'show' button
+	$("span.downarr a").click(function() {
+    $("#toolbar").slideToggle("fast");
+    $("#toolbarbut").fadeIn("slow");    
+  });
+  
+  //show toolbar and hide the 'show' button
+  $("span.showbar a").click(function() {
+    $("#toolbar").slideToggle("fast");
+    $("#toolbarbut").fadeOut();    
+  });
+  
+  //show tooltip when the mouse is moved over a list element 
+  $("ul#social li").hover(function() {
+		$(this).find("div").fadeIn("fast").show(); //add 'show()'' for IE
+    $(this).mouseleave(function () { //hide tooltip when the mouse moves off of the element
+        $(this).find("div").hide();
+    });
+  });
+  
+  //don't jump to #id link anchor 
+  $(".facebook, .twitter, .delicious, .digg, .rss, .stumble, .menutit, span.downarr a, span.showbar a").click(function() {
+   return false;                                         
+	});
+	
+  //show quick menu on click 
+	$("span.menu_title a").click(function() {
+		if($(".quickmenu").is(':hidden')){ //if quick menu isn't visible 
+			$(".quickmenu").fadeIn("fast"); //show menu on click
+		}
+		else if ($(".quickmenu").is(':visible')) { //if quick menu is visible 
+      $(".quickmenu").fadeOut("fast"); //hide menu on click
+    }
+	});
+	
+	//hide menu on casual click on the page
+	$(document).click(function() {
+			$(".quickmenu").fadeOut("fast");
+			$(".quickmenu").css({'vivibility': 'hidden'});
+	});
+	$('.quickmenu').click(function(event) { 
+		event.stopPropagation(); //use .stopPropagation() method to avoid the closing of quick menu panel clicking on its elements 
+	});
+
+		
+});
+	
+</script>
+
+
+
+<div id="conte_footer_new">
+<div id="footer_z1">
+<div id="z1_a">
+<div id="logos_gov"><img src="/images/gob-pie.jpg" alt="gob" width="274" height="66" border="0" usemap="#Map3">
+  <map name="Map3" id="Map3">
+    <area shape="rect" coords="3,3,67,63" href="http://www.abroaderview.org/vservice.php">
+  </map>
+</div>
+<div id="title_z1a">Certifified Organization | Group Travel</div>
+</div>
+
+
+<div id="z1_b">
+<div id="cars_all"> <img src="/images/cards-pie.jpg" alt="idcards" width="326" height="53" border="0" usemap="#Map2">
+  <map name="Map2" id="Map2">
+    <area shape="rect" coords="6,5,72,49" href="http://affiliate.volunteercard.com/scripts/click.php?r=121808420&amp;r_bid=2b5c24e0&amp;dest" target="_blank">
+    <area shape="rect" coords="87,5,158,49" href="http://www.flyforgood.com/" target="_blank">
+    <area shape="rect" coords="166,3,242,48" href="javascript:" onclick="MM_openBrWindow('seguros.html','seguros','status=yes,width=250,height=400')">
+    <area shape="rect" coords="253,7,320,48" href="http://pano.org/members/mbrs.php" target="_blank">
+  </map>
+</div>
+
+<div id="text_car">Volunteer Abroad Discount Card | Fly for Good Cheap Tickets Overseas 
+Volunteer Travel Insurance Abroad | Statewide Association Membership</div>
+</div>
+</div>
+
+<div id="footer_z2">
+<img src="/images/banners-pie.jpg" alt="friends" width="763" height="111" border="0" usemap="#Map">
+<map name="Map" id="Map">
+  <area shape="rect" coords="187,7,308,55" href="http://donations.ebay.com/charity/charity.jsp?NP_ID=29496" target="_blank">
+  <area shape="rect" coords="320,4,463,56" href="http://internationalvolunteer.ada.org/browse/?step=browse&amp;sort=all" target="_blank">
+  <area shape="rect" coords="467,5,608,55" href="http://www.traveltree.co.uk/volunteering-programs/volunteer-abroad-chile-orphanage-school-clinics.htm" target="_blank">
+  <area shape="rect" coords="609,4,757,61" href="http://www.volunteermatch.org/results/org_detail.jsp?orgid=76750" target="_blank">
+  <area shape="rect" coords="6,69,139,109" href="http://think.mtv.com/Search/SearchResults.aspx?search_term=a broader view&amp;time_stamp=634101582416060604" target="_blank">
+  <area shape="rect" coords="142,71,280,106" href="http://www.allforgood.org/search#q=a broader view&amp;num=10&amp;start=1&amp;vol_loc=Cheltenham, PA&amp;timeperiod=everything&amp;cache=1" target="_blank">
+  <area shape="rect" coords="282,75,484,109" href="http://www.volunteersforprosperity.gov/busorg/nonprofit.htm" target="_blank">
+  <area shape="rect" coords="486,67,625,108" href="http://buildingbridgescoalition.ning.com/main/search/search?q=a+broader+view" target="_blank">
+  <area shape="rect" coords="627,69,758,106" href="http://itunes.apple.com/us/podcast/a-broader-view-volunteers/id333283160" target="_blank">
+</map>
+</div>
+<div style="margin-top:35px;"><img src="/images/tell-footer.png" width="765" height="60" alt="tell phone"></div>
+<!-- fin de la div cuerpo--></div>	</div>
+  </strong></div><strong>
+</strong></div><strong>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-549470-12";
+urchinTracker();
+</script>
+
+
+</strong></body></html>

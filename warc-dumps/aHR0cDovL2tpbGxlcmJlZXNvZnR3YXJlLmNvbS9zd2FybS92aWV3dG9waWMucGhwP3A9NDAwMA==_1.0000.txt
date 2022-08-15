@@ -1,0 +1,207 @@
+The Swarm
+ (http://killerbeesoftware.com)
+
+New Users check out how to register (http://killerbeesoftware.com/swarm/viewtopic.php?t=764)
+
+
+ 
+ FAQFAQ (faq.php)    SearchSearch (search.php)    MemberlistMemberlist (memberlist.php)    UsergroupsUsergroups (groupcp.php)    RegisterRegister (profile.php?mode=register)  
+ ProfileProfile (profile.php?mode=editprofile)    Log in to check your private messagesLog in to check your private messages (privmsg.php?folder=inbox)    Log inLog in (login.php)  
+
+WWII Mod has gone gold (viewtopic.php?t=874&start=0&postdays=0&postorder=asc&highlight=)
+
+ 
+Post new topic (posting.php?mode=newtopic&f=9)    Reply to topic (posting.php?mode=reply&t=874)    The Swarm Forum Index (index.php) -> EDEE Mod World (viewforum.php?f=9)
+View previous topic (viewtopic.php?t=874&view=previous) :: View next topic (viewtopic.php?t=874&view=next)  
+Author Message
+Breaker
+
+
+
+Joined: 12 Dec 2003
+Posts: 151
+
+Post (viewtopic.php?p=3978#3978) Posted: Fri Oct 12, 2007 8:07 pm    Post subject: WWII Mod has gone gold Reply with quote (posting.php?mode=quote&p=3978)
+
+Just a short message to let everybody know that the WWII mod is now available for download. Both the Winter mod and Desert mod are ready for your pleasure.
+
+One more thing the modules are RC and small change/corrections might be applied.
+
+Read and download at www.salientgames.com (http://www.salientgames.com) .
+
+TheSalientOne (aka Breaker)
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=16) Send private message (privmsg.php?mode=post&u=16)
+rich12545
+
+
+
+Joined: 12 Nov 2004
+Posts: 347
+
+Post (viewtopic.php?p=3987#3987) Posted: Fri Oct 19, 2007 1:42 am    Post subject: Reply with quote (posting.php?mode=quote&p=3987)
+
+Hi. I can see how to add a ww2 terraindb to a random map scenario, but is it possible to add it to a sm scenario? Or does a scenario come with a built in terraindb like it does a unitdb? Thanks.
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=109) Send private message (privmsg.php?mode=post&u=109)
+WW2WEASEL
+
+
+
+Joined: 25 Nov 2006
+Posts: 74
+
+Post (viewtopic.php?p=3988#3988) Posted: Fri Oct 19, 2007 7:49 am    Post subject: Reply with quote (posting.php?mode=quote&p=3988)
+
+I think it's like the unit database.
+
+Can convert maps easy enough with the conversion tool.
+
+Scenario's are another matter; has something to do with removing all units and/or substituting with replacement database.
+
+Just haven't had time to look further into this.
+
+
+I have scripts - for Enhanced EDEE [HCDB] to WW2 Terrain(s) and Vice versa... Tested and works... will release that in a bit as well...
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=957) Send private message (privmsg.php?mode=post&u=957)
+rich12545
+
+
+
+Joined: 12 Nov 2004
+Posts: 347
+
+Post (viewtopic.php?p=3990#3990) Posted: Fri Oct 19, 2007 2:47 pm    Post subject: Reply with quote (posting.php?mode=quote&p=3990)
+
+Weasel, it looks like you made a very nice mod. It's obvious a lot of work went into it. Just way too many units for my personal taste. But I like your terrain and am looking forward to the jungle one as well. There are almost 300 scenarios that I converted to SoloMod and it would be nice to play them using your terrain. It looks like the only way to do this is to rename the terraindb prior to opening edee. Maybe Mark has an answer.
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=109) Send private message (privmsg.php?mode=post&u=109)
+WW2WEASEL
+
+
+
+Joined: 25 Nov 2006
+Posts: 74
+
+Post (viewtopic.php?p=3991#3991) Posted: Fri Oct 19, 2007 3:30 pm    Post subject: Reply with quote (posting.php?mode=quote&p=3991)
+
+rich12545
+
+Did you try any of the different configurations?
+
+This was meant to solve the way too many unit concern.
+
+Try the "Basic" config version.
+
+Also rich12545; send me one scenario/map along with Solomod unitdb.ini and I will see if I can convert it over using a script. If it works I'll send you over the conversion script(s).
+
+I need the unitdb.ini to match units as best I can.
+
+This way it may be possible to have your scenario's setup in the WW2 mod. All three versions of WW2 Mod.
+
+Make sure you represent all your unit id's with some sort of description.
+So I have a better idea of what a unit does or is. To make the best possible match ups of unit types/class...
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=957) Send private message (privmsg.php?mode=post&u=957)
+rich12545
+
+
+
+Joined: 12 Nov 2004
+Posts: 347
+
+Post (viewtopic.php?p=3992#3992) Posted: Fri Oct 19, 2007 6:28 pm    Post subject: Reply with quote (posting.php?mode=quote&p=3992)
+
+My satellite crashed a few weeks ago and I'm now on a slow dialup. So any file more than 5 megs requires an overnighter. Your mod is 11 so I haven't downloaded it yet but really like the screenies of the terrain. I'll get one of them tonight and try a basic config and see.
+
+Before sending you stuff I'd like to see what Mark has to say about a workaround. It might be possible to somehow convert a SM scenario to a SM scenario with a different terraindb.
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=109) Send private message (privmsg.php?mode=post&u=109)
+rich12545
+
+
+
+Joined: 12 Nov 2004
+Posts: 347
+
+Post (viewtopic.php?p=3994#3994) Posted: Fri Oct 19, 2007 11:46 pm    Post subject: Reply with quote (posting.php?mode=quote&p=3994)
+
+Weasel, I talked my wife into letting me use the internet to download one of your ww2 mods. It truly is a great piece of work. The basic still has too many units for my taste though. And how does the ai use pilots/crews?
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=109) Send private message (privmsg.php?mode=post&u=109)
+WW2WEASEL
+
+
+
+Joined: 25 Nov 2006
+Posts: 74
+
+Post (viewtopic.php?p=3996#3996) Posted: Sat Oct 20, 2007 12:43 am    Post subject: Reply with quote (posting.php?mode=quote&p=3996)
+
+Basic set should have about the same amount as standard EDEE; perhaps I included more than I thought?
+
+
+Basic -- ahh yes, forgot the Pilots and crews would be in there.
+
+Pilots, crews - for humans -- Sorry - overlooked that aspect.
+
+I hope to be delving into the AI source code to make that happen someday.
+
+But anyways; sure do appreciate you taking your time to download and try...
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=957) Send private message (privmsg.php?mode=post&u=957)
+rich12545
+
+
+
+Joined: 12 Nov 2004
+Posts: 347
+
+Post (viewtopic.php?p=3997#3997) Posted: Sat Oct 20, 2007 1:14 am    Post subject: Reply with quote (posting.php?mode=quote&p=3997)
+
+LOL. The standard edee has way too many units for my taste.
+
+I think what I'm going to do is add some of your terrain graphics to the standard terraindb folder for the scenarios and then use your terrains for random maps as well. Except for the city graphics. The ones made by Ralph Ivy (that I incorporated in SoloMod) are better.
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=109) Send private message (privmsg.php?mode=post&u=109)
+Breaker
+
+
+
+Joined: 12 Dec 2003
+Posts: 151
+
+Post (viewtopic.php?p=3999#3999) Posted: Sat Oct 20, 2007 6:01 pm    Post subject: Reply with quote (posting.php?mode=quote&p=3999)
+
+What city graphics are that then?
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=16) Send private message (privmsg.php?mode=post&u=16)
+rich12545
+
+
+
+Joined: 12 Nov 2004
+Posts: 347
+
+Post (viewtopic.php?p=4000#4000) Posted: Sat Oct 20, 2007 9:42 pm    Post subject: Reply with quote (posting.php?mode=quote&p=4000)
+
+Very nice. Made by Ralph Ivy. I downloaded them maybe two and a half years ago either from the edee extras page here or the yahoo mod forum. Don't remember which. And I no longer have the original file. Feel free to use them from my SoloMod game but give credit to Ralph and not to me.
+
+Actually these are unit graphic files and not terrain ones.
+Back to top (#top)
+View user's profile (profile.php?mode=viewprofile&u=109) Send private message (privmsg.php?mode=post&u=109)
+Display posts from previous: All Posts1 Day7 Days2 Weeks1 Month3 Months6 Months1 Year Oldest FirstNewest First [ Go ]
+Post new topic (posting.php?mode=newtopic&f=9)    Reply to topic (posting.php?mode=reply&t=874)    The Swarm Forum Index (index.php) -> EDEE Mod World (viewforum.php?f=9) All times are GMT - 1 Hours
+Page 1 of 1
+
+ 
+Jump to: Select a forum Killer Bee Business----------------Killer Bee Software Discussion World Of Warcraft Content----------------WoW Stuff Empire Deluxe Internet and Enhanced Edition Discussion----------------The Future Of Empire DeluxeEmpire Deluxe Enhanced Edition DiscussionEmpire Deluxe Internet EditionEDEE and EDIE SupportEDEE Mod World The Perfect General Discussion----------------The Perfect General Internet Edition Galacticards----------------Galacticards General Discussion Other business----------------Off Topic Discussion [ Go ]
+You cannot post new topics in this forum
+You cannot reply to topics in this forum
+You cannot edit your posts in this forum
+You cannot delete your posts in this forum
+You cannot vote in polls in this forum
+
+
+Powered by phpBB (http://www.phpbb.com/) © 2001, 2005 phpBB Group

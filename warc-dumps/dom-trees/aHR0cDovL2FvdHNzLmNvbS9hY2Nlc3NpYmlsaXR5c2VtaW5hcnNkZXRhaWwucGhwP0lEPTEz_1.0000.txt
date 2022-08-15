@@ -1,0 +1,347 @@
+<!DOCTYPE html><html><head>
+  <title>AOTSS: Accessibility Seminars Registration</title>
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #EEEEEE;
+}
+.style3 {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #FFFFFF; }
+.style10 {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration:none;color: #333333}
+.emailLink{color:white;text-decoration:none}
+.emailLink:hover{color:yellow;}
+.style13 {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration: none; color: #000000;;padding-top:6px;padding-bottom:6px;padding-left:4px;font-weight:normal }
+.style13:hover {color:green}
+.style14 {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration: none; color: green; padding-top: 6px; padding-bottom: 6px; padding-left: 4px; font-weight: normal; }
+.header {font-size: 14pt;color:green;font-family: tahoma, Arial, Helvetica, sans-serif;}
+.headerSmall {font-size: 12pt;color:green;font-family: tahoma, Arial, Helvetica, sans-serif;}
+
+-->
+</style>
+</head><body>
+<center><table border="0" cellpadding="0" cellspacing="0" width="760">
+<!-- fwtable fwsrc="test.png" fwbase="aotss.png" fwstyle="Dreamweaver" fwdocid = "1555487552" fwnested="0" -->
+  <tbody><tr>
+   <td><img src="images/spacer.gif" width="145" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="368" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="66" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="64" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="45" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="72" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td colspan="2"><a href="index.php"><img name="aotss_r1_c1" src="images/top.jpg" width="513" height="129" border="0" alt="Abilities OT Services and Seminars, Inc.   Training &amp; Services to Promote Independent Living"></a></td>
+   <td colspan="4"><a href="index.php"><img src="images/home.jpg" alt="home" width="92" height="129" border="0"></a><a href="contactus.php"><img src="images/contact.jpg" alt="contact us" width="83" height="129" border="0"></a><a href="cart.php"><img src="images/cart.jpg" alt="cart" height="129" border="0"></a></td>
+   <td><img src="images/spacer2.gif" width="1" height="129" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td rowspan="15" valign="top" background="images/lbg.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr>
+       <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tbody><tr>
+           <td class="style13">&nbsp;</td>
+         </tr>
+         <tr>
+           <td class="style13"><a href="aboutus.php" class="style13">About Us</a></td>
+         </tr>
+       </tbody></table>         </td>
+     </tr>
+     <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tbody><tr>
+           <td class="style13"><a href="consulting.php" class="style13">Consulting Services</a></td>
+         </tr>
+		 
+       </tbody></table></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="products.php" class="style13">Products</a></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="calendarofevents.php" class="style13">Calendar of Events </a></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="faq.php" class="style13">FAQ</a></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="photogallery.php" class="style13">Photo Gallery </a></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="resourcesandlinks.php" class="style13">Resources / Links </a></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="members.php" class="style13">AOTSS Network</a></td>
+     </tr>
+	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left"><img name="aotss_r10_c1" src="images/aotss_r10_c1.jpg" width="145" height="69" border="0" alt="Continuing Education Registration"></td>
+     </tr>
+<tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>	 
+     <tr>
+       <td align="left" class="style13" background="images/active.jpg"><a href="accessibilityseminars.php" class="style13">Accessibility Seminars</a></td>
+     </tr>
+	 	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="accessibilityinternethomestudy.php" class="style13">Accessibility <br>
+<span style="font-size:6px">&nbsp;</span>Internet-based<br>
+&nbsp;Training       </a></td>
+     </tr>
+	 	      <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="pediatricseminars.php" class="style13">Pediatric Seminars</a></td>
+     </tr>
+                   <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="seminarsOther.php?sid=8&amp;title=Irlen Screeners/ PASS Training" class="style13">Irlen Screeners/ PASS Training</a></td>
+     </tr>
+	               <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="seminarsOther.php?sid=9&amp;title=Brain Gym for All Ages" class="style13">Brain Gym for All Ages</a></td>
+     </tr>
+	               <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left" class="style13"><a href="seminarsOther.php?sid=9&amp;title=Brain Gym for All Ages" class="style13">Brain Gym for All Ages</a></td>
+     </tr>
+	 	      
+              <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+     <tr>
+       <td align="left"><a href="newslettersignup.php"><img name="aotss_r14_c1" src="images/aotss_r14_c1.jpg" width="145" height="83" border="0" alt="Sign Up for our newsletter"></a></td>
+     </tr>
+	 <tr>       <td align="left"><img src="images/lineSmall.jpg" width="142" height="1"></td>
+     </tr>
+   </tbody></table>     
+   <p><br>
+         <br>
+        <br>    
+        <br>
+        <br>
+     </p>
+    </td>
+   <td colspan="5" rowspan="13" align="left" valign="top" bgcolor="#FFFFFF"><style type="text/css">
+<!--
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.readmore {
+	color:blue;
+}
+.readmore:hover {
+	color:blue;
+}
+.style2 {
+	font-family: Tahoma, Arial;
+	color: #333333;
+}
+ 
+
+-->
+</style>
+<script language="JavaScript">
+   function openReg() {
+      myWin=open("AOTSSREGISTRATIONFORM.pdf", "reg",
+                  "width=600,scrollbars=yes, height=450,status=no,toolbar=no,menubar=no,resize=no,LEFT=0,top=0");
+   }
+</script>
+
+<form method="post" action="cart.php">
+<input type="hidden" name="theAction" value="addSeminar">
+<input type="hidden" name="seminarID" value="13">
+<input type="hidden" name="urlid" value="/accessibilityseminarsdetail.php?ID=13">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="images/spacer.gif" width="30"></td><td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr>
+      <td align="left"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%" style="padding-right:36px"><br><span class="style1"><br>
+        <br>
+        <span class="header">Accessibility Seminars Registration</span><strong> <br>
+                     </strong></span><span class="style1"><br>
+                     <br>
+<b>"AOTSS Accessibility Consulting" Seminar Manual and Materials Kit (Included in the cost of seminars)</b>
+<br><br>
+This AOTSS Seminar Manual is filled with technical information, sample assessments, universal design ideas, funding information, business development assistance, media resources, publications, legislation implementation guidelines for civil rights for people with disabilities, and much, much more. See AOTSS Accessibility Consulting Seminar Brochure for description of related seminar. Please Note: If you choose to attend the Accessibility Consulting, Home Modifications, and Assistive Technology 2-day seminar or Internet Training within one year, $25 will be refunded from the cost of the seminar if you bring your Manual and receipt of payment (in your name) with you to the seminar, or fax your receipt for the Internet Training. ONE MANUAL is included in the registration cost of for ACCESSIBILTY CONSUTATION SEMINARS. <br>
+<br>
+  <span class="header">
+  <br>
+  Register</span><br>
+  <span class="style2">Please Select All That Apply</span></span>
+<br>
+
+<br>
+<strong class="style1">AOTSS Accessibility Manual and Resource Package </strong>
+                     
+              <table width="100%" border="0" cellspacing="0" cellpadding="1">
+                <tbody><tr>
+                  <td bgcolor="#999999"><table width="100%" border="0" cellspacing="0" cellpadding="10">
+                    <tbody><tr>
+                      <td bgcolor="#FFFFFF" class="style1">
+  <table cellpadding="1">
+    <tbody><tr><td><input type="checkbox" value="Y" name="C11"></td><td>Price:</td><td nowrap>$50.00</td>
+  <td> &nbsp;AOTSS Accessibility Manual (includes S&amp;H)</td></tr>  <tr><td><input type="checkbox" value="Y" name="C12"></td><td>Price:</td><td nowrap>$100.00</td>
+  <td> &nbsp;AOTSS Accessibility Resource Package (includes S&amp;H)</td></tr>  <tr><td><input type="checkbox" value="Y" name="C13"></td><td>Price:</td><td nowrap>$150.00</td>
+  <td> &nbsp;AOTSS Access Manual and Resource Package (includes SH)</td></tr>              </tbody></table>	
+</td>
+                    </tr>
+                  </tbody></table></td>
+                </tr>
+              </tbody></table>
+              <p><span class="style1">  <br>
+						  
+		
+		
+			  
+			  			  
+  
+
+  </span></p><table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td class="style1"><input type="submit" value="add to cart">
+&nbsp;&nbsp;or&nbsp;&nbsp;
+<input onclick="openReg()" type="button" value="register by mail">
+</td>
+  <td align="right" valign="middle"><a href="javascript:history.back()" style="color:blue"><b><small><img src="images/back.jpg" width="42" height="11" border="0"></small></b></a><img src="images/spacer.gif" width="1" height="20"></td>
+</tr></tbody></table>
+
+                    <span class="style1">
+                    </span>
+                    <p>&nbsp;</p></td>
+       </tr>
+      </tbody></table></td>
+     </tr>
+     <tr>
+       <td align="left">&nbsp;</td>
+     </tr>
+     <tr>
+       <td align="left">&nbsp; </td>
+     </tr>
+</tbody></table>
+</td></tr></tbody></table>
+</form>
+</td>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="31" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="70" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="40" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="55" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td colspan="5" rowspan="2" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr>
+       <td colspan="2" background="images/line.jpg" align="left"><img src="images/linewhitel.jpg" width="30" height="1"></td>
+      </tr>
+	       <tr>
+       <td colspan="2" align="left"><img src="images/linewhitel.jpg" width="30" height="10"></td>
+      </tr>
+     <tr>
+       <td width="36%" align="right">&nbsp;&nbsp;<img src="images/logos.gif" width="191" height="36" hspace="20"></td>
+       <td width="64%" align="left" bgcolor="#FFFFFF"><span class="style10"><small>See  the <b> ABOUT US  section  for  TESTIMONIALS </b>  by AOTSS participants and clients, <b>articles by AOTSS, and a biography of Shoshana Shamberg, OTR/L, MS, President. </b> <br><br> &lt;<b>See the AOTSS  Q&amp;A   (QUESTIONS &amp; ANSWERS) and the AOTSS CALENDAR</b> for updates on all seminars.  AOTSS seminars are approved for continuing education credits (CEUs) for OT, PT, SLP/Audiology, and Educators through professional state licensing boards where appropriate.  <b>AOTSS is an AOTA Approved Provider Program for CE and a member of the NBCOT Preferred Provider Registry.<b> The following state licensing boards for OTs/OTAs accept AOTA APP CE credits: <b>AK, AL, DC, DE, IL, IN, KY, LA, MD, MI, MN, MS,MO, MT, NH,NC, NV, OH, OK, OR, RI, SC, TN, TX, VA and VT.  <br> See our PROFESSIONAL PARTNER DISCOUNTS AND BENEFITS section in the RESOURCES for AOTSS ACN Members.</b></b></b></small></span></td>
+     </tr>
+     <tr bgcolor="#FFFFFF">
+       <td colspan="2"><img src="images/spacer.gif" width="8" height="10"></td>
+      </tr>
+   </tbody></table></td>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="29" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="53" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td colspan="6" align="center" valign="middle" background="images/line1.jpg"><img src="images/line1.jpg" width="615" height="1"></td>
+  </tr>
+    <!--  
+  <tr>
+   <td colspan="6" align="center" valign="middle" background="wide.jpg">
+
+   <table width="100%"  border="0" cellpadding="10" cellspacing="0" background="images/wide.jpg">
+     <tr>
+       <td align="center"><span class="style6"><br>
+        Home - Contact - Cart - Checkout - About Us - Consulting Services - Products</span></td>
+     </tr>
+     <tr>
+       <td align="center"><span class="style6">Calendar of Events - FAQ - Photo Gallery - Resources / Links - AOTSS ACN Members</span></td>
+     </tr>
+     <tr>
+       <td align="center"><span class="style6">Accessibility Seminars - Accessibility Internet / Home Study - Pediatric Seminars<br>
+&nbsp;       </span></td>
+     </tr>
+   </table>
+
+   </td>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="12" border="0" alt=""></td>
+  </tr>
+    --> 
+<tr>
+   <td colspan="6" align="center" valign="middle" background="images/aotss_r17_c1.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="6">
+     <tbody><tr>
+       <td align="center"><span class="style3">Abilities OT Services and Seminars, Inc. &nbsp;&nbsp;&nbsp;&nbsp;3309 W Strathmore Avenue &nbsp;&nbsp;&nbsp;&nbsp;Baltimore, MD 21215-3718 </span></td>
+     </tr>
+     <tr>
+       <td align="center"><span class="style3">Phone: 410-358-7269 &nbsp;&nbsp;&nbsp;&nbsp;Fax: 410-358-6454 &nbsp;&nbsp;&nbsp;&nbsp;Email: <a href="mailto:info@aotss.com" class="emailLink">info@aotss.com</a> &nbsp;&nbsp;&nbsp;&nbsp;Website: <a href="http://www.aotss.com" class="emailLink">www.aotss.com</a> </span></td>
+     </tr>
+     <tr>
+       <td align="center"><span class="style3">Copyright © 2006 &nbsp;AOTSS, INC. &nbsp;&nbsp;ALL RIGHTS RESERVED</span></td>
+     </tr>
+   </tbody></table></td>
+   <td background="images/spacer2.gif"><img src="images/spacer2.gif" width="1" height="110" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+<center>
+</center></center></body></html>

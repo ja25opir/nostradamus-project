@@ -1,0 +1,1582 @@
+<!-- 12 --><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="author" content="Dunstan Orchard">
+<meta name="copyright" content="Copyright (c) 2010 Dunstan Orchard">
+<meta name="description" content="Dunstan explains his CSS drop shadow technique.">
+<meta name="keywords" content="">
+<meta name="robots" content="index, follow, archive">
+
+<link rel="accessibility" href="/blog/accessibility/" title="Accessibility details">
+<link rel="alternate" href="/blog/syndicate/" title="RSS" type="application/rss+xml">
+<link rel="author" href="/blog/contact/" title="Contact the author">
+<link rel="contents" href="/blog/archive/" title="Archive">
+<link rel="copyright" href="/blog/copyright/" title="Copyright details">
+<link rel="first" href="/blog/archive/2003/08/20/retourne/" title="Je suis retourné">
+<link rel="last" href="/blog/archive/2005/07/16/hello-and-goodbye/" title="A hello-and-goodbye kind of post">
+<link rel="next" href="/blog/archive/2003/11/16/spam/" title="Neutralising spam">
+<link rel="prev" href="/blog/archive/2003/11/12/comments/" title="A visual guide to navigating blog comments">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="start" href="/blog/" title="Home page">
+<link rel="up" href="/blog/archive/2003/11/14/" title="14th November 2003">
+
+<title>Easy CSS drop shadows | Blog | 1976design.com</title>
+
+<style type="text/css" media="screen">@import "/blog/include/screen.css";</style>
+<style type="text/css" media="screen">@import "/blog/include/weather_css.php";</style>
+<link rel="stylesheet" type="text/css" media="print" href="/blog/include/print.css">
+
+<script type="text/javascript" src="/blog/include/general_scripts.js"></script>
+<script type="text/javascript" src="/blog/include/livesearch_livesearch_archive.js"></script>
+<script type="text/javascript" src="/blog/include/comments_comments.js"></script>
+
+<script type="text/javascript">
+<!--
+// comment relationships
+Comments.tableRelations = {cmnt185 : {children : ["cmnt186", "cmnt195"]}, cmnt186 : {parents : ["cmnt185"], children : ["cmnt195"]}, cmnt194 : {children : ["cmnt196", "cmnt230"]}, cmnt195 : {parents : ["cmnt185", "cmnt186"], children : ["cmnt712"]}, cmnt196 : {parents : ["cmnt194"]}, cmnt200 : {children : ["cmnt202"]}, cmnt201 : {children : ["cmnt202"]}, cmnt202 : {parents : ["cmnt200", "cmnt201"], children : ["cmnt206", "cmnt210"]}, cmnt206 : {parents : ["cmnt202"]}, cmnt209 : {children : ["cmnt210"]}, cmnt210 : {parents : ["cmnt202", "cmnt209"]}, cmnt223 : {children : ["cmnt224"]}, cmnt224 : {parents : ["cmnt223"], children : ["cmnt228"]}, cmnt228 : {parents : ["cmnt224"], children : ["cmnt229"]}, cmnt229 : {parents : ["cmnt228"]}, cmnt230 : {parents : ["cmnt194"]}, cmnt250 : {children : ["cmnt251"]}, cmnt251 : {parents : ["cmnt250"]}, cmnt351 : {children : ["cmnt352"]}, cmnt352 : {parents : ["cmnt351"], children : ["cmnt353"]}, cmnt353 : {parents : ["cmnt352"], children : ["cmnt355"]}, cmnt355 : {parents : ["cmnt353"], children : ["cmnt366"]}, cmnt366 : {parents : ["cmnt355"], children : ["cmnt367"]}, cmnt367 : {parents : ["cmnt366"]}, cmnt578 : {children : ["cmnt580"]}, cmnt579 : {children : ["cmnt581"]}, cmnt580 : {parents : ["cmnt578"]}, cmnt581 : {parents : ["cmnt579"]}, cmnt712 : {parents : ["cmnt195"]}, cmnt784 : {children : ["cmnt785"]}, cmnt785 : {parents : ["cmnt784"]}, cmnt1040 : {children : ["cmnt1062"]}, cmnt1059 : {children : ["cmnt1063"]}, cmnt1062 : {parents : ["cmnt1040"]}, cmnt1063 : {parents : ["cmnt1059"]}, cmnt1591 : {children : ["cmnt1592", "cmnt2289"]}, cmnt1592 : {parents : ["cmnt1591"]}, cmnt1607 : {children : ["cmnt1608"]}, cmnt1608 : {parents : ["cmnt1607"]}, cmnt1618 : {children : ["cmnt1620"]}, cmnt1620 : {parents : ["cmnt1618"]}, cmnt1971 : {children : ["cmnt1980"]}, cmnt1980 : {parents : ["cmnt1971"]}, cmnt2048 : {children : ["cmnt2049"]}, cmnt2049 : {parents : ["cmnt2048"]}, cmnt2289 : {parents : ["cmnt1591"]}};
+
+-->
+</script>
+
+</head>
+
+<body id="post">
+
+<!-- header -->
+<div id="header">
+<p><a href="/blog/" title="Home">Dunstan’s Blog: low tech version.</a></p>
+</div>
+
+
+<!-- jump-tos -->
+<ul id="jump-to">
+<li><a href="#right" accesskey="2" title="Jump to the main navigation links">[Jump to navigation]</a></li>
+<li><a href="#right" accesskey="2" title="Jump to the main navigation links">[Jump to side bar]</a></li>
+</ul>
+
+
+<!-- horrible container -->
+<div id="container">
+<!-- left -->
+<div id="left">
+<h1>Post #49</h1>
+
+
+<h2 id="post-title"><a href="/blog/archive/2003/11/14/shadows/" title="A permalink for this post">Easy CSS drop shadows</a></h2>
+
+<p class="details"><a href="/blog/archive/2003/11/14/" rel="bookmark" title="View posts for 14th November 2003">14th</a> <a href="/blog/archive/2003/11/" rel="bookmark" title="View posts for November 2003">November</a> <a href="/blog/archive/2003/" rel="bookmark" title="View post titles for 2003">2003</a>, <span title="Posted at 12:00">lunch time</span> | <a href="#cmnts" title="Jump down to the comments ↓">Comments (65)</a></p>
+
+<table class="status" border="1" cellpadding="0">
+<caption>Code information</caption>
+
+<thead>
+<tr>
+<th colspan="2">Status</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Code usage</td>
+<td>No longer in use on this blog</td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="/blog/archive/2004/03/04/shadows-extended/" title="View the update post">Available</a></td>
+</tr>
+<tr>
+<td>Demo</td>
+<td><a href="http://demo.1976design.com/dropshadows/" title="View the demo">Available</a></td>
+</tr>
+<tr>
+<td>Downloads</td>
+<td><a href="http://download.1976design.com/dropshadows/" title="Download the demo files">Available</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>A few people have noticed that the drop shadows I use[d] on images here aren’t part of the pictures themselves, but are added on through the web equivalent of Magic Fairy Dust — CSS. I thought I’d explain how it’s done in case anyone else wanted to know.</p>
+
+<p>I have two different implementations of this technique: one is for images that are used for decorating a post; one is for images that are used to illustrate a post. Both can be seen in the <a href="http://demo.1976design.com/dropshadows/" title="View the demo">demo</a>.</p>
+
+<p>Now then, before we look at the code, have a nose at this picture; it should give you an overview of what actually happens. (I’ve used a blue background so you can see what’s what, and only swapped to a white background at the end for the full effect.)</p>
+
+<div class="image" style="width: 309px;"><img src="/blog/images/49a.gif" width="297" height="673" alt="Graphical overview of this technique"></div>
+
+
+
+<h3>The mark-up</h3>
+
+<p>This is the code to insert into your web pages.</p>
+
+
+<h4>For decorative images</h4>
+
+<ol class="code">
+<li><code>&lt;div class="img-dec"&gt;&lt;img src="cat.gif" width="260" height="200" alt="A stupid waving cat" /&gt;&lt;/div&gt;</code></li>
+<li class="source">Download this code: <a href="/blog/code/49a.txt" title="Download the above code as a text file">/code/49a.txt</a></li>
+</ol>
+
+
+
+<h4>For illustrative images</h4>
+
+<ol class="code">
+<li><code>&lt;div class="img-ilus" style="width: 270px;"&gt;&lt;img src="cat.gif" width="260" height="200" alt="A stupid waving cat" /&gt;&lt;/div&gt;</code></li>
+<li class="source">Download this code: <a href="/blog/code/49b.txt" title="Download the above code as a text file">/code/49b.txt</a></li>
+</ol>
+
+
+
+<h3>The drop shadow image</h3>
+
+<p>Rather than spend ages trying to describe how I made the drop shadow, I’ll just provide <a href="http://download.1976design.com/dropshadows/" title="Download the demo files">the Photoshop file and GIF files for you to download</a>, and you can see for yourself.</p>
+
+<p>You’ll notice that the image is actually pretty big, at 800×800 pixels. I originally started off with a much smaller file, planning never to display images above 300×200 pixels on my blog, but I soon found that I out grew this limit, and the drop shadow gif just wasn’t large enough. So, knowing that such a simple image is actually pretty small in terms of file size (the 800×800 version I use now is only 3.47KB) I thought I’d save myself future hassle and produce a larger-than-I'll-ever-need version.</p>
+
+
+<h4>Drop shadows for different coloured sites</h4>
+
+<p>My drop shadow is made using a white background, because that’s the colour of my site. If you find that you need yours to sit on top of lots of different colours (maybe you have a style-switcher on your site), then you could always set a transparent background and save the image as a PNG instead. (Be sure to check the current browser support for this though.)</p>
+
+
+<h3>The CSS</h3>
+
+<p>Pop these rules into your style sheet.</p>
+
+
+<h4>For decorative images</h4>
+
+<ol class="code">
+<li><code>div.img-dec {</code></li>
+<li class="tab1"><code>background: url('shadow.gif') no-repeat bottom right;</code></li>
+<li class="tab1"><code>clear: right;</code></li>
+<li class="tab1"><code>float: right;</code></li>
+<li class="tab1"><code>margin: 0 0 15px 25px;</code></li>
+<li class="tab1"><code>padding: 0;</code></li>
+<li class="tab1"><code>position: relative;</code></li>
+<li><code>}</code></li>
+<li>&nbsp;</li>
+<li><code>div.img-dec img {</code></li>
+<li class="tab1"><code>background-color: #fff;</code></li>
+<li class="tab1"><code>border: 1px solid #a9a9a9;</code></li>
+<li class="tab1"><code>display: block;</code></li>
+<li class="tab1"><code>margin: -5px 5px 5px -5px;</code></li>
+<li class="tab1"><code>padding: 4px;</code></li>
+<li class="tab1"><code>position: relative;</code></li>
+<li><code>}</code></li>
+<li class="source">Download this code: <a href="/blog/code/49c.txt" title="Download the above code as a text file">/code/49c.txt</a></li>
+</ol>
+
+
+
+<h4>For illustrative images</h4>
+
+<ol class="code">
+<li><code>div.img-ilus {</code></li>
+<li class="tab1"><code>background: url('shadow.gif') no-repeat bottom right;</code></li>
+<li class="tab1"><code>margin: 10px 5px;</code></li>
+<li class="tab1"><code>padding: 0;</code></li>
+<li class="tab1"><code>position: relative;</code></li>
+<li><code>}</code></li>
+<li>&nbsp;</li>
+<li><code>div.img-ilus img {</code></li>
+<li class="tab1"><code>background-color: #fff;</code></li>
+<li class="tab1"><code>border: 1px solid #a9a9a9;</code></li>
+<li class="tab1"><code>margin: -5px 5px 5px -5px;</code></li>
+<li class="tab1"><code>padding: 4px;</code></li>
+<li class="tab1"><code>position: relative;</code></li>
+<li class="tab1"><code>vertical-align: bottom;</code></li>
+<li><code>}</code></li>
+<li class="source">Download this code: <a href="/blog/code/49d.txt" title="Download the above code as a text file">/code/49d.txt</a></li>
+</ol>
+
+
+<p>And that’s it. It should be pretty easy to get that up and running on your own site, just make sure the CSS paths to the shadow image are correct. Good luck!</p>
+
+<p class="note"><ins datetime="2003-11-15T15:37:00-00:00">Update: Thanks to <a href="http://www.sujag.de/" title="Go to www.sujag.de">Susanne Jaeger</a> for helping me get this working in all three major browsers after <a href="http://www.xebit.net" title="Go to www.xebit.net">Tony</a> pointed out a bug.</ins></p>
+
+
+<h3>Alternative methods</h3>
+
+<p>2003/11/14: I see that both <a href="http://www.designdetector.com/tips/shadow.html" title="Go to www.designdetector.com">Chris Hester</a> and <a href="http://blog.tom.me.uk/" title="Go to blog.tom.me.uk">Tom Gilder</a> have come up with their own solutions (very nice too), but while theirs rely on adding in six empty <code>&lt;div&gt;</code>s, this technique doesn’t require any additional markup, and that’s what I was aiming for.</p>
+
+<p>2004/03/30: <a href="http://overcaffeinated.net/" title="Go see Sergio’s homepage">Sergio Villarreal</a> has <a href="http://www.alistapart.com/articles/cssdropshadows/" title="Go see Sergio’s effort">extended this technique</a> (albeit by using extra markup) in an article on <a href="http://www.alistapart.com/" title="Go to www.alistapart.com">A List Apart</a>. <a href="http://wubbleyew.com/" title="Go see Phil’s homepage">Phil Baines</a> then took Sergio’s code and <a href="http://wubbleyew.com/tests/dropshadows.htm" title="Go see Phil’s effort">simplified it</a>. It's worth taking a look at both of their explanations.</p>
+ 
+<p class="jump"><a href="#left" title="Jump up to the start of the post ↑">Jump up to the start of the post</a> ↑</p>
+
+<hr>
+
+<form action="/blog/archive/2003/11/14/shadows/" method="post">
+
+<div id="cmnts">
+<h2><a href="#cmnts" title="A permalink to the comments for this post">Comments (65)</a></h2>
+
+<p class="jump"><span class="strike" title="Commenting has been disabled for this post">Jump down to the comment form ↓</span></p>
+
+<ol id="cmnts-list">
+<li id="cmnt185">
+<dl>
+<dt><a href="http://www.xebit.net/" title="Go to http://www.xebit.net/">Tony Crockford:</a></dt>
+<dd><p>Nice effect, thought you'd like to know that Opera7.22 doesn't quite get it, preferring to leave off the bottom of the shadow for some reason.</p>
+<p>Doncha just love the way different browsers do CSS?</p>
+<p>;o)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt185" rel="bookmark" title="A permalink to this comment, which was made on Friday the 14th of November 2003, at 22:17 UTC">Posted 10 hours, 17 minutes after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt186" title="View this related comment ↓">↓ Dunstan</a>, <a href="#cmnt195" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt186" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>It's an odd problem actually Tony, I'm sure it's Moz that gets this wrong, but I've gone with the code I posted above because at least this way Opera and IE display something that still looks OK.</p>
+<p>If I alter my CSS so Opera and IE work then Moz sticks a 5px space between the image and the shadow, and it looks very wrong.</p>
+<p>Until I can figure it out this was the lesser of two evils.</p>
+<p>But thanks for pointing it out, you got me off my bum and asking for help on CSS-d :o)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt186" rel="bookmark" title="A permalink to this comment, which was made on Friday the 14th of November 2003, at 23:47 UTC">Posted 11 hours, 47 minutes after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt185" title="View this related comment ↑">↑ Tony Crockford</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt195" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt193">
+<dl>
+<dt><a href="http://pushkar.net" title="Go to http://pushkar.net">Pushkar:</a></dt>
+<dd><p>Great tip! Thanks!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt193" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 15th of November 2003, at 14:56 UTC">Posted 1 day, 2 hours after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt194">
+<dl>
+<dt><a href="http://www.minid.net" title="Go to http://www.minid.net">Mini-d:</a></dt>
+<dd><p>Why you don't set background-img to an image directly? I think it's better than write a div and then insert an image.</p>
+<p>Something like this:</p>
+<p>img.lol {
+<br>
+background-img: xxx;
+<br>
+padding: 0px 5px 5px 0px;
+<br>
+}</p>
+<p>I've tryed this before and it worked well...</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt194" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 15th of November 2003, at 15:16 UTC">Posted 1 day, 3 hours after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt196" title="View this related comment ↓">↓ Dunstan</a>, <a href="#cmnt230" title="View this related comment ↓">↓ Tim</a></dd>
+</dl>
+</li>
+
+<li id="cmnt195" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Ah, with some help from CCS-d (Susanne Jaeger <a href="http://www.sujag.de/" title="Go to http://www.sujag.de/">http://www.sujag.de/</a>) I have it working.</p>
+<p>I'm going to alter the code listed above so it works in all three browsers now.</p>
+<p>Susanne writes:</p>
+<p>I think it's a variant of the old 'img as only inline-content' problem.
+<br>
+<a href="http://devedge.netscape.com/viewsource/2002/img-table/" title="Go to http://devedge.netscape.com/viewsource/2002/img-table/">http://devedge.netscape.com/...</a></p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt195" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 15th of November 2003, at 15:34 UTC">Posted 1 day, 3 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt185" title="View this related comment ↑">↑ Tony Crockford</a>, <a href="#cmnt186" title="View this related comment ↑">↑ Dunstan</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt712" title="View this related comment ↓">↓ Jayme</a></dd>
+</dl>
+</li>
+
+<li id="cmnt196" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Mini-d writes: "Why you don't set background-img to an image directly?"</p>
+<p>Two reasons:</p>
+<p>[1] Images have to be contained by a block-level element anyway, so I already have to wrap them in a 'p' or 'div'.</p>
+<p>[2] Doing it your way works fine until you want to add a border (as well as padding) to the image. Then the border appears on the outside of the drop shadow, which ruins the effect.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt196" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 15th of November 2003, at 15:45 UTC">Posted 1 day, 3 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt194" title="View this related comment ↑">↑ Mini-d</a></dd>
+</dl>
+</li>
+
+<li id="cmnt200">
+<dl>
+<dt><a href="http://imfo.ru" title="Go to http://imfo.ru">Mash:</a></dt>
+<dd><p>style="width: 260px; width: 270px"
+<br>
+IE5... argghh :)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt200" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 16th of November 2003, at 19:27 UTC">Posted 2 days, 7 hours after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt202" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt201">
+<dl>
+<dt><a href="http://imfo.ru" title="Go to http://imfo.ru">Mash:</a></dt>
+<dd><p>I mean BMH
+<br>
+style="width: 260px; w_ReverseSolidus_idth: 270px"</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt201" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 16th of November 2003, at 19:34 UTC">Posted 2 days, 7 hours after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt202" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt202" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Err, I _think_ what you're trying to say is that I should have included a CSS hack for IE5's box-model problems.</p>
+<p>Yes, I should have.</p>
+<p>Bad Dunstan.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt202" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 16th of November 2003, at 19:52 UTC">Posted 2 days, 7 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt200" title="View this related comment ↑">↑ Mash</a>, <a href="#cmnt201" title="View this related comment ↑">↑ Mash</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt206" title="View this related comment ↓">↓ Mash</a>, <a href="#cmnt210" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt206">
+<dl>
+<dt><a href="http://imfo.ru" title="Go to http://imfo.ru">Mash:</a></dt>
+<dd><p>"argghh" - because many people still use IE5. I hate it.</p>
+<p>Maybe you shouldn't.
+<br>
+Good Dunstan. :)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt206" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 16th of November 2003, at 21:36 UTC">Posted 2 days, 9 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt202" title="View this related comment ↑">↑ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt209">
+<dl>
+<dt><a href="http://rebelpixel.com" title="Go to http://rebelpixel.com">Markku:</a></dt>
+<dd><p>Dunstan, this is a really nice trick. I think I'll use this on my site soon. :)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt209" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 16th of November 2003, at 23:38 UTC">Posted 2 days, 11 hours after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt210" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt210" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Hey Markku,</p>
+<p>The only problem (as Mash points out) is that browsers that get the box model wrong have an 8px gap between the image and the shadow on the right hand side.</p>
+<p>Doesn't seem to be anything you can do about this since the width of the containing div is specified inline (and you don't seem to be able to do do BM hacks inline).</p>
+<p>The only way I can see around this is:</p>
+<p>[1] Say 'bugger you' to those browsers.
+<br>
+[2] Have all your images the same width, and specify the containing div width in the style sheet (where you can use the BM hack).
+<br>
+[3] Invent an inline version of the BM hack.</p>
+<p>Good luck!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt210" rel="bookmark" title="A permalink to this comment, which was made on Monday the 17th of November 2003, at 11:33 UTC">Posted 2 days, 23 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt202" title="View this related comment ↑">↑ Dunstan</a>, <a href="#cmnt209" title="View this related comment ↑">↑ Markku</a></dd>
+</dl>
+</li>
+
+<li id="cmnt223">
+<dl>
+<dt>Steven:</dt>
+<dd><p>I'm using IE. When i view the drop shadow examples on this page everything looks great. </p>
+<p>I'm just having a problem with the padding around the inside image. When i use the style everything works except the padding round the inside image. </p>
+<p>Why?</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt223" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 18th of November 2003, at 09:41 UTC">Posted 3 days, 21 hours after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt224" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt224" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Steven - I know it works fine in IE6, but that IE5x messes up because it doesn't get the box model right.</p>
+<p>Email me the IE version you're using and a screen shot and I'll see if I can help you out.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt224" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 18th of November 2003, at 12:18 UTC">Posted 4 days after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt223" title="View this related comment ↑">↑ Steven</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt228" title="View this related comment ↓">↓ Steven</a></dd>
+</dl>
+</li>
+
+<li id="cmnt228">
+<dl>
+<dt>Steven:</dt>
+<dd><p>where is your email address?
+<br>
+i'm thick.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt228" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 18th of November 2003, at 16:36 UTC">Posted 4 days, 4 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt224" title="View this related comment ↑">↑ Dunstan</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt229" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt229" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>It's on the 'Contact' page! :op</p>
+<p><a href="http://www.1976design.com/blog/contact/" title="Go to http://www.1976design.com/blog/contact/">http://www.1976design.com/bl...</a></p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt229" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 18th of November 2003, at 16:40 UTC">Posted 4 days, 4 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt228" title="View this related comment ↑">↑ Steven</a></dd>
+</dl>
+</li>
+
+<li id="cmnt230">
+<dl>
+<dt><a href="http://www.timandkathy.co.uk/" title="Go to http://www.timandkathy.co.uk/">Tim:</a></dt>
+<dd><p>Mini-d,</p>
+<p>I tried this div-less method (see <a href="http://cgi.timandkathy.co.uk/blog/archives/computing_internet/being_jakob_neilsen.php" title="Go to http://cgi.timandkathy.co.uk/blog/archives/computing_internet/being_jakob_neilsen.php">http://cgi.timandkathy.co.uk...</a> ) and couldn't get the top and left clearance that it needs to become realistic-looking.</p>
+<p>Did you have any more luck than I did?</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt230" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 18th of November 2003, at 17:45 UTC">Posted 4 days, 5 hours after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt194" title="View this related comment ↑">↑ Mini-d</a></dd>
+</dl>
+</li>
+
+<li id="cmnt250">
+<dl>
+<dt><a href="http://www.bloomfield.me.uk/" title="Go to http://www.bloomfield.me.uk/">Richard:</a></dt>
+<dd><p>I ran into a problem in IE6 that if the start of the text (for the decorative image setup) ran on straight after the close DIV ([/DIV]Hello World), then the left-padding was applied to the first line of this text.  I got round this by changing everything to use SPAN instead of DIV.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt250" rel="bookmark" title="A permalink to this comment, which was made on Friday the 21st of November 2003, at 16:03 UTC">Posted 1 week after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt251" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt251" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Hey Richard... hmm, well, OK, but remember that images have to be enclosed by a block-level element, and span isn't block-level, it's inline. Watch out for that if you're going to validate your pages (and of course you are, right?)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt251" rel="bookmark" title="A permalink to this comment, which was made on Friday the 21st of November 2003, at 16:11 UTC">Posted 1 week after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt250" title="View this related comment ↑">↑ Richard</a></dd>
+</dl>
+</li>
+
+<li id="cmnt351">
+<dl>
+<dt><a href="http://www.clagnut.com/" title="Go to http://www.clagnut.com/">Richard Rutter:</a></dt>
+<dd><p>I've implemented a similar version of this on Clagnut - same look - slightly different code. Because of the latout methods I am using, I couldn't use the negative margin trick, so I relatively positioned the img instead. Worked nicely. I also use an alpha-transparent shadow (which doesn't show up at all in IE/Win - if I could be bothered I could use a CSS hack or more likely a server-side technique to serve IE/Win with a gif instead) so that the background will show through nicely.</p>
+<p>One of the disadvantages of trying to do anything like this with CSS, specifically, wanting the containing block to shrink to the width of its content, is that block level elements are always sized to fill the width of their container. The only way around it is to float the block or give it a width to match the image.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt351" rel="bookmark" title="A permalink to this comment, which was made on Monday the 8th of December 2003, at 14:50 UTC">Posted 3 weeks, 3 days after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt352" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt352" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>I've thought about using a png as well and just using a '&gt;' selector in CSS to feed a gif to IE and PNG to Moz and the rest:</p>
+<p>// for IE
+<br>
+#content div.img-dec {
+<br>
+background: url(shadow.gif) bottom right no-repeat;
+<br>
+}</p>
+<p>// for Moz, Opera, etc
+<br>
+#content &gt; div.img-dec {
+<br>
+background: url(shadow.png) bottom right no-repeat;
+<br>
+}</p>
+<p>But as I only have a white background I didn't see the point in this case.</p>
+<p>"The only way around it is to float the block or give it a width to match the image."</p>
+<p>Yeah, that's a pain - it's easy enough to grab the image width using PHP and slip in the necessary CSS on the fly, but it would be easier if that didn't have to happen. Roll on CSS3 and drop shadows...</p>
+<p>You got a link to an example on your site? I couldn't find one :o/</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt352" rel="bookmark" title="A permalink to this comment, which was made on Monday the 8th of December 2003, at 15:01 UTC">Posted 3 weeks, 3 days after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt351" title="View this related comment ↑">↑ Richard Rutter</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt353" title="View this related comment ↓">↓ Richard Rutter</a></dd>
+</dl>
+</li>
+
+<li id="cmnt353">
+<dl>
+<dt><a href="http://www.clagnut.com/" title="Go to http://www.clagnut.com/">Richard Rutter:</a></dt>
+<dd><p>&gt; You got a link to an example on your site? I couldn't find one</p>
+<p>I've got two types of examples. In this post
+<br>
+<a href="http://www.clagnut.com/blog/264/" title="Go to http://www.clagnut.com/blog/264/">http://www.clagnut.com/blog...</a>
+<br>
+click the 'window' link in the third paragraph and an image should 'popup' over what you're reading. Click again to remove it. (What do you think about that idea? I like it but it seems 'wrong'.)</p>
+<p>A more straight forward image-in-post example is here:
+<br>
+<a href="http://www.clagnut.com/blog/244/" title="Go to http://www.clagnut.com/blog/244/">http://www.clagnut.com/blog...</a></p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt353" rel="bookmark" title="A permalink to this comment, which was made on Monday the 8th of December 2003, at 16:47 UTC">Posted 3 weeks, 3 days after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt352" title="View this related comment ↑">↑ Dunstan</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt355" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt355" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Rich, that popup idea is very cool!</p>
+<p>It feels 'wrong' to me as well though, I feel like I want windows architecture around it. I wonder if a more prominant, darker border might solve the issues we both obviously have with it?</p>
+<p>At the moment it's too much 'part of the background' to my mind. I wonder if a better border would help seperate it from the underlying content?</p>
+<p>But it is very cool, an excellent way of presenting images to quckly illustrate something. Good thinking, sir :o)</p>
+<p>And the simpler version, yes, it looks identical to mine (or mine to yours). Well done us :o)</p>
+<p>p.s. I'm not going to your site any more, those sidebars drive me mad with envy!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt355" rel="bookmark" title="A permalink to this comment, which was made on Monday the 8th of December 2003, at 17:16 UTC">Posted 3 weeks, 3 days after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt353" title="View this related comment ↑">↑ Richard Rutter</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt366" title="View this related comment ↓">↓ Richard Rutter</a></dd>
+</dl>
+</li>
+
+<li id="cmnt366">
+<dl>
+<dt><a href="http://www.clagnut.com/" title="Go to http://www.clagnut.com/">Richard Rutter:</a></dt>
+<dd><p>&gt; At the moment it's too much 'part of the background' to my
+<br>
+&gt; mind. I wonder if a better border would help seperate it
+<br>
+&gt; from the underlying content?</p>
+<p>Yeah, you could be right. I wanted a fairly subtle effect, but maybe this is too subtle. Not quite sure how to improve it yet...</p>
+<p>&gt; And the simpler version, yes, it looks identical to mine (or mine &gt; to yours). Well done us :o)</p>
+<p>They look like yours. Although, I didn't spot this explanatory post until after I had implemented them.</p>
+<p>&gt; p.s. I'm not going to your site any more, those sidebars drive me &gt; mad with envy!</p>
+<p>Just use the RSS feed like the rest of the world then :-)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt366" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 9th of December 2003, at 10:15 UTC">Posted 3 weeks, 3 days after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt355" title="View this related comment ↑">↑ Dunstan</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt367" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt367" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>"They look like yours. Although, I didn't spot this explanatory post until after I had implemented them."</p>
+<p>Oh yes, I wasn't implying anything there!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt367" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 9th of December 2003, at 10:19 UTC">Posted 3 weeks, 3 days after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt366" title="View this related comment ↑">↑ Richard Rutter</a></dd>
+</dl>
+</li>
+
+<li id="cmnt541">
+<dl>
+<dt>Bkw:</dt>
+<dd><p>Lovely method, and much better than the (technically disgusting) tables I've been using.</p>
+<p>One problem I have, is that I can not figure out a graceful way to center an image with the drop shadow in place ... except for nesting the &lt;div class="img_dec"&gt; inside another &lt;div style="text-align: center"&gt; ... which is, again, technically disgusting.</p>
+<p>I'd be curious to see if anyone has any thoughts on this.</p>
+<p>cheers,
+<br>
+-ben</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt541" rel="bookmark" title="A permalink to this comment, which was made on Monday the 22nd of December 2003, at 21:32 UTC">Posted 1 month, 1 week after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt578">
+<dl>
+<dt>Simplefix:</dt>
+<dd><p>ok
+<br>
+i understand the point of using css to add this drop shadow. And that all of u want to feel speacial by doing so , and then write about it in blogs so u can make ur point and see if any1 else thinks, ur as speacial as 'u think' u are for 'coding' valid css.</p>
+<p>BUT Y NOT JUST DO IT ALL IN PHOTOSHOP THEN U WONT HAVE TO CODE SHIT...LMFAO AHAHAHAHAHAHAHHH</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt578" rel="bookmark" title="A permalink to this comment, which was made on Friday the 26th of December 2003, at 23:42 UTC">Posted 1 month, 1 week after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt580" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt579">
+<dl>
+<dt>Idiot1:</dt>
+<dd><p>this site sucks in IE6.</p>
+<p>I mean thenames of peoplpe that have posted comments are overlapping the order of the comments itself.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt579" rel="bookmark" title="A permalink to this comment, which was made on Friday the 26th of December 2003, at 23:43 UTC">Posted 1 month, 1 week after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt581" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt580" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>"BUT Y NOT JUST DO IT ALL IN PHOTOSHOP THEN U WONT HAVE TO CODE SHIT...LMFAO AHAHAHAHAHAHAHHH"</p>
+<p>Why? Because, Mr Simplefix, the adding of drop shadows to images within Photoshop is hugely limiting.</p>
+<p>You can't resize the image without the drop shadows resizing; you can't alter the background colour of your site without having to alter every single image you ever made; you can't use the single image you uploaded for many different purposes, because it'll always have a shadow stuck on it; people will be downloading drop shadow data for each image they view on your site (rather than one, cached image when using CSS); and finally, if you ever change your mind about using drop shadows on your site, you'd have to edit every image you ever uploaded.</p>
+<p>It's actually pretty obvious.</p>
+<p>Adding drop shadows in Photoshop is kind of the same as adding in presentation markup in your web pages - you 'corrupt' your data with presentational elements.</p>
+<p>So, rather than laughing your 'flipping' arse off, why don't you think about the future of a given site, think about the nature of the information being stored, and think about leaving your name and contact details when you leave a comment like that instead of being a cowardly prick.</p>
+<p>Thanks for writing :o)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt580" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 27th of December 2003, at 00:48 UTC">Posted 1 month, 1 week after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt578" title="View this related comment ↑">↑ Simplefix</a></dd>
+</dl>
+</li>
+
+<li id="cmnt581" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Yup, it has to be fixed.
+<br>
+Thank you for your continued support.
+<br>
+I'll try and send you a 'Friends of Dunstan' badge or something.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt581" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 27th of December 2003, at 00:49 UTC">Posted 1 month, 1 week after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt579" title="View this related comment ↑">↑ Idiot1</a></dd>
+</dl>
+</li>
+
+<li id="cmnt614">
+<dl>
+<dt>Tony C:</dt>
+<dd><p>Dunstan,</p>
+<p>Thanks for the excellent write-up on your use of CSS for drop shadows.</p>
+<p>I love your explanation to Simplefix on why this is a vastly superior way to adopt drop shadows, rather than creating them by hand in Photoshop. I couldn't even imagine the chore of adding/removing drop shadowns on hundreds of images, when simply wrapping a div around the image does the trick just fine.</p>
+<p>I do wonder, though, does writing like this:</p>
+<p>"...so u can make ur point and see if any1 else thinks, ur as speacial as 'u think' u are..."</p>
+<p>make one feel "special", or are some people just lazy? Has the English language been hijacked? Hmmm...</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt614" rel="bookmark" title="A permalink to this comment, which was made on Monday the 29th of December 2003, at 21:36 UTC">Posted 1 month, 2 weeks after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt712">
+<dl>
+<dt><a href="http://www.jaymekohler.com" title="Go to http://www.jaymekohler.com">Jayme:</a></dt>
+<dd><p>Great effect Dunstan. Your shadow effects render fine in my IE and Moz, but my shadow effects get screwed up in Moz. I modified the CSS a bit to get them floating left or right, but I don't see what's wrong. Here it is: </p>
+<p>.img-shadow-tl, .img-shadow-tr {
+<br>
+ 	background-image: url(/images/shadow.gif);
+<br>
+	background-position: bottom right;
+<br>
+	background-repeat: no-repeat;
+<br>
+	padding: 0px;
+<br>
+	position: relative;
+<br>
+}
+<br>
+.img-shadow-tl {
+<br>
+        margin: 10px 10px 5px 0px;
+<br>
+	clear: left;
+<br>
+	float: left;
+<br>
+}
+<br>
+.img-shadow-tr {
+<br>
+        margin: 10px 0px 5px 10px;
+<br>
+	clear: right;
+<br>
+	float: right;
+<br>
+}
+<br>
+.img-shadow-tl img, .img-shadow-tr img, {
+<br>
+	background-color: #fff;
+<br>
+	border: 1px solid #000;
+<br>
+        margin: -5px 5px 5px -5px;
+<br>
+	display: block;
+<br>
+	padding: 2px;
+<br>
+	position: relative;
+<br>
+}</p>
+<p>The page I'm experimenting with is <a href="http://www.jaymekohler.com/index_new.htm" title="Go to http://www.jaymekohler.com/index_new.htm">http://www.jaymekohler.com/i...</a>. Any suggestions?</p>
+<p>Jayme</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt712" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 6th of January 2004, at 00:04 UTC">Posted 1 month, 3 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt195" title="View this related comment ↑">↑ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt784">
+<dl>
+<dt><a href="http://www.designdetector.com" title="Go to http://www.designdetector.com">Chris Hester:</a></dt>
+<dd><p>Thanks for the link. The problem I see with your approach is that the shadows are cut cleanly at the bottom left and top right edges. To me this looks wrong, hence my smoother approach. There should be some pixels to fade the edges away, like a real shadow. Otherwise, nice work!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt784" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 11th of January 2004, at 23:13 UTC">Posted 1 month, 4 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt785" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt785" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>That's true Chris, and yes, it's a shame that happens. But the lack of extra mark-up means it's a trade-off I'm happy with. Horses for courses and all that :o)</p>
+<p>Thanks for stopping by, and for your comment.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt785" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 11th of January 2004, at 23:44 UTC">Posted 1 month, 4 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt784" title="View this related comment ↑">↑ Chris Hester</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1006">
+<dl>
+<dt>Doesnt Work:</dt>
+<dd><p>Hi, I tried this example, exactly as it is specified here. But it doesn't work neither on IE nor on mozilla. Your site looks ok though. I have no idea how come the drop shadow thing doesn't work in my site, but it is as if you wake up one day and everbody else seem to be acting weird. I have no idea how come your site works but mine doesn't. I know I can figure it out after spending 2-3 hours, but I just don't know. I wrote this just to report that, there is definitely something that makes this thing not work in certain cases. Btw, just for the record, I am extremely good at these stuff, so I am not a newbie. Just to make sure that you take my notice seriously and in case others report the similar stories, someday this issue may be resolved.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1006" rel="bookmark" title="A permalink to this comment, which was made on Thursday the 29th of January 2004, at 04:06 UTC">Posted 2 months, 2 weeks after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1040">
+<dl>
+<dt>Laurent Angeli:</dt>
+<dd><p>hi,</p>
+<p>thanks for this method which i found it is great !
+<br>
+Just one question :
+<br>
+Can you explain me what is the differences between an illustrative image and a decorative one ?
+<br>
+It is not very clear for me :)
+<br>
+Thanks in advance !</p>
+<p>Laurent</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1040" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 31st of January 2004, at 19:25 UTC">Posted 2 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt1062" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1059">
+<dl>
+<dt>Karl Bedingfield:</dt>
+<dd><p>Hi Dunstun,</p>
+<p>This really is great :)</p>
+<p>When using the illustrative class do you always have to specify an additional 10px in the 'style="width: 270px;'?</p>
+<p>So if my image is 160px w I would use 170px for the 'style="width:'</p>
+<p>Thanks
+<br>
+Karl</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1059" rel="bookmark" title="A permalink to this comment, which was made on Monday the 2nd of February 2004, at 10:22 UTC">Posted 2 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt1063" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1062" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Laurent, the only difference is that a decorative image floats off to the right, and is really there only to add decoration to the post. An illustrative image sits on the left and disrupts the flow of text (it's 'display: block') - it's there to illustrate a point or technique.</p>
+<p>Those are just my distinctions, but the style difference is that one is floated right, and one is displayed block on the left.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1062" rel="bookmark" title="A permalink to this comment, which was made on Monday the 2nd of February 2004, at 12:13 UTC">Posted 2 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1040" title="View this related comment ↑">↑ Laurent Angeli</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1063" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Karl, that's right. And the reason it's 10px is that there is 4px of padding and 1px of margin on either side of the image:</p>
+<p>1px + 4px + image width + 4px + 1px = image width + 10px</p>
+<p>So that's how wide your containing div has to be.
+<br>
+If you change the padding or border then you'll have to alter your div width.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1063" rel="bookmark" title="A permalink to this comment, which was made on Monday the 2nd of February 2004, at 12:16 UTC">Posted 2 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1059" title="View this related comment ↑">↑ Karl Bedingfield</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1272">
+<dl>
+<dt><a href="http://puredesign.ch/" title="Go to http://puredesign.ch/">Oliver:</a></dt>
+<dd><p>I modified this a bit so I can add captions. Well, there are some drawbacks: it's questionable if that is semantically correct (well, I think it ain't), and it relies on the BMH (not necessarily, though), and I needed to add an extra &lt;div&gt;. But still, I thought I'd like to share.</p>
+<p>Here's my CSS:</p>
+<p>div.newsimg {
+<br>
+background: url(/images/dropshadow.gif) bottom right no-repeat;
+<br>
+float: right;
+<br>
+margin: 10px 5px;
+<br>
+padding: 0;
+<br>
+text-align:center;
+<br>
+font-size:xx-small;width:300px;
+<br>
+font-size:xx-small;voice-family:""}"";voice-family:inherit;
+<br>
+font-size:x-small;width:310px;
+<br>
+}
+<br>
+html&gt;body .newsimg{font-size:x-small;width:310px;}</p>
+<p>div.newsimg div {position: relative;top:-5px;left:-5px;border: 1px solid #a9a9a9;}</p>
+<p>div.newsimg img {
+<br>
+background-color: #fff;
+<br>
+margin: 4px;
+<br>
+}</p>
+<p>And here's the HTML:</p>
+<p>&lt;div class="newsimg"&gt;
+<br>
+&lt;div&gt;&lt;img src="/images/your-image-here.jpg" alt="alternate text here"&gt;
+<br>
+&lt;p&gt;Caption goes here&lt;/p&gt;
+<br>
+&lt;/div&gt;
+<br>
+&lt;/div&gt;</p>
+<p>It workes for me on IE 5, Mozilla (1.2.1) and Opera (7.23).</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1272" rel="bookmark" title="A permalink to this comment, which was made on Friday the 13th of February 2004, at 09:01 UTC">Posted 3 months after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1301">
+<dl>
+<dt><a href="http://www.88template.co.uk" title="Go to www.88template.co.uk">Lee:</a></dt>
+<dd><p>Dunst, just a quick note to say cheers, must have come after the glithes were ironed out, works fine in IE 5-6 and Moz for me and looks greate (better than the pure CSS drop shadows I saw).</p>
+<p>Using it on a new site I'm working on (see link).</p>
+<p>Thanks again, greate effect.</p>
+<p>Lee</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1301" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 17th of February 2004, at 10:48 UTC">Posted 3 months after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1591">
+<dl>
+<dt>Amir:</dt>
+<dd><p>The problem with this method, is that you can't add a Drop shadow to a centered picture without defining a width to the div. Or am I wrong?</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1591" rel="bookmark" title="A permalink to this comment, which was made on Wednesday the 3rd of March 2004, at 15:24 UTC">Posted 3 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt1592" title="View this related comment ↓">↓ Dunstan</a>, <a href="#cmnt2289" title="View this related comment ↓">↓ Jennie</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1592" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>No, you're right, that's not possible with my simple method.</p>
+<p>But see here:
+<br>
+<a href="http://www.alistapart.com/articles/cssdropshadows/" title="Go to http://www.alistapart.com/articles/cssdropshadows/">http://www.alistapart.com/ar...</a></p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1592" rel="bookmark" title="A permalink to this comment, which was made on Wednesday the 3rd of March 2004, at 15:49 UTC">Posted 3 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1591" title="View this related comment ↑">↑ Amir</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1607">
+<dl>
+<dt>Amir:</dt>
+<dd><p>Dunstan, ALA's article deals too only with floated divs. No solution for a centered picture...</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1607" rel="bookmark" title="A permalink to this comment, which was made on Wednesday the 3rd of March 2004, at 22:53 UTC">Posted 3 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt1608" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1608" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Oh, well then you're buggered. Sorry! :o)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1608" rel="bookmark" title="A permalink to this comment, which was made on Wednesday the 3rd of March 2004, at 23:07 UTC">Posted 3 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1607" title="View this related comment ↑">↑ Amir</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1618">
+<dl>
+<dt>Anthony:</dt>
+<dd><p>Hello thanks for this great idea.  It works great.  I only have one problem I was wondering if somebody could help with.  If I'm using the illustrative method...how could I get 2 images to display inline.  If I change it to display:inline...the shadow is gone in IE and cut off in Firebird.  Any ideas how to display to images next to one another without using a table.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1618" rel="bookmark" title="A permalink to this comment, which was made on Thursday the 4th of March 2004, at 16:33 UTC">Posted 3 months, 3 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt1620" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1620" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>Check out my (messy) CSS file, and a post like this one:
+<br>
+<a href="http://1976design.com/blog/archive/2004/02/27/snow-torchlight/" title="Go to http://1976design.com/blog/archive/2004/02/27/snow-torchlight/">http://1976design.com/blog/a...</a></p>
+<p>The style you're interested in is called 'img-gal'.</p>
+<p>That should hopefully do what you want.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1620" rel="bookmark" title="A permalink to this comment, which was made on Thursday the 4th of March 2004, at 17:49 UTC">Posted 3 months, 3 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1618" title="View this related comment ↑">↑ Anthony</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1888">
+<dl>
+<dt><a href="http://www.rtwclan.com" title="Go to www.rtwclan.com">Mailman:</a></dt>
+<dd><p>Thanks Dunstan, this is a great example of CSS usage. You know there is always people sitting in the dark, hiding to just jump on a chance to give their negative point on everything....those fall in the category "You don't like it! walk away"</p>
+<p>Great job!(excuse my writting, English is like my fifth language) keep smiling, it's free and contagious :)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1888" rel="bookmark" title="A permalink to this comment, which was made on Thursday the 25th of March 2004, at 16:39 UTC">Posted 4 months, 1 week after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1971">
+<dl>
+<dt><a href="http://www.mcdowellcrook.com" title="Go to http://www.mcdowellcrook.com">Mcdowell:</a></dt>
+<dd><p>"...then you could always set a transparent background and save the image as a PNG instead. (Be sure to check the current browser support for this though.)"</p>
+<p>Any tips on how to do this?</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1971" rel="bookmark" title="A permalink to this comment, which was made on Monday the 29th of March 2004, at 04:29 UTC">Posted 4 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt1980" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt1980" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>The simplest way would be to grab the PNG file from Sergio's follow-up article:
+<br>
+<a href="http://www.alistapart.com/articles/cssdropshadows/" title="Go to http://www.alistapart.com/articles/cssdropshadows/">http://www.alistapart.com/ar...</a></p>
+<p>Otherwise just use the photoshop file I supplied (in my post, above), remove the white background, and then save as a PNG.</p>
+<p>HTH</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt1980" rel="bookmark" title="A permalink to this comment, which was made on Monday the 29th of March 2004, at 10:20 UTC">Posted 4 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1971" title="View this related comment ↑">↑ Mcdowell</a></dd>
+</dl>
+</li>
+
+<li id="cmnt2003">
+<dl>
+<dt><a href="http://www.asdren.com/" title="Go to http://www.asdren.com/">Asdren:</a></dt>
+<dd><p>Awesome technique.  No more messing around with photoshop!
+<br>
+Thanks.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt2003" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 30th of March 2004, at 05:08 UTC">Posted 4 months, 2 weeks after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt2048">
+<dl>
+<dt><a href="http://www.chrisrutledge.net" title="Go to http://www.chrisrutledge.net">Chris:</a></dt>
+<dd><p>First things first: I like it. In my page design (not obvious on my home page) is try try to get away from block images. So I wondered what you thought of this idea:</p>
+<p>Create a 2x2 table with no border, margins, padding etc. In the top left cell (cell 1) put your major image.</p>
+<p>Create a gif/jpeg that contains the shadow image (a gradient, for example) that is only one pixel high, and another, rotated by 90 degrees that is only 1 pixel wide. These can then be replaced into the top-right cell and bottom left cell respectively. This will greatly reduce the memory ivolved. As for the bottom right cell - it's up to you. Either an overlap of cells (row-col- span) or an entirley new image.</p>
+<p>If your shadow is 5 pixels, this method gives you a grand total of 35 downloaded pixels, rather than the 640000 described above.</p>
+<p>Just a thought.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt2048" rel="bookmark" title="A permalink to this comment, which was made on Wednesday the 31st of March 2004, at 16:42 UTC">Posted 4 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp">Inspired: <a href="#cmnt2049" title="View this related comment ↓">↓ Dunstan</a></dd>
+</dl>
+</li>
+
+<li id="cmnt2049" class="dunstan">
+<dl>
+<dt>Dunstan:</dt>
+<dd><p>"Create a 2x2 table..."</p>
+<p>Oooh, let me stop you there, Chris. This code is all about achieving a drop-shadow effect without having to resort to extraneous mark-up, and _especially_ not resorting to tables for what is most certainly not tabular data.</p>
+<p>I get where you're coming from though, and yes, your images would be smaller than mine, but: (a) you'd have that extra table markup to donwload, (b) it's not a valid use of tables, and (c) the image is pretty small anyway.</p>
+<p>We're quite big on trying to do things by the book here, "Standards are our watch word" and all that :o)</p>
+<p>But thanks for the idea, and please feel free to visit again.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt2049" rel="bookmark" title="A permalink to this comment, which was made on Wednesday the 31st of March 2004, at 16:56 UTC">Posted 4 months, 2 weeks after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt2048" title="View this related comment ↑">↑ Chris</a></dd>
+</dl>
+</li>
+
+<li id="cmnt2289">
+<dl>
+<dt>Jennie:</dt>
+<dd><p>This worked great!  I was fudging around with dropshadows using filter:shadow but this is much, much better.  Thanks a ton for posting it.  :-)  </p>
+<p>&gt;The problem with this method, is that you can't add a Drop shadow to a centered picture without defining a width to the div. Or am I wrong?</p>
+<p>I got around this (probably in simple Thrag-hit-with-club fashion) by placing the image in a basic table.  Then I don't have to specify the image width - it's enclosed automatically.  </p>
+<p>Like so: </p>
+<p>&lt;center&gt;
+<br>
+&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+<br>
+&lt;div class="img-ilus"&gt;&lt;img SRC="thing.jpg"&gt;&lt;/div&gt;
+<br>
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</p>
+<p>Thanks again!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt2289" rel="bookmark" title="A permalink to this comment, which was made on Friday the 16th of April 2004, at 11:53 UTC">Posted 5 months after the fact</a></dd>
+<dd class="cmnt-insp-by">Inspired by: <a href="#cmnt1591" title="View this related comment ↑">↑ Amir</a></dd>
+</dl>
+</li>
+
+<li id="cmnt2348">
+<dl>
+<dt><a href="http://hosting.blogdrive.com" title="Go to http://hosting.blogdrive.com">Waynes:</a></dt>
+<dd><p>Thanks people for the effort. This is just what I was looking for... ;)</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt2348" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 20th of April 2004, at 01:48 UTC">Posted 5 months, 1 week after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt2982">
+<dl>
+<dt><a href="http://langworth.com" title="Go to http://langworth.com">Ian:</a></dt>
+<dd><p>Thanks so much for putting this together. I instantly created my own shadow and plopped some CSS on my site. Well done!</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt2982" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 27th of June 2004, at 21:07 UTC">Posted 7 months, 2 weeks after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt3748">
+<dl>
+<dt><a href="http://www.greenparrotdesign.net" title="Go to www.greenparrotdesign.net">Green Parrot:</a></dt>
+<dd><p>Thanks Dunstan just what i was looking for. I have implemented it here <a href="http://www.wellbeingshow.co.uk/mock/3/f1_day1.htm" title="Go to http://www.wellbeingshow.co.uk/mock/3/f1_day1.htm">http://www.wellbeingshow.co....</a> (it will probably move up out of /mock/3 into main directory when the site goes live l8 next week).</p>
+<p>The site will be dynamic database driven, and in the admin i was going to give the user the choice of background colours per image, any thoughts on the best way of implementing this. If i wrote the style in a external file and then change local to the image the colour to be used, would the style inherit all other attributes from external file for this block, aswell as keeping local change. Or would i have to write the whole style directly into the &lt;div&gt; statement.</p>
+<p>Also i would like to increase the right and bottom background, so that the background is further from image, any ideas.</p>
+<p>thanks again</p>
+<p>Roy</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt3748" rel="bookmark" title="A permalink to this comment, which was made on Thursday the 2nd of September 2004, at 09:29 UTC">Posted 9 months, 3 weeks after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt4727">
+<dl>
+<dt><a href="http://people.ucsc.edu/~kchau" title="Go to http://people.ucsc.edu/~kchau">Kalu:</a></dt>
+<dd><p>When designing the whole website how to approach the css. There are just too many classes we will end up having, what naming convention to use how to minimize the number of classes.</p>
+<p>I wonder / wonder / wonder ?</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt4727" rel="bookmark" title="A permalink to this comment, which was made on Saturday the 11th of December 2004, at 00:29 UTC">Posted 1 year after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt5359">
+<dl>
+<dt><a href="http://livingtomorrow.blogspot.com/" title="Go to http://livingtomorrow.blogspot.com/">Danila:</a></dt>
+<dd><p>I'd suggest you add a bit more grey to the shadow up and left (or replace all white with grey). It would normally be obscured by the photo, but would help in case of some minor CSS quirks/bugs and might look better when the page is only partially loaded.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt5359" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 24th of May 2005, at 17:13 UTC">Posted 1 year, 6 months after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt5648">
+<dl>
+<dt><a href="http://www.ozric.net" title="Go to www.ozric.net">Paul:</a></dt>
+<dd><p>Excellent.  I've been trying to do something like this for a while now.  It works in both IE6 and Firefox and that's all I care about ;)</p>
+<p>Thank you.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt5648" rel="bookmark" title="A permalink to this comment, which was made on Thursday the 15th of September 2005, at 16:27 UTC">Posted 1 year, 10 months after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt5657">
+<dl>
+<dt><a href="http://www.unet.univie.ac.at/~a0442336/php" title="Go to http://www.unet.univie.ac.at/~a0442336/php">Alex:</a></dt>
+<dd><p>Hi. I accidentally found your page. Funny enough, I did the trick not really differently from the way you did it.</p>
+<p>I first of all tried to use negative margin but IE seems to interpret the -5px top correctly but not the -5 on the left side. So, instead of using margin: -5px 5px 5px -5px, I use the following:
+<br>
+.shadow img {
+<br>
+ margin: -5px 0px 5px 0px;
+<br>
+ left: -5px;
+<br>
+ (...)
+<br>
+}</p>
+<p>We are using position:relative anyways.</p>
+<p>Opera 8.5, Firefox 1.0.6 and IE 6 have no problems with that. So far not tested with Safari or on Linux.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt5657" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 20th of September 2005, at 18:52 UTC">Posted 1 year, 10 months after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt5763">
+<dl>
+<dt>Christian:</dt>
+<dd><p>Hi </p>
+<p>i recently came across and article in drop shadow with css and then came across this site. i am very new to dreamweaver and trying to get into design and web building. i have found very usewful site and comemts about diferent issues on the web. anyway i would like to ask if this effect can be inplemented to a table and not an image? and how? please can anyone can show me some step by step? much appreciated</p>
+<p>christian</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt5763" rel="bookmark" title="A permalink to this comment, which was made on Tuesday the 6th of December 2005, at 11:26 UTC">Posted 2 years after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt5778">
+<dl>
+<dt><a href="http://www.twg.com.au" title="Go to www.twg.com.au">Andre Gelderblom:</a></dt>
+<dd><p>When replacing IMG with DIV so that you can add text the listapart version had problems with the left border in IE.</p>
+<p>Here is what worked for me.</p>
+<p>.err-shadow {
+<br>
+	background: url(../_images/global/shadow.gif) no-repeat bottom right;
+<br>
+	margin: 0 0 20px 25px;
+<br>
+	padding: 0;
+<br>
+	border: 1px solid #ffffff; // Set this to your BG colour
+<br>
+}</p>
+<p>.err-shadow div {
+<br>
+	background-color: #ffffcc;
+<br>
+	border: 1px solid #a9a9a9;
+<br>
+	display: block;
+<br>
+	margin: -5px 5px 5px -5px;
+<br>
+	padding: 4px;
+<br>
+	position: relative;
+<br>
+}</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt5778" rel="bookmark" title="A permalink to this comment, which was made on Sunday the 11th of December 2005, at 08:50 UTC">Posted 2 years after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt6242">
+<dl>
+<dt>Lars Henning:</dt>
+<dd><p>I love this technique.  However, I can't figure out how to center images when they have the drop shadow applied.  I think this is because of the 'float: left' parameter which is applied to the drop shadow &lt;div&gt;.  Is it possible to center the images with this technique without using tables?</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt6242" rel="bookmark" title="A permalink to this comment, which was made on Monday the 27th of March 2006, at 22:20 UTC">Posted 2 years, 4 months after the fact</a></dd>
+</dl>
+</li>
+
+<li id="cmnt6269">
+<dl>
+<dt><a href="http://www.wildernessquest.ca" title="Go to http://www.wildernessquest.ca">Timothy:</a></dt>
+<dd><p>What do you know. All of this time I have been adding drop shadows to all of my images. I didn't know that I could make one drop shadow and add it to all of the images at once. Great tutorial. Thanks.</p>
+</dd>
+<dd class="cmnt-posted"><a href="/blog/archive/2003/11/14/shadows/#cmnt6269" rel="bookmark" title="A permalink to this comment, which was made on Friday the 7th of April 2006, at 19:15 UTC">Posted 2 years, 4 months after the fact</a></dd>
+</dl>
+</li>
+
+</ol>
+
+<p class="jump"><a href="#left" title="Jump up to the start of the post ↑">Jump up to the start of the post</a> ↑</p>
+</div>
+
+<hr>
+
+<div id="cmnts-add">
+<h2><a href="#cmnts-add" title="A permalink to the comment form for this post">Add your comment</a></h2>
+		
+<p><small>I'm sorry, but comments can no longer be posted to this blog.</small></p>
+</div>
+</form>
+
+<hr>
+</div>
+
+
+
+
+<!-- right -->
+<div id="right">
+<div id="tabs">
+<div class="tab-active" id="tab-nav">
+<h2>Navigation</h2>
+
+<ul class="nav" id="nav-main">
+<li class="one"><a href="/blog/" accesskey="1" title="Home">Home</a></li>
+<li class="two"><a href="/blog/archive/" accesskey="a" title="View all post titles in the archive">Archive</a></li>
+<li class="three"><a href="/blog/colophon/" accesskey="c" title="Read more about this site and its author">Colophon</a></li>
+<li class="four"><a href="/blog/contact/" accesskey="9" title="Contact Dunstan">Contact</a></li>
+<li class="five"><a href="/blog/reading/" accesskey="r" title="Books and authors I’d recommend">Reading</a></li>
+<li class="six"><a href="/blog/syndicate/" accesskey="s" title="View XML versions of this news feed">Syndicate</a></li>
+</ul>
+
+<form action="/blog/search/" id="search-form" method="get">
+<div><input accesskey="4" id="search-input" name="q" size="20" value="Search the archives"> <input id="search-submit" type="submit" value="Search the blog archives"></div>
+</form>
+<hr>
+
+
+<h2>Relative links</h2>
+
+<ul id="rel-links">
+<li><a href="/blog/archive/2003/11/12/comments/" accesskey="p" rel="prev" title="← A visual guide to navigating blog comments">← prev</a></li>
+<li><a href="/blog/archive/2003/11/14/" accesskey="u" rel="up" title="↑ 14th November 2003">↑ up</a></li>
+<li><a href="/blog/archive/2003/11/16/spam/" accesskey="n" rel="next" title="Neutralising spam →">next →</a></li>
+</ul>
+
+<!-- safari hack --> <div style="margin-bottom: -35px;">&nbsp;</div>
+<hr>
+
+
+<h2><a href="/blog/archive/2003/11/" title="View post titles for November 2003">November</a> <a href="/blog/archive/2003/" title="View post titles for 2003">2003</a></h2>
+
+<table border="1" cellpadding="0" cellspacing="0" id="cal" summary="The calendar month of November and links to any posts that occured within that month">
+<thead>
+<tr>
+<th abbr="Monday" scope="col" title="Monday">Mon</th>
+<th abbr="Tuesday" scope="col" title="Tuesday">Tue</th>
+<th abbr="Wednesday" scope="col" title="Wednesday">Wed</th>
+<th abbr="Thursday" scope="col" title="Thursday">Thu</th>
+<th abbr="Friday" scope="col" title="Friday">Fri</th>
+<th abbr="Saturday" scope="col" title="Saturday">Sat</th>
+<th abbr="Sunday" scope="col" title="Sunday">Sun</th>
+</tr>
+</thead>
+
+<tfoot>
+<tr>
+<th abbr="October" colspan="2" id="month-prev"><a href="/blog/archive/2003/10/" rel="prev" title="← View posts for October 2003">← October</a></th>
+<th colspan="3"><a href="/blog/archive/2003/11/" title="View posts for November 2003">November</a></th>
+<th abbr="December" colspan="2" id="month-next"><a href="/blog/archive/2003/12/" rel="next" title="View posts for December 2003 →">December →</a></th>
+</tr>
+</tfoot>
+
+<tbody>
+<tr>
+<td class="no-day" colspan="5">&nbsp;</td>
+<td class="link-day"><a href="/blog/archive/2003/11/1/" title="View posts for 1st November 2003: Allergy testing">1</a></td>
+<td>2</td>
+</tr>
+
+<tr>
+<td class="link-day"><a href="/blog/archive/2003/11/3/" title="View posts for 3rd November 2003: Visual oddness | Resurfacing the yard">3</a></td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td class="link-day"><a href="/blog/archive/2003/11/7/" title="View posts for 7th November 2003: Musica | Return of the pen | That dog is up to something">7</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/8/" title="View posts for 8th November 2003: Leigh village press up record smashed">8</a></td>
+<td>9</td>
+</tr>
+
+<tr>
+<td class="link-day"><a href="/blog/archive/2003/11/10/" title="View posts for 10th November 2003: Site updates">10</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/11/" title="View posts for 11th November 2003: Opera and its Small-Screen Rendering technology">11</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/12/" title="View posts for 12th November 2003: A visual guide to navigating blog comments">12</a></td>
+<td>13</td>
+<td id="link-this-day"><a href="/blog/archive/2003/11/14/" title="View posts for 14th November 2003: Easy CSS drop shadows">14</a></td>
+<td>15</td>
+<td class="link-day"><a href="/blog/archive/2003/11/16/" title="View posts for 16th November 2003: Neutralising spam">16</a></td>
+</tr>
+
+<tr>
+<td>17</td>
+<td class="link-day"><a href="/blog/archive/2003/11/18/" title="View posts for 18th November 2003: Brickwork | Email revisited: Tucson, Arizona (22nd April, 2002) | What’s playing">18</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/19/" title="View posts for 19th November 2003: Slightly scary | Worth the wait? | Worth the wait?">19</a></td>
+<td>20</td>
+<td class="link-day"><a href="/blog/archive/2003/11/21/" title="View posts for 21st November 2003: Nice Titles revised | Dilbert">21</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/22/" title="View posts for 22nd November 2003: Come on England">22</a></td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>24</td>
+<td class="link-day"><a href="/blog/archive/2003/11/25/" title="View posts for 25th November 2003: Javascript image captions | Talking of Daisy | Talking of Daisy | XML feed moving to new location">25</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/26/" title="View posts for 26th November 2003: Increase my what?">26</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/27/" title="View posts for 27th November 2003: Googley woogley">27</a></td>
+<td class="link-day"><a href="/blog/archive/2003/11/28/" title="View posts for 28th November 2003: Shhh, it’s a secret">28</a></td>
+<td>29</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+
+
+<hr>
+
+
+<h2>Meta searches</h2>
+
+<ul id="nav-meta">
+<li><a href="/blog/archive/domain/" title="View a list of all the domains that have been linked to in this blog">Blogged domains <small>(197)</small></a></li>
+<li><a href="/blog/archive/people/" title="View a list of all the people mentioned in this blog">Blogged people <small>(117)</small></a></li>
+<li><a href="/blog/archive/commentators/" title="View a list of all the people who have left comments on this blog">Blog commentators <small>(1783)</small></a></li>
+</ul>
+
+<hr>
+
+
+<h2>Post categories</h2>
+
+<ul id="cat-list">
+<li><a href="/blog/archive/blogmarks/" title="View the ‘Blogmarks’ archive (285 posts)">Blogmarks <small>(285)</small></a></li>
+<li><a href="/blog/archive/family/" title="View the ‘Family’ archive (19 posts)">Family <small>(19)</small></a></li>
+<li><a href="/blog/archive/fun/" title="View the ‘Fun’ archive (47 posts)">Fun <small>(47)</small></a></li>
+<li><a href="/blog/archive/nature/" title="View the ‘Nature’ archive (19 posts)">Nature <small>(19)</small></a></li>
+<li><a href="/blog/archive/photo/" title="View the ‘Photo’ archive (48 posts)">Photo <small>(48)</small></a></li>
+<li><a href="/blog/archive/poetry/" title="View the ‘Poetry’ archive (4 posts)">Poetry <small>(4)</small></a></li>
+<li><a href="/blog/archive/site-news/" title="View the ‘Site news’ archive (30 posts)">Site news <small>(30)</small></a></li>
+<li><a href="/blog/archive/video/" title="View the ‘Video’ archive (5 posts)">Video <small>(5)</small></a></li>
+</ul>
+
+<hr>
+
+
+<h2>Posts by year and month</h2>
+
+
+<ul class="year-list">
+<li class="year"><a href="/blog/archive/2005/" rel="bookmark" title="View post titles for 2005">2005</a>
+<ul class="month-list">
+	<li class="month"><a href="/blog/archive/2005/07/" rel="bookmark" title="View posts for July 2005 (1 post)">July <small>(1)</small></a></li>
+	<li class="month"><a href="/blog/archive/2005/03/" rel="bookmark" title="View posts for March 2005 (2 posts)">March <small>(2)</small></a></li>
+	<li class="month"><a href="/blog/archive/2005/02/" rel="bookmark" title="View posts for February 2005 (3 posts)">February <small>(3)</small></a></li>
+	<li class="month"><a href="/blog/archive/2005/01/" rel="bookmark" title="View posts for January 2005 (24 posts)">January <small>(24)</small></a></li>
+</ul>
+</li>
+
+<li class="year"><a href="/blog/archive/2004/" rel="bookmark" title="View post titles for 2004">2004</a>
+<ul class="month-list">
+	<li class="month"><a href="/blog/archive/2004/11/" rel="bookmark" title="View posts for November 2004 (8 posts)">November <small>(8)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/10/" rel="bookmark" title="View posts for October 2004 (16 posts)">October <small>(16)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/09/" rel="bookmark" title="View posts for September 2004 (11 posts)">September <small>(11)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/08/" rel="bookmark" title="View posts for August 2004 (10 posts)">August <small>(10)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/07/" rel="bookmark" title="View posts for July 2004 (7 posts)">July <small>(7)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/06/" rel="bookmark" title="View posts for June 2004 (8 posts)">June <small>(8)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/05/" rel="bookmark" title="View posts for May 2004 (12 posts)">May <small>(12)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/04/" rel="bookmark" title="View posts for April 2004 (14 posts)">April <small>(14)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/03/" rel="bookmark" title="View posts for March 2004 (17 posts)">March <small>(17)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/02/" rel="bookmark" title="View posts for February 2004 (23 posts)">February <small>(23)</small></a></li>
+	<li class="month"><a href="/blog/archive/2004/01/" rel="bookmark" title="View posts for January 2004 (31 posts)">January <small>(31)</small></a></li>
+</ul>
+</li>
+
+<li class="year"><a href="/blog/archive/2003/" rel="bookmark" title="View post titles for 2003">2003</a>
+<ul class="month-list">
+	<li class="month"><a href="/blog/archive/2003/12/" rel="bookmark" title="View posts for December 2003 (17 posts)">December <small>(17)</small></a></li>
+	<li class="month"><a href="/blog/archive/2003/11/" rel="bookmark" title="View posts for November 2003 (28 posts)">November <small>(28)</small></a></li>
+	<li class="month"><a href="/blog/archive/2003/10/" rel="bookmark" title="View posts for October 2003 (18 posts)">October <small>(18)</small></a></li>
+	<li class="month"><a href="/blog/archive/2003/09/" rel="bookmark" title="View posts for September 2003 (14 posts)">September <small>(14)</small></a></li>
+	<li class="month"><a href="/blog/archive/2003/08/" rel="bookmark" title="View posts for August 2003 (1 post)">August <small>(1)</small></a></li>
+</ul>
+</li>
+
+</ul></div>
+
+<hr>
+
+<div class="tab" id="tab-bmarks">
+<h2>Blogmarks</h2>
+
+<p>A collection of miscellaneous links that don't merit a main blog posting, but which are interesting none-the-less.</p>
+
+<ul>
+<li class="new"><a href="http://abcnews.go.com/wire/Politics/ap20040805_1016.html" title=""><q>Our enemies are innovative and resourceful, and so are we. They never stop thinking about new ways to harm our country and our people, and neither do we.</q> — George W Bush</a> <a href="/blog/archive/blogmarks/2004/08/05/new-bushism/#cmnts" title="Read current comments and post your own">(9)</a></li>
+<li class="new"><a href="http://photomatt.net/2004/08/01/weeds-in-the-garden/" title="">What WordPress is doing to combat comment spam.</a> <a href="/blog/archive/blogmarks/2004/08/04/wordpress-spam/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new"><a href="http://pukupi.com/tools/" title="">Mobile web tools</a>, from <a href="http://pukupi.com/" title="">Pukupi</a>. <a href="/blog/archive/blogmarks/2004/08/04/mobile-web-tools/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new"><a href="http://pukupi.com/articles/top10/index.php" title="">Pukupi’s top 10 hints for building interoperable mobile Web sites.</a> <a href="/blog/archive/blogmarks/2004/08/04/mobile-web-top-10/#cmnts" title="Read current comments and post your own">(3)</a></li>
+<li class="new"><a href="http://www.ejphoto.com/" title="">The photography of E.J. Peiker.</a> <a href="/blog/archive/blogmarks/2004/08/04/e-j-peiker/#cmnts" title="Read current comments and post your own">(4)</a></li>
+<li class="new"><a href="http://www.joshrubin.com/coolhunting/" title=""><q>Stuff from the intersection of design, culture and technology.</q></a> <a href="/blog/archive/blogmarks/2004/08/04/cool-hunting/#cmnts" title="Read current comments and post your own">(3)</a></li>
+<li class="new"><a href="http://www.googleguide.com/advanced_operators.html" title="">Some handy tips for advanced Google use.</a> <a href="/blog/archive/blogmarks/2004/08/04/google-search-operators/#cmnts" title="Read current comments and post your own">(35)</a></li>
+<li class="new"><a href="http://www.churchsigngenerator.com/" title="">Make your own church signs</a>, or view some <a href="http://www.churchsigngenerator.com/churchsigns.php" title="">real ones</a>. <a href="/blog/archive/blogmarks/2004/08/04/church-sign-generator/#cmnts" title="Read current comments and post your own">(8)</a></li>
+<li class="new"><a href="http://binarybonsai.com/" title="">Michael Heilemann</a> is doing a great job with his new <a href="http://wordpress.org/" title="">WordPress</a> theme; <a href="http://binarybonsai.com/archives/2004/08/03/kubrick-122/" title="">Kubrick</a>. <a href="/blog/archive/blogmarks/2004/08/04/kubrick/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new">I’m late to the party, but <a href="http://simplebits.com/" title="">Dan</a> has <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1590593812//1976design-21" title="">a book out</a>. <a href="/blog/archive/blogmarks/2004/08/04/web-standards-solutions/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new"><a href="http://angermann2.com/120" title="">What a crazy concept for laying out housing estates.</a> <a href="/blog/archive/blogmarks/2004/08/04/radial-estates/#cmnts" title="Read current comments and post your own">(3)</a></li>
+<li class="new">In San Francisco, <a href="http://www.melissadata.com/Lookups/addressview.asp?Z=7&amp;zip4=94114-2632" title="">I live here</a>. (Try the zoom feature.) <a href="/blog/archive/blogmarks/2004/08/04/aerial-view/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new"><a href="http://www.x-entertainment.com/articles/0913/" title="">Spider-Man reviews crayons.</a> <a href="http://sidesh0w.com/" title="">[Via]</a> <a href="/blog/archive/blogmarks/2004/08/04/spider-man-crayons/#cmnts" title="Read current comments and post your own">(3)</a></li>
+<li class="new">Some <a href="http://www.gdphotography.com/1062.htm" title="">beautiful</a> <a href="http://www.gdphotography.com/1069.htm" title="">images</a> from photographer  <a href="http://www.gdphotography.com/" title="">Greg Downing</a>. <a href="/blog/archive/blogmarks/2004/08/04/greg-downing/#cmnts" title="Read current comments and post your own">(2)</a></li>
+<li class="new"><a href="http://www.linkbunnies.org/" title="">Lots of links, from the Link Bunnies.</a> <a href="/blog/archive/blogmarks/2004/08/04/link-bunnies/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new">Nice <a href="http://www.kryogenix.org/days/2004/07/04/shaking" title="">“when I was a child”</a> sort of post from Stuart. <a href="/blog/archive/blogmarks/2004/08/04/shaking-the-milk/#cmnts" title="Read current comments and post your own">(1)</a></li>
+<li class="new"><a href="http://dearjerry.home.mindspring.com/raisinland/SafariSorter/Price.html" title="">How much does SafariSorter cost?</a> <a href="/blog/archive/blogmarks/2004/08/04/price-of-software/#cmnts" title="Read current comments and post your own">(4)</a></li>
+<li class="new">Some handy <a href="http://www.macdevcenter.com/pub/a/mac/2003/11/21/maintenance.html" title="">maintenance tips for Mac owners running Panther</a>. <a href="/blog/archive/blogmarks/2004/07/26/panther-maintenance-tips/#cmnts" title="Read current comments and post your own">(2)</a></li>
+<li class="new">Alex King launches <a href="http://www.alexking.org/blog/2004/06/29/use-tasks-a-hosted-service-for-tasks-and-tasks-pro/" title="">Use Tasks: a hosted service for Tasks and Tasks Pro™.</a> <a href="/blog/archive/blogmarks/2004/07/23/use-tasks/#cmnts" title="Read current comments and post your own">(2)</a></li>
+<li class="new"><a href="http://www.minjungkim.com/" title="">Min Jung</a>, <a href="http://www.dashes.com/anil/" title="">Anil Dash</a>, and I get <a href="http://www.minjungkim.com/index.php?p=449" title="">interviewed for HBO’s Real Sex</a>. <a href="/blog/archive/blogmarks/2004/07/23/real-sex/#cmnts" title="Read current comments and post your own">(10)</a></li>
+</ul>
+
+<p>B-marks: <a href="/blog/archive/blogmarks/" title="View the blogmarks archive">archive</a> | <a href="/blog/syndicate/" title="View the syndication options for blogmarks">XML feeds</a></p>
+</div>
+
+<hr>
+
+<div class="tab" id="tab-broll">
+<h2>Blog-roll</h2>
+
+<p>A selection of blogs I read on a regular basis.</p>
+
+<ul>
+<li>Hmm, the blog-roll seems to be a little bit broken right now (it may be that the blo.gs service is having problems). I’ve sent myself an email about this problem, and will try to fix it ASAP.</li>
+</ul>
+</div>
+</div>
+
+<hr>
+
+<div class="show" id="weather-conditions">
+<h2>Weather conditions</h2>
+
+<p>These are the current weather conditions at my parents’ house (in Dorset),  and where I live (in San Francisco).</p>
+
+<div id="dorset">
+<div class="border">
+<table border="1" cellpadding="0" cellspacing="0">
+<caption>Leigh, Dorset, UK</caption>
+
+<thead>
+<tr>
+<th>Variable</th>
+<th>Value</th>
+</tr>
+</thead>
+
+<tbody>
+<tr class="odd">
+<td>Current conditions</td>
+<td>Day, Partly Cloudy</td>
+</tr>
+<tr class="even">
+<td>Local time</td>
+<td>7:52 AM</td>
+</tr>
+<tr class="odd">
+<td>Sunrise and Sunset</td>
+<td>6:48 AM, 7:21 PM</td>
+</tr>
+<tr class="even">
+<td>Moon phase tonight</td>
+<td>New</td>
+</tr>
+<tr class="odd">
+<td>Air temperature</td>
+<td>3.9°C (39°F)</td>
+</tr>
+<tr class="even">
+<td style="cursor: help;" title="The amount of water vapor in the air">Humidity</td>
+<td>100%</td>
+</tr>
+<tr class="odd">
+<td style="cursor: help;" title="The temperature air would have to be cooled to in order for saturation to occur">Dew point</td>
+<td>3.9°C (39°F)</td>
+</tr>
+<tr class="even">
+<td>UV index</td>
+<td>0, Low danger</td>
+</tr>
+<tr class="odd">
+<td>Pressure</td>
+<td>30.00 inches and steady</td>
+</tr>
+<tr class="even">
+<td>Wind</td>
+<td>3 mph from the East South East</td>
+</tr>
+<tr class="odd">
+<td>Visibility</td>
+<td>6.2 miles</td>
+</tr>
+<tr class="even">
+<td>Latitude and Longitude</td>
+<td>50.875056 N, -2.529427 W</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+<div id="sanfrancisco">
+<div class="border">
+<table border="1" cellpadding="0" cellspacing="0">
+<caption>San Francisco, CA, USA</caption>
+
+<thead>
+<tr>
+<th>Variable</th>
+<th>Value</th>
+</tr>
+</thead>
+
+<tbody>
+<tr class="odd">
+<td>Current conditions</td>
+<td>Night, Cloudy</td>
+</tr>
+<tr class="even">
+<td>Local time</td>
+<td>11:52 PM</td>
+</tr>
+<tr class="odd">
+<td>Sunrise and Sunset</td>
+<td>6:52 AM, 7:14 PM</td>
+</tr>
+<tr class="even">
+<td>Moon phase tonight</td>
+<td>New</td>
+</tr>
+<tr class="odd">
+<td>Air temperature</td>
+<td>18.3°C (65°F)</td>
+</tr>
+<tr class="even">
+<td style="cursor: help;" title="The amount of water vapor in the air">Humidity</td>
+<td>81%</td>
+</tr>
+<tr class="odd">
+<td style="cursor: help;" title="The temperature air would have to be cooled to in order for saturation to occur">Dew point</td>
+<td>15°C (59°F)</td>
+</tr>
+<tr class="even">
+<td>Pressure</td>
+<td>29.91 inches and steady</td>
+</tr>
+<tr class="odd">
+<td>Wind</td>
+<td>10 mph from the West North West</td>
+</tr>
+<tr class="even">
+<td>Visibility</td>
+<td>10.0 miles</td>
+</tr>
+<tr class="odd">
+<td>Latitude and Longitude</td>
+<td>37.7600 N, -122.4181 W</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<hr>
+</div>
+
+
+<h2>Site powered by</h2>
+
+<div id="poweredby"><a href="/blog/colophon/" title="Read about Dunstan and this site"><span>Dunstan Orchard, of 1976 design</span></a></div>
+</div>
+
+<br style="clear: both;">
+</div>
+
+
+
+<script type="text/javascript">
+<!--
+var lastBmark = '1091744220';
+var lastBroll = '';
+var newItemsBmark = "yes";
+var newItemsBroll = "no";
+//-->
+</script>
+<script type="text/javascript" src="/blog/include/tabs_tabs.js"></script>
+
+
+
+<div id="footer">
+<p><a href="/blog/copyright/" accesskey="8" title="Copyright statement for this site">Copyright 2010</a> | <a href="/blog/accessibility/" accesskey="0" title="Accessibility statement for this site">Accessibility statement</a> | <a href="http://validator.w3.org/check/referer" title="W3C Markup Validation Service">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer/?&amp;warning=no&amp;profile=css2" title="W3C CSS Validator">CSS</a> | <a href="http://www.contentquality.com/mynewtester/cynthia.exe?Url1=http://1976design.com/blog/archive/2003/11/14/shadows/" title="Section 508">508</a></p>
+</div>
+
+
+
+</body></html>

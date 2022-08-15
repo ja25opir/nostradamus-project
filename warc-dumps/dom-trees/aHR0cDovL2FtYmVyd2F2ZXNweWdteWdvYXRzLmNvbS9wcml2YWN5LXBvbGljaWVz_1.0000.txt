@@ -1,0 +1,903 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+
+
+
+
+<link href="/templates/sportline/css/layout.css" rel="stylesheet" type="text/css">
+<link href="/templates/sportline/css/template_css.css" rel="stylesheet" type="text/css">
+<link href="/templates/sportline/css/blue.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/templates/sportline/src/mootools.js"></script>
+
+  <base href="http://amberwavespygmygoats.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="information, web, site, personal, privacy, cookies, policy, time, provide, services, data, sites, users, browser, email">
+  <meta name="title" content="Privacy Policies - Amberwavespygmygoats.com - Only Online Source For Pygmy Goats">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Privacy Policy
+
+We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy o">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Privacy Policies - Amberwavespygmygoats.com - Only Online Source For Pygmy Goats</title>
+  <link href="/templates/sportline/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/modules/mod_adagency_menu/tmpl/mod_adagencymenu.css" type="text/css">
+  <link rel="stylesheet" href="http://amberwavespygmygoats.com/modules/mod_c7dialoghtml/jquery/theme/theme_lightness/ui.all.css" type="text/css">
+  <style type="text/css">
+    <!--
+
+.osolCaptchaBlock{
+	width:100%;
+}
+.osolCaptchaBlock label{
+	
+}
+.osolCaptchaBlock table td{
+	
+	text-align:center;
+}
+
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://amberwavespygmygoats.com/modules/mod_c7dialoghtml/jquery/jquery-1.3.2.js"></script>
+  <script type="text/javascript" src="http://amberwavespygmygoats.com/modules/mod_c7dialoghtml/jquery/ui.core.js"></script>
+  <script type="text/javascript" src="http://amberwavespygmygoats.com/modules/mod_c7dialoghtml/jquery/ui.dialog.js"></script>
+  <script type="text/javascript" src="http://amberwavespygmygoats.com/modules/mod_c7dialoghtml/jquery/ui.draggable.js"></script>
+  <script type="text/javascript" src="http://amberwavespygmygoats.com/modules/mod_c7dialoghtml/jquery/ui.resizable.js"></script>
+  <link rel="stylesheet" type="text/css" href="http://amberwavespygmygoats.com/plugins/content/bot_mb/css/popbox.css" media="screen">
+<script type="text/javascript" src="http://amberwavespygmygoats.com/plugins/content/bot_mb/js/mootools.js"></script>
+<script type="text/javascript" src="http://amberwavespygmygoats.com/plugins/content/bot_mb/js/popbox.js"></script>
+<script type="text/javascript" src="http://amberwavespygmygoats.com/plugins/content/bot_mb/js/moviebox.js"></script>
+<!--[if lte IE 6]>
+<link href="http://amberwavespygmygoats.com/plugins/content/bot_mb/css/ie6fixes.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://amberwavespygmygoats.com/plugins/content/bot_mb/js/ie6minmax.js"></script>
+<![endif]-->
+  <script type="text/javascript">jQuery.noConflict();</script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+
+
+<script type="text/javascript" src="/templates/sportline/src/sve.js"></script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+#logo,img,#nslogo,#desno,#lijevo{
+	behavior: url(templates/sportline/css/iepngfix.htc);
+}
+#images_slide img{
+	behavior:none;
+}
+#tools{
+width:230px;
+}
+#toolbox img{
+margin-top:8px;
+}
+
+</style>
+<![endif]-->
+ <!--[if lt IE 8]>
+ <style type="text/css">
+#bottomusers .moduletable ul li{display:inline;}
+
+table.contentpaneopen {
+*border-collapse: expression('separate', cellSpacing = '5px');
+}
+#searchbox .inputbox{
+margin:1px;
+}
+.search{
+margin-top:0px;
+}
+.search input.button{
+padding:0 .25em 0 .25em;
+width:auto;
+overflow:visible;
+}
+ </style>
+<![endif]-->
+<!--[if IE 6]>
+<link href="/templates/sportline/css/iesucks.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+  
+<!--[if lte IE 7]>
+		<script type="text/javascript">
+		sfHover = function() {
+			var sfEls = document.getElementById("navigacija").getElementsByTagName("LI");
+			for (var i=0; i<sfEls.length; i++) {
+				sfEls[i].onmouseover=function() {
+					this.className+=" sfHover";
+				}
+				sfEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfHover\\b"), "");
+				}
+			}
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHover);
+		</script>
+<![endif]-->
+<script type="text/javascript" src="/templates/sportline/src/mouseover.js"></script>
+<meta name="google-site-verification" content="G8IoftXPhkVUE3shgUNfQJ-TvR1hHjVjRfUlLrXcAaM"></head>
+<!-- ODVAJANJE ZAREZOM -->
+<body>
+<div id="boja_wide">
+<div id="fullbg" style="font-size:12px; width:980px;">
+
+<div id="centarmain">
+
+<!-- tools -->
+
+
+<div id="topbar">
+
+
+
+
+
+ <div id="tools">
+ 
+     <div id="logs">
+<div id="linkem">
+<a href="javascript:;" class="newsl" style="display:block;" onclick="this.blur();showThem('inset');return false;" id="showHideLogin"></a>
+<a href="javascript:;" class="stool" style="display:none;" onclick="this.blur();showThem('toolbox');return false;" id="showHideToolbox"></a>
+</div>
+     </div>
+
+
+
+
+
+ </div>
+
+</div>
+     <!-- login -->
+<div id="inset" style="display:none; margin:0 165px">
+
+		<div class="moduletable">
+					<form action="https://amberwaves.infusionsoft.com/AddForms/processFormSecure.jsp" method="post"> <input id="infusion_xid" name="infusion_xid" type="hidden" value="12edcf4286bfe96fc905bf820586944e"> <input id="infusion_type" name="infusion_type" type="hidden" value="CustomFormWeb"> <input id="infusion_name" name="infusion_name" type="hidden" value="Pygmy Goats Form"> 
+<table border="0">
+<tbody>
+<tr>
+<td style="padding:4px;background- color:#000000;color:#FFFFFF" colspan="99">Person Information</td>
+</tr>
+<tr>
+<td>First Name *</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><input id="Contact0FirstName" class="default-input" name="Contact0FirstName" size="15" type="text"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>Last Name *</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><input id="Contact0LastName" class="default-input" name="Contact0LastName" size="15" type="text"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>Email *</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><input id="Contact0Email" class="default-input" name="Contact0Email" size="15" type="text"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>"Spam Free Zone. Your Email Will Never Be Made Available To Anyone For Anyone Reason "</td>
+</tr>
+</tbody>
+<tbody>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:4px;background- color:#000000;color:#FFFFFF" colspan="99">Options</td>
+</tr>
+<tr>
+<td>Check all that apply:</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><input id="infusion_option_5" class="check" name="infusion_option_5" type="checkbox" value="95"></td>
+<td width="10"><img src="/slices/spacer.gif" border="0" width="10" height="1"></td>
+<td style="vertical-align:middle;">If  you would like to recieve our newsletter click here</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><input id="infusion_option_7" class="check" name="infusion_option_7" type="checkbox" value="97"></td>
+<td width="10"><img src="/slices/spacer.gif" border="0" width="10" height="1"></td>
+<td style="vertical-align:middle;">For  free pre-notification of goats for sale click here</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><input id="infusion_option_9" class="check" name="infusion_option_9" type="checkbox" value="113"></td>
+<td width="10"><img src="/slices/spacer.gif" border="0" width="10" height="1"></td>
+<td style="vertical-align:middle;">For  a free report on how to buy your first goat click here</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><input id="Submit" class="button np inf-button" name="Submit" type="submit" value="Submit"></td>
+</tr>
+</tbody>
+</table>
+</form>		</div>
+	
+<div class="close">
+<a href="javascript:;" class="buttonin" style="float:left;" id="closein" onclick="this.blur();showThem('inset');return false;">Close</a>
+
+
+<div class="loginr"><a href="/your-details/login" class="buttonin">Login</a><a href="/your-details/create-an-account" class="buttonin">Register</a></div>
+</div>
+
+</div>
+
+
+
+<!--header-->
+<div id="header">
+<div id="hl">
+<div id="hr">
+<div id="logo">
+<div id="tags"><h1><a href="http://amberwavespygmygoats.com/" title="Amberwavespygmygoats.com - Online Source for Pygmy">Amberwavespygmygoats.com - Online Source for Pygmy</a></h1></div></div>
+
+
+<div id="banw">
+
+<form action="/" method="post" name="login" id="form-login" style="padding:0px!important;margin:0px!important;float:left;">
+		<table><tbody><tr><td>
+	<fieldset class="input" style="padding:0px!important;margin:0px!important;">
+	<table>
+	<tbody><tr>
+	<td><p id="form-login-username">
+		<!--<label for="modlgn_username"></label><br />-->
+		<input id="modlgn_username" type="text" name="username" value="Username" onfocus="if (this.value=='Username') this.value=''" onblur="if(this.value=='') { this.value='Username'; return false; }" class="inputbox" alt="username" size="18" style="width:100px;padding-left:17px;">
+	</p></td>
+	<td><p id="form-login-password">
+		<!--<label for="modlgn_passwd"></label><br />-->
+		<input id="modlgn_passwd" type="password" name="passwd" value="Password" onfocus="if (this.value=='Password') this.value=''" onblur="if(this.value=='') { this.value='Password'; return false; }" class="inputbox" size="18" alt="password" style="width:100px;padding-left:17px;">
+	</p></td>
+	<!--<td>	<p id="form-login-remember">
+		<label for="modlgn_remember"></label>
+		<input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" alt="Remember Me" />
+	</p></td>-->
+		<td><input type="submit" name="Submit" class="button" value="Login"></td>
+	</tr></tbody></table></fieldset></td>
+	<td valign="bottom"><ul class="jlogin_list" style="margin-left:5px;">
+		<li>
+			<a href="/your-details/reset" class="fp">
+			<img src="/images/jlogin/lost_password_bg.png"> </a>
+		</li>
+		<li>
+			<a href="/your-details/remind" class="fu">
+			<img src="/images/jlogin/lost_username_bg.png"> </a>
+		</li>
+				<li>
+			<a href="/articles/user-registration" class="reg">
+				<img src="/images/jlogin/registration_bg.png"></a>
+		</li>
+			</ul></td>
+	
+	<input type="hidden" name="option" value="com_juser">
+	<input type="hidden" name="controller" value="user">
+	<input type="hidden" name="task" value="login">
+	<input type="hidden" name="return" value="aHR0cDovL2FtYmVyd2F2ZXNweWdteWdvYXRzLmNvbS9wcml2YWN5LXBvbGljaWVz">
+	<input type="hidden" name="adba2a9f011a5ed9e76a1b2673155e89" value="1">	 
+	</tr></tbody></table>
+</form>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3048232081324558";
+/* 468x60, created 9/1/09 amberwavespygmygoats.com */
+google_ad_slot = "0505140980";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div style="padding:10px;">
+
+<a href="http://twitter.com/amberwaves" target="_blank"><img src="/images/stories/Book/twitter icon.png" width="30" height="30" align="right"></a>
+<a href="http://www.facebook.com/profile.php?id=100000642513380&amp;ref=ts" target="_blank"><img src="/images/stories/Book/facebook-icon.png" width="30" height="30" align="right"></a>
+</div>
+</div>
+
+
+
+</div></div></div>
+<!-- end header -->
+
+
+<div id="tops">
+<div id="loginm">
+<!-- http://www.Youjoomla.com  Youjoomla Title Ticker  for Joomla 1.5 starts here -->	<script src="/modules/mod_yj_nt2/lib/mootools.php" type="text/javascript"></script>
+		
+        
+<script src="/modules/mod_yj_nt2/lib/titleslide.php" type="text/javascript"></script>
+
+<div id="titles_holder" style="background:transparent;width:670px; height:33px; overflow:hidden;float:left; text-align:center;">
+<div id="title_title" style="color:#F5F2F2; font-weight:bold;float:left;line-height:32px; width:90px;text-align:center;">Highlights :</div>
+			<div id="yj_nt2" class="title_slide" style="width:550px;height:33px; overflow:hidden; float:left; text-align:center;">
+                  
+                                    <div style="width:2200px;overflow: hidden;float: left;text-align:center">
+                                                   
+   <div style="width:550px;line-height:33px;text-indent:5px;height:33px;float:left;text-align:center;"><a href="/articles-on-amber-waves/champion-goat-butts-out-while-on-top-norco-ranch-to-send-magic-to-retirement">Champion goat butts out while on Top Norco ranch to send Magic to retirement</a><br></div>
+<div style="width:550px;line-height:33px;text-indent:5px;height:33px;float:left;text-align:center;"><a href="/articles-on-amber-waves/goat-competition">Goat Competition</a><br></div>
+<div style="width:550px;line-height:33px;text-indent:5px;height:33px;float:left;text-align:center;"><a href="/articles-on-amber-waves/big-on-charisma-norco-ranch-shows-its-award-winning-goats-at-county-fairs">BIG ON CHARISMA // Norco ranch shows its award-winning goats at county fairs</a><br></div>
+<div style="width:550px;line-height:33px;text-indent:5px;height:33px;float:left;text-align:center;"><a href="/articles-on-amber-waves/couple-loves-pygmy-goats-norco-the-hosleys-run-amber-waves-a-ranch-that-is-home-to-27-of-the-west-african-animals">Couple loves pygmy goats: Norco: The Hosleys run Amber Waves, a ranch that is home to 27 of the West African animals.</a><br></div>
+
+
+
+
+
+
+
+         
+</div>
+</div> <div id="title_nav" style="float:left; width:30px;height:33px;padding: 0px; margin:0;"><a onclick="javascript: title_slider.prev(type_slider);"><img src="/modules/mod_yj_nt2/images/prev.png" alt="Previous" title="Previous"></a>&nbsp;<a onclick="javascript: title_slider.next(type_slider);"><img src="/modules/mod_yj_nt2/images/next.png" alt="Next" height="7px" width="7px" style="margin-top:13.5px" title="Next"></a>
+</div></div>
+
+<script type="text/javascript">
+var  title_slider = new TitleTicker("yj_nt2",{type: "scroll", direction: "forward", auto: "loop", time: 5000, duration: 1000});
+var type_slider='scroll';
+$('titles_holder').addEvent('mouseenter', function(){title_slider.pause();});
+$('titles_holder').addEvent('mouseleave', function(){title_slider.run(type_slider);});
+</script>
+
+</div><div id="searchbox"><form action="http://amberwavespygmygoats.com/" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="114">
+</form></div></div>
+
+
+
+
+
+<!-- suckerfish-->
+<div id="suck" style="font-size:12px;">
+<div id="sl">
+<div id="sr">
+  <div id="navigacija">
+  
+      <ul class="nav" id="horiznav">
+<li><span class="topdaddy"><a class="topdaddy" href="/">Home</a></span><ul>
+<li><span class="top"><a href="http://amberwavespygmygoats.com/">Pygmy Goats</a></span></li>
+<li><span class="top"><a href="http://showsilkies.com/" target="_window">Amber Waves Silkies</a>
+</span></li>
+<li><span class="top"><a href="http://hedgehogsonline.info/" target="_window">Hedgehogs Online</a>
+</span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Learning Center</a></span><ul>
+<li><span class="top"><a href="/articles/">Articles</a></span></li>
+<li><span class="top"><a href="/video/">Videos</a></span></li>
+<li><span class="top"><a href="/breeding-genetics-pregnancy-and-kidding/">How To</a></span></li>
+<li><span class="top"><a href="/livestock-guardians-and-herding-dogs/">Glossary</a></span></li>
+<li><span class="top"><a href="/breeds-of-goats/">Goat Breeds</a></span></li>
+<li><span class="top"><a href="http://www.goatspygmy.com/" target="_window">Pygmy Goat Geneology</a>
+</span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Activities</a></span><ul>
+<li><span class="top"><a href="/free-clipart">Free Clipart</a></span></li>
+<li><span class="top"><a href="/activities/forum.html">Forum</a></span></li>
+<li><span class="top"><a href="#">Contests</a></span></li>
+<li><span class="top"><a href="/amber-waves-blog/blog">Blogs</a></span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Resources</a></span><ul>
+<li><span class="top"><a class="daddy" href="#"> *NEW* Tools</a></span><ul>
+<li><span class="top"><a href="/dosage-calculator">Dosage Calculator</a></span></li>
+<li><span class="top"><a href="/due-date-calculator">Due Date Calculator</a></span></li>
+<li><span class="top"><a href="/pedigree-calculator">Pedigree Calculator</a></span></li>
+</ul></li>
+<li><span class="top"><a href="/faqs">FAQ's</a></span></li>
+<li><span class="top"><a href="/vets-by-state">Vets By State</a></span></li>
+<li><span class="top"><a href="/drug-database">Drug Database</a></span></li>
+<li><span class="top"><a href="/drug-database">Feed &amp; Supplements</a></span></li>
+<li><span class="top"><a href="/drug-database">Equipment &amp; Supplies</a></span></li>
+<li><span class="top"><a href="/drug-database">Disease Data Base</a></span></li>
+<li><span class="top"><a href="/drug-database">Labs</a></span></li>
+<li><span class="top"><a class="daddy" href="#"> Submit your Listings</a></span><ul>
+<li><span class="top"><a href="/add-a-veterinarians-form">Add a Veterinarians Form</a></span></li>
+<li><span class="top"><a href="/add-a-veterinarians-form">Add a Magazine Form</a></span></li>
+<li><span class="top"><a href="/add-a-veterinarians-form">Add a "Suppliers Name" Form</a></span></li>
+</ul></li>
+<li><span class="top"><a href="/resources/links/index.html">Links</a></span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Community Learning</a></span><ul>
+<li><span class="top"><a href="/drug-database">4-H/FFA</a></span></li>
+<li><span class="top"><a href="/drug-database">Clubs</a></span></li>
+<li><span class="top"><a href="/drug-database">Associations</a></span></li>
+<li><span class="top"><a href="/community-learning/calender/categoriesdetailed.html">Calender</a></span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Amber Waves</a></span><ul>
+<li><span class="top"><a class="daddy" href="/amber-waves/"> Animals</a></span><ul>
+<li><span class="top"><a href="/does/">Does</a></span></li>
+<li><span class="top"><a href="/bucks/">Bucks</a></span></li>
+<li><span class="top"><a href="/animals/">Other Animals</a></span></li>
+</ul></li>
+<li><span class="top"><a href="/book-an-appointment">Book An Appointment</a></span></li>
+<li><span class="top"><a href="/customers-of-amber-waves/">Customers</a></span></li>
+<li><span class="top"><a href="/about-us">About Us</a></span></li>
+<li><span class="top"><a href="/advertisements/">Advertisements</a></span></li>
+<li><span class="top"><a href="/articles-on-amber-waves/">Articles</a></span></li>
+<li><span class="top"><a href="/champions/">Champions</a></span></li>
+<li><span class="top"><a href="/up-comming-kiddings/">Up-Coming Kiddings</a></span></li>
+<li><span class="top"><a href="/pre-birth-deposit-form">Pre-Deposits</a></span></li>
+<li><span class="top"><a href="/forms/">Forms</a></span></li>
+<li><span class="top"><a href="http://amberwavespygmygoats.com/index.php?option=com_joompedigrees&amp;view=horselist&amp;Itemid=106">Pygmy Pedigrees</a></span></li>
+<li><span class="top"><a href="/pygmy-goats-for-sale/">Pygmy Goats For Sale</a></span></li>
+<li><span class="top"><a href="/shipping-pygmy-goats/">Shipping Pygmy Goats</a></span></li>
+<li><span class="top"><a href="/new-arrivals/">New Arrivals</a></span></li>
+<li><span class="top"><a href="/shipping-pygmy-goats/">Shipping Costs</a></span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Shopping</a></span><ul>
+<li><span class="top"><a href="/goat-books">Goat Books</a></span></li>
+<li><span class="top"><a href="/goat-gifts">Goat Gifts</a></span></li>
+<li><span class="top"><a href="/goat-books">More Shopping</a></span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="#">Help</a></span><ul>
+<li><span class="top"><a href="/help-desk/view-ticket">Help Desk</a></span></li>
+<li><span class="top"><a href="/examples/">FAQs</a></span></li>
+<li><span class="top"><a href="/site-map">Site Map</a></span></li>
+</ul></li>
+<li><span class="top"><a href="/contact-us/contacts/amber-waves-pygmy-goats">Contact Us</a></span></li>
+</ul>    </div></div></div></div>
+<!-- end suckerfish -->
+</div><!-- end centarmain-->
+<div id="centar" style="font-size:12px; width:980px;">
+
+<div id="main_content" style="background: url('/templates/sportline/images/faux980.gif') repeat-y 40% 0%;">
+<div id="main_body" style="padding:5px 0;width:59%;">
+<div class="insidem">
+
+
+
+ 
+<div id="pathway">
+You are here:&nbsp;&nbsp;<span class="breadcrumbs pathway">
+<a href="http://amberwavespygmygoats.com/" class="pathway">Home</a> <img src="/templates/sportline/images/arrow.png" alt=""> Privacy policy</span>
+
+</div>
+
+
+
+
+<!-- top advert-->
+<!-- end top advert-->
+<!-- top module-->
+<!-- end top module-->
+
+
+
+<style type="text/css">
+<!--
+.ads_left{text-align:left;}
+.ads_right{text-align:right;}
+.ads_center{text-align:center;margin:0px auto;}
+.ads_folat_left{float:left;}
+.ads_folat_right{float:right;}
+.ads_clear{clear:both;}
+.ads_clears{clear:both; display:block; border:0px;}
+.ads_m_center{margin:0px auto;text-align:center;}
+-->
+</style><table class="contentpaneopen">
+<tbody><tr>
+		<td class="contentheading" width="100%">
+					Privacy Policies			</td>
+						<td align="right" width="100%" class="buttonheading">
+		<a href="/privacy-policies/pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/sportline/images/pdf_button.png" alt="PDF"></a>		</td>
+		
+				<td align="right" width="100%" class="buttonheading">
+		<a href="/index.php?view=article&amp;id=1559%3Aprivacy-policies&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=114" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/sportline/images/printButton.png" alt="Print"></a>		</td>
+		
+				<td align="right" width="100%" class="buttonheading">
+		<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL2FtYmVyd2F2ZXNweWdteWdvYXRzLmNvbS9wcml2YWN5LXBvbGljaWVz" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/sportline/images/emailButton.png" alt="E-mail"></a>		</td>
+					</tr>
+</tbody></table>
+
+<table class="contentpaneopen">
+
+
+
+<tbody><tr>
+<td valign="top">
+<div style="margin: 3px; width:200px; height:200px;" class="ads_left ads_folat_left"><script type="text/javascript"><!--
+google_ad_client = "pub-3048232081324558";
+google_alternate_color = "FFFFFF";
+google_ad_width = 200;
+google_ad_height = 200;
+google_ad_format = "200x200_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_link = "0000FF";
+google_color_bg = "FFFFFF";
+google_color_text = "000000";
+google_color_url = "008000";
+google_ui_features = "rc:0";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><p style="text-align: left;"><strong>Privacy Policy</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>We recognizes the importance of protecting your privacy </strong>and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>What Information Do We Collect?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">When you visit this web site, you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>1. Personal Information You Choose to Provide </strong><strong>Registration Information</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">When you register for any of our products, services or newsletters you will provide us information about yourself.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Credit Card Information</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">-Name</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">-Mailing address</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">-Email address</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">-Credit card number</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">-Name on credit card</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">-Credit card billing address -Business and home phone number</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Email Information</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>2. Web Site Use Information</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, 'What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>How Do We Use the Information That You Provide to Us?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>What Are Cookies?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. <strong>A cookie </strong><strong>cannot retrieve any other data from your hard drive or pass on computer viruses.</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>How Do We Use Information We Collect from Cookies?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>IP, Addresses</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Sharing and Selling Information</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">We <strong>do not </strong>share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>How Can You Access and Correct Your Information?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>What about Legally Compelled Disclosure of Information?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>What About Other Web Sites Linked to Our Web Site?</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. You’re browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>You’re Consent</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Our Commitment to Data Security:</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Choice/Opt-In/Opt-Out</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing, we will discontinue sending the particular messages as soon as technically feasible.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Surveys </strong>&amp; <strong>Contests</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">From time-to-time, our site requests information from users via surveys or contests. Participation in these surveys or contests is voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>A Special Note about Children</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Acquisition or Changes in Ownership</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;"><strong>Policy Modifications</strong></p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.</p>
+<div style="text-align: left;"></div>
+<p style="text-align: left;">&nbsp;</p>
+
+<p></p><!-- START of joscomment --><!-- END of joscomment --></td>
+</tr>
+
+</tbody></table>
+<span class="article_separator">&nbsp;</span>
+
+
+<!-- bottom module-->
+<!-- end bottom module-->
+</div>
+</div>
+<div id="mods_holder_l" style="padding:5px 0;width:40%;">
+<div id="modsin">
+
+
+<!-- block 1  top -->
+<div id="advert2" style="width:100%;">
+<div class="insidem">
+		<div class="moduletable">
+					<!-- Begin MailChimp Signup Form --> <!--[if IE]> <![endif]--> <!--[if IE 7]> <![endif]-->
+<div id="mc_embed_signup"><form action="http://amberwaves.us1.list-manage1.com/subscribe/post?u=03716f45e233f1cde6a8b303a&amp;id=1acd14839f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="font: normal 100% Arial; font-size: 12px;"> <fieldset style="border-radius: 4px; -webkit-border-radius: 4px; border: 1px solid #000000; padding-top: 1.5em; margin: .5em 0; background-color: #ffffff; color: #333333; text-align: left;"> <legend style="text-transform: capitalize; font-weight: bold; color: #666666; background: #B9C07C; padding: .5em 1em; border: 1px solid #000000; border-radius: 4px; -webkit-border-radius: 4px; font-size: 1.2em;">join our mailing list</legend>
+<div class="indicate-required" style="text-align: right; font-style: italic; overflow: hidden; color: #333333; margin: 0 9% 0 0;">* indicates required</div>
+<div class="mc-field-group" style="margin: 1.3em 5%; clear: both; overflow: hidden;"><label for="mce-EMAIL" style="display: block; margin: .3em 0; line-height: 1em; font-weight: bold;">Email Address <strong class="note-required">*</strong> </label> <input arprops=",,458.45px,17px,none,none,static,999,visible,,," name="EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 1.5em; padding: 0.2em 0.3em; width: 90%; float: left; z-index: 999;" type="text"></div>
+<div class="mc-field-group" style="margin: 1.3em 5%; clear: both; overflow: hidden;"><label for="mce-FNAME" style="display: block; margin: .3em 0; line-height: 1em; font-weight: bold;">First Name <strong class="note-required">*</strong> </label> <input arprops=",,458.45px,17px,none,none,static,999,visible,,," name="FNAME" class="required" id="mce-FNAME" style="margin-right: 1.5em; padding: 0.2em 0.3em; width: 90%; float: left; z-index: 999;" type="text"></div>
+<div class="mc-field-group" style="margin: 1.3em 5%; clear: both; overflow: hidden;"><label for="mce-LNAME" style="display: block; margin: .3em 0; line-height: 1em; font-weight: bold;">Last Name <strong class="note-required">*</strong> </label> <input arprops=",,458.45px,17px,none,none,static,999,visible,,," name="LNAME" class="required" id="mce-LNAME" style="margin-right: 1.5em; padding: 0.2em 0.3em; width: 90%; float: left; z-index: 999;" type="text"></div>
+<div class="mc-field-group" style="margin: 1.3em 5%; clear: both; overflow: hidden;"><label class="input-group-label" style="display: block; margin: .3em 0; line-height: 1em; font-weight: bold;">Pygmy Goat Inquiries </label>
+<div class="input-group" style="padding: .7em .7em .7em 0; font-size: .9em; margin: 0 0 1em 0;">
+<ul style="margin: 0; padding: 0;">
+<li style="list-style: none; overflow: hidden; padding: .2em 0; clear: left; display: block; margin: 0;"><input arprops=",,13px,13px,none,none,static,999,visible,,," value="1" name="group[1]" id="mce-group-1-0" style="margin-right: 2%; padding: 0.2em 0.3em; width: auto; float: left; z-index: 999;" type="checkbox"><label for="mce-group-1-0" style="display: block; margin: 0.4em 0pt 0pt; line-height: 1em; font-weight: bold; width: auto; float: left; text-align: left;">Pygmy Goat Inquiries</label></li>
+</ul>
+</div>
+</div>
+<div class="mc-field-group" style="margin: 1.3em 5%; clear: both; overflow: hidden;"><label class="input-group-label" style="display: block; margin: .3em 0; line-height: 1em; font-weight: bold;">First Time Buyers Guide </label>
+<div class="input-group" style="padding: .7em .7em .7em 0; font-size: .9em; margin: 0 0 1em 0;">
+<ul style="margin: 0; padding: 0;">
+<li style="list-style: none; overflow: hidden; padding: .2em 0; clear: left; display: block; margin: 0;"><input arprops=",,13px,13px,none,none,static,999,visible,,," value="2" name="group[2]" id="mce-group-5-0" style="margin-right: 2%; padding: 0.2em 0.3em; width: auto; float: left; z-index: 999;" type="checkbox"><label for="mce-group-5-0" style="display: block; margin: 0.4em 0pt 0pt; line-height: 1em; font-weight: bold; width: auto; float: left; text-align: left;">First Time Goat Buyers Guide</label></li>
+</ul>
+</div>
+</div>
+<div class="mc-field-group" style="margin: 1.3em 5%; clear: both; overflow: hidden;"><label class="input-group-label" style="display: block; margin: .3em 0; line-height: 1em; font-weight: bold;">Pygmy Goats For Sale - Advanced Notification </label>
+<div class="input-group" style="padding: .7em .7em .7em 0; font-size: .9em; margin: 0 0 1em 0;">
+<ul style="margin: 0; padding: 0;">
+<li style="list-style: none; overflow: hidden; padding: .2em 0; clear: left; display: block; margin: 0;"><input arprops=",,13px,13px,none,none,static,999,visible,,," value="4" name="group[4]" id="mce-group-9-0" style="margin-right: 2%; padding: 0.2em 0.3em; width: auto; float: left; z-index: 999;" type="checkbox"><label for="mce-group-9-0" style="display: block; margin: 0.4em 0pt 0pt; line-height: 1em; font-weight: bold; width: auto; float: left; text-align: left;">Pygmy Goats For Sale - Advanced Notification</label></li>
+</ul>
+</div>
+</div>
+<div align="center"></div>
+<div id="mce-responses" style="float: left; top: -1.4em; padding: 0em 0.5em; overflow: hidden; width: 90%; margin: 0pt 5%; clear: both;">
+<div class="response" id="mce-error-response" style="display: none; margin: 1em 0pt; padding: 1em 0.5em 0.5em 0pt; font-weight: bold; float: left; top: -1.5em; z-index: 1; width: 80%; background: none repeat scroll 0% 0% #ffeeee; color: #ff0000;"></div>
+<div class="response" id="mce-success-response" style="display: none; margin: 1em 0pt; padding: 1em 0.5em 0.5em 0pt; font-weight: bold; float: left; top: -1.5em; z-index: 1; width: 80%; color: #529214;"></div>
+</div>
+<div><input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn" style="clear: both; width: auto; display: block; margin: 1em 0pt 1em 5%;" type="submit"></div>
+</fieldset> <a href="#" id="mc_embed_close" class="mc_embed_close" style="display: none;">Close</a> </form></div>
+<!--End mc_embed_signup-->
+<p style="margin-left: 10px;">Amber Waves  is committed to keeping e-mail addresses confidential; we will not sell, rent or lease our mailing lists to third parties.</p>		</div>
+			<div class="moduletable">
+					
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+$("#c7dialoghtml").dialog({position:center, height:180, width:c7dialoghtml_width});
+  	});
+(function(){    if (!/WebKit/i.test(navigator.userAgent)) return;
+    var el = document.createElement("style");
+    el.type = "text/css";
+    el.media = "screen, projection";
+    document.getElementsByTagName("head")[0].appendChild(el);
+    el.appendChild(document.createTextNode("_safari {}"));})();
+</script>
+
+<div id="c7dialoghtml" title="Contact" us>
+<p style="text-align: center;"><a href="mailto:info@showsilkies.com?subject=Sales%20Inquiries"><img src="http://www.amberwavespygmygoats.com/images/callus.png" alt="Call Us" align="baseline" border="0"></a></p><iframe id="OggChat " src="https://oggchat.icoa.com/c?cid=c094a3a229e78d860129ef25508c00b9&amp;website=http://amberwavespygmygoats.com&amp;height=430&amp;width=340&amp;font=Verdana&amp;fontcolor=000000&amp;fontsize=10pt&amp;bgcolor=FFFFFF&amp;text=_oggchat-img2-on.png" width="225" height="100" scrolling="auto" frameborder="0"> </iframe></div>
+		</div>
+	
+</div>
+</div><!-- block 2 left  -->
+<!-- block 3 right  -->
+
+<!-- block 4 bottom  -->
+<div id="advert3" style="width:100%;">
+<div class="insidem">
+		<div class="moduletable">
+					<h3>Advertise With Us</h3>
+							<table class="adagency_menu_container" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+		<tr align="left">
+			<td><a href="/component/adagency/adagencyAdvertisers/overview.html" class="mainlevel"> Overview</a></td>
+		</tr>
+		<tr align="left">
+			<td><a href="/component/adagency/adagencyPackages.html" class="mainlevel"> Packages</a></td>
+		</tr>
+		
+		<tr align="left">
+			<td><a href="/component/adagency/adagencyAdvertisers/edit/0.html" class="mainlevel"> Register</a></td>
+		</tr>
+		<tr align="left">
+			<td><a href="/advertise-here/advertisement-faqs" class="mainlevel">FAQ</a></td>
+		</tr>
+		<tr align="left">
+			<td><a href="/advertise-here/terms" class="mainlevel">Terms &amp; Conditions</a></td>
+		</tr>
+		</tbody>
+		</table>
+		
+				</div>
+			<div class="moduletable">
+					<form action="http://www.justanswer.com/QuestionSubmit.aspx" method="post">
+<div style="height: 250px; width: 300px; font-size: 15px;">
+<div style="padding: 0px; background: #128094 url(http://www.justanswer.com/uploads/affiliates/top.gif) no-repeat scroll 0% 0%; float: left; width: 298px; height: 180px; text-align: center;">
+<h1 style="margin:10px 0px 0px;font-family: Arial, Verdana, Tahoma, MS Sans Serif;font-size:1.2em;font-weight:bold;color:#ffffff;">Ask a Vet or Pet Expert Online</h1>
+<h2 style="margin:0px;font-family: Arial, Verdana, Tahoma, MS Sans Serif;font-size:.8em;font-weight:normal;color:#ffffff;">We have partnered with JustAnswer so that you can get an answer ASAP.</h2>
+<div style="width: 298px; margin-top: 15px; height: 120px;">
+<div style="margin: 0px auto; background: #128094 url(http://www.justanswer.com/uploads/affiliates/questionbox.gif) no-repeat scroll 0% 0%; width: 270px; height: 120px;"><textarea id="question" style="border: 0px solid #ffffff; margin: 5px 0px 0px 5px; overflow: auto; text-align: left; max-width: 250px; height: 102px; width: 248px; color: #333333; font-family: Arial,Verdana,Tahoma,MS Sans Serif; font-size: 0.8em; font-weight: normal;" onkeydown="limitText(this);" onkeyup="limitText(this);" cols="4" rows="3" name="question">Type your question here</textarea></div>
+</div>
+</div>
+<div style="margin: 0px; padding: 0px; background: #128094 url(http://www.justanswer.com/uploads/affiliates/bottom.gif) no-repeat scroll 0% 0%; float: left; width: 298px; height: 59px;">
+<div style="margin: 10px 10px 10px 5px; width: 283px;"><img src="http://www.justanswer.com/uploads/affiliates/logopwd.gif" border="0" alt="JustAnswer" style="margin-left:10px; float: left;"> <input id="FID" name="FID" type="hidden" value="12"> <input name="RID" type="hidden" value="aes01"> <input style="float:right;" alt="Submit" src="http://www.justanswer.com/uploads/affiliates/submit.gif" type="image"></div>
+</div>
+</div>
+</form>
+<script type="text/javascript">// <![CDATA[
+ var maxCharCount = 1000; var showCharAt = 200; String.prototype.trim = function() { return this.replace(/^\s*|\s*$/, ""); }; function question_onfocus(t, e) { if (t.value.trim() =="Type your question here") { t.value=""; } return true; }; function question_onblur(t, e) { if (t.value.trim() =="") { t.value="Type your question here"; } return true; }; function limitText(limitField) { var limitCount = document.getElementById('countdown'); if (limitField.value.length > maxCharCount) { limitField.value = limitField.value.substring(0, maxCharCount); limitField.scrollTop = limitField.scrollHeight; } }
+// ]]></script>		</div>
+	
+</div>
+</div>
+
+
+<!-- end mods  -->
+
+
+</div>
+</div><!--end mods_holder--><div class="clr"></div>
+</div><!--end main_body-->
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- end centar-->
+<!-- bottomusers 3 --><!-- footer -->
+<div id="footer"><div id="fl" style="font-size:12px; width:980px;"><div id="fr">
+
+
+
+<div id="bottomusers">
+
+<div id="user10" style="width:100%"><div class="usersbottom">		<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Beta (c) www.fijiwebdesign.com -->
+<!-- Begin: AdBrite, Generated: 2009-10-13 12:39:08  -->
+<script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=1376480&amp;br=1"></script>
+<!-- End: AdBrite -->
+<!-- mod_php version 1.0.0.Beta/ -->
+		</div>
+			<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Beta (c) www.fijiwebdesign.com -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11189646-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- mod_php version 1.0.0.Beta/ -->
+		</div>
+			<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Beta (c) www.fijiwebdesign.com -->
+<script type="text/javascript">
+clicksor_layer_border_color = '';
+clicksor_layer_ad_bg = ''; clicksor_layer_ad_link_color = '';
+clicksor_layer_ad_text_color = ''; clicksor_text_link_bg = '';
+clicksor_text_link_color = '#002ec2'; clicksor_enable_text_link = true;
+</script>
+<script type="text/javascript" src="http://ads.clicksor.com/showAd.php?nid=1&amp;pid=113381&amp;adtype=&amp;sid=170483"></script>
+<noscript><a href="http://www.yesads.com">online marketing</a></noscript>
+<!-- mod_php version 1.0.0.Beta/ -->
+		</div>
+	</div></div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+<!-- end footer --><!-- end bottomusers 3-->
+
+<div id="copholder">
+<div id="youjoomla">
+
+<div id="footmod"><ul id="mainlevel-nav"><li><a href="/" class="mainlevel-nav">Home</a></li><li><a href="/liability" class="mainlevel-nav">Liability</a></li><li><a href="/privacy-policies" class="mainlevel-nav" id="active_menu-nav">Privacy policy</a></li><li><a href="http://showsilkies.com/" class="mainlevel-nav">Amber Waves Silkies</a></li></ul></div>
+<!-- 
+<div class="copyright">
+       Copyright &copy; 2008-2010 Amberwavespygmygoats.com. All Rights Reserved <a href="http://www.Orbitcoders.com">Design by Orbitcoders.com  </a>&nbsp;&nbsp;<br  /><a href="/rss"><font color="#FF6600">RSS</font></a> | <a href="http://jigsaw.w3.org/css-validator/" target="_blank" title="CSS Validity" style="text-decoration: none;">
+CSS Valid</a> | <a href="http://www.Orbitcoders.com" target="_blank" title="All Browsers Compatibility" style="text-decoration: none;">All Browsers</a> | <a href="http://validator.w3.org/check/referer" target="_blank" title="XHTML Validity" style="text-decoration: none;">XHTML Valid</a> | <a href="#centarmain">Go to top</a>
+       </div>
+     -->  
+
+
+<div class="copyright">
+       Copyright © 2008-2010 Amberwavespygmygoats.com. All Rights Reserved 
+       </div>
+</div>
+</div>
+</div>
+</div><!-- end main bg closein -->
+
+<!-- login -->
+<script type="text/javascript">
+window.addEvent('domready', function() {
+$('showHideLogin').addEvent('click', function(){
+if($('inset').status =='show'){
+$('showHideLogin').className  = 'newslc';
+$('showHideToolbox').className = 'stool';
+}else if ($('inset').status =='hide'){
+$('showHideLogin').className = 'newsl';
+}
+return true;
+});
+
+
+$('closein').addEvent('click', function(){
+if ($('inset').status =='hide'){
+$('showHideLogin').className = 'newsl';
+}
+return true;
+});
+
+
+
+
+});
+</script>
+
+</body></html>
