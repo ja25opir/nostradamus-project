@@ -42,8 +42,8 @@ class RegexCounterPipeline(PassthroughModelPipeline, TextPipeline):
 
     def tokenizer(self, text):
         reg_matches = self.regex.findall(text)
-        sentences = re.findall('.*?[.!\?]', text)   # split text up into sentences and preserve delimiters
-        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)])   # search for regex matches
+        sentences = re.findall('.*?[.!?]', text)   # split text up into sentences and preserve delimiters
+        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)]) + "\n"  # search for regex matches
         return matches
 
     def export(self, prediction, export_text, url):
@@ -51,7 +51,7 @@ class RegexCounterPipeline(PassthroughModelPipeline, TextPipeline):
         print(url.decode("utf-8"), prediction)
         with open(f"{self.out_dir}/{base64.urlsafe_b64encode(url[:128]).decode('utf-8')}_{prediction:1.4f}.txt",
                   "w") as f:
-            f.write(self.tokenizer(export_text.decode("utf-8")))  # call tokenizer when writing to file
+            f.write(self.tokenizer(export_text.decode("utf-8"))+"\n")  # call tokenizer when writing to file
 
     def start_threads(self):
         def save_stats():
