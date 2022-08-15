@@ -1,0 +1,983 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>YouTube API for Drupal on the Way! | Aaron Winborn</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/codefilter/codefilter.css?g">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/aaronwinborn.com/files/css/css_46abcd55492edd6dcad2ad1b474903ab.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/aaronwinborn.com/files/css/css_3165c0fb4553ab467abbd5f7c4709c26.css">
+    <script type="text/javascript" src="/sites/aaronwinborn.com/files/js/js_b21b71f85ceb1de27e3a1cfbfa674b62.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/aaronwinborn.com/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": 0.8, "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/aaronwinborn.com/themes/awgarland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebars">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/" title="Aaron Winborn"><img src="/sites/aaronwinborn.com/files/color/awgarland-d26a097c/logo.png" alt="Aaron Winborn" id="logo"><span>Aaron Winborn</span></a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="menu-16111 first"><a href="http://advomatic.com/" title="Advomatic (I work there!)">Advomatic</a></li>
+<li class="menu-4015"><a href="http://5secondgame.com/" title="">5 Second Game</a></li>
+<li class="menu-22931"><a href="/video-term/drupalcon-dc" title="Wall of DrupalCon DC Videos">DrupalCon DC Videos</a></li>
+<li class="menu-204"><a href="http://drupal.org/planet" title="Planet Drupal.">Planet Drupal</a></li>
+<li class="menu-201"><a href="http://spindowners.com/" title="Spindowners, an upcoming RPG being developed with Drupal RPG.">Spindowners</a></li>
+<li class="menu-4014 last"><a href="http://singularitycountdown.com/" title="My blog about the coming Singularity.">Singularity Countdown</a></li>
+</ul>                                  
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+          <div class="block block-theme"><form action="/blogs/aaron/youtube-api-drupal-way?page=6" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit-2" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-d65080b7339e408fecace156c55bbb74" value="form-d65080b7339e408fecace156c55bbb74">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+</div>          <div id="block-block-8" class="clear-block block block-block">
+
+  <h2>Drupal Multimedia</h2>
+
+  <div class="content"><p><a href="http://www.packtpub.com/create-multimedia-website-with-drupal/book/mid/230609ykjxg1"><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/drupal-multimedia/book-sm.jpg" alt="Drupal Multimedia" title="Drupal Multimedia">Drupal Multimedia, by Aaron Winborn, Available Now!</a></p>
+</div>
+</div>
+<div id="block-views-popular-block" class="clear-block block block-views">
+
+  <h2>Popular content</h2>
+
+  <div class="content"><div class="view view-popular view-id-popular view-display-id-block view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/migration-not-just-birds">Migration: not just for the birds</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(3,036)</span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/presenting-you-workshop">Presenting You! Workshop</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,995)</span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/flash-cms-drupal-adobe-flex-backend">Flash CMS: Drupal as an Adobe Flex Backend</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,921)</span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/blogs/aaron/reason-no-drupal-me-recently">The Reason No Drupal from me Recently...</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,878)</span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/openid-drupal-and-open-web">OpenID, Drupal, and the Open Web</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,833)</span>
+  </span>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/saving-webchick-time-saga">Saving webchick time - the saga</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,818)</span>
+  </span>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/using-drupal-build-product-managing-news">Using Drupal to build a product: Managing News</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,811)</span>
+  </span>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupal-process-management">Drupal Process Management</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,808)</span>
+  </span>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/scaling-drupal-not-ifhow">Scaling Drupal: Not IF...HOW</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,802)</span>
+  </span>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupalcamp-how-and-q-amp">Drupalcamp, How to and Q &amp;amp; A</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,796)</span>
+  </span>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/protect-your-site-hackers-introduction-security">Protect your site from hackers: Introduction to Security</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,791)</span>
+  </span>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/project-management-fun-and-profit">Project Management For Fun and Profit</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,785)</span>
+  </span>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/usability-drupal-7-amp-future">Usability of Drupal 7 &amp;amp; The Future</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,765)</span>
+  </span>
+</li>
+          <li class="views-row views-row-14 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drush-command-line-drupal-productivity">Drush - command line Drupal productivity</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,763)</span>
+  </span>
+</li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupal-module-development-kickstart">Drupal Module Development Kickstart</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,760)</span>
+  </span>
+</li>
+          <li class="views-row views-row-16 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/objectifying-drupal-introduction-oop">Objectifying Drupal: An introduction to OOP</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,749)</span>
+  </span>
+</li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/building-advanced-social-networks-large-us-university">Building advanced social networks at a large US university</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,731)</span>
+  </span>
+</li>
+          <li class="views-row views-row-18 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/drupal-patterns-managing-and-automating-site-configurations">Drupal Patterns - Managing and Automating Site Configurations</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,690)</span>
+  </span>
+</li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/front-end-performance-%E2%80%93-make-your-website-lightning-fast">Front End Performance – Make Your Website Lightning Fast</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,681)</span>
+  </span>
+</li>
+          <li class="views-row views-row-20 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/selling-you-and-your-drupal-services">Selling You and Your (Drupal) Services</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,665)</span>
+  </span>
+</li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/powering-collaboration-distributed-enterprise">Powering collaboration in a distributed enterprise</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,653)</span>
+  </span>
+</li>
+          <li class="views-row views-row-22 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/practical-semantic-web-and-why-you-should-care">Practical Semantic Web and Why You Should Care</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,644)</span>
+  </span>
+</li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/life-beyond-email-messaging-and-notifications">Life Beyond Email: Messaging and Notifications</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,628)</span>
+  </span>
+</li>
+          <li class="views-row views-row-24 views-row-even">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/video/usability-testing-university-baltimore">Usability testing at the University of Baltimore</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,611)</span>
+  </span>
+</li>
+          <li class="views-row views-row-25 views-row-odd views-row-last">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/blogs/aaron/drupal-dads-day">Drupal Dad's Day</a></span>
+  </span>
+  
+  <span class="views-field-totalcount">
+                <span class="field-content">(2,580)</span>
+  </span>
+</li>
+      </ul>
+</div>    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/blogs/aaron/youtube-api-drupal-way" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/blogs/aaron/youtube-api-drupal-way?page=5" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way" title="Go to page 1" class="active">1</a></li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way?page=5" title="Go to page 6" class="active">6</a></li>
+<li class="pager-current">7</li>
+<li class="pager-item"><a href="/blogs/aaron/youtube-api-drupal-way?page=7" title="Go to page 8" class="active">8</a></li>
+<li class="pager-next"><a href="/blogs/aaron/youtube-api-drupal-way?page=7" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/blogs/aaron/youtube-api-drupal-way?page=7" title="Go to last page" class="active">last »</a></li>
+</ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/popular/all">
+    more  </a>
+</div>
+  
+  
+  
+</div> </div>
+</div>
+<div id="block-user-0" class="clear-block block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/blogs/aaron/youtube-api-drupal-way?destination=node%2F33%3Fpage%3D6" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-openid-identifier-wrapper">
+ <label for="edit-openid-identifier">Log in using OpenID: </label>
+ <input type="text" maxlength="255" name="openid_identifier" id="edit-openid-identifier" size="13" value="" class="form-text">
+ <div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item" id="edit-name-1-wrapper">
+ <label for="edit-name-1">Username or e-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name-1" size="15" value="" class="form-text required">
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required">
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Log in" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-ca0090a1f3db4003994a718470a6e0df" value="form-ca0090a1f3db4003994a718470a6e0df">
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+<input type="hidden" name="openid.return_to" id="edit-openid.return-to" value="http://aaronwinborn.com/openid/authenticate?destination=node%2F33%3Fpage%3D6">
+<div class="item-list"><ul><li class="openid-link first"><a href="/%2523">Log in using OpenID</a></li>
+<li class="user-link last"><a href="/%2523">Cancel OpenID login</a></li>
+</ul></div><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div>
+</div></form>
+</div>
+</div>
+<div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/contact" title="Form to send an e-mail to Aaron Winborn.">Contact Aaron</a></li>
+<li class="leaf"><a href="/my-widget.png" title="A dynamic widget with a node teaser.">My Widget</a></li>
+<li class="leaf"><a href="/popular">Popular content</a></li>
+<li class="leaf"><a href="/tracker">Recent posts</a></li>
+<li class="collapsed last"><a href="/aggregator">Feed aggregator</a></li>
+</ul></div>
+</div>
+<div id="block-block-6" class="clear-block block block-block">
+
+
+  <div class="content"><p><a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://aaronwinborn.com"><img src="http://static.technorati.com/pix/fave/btn-fave2.png" alt="Add to Technorati Favorites"></a></p>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="/">Home</a> › <a href="/blog">Blogs</a> › <a href="/blogs/aaron">aaron's blog</a></div>                              <h2>YouTube API for Drupal on the Way!</h2>                                                  <div class="clear-block">
+            <div id="node-33" class="node">
+
+    <div class="meta">
+          <div class="terms"><span class="label">Categories:</span> <ul class="links inline"><li class="taxonomy_term_18 first"><a href="/drupal-talk" rel="tag" title="">Drupal Talk</a>, </li>
+<li class="taxonomy_term_10"><a href="/taxonomy/term/10" rel="tag" title="">Embedded Media Field</a>, </li>
+<li class="taxonomy_term_50"><a href="/taxonomy/term/50" rel="tag" title="">Embedded Video Field</a>, </li>
+<li class="taxonomy_term_79"><a href="/category/tags/media-mover" rel="tag" title="">Media Mover</a>, </li>
+<li class="taxonomy_term_17"><a href="/drupal" rel="tag" title="">Planet Drupal</a></li>
+<li class="taxonomy_term_82 last"> and <a href="/category/tags/youtube-api" rel="tag" title="">YouTube API</a>.</li>
+</ul></div>
+        </div>
+
+
+
+      <span class="submitted">Fri, 06/13/2008 - 12:53 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  <div class="content clear-block">
+    
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fyoutube-api-drupal-way&amp;linkname=YouTube%20API%20for%20Drupal%20on%20the%20Way%21" id="da2a_1"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var a2a_config = a2a_config || {}, da2a = {ready: false, html_ready: false, script_ready: false, script_onready: function() { da2a.script_ready = true; if(da2a.html_ready)da2a.init(); }}; a2a_config.tracking_callback = ['ready', da2a.script_onready];
+(function(){var a = document.createElement('script');a.type = 'text/javascript';a.async = true;a.src = 'http://static.addtoany.com/menu/page.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(a, s);})();
+//--><!]]>
+</script>
+		<p>I blogged briefly recently about <a href="http://aaronwinborn.com/blogs/aaron/youtube-expands-api-good-embedded-media-field">YouTube's new and improved API</a>. Soon thereafter, there was a <a href="http://groups.drupal.org/node/9829">flurry of discussion</a> about creating a Google Summer of Code project to integrate it with Drupal, including a <a href="http://groups.drupal.org/node/10295">proposal</a> that wasn't accepted, but I believe nothing further happened from that point.</p>
+<p>Until now.</p>
+<p><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/youtube-api-demo.png" align="right"></p>
+<p>Brad Bowman (<a href="http://drupal.org/user/120651">beeradb</a>) has stepped up to the plate and created a YouTube API wrapper. He hasn't released it yet, though he indicated that he plans to early next week. I have had the honor of an early review, and it is nice to work with.</p>
+<p>I set it up on a test server, and was able to upload a video to its file directory and have it also uploaded to YouTube, showing up in my user account almost immediately. The API also let me view my YouTube video user feed, so I could verify the results without leaving my site.</p>
+<p>Additionally, when retrieving videos, you have access to everything stored at YouTube with that video, including video duration (as shown in the screen shot), description, and user comments.</p>
+<p><strong>The next step,</strong> after Brad releases the module, will be to integrate it with the other modules that can benefit from it: <a href="http://drupal.org/project/emfield">Embedded Media Field</a>, <a href="http://drupal.org/project/media_mover">Media Mover,</a> and others. </p>
+<p>The API itself is fairly easy to set up. You first need to get a Developer Key and Client ID from the <a href="http://code.google.com/apis/youtube/dashboard/">YouTube Developer's Dashboard</a>, and paste them into the administration screen for the module. Then you're off to go! It works out of the box from that point.</p>
+<p>The module comes with an example page where you can test everything, although I expect that will be moved to an example module by the time of the release.</p>
+<p>This is us moving one step closer to a semantic web, with interchangeable parts seamlessly woven together into a quilted garment that is no longer one-size-fits-all.</p>
+<p>(And here's the video shown in the screenshot, if you're curious...)</p>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZOadTflvdBg&amp;hl=en"><embed src="http://www.youtube.com/v/ZOadTflvdBg&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344"></object>  </div>
+
+  <div class="clear-block">
+
+
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blogs/aaron" title="Read aaron's latest blog entries.">aaron's blog</a></li>
+<li class="addtoany last"><span>
+		<a class="da2a_button" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Faaronwinborn.com%2Fblogs%2Faaron%2Fyoutube-api-drupal-way&amp;linkname=YouTube%20API%20for%20Drupal%20on%20the%20Way%21" id="da2a_2"><img src="/sites/all/modules/addtoany/images/share_save_171_16.png" width="171" height="16" alt="Share this"></a>
+		
+		</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="comments"><h2 class="comments">Comments</h2><a id="comment-137"></a>
+<div class="comment comment-published odd">
+
+  <div class="clear-block">
+      <span class="submitted">Sun, 08/17/2008 - 00:28 — <a href="http://www.monexfraud.com" rel="nofollow">Jason</a> (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-137" class="active">The YouTube API</a></h3>
+
+    <div class="content">
+      <p>The YouTube Custom player API looks really good. Here's the link to it: <a href="http://www.youtube.com/custom_player">http://www.youtube.com/custom_playe</a><a href="http://www.monexfraud.com">r</a></p>
+<p>I'm lovin' this thing!</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/137">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-115"></a>
+<div class="comment comment-published even">
+
+  <div class="clear-block">
+      <span class="submitted">Wed, 08/13/2008 - 23:54 — <a href="http://www.anchorpointdesignsd.com" rel="nofollow">don</a> (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-115" class="active">We are getting ready to start</a></h3>
+
+    <div class="content">
+      <p>We are getting ready to start developing in Drupal but we have been researching the differences between Drupal an WordPress and the effects of CSS with both… Can anyone provide any feedback between the pros and cons of each? Thanks!</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/115">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-117"></a>
+<div class="comment comment-published odd">
+
+  <div class="clear-block">
+      <span class="submitted">Thu, 08/14/2008 - 14:10 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  
+  <div class="picture">
+  <a href="/users/aaron" title="View user profile."><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/pictures/picture-1.png" alt="aaron's picture" title="aaron's picture"></a></div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-117" class="active">Here you go...</a></h3>
+
+    <div class="content">
+      <p><a href="http://aaronwinborn.com/blogs/aaron/drupal-wordpress-or-joomla-a-trick-question">Drupal, WordPress, or Joomla? (A Trick Question)</a></p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/117">reply</a></li>
+</ul></div>
+  </div>
+</div><a id="comment-71"></a>
+<div class="comment comment-published even">
+
+  <div class="clear-block">
+      <span class="submitted">Thu, 07/17/2008 - 10:27 — Marco (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-71" class="active">This must be a great mudule</a></h3>
+
+    <div class="content">
+      <p>Any news yet about the relaese of the module?</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/71">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-72"></a>
+<div class="comment comment-published odd">
+
+  <div class="clear-block">
+      <span class="submitted">Fri, 07/18/2008 - 02:57 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  
+  <div class="picture">
+  <a href="/users/aaron" title="View user profile."><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/pictures/picture-1.png" alt="aaron's picture" title="aaron's picture"></a></div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-72" class="active">RC on the way</a></h3>
+
+    <div class="content">
+      <p>I understand that a release candidate is just around the corner.</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/72">reply</a></li>
+</ul></div>
+  </div>
+</div><a id="comment-65"></a>
+<div class="comment comment-published even">
+
+  <div class="clear-block">
+      <span class="submitted">Sun, 07/13/2008 - 17:56 — <a href="http://freakingames.net" rel="nofollow">coolgames</a> (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-65" class="active">I think the Youtube API is a</a></h3>
+
+    <div class="content">
+      <p>I think the Youtube API is a good idea. You say that it is fast, easy, simple, and you didn't mention any bugs. Seems good to me. Cute video = ]</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/65">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-173"></a>
+<div class="comment comment-published odd">
+
+  <div class="clear-block">
+      <span class="submitted">Sat, 09/06/2008 - 19:15 — Anonymous</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-173" class="active">Youtube API is going to be</a></h3>
+
+    <div class="content">
+      <p>Youtube API is going to be great for Drupal. It's great to be able to integrate YouTube's video content and fucntionality into a website.</p>
+<p>Thanks, supreme buy</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/173">reply</a></li>
+</ul></div>
+  </div>
+</div><a id="comment-54"></a>
+<div class="comment comment-published even">
+
+  <div class="clear-block">
+      <span class="submitted">Tue, 07/01/2008 - 07:33 — Claudio Cicali (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-54" class="active">I once did the same thing</a></h3>
+
+    <div class="content">
+      <p>I hope you guys used Zend Framework API :)</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/54">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-56"></a>
+<div class="comment comment-published odd">
+
+  <div class="clear-block">
+      <span class="submitted">Wed, 07/02/2008 - 23:27 — <a href="/users/aaron" title="View user profile.">aaron</a></span>
+  
+  
+  <div class="picture">
+  <a href="/users/aaron" title="View user profile."><img src="http://aaronwinborn.com/sites/aaronwinborn.com/files/pictures/picture-1.png" alt="aaron's picture" title="aaron's picture"></a></div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-56" class="active">Out of Scope</a></h3>
+
+    <div class="content">
+      <p>We'd discussed the option, but decided against it, since it would require the installation of that library, which would also be a bit of an overkill for the needs of this module. However, the <a href="http://drupal.org/project/zend">Zend Framework</a> module does integrate that, and we've discussed adding optional support if that's installed.</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/56">reply</a></li>
+</ul></div>
+  </div>
+<div class="indented"><a id="comment-57"></a>
+<div class="comment comment-published even">
+
+  <div class="clear-block">
+      <span class="submitted">Thu, 07/03/2008 - 08:00 — Anonymous (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-57" class="active">well i dont know</a></h3>
+
+    <div class="content">
+      <p>well i dont know</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/57">reply</a></li>
+</ul></div>
+  </div>
+</div></div><a id="comment-36"></a>
+<div class="comment comment-published odd">
+
+  <div class="clear-block">
+      <span class="submitted">Sat, 06/14/2008 - 15:53 — <a href="/users/rob-loach" title="View user profile.">Rob Loach</a> [<a href="http://www.robloach.net/">blog</a>]</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-36" class="active">Great News!</a></h3>
+
+    <div class="content">
+      <p>Can't wait to have fun with the API! *cough* <a href="http://drupal.org/project/annotationfield" title="http://drupal.org/project/annotationfield">http://drupal.org/project/annotationfield</a></p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/36">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-35"></a>
+<div class="comment comment-published even">
+
+  <div class="clear-block">
+      <span class="submitted">Fri, 06/13/2008 - 17:41 — <a href="http://www.bywombats.com" rel="nofollow">Ryan</a> (not verified)</span>
+  
+  
+  <div class="picture">
+  </div>
+
+    <h3><a href="/blogs/aaron/youtube-api-drupal-way#comment-35" class="active">Thanks for the post...</a></h3>
+
+    <div class="content">
+      <p>I love Silly Symphony cartoons.  : )</p>
+<p>Anyways, great news on the movement.  I look forward to putting it good use in the future!</p>
+          </div>
+  </div>
+
+      <div class="links"><ul class="links"><li class="comment_reply first last"><a href="/comment/reply/33/35">reply</a></li>
+</ul></div>
+  </div>
+<div class="box">
+
+  <h2>Post new comment</h2>
+
+  <div class="content"><form action="/comment/reply/33" accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Your name: </label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="Anonymous" class="form-text">
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">E-mail: </label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text">
+ <div class="description">The content of this field is kept private and will not be shown publicly.</div>
+</div>
+<div class="form-item" id="edit-homepage-wrapper">
+ <label for="edit-homepage">Homepage: </label>
+ <input type="text" maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text">
+</div>
+<div class="form-item" id="edit-subject-wrapper">
+ <label for="edit-subject">Subject: </label>
+ <input type="text" maxlength="64" name="subject" id="edit-subject" size="60" value="" class="form-text">
+</div>
+<div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment" class="form-textarea resizable required"></textarea>
+</div>
+<ul class="tips"><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Allowed HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt; &lt;strike&gt; &lt;p&gt; &lt;b&gt; &lt;i&gt;</li><li>Lines and paragraphs break automatically.</li><li>You may post code using &lt;code&gt;...&lt;/code&gt; (generic) or &lt;?php ... ?&gt; (highlighted PHP) tags.</li></ul><p><a href="/filter/tips">More information about formatting options</a></p><input type="hidden" name="form_build_id" id="form-bee257a69f3021ccbae46b5a5a2a182d" value="form-bee257a69f3021ccbae46b5a5a2a182d">
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form">
+<input type="hidden" name="mollom[session_id]" id="edit-mollom-session-id" value="" class="mollom-session-id">
+<input type="submit" name="op" id="edit-submit" value="Save" class="form-submit">
+<input type="submit" name="op" id="edit-preview" value="Preview" class="form-submit">
+
+</div></form>
+</div>
+</div>
+</div>          </div>
+                    <div id="footer"><div id="block-system-0" class="clear-block block block-system">
+
+
+  <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15"></a></div>
+</div>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-block-1" class="clear-block block block-block">
+
+
+  <div class="content"><div id="adsense-skyscraper-wide-1" class="adsense adsense-skyscraper-wide"><script type="text/javascript"><!--
+google_ad_client = "pub-0048007647043471";
+/* 160x600, aaronwinborn wide skyscraper 2008-06-07 */
+google_ad_slot = "1740793573";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div></div>
+</div>
+<div id="block-views-comments_recent-block" class="clear-block block block-views">
+
+  <h2>Recent comments</h2>
+
+  <div class="content"><div class="view view-comments-recent view-id-comments_recent view-display-id-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/built-a-new-widget#comment-2009">Jo Barton</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://suahkw.is.com/m" rel="nofollow">Sonia Moody</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>8 hours 7 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p><a href="http://rwijm.is.com/fm">Free Ocean Powerpoint Backgrounds</a><br>
+<a href="http://jphruuz.is.com/2m">Christmas Decorating Ideas Stairways</a><br>
+<a href="http://suahkw.is.com/iq">Nfl Playoff Tree 2006</a><br>
+<a href="http://iuuepkpei.is.com/2p">28mm Deck Plan</a><br>
+<a href="http://suahkw.is.com/k8">Pinched Nerve Neck Working Out</a><br>
+<a href="http://jphruuz.is.com/15p">Lift Carry Story</a><br>
+<a href="http://iuuepkpei.is.com/kp">Myspace Cursor For Mac</a><br>
+<a href="http://lmmeyxmc.is.com/jo">Games Online Seek And Find</a><br>
+<a href="http://rwijm.is.com/fg">70s Trivia Questions</a><br>
+<a href="http://lmmeyxmc.is.com/oe">Older Women Lactating</a><br>
+<a href="http://suahkw.is.com/3m">Kindergarten Poems First Day</a><br>
+<a href="http://suahkw.is.com/hq">One Minute Comedic Monologues For Men</a><br>
+<a href="http://lmmeyxmc.is.com/1u">Printable Graffiti</a><br>
+<a href="http://rwijm.is.com/13e">Locating Canine Lymph Nodes</a><br>
+<a href="http://iuuepkpei.is.com/n1">Used Truck Caps For Sale Buffalo Ny</a><br>
+<a href="http://lmmeyxmc.is.com/gu">4x6 Cargo Trailer</a><br>
+<a href="http://jphruuz.is.com/yl">Real Street Fights Caught On Tape</a><br>
+<a href="http://suahkw.is.com/7n">Diagram On Digestive System Of A Bear</a><br>
+<a href="http://lmmeyxmc.is.com/5p">Bock Solar Water Heaters</a><br>
+<a href="http://lmmeyxmc.is.com/6v">Honey Baked Ham Centerville Oh</a><br>
+<a href="http://iuuepkpei.is.com/138">Bending Over Mini Skirt</a><br>
+<a href="http://lmmeyxmc.is.com/d9">Height And Weight Chart Ratio</a><br>
+<a href="http://jphruuz.is.com/f">Sallow Free Trailers</a><br>
+<a href="http://suahkw.is.com/10n">Bee Leadership Styles</a><br>
+<a href="http://rwijm.is.com/10j">Marysville Outlet Mall</a><br>
+<a href="http://iuuepkpei.is.com/xb">Patterns For Goose Clothing</a><br>
+<a href="http://jphruuz.is.com/bm">Cross Tattoo Flash</a><br>
+<a href="http://jphruuz.is.com/qq">Tawnee Stones En La Playa</a><br>
+<a href="http://jphruuz.is.com/pc">Free Version Adobe Acrobat Reader 6.0</a><br>
+<a href="http://iuuepkpei.is.com/4z">The Rolling Stones Wallpaper</a><br>
+<a href="http://rwijm.is.com/i8">Pokemon Emerald Gameshark Sp Cheat Codes</a><br>
+<a href="http://jphruuz.is.com/tv">Printable Blank Rulers</a><br>
+<a href="http://suahkw.is.com/10y">Ford Galaxie 500 Xl For Sale</a><br>
+<a href="http://lmmeyxmc.is.com/ao">Baseball World Series Myspace Layout</a><br>
+<a href="http://rwijm.is.com/3j">Free Restaurant Menu Design</a><br>
+<a href="http://iuuepkpei.is.com/13k">Glock Auto Conversion Drawing</a><br>
+<a href="http://iuuepkpei.is.com/z5">Clouds Worksheet First Grade</a><br>
+<a href="http://lmmeyxmc.is.com/13h">Free Easy Knitting Patterns</a><br>
+<a href="http://iuuepkpei.is.com/cu">Fleur De Lis Print Online Free</a><br>
+<a href="http://iuuepkpei.is.com/st">Tv Remote Program Codes</a></p>
+<p>大阪　デリヘル</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/drupal-dads-day#comment-2008">Rob Chen</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://rwijm.is.com/dm" rel="nofollow">Tony Shelton</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>8 hours 46 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p><a href="http://lmmeyxmc.is.com/9u">Pinoy Online Store</a><br>
+<a href="http://suahkw.is.com/fh">Bunnies Eiffel Tower</a><br>
+<a href="http://lmmeyxmc.is.com/b5">Age Of Empires 3 Product Key And Crack</a><br>
+<a href="http://suahkw.is.com/lo">2005 Top 40 Rock Songs</a><br>
+<a href="http://lmmeyxmc.is.com/s1">Wiring Diagram For Radio Gm</a><br>
+<a href="http://lmmeyxmc.is.com/ut">Maternity Dresses In Houston Tx</a><br>
+<a href="http://rwijm.is.com/ld">Schnauzer Chihuahua Mix</a><br>
+<a href="http://lmmeyxmc.is.com/bj">Printable Hello Kitty Valentine's Cards</a><br>
+<a href="http://jphruuz.is.com/vc">Yuna Flash Game</a><br>
+<a href="http://suahkw.is.com/13">Apply Concealed Weapons Permit Oregon</a><br>
+<a href="http://rwijm.is.com/ys">Punk Women's Short Hairstyles Photo</a><br>
+<a href="http://suahkw.is.com/wo">Horse Template Joomla</a><br>
+<a href="http://jphruuz.is.com/88">Train Lady Coloring Page</a><br>
+<a href="http://iuuepkpei.is.com/3n">Military Display Cases</a><br>
+<a href="http://lmmeyxmc.is.com/1s">A Map Of Spain With The Capital Marked</a><br>
+<a href="http://lmmeyxmc.is.com/2a">Tropical Rainforest Lanforms</a><br>
+<a href="http://rwijm.is.com/3u">Pam Anderson Laid</a><br>
+<a href="http://lmmeyxmc.is.com/gh">2004 Dodge Stratus Repair Manual</a><br>
+<a href="http://suahkw.is.com/13j">Large Flower Origami</a><br>
+<a href="http://iuuepkpei.is.com/yp">Against School Dress Codes</a><br>
+<a href="http://suahkw.is.com/lm">Prom Dresses England</a><br>
+<a href="http://suahkw.is.com/166">Mens Slipper Acrylic Knitting Pattern</a><br>
+<a href="http://rwijm.is.com/jo">Harry Potter Movie Theme Song</a><br>
+<a href="http://lmmeyxmc.is.com/ml">Windows Xp Pro Upgrade Cd Key Gen</a><br>
+<a href="http://lmmeyxmc.is.com/10o">Universal Remote Sanyo</a><br>
+<a href="http://suahkw.is.com/14h">Ice Cream Recipes</a><br>
+<a href="http://lmmeyxmc.is.com/fp">Pictures Of Butterflies On Body</a><br>
+<a href="http://rwijm.is.com/156">Ceramic Wood Stove</a><br>
+<a href="http://iuuepkpei.is.com/4c">Women Formal Wear</a><br>
+<a href="http://suahkw.is.com/l9">Cole Fireplace Insert</a><br>
+<a href="http://lmmeyxmc.is.com/u8">Free Adobe Elements Full Version</a><br>
+<a href="http://lmmeyxmc.is.com/10u">Power Ranger Toddler Games</a><br>
+<a href="http://iuuepkpei.is.com/yf">Cherry Print Fabric</a><br>
+<a href="http://suahkw.is.com/2t">High Carbohydrate Food List</a><br>
+<a href="http://jphruuz.is.com/10x">Printable Short Poems</a><br>
+<a href="http://iuuepkpei.is.com/me">Printable Free Map Of Spain</a><br>
+<a href="http://suahkw.is.com/hr">Money Making In Conqueronline</a><br>
+<a href="http://lmmeyxmc.is.com/sy">Kids Name Tags</a><br>
+<a href="http://iuuepkpei.is.com/xc">True Love Download Free 95</a><br>
+<a href="http://rwijm.is.com/r0">California Highway Patrol Weapon Sale</a></p>
+<p>大阪　デリヘル</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/minimalist-drupal-themes#comment-2007">大阪　デリヘル</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://www.shinchakun.com/" rel="nofollow">大阪　デリヘル</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>23 hours 50 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p>新着ん。は<a href="http://www.shinchakun.com/">大阪　デリヘル</a>、大阪　ホテヘルなどのリアルタイム情報を掲載しています。<br>
+<a href="http://blog.livedoor.jp/osaka_huzoku/">大阪　デリヘル</a>をご利用したいとお考えの方、<a href="http://osakanohuzoku.blog13.fc2.com/">大阪　デリヘル</a>に興味をお持ちの方は是非こちらの<a href="http://www.kinspo.jp/">大阪　デリヘル</a>サイトをご覧下さい。<br>
+<a href="http://www.osakadelivery.com/">大阪　デリヘル</a>、大阪　風俗。キャバクラ、ホスト等の高収入求人情報に興味のある方は<a href="http://www.galsworker-plus.com/">大阪　高収入求人</a>ワーカープラスへ！</p>
+<p><a href="http://www.at-copy.net/">中古コピー機</a>専門店アットコピーは、<a href="http://ameblo.jp/atcopy/">中古コピー機</a>を「あっと」驚く価格。「あっと」いう間に全国配送致します！<a href="http://oldcopy.blog99.fc2.com/">中古コピー機</a>ならアットコピーへ！</p>
+<p>神戸で<a href="http://www.warpnetwork.com/">風俗</a>、<a href="http://www.warpnetwork.com/">ヘルス</a>をお探しならこちらで！！</p>
+<p>神戸でアルバイトをお探しなら<a href="http://www.warp-recruit.com/">神戸　高収入アルバイト</a>で！<a href="http://www.warp-recruit.com/m/">神戸　高収入アルバイト</a>ならきっとお望みのアルバイトが見つかります！</p>
+<p><a href="http://www.actiblog.com/jrap/">日本語ラップ</a>好きによるBLOG。メディアで知ることの出来ないアーティストも多数紹介しています！<br>
+大手流通では置いていない<a href="http://soundgarden2008.com/">日本語ラップ　通販</a>はこちら。</p>
+<p>漫画好きによる<a href="http://manga55.exblog.jp/">漫画 おすすめ マンガ</a>のBLOGです。歴史的名作からB級作品まで、様々な漫画を紹介します！</p>
+<p>誰が何と言おうと<a href="http://newworldoder.cocolog-nifty.com/blog/">プロレス</a>は最高です！プロレスLOVEな男によるBLOGです。</p>
+<p>崇高なる音楽<a href="http://plaza.rakuten.co.jp/ironman55/">ヘビーメタル</a>を愛する人間によるBLOGです。</p>
+<p>日本人の精神を見失った人達へのメッセージ。<a href="http://j-aikokushin.jugem.jp/">愛国心</a>を取り戻しましょう！</p>
+<p>名作「<a href="http://hokutonootokotati.seesaa.net/">北斗の拳</a>」から人生を学びましょう。</p>
+<p>CDやDVDを作りたい方、<a href="http://yaplog.jp/cdpress/">CD　プレス</a>BLOGを参考にして下さい。</p>
+<p>世界に誇る素晴らしい<a href="http://jpopsaikou.at.webry.info/">J-POP</a>を紹介します。</p>
+<p>夜のお仕事,、<a href="http://www.mnavi.jp/">キャバクラ　求人</a>,大阪･神戸･京都･滋賀･奈良･和歌山の高収入ﾊﾞｲﾄ情報のエムナビ｡<a href="http://www.mnavi.jp/">キャバクラ　アルバイト</a>をお探しの方に最適！</p>
+<p>毎日使える無料<a href="http://mdecome.jp/">デコメ</a>画像素材サイト！会員登録無しで取り放題。</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/minimalist-drupal-themes#comment-2006">CD　プレス</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://www.yasui-press.com/" rel="nofollow">CD　プレス</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>23 hours 54 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p>CD,DVDをプレスするなら高品質で激安の<a href="http://www.yasui-press.com/">CD　プレス</a>、YASUI PRESSで！</p>
+<p>フライヤー、ポスター、冊子、ステッカー…印刷なら「安い」「早い」<a href="http://www.yotsuba-insatsu.com/">印刷　激安</a>のYOTSUBA印刷で！</p>
+<p>HipHop,R&amp;B,Reggae,Houseの<a href="http://www.monster-dream.com/">MIX CD</a>なら<a href="http://www.monstermusic-store.com/">MIX CD　通販</a>Monster Musicのページで！</p>
+<p>大阪でロープライス、ハイクオリティーなデリヘルをお探しなら<a href="http://www.pin-colle.net/">大阪　デリヘル</a>で！</p>
+<p>大阪でお仕事をお探しの方は<a href="http://www.pink-job.jp/">大阪　高収入求人</a>で！</p>
+<p>フラミンゴヒップはブランド<a href="http://www.rakuten.ne.jp/gold/flamingohip/">コスメ</a>、海外コスメ、韓国コスメ、香水、アパレル、雑貨などを豊富な品揃えで、激安通販しております。</p>
+<p>CMのBGM、WEB用のオリジナル楽曲の制作なら<a href="http://www.ongakuseisaku.net/">音楽制作</a>で！</p></div>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-subject">
+                <span class="field-content"><a href="/blogs/aaron/drupal-dads-day#comment-2005">sfefew</a></span>
+  </div>
+  
+  <div class="views-field-name">
+                <span class="field-content"><a href="http://www.jeansonlineclothing.com/" rel="nofollow">r43</a> (not verified)</span>
+  </div>
+  
+  <div class="views-field-timestamp">
+                <span class="field-content"><em>1 day 7 min</em> ago</span>
+  </div>
+  
+  <div class="views-field-comment">
+                <div class="field-content"><p>Një person që ecin në shi dritë mbrëmje<br>
+Mendoni për mendjen, të menduarit e ju prej së largu<br>
+era butë, shi drita<br>
+dëshirë e madhe kujdesshëm, kënaqin në erë dhe shi në sintezë të ekranit<br>
+Gjithmonë mendojnë se çfarë i takon në kujtesën e jetës së kaluar<br>
+Në mënyrë që të plotësojnë një të bukur<br>
+Në Zot unë nuk e di se sa kohë para se të kërkojnë<br>
+Ju lutem, qiell-na dërgoi një shans<br>
+Filloni me i ri tuaj</p></div>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/comments/recent">
+    more  </a>
+</div>
+  
+  
+  
+</div> </div>
+</div>
+<div id="block-node-0" class="clear-block block block-node">
+
+  <h2>Syndicate</h2>
+
+  <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate" width="16" height="16"></a></div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+da2a.init = function(){
+a2a_config.linkname='YouTube API for Drupal on the Way!'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/youtube-api-drupal-way'; a2a.init('page', {target: '#da2a_1'});
+a2a_config.linkname='YouTube API for Drupal on the Way!'; a2a_config.linkurl='http://aaronwinborn.com/blogs/aaron/youtube-api-drupal-way'; a2a.init('page', {target: '#da2a_2'});
+da2a.ready = true;
+}
+da2a.html_ready = true;
+if(da2a.script_ready && !da2a.ready)da2a.init();
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/aaronwinborn.com/files/js/js_2210100a40493bc7aefa2b4dc761321f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-962486-7");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+  
+
+</body></html>

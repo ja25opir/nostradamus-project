@@ -1,0 +1,981 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="generator" content="MediaWiki 1.13.1">
+		<meta name="robots" content="noindex,nofollow">
+		<meta name="keywords" content="What's New,SEC memo.pdf,FBI-on-alMihdhar-alHazmi-Part1.pdf,FBI-on-alMihdhar-alHazmi-Part2.pdf,FrontOffice Box5 EmergencyResponse Folder1-Tab5 AlanReissMFR.pdf,FrontOffice Box5 EmergencyResponse Folder1-Tab5 JosephMorrisMFR.pdf,FrontOffice Box5 EmergencyResponse Folder1-Tab6 BernardKerik.pdf,FrontOffice Box5 EmergencyResponse Folder1-Tab6 ThomasVonEssen.pdf,FrontOffice Box5 EmergencyResponse Folder1-Tab6 RichardSheirer.pdf,FrontOffice Box5 EmergencyResponse Folder3-Tab6 RudyGiuliani.pdf,Team8 Box16 MiscWorkPapers NRO-Exercise.pdf">
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="911myths (en)">
+		<link rel="alternate" type="application/rss+xml" title="911myths RSS Feed" href="http://911myths.com/index.php?title=Special:RecentChanges&amp;feed=rss">
+		<link rel="alternate" type="application/atom+xml" title="911myths Atom Feed" href="http://911myths.com/index.php?title=Special:RecentChanges&amp;feed=atom">
+		<title>What's New - 911myths</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/skins/common/shared.css?164";
+			@import "/skins/monobook/main.css?164";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/skins/common/commonPrint.css?164">
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/skins/monobook/IE50Fixes.css?164";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/skins/monobook/IE55Fixes.css?164";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/skins/monobook/IE60Fixes.css?164";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/skins/monobook/IE70Fixes.css?164";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/skins/common/IEFixes.js?164"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script type="text/javascript">/*<![CDATA[*/
+var skin = "monobook";
+var stylepath = "/skins";
+var wgArticlePath = "/index.php/$1";
+var wgScriptPath = "";
+var wgScript = "/index.php";
+var wgVariantArticlePath = false;
+var wgActionPaths = [];
+var wgServer = "http://911myths.com";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "What\'s_New";
+var wgTitle = "What\'s New";
+var wgAction = "view";
+var wgArticleId = "1423";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "9328";
+var wgVersion = "1.13.1";
+var wgEnableAPI = true;
+var wgEnableWriteAPI = false;
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+/*]]>*/</script>
+                
+		<script type="text/javascript" src="/skins/common/wikibits.js?164"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins/common/ajax.js?164"></script>
+		<script type="text/javascript" src="/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/index.php?title=MediaWiki:Monobook.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/index.php?title=-&action=raw&gen=css&maxage=18000";
+/*]]>*/</style>
+	</head>
+<body class="mediawiki ns-0 ltr page-What_s_New">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">What's New</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From 911myths</h3>
+			<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 20:55, 16 September 2010 by <a href="/index.php?title=User:Mike&amp;action=edit&amp;redlink=1" class="new" title="User:Mike (not yet written)">Mike</a>  (<a href="/index.php?title=User_talk:Mike&amp;action=edit&amp;redlink=1" class="new" title="User talk:Mike (not yet written)">Talk</a> | <a href="/index.php/Special:Contributions/Mike" title="Special:Contributions/Mike">contribs</a>)</div>
+
+				<div id="mw-revision-nav">(<a href="/index.php?title=What%27s_New&amp;diff=prev&amp;oldid=9328" title="What's New">diff</a>) <a href="/index.php?title=What%27s_New&amp;direction=prev&amp;oldid=9328" title="What's New">←Older revision</a> | Current revision (diff) | Newer revision→ (diff)</div>
+			</div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>16th September 2010</b>
+</p><p>I came across a couple of reports from Australia and New Zealand, apparently reporting similar "Israeli art student" scams as occurred in the US prior to 9/11, including one with the line "Police say the fake artwork is part of a global fraud scam allegedly involving Israeli nationals, which has been operating in Europe, America and Australia for more than eight years".  See the <a href="/index.php/Israeli_Art_Students" title="Israeli Art Students">Israeli Art Students</a> page for the details.
+</p><p><br>
+<b>5th August 2010</b>
+</p><p>Wow, it's been even longer. 
+</p><p>Anyway, no significant addition, I just got tired of seeing people quote 9/11 Commissioner Bob Kerrey saying "There are ample reasons to suspect that there may be some alternative to what we outlined in our version,” without ever including a context. And so I've provided one <a href="/index.php/Bob_Kerrey" title="Bob Kerrey">on this page</a>.  There's an entire section to do on this idea that the 9/11 Commissioners have disowned the report, really - something for the future.
+</p><p><br>
+<b>12th April 2010</b>
+</p><p>It's been a long time! Constant real-life work pressures are keeping me occupied, unfortunately (for the sake of the site, anyway, if not for me), and I don't know when that's going to change.
+</p><p>Still, there are a couple of developments to report.
+</p><p>First, the 9/11 Commission refer in their report to the pre-9/11 put options trading, and talk about an SEC memo on the subject. To my knowledge that's not been released before, but after an appeal I placed a very long time ago (November 2007), it's finally been made public. There's nothing too exciting here that I can see, but if you're interested in the put options argument then you need to take a look, <a href="/index.php/Image:SEC_memo.pdf" title="Image:SEC memo.pdf">and you'll find the document here</a>.
+</p><p>And second, are you familiar with the photo that's supposed to show Zbigniew Brzezinski and Osama bin Laden?  Want to know when and where it was really taken? <a href="/index.php/Bin_Laden_and_Brzezinski" title="Bin Laden and Brzezinski">Read more here.</a>
+</p><p><br>
+<b>3rd February 2010</b>
+</p><p>The bad news: I don't think I'm going to be able to spend two weeks fixing broken links: it's just too tedious.
+</p><p>The better news: at least I've fixed 50 or more in the past few days, so things are a lot better than they were. And while there are still some other broken links, many of them aren't obviously fixable (nothing at the Internet archive and no other references online, either). So that's quite enough site maintenance for the moment. Once I've completed this busy work spell I'll get back to something more interesting, hopefully.
+</p><p><br>
+<b>23rd January 2010</b>
+</p><p>It's been a very long time since I did a general check of the links on this site, and unsurprisingly plenty have disappeared in the meantime. I'm too busy with work to blitz them all right away, but I'll try and fix a few every day, &amp; hopefully will have most fixed in a couple of weeks or so.
+</p><p><br>
+<b>13th January 2010</b>
+</p><p>I've added a clip from the BBC's recent Conspiracy Files programme, where they had an experienced image analyst look at the "fatty bin Laden" tape and the 2004 video. It turned out he thought they were both genuine. If you're interested, then you can <a href="/index.php/Confession_video#Videos" title="Confession video">see the clip here</a> (it's the one captioned "Conspiracy Files" analysis). It's fairly high resolution, though, and a 22MB file, so you'll need a broadband connection to view it properly.
+</p><p><br>
+<b>6th January 2010</b>
+</p><p>Is there really evidence that IntelCenter are faking al Qaeda videos?  <a href="/index.php/IntelCenter_and_al_Qaeda_videos" title="IntelCenter and al Qaeda videos">Let's look at one claim here</a>.
+</p><p><br>
+<b>30th December 2009</b>
+</p><p>I've always thought it was bizarre that people use early suspects like Amer Kamfar to try and poke holes in the "official story". Now I thought I'd <a href="/index.php/Amer_Kamfar" title="Amer Kamfar">write a page to say why.</a>  Nothing significant, really, but perhaps someone will find it useful.
+</p><p><br>
+<b>10th December 2009</b>
+</p><p>I came across the full transcript (and video clips) of the bin Laden interview from 21st October 2001, where he's reacting to the attacks.  It's worth a look: <a href="/index.php/Bin_Laden_interview_21st_October_2001" title="Bin Laden interview 21st October 2001">see here</a>.
+</p><p>Miles Kara was a member of the Joint Inquiry into 9/11, and later joined the 9/11 Commission staff, where as a member of Team 8 he investigated what the FAA and NORAD did (and did not) do during the attacks.  While he believes the Commission "established the essential facts of the day", Kara also feels that "tight time constraints" prevented him from doing everything he wanted to do.  So now he's back with his own blog, examining transcripts, listening to FAA and NORAD audio tape, matching the results up with radar data, and trying to complete a full and accurate history of the events of the day.  The results are already invaluable, and there's more to come: <a href="http://www.oredigger61.org" class="external text" title="http://www.oredigger61.org" rel="nofollow">go here to find out for yourself</a>.
+</p><p><br>
+<b>14th November 2009</b>
+</p><p>Here's the video of <a href="/index.php/Norman_Mineta_testifies" title="Norman Mineta testifies">Norman Mineta's full testimony to the 9/11 Commission</a>.  It's 45 minutes long, and the video player I use here won't let you jump forward, so don't bother unless you're really interested, patient, and have some spare time.  (But if you do, I think it's worth the effort, and will be useful when discussing Mineta's timeline.)
+</p><p><br>
+<b>7th November 2009</b>
+</p><p>Sorry for the lengthy disappearance, I've been buried in work recently.  That will continue for a little while longer, but in the meantime you might like to read <a href="http://www.ccs.neu.edu/home/will/Music/Jokes/Balsamo/balsamo2.html" class="external text" title="http://www.ccs.neu.edu/home/will/Music/Jokes/Balsamo/balsamo2.html" rel="nofollow">Rob Balsamo's Physics of Conspiracy</a>.
+</p><p><br>
+<b>19th October 2009</b>
+</p><p>Why isn't 9/11 listed on bin Laden's wanted poster?  Is it because "there's no hard evidence linking bin Laden to 9/11"?  Read more: <a href="/index.php/Connecting_bin_Laden_to_9-11" title="Connecting bin Laden to 9-11">Connecting bin Laden to 9-11</a>
+</p><p><br>
+<b>10th October 2009</b>
+</p><p>Professor Garth Nicolson supposedly had foreknowledge of the Pentagon attack, and his story has been quoted by Nafeez Ahmed and others.  So what happened when the 9/11 Commission checked the FBI files on this?  Read <a href="/index.php/Garth_Nicolson" title="Garth Nicolson">Garth Nicolson</a>
+</p><p>Also, some Moussaoui trial transcripts where we hear about Nawaf al-Hazmi and Khalid al-Mihdhar's activities, missed opportunities to stop them, and more:
+</p>
+<ul><li><a href="/index.php/Image:FBI-on-alMihdhar-alHazmi-Part1.pdf" title="Image:FBI-on-alMihdhar-alHazmi-Part1.pdf">FBI summary on al-Hazmi and al-Mihdhar, taken from the Moussaoui trial, part #1</a>
+</li><li><a href="/index.php/Image:FBI-on-alMihdhar-alHazmi-Part2.pdf" title="Image:FBI-on-alMihdhar-alHazmi-Part2.pdf">FBI summary on al-Hazmi and al-Mihdhar, taken from the Moussaoui trial, part #2</a>
+</li></ul>
+<p><br>
+<b>9th October 2009</b>
+</p><p>You've read the comment that 9/11 Commission senior counsel John Farmer's book says the official version of 9/11 is "almost entirely untrue"... But what did he mean?  Read <a href="/index.php/John_Farmer_and_the_Official_Version" title="John Farmer and the Official Version">John Farmer and the Official Version</a>.
+</p><p><br>
+<b>8th October 2009</b>
+</p><p>I've added a new entry to the foreknowledge section:
+</p>
+<ul><li><a href="/index.php/Afghan_plans" title="Afghan plans">The Afghan war was planned months before the 9/11 attacks?</a>
+</li></ul>
+<p>Apologies if you prefer the short stuff, because this is tediously long.  Still, hope you find it useful.
+</p><p>Also: remember the "Tim Osman" stories, supposedly of bin Laden visiting the US?  They've been supported by former FBI official Ted Gunderson, but he's been making news with some dubious claims, lately:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>Is the federal government building secret camps to lock up people who criticize President Barack Obama? 
+<p>Will it truck off young people to camps to brainwash them into liking Obama's agenda? Are government officials planning to replicate the French Revolution's Reign of Terror, using the guillotine to silence their domestic enemies?
+</p><p>No. The charges, of course, are not true. 
+</p><p>However, the accusations are out there, a series of fantastic claims fed by paranoia about the government. They're spread and sometimes cross-pollinated via the Internet. They feed a fringe subset of the anger at the government percolating through the country, one that ignites passion, but also helps Obama's allies to discount broader anger at the president's agenda.
+</p><p>In one, retired FBI agent Ted Gunderson says the government has prepared 1,000 camps for its own citizens. He also says the government has stored 30,000 guillotines to murder its critics, and has stashed 500,000 caskets in Georgia and Montana for the remains.
+</p>
+Why guillotines? "Because," he wrote in a report obtained by the Southern Poverty Law Center, which tracks hate groups, "beheading is the most efficient means of harvesting body parts."<br><a href="http://www.mcclatchydc.com/100/story/74549.html" class="external free" title="http://www.mcclatchydc.com/100/story/74549.html" rel="nofollow">http://www.mcclatchydc.com/100/story/74549.html</a></div>
+<p><br>
+</p><p>Might be worth a mention the next time someone tells you that Gunderson has credibility.
+</p><p><br>
+<b>6th October 2009</b>
+</p><p>Ah, I shouldn't have said anything.
+</p><p>The small development worked out.  Remember the document I posted a while back about Mercy Lorenzo, an AT&amp;T operator who said she received a call from Flight 77 about a hijacking?  This seemed like it should be confirmation of Barbara Olson's phone call, but frustratingly the number Lorenzo was given (to transfer the call) had been redacted.  Well, I appealed that decision with NARA, and they relented:
+</p><p><a href="/index.php/Image:265A-NY-280350-302-22170-Unredacted.png" class="image" title="Image:265A-NY-280350-302-22170-Unredacted.png"><img alt="Image:265A-NY-280350-302-22170-Unredacted.png" src="/images/d/da/265A-NY-280350-302-22170-Unredacted.png" width="603" height="348" border="0"></a>
+</p><p>Google 202-514-2201 and you'll see it's the Solicitor General's office.  This is the first source document we have that clearly indicates a call from Flight 77 to Olson, a small but positive step forward.  I've updated the relevant pages accordingly, and added a specific <a href="/index.php/Barbara_Olson" title="Barbara Olson">Barbara Olson</a> page with a couple of links in case people search for her first.
+</p><p>I was also hoping for something much more significant, but, it's not worked out.  Getting information out of the US Government is a lengthy and difficult process, and what looked like a breakthrough turned out not to be that at all.  I'm going to persevere, but that particular avenue will be closed for a while.
+</p><p>Still, there's plenty that remains to be done here, even just converting pages from the old site, and as I've regained a little enthusiasm from my time off, I'm going to try and get on with doing it.  
+</p><p>Starting right here.
+</p><p>You know Danielle O'Brien, yes?  The Dulles Air Traffic Controller famously part-quoted here on the approach of Flight 77:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>"The speed, the maneuverability, the way that he turned, we all thought in the radar room, all of us experienced air traffic controllers, that that was a military plane."</div>
+<p><br>
+You don't need years of aviation experience to realise that her comments have been taken somewhat out of context, but still, it's interesting to see that she once wrote an email complaining about this.  Take a look: <a href="/index.php/Danielle_OBrien" title="Danielle OBrien">Danielle OBrien</a>
+</p><p><br>
+<b>28th September 2009</b>
+</p><p>I know it looks quiet here of late, but things are happening in the background.  Honest!  I'm hoping for two interesting developments in the next week or so: one confirms something I suspected already, the other will be based on brand new information, neither are devastating "smoking guns" but I think you'll still want to read about both.  Check back in early October to see what's going on.
+</p><p><br>
+<b>14th September 2009</b>
+</p><p>A new bin Laden tape, perhaps:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>An audio message purportedly from al Qaeda leader Osama bin Laden has accused President Barack Obama of being unable to fulfil his election pledge to pull U.S. troops out of Iraq.
+<p>The tape emerged on radical Islamist Web sites, just two days after the United States marked the eighth anniversary of the September 11, 2001, terror attacks.
+</p><p>"To the American people, this is my message to you: a reminder of the reasons behind 9/11 and the wars and the repercussions that followed and the way to resolve it," the message said.
+</p><p>"From the beginning, we have stated many times ... that the cause of our disagreement with you is your support of your allies, the Israelis, who are occupying our land in Palestine. Your stance along with some other grievances are what led us to carry out the events of 9/11."
+</p><p>The video plays the audio over a undated photograph of bin Laden. The video also shows a banner with the American flag as the backdrop and an image of the New York City skyline with the twin towers of the World Trade Center -- destroyed in the 9/11 attack -- still standing, said terrorism analyst Laura Mansfield.
+</p>
+CNN could not independently authenticate bin Laden as the speaker in the 11-minute video posted on Sunday by As-Sahab Media -- al Qaeda's production company.<br><a href="http://edition.cnn.com/2009/WORLD/meast/09/14/binladen.message/index.html" class="external free" title="http://edition.cnn.com/2009/WORLD/meast/09/14/binladen.message/index.html" rel="nofollow">http://edition.cnn.com/2009/WORLD/meast/09/14/binladen.message/index.html</a></div>
+<p><br>
+</p><p><br>
+<b>12th September 2009</b>
+</p><p>We've often seen people claiming it's somehow surprising that the media immediately placed bin Laden at the top of the 9/11 suspect list.  But actually this claim is itself a surprise, as in the context of the time, bin Laden was a very obvious candidate.  Read more about this on the new page, <a href="/index.php/Suspect_-_bin_Laden" title="Suspect - bin Laden">Suspect - bin Laden</a>.
+</p><p><br>
+<b>2nd September 2009</b>
+</p><p>I've uploaded one of the <a href="http://penttbom.com" class="external text" title="http://penttbom.com" rel="nofollow">penttbom.com</a> videos where a pixellated witness says he saw a "big ass plane" land into the Pentagon, with a C-130 (presumably) behind it.  Nothing new, really, but it's more about completeness: if you're interested, take a look at <a href="http://911myths.com/index.php/American_Airlines_Flight_77_Crash_Evidence#Video_and_audio_clips" class="external text" title="http://911myths.com/index.php/American_Airlines_Flight_77_Crash_Evidence#Video_and_audio_clips" rel="nofollow">the bottom of the video list here</a>.
+</p><p><br>
+<b>20th August 2009</b>
+</p><p>Screw Loose Change mentioned Cheney's quote, "we've never made the case, or argued the case that somehow Osama bin Laden was directly involved in 9/11", and that reminded me how I'd been surprised how many people took this as a serious indicator of, well, something.  So while it's actually a trivial point, I thought I'd just document it properly, and so you'll find it on <a href="/index.php/A_slip_of_the_tongue" title="A slip of the tongue">this page</a>.  I may add similar quotes in the future.
+</p><p><br>
+<b>19th August 2009</b>
+</p><p>One 9/11 truth theme states that the attack on Afghanistan was all about getting bin Laden.  He was solely blamed initially, we're told, only to be forgotten later.  I've even read that the later claims of Khalid Sheikh Mohammed's guilt are somehow a "change of story": first it was bin Laden, then KSM.  This isn't the biggest of deals, but it's always annoyed me as the facts are very different.  Bush barely mentioned bin Laden at all in his radio addresses, for instance; the White House were saying this was about more than just one man from days after the attacks; and the "official story" was, even before Afghanistan was attacked, that the detailed planning for 9/11 was carried out by a close associate, and not bin Laden himself.  I'm not sure how much use this will be to anyone, but if you're interested then you'll find a new page on the issue <a href="/index.php/All_about_bin_Laden" title="All about bin Laden">here.</a>
+</p><p><br>
+<b>17th August 2009</b>
+</p><p>I found a compilation of video clips showing the collapse of WTC7.  See it for yourself on the <a href="/index.php/WTC7_Collapse_Videos" title="WTC7 Collapse Videos">WTC7 Collapse Videos</a> page.
+</p><p>I've uploaded 9/11 Commission interviews with <a href="/index.php/Image:FrontOffice_Box5_EmergencyResponse_Folder1-Tab5_AlanReissMFR.pdf" title="Image:FrontOffice Box5 EmergencyResponse Folder1-Tab5 AlanReissMFR.pdf">Alan Reiss</a> (former WTC operations and maintenance manager), <a href="/index.php/Image:FrontOffice_Box5_EmergencyResponse_Folder1-Tab5_JosephMorrisMFR.pdf" title="Image:FrontOffice Box5 EmergencyResponse Folder1-Tab5 JosephMorrisMFR.pdf">Joseph Morris</a> (Port Authority police chief), <a href="/index.php/Image:FrontOffice_Box5_EmergencyResponse_Folder1-Tab6_BernardKerik.pdf" title="Image:FrontOffice Box5 EmergencyResponse Folder1-Tab6 BernardKerik.pdf">Bernard Kerik</a> (former NYPD commissioner), <a href="/index.php/Image:FrontOffice_Box5_EmergencyResponse_Folder1-Tab6_ThomasVonEssen.pdf" title="Image:FrontOffice Box5 EmergencyResponse Folder1-Tab6 ThomasVonEssen.pdf">Thomas Von Essen</a> (former FDNY commissioner), <a href="/index.php/Image:FrontOffice_Box5_EmergencyResponse_Folder1-Tab6_RichardSheirer.pdf" title="Image:FrontOffice Box5 EmergencyResponse Folder1-Tab6 RichardSheirer.pdf">Richard Sheirer</a> (former director of New York's Office of Emergency Management), and former New York mayor <a href="/index.php/Image:FrontOffice_Box5_EmergencyResponse_Folder3-Tab6_RudyGiuliani.pdf" title="Image:FrontOffice Box5 EmergencyResponse Folder3-Tab6 RudyGiuliani.pdf">Rudy Giuliani</a>.
+</p><p>Another new document provides detailed information on the NRO "plane crash into building" exercise running on 9/11.  <a href="/index.php/Image:Team8_Box16_MiscWorkPapers_NRO-Exercise.pdf" title="Image:Team8 Box16 MiscWorkPapers NRO-Exercise.pdf">Download it here</a>.
+</p><p><br>
+<b>5th August 2009</b>
+</p><p>What's the connection between these 9/11 arguments?  Controlled demolition; a Mossad connection; the WTC fires had basically gone out before the collapse; the towers should have fallen like a tree, but instead collapsed into their footprints; Bush was responsible; it was all about launching an oil war; explosives were planted in the lower levels of the building; the hijacked planes should have been intercepted; it's hard to imagine how a hijacked plane could have breached Pentagon airspace; put options were made with foreknowledge of the attacks; Larry Silverstein made a fortune from 9/11; Flight 77 couldn't have been missed by US air defence forces for so long; Flight 77 deliberately missed hitting the area containing Rumsfeld's office; Payne Stewart's intercept showed how quickly the intercept system should work; it's just like the Reichstag fire, the Gulf of Tonkin, Operation Northwoods; the planes were flown by remote control; Hanjour couldn't fly; the hijacker's passport must have been planted; it's suspicious that Atta's luggage was left behind; the hijackers weren't on the passenger lists.
+</p><p>No?  All these points were made within a month of the attacks.  The initial versions weren't always fully formed - the first put options argument suggested bin Laden was responsible - but in general it's surprising how little has changed.  Find out for yourself on a new page, <a href="/index.php/In_the_beginning" title="In the beginning">In the beginning</a>.
+</p><p><br>
+<b>4th August 2009</b>
+</p>
+<ul><li>I've uploaded <a href="/index.php/Image:Team5_Box63_IG-Materials_Folder1_ReviewHijackerVisas.pdf" title="Image:Team5 Box63 IG-Materials Folder1 ReviewHijackerVisas.pdf">an Inspector General review of how the 9/11 hijackers received their visas</a>, and <a href="/index.php/Image:Team5_Box63_IG-Materials_Folder1_TomFureyOnHijackerVisas.pdf" title="Image:Team5 Box63 IG-Materials Folder1 TomFureyOnHijackerVisas.pdf">a memo from the Riyadh consular section chief at the time</a> on the same topic.
+</li></ul>
+<ul><li>"There's no evidence that the hijackers ever got on the planes" is a popular truther line.  It's incorrect, too, and here's another document that says otherwise, reporting that a fingerprint taken from Saeed al-Ghamdi's visa application was matched with Flight 93 remains:
+</li></ul>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>One latent fingerprint developed on K3100, non-immigrant visa application, dated 6/12/2001, under the name of SAEED A. A. A. AL GHAMDI, has been identified with a post-mortem fingerprint obtained from a portion of the remains examined in connection with United Airlines Flight #93, designated part #409, FBI #742224TB9.<br><a href="/index.php/Image:Team5_Box6_MiscInfoOnMoussaouiAndHijackers.pdf" title="Image:Team5 Box6 MiscInfoOnMoussaouiAndHijackers.pdf">Source (PDF page 56)</a></div>
+<p><br>
+</p><p>And that probably suggests that he's not "still alive", too.
+</p><p><br>
+<b>29th July 2009</b>
+</p><p>I've uploaded a 7-minute video segment on the "Dancing Israelis" from Channel 4's "The 9/11 Conspiracies", the documentary they put out a few years ago.  They talk to some of the Israelis, an arresting policeman, and more.  The programme reports hearing from intelligence sources that Urban Moving was a Mossad front, and the Israelis were released once Israel had promised not to spy in the US again; however they repeat the Israelis story of how they arrived at the parking lot after the attacks started: heard the news, went up to the building roof, then drove over for a better view.  <a href="http://911myths.com/index.php/Dancing_Israelis#The_9-11_Conspiracies" class="external text" title="http://911myths.com/index.php/Dancing_Israelis#The_9-11_Conspiracies" rel="nofollow">Take a look here</a>.
+</p><p><br>
+<b>26th July 2009</b>
+</p><p>I've uploaded <a href="http://www.911myths.com/index.php/9-11_Commission_Records#T5-Box_49" class="external text" title="http://www.911myths.com/index.php/9-11_Commission_Records#T5-Box_49" rel="nofollow">more immigration-related interviews</a>.
+</p><p><br>
+<b>25th July 2009</b>
+</p><p>I've added some interviews with immigration inspectors who interviewed various hijackers on their arrival in the US.  <a href="http://www.911myths.com/index.php/9-11_Commission_Records#T5-Box_49" class="external text" title="http://www.911myths.com/index.php/9-11_Commission_Records#T5-Box_49" rel="nofollow">You'll find them here</a>.
+</p><p><br>
+<b>23rd July 2009</b>
+</p><p>History Commons posted some interesting new documents from the New York boxes last night, so I may not work through the backlog today.  But let's see what happens.
+</p>
+<ul><li><a href="/index.php/Image:NYC_Box17_NYPD-Slideshow.pdf" title="Image:NYC Box17 NYPD-Slideshow.pdf">An NYPD presentation on the events of 9/11 and the emergency response (20 MB PDF file)</a>
+</li><li><a href="/index.php/Image:NYC_Box16_NYPD-Radio-Comm_SpecialOpsDivision-Transcript-Tape1.pdf" title="Image:NYC Box16 NYPD-Radio-Comm SpecialOpsDivision-Transcript-Tape1.pdf">Transcript of NYPD audio tape recording radio transmissions between 8:46 and 9:33 on 9/11</a>
+</li><li><a href="/index.php/Image:NYC_Box16_NYPD-Radio-Comm_City-Wide-Transcript-Tape1.pdf" title="Image:NYC Box16 NYPD-Radio-Comm City-Wide-Transcript-Tape1.pdf">Another NYPD transcript of "City Wide" radio tranmissions</a>
+</li><li><a href="/index.php/Image:NYC_Box16_9-11Calls_WTC-Damage-Map.pdf" title="Image:NYC Box16 9-11Calls WTC-Damage-Map.pdf">A single-page map showing the pattern of damage to buildings at and around the WTC on 9/11</a> (you've seen almost identical maps before, but maybe this one names just one or two more of the surrounding buildings...?)
+</li><li><a href="/index.php/Image:NYC_Box15_PhoneCallTimeline_WTC-to-PA-Calls.pdf" title="Image:NYC Box15 PhoneCallTimeline WTC-to-PA-Calls.pdf">Details on 9/11 calls from the WTC to the New York Port Authority</a>
+</li><li><a href="/index.php/Image:NYC_Box15_AnalysisOfFDNYVideos_Notes-Pfeifer-Hayden.pdf" title="Image:NYC Box15 AnalysisOfFDNYVideos Notes-Pfeifer-Hayden.pdf">Fire Chief Hayden says 9/11 was about a rescue mission rather than firefighting</a>
+</li><li><a href="/index.php/Image:NYC_Box12_Video_LetterReNiazKhan.pdf" title="Image:NYC Box12 Video LetterReNiazKhan.pdf">A letter regarding Niaz Khan and his allegations of training for a pre-9/11 hijacking plot</a>
+</li><li><a href="/index.php/Image:NYC_Box12_Video_JohnFitzgerald_JamesWheeler-Account.pdf" title="Image:NYC Box12 Video JohnFitzgerald JamesWheeler-Account.pdf">NYPD Detectives John Fitgerald and James Wheeler tell of their experiences on 9/11</a>
+</li></ul>
+<p>Now moving to the backlog...
+</p><p>There are some interesting transcripts of FAA audio tapes, revealing notifications to the hijackings and some initial confusion.  See transcripts for <a href="/index.php/Image:Team8_Box1_ATSSCTapeTranscript-Position14_Parts1Thru4.pdf" title="Image:Team8 Box1 ATSSCTapeTranscript-Position14 Parts1Thru4.pdf">Position 14</a>, <a href="/index.php/Image:Team8_Box1_ATSSCTapeTranscript-Position15_Parts2And3.pdf" title="Image:Team8 Box1 ATSSCTapeTranscript-Position15 Parts2And3.pdf">Position 15</a>, <a href="/index.php/Image:Team8_Box1_ATSSCTapeTranscript-Position25A_Part1.pdf" title="Image:Team8 Box1 ATSSCTapeTranscript-Position25A Part1.pdf">Position 25A Part #1</a>, <a href="/index.php/Image:Team8_Box1_ATSSCTapeTranscript-Position25A_Part4.pdf" title="Image:Team8 Box1 ATSSCTapeTranscript-Position25A Part4.pdf">Position 25A Part #4</a>, <a href="/index.php/Image:Team8_Box1_ATSSCTapeTranscript-Position25B_Parts2Thru4.pdf" title="Image:Team8 Box1 ATSSCTapeTranscript-Position25B Parts2Thru4.pdf">Position 25B</a>.
+</p><p>The <a href="/index.php/Image:Team7_Box7-WOC-Net-Transcript.pdf" title="Image:Team7 Box7-WOC-Net-Transcript.pdf">WOC Net Transcript</a> is an even more useful record of FAA knowledge, as it's a transcript of an open phone line between the FAA's command centre and Washington Operations Centre.
+</p><p>Here's <a href="/index.php/Image:Team7_Box7_ATC_Transcript-From-NY-ARTCC.pdf" title="Image:Team7 Box7 ATC Transcript-From-NY-ARTCC.pdf">a New York Air Traffic Control transcript from 9/11</a>.
+</p><p><a href="/index.php/Image:USGovernmentContactsWithTaliban-1996-2001.pdf" title="Image:USGovernmentContactsWithTaliban-1996-2001.pdf">A US Government document</a> lists contacts with the Taliban from 1996 to 2001.
+</p><p>And finally, <a href="/index.php/Image:SEC_AMR-UAL-OptionsData.pdf" title="Image:SEC AMR-UAL-OptionsData.pdf">an SEC document lists American Airlines and United Airlines Put Options data for trading immediately before 9/11</a>.
+</p><p>And that's it!  The end of the backlog.  I've left out lots of items, and there will be more to upload as I work through documents here or see what History Commons have found, but it should be a little easier now.  Which hopefully means I'll have time to add original content to the site again, rather than just endlessly upload files from elsewhere.
+</p><p><br>
+<b>22nd July 2009</b>
+</p><p>Here's a few more discoveries.
+</p><p>I've started by uploading a few transcripts for the NORAD tapes, including one where we don't have the audio, I believe.  If you're interested, then check them out on the new <a href="http://www.911myths.com/index.php/NORAD#NORAD_TAPES" class="external text" title="http://www.911myths.com/index.php/NORAD#NORAD_TAPES" rel="nofollow">NORAD tapes page</a>.
+</p><p>There's also a single transcript of <a href="/index.php/Image:NYC_Box2_NEADSTranscriptRomeNY.pdf" title="Image:NYC Box2 NEADSTranscriptRomeNY.pdf">important pages from the NORAD tapes</a>.
+</p><p>And in addition:
+</p>
+<ul><li><a href="/index.php/Image:NYC_Box2_FAAProducedDocs-NORAD-Timeline-Statement.pdf" title="Image:NYC Box2 FAAProducedDocs-NORAD-Timeline-Statement.pdf">Interesting comments on NORAD's timeline of 9/11 events</a>
+</li><li><a href="/index.php/Image:Team7_Box17_FBI-302s-of-Interest_Hijackers.pdf" title="Image:Team7 Box17 FBI-302s-of-Interest Hijackers.pdf">Various FBI interviews relating to the hijackers</a> (possible sightings and so on)
+</li><li><a href="/index.php/Image:Team7_Box17_FBI302sOfInterest_ColganAir.pdf" title="Image:Team7 Box17 FBI302sOfInterest ColganAir.pdf">FBI interviews relating to Colgan Air</a> (mostly the US Airways flight that Atta and al-Omari took immediately prior to boarding Flight 11)
+</li><li><a href="/index.php/Image:Team7_Box17_FBI302sOfInterest_CheckpointScreeners.pdf" title="Image:Team7 Box17 FBI302sOfInterest CheckpointScreeners.pdf">FBI interviews with or about airport checkpoint screeners, their procedures, and possible contact with the hijackers</a>. There's also information on further airport videos showing the hijackers
+</li><li><a href="/index.php/Image:Team7_Box17_FBI302sOfInterest_Flight93.pdf" title="Image:Team7 Box17 FBI302sOfInterest Flight93.pdf">FBI interviews relating to Flight 93</a>, everything from how tickets were booked to witnesses who saw it from the ground
+</li><li><a href="/index.php/Image:Team7_Box17_FBI302sOfInterest_Flight11.pdf" title="Image:Team7 Box17 FBI302sOfInterest Flight11.pdf">FBI interviews relating to Flight 11</a>
+</li><li><a href="/index.php/Image:Team7_Box17_FBI302sOfInterest_Flight175.pdf" title="Image:Team7 Box17 FBI302sOfInterest Flight175.pdf">FBI interviews re: Flight 175</a>
+</li><li><a href="/index.php/Image:Team7_Box17_Screeners911AndCheck-In.pdf" title="Image:Team7 Box17 Screeners911AndCheck-In.pdf">More interviews with airport screeners and check-in staff</a>
+</li><li><a href="/index.php/Image:Team5_Box62_AliasesAndIDs_HijackerRemains.pdf" title="Image:Team5 Box62 AliasesAndIDs HijackerRemains.pdf">FBI memos re: the Pentagon, including receiving the remains of 5 individuals believed to be the hijackers</a>
+</li><li><a href="/index.php/Image:Amalgam-Virgo-0102.pdf" title="Image:Amalgam-Virgo-0102.pdf">Plane-as-weapon scenario of the US military exercise Amalgam Virgo 01-02</a>
+</li></ul>
+<p>That's me finished for the day.  But I'm now on History Commons page 241 of 257, so progress is being made...
+</p><p><br>
+<b>21st July 2009</b>
+</p><p>Will I have the time to work through the History Commons backlog today...?  Probably not.  I'm making good progress, though, with less than 50 pages to browse through.  Let's see what they turn up.
+</p>
+<ul><li><a href="/index.php/Image:Team4_Box16_Team4Interviews_PrelimMeetingJosephCellaSEC.pdf" title="Image:Team4 Box16 Team4Interviews PrelimMeetingJosephCellaSEC.pdf">The SEC's Joseph Cella on the "insider trading" allegations</a> (put options, short selling etc)
+</li><li><a href="/index.php/Image:Team4_Box15_FBIHijackerAccountInfo_Spreadsheet_New.pdf" title="Image:Team4 Box15 FBIHijackerAccountInfo Spreadsheet New.pdf">A spreadsheet of expenditure on the hijacker's band accounts</a>
+</li><li><a href="/index.php/Image:Team2_Box11_CIACommentsOnKualaLumpur.pdf" title="Image:Team2 Box11 CIACommentsOnKualaLumpur.pdf">CIA comments on the sharing of information (or not) between the CIA and FBI</a> about the al Qaeda January 2001 Kuala Lumpur meeting
+</li><li><a href="/index.php/Image:Team1A_Box52_MiscDocsCitedFinalReport_LasVegasInvestigativeSummary.pdf" title="Image:Team1A Box52 MiscDocsCitedFinalReport LasVegasInvestigativeSummary.pdf">A summary of the 9/11 Commission investigation into the hijackers activities in Las Vegas</a>
+</li><li><a href="/index.php/Image:Team8_Box18_HQ-FAA_ATSC-EventsSummary.pdf" title="Image:Team8 Box18 HQ-FAA ATSC-EventsSummary.pdf">A summary of events according to the FAA's military cell</a>
+</li><li><a href="/index.php/Image:Team8_Box18_HQ-FAA_MFR-FAAOpsCenterVisit.pdf" title="Image:Team8 Box18 HQ-FAA MFR-FAAOpsCenterVisit.pdf">Notes from a visit to the FAA's operations centre</a>. (More interesting than it sounds, with lots of useful fragments about the attacks and the FAA's response.)
+</li><li><a href="/index.php/Image:Team8_Box15_HijackedAirplanes_Folder3_UA93Timeline.pdf" title="Image:Team8 Box15 HijackedAirplanes Folder3 UA93Timeline.pdf">A timeline of Flight 93 based on ATC radio transmissions</a>
+</li><li><a href="/index.php/Image:Team8_Box15_HijackedAirplanes_Folder3_Ghost-UA93.pdf" title="Image:Team8 Box15 HijackedAirplanes Folder3 Ghost-UA93.pdf">Email on the "ghost Flight 93" scenario</a>
+</li><li><a href="/index.php/Image:Team8_Box15_HijackedAirplanes_Folder2_AA77-Radar-Based-Timeline.pdf" title="Image:Team8 Box15 HijackedAirplanes Folder2 AA77-Radar-Based-Timeline.pdf">An interesting radar-based timeline for Flight 77, so you can see where the plane was when different events occurred</a>
+</li><li><a href="/index.php/Image:Team8_Box15_HijackedAirplanes_Folder1_UA175-Radar-Based-Timeline.pdf" title="Image:Team8 Box15 HijackedAirplanes Folder1 UA175-Radar-Based-Timeline.pdf">A similar radar-based timeline for Flight 175</a>
+</li></ul>
+<p>That's it for now.  I'm on page 208/254 at History Commons, and I've viewed at least some of the pages still to go before, so hopefully I can race through the rest...  Maybe more later, otherwise I'll be back tomorrow.
+</p><p><br>
+<b>20th July 2009</b>
+</p><p>Continuing on...
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box18_PilotTrainingInfo_Japanese_Instructor_Hanjour.pdf" title="Image:Team7 Box18 PilotTrainingInfo Japanese Instructor Hanjour.pdf">One of Hanjour's early instructors explains why he thought Hanjour was a poor pilot</a>
+</li><li><a href="/index.php/Image:Team7_Box18_AAL-QFR-Responses.pdf" title="Image:Team7 Box18 AAL-QFR-Responses.pdf">American Airline responses to requests about hijacker check-ins, the 9-11 flights, their knowledge of the hijackings, and more</a>
+</li><li><a href="/index.php/Image:Team7_Box18_AAL-Misc-HijackerSuspectFlightBookings.pdf" title="Image:Team7 Box18 AAL-Misc-HijackerSuspectFlightBookings.pdf">A 9/11 fax (?) with lists of initial hijacker suspects for Flight 11 and Flight 77</a>, including their flight booking details
+</li><li><a href="/index.php/Image:Team7_Box18_FlightInfoTables.pdf" title="Image:Team7 Box18 FlightInfoTables.pdf">A useful table of information on each of the hijacked 9/11 flights: crew, hijackers, their boarding times, calls from the flights, more</a>
+</li><li><a href="/index.php/Image:Team7_Box18_HijackerKnifePurchases.pdf" title="Image:Team7 Box18 HijackerKnifePurchases.pdf">Purchases of knives by the hijackers, and details of knives found at the Flight 93 crash scene</a>
+</li><li><a href="/index.php/Image:Team7_Box18_PilotTrainingInfo_FlightStandardsServiceBriefing.pdf" title="Image:Team7 Box18 PilotTrainingInfo FlightStandardsServiceBriefing.pdf">A Flight Standards Service briefing on the training of the hijacker pilots</a>, including some innocent pilots with similar names who were victims of mistaken identity
+</li><li><a href="/index.php/Image:Team4_Box6_CitiGroupPowerPointOnHijackers-FinancialInfo.pdf" title="Image:Team4 Box6 CitiGroupPowerPointOnHijackers-FinancialInfo.pdf">"CitiGroup PowerPoint on Hijackers"</a> contains a useful presentation on hijackers finances, showing the amount spent in several accounts and overall
+</li><li><a href="/index.php/Image:Team4_Box1_AcctSummaries_NawafAlHazmiTransactions.pdf" title="Image:Team4 Box1 AcctSummaries NawafAlHazmiTransactions.pdf"> Nawaf al-Hazmi's bank account transactions from 4-5-00 to 9-10-01</a>
+</li><li><a href="/index.php/Image:DanMarcus_Box6_Saudis_Post9-11SaudiFlights.pdf" title="Image:DanMarcus Box6 Saudis Post9-11SaudiFlights.pdf">Information on the post-9/11 flights that high-level Saudis used to leave the US</a>
+</li><li><a href="/index.php/Image:DanMarcus_Box2_Commissioners_ClelandResignationLetter.pdf" title="Image:DanMarcus Box2 Commissioners ClelandResignationLetter.pdf">Max Cleland's letter of resignation from the 9/11 Commission</a>
+</li><li><a href="/index.php/Image:DanMarcus_Box3_FAA_IGLetterOnFAATapeDestruction.pdf" title="Image:DanMarcus Box3 FAA IGLetterOnFAATapeDestruction.pdf">A DoT Inspector General letter on the FAA's destruction of air traffic controller tapes</a>.  That is, the audio record of interviews made with controllers who handled the hijacked planes.
+</li></ul>
+<p>And that's it for today.  This is wearing me down, so I'm going to try and finish wading through the History Commons backlog by Wednesday or Thursday. Then hopefully I can get on with doing something with this evidence, rather than just linking to it.
+</p><p>&gt;later&lt; --- I had a few minutes, so decided to upload another three documents.
+</p>
+<ul><li><a href="/index.php/Image:Team2_Box12_FBIBriefingOn9-11Hijackers.pdf" title="Image:Team2 Box12 FBIBriefingOn9-11Hijackers.pdf">An FBI briefing with facts and figures on the 9/11 hijackers</a>, probably not much you don't know but it's good to have it all in one place
+</li><li><a href="/index.php/Image:Team2_Box10_Motley-Submission_FrenchIntelligenceWarning.pdf" title="Image:Team2 Box10 Motley-Submission FrenchIntelligenceWarning.pdf">Details of a warning passed from French intelligence to the US before 9/11</a>
+</li><li><a href="/index.php/Image:Team8_Box18_NTSBDocuments_Folder1_CVR-Reports-AA77-UA93.pdf" title="Image:Team8 Box18 NTSBDocuments Folder1 CVR-Reports-AA77-UA93.pdf">Reports on the cockpit voice recorders for Flight 77 and Flight 93</a>
+</li></ul>
+<p><br>
+<b>19th July 2009</b>
+</p><p>Again, I'm only uploading a small number of documents here, but perhaps I'll add a few more this evening.  
+</p>
+<ul><li><a href="/index.php/Image:Team5_Box6_MiscInfoOnMoussaouiAndHijackers.pdf" title="Image:Team5 Box6 MiscInfoOnMoussaouiAndHijackers.pdf">This 9/11 Commission folder</a> contains detailed information on the hijackers, like passenger name records and FBI reports, as well as lists of items recovered from everything from hotels to the crash scenes
+</li><li><a href="/index.php/Image:Team3_Box11_EOPProducedDocsVolIII-EvanThomasNewsweek-InterviewOfRice.pdf" title="Image:Team3 Box11 EOPProducedDocsVolIII-EvanThomasNewsweek-InterviewOfRice.pdf">An Evan Thomas, Newsweek interview with Condoleezza Rice</a>, particularly interesting in relation to Cheney's evacuation time to the PEOC
+</li><li><a href="/index.php/Image:Team3_Box11_EOPProducedDocsVolIII-BobWoodward-InterviewOfRice.pdf" title="Image:Team3 Box11 EOPProducedDocsVolIII-BobWoodward-InterviewOfRice.pdf">A Bob Woodward interview with Condoleezza Rice</a>, interesting for the same reasons
+</li><li><a href="/index.php/Image:Team8_NORADExercisesHijackSummary.pdf" title="Image:Team8 NORADExercisesHijackSummary.pdf">A summary of NORAD exercises between 1998 and 2001 that involved hijackings</a>.  Caused some excitement for the news of a suicide hijacking exercise two days before 9/11, although this did not involve hijacking a US plane or flying it into a building
+</li></ul>
+<p>And back just to add three more:
+</p>
+<ul><li><a href="/index.php/Image:NYC_Box5_Civilians_WTC-Tenants.pdf" title="Image:NYC Box5 Civilians WTC-Tenants.pdf">A WTC tenant list</a> (available anyway but I'd hope this one should be definitive)
+</li><li><a href="/index.php/Image:Team7_Box19_MFRExcerpts.pdf" title="Image:Team7 Box19 MFRExcerpts.pdf">"MFR excerpts"</a> contains comments taken from Team 7 interviews on various FAA-related topics, like "what did the FAA think of the possibility of planes being used as weapons?".  This is a must-read if you'd like a quick overview on important issues like this, without the hassle of having to read a bunch of separate interviews
+</li><li><a href="/index.php/Image:Team4_Box19-InsiderTradingAllegations.pdf" title="Image:Team4 Box19-InsiderTradingAllegations.pdf">The "Insider Trader Allegations" folder</a> contains pages from press articles on the "put options" stories
+</li></ul>
+<p><br>
+<b>18th July 2009</b>
+</p><p>I've real-life work to do, so just a few documents today.
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box20_Flight175-93LoadPatterns-PassengerInfo.pdf" title="Image:Team7 Box20 Flight175-93LoadPatterns-PassengerInfo.pdf">FBI documents with background information on the Flight 175 and Flight 93 passengers</a>
+</li><li><a href="/index.php/Image:Team7_Box20_Flight77-11-NoShowRecords_FBI-Reports.pdf" title="Image:Team7 Box20 Flight77-11-NoShowRecords FBI-Reports.pdf">FBI reports on people who booked tickets for Flight 77 and Flight 11 but didn't board the planes</a>
+</li><li><a href="/index.php/Image:Team7_Box20_Flight175-93-NoShowRecords_FBI-Reports.pdf" title="Image:Team7 Box20 Flight175-93-NoShowRecords FBI-Reports.pdf">A matching report on no-shows for Flight 175 and Flight 93</a>
+</li></ul>
+<p><br>
+<b>17th July 2009</b>
+</p><p>I've uploaded a few minor documents today, but nothing of great interest.  Examples: <a href="/index.php/Image:Team7_Box20_Timelines9-11_HijackerActivities_BostonInvestigativeSummary.pdf" title="Image:Team7 Box20 Timelines9-11 HijackerActivities BostonInvestigativeSummary.pdf">this timeline of hijacker activities</a> from the days running up to the attacks, <a href="/index.php/Image:Team7_Box20_Timelines9-11_TimelinePertainingToSouthFlorida.pdf" title="Image:Team7 Box20 Timelines9-11 TimelinePertainingToSouthFlorida.pdf">and another listing hijacker events relating to South Florida</a>.  Useful, but we've seen most of it before.
+</p><p><br>
+<b>16th July 2009</b>
+</p><p>I'll be ploughing through more History Commons documents today.
+</p>
+<ul><li><a href="/index.php/Image:Team5_Box51_Hijacker-Primary-Docs_UA93-Jarrah-Passport.pdf" title="Image:Team5 Box51 Hijacker-Primary-Docs UA93-Jarrah-Passport.pdf">INS memo on the examination of the remains of Ziad Jarrah's passport</a>, found at the Flight 93 crash site
+</li><li><a href="/index.php/Image:Team5_Box51_Hijacker-Primary-Docs_UA93-al-Ghamdi-Passport.pdf" title="Image:Team5 Box51 Hijacker-Primary-Docs UA93-al-Ghamdi-Passport.pdf">Matching INS memo on the analysis of Saeed al-Ghamdi's passport</a>
+</li><li><a href="/index.php/Image:Team5_Box51_Hijacker-Primary-Docs_AA11-SatamAlSuqami-Passport.pdf" title="Image:Team5 Box51 Hijacker-Primary-Docs AA11-SatamAlSuqami-Passport.pdf">INS analysis of Satam al-Suqami's passport</a>
+</li><li><a href="/index.php/Image:Team5_Box51_Hijacker-Primary-Docs_AA11-AbdulAzizAlomari-Passport.pdf" title="Image:Team5 Box51 Hijacker-Primary-Docs AA11-AbdulAzizAlomari-Passport.pdf">Similar analysis of Abdulaziz al-Omari's passport</a>, and important new FBI information on the other al-Omari behind one of the "hijacker still alive" stories
+</li><li><a href="/index.php/Image:Team5_Box51_Hijacker-Primary-Docs_AA11-WaleedAlShehri-IDQuestions.pdf" title="Image:Team5 Box51 Hijacker-Primary-Docs AA11-WaleedAlShehri-IDQuestions.pdf">FBI memo on why Waleed al-Shehri isn't the "still alive" pilot</a>
+</li><li><a href="/index.php/Image:Team5_Box51_Hijacker-Primary-Docs_AA11-ChronologySaudiVisaApps.pdf" title="Image:Team5 Box51 Hijacker-Primary-Docs AA11-ChronologySaudiVisaApps.pdf">166-page file on hijacker visa applications, with a particular focus on Mohamed Atta</a>
+</li><li><a href="/index.php/Image:Team5_Box50_Hijacker-Primary-Docs_AA77-KhalidAlMihdhar-PENTTBOM-Memo.pdf" title="Image:Team5 Box50 Hijacker-Primary-Docs AA77-KhalidAlMihdhar-PENTTBOM-Memo.pdf">FBI memo on a CD found in Pakistan</a>.  This contained images of the passports of Khalid al-Mihdhar, Abdulaziz al-Omari, Salem al-Hazmi, and a previously unknown "Saud A. S. Al-Rasheed", whose "name may indicate that he is some how related to the Saudi Royal Family" 
+</li><li><a href="/index.php/Image:Team5_Box50_DoJ_IG_INSContactWithAttaAndAlShehhi.pdf" title="Image:Team5 Box50 DoJ IG INSContactWithAttaAndAlShehhi.pdf">OIG Report that is "a Review of the INS's Admissions of Mohamed Atta and Marwan Alshehhi, its Processing of their Change of Status Applications, and its Efforts to Track Foreign Students in the United States"</a>
+</li><li><a href="/index.php/Image:NYC_Box8_EconomicImpact_DraftReport.pdf" title="Image:NYC Box8 EconomicImpact DraftReport.pdf">"Economic impact"</a> (A draft report on the economic impact of 9/11 on New York)
+</li><li><a href="/index.php/Image:NYC_Box8_EconomicImpact_StanleyPraimnath.pdf" title="Image:NYC Box8 EconomicImpact StanleyPraimnath.pdf">An interview with Stanley Praimnath</a>, who tells what he saw in the south tower on 9/11
+</li><li><a href="/index.php/Image:NYC_Box8_EconomicImpact_BrianClark.pdf" title="Image:NYC Box8 EconomicImpact BrianClark.pdf">And an interview with Brian Clark</a>, who helped Praimnath escape the WTC
+</li><li><a href="/index.php/Image:Team7_Box21_INTERVIA.pdf" title="Image:Team7 Box21 INTERVIA.pdf">The "INTERAVIA" folder</a> contains information on a Karachi travel agency in Pakistan who booked 7 seats for Flight 11 on 9/11 - they were all no-shows
+</li></ul>
+<p>Phew!  That's it for today, but I'll carry on working through this backlog tomorrow.
+</p><p><br>
+<b>15th July 2009</b>
+</p><p>A few more 9/11 Commission documents grabbed from History Commons:
+</p>
+<ul><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs3-Timelines_FlightsFAANeads.pdf" title="Image:Team8 Box8 MilesKaraDocs3-Timelines FlightsFAANeads.pdf">A useful timeline of events on the 4 hijacked flights, DAL1989, FAA and NEADS</a>
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDanaHydeWorkFile-4-DoD-NORAD-Tapes-Layout.pdf" title="Image:Team8 Box8 MilesKaraDanaHydeWorkFile-4-DoD-NORAD-Tapes-Layout.pdf">Single page showing who's on which channel for the NORAD tapes</a>
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs3-Timelines_RelevantAndrewsTransmissions.pdf" title="Image:Team8 Box8 MilesKaraDocs3-Timelines RelevantAndrewsTransmissions.pdf">9/11 transmissions from Andrews Air Force Base</a>, including the takeoff of Gofer 06, the C-130 that saw Flight 77 just before it hit the Pentagon
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs3-Timelines_Various.pdf" title="Image:Team8 Box8 MilesKaraDocs3-Timelines Various.pdf">A collection of 9/11-related timelines from various sources</a>
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs3-Timelines_JimSlateNotes.pdf" title="Image:Team8 Box8 MilesKaraDocs3-Timelines JimSlateNotes.pdf">Jim Slate was at the DCA tower on 9/11.</a> These notes record his knowledge of what happened around the time the Pentagon was hit
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs3-Timelines_SourcesForTimes-AA77-UA93.pdf" title="Image:Team8 Box8 MilesKaraDocs3-Timelines SourcesForTimes-AA77-UA93.pdf">Thoughts about why it was incorrectly reported that NEADS heard early about the Flight 77 and Flight 93 hijackings</a>.  Not as useful as it sounds, but worth a look if you're interested in the issue
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs3-Andrews_UA93-Andrews-Timeline.pdf" title="Image:Team8 Box8 MilesKaraDocs3-Andrews UA93-Andrews-Timeline.pdf">A timeline of events relating to Andrews Air Force Base and Flight 93</a>
+</li><li><a href="/index.php/Image:Team8_Box8_MilesKaraDocs2-DavidWherleyMFR_Logs.pdf" title="Image:Team8 Box8 MilesKaraDocs2-DavidWherleyMFR Logs.pdf">Summary of an interview with General David Wherley, who was commander of the 113th Fighter Wing at Andrews Air Force Base on 9/11</a>
+</li></ul>
+<p>...and real-life work beckons: that's it (until tomorrow).
+</p><p><br>
+<b>12th July 2009</b>
+</p><p>Here's <a href="/index.php/Image:NYC_Box9_FarmerMisc-Cheney-Interview-19Nov01.pdf" title="Image:NYC Box9 FarmerMisc-Cheney-Interview-19Nov01.pdf">the November 2001 Cheney interview</a> including a description of how and when he was evacuated to the PEOC (again, sourced from the History Commons uploads).
+</p><p><br>
+<b>11th July 2009</b>
+</p><p>One classic truther fiction is that Cheney himself said he was in the PEOC before the Pentagon was hit. Here's David Ray Griffin distorting the truth in his usual fashion:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>The 9/11 Commission’s account even contradicted that given by Cheney himself in a well-known interview. Speaking to Tim Russert on NBC’s Meet the Press only five days after 9/11, Cheney said: “[A]fter I talked to the president... I went down into... the Presidential Emergency Operations Center... [W]hen I arrived there within a short order, we had word the Pentagon's been hit.” Cheney himself, therefore, indicated that he had entered the PEOC prior to the (9:38) strike on the Pentagon, not 20 minutes after it, as the Commission would later claim.<br><a href="http://www.agoracosmopolitan.com/home/Frontpage/2008/01/22/02147.html" class="external free" title="http://www.agoracosmopolitan.com/home/Frontpage/2008/01/22/02147.html" rel="nofollow">http://www.agoracosmopolitan.com/home/Frontpage/2008/01/22/02147.html</a></div>
+<p><br>
+</p><p>In reality, a) the full interview is entirely consistent with the 9/11 Commission's evacuation time of around 9:36, and b) receiving "word the Pentagon's been hit" isn't something that would happen instantly: the most you can say is that Cheney arrived before this "word" did.
+</p><p>This has always been obvious enough, but now it's clarified by a 9/11 Commission document from History Commons collection, a transcript of an interview with Cheney from September 5 2002. 
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>Well, the plane didn't hit the White House, obviously. It circled around and did a complete 360, and that's the one that went into the Pentagon. So, when I got down into the tunnel, we saw that the Pentagon had been hit. That was on television. And I called the President again -- he was then headed for the airport in Florida -- and urged him not to return to Washington, because Washington was now under attack and we didn't know the scope of it or anything.
+And then from there we went on to the Presidential Emergency Operations Center. But I didn't know, even immediately, that it was an airliner that had hit the Pentagon. The first reports was it was a helicopter, because where it hit was next to the helipad on the west side of the building. It was only later that Secretary Rumsfeld confirmed that it was in fact an aircraft, and that we figured out it was the one that had been headed for the White House and had circled back and hit the Pentagon.<br><a href="/index.php/Image:NYC_Box9_FarmerMisc-Cheney-Interview-5Sep02.pdf" title="Image:NYC Box9 FarmerMisc-Cheney-Interview-5Sep02.pdf">Source</a></div>
+<p><br>
+</p><p>So: in the PEOC tunnel Cheney sees that something has happened but doesn't know what. The copy of Lynne Cheney's notes confirms that there were various reports just after 10am about what had happened at the Pentagon. Then Cheney receives "word that the Pentagon's been hit" by a plane when Rumsfeld returns from the crash site. No big smoking gun, no massive contradiction, and no evidence of "inside job", despite what people like Dr Griffin like to pretend.
+</p>
+<ul><li>In a further interview Cheney clarifies when he was evacuated to the PEOC: shortly after watching Bush deliver his first statement on TV (around 9:30).  <a href="/index.php/Image:NYC_Box9_FarmerMisc-Cheney-Interview-5Sep02b.pdf" title="Image:NYC Box9 FarmerMisc-Cheney-Interview-5Sep02b.pdf">Source</a>
+</li></ul>
+<ul><li>In another Cheney tentatively recalls Mineta reaching the PEOC at around the same time as him, and talks of the FAA delivering the ground stop order, not Mineta.  <a href="/index.php/Image:NYC_Box9_FarmerMisc-Cheney-Interview-4Sep02.pdf" title="Image:NYC Box9 FarmerMisc-Cheney-Interview-4Sep02.pdf">Source</a>
+</li></ul>
+<ul><li>This document includes a timeline of events according to various interviews by Condoleezza Rice, again relevant to Cheney's evacuation and Mineta's timeline. <a href="/index.php/Image:NYC_Box9_FarmerMisc-RiceTranscriptNotes.pdf" title="Image:NYC Box9 FarmerMisc-RiceTranscriptNotes.pdf">Source</a>
+</li></ul>
+<p><br>
+<b>10th July 2009</b>
+</p><p>More 9/11 Commission documents have been uploaded, all sourced from History Commons.
+</p><p>These are of minor interest just for references on a page or two, so don't bother downloading them unless you must read all the evidence. 
+</p>
+<ul><li><a href="/index.php/Image:Team8_Box6_FAAHQ-PeteFalcone-MFR.pdf" title="Image:Team8 Box6 FAAHQ-PeteFalcone-MFR.pdf">An interview with the FAA's Pete Fallon who reports not being able to speak to the NMCC</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-NancyKalinowski.pdf" title="Image:Team8 Box6 FAAHQ-NancyKalinowski.pdf">An interview with the FAA's Nancy Kalinowski, the official who recorded suspected hijacks on a white board</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-MikeWeikert-MFR.pdf" title="Image:Team8 Box6 FAAHQ-MikeWeikert-MFR.pdf">An interview with the FAA's Mike Weikert, who talks of ATC being concerned about an aircraft after the Pentagon had been hit</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-MikeCirillo.pdf" title="Image:Team8 Box6 FAAHQ-MikeCirillo.pdf">An interview with the FAA's Mike Cirillo includes some useful details on hijacking procedures and the events of the day</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-MaryEllenKraus-MFR.pdf" title="Image:Team8 Box6 FAAHQ-MaryEllenKraus-MFR.pdf">Another FAA interview with Mary Ellen Kraus, contains lots of details on what the FAA did during the attacks</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-LeeLongmire.pdf" title="Image:Team8 Box6 FAAHQ-LeeLongmire.pdf">Lee Longmire was the FAA's hijack coordinator on 9/11, I believe, so lots of detail here on what he and others were doing</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-DaveCanoles-MFR.pdf" title="Image:Team8 Box6 FAAHQ-DaveCanoles-MFR.pdf">Dave Canoles has more on FAA activities on 9/11</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-Daniel-Darrel-Smith.pdf" title="Image:Team8 Box6 FAAHQ-Daniel-Darrel-Smith.pdf">Daniel (Darrel) Smith says it took a very long time to set up the FAA Crisis Centre</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-DanNoel.pdf" title="Image:Team8 Box6 FAAHQ-DanNoel.pdf">Dan Noel discusses the setup and timing of the various FAA conference calls</a>
+</li><li><a href="/index.php/Image:Team8_Box5_Miscellaneous_PhantomAA11.pdf" title="Image:Team8 Box5 Miscellaneous PhantomAA11.pdf">Handwritten notes summarise how it was reported that Flight 11 may not have crashed at the WTC, after all</a>
+</li><li><a href="/index.php/Image:Team5_Box8-HearingMaterial-January_HijackersVisas.pdf" title="Image:Team5 Box8-HearingMaterial-January HijackersVisas.pdf">A single page table listing the hijackers, their country and date of birth, and where and when they got their US visas</a>
+</li><li><a href="/index.php/Image:NYC_Box10_AA11-Timeline_WTC-Chronology.pdf" title="Image:NYC Box10 AA11-Timeline WTC-Chronology.pdf">A chronology of WTC events</a> (not as helpful as it sounds)
+</li></ul>
+<p>These files are more generally interesting.
+</p>
+<ul><li><a href="/index.php/Image:Team8_Box6_FAAHQ-JeffGriffith.pdf" title="Image:Team8 Box6 FAAHQ-JeffGriffith.pdf">Jeff Griffith provides important details on radar quality, coverage, and the FAA's knowledge of events on 9/11</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-DarleneFreeman-MFR.pdf" title="Image:Team8 Box6 FAAHQ-DarleneFreeman-MFR.pdf">Darlene Freeman discusses how the FAA came up with their mistaken timeline</a>
+</li><li><a href="/index.php/Image:Team8_Box6_FAAHQ-DanDiggins.pdf" title="Image:Team8 Box6 FAAHQ-DanDiggins.pdf">Dan Diggins has a lot of detail on the FAA's view of what happened on 9/11</a>
+</li><li><a href="/index.php/Image:Team8_Box5_DOT-JohnFlaherty.pdf" title="Image:Team8 Box5 DOT-JohnFlaherty.pdf">John Flaherty, Mineta's Chief of Staff, manages to undermine and tentatively support Mineta's timeline in the same interview</a>
+</li><li><a href="/index.php/Image:Team8_Box5-JohnAzzarelloNotesMay23.pdf" title="Image:Team8 Box5-JohnAzzarelloNotesMay23.pdf">Commission Staffer John Azzarello's notes on the testimony of Mineta, Generals Arnold and McKinley and Col Scott</a>
+</li><li><a href="/index.php/Image:Team5_Box8_BreederDociments.pdf" title="Image:Team5 Box8 BreederDociments.pdf">"Breeder Documents"</a> contains extensive details on hijacker IDs and includes documents recovered from the crash sites
+</li><li><a href="/index.php/Image:NYC_Box10_PA_interviews_misc.pdf" title="Image:NYC Box10 PA interviews misc.pdf">A handy timeline of NYPD reports from around the first impact until about 10:00AM</a>
+</li><li><a href="/index.php/Image:NYC_Box10_FarmerMisc-MrsCheneyInterview.pdf" title="Image:NYC Box10 FarmerMisc-MrsCheneyInterview.pdf">Lynne Cheney</a> says she didn't arrive at the White House until after the Pentagon was hit, and Dick Cheney wasn't in the PEOC proper when she got there, more contradictions of Mineta's timeline
+</li><li><a href="/index.php/Image:NYC_Box10_FarmerMisc-EricEdelmanInterview.pdf" title="Image:NYC Box10 FarmerMisc-EricEdelmanInterview.pdf">A Newsweek interview with Eric Edelman</a> provides further useful information re: Mineta's timeline and Cheney's whereabouts on 9/11
+</li><li><a href="/index.php/Image:NYC_Box10_FarmerMisc-ScooterLibbyInterview.pdf" title="Image:NYC Box10 FarmerMisc-ScooterLibbyInterview.pdf">And the Newsweek Scooter Libby</a> interview contains even more on Cheney's movements
+</li></ul>
+<p>And these files?  I'm not sure yet: they look valuable but need further examination.
+</p>
+<ul><li><a href="/index.php/Image:Team8_Box4-Ben-Veniste_Correspondence.pdf" title="Image:Team8 Box4-Ben-Veniste Correspondence.pdf">Handwritten notes relating to the NORAD tapes</a>
+</li><li><a href="/index.php/Image:Team8_Box2-FAA-CC-JohnWhite.pdf" title="Image:Team8 Box2-FAA-CC-JohnWhite.pdf">John White reports on 9/11 as experienced at the FAA Command Centre</a>
+</li><li><a href="/index.php/Image:Team8_Box1-FAA-CC-Briefing.pdf" title="Image:Team8 Box1-FAA-CC-Briefing.pdf">An FAA Command Centre briefing has Flight 11-related timeline details and other information</a>
+</li></ul>
+<p>That's enough for today, I think.
+</p><p><br>
+<b>9th July 2009</b>
+</p><p>I still don't really have the enthusiasm to spend much time on the site at the moment, so apologies if you're getting bored with the lack of developments here.  Still, maybe I can squeeze in a few new items today and tomorrow.
+</p><p>First up is a new (to me) WTC7 video showing smoke and fire coming from the building.  I've added it to the bottom of the <a href="/index.php/WTC7_Fire_Videos" title="WTC7 Fire Videos">WTC7 Fire Videos</a> page.
+</p><p>I've also uploaded a <a href="/index.php/News_Hour-Day_of_Remembrance" title="News Hour-Day of Remembrance">News Hour transcript from September 14th</a>, just for small reference in a few other pages.  (It doesn't contain anything huge so don't spend time reading it unless you're keen to see report from around that time.)
+</p><p>Here's a History Commons-sourced 9/11 Commission file with timelines and information on the <a href="/index.php/Image:Team8_Box14_DomesticCasesWorkfile-Payne_Stewart.pdf" title="Image:Team8 Box14 DomesticCasesWorkfile-Payne Stewart.pdf">Payne Stewart case</a>.
+</p><p>This <a href="/index.php/Image:Team8_Box6_FAAHQ-TonyMello.pdf" title="Image:Team8 Box6 FAAHQ-TonyMello.pdf">9/11 Commission interview with the FAA's Tony Mello</a> may be interpreted as tentatively supporting part of Mineta's account - a plane approaching DC from the NW before the Pentagon crash - but the two sets of notes seem to contradict each other.  More research is required.
+</p><p>A 9/11 Commission interview with <a href="/index.php/Image:Team8_Box6_FAAHQ-SteveBrown.pdf" title="Image:Team8 Box6 FAAHQ-SteveBrown.pdf">Steve Brown from FAA HQ</a> includes brief recollections of the White House video conference.  Again, just small interesting details, no need to rush off to read it unless you're particularly interested in the topic.
+</p><p>This is of general interest, a 9/11 Commission interview with the FAA's Peter Challan.  He talks of plans in 2000 to scrap the FAA's old secondary radar scheme, and his instinct that "during any given period of time, given various reasons, approximately ten percent of national airspace lacks primary radar coverage."  <a href="/index.php/Image:Team8_Box6_FAAHQ-PeterChallan.pdf" title="Image:Team8 Box6 FAAHQ-PeterChallan.pdf">Download the file here</a>.
+</p><p><br>
+<b>11th June 2009</b>
+</p><p>The publication of <a href="http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM" class="external text" title="http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM" rel="nofollow">"Active Thermitic Material Discovered in Dust from the 9/11 World Trade Center Catastrophe"</a> has been held up as some kind of truther triumph: at last, a peer-reviewed paper supporting controlled demolition.  But how thorough are publishers Bentham in their reviews?  At last, we have an answer: two researchers used <a href="http://pdos.csail.mit.edu/scigen/" class="external text" title="http://pdos.csail.mit.edu/scigen/" rel="nofollow">SCIgen</a> to generate a spoof scientific paper that made no sense at all, submitted it in the name of the Center for Research in Applied Phrenology (or CRAP), and found it was accepted 4 months later.  Once they'd paid the $800 fee, of course.  Read more at the <a href="http://www.newscientist.com/article/dn17288-spoof-paper-accepted-by-peerreviewed-journal.html" class="external text" title="http://www.newscientist.com/article/dn17288-spoof-paper-accepted-by-peerreviewed-journal.html" rel="nofollow">New Scientist</a>.
+</p><p><br>
+<b>10th June 2009</b>
+</p><p>I've uploaded another 9/11 Commission document (sourced via History Commons). This one contains handwritten notes on an NTSB briefing where they use the flight data recorder and other information to figure out what might have happened on flights 77 and 93 (but mostly 93). 
+</p><p>Observations include a) they think the flight 93 "bomb on board" message was intended for the outside world, b) doesn't think flight 93 passengers got into the cockpit, c) something odd about flipping through the UHF dial and "lights on an ATIS for runway in Penn" (??, fun for truthers anyway), maybe as they say because he can't figure out how to use the radio, d) some references to NORAD that I don't understand, e) more details on the CVR, f) suggestions that Jarrah used a highway and map to help figure out where he was, g) suggestion that the loud air sound on flight 93 might have been fire extinguishers, h) reference to the supposed "white smoke" and "explosion" reports from Ed Felt, i) Hanjour "nailed the turn" before hitting the Pentagon, and j) loads of other things, perhaps more important.
+</p><p>So, this is an essential document for anyone who's ever wondered what happened on Flight 93, and <a href="/index.php/Image:Team7_Box3_CVR-Notes-NTSB.pdf" title="Image:Team7 Box3 CVR-Notes-NTSB.pdf">you'll find a copy here</a>. 
+</p><p><br>
+<b>6th June 2009</b>
+</p><p>I've uploaded a very interesting 9/11 Commission document on "NORAD/FAA Misstatements", explaining inaccurate claims made to the Commission about the flight timelines, summarising why the Commission knew those claims to be false, and explaining why the military really should have known that.  It's a must-read for anyone even faintly interested in the stand-down theories, and you can <a href="/index.php/Image:Daniel_Marcus-Box6_NORAD-FAA-Misstatements.pdf" title="Image:Daniel Marcus-Box6 NORAD-FAA-Misstatements.pdf">grab a copy here</a>.
+</p><p><br>
+<b>5th June 2009</b>
+</p><p>Here's another small 9/11 Commission document.
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box12_93Calls_DeborahWelsh.pdf" title="Image:Team7 Box12 93Calls DeborahWelsh.pdf">Brief background details on Flight 93 flight attendant Deborah Welsh</a>
+</li></ul>
+<p>We now have FBI documents on most of the Flight 93 passengers and crew.  You'll find the full set <a href="http://911myths.com/index.php/9-11_Commission_Records#Flight_93_Calls" class="external text" title="http://911myths.com/index.php/9-11_Commission_Records#Flight_93_Calls" rel="nofollow">on this page</a>.
+</p><p>Some truthers like to claim that General Myers was lying when he said that NORAD were postured to look outwards.  But what do other NORAD and NEADS personnel say?  Inspired by JREF forum member Boone 870, I've collected together statements from various 9/11 Commission documents and you can read the results in the new <a href="/index.php/NORAD-looking_outward" title="NORAD-looking outward">NORAD-looking outward</a> page.
+</p><p><br>
+<b>4th June 2009</b>
+</p><p>There are new 9/11 Commission interview summaries available online.  Read more <a href="http://forums.randi.org/showthread.php?p=4776508#post4776508" class="external text" title="http://forums.randi.org/showthread.php?p=4776508#post4776508" rel="nofollow">on the JREF forum</a>.
+</p><p>These WTC-related reports were obtained by a 911blogger poster a few months back, so I'm well behind here.  Still, if you missed them they're handy for discovering more about the buildings, as well as referring them to truthers who still go on about the towers being "asbestos-ridden white elephants".  Beware, the first two are 80MB+ and 40MB+ respectively.
+</p>
+<ul><li><a href="/index.php/Image:MH1_Complete.pdf" title="Image:MH1 Complete.pdf">Property Condition Assessment report on WTC1</a> from September/ October 2000
+</li></ul>
+<ul><li><a href="/index.php/Image:MH2_Complete.pdf" title="Image:MH2 Complete.pdf">Property Condition Assessment report on WTC2</a> from September/ October 2000
+</li></ul>
+<ul><li><a href="/index.php/Image:BH_Report.pdf" title="Image:BH Report.pdf">An "engineering assessment of the fireproofing requirements</a> of the open-web, steel, joists that support the floors in the tenant areas of Towers 1 and 2 of the World Trade Center"
+</li></ul>
+<p>Remember how KSM and Ramzi Binalshibh confessed to planning the 9/11 attacks before they were arrested?  A recent History Commons upload provides more details, in what I believe is a transcript of one of the audio tapes made during that session.  It has Binalshibh justifying the attacks, talking about the planning, training, strategy and more.  <a href="/index.php/Image:Team3_Box5_Hurley-Timelines.pdf" title="Image:Team3 Box5 Hurley-Timelines.pdf">Download it here</a> (transcript starts 20+ pages in to the file).
+</p><p><br>
+<b>3rd June 2009</b>
+</p><p><a href="/index.php/Image:Team7_Box18_AAL_Letters.pdf" title="Image:Team7 Box18 AAL Letters.pdf">"AAL Letters"</a> is a 9/11 Commission folder containing assorted American Airlines-related documentation: passenger lists, passenger name records, American Airlines records regarding the departure of Flights 11 and 77, and more. Some US Airways documents on the 9/11 flight taken by Atta and al-Omari, too.  No smoking guns, but worth a look if you're the type of person who likes to see all the available evidence.
+</p><p>I uploaded a local copy of a January 2001 Congress hearing where they're talking about the "missing" $2.3 trillion (thanks to TAM from JRef).  We had the text here anyway, but it's better still to have the source.  <a href="/index.php/Image:2.3-trillion.pdf" title="Image:2.3-trillion.pdf">Download it here</a> if you're interested and search for "trillion" to find the reference.  (But beware, it's 10 MB in size and not really worth the effort.)
+</p><p><br>
+<b>2nd June 2009</b>
+</p><p>I've just not found too much enthusiasm for the site recently, but this month is a little quieter workwise so maybe it'll be different.  Let's start with a little more uploading of 9/11 Commission documents.
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box12_93Calls_MarionBritton.pdf" title="Image:Team7 Box12 93Calls MarionBritton.pdf">A Commission folder on Flight 93 passenger Marion Britton</a>
+</li></ul>
+<ul><li><a href="/index.php/Image:Team5_Box68_binLadenFlights.pdf" title="Image:Team5 Box68 binLadenFlights.pdf">A folder titled "Charts of bin Laden Flights", containing passenger lists assembled from various sources</a>
+</li></ul>
+<ul><li><a href="/index.php/Image:Team1A_Box56_NotesOnTimeline.pdf" title="Image:Team1A Box56 NotesOnTimeline.pdf">"Notes on Timeline - FBI PENTTBOM"</a> actually doesn't contain those notes at all (they're withdrawn).  Instead there are some interesting plot-related questions, such as for example wondering why travelers cheques purchased by Yazeed al-Salmi ended up in Nawaf al-Hazmi's account.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team8_Box6_FAAHQ-ColS.Atkins.pdf" title="Image:Team8 Box6 FAAHQ-ColS.Atkins.pdf">A 9/11 Commission interview with Colonel Sheryl Atkins</a> who was a military liaison at FAA Headquarters on 9/11.  Did she have early knowledge of any of the hijackings, or alert NORAD of what was going on?  (Hint: no.)
+</li></ul>
+<ul><li><a href="/index.php/Image:DanaHyde_Box5_USSSRequestsAndNotes.pdf" title="Image:DanaHyde Box5 USSSRequestsAndNotes.pdf">"USSS Requests and Notes"</a> contains fragments from Secret Service interviews regarding their awareness of hijackings and Cheney's evacuation
+</li></ul>
+<p><br>
+<b>15th May 2009</b>
+</p><p>I've uploaded airman files for all four hijacker pilots: <a href="/index.php/Image:Airman-Records-for-Alleged-911-Hijacker-Marwan-Alshehhi.pdf" title="Image:Airman-Records-for-Alleged-911-Hijacker-Marwan-Alshehhi.pdf">Marwan al-Shehhi</a>, <a href="/index.php/Image:Airman-Records-for-Alleged-911-Hijacker-Mohamed-Atta.pdf" title="Image:Airman-Records-for-Alleged-911-Hijacker-Mohamed-Atta.pdf">Mohamed Atta</a>, <a href="/index.php/Image:Airman-Records-for-Alleged-911-Hijacker-Hani-Hanjour.pdf" title="Image:Airman-Records-for-Alleged-911-Hijacker-Hani-Hanjour.pdf">Hani Hanjour</a> and <a href="/index.php/Image:Airman-Records-for-Alleged-911-Hijacker-Ziad-Jarrah.pdf" title="Image:Airman-Records-for-Alleged-911-Hijacker-Ziad-Jarrah.pdf">Ziad Jarrah</a>.
+</p><p>The <a href="/index.php/Image:Airman-Records-for-Alleged-911-Hijacker-Marwan-Alshehhi.pdf" title="Image:Airman-Records-for-Alleged-911-Hijacker-Marwan-Alshehhi.pdf">Marwan al-Shehhi</a> file also contains this email:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>Subject: AL-SHEHRI, Waleed Ahmed
+<p>Author: Mark Sweeney
+Date: 5/8/2002 12:40 PM
+</p><p>We were recently notified that Waleed Ahmed AL-SHEHRI, ssn [redacted] who had been identified by the FBI as one of the 19 terrorists had been issued a medical certificate in February 2002. Our office contacted the FBI who interviewed Mr. AL-SHEHRI and discovered he was not one of the hijackers but was in fact a pilot for a Saudi Diplomat and was very much alive. The identity of the hijacker was in fact Waleed Mohamed AL-SHEHRI who is not certificated by the FAA.
+</p><p>For AMC-760, please remove the "no mail" restriction.
+</p><p>Mark Sweeney, AMC-730
+Internal Security &amp; Investigations Division
+(405) 954-5622
+</p>
+NCTA000010815 </div>
+<p><br>
+</p><p>Another reminder that the "still alive" Waleed Ahmed al-Shehri is not the same as the hijacker, Waleed Mohamed al-Shehri, not least because they have DIFFERENT NAMES.  (Yes, I know it's obvious, for that and many other reasons, but not quite obvious enough yet for the truthers to catch on.  Maybe one day.)
+</p><p><br>
+<b>14th May 2009</b>
+</p><p>I've uploaded a further FBI summary on <a href="/index.php/Image:13120683-FBI-Summary-about-Alleged-Flight-93-Hijacker-Ziad-Jarrah.pdf" title="Image:13120683-FBI-Summary-about-Alleged-Flight-93-Hijacker-Ziad-Jarrah.pdf">Ziad Jarrah</a>.  And there are more on <a href="/index.php/Image:FBI-Summary-about-Flight-11-Hijackers.pdf" title="Image:FBI-Summary-about-Flight-11-Hijackers.pdf">the Flight 11 hijackers</a>, <a href="/index.php/Image:FBI-Summary-about-Flight-93-Hijackers-.pdf" title="Image:FBI-Summary-about-Flight-93-Hijackers-.pdf">the Flight 93 hijackers</a>, <a href="/index.php/Image:FBI-Summary-about-Flight-175-Hijackers.pdf" title="Image:FBI-Summary-about-Flight-175-Hijackers.pdf">the Flight 175 hijackers</a>, <a href="/index.php/Image:FBI-Summary-about-Financial-Investigation-of-911-Hijackers.pdf" title="Image:FBI-Summary-about-Financial-Investigation-of-911-Hijackers.pdf">a financial investigation of the hijackers</a>, and <a href="/index.php/Image:FBI-Summary-PENTTBOMB.pdf" title="Image:FBI-Summary-PENTTBOMB.pdf">an overall summary of the PENTTBOM case</a>.  All files originally copied and uploaded by History Commons.
+</p><p>Did the US really spend more investigating Clinton/ Lewinsky or the Space Shuttle disasters, than on investigating 9/11?  <a href="/index.php/Comparing_costs" title="Comparing costs">More here</a>.
+</p><p>I've linked in all the new downloads on the various hijacker pages, and expanded more of the new phone call pages to include additional details on each one.  I'll continue with that tomorrow, and I think create new files with all the FBI documents related to a particular person or topic.
+</p><p><br>
+<b>13th May 2009</b>
+</p><p>Just a tiny addition on the phones theme today, linking together a few details about the <a href="/index.php/CeeCee_Lyles_call" title="CeeCee Lyles call">CeeCee Lyles call</a> from Flight 93.
+</p><p>But I've also uploaded a bunch of FBI summaries (courtesy of History Commons) on the hijackers: bios, addresses, timelines, all kinds of stuff.  They're here: <a href="/index.php/Image:13120295-FBI-Summary-about-Alleged-United-93-Hijacker-Ahmed-Alnami.pdf" title="Image:13120295-FBI-Summary-about-Alleged-United-93-Hijacker-Ahmed-Alnami.pdf">Ahmed al-Nami</a>, <a href="/index.php/Image:13120301-FBI-Summary-about-Alleged-United-175-Hijacker-Ahmed-Alghamdi.pdf" title="Image:13120301-FBI-Summary-about-Alleged-United-175-Hijacker-Ahmed-Alghamdi.pdf">Ahmed al-Ghamdi</a>, <a href="/index.php/Image:13120308-FBI-Summary-about-Alleged-United-93-Hijacker-Ahmed-AlHaznawi.pdf" title="Image:13120308-FBI-Summary-about-Alleged-United-93-Hijacker-Ahmed-AlHaznawi.pdf">Ahmed al-Haznawi</a>, <a href="/index.php/Image:13120363-FBI-Summary-about-Alleged-Flight-175-Hijacker-Fayez-Ahmed-Banihammad.pdf" title="Image:13120363-FBI-Summary-about-Alleged-Flight-175-Hijacker-Fayez-Ahmed-Banihammad.pdf">Fayez Banihammed</a>, <a href="/index.php/Image:13120414--FBI-Summary-about-Alleged-Flight-77-Hijacker-Hani-Hanjour.pdf" title="Image:13120414--FBI-Summary-about-Alleged-Flight-77-Hijacker-Hani-Hanjour.pdf">Hani Hanjour</a>, <a href="/index.php/Image:13120429-FBI-Summary-about-Alleged-Flight-175-Hijacker-Hamza-Alghamdi.pdf" title="Image:13120429-FBI-Summary-about-Alleged-Flight-175-Hijacker-Hamza-Alghamdi.pdf">Hamza al-Ghamdi</a>, <a href="/index.php/Image:13120462-FBI-Summary-about-Alleged-Flight-77-Hijacker-Khalid-Almihdhar.pdf" title="Image:13120462-FBI-Summary-about-Alleged-Flight-77-Hijacker-Khalid-Almihdhar.pdf">Khalid al-Mihdhar</a>, <a href="/index.php/Image:13120483-FBI-Summary-about-Alleged-Flight-77-Hijacker-Majed-Moqed.pdf" title="Image:13120483-FBI-Summary-about-Alleged-Flight-77-Hijacker-Majed-Moqed.pdf">Majed Moqed</a>, <a href="/index.php/Image:13120551--FBI-Summary-about-Alleged-Flight-175-Hijacker-Marwan-Alshehhi.pdf" title="Image:13120551--FBI-Summary-about-Alleged-Flight-175-Hijacker-Marwan-Alshehhi.pdf">Marwan al-Shehhi</a>, <a href="/index.php/Image:13120569-FBI-Summary-about-Alleged-Flight-175-Hijacker-Mohand-Alshehri.pdf" title="Image:13120569-FBI-Summary-about-Alleged-Flight-175-Hijacker-Mohand-Alshehri.pdf">Mohand al-Shehri</a>, <a href="/index.php/Image:13120604--FBI-Summary-about-Alleged-Flight-77-Hijacker-Nawaf-Alhazmi.pdf" title="Image:13120604--FBI-Summary-about-Alleged-Flight-77-Hijacker-Nawaf-Alhazmi.pdf">Nawaf al-Hazmi</a>, <a href="/index.php/Image:13120630-FBI-Summary-about-Alleged-Flight-93-Hijacker-Saeed-Alghamdi.pdf" title="Image:13120630-FBI-Summary-about-Alleged-Flight-93-Hijacker-Saeed-Alghamdi.pdf">Saeed al-Ghamdi</a>, <a href="/index.php/Image:13120657-FBI-Summary-about-Alleged-Flight-77-Hijacker-Salem-Alhazmi.pdf" title="Image:13120657-FBI-Summary-about-Alleged-Flight-77-Hijacker-Salem-Alhazmi.pdf">Salem al-Hazmi</a>.
+</p><p><br>
+<b>12th May 2009</b>
+</p><p>I want to make it easier to locate data related to the 9/11 phone calls.  I've made a start with four pages, for <a href="/index.php/Betty_Ong_call" title="Betty Ong call">Betty Ong</a>, <a href="/index.php/Madeline_Sweeney_calls" title="Madeline Sweeney calls">Madeline Sweeney</a>, <a href="/index.php/Renee_May_calls" title="Renee May calls">Renee May</a> and <a href="/index.php/Barbara_Olson_calls" title="Barbara Olson calls">Barbara Olson</a>.  The presentation isn't right yet, but just collecting this information into one place is a positive step.
+</p><p><b>11th May 2009</b>
+</p><p>I've about 7 days off in the next 14, so will be back on the site for a while.
+</p><p>Let's start with something small.  John Judge tells us Flight 77 shouldn't have reached the Pentagon because, amongst other reasons...:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>...the Pentagon sits inside the P-56-A restricted air space section that extends 17 miles in all directions from the Washington Monument, and that activated air defenses from a joint FAA/Secret Service radar and air traffic control at Langley, VA for many years prior to 9/11...<br><a href="http://www.ratical.org/ratville/JFK/JohnJudge/P56A.html" class="external free" title="http://www.ratical.org/ratville/JFK/JohnJudge/P56A.html" rel="nofollow">http://www.ratical.org/ratville/JFK/JohnJudge/P56A.html</a></div>
+<p><br>
+But is this really true?  Hint: no.  <a href="/index.php/P56" title="P56">More here</a>.
+</p><p>And elsewhere - you've seen the Moussaoui trial exhibit that deals with phone calls from the hijacked files, yes?  The Flash applet?  I've extracted the images and made them available here, as a <a href="/index.php/Moussaoui_Flights_exhibit" title="Moussaoui Flights exhibit">thumbnail gallery</a> or just all the full-sized images <a href="/index.php/Moussaoui_Flights_exhibit_full" title="Moussaoui Flights exhibit full">one a single page</a>.
+</p><p><b>24th April 2009</b>
+</p><p>I've uploaded another interesting 9/11 Commission document uploaded by History Commons, an <a href="/index.php/Image:PENTTBOM_About_Jarrah.pdf" title="Image:PENTTBOM About Jarrah.pdf">FBI file on Ziad Jarrah.</a>
+</p><p>And <a href="/index.php/Image:PENTTBOM_About_Hanjour.pdf" title="Image:PENTTBOM About Hanjour.pdf">here's a similar document on Hanjour</a>, with a lengthy timeline (just look at all that flight training, for instance).
+</p><p><br>
+<b>23rd April 2009</b>
+</p><p>I've cached an interesting article by former FBI agent Ali Soufan, <a href="/index.php/My_Tortured_Decision" title="My Tortured Decision">My Tortured Decision</a>.  It criticises the decision to inflict "harsh measures" on detainees, and talks about the benefits that came from not going that far (including hearing that Khalid Shaikh Mohammed was the 9/11 mastermind).
+</p><p><br>
+<b>17th April 2009</b>
+</p><p>Good news, professionally: I've a major writing job for a new editor.  It's going to pay very well, and if he likes the results then I think there's plenty more work to be had.  Just as well, because things have been relatively quiet recently, and running this place, obtaining NARA documents and so on is becoming expensive.
+</p><p>Of course while this helps pay to run the site, it also means I won't have time to work on it for a while.  Sorry!  Come back in yet another week or two, I may have managed another update by then.
+</p><p><br>
+<b>9th April 2009</b>
+</p><p>I'm right in the middle of a bunch of work right now, but should be able to resume decent updates by the end of next week.  In the meantime, here are a couple of new 9/11 Commission documents you might find useful, both of which are sourced from <a href="http://www.scribd.com/HistoryCommons" class="external text" title="http://www.scribd.com/HistoryCommons" rel="nofollow">History Commons</a>.
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box17_FBI302sofInterest_Flight77.pdf" title="Image:Team7 Box17 FBI302sofInterest Flight77.pdf">FBI interviews re: Flight 77</a> provides the name of the operator who it's suspected took Barbara Olsons "collect call" on 9/11 - Mercy Lorenzo.  The report contains two oddities, saying the hijackers were armed with "knives and guns" and the man receiving the call was a "sergeant".
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box17_Flight-93-Info_QFRs-For-Flight-93.pdf" title="Image:Team7 Box17 Flight-93-Info QFRs-For-Flight-93.pdf">United Airlines responses to Flight 93-related questions</a>: past history, 9/11 times, load factor, hijackers boarding times etc. No smoking gun but useful raw data, especially coming from a named United Airlines source.
+</li></ul>
+<p><br>
+<b>4th April 2009</b>
+</p><p>Here's a couple of interesting 9/11 Commission records obtained by History Commons.
+</p>
+<ul><li><a href="/index.php/Image:Team5_Box62_AliasesAndIDs-FBIIDsHijackers-1.pdf" title="Image:Team5 Box62 AliasesAndIDs-FBIIDsHijackers-1.pdf">This one</a> has family members confirming, with occasional small reservations, that FBI photos are those of their relatives.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team5_Box62_AliasesAndIDs-FBIIDsHijackers-2.pdf" title="Image:Team5 Box62 AliasesAndIDs-FBIIDsHijackers-2.pdf">And this one</a> provides other identification evidence, including a DNA match between samples taken from the apartment of Jarrah's girlfriend and remains found at the Flight 93 crash site.
+</li></ul>
+<p><br>
+<b>3rd April 2009</b>
+</p><p>I'm finding time to upload 3 small 9/11 Commission files originally obtained by <a href="http://www.scribd.com/HistoryCommons" class="external text" title="http://www.scribd.com/HistoryCommons" rel="nofollow">History Commons</a>. 
+</p>
+<ul><li><a href="/index.php/Image:Team8_Box19_MilesKaraTrips-NEADSDutyRoster.pdf" title="Image:Team8 Box19 MilesKaraTrips-NEADSDutyRoster.pdf">The NEADS Duty Roster</a> tells us who was around on 9/11
+</li></ul>
+<ul><li><a href="/index.php/Image:Team8_Box19_MilesKaraTrips-NORADChainOfCommand.pdf" title="Image:Team8 Box19 MilesKaraTrips-NORADChainOfCommand.pdf">NORAD chain of command</a> briefly details the structure of NORAD.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team8_Box19_MilesKaraTrips-MCC-T-Log.pdf" title="Image:Team8 Box19 MilesKaraTrips-MCC-T-Log.pdf">The MCC-T Log</a> is far and away the most important, though, the key NEADs log of 9/11 events.  You need this (it's only two pages).
+</li></ul>
+<p><br>
+<b>2nd April 2009</b>
+</p><p>9/11 Commission document of the day: <a href="/index.php/Image:NYCOffice_Box7_WTCBuilding7.pdf" title="Image:NYCOffice Box7 WTCBuilding7.pdf">"WTC Building 7"</a>.  Sounds interesting, right?  Which is why I ordered a copy.  But a) it turns out to be a few pages of handwritten notes, and b) the first half of which are faint and very hard to read, and c) seem to contain nothing more than the WTC-related MFRs that are available at NARA anyway.  I've not tried to decipher every word, though, so perhaps there's something of value there.  Go download a copy if you've time.
+</p><p>Having had a very quiet March, suddenly loads of work has appeared all at once.  Which is probably a good thing for me, financially at least.  I'll need to leave the site alone for a while to ensure it all gets done in time, though, so the remaining uploads will be postponed for a while.  I might manage the occasional small file, but nothing big is going to happen for the next three weeks.  
+</p><p><br>
+<b>1st April 2009</b>
+</p><p>The 9/11 Commission documents continue.
+</p>
+<ul><li><a href="/index.php/Image:Team8_Box6_FAAHQ-ShirleyMiller.pdf" title="Image:Team8 Box6 FAAHQ-ShirleyMiller.pdf">An interview with Shirley Miller of the FAA</a> establishes that a) Jane Garvey returned to the FAA after the second crash (relevant when discussing the Mineta timeline), and b) Miller realises the initial claimed NORAD notification time of 8:43 (for Flight 175) was an error, and actually related to something else.  Useful general background on the events of the day, too.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team8_Box6_FAAHQ-FAAGeneralCounsel.pdf" title="Image:Team8 Box6 FAAHQ-FAAGeneralCounsel.pdf">A meeting with the FAA General Counsel</a> highlights the sometimes spiky relationship between the FAA and Commission staff.
+</li></ul>
+<ul><li><a href="/index.php/Image:DanaHyde_Box3_WhiteHouseTimelines.pdf" title="Image:DanaHyde Box3 WhiteHouseTimelines.pdf">"White House Timelines"</a> is a document you'd request too, right?  Unfortunately it contains no timelines at all, presumably they've all been redacted.  Instead we get what look like a list of topics to discuss with Doug Cochrane, "VP Military Aide", and some sample questions from the 9/11 families. 
+</li></ul>
+<p>Still more tomorrow.
+</p>
+<hr>
+<p>Here's a non-Commission document for a change, <a href="/index.php/Image:Ubl-fbis.pdf" title="Image:Ubl-fbis.pdf">a compilation of bin Laden statements from 1994-2004</a>.  
+</p><p><br>
+<b>31st March 2009</b>
+</p><p>An unusual Commission document today, titled <a href="/index.php/Image:DanaHyde_Box3_GeneralWinfieldInterview.pdf" title="Image:DanaHyde Box3 GeneralWinfieldInterview.pdf">"General Winfield Interview"</a>.  Although it only contains the questions to be addressed to General Montague Winfield, there's still interesting information to be found here, including: General Myers isn't mentioned on the main Air Threat Conference Call until 9:58; the FAA aren't on the conference call until long after the final crash; Flight 93 isn't mentioned on the conference call until 10:09 when someone in the PEOC reports that it's "20 minutes out" (the likely beginning of the Mineta story); and more.  There are also interesting clues in the nature of the questions being asked, so for example there's scepticism that Bush ordered the move to DEFCON 3.
+</p><p>It's well worth a look, then, although note that this is the first document that I've not fully uploaded.  It included a 40-page transcript of the ABC News special on September 11 2002, and as that's available anyway I left it out.  You can view the transcript separately <a href="/index.php/ABC_News_9-11-2002" title="ABC News 9-11-2002">on this page</a>.
+</p>
+<hr>
+<p>A bonus extra document for today: <a href="/index.php/Image:Team7_Box13_Flight175Calls.pdf" title="Image:Team7 Box13 Flight175Calls.pdf">"Flight 175 Calls"</a>.  It discusses calls made from the hijacked planes using the United Airlines Star Fix system, and mentions an apparent discrepancy in the number of calls made from Flight 175 (1, or 2?)  I've not spent any time looking at this to see how significant it might be, but go grab a copy if you're interested.
+</p><p><br>
+<b>30th March 2009</b>
+</p><p>Two Commission documents today, both of interest to keen researchers (though everyone else will find them a little dull).
+</p>
+<ul><li><a href="/index.php/Image:DanaHyde_Box2_MonteBelger.pdf" title="Image:DanaHyde Box2 MonteBelger.pdf">This "Monte Belger" file</a> contains handwritten notes of an interview with him.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team8_Box6_FAAHQ-TraceyPaquin.pdf" title="Image:Team8 Box6 FAAHQ-TraceyPaquin.pdf">"Tracey Paquin"</a> was responsible for assembling an FAA timeline of the attacks and their response, and in this interview she explains what was involved.
+</li></ul>
+<p><br>
+<b>29th March 2009</b>
+</p><p>The latest 9/11 Commission document contains details on Lauren Grandcolas and her calls from Flight 93.  <a href="/index.php/Image:Team7_Box12_93Calls_LaurenGrandcolas.pdf" title="Image:Team7 Box12 93Calls LaurenGrandcolas.pdf">Download it here.</a>
+</p><p>I've uploaded the bulk of my documents now.  The rest should be done in around a week, maybe a little more.  There are a few others I want to order, but basically I want to move on to making sense of this new information.  I think it's going to help in creating a much more definitive timeline of the attacks, and the FAA and NORADs response.
+</p><p><br>
+<b>28th March 2009</b>
+</p><p>Just the one new 9/11 Commission document today, handwritten notes of an interview with John Flaherty (Norman Mineta's Chief of Staff on 9/11).  <a href="/index.php/Image:DanaHyde_Box2_JohnFlaherty.pdf" title="Image:DanaHyde Box2 JohnFlaherty.pdf">Download it here.</a>
+</p><p><br>
+<b>27th March 2009</b>
+</p><p>New 9/11 Commission documents:
+</p>
+<ul><li><a href="/index.php/Image:Team5_Box11_VictorManuelLopez-Florez.pdf" title="Image:Team5 Box11 VictorManuelLopez-Florez.pdf">"Victor Manual Lopez-Florez"</a> is a man who helped two of the hijackers obtain Virginia IDs.  Interest value: 3/10
+</li></ul>
+<ul><li><a href="/index.php/Image:Team5_Box11_HerbertVillalobos.pdf" title="Image:Team5 Box11 HerbertVillalobos.pdf">"Herbert Villalobos"</a> assisted the hijackers in much the same way.  Interest value: 3/10
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box18_HijackerSightings.pdf" title="Image:Team7 Box18 HijackerSightings.pdf">"Hijacker Sightings"</a> includes reports of hijackers supposedly casing cockpits, behaving suspiciously in planes and airports, all before 9/11. Also has a Commission staffer saying there's no way that James Woods story of encountering the hijackers is true.  Interest value: 6/10
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box12_93Calls_SandyBradshaw.pdf" title="Image:Team7 Box12 93Calls SandyBradshaw.pdf">"Sandy Bradshaw"</a> provides background information on the Flight 93 flight attendant, and her call from the plane.  All of this is to be found in other 9/11 call files, though, so interest value: 2/10
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box1_MonteBelger.pdf" title="Image:Team7 Box1 MonteBelger.pdf">"Monte Belger"</a> contains handwritten notes of an interview with Monte Belger, who was the FAAs Deputy Administrator on 9/11.  Interest value: 4/10
+</li></ul>
+<ul><li><a href="/index.php/Image:DanaHyde_Box2_CharlesChambersDOD-NMCC.pdf" title="Image:DanaHyde Box2 CharlesChambersDOD-NMCC.pdf">"Major Charles Chambers"</a> provides one of the few detailed looks at what went on at the NMCC on 9/11.  Important rather than interesting, but worth a look if you've any interest in the Pentagon's response on 9/11
+</li></ul>
+<ul><li><a href="/index.php/Image:DanaHyde_Box2_DaveCanoles_FAA-WOC.pdf" title="Image:DanaHyde Box2 DaveCanoles FAA-WOC.pdf">"Dave Canoles"</a> was a major figure in the FAA on 9/11, and these handwritten notes record a 9/11 Commission interview with him.  Interest value: 5/10 (if you can decipher the handwriting)
+</li></ul>
+<ul><li><a href="/index.php/Image:DanaHyde_Box2_JeffGriffith_FAA-HQ.pdf" title="Image:DanaHyde Box2 JeffGriffith FAA-HQ.pdf">"Jeff Griffith"</a> was an important player at FAA HQ on 9/11, and we've handwritten notes of his interview here.  Interest value: 5/10 (with the same handwriting issues)
+</li></ul>
+<ul><li><a href="/index.php/Image:DanaHyde_Box2_PeterChallen_FAA-WOC.pdf" title="Image:DanaHyde Box2 PeterChallen FAA-WOC.pdf">"Peter Challen"</a> (FAA) handwritten interview notes.  Interest value: 3/10
+</li></ul>
+<ul><li><a href="/index.php/Image:DanielMarcus_Box1_AirThreatCall.pdf" title="Image:DanielMarcus Box1 AirThreatCall.pdf">"Air Threat Call"</a> contains a letter explaining why the 9/11 Air Threat Conference Call is so sensitive (and so I'll probably never get a transcript, although I am trying).  Interesting if you know what the ATCC is, otherwise irrelevant.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team4_Box13_FBI_HazmiMidharSearch.pdf" title="Image:Team4 Box13 FBI HazmiMidharSearch.pdf">Hazmi Mihdhar Search</a> lists many intelligence documents relating to the search for Khalid al-Mihdhar and Nawaf al-Hazmi.  Invaluable for researchers, though dull for everyone else.
+</li></ul>
+<p>And that's it for today.  Real-life work beckons so the site will be quiet for a while, though I'll try to keep uploading documents when I can.
+</p><p><br>
+<b>26th March 2009</b>
+</p><p>Today's new 9/11 Commission documents:
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box13_UAL_ACARS.pdf" title="Image:Team7 Box13 UAL ACARS.pdf">United Airlines ACARS messages</a> to the hijacked flights.  If you know why this is interesting, grab a copy; if not, you're not missing anything.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box12_93Calls_ToddBeamer.pdf" title="Image:Team7 Box12 93Calls ToddBeamer.pdf">The folder on Todd Beamer</a> and his call from Flight 93.  Most of it you've probably seen already, but there's human interest here in the transcript of a touching call between Lisa Beamer and Lisa Jefferson (the woman who took Beamer's call).
+</li></ul>
+<ul><li><a href="/index.php/Image:Team5_Box46_Chronology_US_Identifications.pdf" title="Image:Team5 Box46 Chronology US Identifications.pdf">Chronology: US Identifications</a> contains short forensic reports on some of the hijacker IDs found in the Pentagon rubble, and concludes with a list of hijacker ID documents - passports, visas, drivers licences and so on.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box13_FlightCallNotes302s.pdf" title="Image:Team7 Box13 FlightCallNotes302s.pdf">Flight call notes and 302s</a> includes notes on 9/11 calls from Peter Hansen, Barbara Olson, Amy Sweeney, Renee May, Betty Ong, Todd Beamer, Mark Bingham and more. There's also a little background information on Daniel Lewin. Maybe 15% new material, so worth a look if you're interested in passenger or 9/11 call-related issues.
+</li></ul>
+<p>Reminder: if you're losing track of what I've uploaded then check the <a href="/index.php/9-11_Commission_Records" title="9-11 Commission Records">9-11 Commission Records</a> page for a cleaner list.
+</p><p>Tomorrow is the last day I can dedicate to this entirely, at least for a while.  I'll carry on uploading because I can't move on until it's done, but there's still plenty left.  [sigh]
+</p><p>In the meantime, if you're still thirsting for evidence then History Commons have also been uploading 9/11 Commission documents, and many more than I have, too.  It's good to see someone else making an effort.  <a href="http://www.scribd.com/HistoryCommons" class="external text" title="http://www.scribd.com/HistoryCommons" rel="nofollow">View the results here.</a>
+</p><p><br>
+<b>25th March 2009</b>
+</p><p>I've uploaded more of the FBI background documents for Flight 93 passengers and crew: <a href="/index.php/Image:Team7_Box12_93Calls_PatriciaCushing.pdf" title="Image:Team7 Box12 93Calls PatriciaCushing.pdf">Patricia Cushing</a>, <a href="/index.php/Image:Team7_Box12_93Calls_JasonDahl.pdf" title="Image:Team7 Box12 93Calls JasonDahl.pdf">pilot Jason Dahl</a>, <a href="/index.php/Image:Team7_Box12_93Calls_PatrickDriscoll.pdf" title="Image:Team7 Box12 93Calls PatrickDriscoll.pdf">Patrick Driscoll (and William Cashman)</a>, <a href="/index.php/Image:Team7_Box12_93Calls_JaneFolger.pdf" title="Image:Team7 Box12 93Calls JaneFolger.pdf">Jane Folger</a>, <a href="/index.php/Image:Team7_Box12_93Calls_AndrewGarcia.pdf" title="Image:Team7 Box12 93Calls AndrewGarcia.pdf">Andrew Garcia</a>, <a href="/index.php/Image:Team7_Box12_93Calls_KristinGould.pdf" title="Image:Team7 Box12 93Calls KristinGould.pdf">Kristin Gould</a> and <a href="/index.php/Image:Team7_Box12_93Calls_WandaGreen.pdf" title="Image:Team7 Box12 93Calls WandaGreen.pdf">flight attendant Wanda Green</a>.
+</p><p>Most of the above contain personal information only, but if there's one you should download then it's the file for <a href="/index.php/Image:Team7_Box12_93Calls_JasonDahl.pdf" title="Image:Team7 Box12 93Calls JasonDahl.pdf">pilot Jason Dahl</a>.  This also includes details of a briefing given to FBI agents where an unnamed person shows them around a cockpit and discusses several points and scenarios: how the flight path can be changed, cockpit key procedures, an ACARS explanation, flight 93 coming close to stalling at around 9:40, speculation that flight 93 may have been "coming apart" in its final minutes, comments on the ACARS logs, and more.
+</p>
+<hr>
+<p>I've uploaded a 9/11 Commission folder called "Flight 93 Calls - General".  
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box12_93Calls_General.1.pdf" title="Image:Team7 Box12 93Calls General.1.pdf">Part #1</a> is mostly the reprint of a web article.  Ignore.
+</li></ul>
+<ul><li><a href="/index.php/Image:Team7_Box12_93Calls_General.2.pdf" title="Image:Team7 Box12 93Calls General.2.pdf">Part #2</a> is more interesting, with call summaries, briefings, the Star Fix calls (from flight attendants to United Airlines reporting the hijacking), and most usefully, an explanation of the terms in those GTE Airfone records I uploaded a while back.  If the airfone records interest you then this will as well.
+</li></ul>
+<p><br>
+<b>24th March 2009</b>
+</p><p>The 9/11 Commission files at NARA contain 3 folders titled "9/11 Hijackers Information". I have folder #1, and will be uploading it today in several chunks (it's really too big to do anything else).
+</p>
+<ul><li>Part #1 contains very basic details on the hijackers (from FBI press releases) and the hijacked flights, along with a few plane layout diagrams. Probably nothing you haven't seen before, to be honest, and I'm uploading it for completeness only.  <a href="/index.php/Image:Team5_Box17_9-11_Hijacker_Information_1.1.pdf" title="Image:Team5 Box17 9-11 Hijacker Information 1.1.pdf">Download it here</a>.
+</li></ul>
+<ul><li>Part #2 contains the annotated copies of some hijacker visa applications that appeared in the National Review.  <a href="/index.php/Image:Team5_Box17_9-11_Hijacker_Information_1.2.pdf" title="Image:Team5 Box17 9-11 Hijacker Information 1.2.pdf">Click here for the download page</a>.
+</li></ul>
+<ul><li>Part #3 is a reprint of the September 27 2001 FBI press release on the hijackers.  I have to upload it as I want to present a true and full record of everything in the file, but there's nothing here you haven't seen already.  So <a href="/index.php/Image:Team5_Box17_9-11_Hijacker_Information_1.3.pdf" title="Image:Team5 Box17 9-11 Hijacker Information 1.3.pdf">don't bother downloading it here</a>.
+</li></ul>
+<ul><li>Part #4 is a reprint of a web timeline on the 9/11 hijackers.  An early version of the History Commons timeline, maybe?  It's interesting to browse through these 36 pages, but on the other hand the timeline is very old (2002) and so missing a fair amount of information.  You also have no links to source any of the stories.  Still, if you're interested then you'll <a href="/index.php/Image:Team5_Box17_9-11_Hijacker_Information_1.4.pdf" title="Image:Team5 Box17 9-11 Hijacker Information 1.4.pdf">find the document here</a> (26.5 MB PDF file).
+</li></ul>
+<ul><li>Finally, and most importantly, part #5 includes INS (immigration), TECS (Treasury), PNR (Passenger Name Records) and other information on each of the hijackers.  It basically tells you things like where each passenger sat on the plane, what their US entry records say about them (when they arrived, where etc), displays security messages about them in two or three pages, and more.  It's an early investigation so not quite 100% - the INS records for Ahmed Alghamdi list two people, for instance, as they weren't yet sure which was the hijacker - but if you like this kind of detail then it's an interesting and important document.  <a href="/index.php/Image:Team5_Box17_9_11_Hijacker_Information_1.5.pdf" title="Image:Team5 Box17 9 11 Hijacker Information 1.5.pdf">Download it here</a> (6.7 MB PDF file).
+</li></ul>
+<hr>
+<p>The next big 9/11 Commission file is one called "Flight 11 Calls".  This includes the Betty Ong call, as you'd expect, but the extra information here comes in the transcripts of conversations between other American Airlines employees as they discuss what to do.  
+</p>
+<ul><li>Part #1 focuses on the Ong call, and those immediately responding to it.  <a href="/index.php/Image:Team7_Box13_Flight11Calls.1.pdf" title="Image:Team7 Box13 Flight11Calls.1.pdf">Download the file here</a>.
+</li></ul>
+<ul><li>Part #2 covers <a href="/index.php/Flight_11" class="mw-redirect" title="Flight 11">Flight 11</a>-related calls to and from Ray Howland in American Airlines HQ.  If you've no interest in American Airlines knowledge of the attacks then this can safely be ignored.  Otherwise, <a href="/index.php/Image:Team7_Box13_Flight11Calls.2.pdf" title="Image:Team7 Box13 Flight11Calls.2.pdf">download a copy here</a>.
+</li></ul>
+<ul><li>And the final part #3 includes <a href="/index.php/Flight_11" class="mw-redirect" title="Flight 11">Flight 11</a>-related calls to and from Bill Halleck (American Airlines Systems Operation Command Centre, Dallas), followed by an FBI transcript of the Ong tape.  Again, it's really only interesting to those looking at American's awareness of the hijackings.  <a href="/index.php/Image:Team7_Box13_Flight11Calls.3.pdf" title="Image:Team7 Box13 Flight11Calls.3.pdf">Download it here</a>.
+</li></ul>
+<hr>
+<p>Let's finish the day with some smaller files.
+</p>
+<ul><li>These are handwritten notes from an interview with Norman Mineta where they try to clarify his public Commission testimony.  Mineta stands by his timeline.  There are some intriguing clues but I'm not sure what they mean yet.  Anyone still interested in the Mineta story can <a href="/index.php/Image:DanaHyde_Box3_MinetaInterview.pdf" title="Image:DanaHyde Box3 MinetaInterview.pdf">download the document here</a>.
+</li></ul>
+<ul><li>I've uploaded the 9/11 Commission folder on CeeCee Lyles and her call from Flight 93.  If you've downloaded the other general call documents I've uploaded then you've seen its contents already.  If not, <a href="/index.php/Image:Team7_Box12_93Calls_CeeCeeLyles.pdf" title="Image:Team7 Box12 93Calls CeeCeeLyles.pdf">get a copy here</a>.
+</li></ul>
+<ul><li>Next is the 9/11 Commission file on Louis Nacke and his attempted call from Flight 93.  Very brief, really not worth the download, but if you'd like to see a copy anyway <a href="/index.php/Image:Team7_Box12_93Calls_LouisNacke.pdf" title="Image:Team7 Box12 93Calls LouisNacke.pdf">then click here</a>.
+</li></ul>
+<ul><li>And finally there's a very small FBI file on Flight 93 passenger Alan Beaven.  Again, it's tiny, but if you want it anyway <a href="/index.php/Image:Team7_Box12_93Calls_AlanBeaven.pdf" title="Image:Team7 Box12 93Calls AlanBeaven.pdf">then click here</a>.
+</li></ul>
+<p>That's it for new files, I'll now spend the rest of the evening linking to these from other pages.  More tomorrow.
+</p><p><br>
+<b>23rd March 2009</b>
+</p><p>This is all taking too long.  From tomorrow and for the rest of this week I'm really going to try and blitz through as many of the documents I have left, as I can.
+</p><p>In the meantime, I've uploaded the 9/11 Commission folder on Ed Felt's Flight 93 phone call, the one that supposedly talked of an explosion and white smoke.  <a href="/index.php/Image:Team7_Box12_93Calls_EdFelt.pdf" title="Image:Team7 Box12 93Calls EdFelt.pdf">Download it here</a>.
+</p><p><br>
+<b>19th March 2009</b>
+</p><p>Today's 9/11 Commission document is "Other flights 9/11".  It includes lots of reprints of articles you've probably already seen, unfortunately.  But amidst the ordinary and familiar are specks of historical gold.  There's a table on a single page that details all the suspect flights of 9/11, for instance, and more in-depth reports of suspect behaviour on other flights.  Were there more hijackings planned for the day?  There's not enough here to answer that, but if it's a question that interests you then you'll want this document. <a href="/index.php/Image:Team7_Box7_OtherFlights_9-11.pdf" title="Image:Team7 Box7 OtherFlights 9-11.pdf">Download it here</a>.
+</p><p><br>
+<b>16th March 2009</b>
+</p>
+<ul><li>The latest 9/11 Commission document upload is taken from their "Flight 93 Calls" folder, and contains information on Linda Gronlund, Joseph DeLuca, and (for no obvious reason that I can see) Mark Bingham.  You've probably seen almost all of it before, so this isn't an essential download, but if you like to see everything then <a href="/index.php/Image:Team7_Box12_93Calls_LindaGronlund.pdf" title="Image:Team7 Box12 93Calls LindaGronlund.pdf">grab a copy here</a>.
+</li></ul>
+<ul><li>I've also uploaded an even less interesting document, the 9/11 Commission interview notes with Andy Studdert, CEO of United Airlines (on 9/11, anyway).  I don't think it contains anything of great significance, but if you want to check for yourself then <a href="/index.php/Image:Team7_Box3_AndrewStuddert.pdf" title="Image:Team7 Box3 AndrewStuddert.pdf">download it here</a>.
+</li></ul>
+<ul><li>Here's another uninteresting 9/11 Commission file, this time the notes from their interview with Gerard Arpey, who on 9/11 was the American Airlines Executive Vice President of Operations. <a href="/index.php/Image:Team7_Box1_GerardArpey.pdf" title="Image:Team7 Box1 GerardArpey.pdf">View it here</a>.
+</li></ul>
+<ul><li>Something a little better this time: a file on Flight 93 passenger Thomas Burnett.  You've probably read most of the content before already, but there's something odd in a redacted subpoena, and a brief interview with a man who says he doesn't know Burnett.  How and why did the FBI trace this person?  <a href="/index.php/Image:Team7_Box12_93Calls_ThomasBurnett.pdf" title="Image:Team7 Box12 93Calls ThomasBurnett.pdf">Read more here</a>.
+</li></ul>
+<p><br>
+<b>13th March 2009</b>
+</p><p>NASA engineer Ryan Mackey has taken part in a Hardfire programme on The Physics of 9/11.  This avoids coverage of the usual theories to concentrate on physics-related issues, such as how fast a plane wing would have to travel to cut through the steel columns of the WTC, or how to go about modelling the collapse of the towers.  
+</p><p>You can view the first of three programmes <a href="http://video.google.com/videoplay?docid=2636718609916624673" class="external text" title="http://video.google.com/videoplay?docid=2636718609916624673" rel="nofollow">at this page</a>.
+</p><p>And an extended version of the presentation used in the programme is now available <a href="/index.php/Ryanmackey" class="mw-redirect" title="Ryanmackey">at this site</a>.
+</p><p><br>
+<b>12th March 2009</b>
+</p><p>An interesting document today, still on the 9/11 phone calls but including claims and details I hadn't come across before.
+</p><p>So, for example, there are second-hand details of a call from an unnamed flight attendant that says the Captain was at the back of the plane, being held with a blade to his neck, and threatened to have his throat cut if anyone tried to intervene, to which the Captain responds "I'd rather have my throat cut" "or something to that effect". Sounds implausible, as does the implication that the caller knew the plane was "going to Camp David" - perhaps this has been augmented by something the teller's heard on TV? Anyway, it's here.
+</p><p>And have you ever wondered why, if Barbara Olson's Flight 77 call went through an operator, we've never seen that person mentioned? Well, they are here. Almost. The name is redacted but we do get a second-hand account (from a coworker) that "hijackers were ordering passengers to move to the back of the plane and were armed with guns and knives". They also comment that there's no indication that the operator was interviewed by the FBI, so expect truthers to claim that proves, uh, something.
+</p><p>There's also a summary table of calls with questions that the Commission wanted answered, helpful in terms of understanding how far their investigation went.
+</p><p>Overall I think the document is a worthwhile download for anyone who's ever followed theories regarding the 9/11 calls, and <a href="/index.php/Image:Team7_Box13_Flights-PhoneCalls.pdf" title="Image:Team7 Box13 Flights-PhoneCalls.pdf">you can find a copy here</a> (8.63 MB PDF file). 
+</p><p><br>
+<b>11th March 2009</b>
+</p><p>Just three short documents today, FBI interviews providing a little background on Flight 93 passengers <a href="/index.php/Image:Team7_Box12_93Calls_RichardGuadagno.pdf" title="Image:Team7 Box12 93Calls RichardGuadagno.pdf">Richard Guadagno</a>, <a href="/index.php/Image:Team7_Box12_93Calls_HildaMarcin.pdf" title="Image:Team7 Box12 93Calls HildaMarcin.pdf">Hilda Marcin</a> and <a href="/index.php/Image:Team7_Box12_93Calls_JohnTalignani.pdf" title="Image:Team7 Box12 93Calls JohnTalignani.pdf">John Talignani</a>.  They're not of direct relevance to any particular 9/11 theories, as far as I know, but I'm uploading them for completeness.  
+</p>
+<hr>
+<p>And something I forgot to say yesterday...
+</p><p>Look through the Finding Aid for 9/11 Commission records and you'll find many interesting "special media" items, like raw footage from the New York police helicopters around the WTC.  Unfortunately none of these are yet available, as NARA haven't begun to work through them.  I was told it would be at least a year before they became available, and my guess is it'll probably be longer still.  So if you're looking to order something, I'd stick with the paper records for now.
+</p><p><br>
+<b>10th March 2009</b>
+</p><p>I don't think I ever explained how I came across these 9/11 Commission documents, at least not here.  It's easy, you can do it too - here's how.
+</p><p>First, download the <a href="http://www.archives.gov/legislative/research/9-11/finding-aid.pdf" class="external text" title="http://www.archives.gov/legislative/research/9-11/finding-aid.pdf" rel="nofollow">Finding Aid</a>.  It's a list of documents that aren't online yet, separated into groups according to the 9/11 Commission structure.
+</p><p>Locate the documents you'd like, making sure they're not online already, then I'd recommend you email me to ask if I have them (no point you paying for something I might put online in a week or so).
+</p><p>I haven't got them either?  Then email your list of files and folders to Legislative.Archives@nara.gov.  They will give you a price quote based on the number of pages in each file.  Beware, this is 75c per page so quickly mounts up, and as the copying fee for visitors is only 25c per page it might be cheaper for you to visit if you're nearby.  If you're outside the US like me, though, the fee does cover postage so there's nothing else to pay.
+</p><p>You'll now decide what you want, tell them, and they'll give you a final price.  This cannot be taken electronically online, and I recommend you don't give a credit card number by email.  Ask them for a phone number instead, call up and provide your credit card details.
+</p><p>Delivery can potentially take a while, and apparently the standard quote is 4-6 weeks for overseas researchers.  Why?  Remember, you're asking for documents that are actually available to researchers for most of the day.  If someone is pouring over the files you've requested in the research room then the archivists can't be copying them.
+</p><p>However, in my experience so far I think this is very much a worst case.  I'd predict that even medium-sized orders will be complete within a week.  You then only have to wait for the post, which in my case (to the UK) took 9 days.  Then you'll be able to examine the documents for yourself and see if you've uncovered any smoking guns.
+</p><p>To help with this in future I've created a new page as a master index of my <a href="/index.php/9-11_Commission_Records" title="9-11 Commission Records">9-11 Commission Records</a>.  It looks a little bare because, well, it is: the idea is that it follows the structure of the Finding Aid so you can scan down the list and see what I've put online from a particular box.
+</p>
+<hr>
+<p>I've uploaded a new 9/11 Commission file called "Four Flights - Phone Calls and Other Data".  
+</p><p>This includes FBI interviews regarding the phone calls from Barbara Olson, Peter Hanson, an unnamed flight attendant, Renee May, Betty Ong, Amy Sweeny, CeeCee Lyles, Ed Felt, Mark Bingham, Marion Britton, Garnet Bailey, Linda Gronlund, and Thomas Burnett. 
+</p><p>The folder also includes quotes from the FAA's Dave Canoles that characterises the last manoeuvres of Flight 175 and 77 as "indicative of piloting skills and extraordinary navigation skills". Just thought I'd mention that for the truthers who I know visit. Hey guys, why aren't you uncovering quotes like this?  
+</p><p><a href="/index.php/Image:Team1A_Box33_4FlightsPhoneCallsAndOtherData.pdf" title="Image:Team1A Box33 4FlightsPhoneCallsAndOtherData.pdf">Download a copy here</a>.
+</p><p><br>
+<b>8th March 2009</b>
+</p><p>Updated the <a href="/index.php/Honor_Elizabeth_Wainio" title="Honor Elizabeth Wainio">Honor Elizabeth Wainio</a> page with references to some of the new documents.
+</p><p>I'll need to take a breather from uploading new documents while I update the site to take account of what I've found so far.  (There's no point just having download links for these files: I need to make proper use of them throughout the site, too.)
+</p><p><br>
+<b>6th March 2009</b>
+</p><p>Another new 9/11 Commission document hits the site, this one containing the airfone records for all four flights.  Annoyingly I think it might be missing some pages at the end, perhaps the Flight 77 summary...?  But the raw call data appears earlier, so there's still something to check.  I believe this is derived from a spreadsheet that GTE sent to the FBI, so I think I'll send in an FOIA application for that, get the original data.
+</p><p><a href="/index.php/Image:Team7_AirfoneRecords.pdf" title="Image:Team7 AirfoneRecords.pdf">Download the records here.</a>
+</p><p><br>
+<b>5th March 2009</b>
+</p><p>A minor new 9/11 Commission record includes interviews regarding Honor Wainio's call from Flight 93.  The primary relevance to the theories we discuss here is that it says the call was made by airfone, not cellphone.  <a href="/index.php/Image:Team7_Box12_93Calls_HonorWainio.pdf" title="Image:Team7 Box12 93Calls HonorWainio.pdf">Download the document here</a>.
+</p><p><br>
+<b>4th March 2009</b>
+</p><p>More new 9/11 Commission records:
+</p>
+<ul><li><a href="/index.php/Image:Team7_Box13_WoodwardNotes.pdf" title="Image:Team7 Box13 WoodwardNotes.pdf">This 9/11 Commission file</a> includes Michael Woodward's notes from his conversation with Amy Sweeney on Flight 11, and the transcript of a Primetime Thursday TV programme telling the story of that call.
+</li><li><a href="/index.php/Image:Team8_Box17_MilesKaraWorkFiles_Folder1.pdf" title="Image:Team8 Box17 MilesKaraWorkFiles Folder1.pdf">This 9/11 Commission folder</a> includes useful FAA timelines constructed by Mike McCormick, as well as the FAA's Eastern Region Operations Centre Log for 9/11 (what they knew about hijacked planes and other threats, and when they knew it).
+</li><li><a href="/index.php/Image:Team8_Box17_MilesKaraWorkFiles_Folder2.pdf" title="Image:Team8 Box17 MilesKaraWorkFiles Folder2.pdf">This 9/11 Commission folder</a> includes a Dulles Tower timeline describing the approach of Flight 77; a statement from Victor Padgett of FAA Potomac TRACON describing what he saw and did just before the Pentagon attack; an FAA press release of August 2002 containing a timeline of events (some times are incorrect); the ATC flight strips for Flight 11.
+</li><li><a href="/index.php/Image:Team7_Box10_MFR_JaneGarvey.pdf" title="Image:Team7 Box10 MFR JaneGarvey.pdf">This 9/11 Commission record</a> covers their Team 7's interview with FAA Administrator Jane Garvey. Some interesting details re: Mineta in particular.
+</li></ul>
+<p>Now I really must get back to my real life work, though.  No further big updates here until next week.
+</p><p><br>
+<b>3rd March 2009</b>
+</p><p>I found time to squeeze in another document, after all.  The one I chose was a second interview with FAA deputy administrator Monte Belger (not the one available online at NARA). You should download this if a) you'd like to understand more about the FAA timeline for 9/11, or b) you're interested in the Mineta story, as Belger is the guy who is supposed to have described the approaching Flight 77 to him.
+</p><p>So what does he say? Truthers can take some hope from Belger saying he was speaking to Mineta minutes before the 9:45 ground stop, and that Mineta gave that order, as (if accurate) that could support Mineta's timeline. Unfortunately for them, Belger specifically says he doesn't recall speaking to Mineta about the approaching fast target that went on to hit the Pentagon, and there's other problems with the Mineta story to come.
+</p><p><a href="/index.php/Image:Team8_Box6_FAA_HQ_MonteBelger.pdf" title="Image:Team8 Box6 FAA HQ MonteBelger.pdf">Download the document here</a> (10 MB PDF file). 
+</p><p><br>
+<b>2nd March 2009</b>
+</p><p>The 9/11 Commission records continue with a folder on Mark Bingham.  
+</p><p>It includes a couple of brief FBI interviews with family members. Mostly the information we already know about his phone call.
+</p><p>There's a further explanation of why Bingham may not have appeared on that other passenger list I was given (he was traveling on an employee pass and hadn't paid for the ticket).
+</p><p>There's an FBI document saying that United Airlines passed a list of people whose names appeared on the flight 93 boarding passes. The hijackers, of course, are included. We often hear "there's no evidence they were even on the planes" - do boarding passes count?
+</p><p>An FBI list of personal effects released to family members of the flight 93 passengers. Obviously it's totally impossible that anything could have survived, right? Well, no - the list says properties were released for 26 passengers (and this is only one list, there may have been more).
+</p><p><a href="/index.php/Image:Team7_Box12_93Calls_MarkBingham.pdf" title="Image:Team7 Box12 93Calls MarkBingham.pdf">Download the pages here.</a>
+</p><p>I've been neglecting real-life work and deadlines are looming, so must abandon these updates for a while.  I might squeeze in a few more pages later this week, but overall updates will be patchy for the next week or so.  This doesn't mean I'm running out of documents, though - there's plenty of important files left, and I'll put them up just as soon as I can.
+</p><p><br>
+<b>1st March 2009</b>
+</p><p>I've uploaded a 9/11 Commission document that includes, amongst other things, a flight history for every <a href="/index.php/Flight_93" class="mw-redirect" title="Flight 93">Flight 93</a> passenger: when they paid for their tickets, where, family connections, and more.  Very useful - <a href="/index.php/Image:Team7_Box12_93Calls_JosephDeLuca.pdf" title="Image:Team7 Box12 93Calls JosephDeLuca.pdf">take a look at it here.</a>
+</p><p><br>
+<b>28th February 2009</b>
+</p><p>When did the FAA know about each 9/11 hijacked flight?  We can find very good clues to that in a 9/11 Commission transcript of an open line between Herndon and the FAA's Washington Operations Centre (WOC).  <a href="/index.php/Image:Team7_Box7_WOC-NET_Transcript.pdf" title="Image:Team7 Box7 WOC-NET Transcript.pdf">Read it here.</a>
+</p><p>I've also uploaded a 9/11 Commission file referencing Flight 93 passenger Toshiya Kuge.  This is mostly interesting for its details on the process United Airlines followed in making contact with each passenger's next of kin, though.  The airline had received 46,000 calls by the evening of 9/11, for instance, and had made contact with relatives of every passenger apart from Kuge (whose family had been contacted separately in Japan so wouldn't be included) and, of course, the hijackers.  Useful early support in their identification, then.  <a href="/index.php/Image:Team7_Box12_93Calls_ToshiyaKuge.pdf" title="Image:Team7 Box12 93Calls ToshiyaKuge.pdf">Read the document here.</a>
+</p><p><br>
+<b>26th February 2009</b>
+</p><p>I'm working on analysing FAA Herndon audio from 9/11 at the moment.  It's historical gold, and key to telling us who knew what, and when, but is also a massive task (there are hours and hours of tapes).  That, in combination with a couple of work tasks is going to limit what I can do here for maybe a week, but it's going to be worth it.  I don't want to drop the 9/11 Commission work entirely, though, so will continue to post basic items as often as I can.
+</p><p><br>
+<b>24th February 2009</b>
+</p><p>Let's see if we can make 911blogger again with today's 9/11 Commission document, someone who says the man they saw in the Flight 93 copilot's seat was not LeRoy Homer.  <a href="/index.php/Image:Team7_Box12_LeroyHomer.pdf" title="Image:Team7 Box12 LeroyHomer.pdf">(Read it here.)</a>  Evidence that Flight 93 wasn't what we thought?  Or just an innocent mixup?  Remember where you read it first! 
+</p>
+<hr>
+<p><a href="/index.php/Image:Team7_Box13_FlightGTERecords.pdf" title="Image:Team7 Box13 FlightGTERecords.pdf">Here are the GTE Airfone records for Flight 175 and Flight 93</a>.  They're very difficult to understand, so not recommended unless you're particularly interested in the topic, but should give me enough information to get the original spreadsheets via FOIA.
+</p><p><br>
+<b>23rd February 2009</b>
+</p><p>We've often heard it claimed that there's something suspicious in the fact that Atta's luggage didn't make Flight 11, so leaving evidence for the FBI.  But what does an FBI interview with someone responsible for dealing with such problems tell us?
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>Two bags from an incoming U.S. AIR flight from Portland, Maine came over too late to make AA Flight 11. The bags from U.S. Air are always late, and this is a common occurrence.</div>
+<p><br>
+</p><p>The same document also includes details on Atta and al-Omari's final trips - where they bought their tickets, using which credit card, etc etc. <a href="/index.php/Image:Team7_Box18_Attas_Luggage.pdf" title="Image:Team7 Box18 Attas Luggage.pdf">View it here</a>.
+</p>
+<hr>
+<p>Want to see Lynne Cheney's notes from the PEOC on 9/11?  So do I, but until they emerge we can at least look at what I believe is a handwritten copy made by Dana Hyde for the 9/11 Commission.  It records details like what I believe is the apparently approaching plane recorded by Mineta, only some 45 minutes than he claimed, and <a href="/index.php/Image:DanaHyde_Box1_OVP_Notes.pdf" title="Image:DanaHyde Box1 OVP Notes.pdf">you can read the document here.</a>
+</p>
+<hr>
+<p>Added the new 9/11 Commission manifest records to the flight records, and the <a href="/index.php/No_hijackers_on_the_passenger_manifests" title="No hijackers on the passenger manifests">"no hijackers on the passenger manifests"</a> page.
+</p><p><br>
+<b>22nd February 2009</b>
+</p><p>I see <a href="http://911blogger.com/node/19439" class="external text" title="http://911blogger.com/node/19439" rel="nofollow">911blogger have caught up with the fact</a> that the Rodriguez testimony is out.  They're even hosting a file that's a copy of the one I put up last Thursday (check the properties), only with the heading stripped out so as to avoid giving me credit.  That's no big deal - it's a public document now - but really, what does this show about their attitude to research?  They could have had this a month ago, if someone had made the effort to go to Washington and get it.  Instead I have to pay for the pages to be copied, so they can use them without acknowledgement.
+</p><p>Still, it's good to see my efforts making the front page at 911blogger, isn't it?  Now, why don't you publish <a href="/index.php/Image:Dana_Hyde_Email-Mar02_2004.pdf" title="Image:Dana Hyde Email-Mar02 2004.pdf">the Dana Hyde email</a> where she says the PEOC logs show Mineta didn't arrive until 10:07?  Thanks! 
+</p><p><br>
+<b>21st February 2009</b>
+</p><p>When Jeremy Glick called home on 9/11, he found wife Lyz with her parents. So while he spoke to her, his mother-in-law used her own cellphone to call 911 and report what was happening. This call was recorded, and one of the 9/11 Commission files I have contains the transcript.
+</p><p>The document is really a reminder as to what this is all about, then. There are small points relating to various 9/11 theories, like the near immediate explanation that this is an airphone call, not cellphone. But mostly it's a human story that traces the move from small hope - "they going to try and attack the people" - to horror - "...Lizzie who's vomiting. I mean she's in really bad shape" - and slow despair, as they keep asking if anyone can hear anything on the phone, any sign that Glick's come back victorious, but there's nothing at all.
+</p><p>This is the worst formatted transcript in the history of the world, and none of that's down to me - this is a straight copy of what I'm seeing here. Still, if you've not heard the story from this sad angle then I think it's worth a read. It's a 60-odd page PDF file and you can <a href="/index.php/Image:Team7_Box12_93Calls_JeremyGlick.pdf" title="Image:Team7 Box12 93Calls JeremyGlick.pdf">download it here.</a>
+</p><p><br>
+<b>20th February 2009</b>
+</p><p>The reported Mineta PEOC arrival time of 10:07 is taken from an email by the 9/11 Commission's Dana Hyde.  This contains something for truthers, in that she's complaining about the difficulty of extracting any information from the White House, given the conditions imposed on them.  Hyde also reports on the mysterious lack of recall by just about everyone involved, and wonders about the reliability of some logs.  Which is where the Mineta comment comes in.
+</p><p>The argument against this document will be that even Hyde is wondering whether the logs can be trusted, then.  Presumably we'll also hear speculation that the time has been invented to discredit Mineta, even though 10:07 as an arrival time is actually more consistent with his entire testimony than 9:20.
+</p><p>The argument in favour is that this is just a moment in time.  Ultimately the Commission would conclude that Cheney reached the PEOC at 9:58, just as the log said, and so it's reasonable to assume they eventually accepted the Mineta time, too.
+</p><p>The main problem here is that this is second hand information, a report of what the log said, rather than the log itself.  Still, this is the very first indication of Mineta's arrival time from an official document, and that's still a big step forward.
+</p><p>Read <a href="/index.php/Image:Dana_Hyde_Email-Mar02_2004.pdf" title="Image:Dana Hyde Email-Mar02 2004.pdf">the full Dana Hyde email here</a>.<br>
+Read the full Team 8 folder (contains the email and a couple of other emails/ memos) <a href="/index.php/Image:Daniel_Marcus_Box8_Team8.pdf" title="Image:Daniel Marcus Box8 Team8.pdf">in this file</a>.
+</p>
+<hr>
+<p>I've discovered most of these documents by browsing through NARA's Finders Aid for the 9/11 Commission files, a list of everything they've categorised so far (not just the online interview summaries).  <a href="http://www.archives.gov/legislative/research/9-11/finding-aid.pdf" class="external text" title="http://www.archives.gov/legislative/research/9-11/finding-aid.pdf" rel="nofollow">Click here to view it for yourself.</a>
+</p><p><br>
+<b>19th February 2009</b>
+</p><p>My package of 9/11 Commission documents has arrived early! So expect regular updates on that as I work my way through it, starting right now.
+</p>
+<ul><li><a href="/index.php/Image:Ual93manifest.png" title="Image:Ual93manifest.png">The Flight 93 manifest, taken from the Commissions' files.  Guess what?  It includes the hijackers!</a>
+</li><li><a href="/index.php/Image:Checkandboard.png" title="Image:Checkandboard.png">United Airlines check-in and board times for Marwan al-Shehhi and Mohald al-Shehri</a>
+</li><li><a href="/index.php/Image:Ual175manifest1.png" title="Image:Ual175manifest1.png">Flight 175 manifest, page #1</a>
+</li><li><a href="/index.php/Image:Ual175manifest2.png" title="Image:Ual175manifest2.png">Flight 175 manifest, page #2</a>
+</li><li><a href="/index.php/Image:Team7_Box17_Manifests.pdf" title="Image:Team7 Box17 Manifests.pdf">Reduced quality (but smaller) versions of the above files in a single PDF file</a>
+</li><li><a href="/index.php/Image:NYC_Box4_William_Rodriguez.pdf" title="Image:NYC Box4 William Rodriguez.pdf">A summary of William Rodriguez' interview with the 9/11 Commission</a>
+</li><li><a href="/index.php/Image:NYC_Box10_William_Rodriguez.pdf" title="Image:NYC Box10 William Rodriguez.pdf">Further notes regarding the Rodriguez interview</a>
+</li></ul>
+<p>And maybe the find of the day...
+</p><p><a href="/index.php/Image:Mineta_peoc.png" class="image" title="Mineta peoc.png"><img alt="" src="/images/thumb/c/cd/Mineta_peoc.png/600px-Mineta_peoc.png" width="600" height="50" border="0"></a>
+</p><p>More on that tomorrow.
+</p><p><b>17th February 2009</b>
+</p><p>Mohamed Atta's father claimed in one interview that he didn't even know Atta was in the US.  However, a 9/11 Commission document on an interview with an unnamed "associate" of Atta says otherwise, with the subject claiming he was told by Atta's father in 2000 that his son was in Florida:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center><b> </b></center>[redacted] initially discounted the post-9/11 of Atta's involvement because he had known Atta by the name of Elamir and because the reports claimed Atta to have spent time in Florida; [redacted] believed that, had Atta actually been in Florida, he would have contacted him.  When [redacted] had tried to reach Atta in July-December 2000 (to invite Atta to [redacted wedding), Atta's father likewise had reported that Atta was in Florida, and [redacted] had sought to find him by printing out a list of the approximately 100 "Elamir" phone numbers he could identify in Florida.  Fathallah had persuaded [redacted] to abandon this project, reasoning that Atta knew very well how to reach [redacted] and would do so if he wanted to.  [redacted] also recalled hearing from Atta's sister that Atta was in Syria.<br><a href="http://media.nara.gov/9-11/MFR/t-0148-911MFR-00406.pdf" class="external text" title="http://media.nara.gov/9-11/MFR/t-0148-911MFR-00406.pdf" rel="nofollow">NARA source</a></div>
+<p><br>
+</p><p>Added to <a href="http://911myths.com/index.php/Mohamed_Atta_still_alive%3F" class="external text" title="http://911myths.com/index.php/Mohamed_Atta_still_alive%3F" rel="nofollow">Atta's "Still alive?" page</a>.
+</p><p><b>16th February 2009</b>
+</p><p>It's time to start adding some of the newly-released 9/11 Commission documents here.
+</p>
+<ul><li><a href="/index.php/Image:T-0148-911MFR-01087.pdf" title="Image:T-0148-911MFR-01087.pdf">Michael Tuohey talks about checking in Atta and al-Omari on 9/11</a>
+</li><li><a href="/index.php/Eddie_Shalev" title="Eddie Shalev">Flight instructor Eddie Shalev says that, based on his observations, Hanjour was a "good" pilot</a>
+</li><li><a href="http://www.911myths.com/index.php/Tom_Burnett#9-11_Commission_MFR" class="external text" title="http://www.911myths.com/index.php/Tom_Burnett#9-11_Commission_MFR" rel="nofollow">Deena Burnett says Tom's cell phone call from Flight 93 didn't show up on the bill</a>
+</li><li><a href="/index.php/Jeremy_Glick" title="Jeremy Glick">Expanded the Jeremy Glick page with a press report of his Flight 93 phone call, and Lyzbeth Glick's MFR with the 9/11 Commission</a>
+</li></ul>
+<p><br>
+<b>10th February 2009</b>
+</p><p>I've added an AP article from 2003, <a href="/index.php/Erroneous_reports" title="Erroneous reports">"Innuendo, erroneous reports abound in WTC transcripts"</a>, describing confused reports on 9/11 including the one that a missile had been fired at the WTC from the Woolworth building.
+</p><p><br>
+<b>6th February 2009</b>
+</p><p>Work grinds on, and I now have enough to fill the next week, too (sigh).  But there is at least hope for an interesting March.  I've been carefully selecting 9/11 Commission documents that haven't been released online yet, in order that they can be copied and sent to me.  The end result was a batch of 44 documents or folders containing well over a thousand pages, which should be with me any time from the end of this month to the beginning of March.
+</p><p>Will there be a "smoking gun"?  I very much doubt it.  Some of these documents are just so far unreleased interviews of FAA people that may not turn up anything new at all.  Others are more interesting, though, and I'm hopeful that the batch will produce 4 or 5 very important items that will help extend my arguments here.  But however it works out, I'll convert them all to PDF and put them online, so at a minimum we'll have more than 44 new documents available here that you won't find online anywhere else.
+</p><p>There may not be much going on here right now, then, but Spring is coming and you'll soon be seeing new life shooting up all over this place.  Come back in March to find out what I've uncovered.
+</p><p><br>
+<b>29th January 2009</b>
+</p><p>Work overload has meant I've not had time to do anything here, and this is probably going to continue for another week, at least.  Sorry!
+</p><p>I've taking a brief timeout to upload a few new documents, though.  As some people still try to cling to the idea that the Payne Stewart intercept happened in "10 or 20 minutes", I thought it might be useful to obtain more details on what happened from the NTSB.  
+</p><p><a href="/index.php/Image:Payne_Stewart_Accident_Report.pdf" title="Image:Payne Stewart Accident Report.pdf">The factual report</a> provides a helpful timeline on what happened, and when.
+</p><p><a href="/index.php/Image:Captain_Chris_Hamilton_memo.pdf" title="Image:Captain Chris Hamilton memo.pdf">And intercept pilot Captain Chris Hamilton</a> gives us details on how the intercept happened.
+</p><p>Of course those who always say "but it might be faked" will continue to do so, but at least we don't have to rely on press reports and the NTSB web summary any more.  These documents tell us exactly what how long the intercept took, and it wasn't "10 or 20 minutes".
+</p><p><br>
+<b>23rd January 2009</b>
+</p><p>A <a href="http://forums.randi.org/showthread.php?t=133685" class="external text" title="http://forums.randi.org/showthread.php?t=133685" rel="nofollow">thread created by JREF poster leftysergeant</a> inspired a new page addressing the issue of video footage.  It seems there are often expectations that security videos should show clear images of what hit the Pentagon, but is that realistic?  See a couple of examples that say otherwise <a href="/index.php/One_quality_video" title="One quality video">on this page</a>.
+</p><p>There's a video showing firefighters reacting to an explosion, that we're often told occurred in or at WTC7:
+</p><p><a href="/index.php/Image:Supposed_WTC7_Explosion.jpg" class="image" title="Image:Supposed WTC7 Explosion.jpg"><img alt="Image:Supposed WTC7 Explosion.jpg" src="/images/b/b1/Supposed_WTC7_Explosion.jpg" width="305" height="240" border="0"></a>
+</p><p>But those pushing controlled demolition theories rarely bother with little details like when or where the clip was filmed.  Fortunately JREF forum member WilliamSeger decided to do a little research on the topic, and you can read what he discovered <a href="/index.php/A_WTC7_explosion_video" title="A WTC7 explosion video">on this new page</a>.
+</p>
+<hr>
+<p><b>22nd January 2009</b>
+</p><p>I've discovered a couple of interesting theses from the Naval Postgraduate School in Monterey, California, discussing team collaboration at NORAD during 9/11.  I'm not sure that the body of either tells us very much with regard to the events of the day, but they do both include something very valuable: professional transcripts of individual channels of the NORAD tapes.  
+</p><p>Read the channel 2 transcript <a href="/index.php/Image:08Jun_Donaldson.pdf" title="Image:08Jun Donaldson.pdf">in this file</a>, and <a href="/index.php/Image:08Sep_Socias.pdf" title="Image:08Sep Socias.pdf">the channel 4 transcript here</a>. (Both transcripts are in the appendices, flick to the back of the PDF files to read them.)
+</p>
+<hr>
+<p><b>16th January 2009</b>
+</p><p>Here's the relevant part of the Options Hotline bulletin that inspired people to buy AMR puts on September 10:
+</p>
+<div class="boilerplate metadata" id="" style="background-color: #FFFFCC; border: 1px solid #663300; margin: 0.5em; padding: 0.5em;"><center></center>September 9, 2001
+<p>Vol. 12, No. 28
+</p><p>Stocks Skid On A Jump In The Jobless Rate. This Week, We Take To The Air
+</p><p>This past week, stocks were pressed to the downside -- with the highlight being Friday's blue chip decline. Wall Street was surprised by a spike, to a four-year high, in the jobless rate. And the market took its lumps. This week, I see opportunity for you to have fun and profit with  an airline play.  So, without further ado, here's…
+</p><p>This Week's Option Recommendation
+</p><p>Buy the AMR October $30 put for $170, or less, good this week.
+</p><p>Shares of AMR Corp. trade on the New York Stock Exchange under the symbol "AMR". The symbol for this option reco is "AMRVF". American Airlines closed the week at $30.15. The 52-week range for AMR is $27.62-$43.93. My downside price target is $22-$26.
+</p><p>The major airline is under pressure. At $25, each $30 put would have $500 of intrinsic value. If AMR is at or above $30 on the third Friday in October, your option will expire worthless. That is your risk. Set your stop-loss at $100, to preserve capital, in case my expectations go awry.
+</p>
+That's buy the AMR October $30 put for $170, or less, good this week.</div>
+<p><br>
+</p><p>Well, truthers, you finally know who's responsible for the AMR tip.  So, what are you going to do about it?
+</p>
+<hr>
+<p><b>14th January 2009</b>
+</p><p>NARA has released some 9/11 Commission records today.  The intro page <a href="http://www.archives.gov/research/9-11-commission/" class="external text" title="http://www.archives.gov/research/9-11-commission/" rel="nofollow">is here</a>; the initially released documents <a href="http://www.archives.gov/legislative/research/9-11/commission-memoranda.html" class="external text" title="http://www.archives.gov/legislative/research/9-11/commission-memoranda.html" rel="nofollow">are here</a>; and you can see what else will be released in the future <a href="http://www.archives.gov/legislative/research/9-11/commission-series.html" class="external text" title="http://www.archives.gov/legislative/research/9-11/commission-series.html" rel="nofollow">on this page</a>.
+</p><p>The first really interesting news is the summary of an interview with SEC personnel where we find out for the first time who made the recommendation to buy American Airlines put options on the Sunday before 9/11.  The document includes interesting comments on other parts of the "insider trading" story, too, like some put option gains "remaining unclaimed".  <a href="http://911myths.com/index.php/Image:T-0148-911MFR-00139.pdf" class="external text" title="http://911myths.com/index.php/Image:T-0148-911MFR-00139.pdf" rel="nofollow">Read more here.</a>
+</p>
+<hr>
+<p><b>13th January 2009</b>
+</p><p>Added the Bob and Bri "What we saw" video to the <a href="/index.php/WTC_Videos" title="WTC Videos">WTC Videos</a> page.  Despite being 26 minutes long it still misses both impacts and the beginning of each collapse, so there's no smoking gun here.  Still, it's occasionally referenced by other people, so worth including for completeness.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 153/1000000
+Post-expand include size: 10823/2097152 bytes
+Template argument size: 8139/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<div class="printfooter">
+Retrieved from "<a href="http://911myths.com/index.php/What%27s_New">http://911myths.com/index.php/What%27s_New</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/index.php/What%27s_New" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/index.php?title=Talk:What%27s_New&amp;action=edit" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/index.php?title=What%27s_New&amp;action=edit" title="This page is protected.
+You can view its source. [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="/index.php?title=What%27s_New&amp;action=history" title="Past versions of this page. [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=What%27s_New" title="You are encouraged to log in, it is not mandatory however. [o]" accesskey="o">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://www.911myths.com/skins/common/images/911myths.gif);" href="/index.php/Main_Page" title="Visit the Main Page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class="pBody">
+			<ul>
+				<li id="n-mainpage"><a href="/index.php/Main_Page" title="Visit the Main Page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-The-Hijackers"><a href="/index.php/The_Hijackers">The Hijackers</a></li>
+				<li id="n-Foreknowledge"><a href="/index.php/Foreknowledge">Foreknowledge</a></li>
+				<li id="n-Stand-Down"><a href="/index.php/Stand_Down">Stand Down</a></li>
+				<li id="n-The-Flights"><a href="/index.php/The_Flights">The Flights</a></li>
+				<li id="n-Bin-Laden"><a href="/index.php/Osama_bin_Laden">Bin Laden</a></li>
+				<li id="n-What.27s-New"><a href="/index.php/What%27s_New">What's New</a></li>
+				<li id="n-help"><a href="/index.php/Help:Contents" title="The place to find out.">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Search 911myths [f]" accesskey="f" value="">
+				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists">&nbsp;
+				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text">
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/What%27s_New" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/What%27s_New" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-upload"><a href="/index.php/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/index.php?title=What%27s_New&amp;oldid=9328&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/index.php?title=What%27s_New&amp;oldid=9328" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki"></a></div>
+			<ul id="f-list">
+				<li id="privacy"><a href="/index.php/911myths:Privacy_policy" title="911myths:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/index.php/911myths:About" title="911myths:About">About 911myths</a></li>
+				<li id="disclaimer"><a href="/index.php/911myths:General_disclaimer" title="911myths:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.771 secs. -->
+</body></html>

@@ -1,0 +1,14 @@
+ 
+ver. 2.0  
+  Shading  
+  FumeFX comes with two built-in shaders:
+
+- The Standard Shader has controls for the rendering of Fire, Smoke and Fuel channels. It blends all of them automatically, even if smoke and fire exist inside the same voxel.
+
+- The Channel Shader has the ability to render any data channel. This means that user can render smoke, fire, temperature, velocity, or any other channel that might become available in the future, using customizable color gradients.
+
+- For additional detail, FumeFX shaders can use procedural textures, such as Noise. Texture can be applied using two coordinate systems. With Fluid Mapping, FumeFX creates the impression of a synchronous flow of texture detail with the fluid. With World Space, texture remains motionless, like the mask textures common to 3ds Max atmospherics.
+
+- Shaders are equipped with AFC and Gradient controls. With their use, color and opacity can be precisely defined with dependence on smoke, fire, or any other channel's value.
+
+- FumeFX shaders fully support mental ray and finalRender. User can control Global Illumination's strength multiplier to control the contribution of illumination that comes from FumeFX.

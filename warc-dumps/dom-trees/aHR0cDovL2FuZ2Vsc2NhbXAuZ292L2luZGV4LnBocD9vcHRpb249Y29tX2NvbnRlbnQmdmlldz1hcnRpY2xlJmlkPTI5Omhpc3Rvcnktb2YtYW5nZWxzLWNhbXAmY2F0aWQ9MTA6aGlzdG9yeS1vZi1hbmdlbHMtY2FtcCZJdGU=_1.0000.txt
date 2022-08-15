@@ -1,0 +1,235 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="City of Angels Camp, Frog Jump, Frog Hop of Fame, City Business, Angels, Angels Camp CA, City of Angels, Angels Camp Museum, Building and Planning, Current Projects, Visit Angels Camp">
+  <meta name="title" content="History of Angels Camp">
+  <meta name="description" content="The City of Angels Camp, CA, Public Information, City Business, Departments, Forms, Codes and Regulations, Current Projects and more.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>History of Angels Camp</title>
+  <link href="/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/system/jceutilities/css/jceutilities-217.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/jceutilities/themes/standard/css/style.css" type="text/css">
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/mediaobject.js"></script>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/jquery-126.js"></script>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/jceutilities-217.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/modules/mod_accordionmenu/assets/accordionmenu.js"></script>
+  <script type="text/javascript">
+	MediaObject.init({'flash':"9,0,124,0",'windowmedia':"5,1,52,701",'quicktime':"6,0,2,0",'realmedia':"7,0,0,0",'shockwave':"8,5,1,0"});jQuery(document).ready(function(){jceutilities({'popup':{'legacy':0,'resize':1,'icons':1,'overlay':1,'overlayopacity':0.8,'overlaycolor':"#000000",'fadespeed':500,'scalespeed':500,'width':640,'height':480,'hideobjects':1,'scrollpopup':1,'theme':"standard",'themecustom':"",'themepath':"plugins/system/jceutilities/themes"},'tootlip':{'classname':"tooltip",'opacity':1,'speed':150,'position':"br",'offsets':"{'x': 16, 'y': 16}"},'imgpath':"plugins/system/jceutilities/img",'pngfix':1,'wmode':0});});
+  </script>
+
+
+<link rel="stylesheet" href="http://angelscamp.gov/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="http://angelscamp.gov/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="http://angelscamp.gov/templates/ja_purity/css/template.css" type="text/css">
+
+<script language="javascript" type="text/javascript" src="http://angelscamp.gov/templates/ja_purity/js/ja.script.js"></script>
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='16,38';
+</script>
+<script language="javascript" type="text/javascript" src="http://angelscamp.gov/templates/ja_purity/js/ja.rightcol.js"></script>
+
+<link rel="stylesheet" href="http://angelscamp.gov/templates/ja_purity/css/menu.css" type="text/css">
+
+
+
+<!--[if gte IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+<style type="text/css">
+#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+</head>
+
+<body id="bd" class="fs3 Others">
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="#ja-col1" title="Skip to first column">Skip to first column</a></li>
+	<li><a href="#ja-col2" title="Skip to second column">Skip to second column</a></li>
+</ul>
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+	<div id="ja-header" class="clearfix" style="background: url(http://angelscamp.gov/templates/ja_purity/images/header/) no-repeat top right;">
+
+	<div class="ja-headermask">&nbsp;</div>
+
+			<h1 class="logo">
+			<a href="/index.php" title="City of Angels Camp"><img src="/./templates/ja_purity/images/new_logo.png" border="0" alt="City of Angels Camp"></a>
+		</h1>
+	
+			<ul class="ja-usertools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="http://angelscamp.gov/templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Default font size" src="http://angelscamp.gov/templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Decrease font size" src="http://angelscamp.gov/templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;"></li>
+		</ul>
+		<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
+		
+	
+	</div>
+</div>
+<!-- END: HEADER -->
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<!-- END: MAIN NAVIGATION -->
+
+<div id="ja-containerwrap">
+<div id="ja-containerwrap2">
+	<div id="ja-container">
+	<div id="ja-container2" class="clearfix">
+
+		<div id="ja-mainbody" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+						<div id="ja-pathway">
+				
+			</div>
+			
+			
+<h2 class="contentheading">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=29:history-of-angels-camp&amp;catid=10:history-of-angels-camp&amp;Itemid=14" class="contentpagetitle">
+		History of Angels Camp	</a>
+	</h2>
+
+
+
+
+<div class="article-content">
+<p><strong>Angels Camp, 1848</strong></p>
+<p><img width="300" src="/images/stories/oldtownpic2.jpg" alt="oldtownpic2" height="225" style="float: right; margin: 5px 0px 10px 10px; border: #7aa8bd 1px solid;">Was it Henry or George Angel after whom Angels Camp was named in 1848? Authorities disagree, but odds are with Henry, the town's first store keeper.</p>
+<p>Boasting a population of 2,700 in 1972 (with the annexation of Altaville thus making Main Street 4 miles long) in 1849, nearly 4,000 miners camped in the one mile area from Angels Creek to Utica Park.</p>
+<p>The cry of "gold" brought the miners but within a few years, local areas were worked out of surface gold and Placer Mining had all but ceased when, as tradition states, Bennegar Rasberry's muzzle loader jammed. He fired the rifle into the ground where the ramrod split a stone to reveal the glittering gold inside and Quartz Mining began in Angels Camp. 
+
+
+
+</p>
+<p>The main quartz vein extended from southern Altaville to Angels Creek and all along Main Street were the mines: The Sultana, the Angels, the Lightner, the Utica, and the Stickle.</p>
+<p>Ore was pushed by hand cars over tracks from the mines to the mills where the "crash" of over 200 stamps was produced each day during the mining peak fo the 1880's and 90's. It has been said that when the last stamp mill ceased operating, the town was so quiet that people could not sleep.</p>
+<p>The estimated gross recovery of gold from the 5 mines from 1886 to 1910 was $19,985,747...and Angels Creek ran chalky white from the mill wastes.</p>
+<p>Angels began as a tent town with many flimsy wooden structures and in 1855, the first fire took its toll by destroying almost everything from Angels Camp to St. Patrick's Church</p>
+<p>In rebuilding, many structures were built of rock with iron doors and roofs insulated with dirt and sand. <a href="http://angelscamp.gov/house.htm"></a>Most of these building are standing today. The rest were again destroyed and rebuilt with only a handful of the original in evidence.</p>
+<p>Mining continued until the last, the Gold Cliff shaft of the Utica Mining Company, closed in 1942. With the need for metal during World War II, most of the mining machinery was sold for scrap and now only a few concrete foundations and mill works remain of the Gold Rush Days in Angels Camp.</p></div>
+
+
+<span class="article_separator">&nbsp;</span>
+
+
+			
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					<div class="moduletable">
+					
+<script type="text/javascript">
+	window.addEvent('domready', function(){
+	accordionMenu(
+		"accordionMenu", // Menu Tag ID (this id is assigned to menu parent ul tag)
+		"", //path to image used to expand menu item
+		"", //path to image used to collapse menu item
+		{duration:500, transition:Fx.Transitions.Quart.easeOut}, // (optional argument) custom accordion options to override defaults, use null if you want to set next argument without changing this
+		500, // (optional argument) hover delay in milliseconds over "parent menu item" to open its sublevels, default is 200
+		0 // (optional argument) enable/disable opening of submenus on hovering
+	);
+	
+	});
+</script>
+
+<ul class="menu" id="accordionMenu"><li class="item1"><a href="http://angelscamp.gov/"><span>Home</span></a></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=section&amp;id=1&amp;Itemid=2"><span>City Government</span></a><ul><li class="item3"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=1&amp;Itemid=3"><span>City Officials / Staff</span></a></li><li class="item5"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=2&amp;Itemid=5"><span>Vision Statement</span></a></li><li class="item4"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=3&amp;Itemid=4"><span>City Council</span></a></li><li class="item6"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=4&amp;Itemid=6"><span>City Finances</span></a></li><li class="item7"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=5&amp;Itemid=7"><span>City Committees</span></a></li><li class="item8"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=6&amp;Itemid=8"><span>Current City Projects</span></a></li><li class="item9"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=7&amp;Itemid=9"><span>City Codes and Regulations</span></a></li><li class="item10"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=8&amp;Itemid=10"><span>City Forms and Applications</span></a></li><li class="item11"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=9&amp;Itemid=11"><span>Employment Opportunities</span></a></li><li class="item40"><a href="/index.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=40"><span>Events Calendar</span></a></li><li class="item37"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=31&amp;Itemid=37"><span>Planning Commission</span></a></li></ul></li><li class="parent active item13"><a href="/index.php?option=com_content&amp;view=section&amp;id=2&amp;Itemid=13"><span>About the City</span></a><ul><li id="current" class="active item14"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=10&amp;Itemid=14"><span>History of Angels Camp</span></a></li><li class="item15"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=11&amp;Itemid=15"><span>The Community</span></a></li><li class="item16"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=12&amp;Itemid=16"><span>Visiting Angels Camp</span></a></li><li class="item17"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=13&amp;Itemid=17"><span>Moving to Angels Camp</span></a></li></ul></li><li class="item18"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=3&amp;Itemid=18"><span>FAQs</span></a></li><li class="parent item19"><a href="/index.php?option=com_content&amp;view=section&amp;id=4&amp;Itemid=19"><span>Links</span></a><ul><li class="item28"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=16&amp;Itemid=28"><span>Local Links</span></a></li><li class="item29"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=15&amp;Itemid=29"><span>State Links</span></a></li><li class="item36"><a href="http://www.computerfiremen.com"><span>Webmaster</span></a></li></ul></li><li class="item20"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=5&amp;Itemid=20"><span>Police Department</span></a></li><li class="parent item21"><a href="/index.php?option=com_content&amp;view=section&amp;id=6&amp;Itemid=21"><span>Fire Department</span></a><ul><li class="item27"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=18&amp;Itemid=27"><span>About the Department</span></a></li><li class="item30"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=19&amp;Itemid=30"><span>Fire Prevention</span></a></li></ul></li><li class="item22"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=7&amp;Itemid=22"><span>Public Works Department</span></a></li><li class="item23"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=8&amp;Itemid=23"><span>Water and Sewer Department</span></a></li><li class="parent item24"><a href="/index.php?option=com_content&amp;view=section&amp;id=9&amp;Itemid=24"><span>Community Development</span></a><ul><li class="item31"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=22&amp;Itemid=31"><span>About the Department</span></a></li><li class="item32"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=23&amp;Itemid=32"><span>Planning</span></a></li><li class="item33"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=24&amp;Itemid=33"><span>Building</span></a></li></ul></li><li class="item25"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=10&amp;Itemid=25"><span>Code Enforcement Department</span></a></li><li class="item26"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=11&amp;Itemid=26"><span>Angels Camp Museum</span></a></li><li class="item39"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=39"><span>Brand Leadership Team</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<p>PO Box 667<br>584 S.Main St.<br>Angels Camp, CA 95222<br>Phone: (209) 736-2181<br>Fax: (209) 736-0709<br><a href="mailto:coa@angelscamp.gov">Email the City</a></p>		</div>
+			<div class="moduletable">
+					<h3>Images of Angels Camp</h3>
+					<div align="center">
+	<img src="/images/left//left-pic-1.jpg" alt="left-pic-1.jpg" width="200" height="200"></div>		</div>
+	
+		</div><br>
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+				<!-- BEGIN: RIGHT COLUMN -->
+		<div id="ja-col2">
+					<div class="jamod module" id="Mod28">
+			<div>
+				<div>
+					<div>
+												<div class="jamod-content"><ul class="menu"><li class="item34"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=34"><span>Disclaimer (Please Read)</span></a></li></ul></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		</div><br>
+		<!-- END: RIGHT COLUMN -->
+		
+	</div>
+	</div>
+</div>
+</div>
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div id="ja-footnav">
+		
+	</div>
+
+	<div class="copyright">
+		<p>Site designed and hosted by <a href="http://www.computerfiremen.com" target="_blank">Computer Firemen</a> | ©2009 by the City of Angels Camp</p>
+	</div>
+
+	<div class="ja-cert">
+		
+		<a href="http://jigsaw.w3.org/css-validator" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="http://angelscamp.gov/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS">
+		</a>
+		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
+		<img src="http://angelscamp.gov/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional">
+		</a>
+	</div>
+
+	<br>
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4252389-15");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+</body></html>

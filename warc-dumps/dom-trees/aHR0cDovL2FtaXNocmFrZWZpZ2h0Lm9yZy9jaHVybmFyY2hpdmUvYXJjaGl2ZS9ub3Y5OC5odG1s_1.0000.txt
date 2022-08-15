@@ -1,0 +1,485 @@
+<html><head><title>As The World Churns</title></head>
+<body text="#FFFFFF" link="#FFC000" vlink="#FFC000" bgcolor="#402000" background="../images/bak-gld.gif">
+November '98
+<p align="CENTER">
+<img src="../images/churns.gif" alt="As the world Churns"><br>
+The official BBS of <a href="../index.html">Amish Rake Fight</a> on the
+ <a href="http://www.dal.net">DALnet</a><br><br><br>
+<font size="5">Churn out a <a href="#addpost">Post</a>?</font><br>
+</p><hr>
+<p>
+
+
+
+<font size="4">A Butter Patty from: <img src="../pics/doc.jpg"><br> on Sunday, November 01, 1998 at 09:56:59 (PST) <br>You should look at <a href="http://www.denizine.com/columnist/doc/103098.htm">this</a>
+web page.<br><br>
+<b>STATE OF THE SERVER ADDRESS
+<br>From your ever-beloved founder, Doc
+<br>
+<br>Dear Fellow Inmates,
+<br>The <a href="http://www.amishrakefight.org">amishrakefight.org</a> server is going through some changes I thought you should know about.
+<br>Our web hosting company, <a href="http://www.best.com">Best Internet</a>, allows an almost-unprecedented 200 MB/day of traffic (downloads). Most web hosts only allow, at most, a tenth of that. Lately, we have been hovering at about 50% of that capacity. Just six months ago, 10% was typical. This means that it won't be long until we "hit the wall" traffic-wise. I'll try to explain what happens when we top out: Best Internet resets the capacity figure at the top of every hour. Their <a href="http://shell2.ba.best.com/usage.cgi?name=amish">bandwidth counter</a>, each hour, looks back over the last 24 hours. Once it sees 200 MB has been used over that period, it "shuts down" the domain until the top of the hour. This means, for example, that visitors arriving at 5 minutes 'til the top of the hour may get sent to a <a href="http://www.amishrakefight.org/limit.html">page</a> explaining that the bandwidth limit has been reached, and are asked to try again after the top of the hour.
+<br>Once that starts happening, we will have to look into taking some stuff
+ off the server. But don't worry -- there is plenty of stuff you don't know
+ about that can be removed without affecting the truly Amish portion of the
+ server. I have <a href="http://www.amishrakefight.org/docmusic.html">four
+ songs of my own</a> in MP3 format on the server that eat up quite a bit of
+ bandwidth on a daily basis, for example, which could be moved.
+<br>Currently, however, the page generating all the traffic is the <a href="http://www.amishrakefight.org/gfy">Go Fuck Yourself Home Page</a>. My web analysis software shows that the <a href="http://www.amishrakefight.org/gfy">GFY</a> page is now getting 800-900 hits a day. About two-thirds of the visitors are running Java, and thus downloading the audio portion of the page, fyfyfyfy.au. The downloading of that audio snippet alone is accounting for about 20% of the traffic!
+<br>Somehow, the <a href="http://www.amishrakefight.org">Amish Rake Fight Home Page</a> is getting around 200 hits a day now. I am at a loss to explain why. But we are eligible for a higher grade of sponsorship for our site that we are currently getting. So I have applied to <a href="http://www.valueclick.com">ValueClick</a> to put their ads on our pages. Our current sponsor, <a href="http://www.momentumplus.com/media/">Momentum Plus</a>, tends to put up banners for boring products, about half of which are aimed at Asian markets. As a result, we have earned only about $15 all year, despite some 5 banners spread over two domains (<a href="http://www.nwlaser.com/wavs">Doc's Chat Sounds</a> has been carrying the same banners).
+<br>If we qualify with <a href="http://www.valueclick.com">ValueClick</a>, we would be getting not only better banners, but 15 cents per click-through rather than the 5 cents we are getting with <a href="http://www.momentumplus.com/media/">Momentum Plus</a>. I should be hearing back from <a href="http://www.valueclick.com">ValueClick</a> within a week or so. 
+<br>So, in conclusion, keep an eye out for the new banners, and <a href="mailto: limit@nwlaser.com">e-mail</a> me if you get shut out of the server due to high traffic.
+<br>
+<br>Thanks,
+<br>Doc</b><br>
+</font></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:luna2@rocketmail.com"><img src="../pics/luna.jpg"></a> <br> on Sunday, November 01, 1998 at 11:09:09 (PST) <br>You should look at <a href="http://www.angelfire.com/ky/GOATMILKFUDGE/">this</a>
+web page.<br><br>
+<b>Hey!  I had some free time this weekend and added a couple new links.  One link has my famous pumpkin recipe :)
+<br>The other you will have to see for yourself :)
+<br>
+<br>Thank You
+<br>
+<br>luna</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Sunday, November 01, 1998 at 11:10:23 (PST) <br><br><b>ummmmmmmmmmmmmm  that's pumpkin PIE recipe!!!
+<br>
+<br>man o man
+<br>
+<br>Thanks
+<br>
+<br>luna</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:badmovie@nwlaser.com"><img src="../pics/doc.jpg"></a> <br> on Sunday, November 01, 1998 at 13:58:39 (PST) <br>You should look at <a href="http://www.deepimpact.com">this</a>
+web page.<br><br>
+<b>Well, I just got done watching Deep Impact, that recently-released-on-video action-thriller about a big ol' comet giving the Earth a whack. It turned out to be most educational. Here's what I learned:
+<br>
+<br>ð When you fall asleep watching a movie, then go back later and watch the part you missed, you may well find that sleep was your brain's way of saying "Enough already!"
+<br>
+<br>ð The chances of a comet striking the Earth are so small that we'd be more likely to elect a black president.
+<br>
+<br>ð Any attempts at blowing up a comet before it can get us will likely yield the following results:
+<br>1) By drilling deep holes in the comet and setting off a-bombs, we'll only succeed in breaking the comet in two.
+<br>2) However, we'll have enough nukes left on the spaceship after the first attempt that we can just drive head-on into the thing, destroying it entirely.
+<br>
+<br>ð The government is building a cave with accomodations for 1 million people just in case a comet hits us.
+<br>
+<br>ð We won't be able to predict exactly where the comet will strike, so everybody will just stay put until it hits.
+<br>
+<br>ð You can outrun a 700-foot-tall tidal wave; if you have a motorcycle, you've got it made.
+<br>
+<br>ð In the traffic jams preceding the disaster, everyone will leave 20 feet of space around their cars, and there will be no panic or horn-honking.
+<br>
+<br>ð Any comet that slams the Earth will land in the Atlantic, thus saving our precious film industry.
+<br>
+<br>ð Even Robert Duvall makes a bad decision now and then.
+<br>
+<br>Happy viewing, and if you figure out what any of the sub-plots were all about, please write me.
+<br>
+<br>Doc</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:ericogilvie@earthlink.net"><img src="../pics/palefire.gif"></a> <br> on Sunday, November 01, 1998 at 15:11:03 (PST) <br><br><b>Greetings from Washington, DC. I am currently overwhelmed by all the sensory input to 
+<br>be found here... As soon as I am able to process my thoughts a little better, I'll 
+<br>give you some of the highlights of the trip...
+<br>Miss you all, 
+<br>PaleFire
+<br>-----------</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/frac.gif"><br> on Tuesday, November 03, 1998 at 16:34:36 (PST) <br><br><b>I am a couple of days late, but Happy Birthday Fitz!!</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:bill5@home.com"><img src="../pics/boxelder.gif"></a> <br> on Wednesday, November 04, 1998 at 08:05:33 (PST) <br>You should look at <a href="http://www.thehip.com">this</a>
+web page.<br><br>
+<b>You're a couple days late??????  Uh oh!
+<br>
+<br>Anyone know where I can get fifty to a hundred or so meg of NT web space with all the fixins (such as FrontPage extensions, ASP, SQL and Access database support) really CHEAP?  Don't need mailboxes, domain registration stuff and all the other crap- just the space. I'd like it for twenty a month or less.
+<br>
+<br>On a different note, I caught The Tragically Hip in Atlanta on Halloween.  Unbelievable live performance.  The "Live Between Us" CD has just been released in the U.S and it RULES!
+<br>
+<br>Have a good day :)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/fitzie.gif"><br> on Wednesday, November 04, 1998 at 11:59:04 (PST) <br><br><b>Thanx Angela:)  I had to work on my birthday so like Dad always said, "It's Just another day"  Anyways HI everyone and Happy HUMP day......now back to your regular scheduled programs
+<br>
+<br>Fitzie</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/oggie.jpg"><br> on Wednesday, November 04, 1998 at 12:34:22 (PST) <br><br><b>    What was that about a couple of days late?
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/frac.gif"><br> on Thursday, November 05, 1998 at 01:10:25 (PST) <br><br><b>It's a boy!!</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:dontemailme@nwlaser.com"><img src="../pics/doc.jpg"></a> <br> on Thursday, November 05, 1998 at 19:55:09 (PST) <br>You should look at <a href="http://www.nwlaser.com/wavs">this</a>
+web page.<br><br>
+<b>Hey gang,
+<br>
+<br>Here's a great page for you poor saps with PCs who are tired of being nuked. The <a href="http://www.irchelp.org/irchelp/nuke/info.html">Nuke Information and Patches Page</a> contains explanations of different kinds of nukes, with patches and other solutions.
+<br>
+<br>And here are three reasons for Mac users to rejoice:
+<br>
+<br>1) <a href="http://www.apple.com">Apple</a> is kicking ass again.
+<br>
+<br>2) Quoting from the <a href="http://www.irchelp.org/irchelp/nuke/info.html">Nuke Information Page</a> listed above: "Macintosh users should rejoice - unlike bug-riddled Windows, MacOS is impervious to most attacks. Be sure you're using OpenTransport (not MacTCP) under MacOS 8.x and you should be safe."
+<br>
+<br>3) <a href="http://www.ircle.com">Ircle 3.0</a> is out of alpha/beta
+for
+the first time in its history! Mac users should <a href="http://www.ircle.com/download.html">download version 3.0.1</a>.
+<br>
+<br>You're welcome,
+<br>Doc
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: me<br> on Friday, November 06, 1998 at 09:39:11 (PST) <br><br><b>I'm testing </b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/oggie.jpg"><br> on Saturday, November 07, 1998 at 07:37:55 (PST) <br><br><b>     Wow.. You never told me!! I gotta get some formula.. 
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/doc.jpg"><br> on Saturday, November 07, 1998 at 10:24:42 (PST) <br>You should look at <a href="http://www.tdn.com">this</a>
+web page.<br><br>
+<b>Well, not a BOY really... but a Batboy.
+<br>
+<br>I think the Churn makes a pretty good forum for suggestions for a name for the child, so let's have a Name the Baby Contest!
+<br>
+<br>Doc</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:proud_auntie@usaserve.net"><img src="../pics/sli.jpg"></a> <br> on Saturday, November 07, 1998 at 10:55:07 (PST) <br><br><b><center><h1>Oggiestein...Son of Oggie </h1></center>
+<br>I smell a movie plot here...a pint sized yankee able to lift grown women and throw them over his shoulder. We set the whole thing in Sea-Tac. Doc, honey get those ppl from Fox Family Channel on the phone. They may not want Amish Rake Fighting but the instant appeal of this could be our ticket to the big time. 
+<br>Smooches 
+<br>Auntie SLi</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/oggie.jpg"><br> on Saturday, November 07, 1998 at 12:18:19 (PST) <br><br><b>ROTFL Sli.. I think that I will have to name him Sea-Tac as he is the child of the new millenium concieved to bring forth the salt water taffy revolution... But OggieStein would be a good middle name : )
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: nobody, really<br> on Saturday, November 07, 1998 at 13:12:52 (PST) <br><br><b>Hmmm. Frac + Oggie = Froggie</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/oggie.jpg"><br> on Sunday, November 08, 1998 at 17:05:06 (PST) <br><br><b>  You non posting fuckerrrrrrrrrrssss..
+<br>
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Monday, November 09, 1998 at 03:42:51 (PST) <br><br><b>What did you call me????
+<br>
+<br>:)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sugar.jpg"><br> on Monday, November 09, 1998 at 09:56:54 (PST) <br><br><b>luna.. i am a little lost. if it is a pumpkin pie recipe, shouldn't it have pumpkin as a main ingredient... or at least an ingredient? just curious. 
+<br>that is all.
+<br>sugar</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sli.jpg"><br> on Monday, November 09, 1998 at 14:45:48 (PST) <br><br><b></b></font><center><font size="4"><b><h1>CONGRATULATIONS DARLING!!!!!!!!!!!!</h1></b><center><b>
+<br><br> I knew you were going to get this one!!
+<br>(If you dont know what Im talking about...ask Doc)
+<br>Love You Sweetie!
+<br>Stephie</b><br></center>
+</font><p></p></center><hr>
+
+
+<font size="4">A Butter Patty from: <img src="../pics/sugar.jpg"><br> on Monday, November 09, 1998 at 15:54:11 (PST) <br><br><b>??????
+<br>still lost.
+<br>thank you
+<br>that is all
+<br>sugar</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/billyz.gif"><br> on Monday, November 09, 1998 at 17:39:59 (PST) <br><br><b>hey uhh... sounds frighteningly like doc... yes, dare I say, HE GOT A JOB!!!(?)
+<br>
+<br>so what poor soul of a company has to put up with him now? ;o)
+<br>
+<br>
+<br>
+<br>congrats doc!
+<br>
+<br>BillyZ
+<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(i did so enjoy those stories about stinky)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/puffy.jpg"><br> on Tuesday, November 10, 1998 at 10:33:10 (PST) <br><br><b>Congrats Doc!!!  You deserve the world!  Now build a damn web page for it and make it snappy.</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sli.jpg"><br> on Tuesday, November 10, 1998 at 11:14:06 (PST) <br><br><b>Just thought Id share this...
+<br>This guy walks into a bar down in Alabama and orders a Grape Nehi. 
+<br> Surprised, the bartender looks around and says "You ain't from around
+<br> here... where you from, boy?". 
+<br> The guy says, "I'm from Pennsylvania." 
+<br> The bartender asks, "What do you do up in Pennsylvania?" 
+<br> The guy responds, "I'm a taxidermist." 
+<br> The bartender asks, "A taxidermist... what the hell is a taxidermist?" 
+<br> The guy says "I mount animals." 
+<br> The bartender smiles and shouts to the whole bar, "It's OK boys, he's one
+<br> of us!"
+<br>Smooches
+<br>SLi</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Wednesday, November 11, 1998 at 12:45:29 (PST) <br><br><b>wooooooooo no school today!  what do i do with myself????</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/oggie.jpg"><br> on Wednesday, November 11, 1998 at 20:49:35 (PST) <br><br><b>  May I suggest Karma Sutra?
+<br>
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/shock.gif"><br> on Wednesday, November 11, 1998 at 23:47:00 (PST) <br><br><b>How about masturbating?
+<br>
+<br>I hear rob is doing alot of that these days.
+<br>
+<br><p align="right">8)</p></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/fitzie.gif"><br> on Thursday, November 12, 1998 at 08:02:11 (PST) <br><br><b>Woohoooooo no work today, which hand shall I use and....ahhh nevermind back to the karma sutra
+<br>
+<br>Fitzie</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sugar.jpg"><br> on Thursday, November 12, 1998 at 11:53:32 (PST) <br><br><b>damn, i have work.</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:GarthStrait@bigdeal.com"><img src="../pics/edzeppelin.jpg"></a> <br> on Saturday, November 14, 1998 at 23:08:47 (PST) <br><br><b>
+<br>Abner reached out and stroked the glass of the display case almost involuntarily, his fingertips idly moving against the glass as his mouth fell into a gentle "O". Sure, Grandpa had warned him about the temptations of the big city, but Abner wouldn't listen, had to go see for himself. 
+<br>
+<br>Now, as he stared wide-eyed at the array of exotic colors and mysterious devices before him, he knew he had no power over the emotions flooding over him like a tidal wave of reckless need. His face flushed and a thin trickle of sweat rolled from under his straw hat. He unbuttoned his collar, something his Grandma would have thwacked him in the head with a thimbled middle finger for at home. 
+<br>
+<br>As his eyes roved back and forth over the contents of the display case, he could almost hear all the voices of his family calling out to him, warning him away, but it was lost to the terrible roar of a 16-year-old Amish boy's raging hormones and the object of those hormone's desires, right there on the other side of the glass.
+<br>
+<br>The clerk finally finished with the customer before Abner. He approached the trembling blonde boy who wore awkward black pants, a white shirt, worn heavy shoes, straw hat and wide black suspenders. "Can I help you?" He asked.
+<br>
+<br>The boy couldn't speak, so red-faced and agitated, he could only point at one particular item. 
+<br>
+<br>"Ah, yes" the clerk said as he slid back the door of the display case and removed the item, and then set it down on the countertop, right in front of Abner's steaming eyes. "This is a big favorite. That's real leather there, pal. Here, feel it." 
+<br>
+<br>He handed it to Abner.
+<br>
+<br>"Now, see that switch? Go ahead, flick it, kid. See? It vibrates!"</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:dontemailme@nwlaser.com"><img src="../pics/doc.jpg"></a> <br> on Sunday, November 15, 1998 at 10:27:43 (PST) <br>You should look at <a href="http://www.tdn.com">this</a>
+web page.<br><br>
+<b>In today's Portland <i>Oregonian</i> Classified Ad section, Employment General, P:
+<br>
+<br><font color="#94E5FC">PRINTING
+<br><center>PRESS OPERATOR</center>
+<br>Full time. AB Dick w/T-head. Quality work, exp'd, refs req'd.
+<br>Merit Printing, 286-9086</font>
+<br>
+<br>There are 10 other ads for Press Operators, including one virtually identical to the one above, except it says, "Good pay and benefits. Nice working environ."
+<br>
+<br>Take my old job. Please.
+<br>
+<br>Doc</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/bill,yz.gif"><br> on Sunday, November 15, 1998 at 16:19:54 (PST) <br><br><b>and I quote...
+<br><font color="#000099">
+<br>Full time. AB Dick w/T-head. Quality work, exp'd, refs req'd. 
+<br></font> so uhh, You gotta have a dick... and a thick head?
+<br>man... odd requirments for a job, but I can see how doc held on to it for so long  ;o)
+<br>
+<br>BillyZ </b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/zipper.jpg"><br> on Sunday, November 15, 1998 at 17:01:42 (PST) <br><br><b>Ah, shut up and learn to HTML, ya boat-builder.</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sli.jpg"><br> on Monday, November 16, 1998 at 10:53:37 (PST) <br><br><b>Billy....AB stands for  A BIG
+<br>: )
+<br>Smooches 
+<br>SLi</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/billyz.gif"><br> on Monday, November 16, 1998 at 13:44:39 (PST) <br><br><b>A BIG?? I thought ABsolute.
+<br>
+<br>BillyZ (wonderin if he's gonna get in trouble again)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:okeefe@cyberdesign.net">DaRakers</a> <br> on Tuesday, November 17, 1998 at 10:54:47 (PST) <br><br><b>I would just like to say, that if the world were free of clients we all would have
+<br>alot more hair. Just my 2 cents...death to coffee sites...I need cider. 
+<br>
+<br>(So, I'm strange...so sue me :-) ) 
+<br>
+<br>DaRakers</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:icarroll@pcplus-mi.com"><img src="../pics/hempec.gif"></a> <br> on Wednesday, November 18, 1998 at 07:09:21 (PST) <br><br><b>What is with people spouting off some disjointed, quirky statement, and then proclaiming themselves strange.  There is a lot more to being strange then talking like a bad E.E. Cummings poem!!!!  In fact, strange to a young Amish bloke like myself consists of many things, from wearing Argyle socks, to loving the taste of cow boils that have been burst....MMMMMMMM, tender and juicy!!!  Now, I must admit that last week in the prayer vigil, I got some strange looks for using the word "sodomite" in a sentence (say, isn't that what JJ on What's Happening always used to say??  SODOMITE!!!), and beating the crap out of Hezekiah over the cookies and orange juice didn't win me any Lebkuchen points, either.  My point is, proclaiming yourself strange bears a lot less water then a bucket with no bottom.
+<br>
+<br>Thank you, Drive through!!!
+<br>
+<br>Hempy</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/billyz.gif"><br> on Wednesday, November 18, 1998 at 07:20:19 (PST) <br><br><b>~~/ "<font color="#8823FF">There's a whole in my bucket,
+<br>dear liza, dear liza...</font>"</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: billyz<br> on Wednesday, November 18, 1998 at 07:21:09 (PST) <br><br><b>GOD DAMBIT!!!!!!
+<br>
+<br><h4> - W</h4></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:okeefe@cyberdesign.net">DaRakers</a> <br> on Friday, November 20, 1998 at 13:38:33 (PST) <br><br><b>Well I am strange :-) Billy can attest to that. As for cow boils...hmm never tasted them :-)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Friday, November 20, 1998 at 15:53:09 (PST) <br><br><b>I LOVE YOU GUYS :)
+<br>
+<br>(just trying to change the subject)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:clover@toolcity.net">CloverBee</a> <br> on Sunday, November 22, 1998 at 10:08:52 (PST) <br><br><b>Hast thou abandond me in the wilderness fellow amish...all is dark and I no not when I will find my way home.... but I'm having one hell of a good time along the way.
+<br>some of ya e-mail me will ya!!!!
+<br>Happy turkey day all</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/boxelder.gif"><br> on Sunday, November 22, 1998 at 20:35:30 (PST) <br><br><b>alrighty then!</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:billstew@cris.com"><img src="../pics/billyz.gif"></a> <br> on Monday, November 23, 1998 at 08:00:31 (PST) <br>You should look at <a href="www.cyberdesign.net">this</a>
+web page.<br><br>
+<b><h1>WOOHOO!! Go me! :o)</h1>
+<br>
+<br>I gots me a job! I decided i would sacrifice mula in order to avoid the stupid user factor. so the fine folk at <a href="http://www.cyberdesign.net">CyberDesign</a> have offered me a nifty lill position makin web pages (obviously). But currently I have to worry about gradimicatin n stuff. Shouldnt be a problem... I'll just kill any teacher that tries to fail me. nuff said ;o)
+<br>
+<br>
+<br>Weeeee,
+<br>BillyZ
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sli.jpg"><br> on Monday, November 23, 1998 at 09:09:09 (PST) <br><br><b>Congrats Billy!
+<br>Does anyone see an alarming trend developing here???
+<br>First Doc then Billy. The Amish are being taken over by corporate America!
+<br>First the Mennonites start shopping at the mall and now this.
+<br>What are our simple ways coming to? 
+<br>Well Im off to my hair and nail appointment and then Im going to come back home and do a lil LAN Administration
+<br>Smooches 
+<br>SLi-ness</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:icarroll@pcplus-mi.com"><img src="../pics/hempec.gif"></a> <br> on Monday, November 23, 1998 at 14:42:46 (PST) <br><br><b>Well, I think I'll join SLi at her hair and nail appointment.  I must get ready for my interview at Chrysler next week.....
+<br>
+<br>Hezekiah!!!  Get Back HERE!!!
+<br>
+<br>
+<br>Hempy</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/Fitzie.gif"><br> on Tuesday, November 24, 1998 at 09:28:40 (PST) <br><br><b>Congrats Billyboy:)  and Sli ever notice at all the Nail Salon's that Orientals own them and all orientals work there?  Well that's the way it is here, matter of fact in the Mall at the Manchu Wok restaurant  all american's work there, WHATS this world coming to?!?  NO i'm not prejudice I'm a half Asian BOY myself, so  maybe i need to Apply at the Nail Salon:)  Then FINALLY my Femine quality's can come out;)
+<br>
+<br>All my MANLY love
+<br>Fitziepooh</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:yeahright@uwish.com"><img src="../pics/zipper.jpg"></a> <br> on Wednesday, November 25, 1998 at 10:30:08 (PST) <br>You should look at <a href="http://www.colitz.com/site/wacky.htm">this</a>
+web page.<br><br>
+<b>So you have a fascination with the realization of the asian nation, right? Being half-asian, do you drive like a mongoloid on alternating days? Does this mean you're an asian-amish-american? I'm going to lose sleep over this one, I can tell...
+<br>
+<br>Zipperhead
+<br>
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Wednesday, November 25, 1998 at 14:13:55 (PST) <br><br><b>SUGAR!!!!!!!! Please look at my recipe again before makin em! Replace All Spice with Pumpkin Pie Spice!  How embarrassing!   <b>
+<br>
+<br>To error is human ...... right????</b><br>
+</b></font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/fitzie.gif"><br> on Wednesday, November 25, 1998 at 15:58:24 (PST) <br><br><b>Yep zipperhead I'm half asian half american and HUNG like an Amishman, I drive like a bat outa hell, ok more like an old lady from The Bob Hope Villiage&lt;--aka a retirement home:)  I'm a rice eating, camera wearing, chopstick using, Godzilla watching, hot dog boiling, baseball playing, barn building, ONE hell of a NICE guy:) LOL  ANYWAYS.....back to your regular scheduled programs.
+<br>
+<br>P.S. HAPPY THANKSGIVING EVE everyone!!!!!!!!!!!!!!!!! and happy thanksgiving tommorrow:)
+<br>
+<br>Fitzie</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Thursday, November 26, 1998 at 06:21:45 (PST) <br><br><b>Happy Thanksgiving!!!!!!
+<br>
+<br>:)</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sli.jpg"><br> on Thursday, November 26, 1998 at 07:50:54 (PST) <br><br><b>Happy Thanksgiving all you wonderful Amish people!!!!!!
+<br>
+<br>Smooches and Huggies
+<br>Her Royal SLi-ness</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/fitzie.gif"><br> on Thursday, November 26, 1998 at 08:06:06 (PST) <br><br><b>Ditto from the 2 messages above:)  OK let me get back to Baisting the OLD turkey IF you know what I mean;)  /snd bathtub
+<br>
+<br>Fitzie</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:bill5@home.com"><img src="../pics/boxelder.gif"></a> <br> on Thursday, November 26, 1998 at 09:12:02 (PST) <br>You should look at <a href="http://members.home.com/bill5/Win98.htm">this</a>
+web page.<br><br>
+<b>Considering an upgrade to Windows 98?  Go to the site listed above.  (I post this at the risk of getting a buncha crap from Macaholics and probably a dissertation from Sli on the graceful efficiency of NT) </b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Friday, November 27, 1998 at 04:50:13 (PST) <br><br><b>GOD HELP US ALL! 
+<br>
+<br>DAVE HAS TURKEY GAS!</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:bill5@home.com"><img src="../pics/boxelder.gif"></a> <br> on Friday, November 27, 1998 at 06:51:56 (PST) <br>You should look at <a href="http://www.2000watercrisis.com">this</a>
+web page.<br><br>
+<b>At Thanksgiving yesterday, I got my dad's take on the imminent Y2K crisis.  Based on what he's heard on TV, he seems to think that life as we know it will come to a screetching halt.  The wheels on the wagon we call Mother Earth will come off and we will be back to stone tablet and chisels.  I'm in the market for a cheap computer as a Christmas present for them.  I'm considering making a "Y2K Compliant" sticker and slapping it on the the box, so that they can rest assured that it won't burn the house down at the dawn of the new millenium. </b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/sli.jpg"><br> on Friday, November 27, 1998 at 12:05:15 (PST) <br><br><b>Hey Ez...if ya find one that will burn the house down at the millenium let me know I still dont know what Richie should give the Ex for Christmas...but that sounds like a fine place to start...giggles
+<br>Just Kidding
+<br>Smooches </b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/luna.jpg"><br> on Saturday, November 28, 1998 at 17:03:00 (PST) <br><br><b>*SIGH*</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/oggie.jpg"><br> on Sunday, November 29, 1998 at 05:36:10 (PST) <br><br><b>    They now play christmas carols.... Be afraid.. Be very afraid... 
+<br></b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from:  <a href="mailto:doberman@yourthroat.com"><img src="../pics/edzeppelin.jpg"></a> <br> on Sunday, November 29, 1998 at 09:29:19 (PST) <br><br><b>I can't seem to find out how to MAKE a computer blow up on Jan. 1, 2000. Sure, there's lots of ways to fix the problem, but none to create it deliberately. I've already got a bag of marshmallows and a good stick so I can make smores while I enjoy this kerosene-powered P100's conflagration (which I intend to dedicate to MS' legal dept., just in case.) 
+<br>
+<br>I'm hoping that it may somehow transport me back to Jan. 1, 1900 so I can warn Teddy Roosevelt about Bill Gates buying the state of Washington someday. Maybe he'll pause from killing Spaniards long enough to enact a special abortion law just for Bill.
+<br>
+<br>Any ideas?
+<br>
+<br>Ed</b><br>
+</font><p></p><hr>
+
+<font size="4">A Butter Patty from: <img src="../pics/palefire.gif"><br> on Sunday, November 29, 1998 at 18:52:54 (PST) <br><br><b>I'm not dead. Just missing in action.</b><br>
+</font><p></p><hr>
+
+<meta begin>
+<p></p>
+
+
+<a name="addpost">
+<b></b></a><b><a href="guide.shtml">Instructions for Churning out a post</a> - READ OR RISK HAVING YOUR POST DISAPPEAR!</b><p>
+Fill out the form to add a post. 
+</p><form method="POST" action="http://www.amishrakefight.org/churn/scripts/churn.cgi">
+<p>Your Name : <input name="Name" size="30"></p>
+<p>Your E-Mail address (optional) : <input name="adress" size="30"></p>
+<p>A link to share with others (optional): <input name="hotlink" size="30"></p>
+<p>Your message: <font size="2"><i>( Enter will 
+be replaced with a &lt;BR&gt;-tag )</i></font><br>
+<textarea wrap="physical" name="Message" cols="85" rows="10"></textarea></p>
+<p><input type="submit" value="Churn it out">
+<input type="reset" value="Melted butter (reset)"></p>
+</form>
+
+View <a href="lastmonth.html">last month's posts</a>?<p>
+Browse the <a href="archive/">As The World Churns Archives</a>?</p><p>
+Back to the <a href="../index.html">Rake Fight</a>?</p><p>
+You are the <b><!--#include virtual="/cgi-bin/count-ssi.cgi?-fmycounter"--></b> visitor to the
+Churn since 2-8-97.
+
+</p></body></html>

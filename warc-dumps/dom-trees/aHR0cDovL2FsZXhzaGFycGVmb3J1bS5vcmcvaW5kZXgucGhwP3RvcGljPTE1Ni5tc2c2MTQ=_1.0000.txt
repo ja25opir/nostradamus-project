@@ -1,0 +1,1097 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta name="description" content="My Alex Creations ~Updated 8.6.10~">
+	<meta name="robots" content="noindex">
+	<meta name="keywords" content="PHP, MySQL, bulletin, board, free, open, source, smf, simple, machines, forum">
+	<script language="JavaScript" type="text/javascript" src="http://alexsharpeforum.org/Themes/default/script.js?fin11"></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "http://alexsharpeforum.org/Themes/impulse11";
+		var smf_images_url = "http://alexsharpeforum.org/Themes/impulse11/images";
+		var smf_scripturl = "http://alexsharpeforum.org/index.php";
+		var smf_iso_case_folding = false;
+		var smf_charset = "ISO-8859-1";
+	// ]]></script>
+	<title>My Alex Creations ~Updated 8.6.10~</title>
+	<link rel="stylesheet" type="text/css" href="http://alexsharpeforum.org/Themes/impulse11/style.css?fin11">
+	<link rel="stylesheet" type="text/css" href="http://alexsharpeforum.org/Themes/default/print.css?fin11" media="print">
+	<link rel="stylesheet" type="text/css" href="http://alexsharpeforum.org/Themes/impulse11/impulse.css?fin11">
+	<link rel="help" href="http://alexsharpeforum.org/index.php?action=help" target="_blank">
+	<link rel="search" href="http://alexsharpeforum.org/index.php?action=search">
+	<link rel="contents" href="http://alexsharpeforum.org/index.php">
+	<link rel="alternate" type="application/rss+xml" title="Alex Sharpe Forum - RSS" href="http://alexsharpeforum.org/index.php?type=rss;action=.xml">
+	<link rel="prev" href="http://alexsharpeforum.org/index.php?topic=156.0;prev_next=prev">
+	<link rel="next" href="http://alexsharpeforum.org/index.php?topic=156.0;prev_next=next">
+	<link rel="index" href="http://alexsharpeforum.org/index.php?board=8.0">
+
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var current_header = false;
+
+		function shrinkHeader(mode)
+		{
+			document.cookie = "upshrink=" + (mode ? 1 : 0);
+			document.getElementById("upshrink").src = "http://alexsharpeforum.org/Themes/impulse11/theme" + (mode ? "/user2.png" : "/user.png");
+
+			document.getElementById("userbox").style.display = mode ? "none" : "";
+			current_header = mode;
+		}
+
+	// ]]></script>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			var current_header_ic = false;
+
+			function shrinkHeaderIC(mode)
+			{
+				document.cookie = "upshrinkIC=" + (mode ? 1 : 0);
+				document.getElementById("upshrink_ic").src = smf_images_url + (mode ? "/expand.gif" : "/collapse.gif");
+
+				document.getElementById("upshrinkHeaderIC").style.display = mode ? "none" : "";
+
+				current_header_ic = mode;
+			}
+		// ]]></script>
+</head>
+<body>
+<div id="mainarea">
+	<div id="topsection">
+		<h1 id="mainheader"><a href="http://alexsharpeforum.org/index.php"></a></h1>
+		<div id="muser">
+			<a href="#" onclick="shrinkHeader(!current_header); return false;"><img id="upshrink" src="http://alexsharpeforum.org/Themes/impulse11/theme/user.png" alt="*" title="Shrink or expand the header." align="bottom" style="margin: 0 1ex;"></a>
+			<div id="userbox" class="content">	
+				<script language="JavaScript" type="text/javascript" src="http://alexsharpeforum.org/Themes/default/sha1.js"></script>
+				<form action="http://alexsharpeforum.org/index.php?action=login2" method="post" accept-charset="ISO-8859-1" class="middletext" style="text-align: center;margin: 0;" onsubmit="hashLoginPassword(this, '9fdf720c1c936cfd62c86c9859f43923');">
+					<input type="text" name="user" size="10"> <input type="password" name="passwrd" size="10">
+					<select name="cookielength">
+						<option value="60">1 Hour</option>
+						<option value="1440">1 Day</option>
+						<option value="10080">1 Week</option>
+						<option value="43200">1 Month</option>
+						<option value="-1" selected="selected">Forever</option>
+					</select><br>
+					<input type="submit" value="Login"><br>
+					<span class="middletext">Login with username, password and session length</span>
+					<input type="hidden" name="hash_passwrd" value="">
+				</form>
+			</div>
+			<span class="footer"></span>
+		</div>
+	</div>
+	<div id="topsection2">
+		<span class="left"></span>
+		<span class="right"></span>
+		<div class="content">
+		</div>
+	</div>
+	<div id="topsection3">
+		<span class="left"></span>
+		<span class="right"></span>
+		<div class="content"></div>
+	</div>
+	<div id="topmiddle">
+		<div class="left">
+			<div class="right">
+				<div class="content">
+					<h3 id="news">From the news...</h3>
+					<b>Be a Sharpie and get your T-shirt!</b><a href="http://alexsharpeforum.org/index.php?action=chat" target="_blank"><img src="http://alexsharpeforum.com/chat_icon.gif" alt="" border="0"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="middlesection">
+		<span class="left"></span>
+		<span class="right"></span>
+		<div class="content">
+	<div id="mainmenu">
+		<ul>
+			<li><a href="http://alexsharpeforum.org/index.php">Home</a>	</li>
+			<li><a href="http://alexsharpeforum.org/index.php?action=help">Help</a>	</li>
+			<li><a href="http://alexsharpeforum.org/index.php?action=search">Search</a>	</li>
+			<li><a href="http://alexsharpeforum.org/index.php?action=chat"></a>	</li>
+			<li><a href="http://alexsharpeforum.org/index.php?action=login">Login</a>	</li>
+			<li><a href="http://alexsharpeforum.org/index.php?action=register">Register</a>	</li>
+		</ul>
+	</div></div>
+	</div>
+	<div id="content">
+		<div class="inner">
+			<div class="mid"><div style="overflow: auto;">
+<a name="top"></a>
+<a name="msg567"></a>
+<div>
+	<div id="linktree"><a href="http://alexsharpeforum.org/index.php">Alex Sharpe Forum</a>&nbsp;»&nbsp;<a href="http://alexsharpeforum.org/index.php#3">Alex Sharpe</a>&nbsp;»&nbsp;<a href="http://alexsharpeforum.org/index.php?board=8.0">Alex Sharpe Artwork</a>&nbsp;»&nbsp;<a href="http://alexsharpeforum.org/index.php?topic=156.0">My Alex Creations ~Updated 8.6.10~</a>
+	</div></div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="middletext" valign="bottom" style="padding-bottom: 4px;">Pages: [<b>1</b>] <a class="navPages" href="http://alexsharpeforum.org/index.php?topic=156.15">2</a> </td>
+		<td align="right" style="padding-right: 1ex;">
+			<div class="nav" style="margin-bottom: 2px;"> <a href="http://alexsharpeforum.org/index.php?topic=156.0;prev_next=prev#new">« previous</a> <a href="http://alexsharpeforum.org/index.php?topic=156.0;prev_next=next#new">next »</a></div>
+			<table cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					
+		<td class="oldmenu"><a href="http://alexsharpeforum.org/index.php?action=printpage;topic=156.0" target="_blank">Print</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table width="100%" cellpadding="3" cellspacing="0" border="0" class="tborder" style="border-bottom: 0;">
+		<tbody><tr class="catbg3">
+				<td valign="middle" width="2%" style="padding-left: 6px;">
+						<img src="http://alexsharpeforum.org/Themes/impulse11/images/topic/hot_post.gif" align="bottom" alt="">
+				</td>
+				<td width="13%"> Author</td>
+				<td valign="middle" width="85%" style="padding-left: 6px;" id="top_subject">
+						Topic: My Alex Creations ~Updated 8.6.10~ &nbsp;(Read 425 times)
+				</td>
+		</tr>
+</tbody></table>
+<form action="http://alexsharpeforum.org/index.php?action=quickmod2;topic=156.0" method="post" accept-charset="ISO-8859-1" name="quickModForm" id="quickModForm" style="margin: 0;" onsubmit="return in_edit_mode == 1 ? modify_save('9fdf720c1c936cfd62c86c9859f43923') : confirm('Are you sure you want to do this?');">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="bordercolor">
+	<tbody><tr><td style="padding: 1px 1px 0 1px;">
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg567#msg567"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_567">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg567#msg567">My Alex Creations ~Updated 8.6.10~</a>
+									</div>
+									<div class="smalltext">« <b> on:</b> January 22, 2010, 03:11:18 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Guess I better start a graphics post here for Alex.<br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/AlexGBP.jpg" alt="" border="0"><br><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Avatars/Alexavatar1.jpg" alt="" border="0">&nbsp; &nbsp; &nbsp;<img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Avatars/Alexavatarnew.jpg" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/alexbannernew.jpg" alt="" border="0"></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_567">
+									« <i>Last Edit: August 07, 2010, 12:01:08 AM by Celtic Fiddle Chick</i> »
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg568"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=44" title="View the profile of lovelycherylwinner">lovelycherylwinner</a></b>
+							<div class="smalltext">
+								Newbie<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 18<br>
+								<br>
+								
+								
+								
+								<br>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg568#msg568"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_568">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg568#msg568">Re: My Alex Creations</a>
+									</div>
+									<div class="smalltext">« <b>Reply #1 on:</b> January 22, 2010, 03:24:56 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">You describe Alex perfectly. The grace of a woman with heart and compasion. The beauty of both the outside of great looks but the inside of being a great person. And the perfection of being of being Alex and for one never seeing her want to change the person she is. A great voice and an even better person. CW has given her the stage and forum to bring so much joy to the world <img src="http://alexsharpeforum.org/Smileys/default/cheesy.gif" alt="Cheesy" border="0"> <img src="http://alexsharpeforum.org/Smileys/default/cry.gif" alt="Cry" border="0"> <img src="http://alexsharpeforum.org/Smileys/default/cry.gif" alt="Cry" border="0"></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_568">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg605"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg605#msg605"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_605">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg605#msg605">Re: My Alex Creations</a>
+									</div>
+									<div class="smalltext">« <b>Reply #2 on:</b> January 27, 2010, 12:55:55 AM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Well thank you. I did a whole set for those wallpapers for every member and it does describe every one of them perfectly.</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_605">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg614"></a><a name="new"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=4" title="View the profile of mpdallen">mpdallen</a></b>
+							<div class="smalltext">
+								Administrator<br>
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/staradmin.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/staradmin.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/staradmin.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/staradmin.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/staradmin.gif" alt="*" border="0"><br>
+								Posts: 130<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/avatars/cwavatars/alex4_av.jpg" alt="" class="avatar" border="0"></div><br>
+								Integrity<br>
+								<br>
+								
+								
+								
+								<br>
+								<a href="mailto:mpdallen@comcast.net"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg614#msg614"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_614">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg614#msg614">Re: My Alex Creations</a>
+									</div>
+									<div class="smalltext">« <b>Reply #3 on:</b> January 30, 2010, 11:55:05 AM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Destiny,<br><br>Beautiful art work and equally beautiful description of Alex. Thank you.<br><br>lovelycherylwinner,<br><br>I see you too have been taken by the beauty of Alex; the beauty that can be seen and the beautiful spirit that lives inside her. What a joy it is to see this lady perform as her light shines so brightly; and then to meet her in person and feel the beauty she possesses inside her is manifest for all to see and feel.<br><br>How beautiful this is.<br><br>Jim</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_614">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://img504.imageshack.us/img504/5955/jimbannerpx6.jpg" alt="" border="0"><br>If you promise to send me a song.........</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg625"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=44" title="View the profile of lovelycherylwinner">lovelycherylwinner</a></b>
+							<div class="smalltext">
+								Newbie<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 18<br>
+								<br>
+								
+								
+								
+								<br>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg625#msg625"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_625">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg625#msg625">Re: My Alex Creations</a>
+									</div>
+									<div class="smalltext">« <b>Reply #4 on:</b> January 31, 2010, 03:00:56 AM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Yeah she is beautiful on the outside but even more on the inside. She looks like she has a heart and soul bigger than most in the world today. It is such a great honor and privlage to be a big fan of hers and the other ladies.<br><br>Steven M.</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_625">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg645"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg645#msg645"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_645">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg645#msg645">Re: My Alex Creations ~Updated 1.31.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #5 on:</b> January 31, 2010, 10:25:17 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post"><a href="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/Alex-Youllbeinmyheart.jpg" target="_blank">http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/Alex-Youllbeinmyheart.jpg</a><br><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/Alex-Youllbeinmyheart.jpg" alt="" border="0"></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_645">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg648"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=13" title="View the profile of Moscapoet">Moscapoet</a></b>
+							<div class="smalltext">
+								Media liaison<br>
+								Hero Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><br>
+								Posts: 547<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=3;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="mailto:moscapoet@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg648#msg648"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_648">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg648#msg648">Re: My Alex Creations ~Updated 1.31.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #6 on:</b> February 01, 2010, 06:22:01 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Nice!!! You'll be in all our hearts too, Alex!</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_648">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://img19.imageshack.us/img19/4134/alexmaireadcopy.jpg" alt="" border="0"><br>Thanks Alexa!</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg867"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg867#msg867"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_867">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg867#msg867">Re: My Alex Creations ~Updated 3.19.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #7 on:</b> March 19, 2010, 11:38:32 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Here is a new updated version of the first Grace, Beauty, Perfection that I did of Alex. I wanted something better and updated.<br><br><a href="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/AlexGBP2copy.jpg" target="_blank">http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/AlexGBP2copy.jpg</a><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/AlexGBP2copy.jpg" alt="" border="0"></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_867">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg869"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=13" title="View the profile of Moscapoet">Moscapoet</a></b>
+							<div class="smalltext">
+								Media liaison<br>
+								Hero Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><br>
+								Posts: 547<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=3;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="mailto:moscapoet@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg869#msg869"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_869">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg869#msg869">Re: My Alex Creations ~Updated 3.19.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #8 on:</b> March 20, 2010, 01:51:50 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Sigh. Very nice. Thank you.</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_869">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://img19.imageshack.us/img19/4134/alexmaireadcopy.jpg" alt="" border="0"><br>Thanks Alexa!</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1245"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg1245#msg1245"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1245">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg1245#msg1245">Re: My Alex Creations ~Updated 3.19.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #9 on:</b> May 09, 2010, 10:52:47 AM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Wallpapers/AlexBlue.jpg" alt="" border="0"></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1245">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1246"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=13" title="View the profile of Moscapoet">Moscapoet</a></b>
+							<div class="smalltext">
+								Media liaison<br>
+								Hero Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/stargmod.gif" alt="*" border="0"><br>
+								Posts: 547<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=3;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="mailto:moscapoet@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg1246#msg1246"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1246">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg1246#msg1246">Re: My Alex Creations ~Updated 5.9.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #10 on:</b> May 09, 2010, 02:46:04 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">She has such an amazing smile, and with her eyes too!</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1246">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://img19.imageshack.us/img19/4134/alexmaireadcopy.jpg" alt="" border="0"><br>Thanks Alexa!</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1539"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg1539#msg1539"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1539">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg1539#msg1539">Re: My Alex Creations ~Updated 5.28.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #11 on:</b> May 28, 2010, 04:08:01 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">This is a direct screen shot from You Raise Me Up, just after Lisa thanks the audience. All I did was add her name.<br><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexgraphic1.jpg" alt="" border="0"><br><br>Here is a bit fancier one.<br><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexgraphic2.jpg" alt="" border="0"><br><br></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1539">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1540"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=54" title="View the profile of BeckyW">BeckyW</a></b>
+							<div class="smalltext">
+								Newbie<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 41<br>
+								<br>
+								
+								
+								
+								<br>
+								<a href="mailto:bwilson@hamiltoncom.net"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg1540#msg1540"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1540">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg1540#msg1540">Re: My Alex Creations ~Updated 5.28.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #12 on:</b> May 28, 2010, 04:20:18 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Pretty.</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1540">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1541"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=15" title="View the profile of Celtic Fiddle Chick">Celtic Fiddle Chick</a></b>
+							<div class="smalltext">
+								Full Member<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 127<br>
+								<br>
+								<div style="overflow: auto; width: 100%;"><img src="http://alexsharpeforum.org/index.php?action=dlattach;attach=32;type=avatar" alt="" class="avatar" border="0"></div><br>
+								
+								
+								
+								<br>
+								<a href="http://violin-poet.deviantart.com/" title="deviantART" target="_blank"><img src="http://alexsharpeforum.org/Themes/impulse11/images/www_sm.gif" alt="WWW" border="0"></a>
+								<a href="mailto:irelandlily@gmail.com"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg1541#msg1541"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1541">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg1541#msg1541">Re: My Alex Creations ~Updated 5.28.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #13 on:</b> May 28, 2010, 05:05:46 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Here is the final installment of my CD covers. Sadly, I was not able to get it finished before hearing Alex was leaving CW. Hopefully she will have a CD in the future.<br><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/AlexCDCover.jpg" alt="" border="0"></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1541">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="signature"><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Celtic%20Woman/Banners/Alexbannerbluegreen.png" alt="" border="0"><br><img src="http://i238.photobucket.com/albums/ff83/BlackRaevyn/Sharpie_Addict_by_MentalArtistMel.png" alt="" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1542"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tbody><tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://alexsharpeforum.org/index.php?action=profile;u=54" title="View the profile of BeckyW">BeckyW</a></b>
+							<div class="smalltext">
+								Newbie<br>
+								<img src="http://alexsharpeforum.org/Themes/impulse11/images/star.gif" alt="*" border="0"><br>
+								Posts: 41<br>
+								<br>
+								
+								
+								
+								<br>
+								<a href="mailto:bwilson@hamiltoncom.net"><img src="http://alexsharpeforum.org/Themes/impulse11/images/email_sm.gif" alt="Email" title="Email" border="0"></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tbody><tr>
+								<td valign="middle"><a href="http://alexsharpeforum.org/index.php?topic=156.msg1542#msg1542"><img src="http://alexsharpeforum.org/Themes/impulse11/images/post/xx.gif" alt="" border="0"></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1542">
+										<a href="http://alexsharpeforum.org/index.php?topic=156.msg1542#msg1542">Re: My Alex Creations ~Updated 5.28.10~</a>
+									</div>
+									<div class="smalltext">« <b>Reply #14 on:</b> May 28, 2010, 05:33:00 PM »</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></tbody></table>
+							<hr width="100%" size="1" class="hrcolor">
+							<div class="post">Let's hope so.</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tbody><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1542">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://alexsharpeforum.org/Themes/impulse11/images/ip.gif" alt="" border="0">
+									Logged
+								</td>
+							</tr></tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td></tr>
+		</tbody></table>
+	</td></tr>
+	<tr><td style="padding: 0 0 1px 0;"></td></tr>
+</tbody></table>
+<a name="lastPost"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="middletext">Pages: [<b>1</b>] <a class="navPages" href="http://alexsharpeforum.org/index.php?topic=156.15">2</a> </td>
+		<td align="right" style="padding-right: 1ex;">
+			<table cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					
+		<td class="oldmenu"><a href="http://alexsharpeforum.org/index.php?action=printpage;topic=156.0" target="_blank">Print</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript" src="http://alexsharpeforum.org/Themes/default/xml_topic.js"></script>
+<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+	quickReplyCollapsed = true;
+
+	smf_topic = 156;
+	smf_start = 0;
+	smf_show_modify = 1;
+
+	// On quick modify, this is what the body will look like.
+	var smf_template_body_edit = '<div id="error_box" style="padding: 4px; color: red;"></div><textarea class="editor" name="message" rows="12" style="width: 94%; margin-bottom: 10px;">%body%</textarea><br /><input type="hidden" name="sc" value="9fdf720c1c936cfd62c86c9859f43923" /><input type="hidden" name="topic" value="156" /><input type="hidden" name="msg" value="%msg_id%" /><div style="text-align: center;"><input type="submit" name="post" value="Save" onclick="return modify_save(\'9fdf720c1c936cfd62c86c9859f43923\');" accesskey="s" />&nbsp;&nbsp;<input type="submit" name="cancel" value="Cancel" onclick="return modify_cancel();" /></div>';
+
+	// And this is the replacement for the subject.
+	var smf_template_subject_edit = '<input type="text" name="subject" value="%subject%" size="60" style="width: 99%;"  maxlength="80" />';
+
+	// Restore the message to this after editing.
+	var smf_template_body_normal = '%body%';
+	var smf_template_subject_normal = '<a href="http://alexsharpeforum.org/index.php?topic=156.msg%msg_id%#msg%msg_id%">%subject%</a>';
+	var smf_template_top_subject = "Topic: %subject% &nbsp;(Read 425 times)"
+
+	if (window.XMLHttpRequest)
+		showModifyButtons();
+// ]]></script>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="margin-bottom: 1ex;">
+		<tbody><tr>
+				<td valign="top" align="right" class="nav"> <a href="http://alexsharpeforum.org/index.php?topic=156.0;prev_next=prev#new">« previous</a> <a href="http://alexsharpeforum.org/index.php?topic=156.0;prev_next=next#new">next »</a></td>
+		</tr>
+</tbody></table>
+	<table cellpadding="0" cellspacing="0" border="0" style="margin-left: 1ex;">
+		<tbody><tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody></table>
+</form>
+<div class="tborder"><div class="titlebg2" style="padding: 4px;" align="right">
+	<form action="http://alexsharpeforum.org/index.php" method="get" accept-charset="ISO-8859-1" style="padding:0; margin: 0;">
+		<span class="smalltext">Jump to:</span>
+		<select name="jumpto" id="jumpto" onchange="if (this.selectedIndex > 0 &amp;&amp; this.options[this.selectedIndex].value) window.location.href = smf_scripturl + this.options[this.selectedIndex].value.substr(smf_scripturl.indexOf('?') == -1 || this.options[this.selectedIndex].value.substr(0, 1) != '?' ? 0 : 1);">
+			<option value="">Please select a destination:</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="#2">Important News</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=12.0"> =&gt; Forum Rules (Decorum)</option>
+			<option value="?board=13.0"> =&gt; News  Information and Updates</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="#3">Alex Sharpe</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=14.0"> =&gt; Alex Sharpe  </option>
+			<option value="?board=11.0"> =&gt; Letters to Alex</option>
+			<option value="?board=10.0"> =&gt; On Tour (Celtic Woman)</option>
+			<option value="?board=9.0"> =&gt; Show Reviews</option>
+			<option value="?board=8.0" selected="selected"> =&gt; Alex Sharpe Artwork</option>
+			<option value="?board=7.0"> =&gt; Celtic Woman</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="#1">Off topic</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=6.0"> =&gt; Photos and Artwork</option>
+			<option value="?board=5.0"> =&gt; Members Help</option>
+			<option value="?board=4.0"> =&gt; Fun Post Section</option>
+			<option value="?board=3.0"> =&gt; Irish Culture</option>
+			<option value="?board=2.0"> =&gt; New Members</option>
+			<option value="?board=1.0"> =&gt; Off Topic</option>
+		</select>&nbsp;
+		<input type="button" value="go" onclick="if (this.form.jumpto.options[this.form.jumpto.selectedIndex].value) window.location.href = 'http://alexsharpeforum.org/index.php' + this.form.jumpto.options[this.form.jumpto.selectedIndex].value;">
+	</form>
+</div></div><br></div>
+			</div>
+		</div>
+	</div>
+	<div id="footersection">
+		<span class="left"></span>
+		<span class="right"></span>
+		<div class="content"><div id="copywrite">
+		<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="http://www.simplemachines.org/" title="Simple Machines Forum" target="_blank">Powered by SMF 1.1.5</a> | 
+<a href="http://www.simplemachines.org/about/copyright.php" title="Free Forum Software" target="_blank">SMF © 2006-2008, Simple Machines LLC</a>
+		</span><br><strong>imPulse</strong> theme by <a href="http://www.tinyportal.net">Bloc</a><br><strong>Alex Sharpe</strong> Layout by <a href="http://www.maireadforum.com/forum">Bluefire</a></div></div>
+	</div>
+	<div id="ajax_in_progress" style="display: none;">Loading...</div>
+</div>
+</body></html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- #BeginTemplate "/Templates/newcss.dwt" --><!-- DW6 --><head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="stylesheet" type="text/css" href="revstyle.css">
+<!-- #BeginEditable "doctitle" --> 
+<title>The New Way of Work</title>
+<!-- #EndEditable --> <!-- #BeginEditable "head" --> 
+<meta name="Description" content="There are many who are predicting that after this downturn in the economy the workplace will look different from the one we've known. Peter Weddle, a job board expert and writer on career topics sees a workplace with fewer permanent workers. ">
+<!-- #EndEditable --> 
+</head>
+<body>
+
+<div id="header"><form id="subscribe" method="post" action="http://www.aweber.com/scripts/addlead.pl">
+      <input type="hidden" name="meta_web_form_id" value="760894631">
+      <input type="hidden" name="meta_split_id" value="">
+      <input type="hidden" name="unit" value="lawyers">
+      <input type="hidden" name="redirect" value="http://www.aweber.com/form/thankyou_vo.html" id="redirect">
+      <input type="hidden" name="meta_redirect_onlist" value="">
+      <input type="hidden" name="meta_adtracking" value="">
+      <input type="hidden" name="meta_message" value="1">
+      <input type="hidden" name="meta_required" value="from">
+      <input type="hidden" name="meta_forward_vars" value="0">
+      
+    <div id="email"> 
+      <label for="email-field" class="overlabel">Email</label>
+      <input id="email-field" type="text" name="from" title="Email" value="" tabindex="1">
+    </div>
+      
+    <div id="name"> 
+      <label for="name-field" class="overlabel">Name</label>
+      <input id="name-field" type="name" name="name" title="Name" value="" tabindex="2">
+    </div>
+      
+    <div id="choose"> 
+      <legend><span><em>Choose One:</em></span></legend>
+      <input id="lawyers" type="radio" name="custom unit" value="Lawyers" class="text" tabindex="3">
+      <label for="lawyers">Lawyers</label>
+      <input id="career" type="radio" name="custom unit" value="Career Changers" class="text" tabindex="4">
+      <label for="career">Career Changers</label>
+    </div>
+      <div> 
+        <input type="submit" name="submit" value="Submit" tabindex="5">
+      </div>
+    </form> 
+  <h1><img src="subscribe.gif" alt="Parker Associates Practice Advisor and Career Coach" width="190" height="107"></h1><div id="center"><img src="titlehighlight.gif" alt="receive tips and articles in your inbox every month and plan for your success" width="340" height="107"> </div>
+  
+</div>
+<div id="container">
+<div id="leftcolumn"> 
+    <div id="navbar"> 
+      <ul>
+        <!-- #BeginEditable "navbar" --> 
+        <li><a href="index.html">Home</a></li>
+        <li><a href="attorneys.html">Attorneys</a></li>
+        <li><a href="attorneyoffer.html">Offers for Attorneys</a></li>
+        <li><a href="career.html">Career Changers</a></li>
+        <li><a href="careeroffer.html">Offers for Career Changers</a></li>
+        <li><a href="samples.html">Newsletters</a></li>
+        <li><a href="archives.html">Articles</a></li>
+        <li><a href="offers.html">Special Offer</a></li>
+        <li><a href="books.html">Books</a></li>
+        <li><a href="links.html">Web Resources</a></li>
+        <li><a href="parkerbio.html">About Parker Associates</a></li>
+        <li><a href="guestform.html">Contact Parker Associates</a></li>
+        <!-- #EndEditable -->
+      </ul>
+    </div>
+  <h2>Success Stories</h2>
+  <p><strong>Lawyer learns way to be her best self while launching her own law 
+    practice.</strong><br>
+      <a href="casestudy2.html">read about Faith's success</a></p>
+  <p><strong>Project Manager discovers the work environment that allows her to 
+    thrive.</strong><br>
+      <a href="casestudy4.html">read about Beth's success</a></p>
+	
+    <h3>Subscribe Today</h3>
+    <p><a href="samples.html">Join my mailing list today</a> to receive <em><strong>Road 
+      to Success</strong></em>, a newsletter and <em><strong>Parkerâ€™s Points</strong></em>, 
+      a top ten tips list, and tomorrow you will receive my gift to you - The 
+      TruValues Program, an assessment, that helps you to identify your values. 
+    </p>
+	
+  </div>
+<div id="page_title">
+    <h1><!-- #BeginEditable "pgtitle" -->Newsletter Articles<!-- #EndEditable --></h1>
+  </div>
+  <div id="maincontent"> <!-- #BeginEditable "body" --><b><i>The Road To Success<br>
+    June 2009</i></b> 
+    <h2>The New Way of Work</h2>
+    <p>There are many who are predicting that after this downturn in the economy 
+      the workplace will look different from the one we've known. Peter Weddle, 
+      a job board expert and writer on career topics sees a workplace with fewer 
+      permanent workers. </p>
+    <p>Weddle says that employers are hit with a depressed bottom line as well 
+      as rapid changes in customer tastes and needs. To respond to both in a cost 
+      effective way these employers see that they will need only a core of full 
+      time employees. He says that only the most talented workers will have those 
+      full time jobs. </p>
+    <p>Other workers will have short term project assignments and will be hired 
+      with the full understanding that the job ends on a particular date or at 
+      a specific occurrence. These too will be highly qualified and talented workers 
+      but they will have no guarantee from the company of long term employment. 
+    </p>
+    <p>If you would like to read the full article entitled <em><strong>Micro Careers</strong></em> 
+      you can <a href="http://www.weddles.com/seekernews/issue.cfm?Newsletter=246" target="_blank">read 
+      it on his website</a>.<br>
+      Use your current job search as a model for the future</p>
+    <p>Those of you who are unemployed right now are probably groaning at this 
+      prediction. Actually however some of the necessary steps in your current 
+      job search will help you in the future. The whole job search process is 
+      something you will need to get good at. Now is the time to:</p>
+    <ul>
+      <li> Take an inventory of your own skills and determine the ones that will 
+        be important in the future.</li>
+      <li> Use the company research you've done for your job search to understand 
+        the trends in your industry</li>
+      <li> Learn where the opportunities are and where they are likely to be in 
+        the future</li>
+      <li> Get additional training in skill areas you determine will be needed 
+        in the future</li>
+      <li> Build your network of contacts for current and future use </li>
+    </ul>
+    <h3>What changes will you have to make? </h3>
+    <p>How will this change impact you in the future? The majority of workers 
+      will have to do many job searches. This may mean having 10-15 job changes 
+      over the course of your work life. What will that mean for you in terms 
+      of:</p>
+    <ul>
+      <li> Learning new skills?</li>
+      <li> Paying for your training?</li>
+      <li> Saving for the future?</li>
+      <li> Understanding and using trending information?</li>
+      <li> Marketing and branding yourself?</li>
+      <li> Having Health Insurance? </li>
+    </ul>
+    <p>While the Weddle article puts these ideas into the present economy, I wrote 
+      an article similar to Peter's in 2001 entitled <em><strong>Your Career Is 
+      Your Business</strong></em>. <a href="samples9.html">You will find it here.</a> 
+      We have been moving slowly in this direction for the past 8 or 9 years. 
+      The economic downturn and the failure of many large well established companies 
+      makes this kind of change even more likely now. The time is right for this 
+      new way to work. Will you be ready? </p>
+    <!-- #EndEditable --></div>
+
+</div>
+<div id="footer"><span class="bottomnav"> <a href="attorneys.html">Attorneys</a> 
+  | <a href="attorneyoffer.html">Offers for Attorneys</a> | <a href="career.html">Career 
+  Changers</a> | <a href="careeroffer.html">Offers for Career Changers</a> 
+  | <a href="samples.html">Newsletters</a> | <a href="archives.html">Articles</a><br>
+  <a href="offers.html">Special Offer</a> | <a href="books.html">Books</a> | <a href="links.html">Web 
+  Resources</a> | <a href="parkerbio.html">About Parker Associates</a></span> 
+  | <a href="guestform.html">Contact Parker Associates</a><br>
+  <a href="index.html">Parker Associates</a> copyright © 1999-2009, all 
+  rights reserved<br>
+  <strong>Alvah Parker PO Box 562 Swampscott, MA 01907 &nbsp;781-598-0388</strong><br>
+  <a href="privacy.html">Privacy Statement</a><br>
+  <a href="http://www.menagerieweb.com">MenagerieWeb </a>
+  </div>
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-871069-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body><!-- #EndTemplate --></html>

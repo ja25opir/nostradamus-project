@@ -1,0 +1,271 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Anastacia - Official Website : Blog</title>
+    <meta name="description" content="Anastacia, official website">
+    <meta name="author" content="Hyperlaunch New Media - http://www.hyperlaunch.com">
+    <script type="text/javascript" src="/_assets/js/swfobject.js"></script>
+    <script type="text/javascript" src="/_assets/js/common.js"></script>
+	<script type="text/javascript" src="/libs/ajaxLib/XML/ObjTree.js"></script>
+	<script type="text/javascript" src="/libs/ajaxLib/Ajax/Ajax.js"></script>
+	<script type="text/javascript" src="/_assets/js/siteajax.js"></script>
+     	
+
+
+    <link href="/_assets/css/screen.css" rel="stylesheet" media="screen" type="text/css">
+    <!--[if lt IE 7.]>
+    	<link rel="stylesheet" type="text/css" media="screen" href="/_assets/css/ie6.css" />
+    <![endif]-->
+    
+    <script type="text/javascript">
+	
+		//<![CDATA[
+		var flashvars = {};
+		var params = {wmode: "transparent"}; 
+		swfobject.embedSWF("/_assets/swf/header2.swf", "flashHeader", "805", "275", "8","/_assets/swf/expressInstall.swf", flashvars, params);
+		//]]>
+	</script>
+	 <script type="text/javascript">
+	
+		//<![CDATA[
+		var flashvars2 = {};
+		var params2 = {wmode: "transparent"}; 
+		swfobject.embedSWF("/_assets/swf/mp3-player.swf", "headerMp3Player", "280", "22", "8","/_assets/swf/expressInstall.swf", flashvars2, params2);
+		//]]>
+	</script>
+    
+</head>
+<body class="blog">
+
+	<!-- Start container -->
+    <div id="container">
+   		<div id="headerBar">
+			<div id="headerLoginBox"> <a href="/members/" style="margin-right:5px">Login</a>|
+			<a href="/signup/" style="margin-right:5px">Signup</a> </div>
+			<div id="headerMp3Player"></div>
+		</div>
+    	<!-- Start header -->
+        <div id="header">
+        	<div id="flashHeader">
+            	<h1>Anastacia - Official Website : Blog</h1>
+            </div>
+        </div>
+        <!-- Close header -->
+        
+        <!-- Start nav -->
+        <div id="nav">
+             <ul>
+                <li id="home"><a href="/" title="Home"><span>Home</span></a></li>
+                <li id="news"><a href="/news" title="News"><span>News</span></a></li>
+                <li id="blog"><a href="/blog" title="Blog"><span>Blog</span></a></li>
+                <li id="gigs"><a href="/gigs" title="Perfomances"><span>Perfomances</span></a></li>
+                <li id="biography"><a href="/biography" title="Biography"><span>Biography</span></a></li>
+                <li id="discography"><a href="/discography" title="Discography"><span>Discography</span></a></li>
+                <li id="tv"><a href="/tv" title="Anastacia TV"><span>Anastacia TV</span></a></li>
+                <li id="forum"><a href="http://forum.anastacia.com/" target="_blank" title="Forum"><span>Forum</span></a></li>
+                <li id="gallery"><a href="/gallery" title="Gallery"><span>Gallery</span></a></li>
+                <li id="members"><a href="/members" title="Members"><span>Members</span></a></li>
+                <li id="fanmap"><a href="/fanmap" title="Fanmap"><span>Fanmap</span></a></li>
+                <li id="shop"><a href="/shop" title="Shop"><span>Shop</span></a></li>
+                <li id="signup"><a href="/signup" title="Sign Up"><span>Sign Up</span></a></li>
+            </ul>
+      </div>
+      <!-- End nav -->
+        
+        <!-- Start Content -->
+        <div id="content">        	<h2 class="topHeading" id="blog-title"><span>Blog</span></h2>
+            
+            <!-- Start Left Content -->
+            <div id="contentLeft">
+            
+            	<!-- Start News List -->
+            	                <div class="contentItem ">
+                    <div class="contentItemArticle fullWidth">
+                    	<h4><a href="/blog/0-6/london-bound/0-6">London Bound</a></h4>
+                        <h5>Tue  7 Sep, 2010</h5>
+                        <p></p><p class="MsoPlainText" style="margin: 0cm 0cm 0pt">Hi Fan-ily</p>
+<p...< p> 
+                    </p...<></div>
+                                    </div>
+                                <div class="contentItem active">
+                    <div class="contentItemArticle fullWidth">
+                    	<h4><a href="/blog/0-6/back-home-for-now/0-6">Back Home.... For Now</a></h4>
+                        <h5>Tue 24 Aug, 2010</h5>
+                        <p></p><p class="MsoPlainText" style="margin: 0cm 0cm 0pt">Hi Fan-ily</p>
+<p...< p> 
+                    </p...<></div>
+                                    </div>
+                                <div class="contentItem ">
+                    <div class="contentItemArticle fullWidth">
+                    	<h4><a href="/blog/0-6/busy-week/0-6">Busy Week!</a></h4>
+                        <h5>Mon 23 Aug, 2010</h5>
+                        <p></p><p>Hi Fan-ily!!!!</p>
+It has been a whirlwind week!!!!
+&nbsp;
+It was a dream...<p></p> 
+                    </div>
+                                    </div>
+                                <div class="contentItem ">
+                    <div class="contentItemArticle fullWidth">
+                    	<h4><a href="/blog/0-6/a-long-overdue-hello/0-6">A Long Overdue Hello!!</a></h4>
+                        <h5>Fri 13 Aug, 2010</h5>
+                        <p></p><p class="MsoPlainText" style="margin: 0cm 0cm 0pt">Hi Fan-ily</p>
+<p...< p> 
+                    </p...<></div>
+                                    </div>
+                                <div class="contentItem ">
+                    <div class="contentItemArticle fullWidth">
+                    	<h4><a href="/blog/0-6/art-on-ice/0-6">Art On Ice</a></h4>
+                        <h5>Fri 12 Mar, 2010</h5>
+                        <p></p><p class="MsoNormal" style="margin: 0in 0in 0pt">Hi Fan-ily....
+
+I just finished...</p> 
+                    </div>
+                                    </div>
+                                <div class="contentItem ">
+                    <div class="contentItemArticle fullWidth">
+                    	<h4><a href="/blog/0-6/video-blog-here-come-the-girls/0-6">Video Blog - Here Come The Girls</a></h4>
+                        <h5>Tue 22 Sep, 2009</h5>
+                        <p></p><p>Hi  Fan-ily...
+
+Two videos of us three crazy ladies before our first on...</p> 
+                    </div>
+                                    </div>
+                                 <!-- End News List -->
+                 
+                  <!-- Start Paging Links -->
+                 <div id="pagingLinks">[«] prev | 1 |  <a href="/blog/6-12" class="user"> 2</a>  <a href="/blog/12-18" class="user"> 3</a>  <a href="/blog/18-24" class="user"> 4</a>  <a href="/blog/24-30" class="user"> 5</a>  <a href="/blog/30-36" class="user"> 6</a> | <a href="/blog/6-12" class="user">next</a> [<a href="/blog/30-36" class="user">»</a>]</div>
+                  <!-- End Paging Links -->
+ 
+            </div>
+            <!-- Close Left Content -->
+            
+             <!-- Start Right Content -->
+            <div id="contentRight" class="contentItemFull">
+            	                  <h4>Back home.... for now</h4>
+                    <h5>Tue 24 Aug, 2010</h5>
+                    <p class="MsoPlainText" style="margin: 0cm 0cm 0pt">Hi Fan-ily</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">Ohhhhh Boy, what a work trip I have had over these past six weeks!!! I am still buzzing with happiness as I reflect back on this time.....</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">I am at the airport awaiting my flight back to LA and wanted to say hello to everyone!!!</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">I had such a great time being a judge on the TV show and hope there will be another one in the future.....</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">I won't be home for long though.....((-:</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">I will be heading back to the UK to do some promo in Sept for Here Come The Girls!!!!</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">Yesssss, it is indeed true, the Diva's are heading back to do another round of UK dates!!!! Lulu and I are so blessed to have a new sista to work with, Heather Small who is amazing!!!!! </p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">We will surely have a great show with us three ladies!!!</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">I can't wait to see familiar faces again!!! It was a treat and a tease to see so many of you at the portugal gig....I hope I will see a bunch of you in Athens for the Eurovoice show!!!! As well as perhaps the Cypress show....((((-:</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">I adore all of you and thank you again for filling my heart with your unconditional love and support!!!</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt">xoAnastacia</p>
+<p>&nbsp;</p> 
+                    
+                  <h6 class="underlined">Comments (22) </h6>
+				  <!--login panel start-->
+				  	<form method="post" autocomplete="off">
+								  <div id="col1">
+					<label for="username">User name</label>
+					 <input name="username" type="text" style="width:200px;">
+					<label for="password">Password</label>
+					<input name="password" type="password" style="width:200px;">
+                    <p><a href="/forgottenPassword">Forgotten your password?</a></p>
+				  </div>
+				  <div id="col2">
+					<input type="submit" class="login" id="loginButton" value="">
+					 <input name="action" type="hidden" value="login">
+					<span class="red"></span>
+				  </div>
+                   
+				</form>				<!--login panel end-->
+				   <div id="usercomments">
+				    
+ <div class="newsCommentItem">
+  <p><strong>http://www.youtube.com/watch?v=rur5wKoua1o&amp;feature=rec-LGOUT-exp_stron ger_r2-2r-2-HM</strong></p>
+  <p>Posted by 
+		papoila
+	 on Fri 17 Sep, 2010</p>
+	</div> 
+<hr>
+ 
+ <div class="newsCommentItem">
+  <p><strong>i really cant wait to see you live in Athens!! i hope youll sing many songs!!!</strong></p>
+  <p>Posted by 
+		dontdarewatch
+	 on Sun 12 Sep, 2010</p>
+	</div> 
+<hr>
+ 
+ <div class="newsCommentItem">
+  <p><strong>Good ole USofA doesnt know what they are missing.  Im amazed they haven't picked up on you talent.  </strong></p>
+  <p>Posted by 
+		FaithnHim
+	 on Mon 06 Sep, 2010</p>
+	</div> 
+<hr>
+ 
+ <div class="newsCommentItem">
+  <p><strong>Hey!!!!!!!!!  It's soooo nice to read your blogs!!! I can't get to Athens for the show :-( But where and when will you ben in Cyprus?  I'm always going to and from cyprus, (I'm Greek Cypriot) my dad was born there as were all my grandparents so I've got lots of family out there so I go there a lot! It would be really nice to see you performing in South Cyprus.....maybe Limassol....Paphos or Larnaca?? That would be amazing!!!!!!!!!!! PLEASE!!!!!!!!!!!!!  Love Anna  xxxxxx</strong></p>
+  <p>Posted by 
+		Freak86
+	 on Mon 06 Sep, 2010</p>
+	</div> 
+<hr>
+ 
+ <div class="newsCommentItem">
+  <p><strong>since the five years that I hear, since that day I fell in love with your sweet voice, I thought you were the best, and I still find it, I think you're a nice girl, beautiful, lovely, darling, and a girl with a enormous talent, your oz makes my heart beat, makes a sparkle in my eyes, And of course it makes me dance, I ...think we have something in common that can unite in any way, the music, you are very special to me, You are a very big part of my life, if I write songs I write about you, and sing just for you ... I love you Anastacia Lyn Newton
+for you:just My life
+Love you ! SORRY FOR ASWK you can give me you mail?</strong></p>
+  <p>Posted by 
+		Beatriz pires
+	 on Thu 02 Sep, 2010</p>
+	</div> 
+<hr>
+ 
+ <div class="newsCommentItem">
+  <p><strong>Dear Ana, every ticket was already sold before the official ticket selling. no chance for honest fans like me, I m so sad and disapointed! sad day cause it was a big wish to meet you in Basel! Love you fan xxx</strong></p>
+  <p>Posted by 
+		fanxxx
+	 on Wed 01 Sep, 2010</p>
+	</div> 
+<hr>
+[«] prev | 1 |  <a href="/blog/0-6/back-home-for-now/6-12" class="user"> 2</a>  <a href="/blog/0-6/back-home-for-now/12-18" class="user"> 3</a>  <a href="/blog/0-6/back-home-for-now/18-24" class="user"> 4</a> | <a href="/blog/0-6/back-home-for-now/6-12" class="user">next</a> [<a href="/blog/0-6/back-home-for-now/18-24" class="user">»</a>]
+
+
+
+                   </div>
+				                     
+          </div>
+            <!-- Close Right Content -->
+
+ <!-- Start Footer -->
+            <div id="footer">
+            	<p>© The Island Def Jam Music Group, a division of UMG Recordings,
+Inc.  | <a href="http://www.umusic.co.uk/privacy.html" target="_blank">Privacy Policy</a></p> 
+
+                <span><img src="/_assets/images/common/universal-logo.gif" alt="Universal"></span>
+               <span><img src="/_assets/images/common/octagon-logo.gif" alt="Octagon"></span>
+          </div>
+            <!-- Close Footer -->
+            
+        
+        </div>
+        <!-- Close Content -->
+        
+    </div>
+    <!-- Close container -->
+    
+    
+    <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-2041617-38");
+	pageTracker._trackPageview();
+	</script>
+    
+
+
+ </body></html>

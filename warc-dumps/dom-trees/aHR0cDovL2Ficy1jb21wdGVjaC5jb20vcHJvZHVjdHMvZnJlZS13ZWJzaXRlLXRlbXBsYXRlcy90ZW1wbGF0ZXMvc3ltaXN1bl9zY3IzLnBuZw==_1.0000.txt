@@ -1,0 +1,892 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Computer networking, security and consulting - ABS Computer Technology, Inc.</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="icon" type="image/vnd.microsoft.icon" href="http://www.ABS-CompTech.com/favicon.ico">
+<script language="JavaScript" src="/mm_Image.js" type="text/JavaScript"></script>
+<link href="/global.css" rel="stylesheet" type="text/css">
+<link href="/testiment.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="generator" content="WebGUI 7.8.23"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Content-Style-Type" content="text/css"><script type="text/javascript">function getWebguiProperty (propName) {var props = new Array();props["extrasURL"] = "/extras/";props["pageURL"] = "/index.htm";props["firstDayOfWeek"] = "0";return props[propName];}</script><meta content="identity theft protection,protection from identity theft,pc security,identity theft solutions" name="keywords">
+<meta name="keywords" content="comupter networking, computer networking online, networking online, consulting services, consulting services online, email online, email services online, internet online, internet services, internet services online, security online, security services, security services online, email solutions, email solutions online, internet solutions, internet solutions online, security solutions, security solutions online, secure solutions, secure solutions online, secure services, secure services online, consulting services website, consulting services website online, best computer networking, best computer networking online, best email solutions, quality internet solutions online, email networking California, email networking Nevada, email networking Pittsburgh, email networking Texas, email networking USA, computer networking online California, computer networking Nevada, computer networking Pittsburgh, computer networking Texas, computer networking USA, security solutions online California, security solutions online Nevada, security solutions online Pittsburgh, security solutions online Texas, security solutions online USA">
+<meta name="description" content="Get the best email, internet and security solutions online at affordable prices. A whole range of solutions online now to keep yourself secure. A quality website offering you the best services online in California, Nevada, Pittsburgh, Texas and USA.">
+<meta name="author" content="Albert E. Whale, CHS CISA CISSP">
+<meta name="revisit-after" content="5 days">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="verify-v1" content="GvvK2IyfjUVxOtKxRaue7Qs9Kfbwe24hy0o+aPmbeg0=">
+<meta name="y_key" content="c3d6bd9e22c15d5d">
+<meta name="msvalidate.01" content="2769E87B11C1D7E75B20C86F64EB1BFC"><link href="/layout.css" rel="stylesheet" type="text/css"><!--page layout-->
+<link href="/home/headlines/news?func=viewRss" rel="alternate" title="Headlines (RSS)" type="application/rss+xml">
+<link href="/home/headlines/news?func=viewAtom" rel="alternate" title="Headlines (Atom)" type="application/atom+xml">
+
+<style type="text/css">
+.pagination {
+	-moz-box-sizing:border-box;
+	background:#676767;
+	color:#C0C0C0;
+	width:100%;
+	text-align:right;
+	padding:3px;
+	font-size:9pt;
+	font-family:arial;
+}
+.pagination a {
+	color:white;
+	font-size:8pt;
+	text-decoration:underline;
+}
+
+.pagination a:hover {
+	text-decoration:none;
+}
+
+.weblogTitleBar {
+	font-weight: bold;
+	font-size: 14px;
+	font-family:arial;
+}
+
+.weblogLegend {
+	font-size: 9px;
+	color: #999999;
+	font-family:arial;
+}
+
+.weblogLegend a
+{
+	color:#29587E;
+}
+
+.weblogReadMore {
+	text-align: right;
+	font-size: 9px;
+	width: 100%;
+	font-family:arial;
+}
+
+.weblogSynopsis {
+	border: 1px solid #bbbbbb;
+	font-size: 13px;
+	padding: 5px;
+	-moz-border-radius: 6px;
+	font-family:arial;
+}
+</style>
+
+<link href="/navigation.css" type="text/css" rel="stylesheet"><meta http-equiv="Cache-Control" content="must-revalidate">
+<link href="/mylayout.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<!--DWLayoutTable-->
+<!-- fwtable fwsrc="ABS2.png" fwbase="ABS2_index.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="1" -->
+  <tbody><tr>
+   <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000066">
+     <!--DWLayoutTable-->
+          <tbody><tr>
+           <td width="795" height="62"><img name="LOGO" src="/uploads/u3/-i/u3-i_Auz-B6JEfRhDStzoQ/LOGO.jpg" width="795" height="62" border="0" alt=""></td>
+           <td width="100%" valign="top"><img name="header_BG" src="/uploads/Zs/4O/Zs4OVKmOZeFPaHAjUN_PfA/header_BG.jpg" width="5" height="62" border="0" alt=""></td>
+           </tr><tr><td height="1"><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="795" height="1"></td><td></td></tr>
+        </tbody></table></td>
+  </tr>
+  <tr>
+   <td colspan="2" bgcolor="#CCCCCC"><!--DWLayoutEmptyCell-->&nbsp; </td>
+  </tr>
+  <tr>
+   <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000066"><!--DWLayoutTable-->
+          <tbody><tr>
+           <td><a href="/index.htm"><img src="/uploads/GA/2k/GA2kjtloaMvSafH-poTOFQ/about_up.jpg" name="Image17" width="150" height="31" border="0" alt="Home of ABS Computer Technoloogy, Linux and Security Consultants"></a></td>
+           <td><a href="/network.htm"><img src="/uploads/Qr/xb/QrxbEurP_rkTnjT8eifyow/network_up.jpg" name="Image18" width="150" height="31" border="0" alt="Network Security solutions from our security experts"></a></td>
+           <td><a href="/security.htm"><img src="/uploads/ZX/rI/ZXrIChgWgwPBrQhiRvZU9w/security_up.jpg" name="Image19" width="150" height="31" border="0" alt="Security solutions for Internet and Network technologies"></a></td>
+           <td><a href="/services.htm"><img src="/uploads/HV/AA/HVAA5v-1Gdub-lZKzc3LVA/services_up.jpg" name="Image20" width="150" height="31" border="0" alt="Some of our services for Linux, security, and hosting"></a></td>
+           <td><a href="/contact.htm"><img src="/uploads/W6/Xd/W6XdTxtlEke4y71cO2C0OQ/contact_up.jpg" name="Image21" width="150" height="31" border="0" alt="Contact us"></a></td>
+           <td><img name="ABS2_index_r3_c6" src="/uploads/D6/rf/D6rfljXaf0rEKfcYogz23Q/ABS2_index_r3_c6.jpg" width="45" height="31" border="0" alt=""></td>
+           <td width="100%" bgcolor="#999999"><img name="ABS2_index_r3_c7" src="/uploads/xf/jw/xfjwOoZ47snuTpiatiZYRw/subheader_BG.jpg" width="5" height="31" border="0" alt=""></td>
+          </tr><tr><td height="1"><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="150" height="1"></td><td><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="150" height="1"></td><td><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="150" height="1"></td><td><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="150" height="1"></td><td><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="150" height="1"></td><td><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="45" height="1"></td><td></td></tr>
+        </tbody></table></td>
+  </tr>
+  <tr>
+   <td height="100%" colspan="2" valign="top"><table border="0" cellpadding="10" cellspacing="0" width="1050"><!--DWLayoutTable-->
+ <tbody>
+ <tr><td colspan="2" cellpadding="10" cellspacing="0" width="450"><div id="nav3c19dabf4d34d34d34d34d34d34d34d35" class="nav crumbTrail">
+
+<a name="idPBnav00000000000000001" id="idPBnav00000000000000001"></a>
+
+
+
+
+
+
+
+
+	<span class="menu">
+	
+		<a href="/index.htm">Home</a>
+	
+	</span>
+
+
+<!--/nav3c19dabf4d34d34d34d34d34d34d34d35 /nav crumbTrail-->
+</div>
+</td><td> </td></tr>
+ <tr><td width="150" valign="top" bgcolor="F6F6F6">
+        <!-- Start Nav -->
+        <p><strong><span class="maintxt">
+<script language="JavaScript" src="/date.js" type="text/JavaScript"></script>
+        </span></strong></p>
+
+<!-- Left Menu panel -->
+<div align="left" class="LeftNav">
+
+<div id="navigationb10cfb5b00935942e8a0c28b8374424d" class="navigation indentMenu">
+
+<a name="idsQz7WwCTWULooMKLg3RCTQ" id="idsQz7WwCTWULooMKLg3RCTQ"></a>
+
+
+
+
+
+
+		
+<span class="menu">
+	
+		<a href="/index.htm" class="level0 current">Home</a>
+	
+		<a href="/sitemap.htm" class="level1">Site Map</a>
+	
+		<a href="/headlines" class="level1">Headlines</a>
+	
+		<a href="/glossary" class="level1">Glossary</a>
+	
+		<a href="/contact.htm" class="level1">Contact Us</a>
+	
+		<a href="/search" class="level1">Search</a>
+	
+		<a href="/websites.htm" class="level1">Customers</a>
+	
+		<a href="/links" class="level1">links</a>
+	
+		<a href="/index/help" class="level1">Help</a>
+	
+		<a href="/index/municipalities" class="level1">Municipalities</a>
+	
+		<a href="/index/white-hats" class="level1">White Hats</a>
+	
+		<a href="/library.htm" class="level0">Library</a>
+	
+		<a href="/hosting" class="level0">Hosting</a>
+	
+		<a href="/network.htm" class="level0">Network</a>
+	
+		<a href="/products" class="level0">Products</a>
+	
+		<a href="/security.htm" class="level0">Security</a>
+	
+		<a href="/services.htm" class="level0">Services</a>
+	
+		<a href="/training.htm" class="level0">Training</a>
+	
+		<a href="/free-offers/free-offers" class="level0">Free Offers</a>
+	
+		<a href="/index/shop" class="level0">Shop</a>
+	
+</span>
+
+<!--/navigationb10cfb5b00935942e8a0c28b8374424d /navigation indentMenu-->
+</div>
+
+<br><br></div>
+
+<div align="center">
+<div class="loginBox">
+
+	<form action="/index.htm" enctype="multipart/form-data" method="post"><div class="formContents"><input type="hidden" name="webguiCsrfToken" value="PqtlDdnVn2FizjsdY8nAdw">
+<input type="hidden" name="op" value="auth">
+<input type="hidden" name="method" value="login">
+
+             <label for="username_formId">Username</label><br>
+             <input id="username_formId" type="text" name="username" value="" size="11" maxlength="255" class="loginBoxField"><br>
+             <label for="identifier_formId">Password</label><br>
+             <input type="password" name="identifier" value="" size="11" id="identifier_formId" maxlength="35" class="loginBoxField"><br>
+             <input type="submit" value="login" class="loginBoxButton">
+	</div></form>
+
+
+	
+                        <p><a href="/index.htm?op=auth;method=createAccount">Click here to register.</a></p>
+		
+
+</div>
+
+
+
+
+</div><br><br>
+<!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=aewhale"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=aewhale"></script>
+<!-- AddThis Button END -->
+<br>
+
+
+
+<p>&nbsp;</p>
+
+<div align="center"><a href="http://www.us-ca.org/PressReleaseUsca.aspx?cc=EEMQ-BT9K"><img src="http://www.ABS-CompTech.com/absimages/bestofpittsburgh.jpg" alt="Best of Pittsburgh Award for Systems Engineering Consulting" align="middle" width="140" border="0"></a></div>
+
+<p>&nbsp;</p>
+
+<div align="center"><a href="http://www.bbbonline.org/cks.asp?id=107050413199980" target="_blank"><img src="http://www.ABS-CompTech.com/images/bbbseal1.gif" alt="A Better Bureau Approved Company" align="middle" border="0"></a></div>
+<br>We are proud to be a Better Business Bureau Accredited Business.<br>
+<br>
+When you look to secure your business, start with an Accredited Business for your security needs.
+<p>&nbsp;</p>
+
+<!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="4a8ec59e-3d24-4a2a-b0fe-1ae4a74c6e00";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Credit Cards Online</a> </div>
+<p>&nbsp;</p>
+<div align="center"><a href="http://www.alexa.com/siteinfo/www.ABS-CompTech.com">
+<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.ABS-CompTech.com"></script>
+</a></div>
+<br>
+        <!-- End Nav -->
+      </td>
+    <td valign="top" width="900">
+      <table border="0" cellpadding="10" cellspacing="0" width="800"><!-- DWLayoutTable -->
+        <tbody><tr>
+
+<td width="850" rowspan="3" valign="top">
+  <div id="mainBodyContentContainer">
+<!-- Shell Content Area -->
+
+<div id="layoutebcb0ac0381ff5c187e7cfcd65c53896" class="layout rightcolumn">
+
+    <a name="id68sKwDgf9cGH58-NZcU4lg" id="id68sKwDgf9cGH58-NZcU4lg"></a>
+
+    
+
+    
+
+    
+        <div class="description">
+            <h2>Computer Consulting, Network and Internet Security, Spam Elimination, Web Hosting</h2>
+<p class="maintxt">Computer consulting is where we initially started.&nbsp; We built the first billing system for Independant Telephone Companies using a Database.&nbsp; We built the first Linux based ISP in Western PA.&nbsp; We have many more firsts, but our company is based on the needs of our customers.</p>
+<p class="maintxt">Our experience in Unix dates back to 1985, and we've been supporting Linux since 1993.&nbsp; Our Hosting Services (email &amp; web hosting), offer security as part of the service, not an add-on you pay more for.&nbsp; We are Open Source solution experts.</p>
+<p class="maintxt"> Call us today, and we'll get your project moving forward with experienced experts to support your project needs.</p>
+        <!--/description-->
+        </div>
+        
+    
+    <!-- begin position 1 -->
+    <div class="wg-content-position wg-first-column wg-left">
+        
+        
+
+        
+            
+
+            
+            <div id="article966c707083f662a63f117dbf78912925" class="article default">
+
+<a name="idlmxwcIP2YqY-EX2-eJEpJQ" id="idlmxwcIP2YqY-EX2-eJEpJQ"></a>
+
+
+
+
+	<h3>Repeat Performance</h3>
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p>We were just notified that ABS Computer Technology is a repeat recipient of the Best of Pittsburgh Award for 2010!&nbsp; In fact the US Commerce department has indictaed that&nbsp; less than 1% of the 2009 winners were repeat performers.</p>
+<p>We are truely honored.</p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article966c707083f662a63f117dbf78912925 /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="articlea8fdd9b5bc435f585150fd63e64c1115" class="article default">
+
+<a name="idqP3ZtbxDX1hRUP1j5kwRFQ" id="idqP3ZtbxDX1hRUP1j5kwRFQ"></a>
+
+
+
+
+	<h3>Best of Pittsburgh Award for 2009</h3>
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p class="maintxt">The <a title="Press Release about the 2009 Best of Pittsburgh Selection." href="https://www.us-ca.org/PressReleaseUsca.aspx?cc=EEMQ-BT9K">US Commerce Association</a> has awarded ABS Computer Technology, Inc. the Best of Pittsburgh award for Systems Engineering and Consulting.</p>
+<p class="maintxt">The USCA "Best of Local Business" Award Program recognizes outstanding local businesses
+                throughout the country. Each year, the USCA identifies companies that they believe
+                have achieved exceptional marketing success in their local community and business
+                category. These are local companies that enhance the positive image of small business
+                through service to their customers and community.
+            </p>
+<p class="maintxt">ABS promotes Security solutions for companies using our Best Practices, and established security solutions.&nbsp; Please feel free to <a title="Contact ABS for more information about our Security services and process." href="mailto:info@ABS-CompTech.com">contact us here</a> for information about how we can protect your business, both internally, and on the internet.</p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/articlea8fdd9b5bc435f585150fd63e64c1115 /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="article122ded1be78ebd3fa8a1f0df0f9b0fc7" class="article default">
+
+<a name="idEi3tG_eOvT_oofDfD5sPxw" id="idEi3tG_eOvT_oofDfD5sPxw"></a>
+
+
+
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p class="title" align="justify"><img src="/images/insert_top.gif" alt="business images" height="112" width="500"></p>
+<p>
+      <!--DWLayoutTable--></p>
+<p class="maintxt"><img src="/images/computer.jpg" alt="computers are insecure" align="left" height="142" width="142">ABS
+Computer Technology is an International leader for Linux and Unix
+Consulting Services in computer networking, internet security and systems
+technologies. We specialize in working with Small to Global Businesses
+(including ISPs), to support their Networking, Security and Management
+needs in local and global environments. Our Active Defense solutions
+enable better security, comply with Federal Business requirements, and
+protect the business from unwanted access, loss of customer data, and
+business reputation. <br>
+                  <br> We pride ourselves in
+providing specialized solutions for our customer's networking, Linux
+&amp; Unix Consulting, Security, IDS (intrusion detection systems), IPS (intrusion prevention system), self defending networks,
+enterprise management, systems administration, application development
+and deployment.<img src="/images/people.jpg" alt="business conference room" align="right" height="96" width="159"> Internet security and Internet solutions are our specialty. ABS is also the local expert for
+Systems Administration, Security, Networking, Administration,
+Performance and Capacity Planning, DNS, Web and Mail Services,
+SPAM/RELAY/UCE Rejection, Enterprise Security and Management solutions
+and Connectivity. When problems happen, we're the ones to call. ABS has
+significant experience in eliminating hackers, improving security, Database Administration, Linux Consulting,
+Unix Consulting, Networking, Email, Web Hosting, SEO and Forensics.<br>
+        <br>
+	Our <a href="http://www.spamzapper.us/" title="SpamZapper Email Security solutions">SpamZapper<sup>®</sup> Hosting and Filtering Solutions</a>
+has filtered more than 60 million connections, in just the last two
+years. Our email security &amp; spam filtering permits businesses to
+use Email for what it was originally designed for. To send and recieve email, not spam.&nbsp; Using our Internet security solutions, we are able to defend our networks, and clients from internet attacks.</p>
+<p class="maintxt">
+	<br> We also
+perform Unix Security, network scanning, penetration testing &amp;
+security assessments, risk reduction, enterprise management solutions, computer
+forensics, and consulting services. We are Open Source solution
+experts, and we treat Security (and our solutions) like they matter,
+because they do. After all, your identity is as important to you as our
+reputation for protecting it. <br>
+	<br>
+	Pennsylvania is just one of many states that have adopted a 
+	<a href="http://www2.legis.state.pa.us/WU01/LI/BI/BT/2005/0/SB0712P1410.pdf" title="PA Breach of Personal Information Notification Act" target="_deafult">Breach of Personal Information Notification Act</a>.  This Act 
+	requires organizations to 
+	notify it's customers when they have been compromised, and their
+	personal information has been lost or stolen, exposing them to
+	identity theft.  If you use the internet, Security is more than 
+	just an appliance or a firewall, it is essential.  We have the
+	experience necessary to evaluate, design, deploy 
+	and implement improved security solutions for your company.
+	<br><br>
+<a href="http://www.ABS-CompTech.com" title="ABS Computer Technology">ABS Computer Technology</a> - is the best website for keeping you secure for email, internet and security solutions online now at affordable prices. Giving you the best services in California, Nevada, Pittsburgh, Texas and USA.
+        <br><br>
+	We have solutions for Small, Regional, and Global organizations.
+	Protecting your environment before problems occur will more than 
+	pay for itself in lost time, revenue, intrusion reports, and other
+	problems.
+	<br>
+        <br>
+        ABS Computer Technology, Inc. - We always provide "A Better Solution."</p>
+<p class="content"><span class="maintxt">ABS Computer Technology, Inc.<br>
+                  519 Nichols Road<br>
+                  Pittsburgh, PA 15237<br>
+                  Phone: 412-635-7488<br>
+                  Fax: 412-635-2546
+      </span> </p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article122ded1be78ebd3fa8a1f0df0f9b0fc7 /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="article9b76dd7f0e01e8179e462769d595ea41" class="article default">
+
+<a name="idm3bdfw4B6BeeRidp1ZXqQQ" id="idm3bdfw4B6BeeRidp1ZXqQQ"></a>
+
+
+
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p>A program like <a href="http://www.namescape.com">mypassword </a>will help your help desk eliminate password management issues.</p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article9b76dd7f0e01e8179e462769d595ea41 /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="article8f5b9281721bcbf3a301f05431c22493" class="article default">
+
+<a name="idj1uSgXIby-OjAfBUMcIkkw" id="idj1uSgXIby-OjAfBUMcIkkw"></a>
+
+
+
+
+	<h3>Is your PC Slow?</h3>
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p>If your PC is running slower than before, you may have been hit with Spyware, trojans and Viruses which your existing PC software cannont detect.&nbsp; </p>
+<p>Do you feel comfortable with the idea that Hacker may already have control of your personal information, or that they are waiting for you to use your On-line Banking so that they can capture your personal information?</p>
+<p>If this sounds like something that could be happening to you, then you need to get the solution we have been using for all of our customers.&nbsp; Click here -&gt; <a target="_blank" title="If your PC is Slow, it could already be in the control of Hackers." href="http://www.abs-comptech.com/products/solutions-for-you/slow-pc">Slow PC</a></p>
+<p>These tools were just used to free a PC which was using Norton Internet Security and McAfee Virus Scanner.&nbsp; On this PC we removed more than 1,000 objects which were caught by our Virus Scanner, Malware and Spyware scanner.&nbsp; The computer now runs faster than it has in more than 3 years!</p>
+<p><a target="_blank" title="You can speed upi your PC and eliminate the security threats today." href="http://www.abs-comptech.com/products/solutions-for-you/slow-pc">Speed up your PC</a>, today!</p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article8f5b9281721bcbf3a301f05431c22493 /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="article151bdf41581bc23cf6eb72ea34f0afb2" class="article default">
+
+<a name="idFRvfQVgbwjz263LqNPCvsg" id="idFRvfQVgbwjz263LqNPCvsg"></a>
+
+
+
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p>Please take a moment to bookmark our site (or add it to your favorites), so that you can find us again in the future.&nbsp; We have many helpful tools available for you in the Library section.</p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article151bdf41581bc23cf6eb72ea34f0afb2 /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="articlecff97af15ff8fb3efaa2123d0e81055c" class="article default">
+
+<a name="idz-l68V-4_z76ohI9DoEFXA" id="idz-l68V-4_z76ohI9DoEFXA"></a>
+
+
+
+
+	<h3>Linux Partnerships</h3>
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p>We are proud of our Partnerships with both <a title="Mandriva Software for Linux." href="http://www.Mandriva.com">Mandriva </a>and <a title="RedHat Software for Linux." href="http://www.RedHat.com">RedHat</a> software.</p>
+<p>When you are looking for support, look to ABS Computer Technology, Inc.&nbsp; We've been using Linux since 1993.&nbsp; Isn't it time that you've switched?</p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/articlecff97af15ff8fb3efaa2123d0e81055c /article default-->
+</div>
+
+
+            
+        
+            
+
+            
+            <div id="article87f2b853d003ef6d917f5bcbb66b6372" class="article default">
+
+<a name="idh-K4U9AD722Rf1vLtmtjcg" id="idh-K4U9AD722Rf1vLtmtjcg"></a>
+
+
+
+
+	<h3>Preventing Identity Theft</h3>
+
+
+<div class="articleContent">
+
+
+	<div class="description">
+		<p>Identity theft is one of the fastest growing problems on the Internet, and it can happen to someone you know.&nbsp; How often do you scan your PC for problems?&nbsp; </p>
+<p>Hackers perfect their craft, like the business that they have created.&nbsp; How often do you scan your PC?&nbsp; When you scan your PC, do you find any viruses?&nbsp; If you have found another virus, this is an indication of security problems which your current tools are not fixing.</p>
+<p>If you want better security to prevent identity theft from happening to you, <a title="Stop identity theft on your PC with our FREE Tools and step by step guide." href="http://www.abs-comptech.com/identity-theft-solution">get the "Ulitmate Guide to ID Theft Protection" today.<br></a></p>
+	<!--/description-->
+	</div>
+
+
+
+
+<!--/articlecontent-->
+</div>
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article87f2b853d003ef6d917f5bcbb66b6372 /article default-->
+</div>
+
+
+            
+        
+
+        
+
+    <!-- end position 1 -->
+    </div>
+
+    <!-- begin position 2 -->
+    <div class="wg-content-position wg-second-column wg-right">
+        
+        
+
+        
+            
+
+            
+            <a name="idpxS1HUdQCl_EVCKdUYEw7Q" id="idpxS1HUdQCl_EVCKdUYEw7Q"></a>
+
+
+
+<a name="idZYK4DIVrhV0zzoyZzBG9JQ" id="idZYK4DIVrhV0zzoyZzBG9JQ"></a>
+
+
+
+
+	<h2>Headlines</h2>
+
+
+
+	<p>Check out what is happening in Security and ABS Computer Technology, Inc.</p>
+
+
+<p class="pagination">
+	
+	
+	<a href="/home/headlines/news?func=search">Search</a>
+</p>
+
+<p>
+
+
+	</p><div class="weblogTitleBar">
+		 Fidel Castro, Internet News Junkie
+	</div>
+	<fieldset class="weblogSynopsis">
+		<legend class="weblogLegend" align="left">
+			By
+            
+            aewhale
+            
+			-
+			9/6/2010
+			
+			
+				
+			
+		</legend>
+		
+		The LA Times reports that 84-year-old Cuban ex-President Fidel Castro consumes 200 to 300 news items a day on the World Wide Web. In a recent interview he called Web communication 'the most powerful weapon that has existed' and extolled its power to break a stranglehold on the media by 'the empire' and 'ambitious private groups that have abused it' adding that the Internet 'has put an end to secrets.... 
+		<div class="weblogReadMore">
+			<a href="/home/headlines/news/-fidel-castro-internet-news-junkie#idXb7ecZ7KnGvoTd4lBHCH-A">Read More</a>
+		</div>
+	</fieldset>
+	<p>
+
+	</p><div class="weblogTitleBar">
+		 Dubai's Police Chief Calls BlackBerry a Spy Tool
+	</div>
+	<fieldset class="weblogSynopsis">
+		<legend class="weblogLegend" align="left">
+			By
+            
+            aewhale
+            
+			-
+			9/6/2010
+			
+			
+				
+			
+		</legend>
+		
+		Dubai is calling the BlackBerry a Spy tool, and insists on gaining access to Encrypted Servers, or crippling the email, messaging, and web services.
+		<div class="weblogReadMore">
+			<a href="/home/headlines/news/-dubais-police-chief-calls-blackberry-a-spy-tool#idiDBxvEyVjFYQtWCjsuZq9w">Read More</a>
+		</div>
+	</fieldset>
+	<p>
+
+	</p><div class="weblogTitleBar">
+		 Spammers Attack Apple's Ping Social Network
+	</div>
+	<fieldset class="weblogSynopsis">
+		<legend class="weblogLegend" align="left">
+			By
+            
+            aewhale
+            
+			-
+			9/5/2010
+			
+			
+				
+			
+		</legend>
+		
+		Scammers and spammers have deluged the new Ping musical social network, created by Apple and built into the new version of iTunes. Sophos researchers have found that Ping is being overrun by scams and spam messages.
+		<div class="weblogReadMore">
+			<a href="/home/headlines/news/-spammers-attack-apples-ping-social-network#idNXTLSRaCVtx-GcP0FIItJA">Read More</a>
+		</div>
+	</fieldset>
+	<p>
+
+	</p><div class="weblogTitleBar">
+		 New Malware Imitates Browser Warning Pages
+	</div>
+	<fieldset class="weblogSynopsis">
+		<legend class="weblogLegend" align="left">
+			By
+            
+            aewhale
+            
+			-
+			9/4/2010
+			
+			
+				
+			
+		</legend>
+		
+		Microsoft is warning about a new piece of malware, Rogue:MSIL/Zeven, that auto-detects a user's browser and then imitates the relevant malware warning pages  from Internet Explorer, Firefox, or Chrome. The fake warning pages are very similar to the real thing; you have to look closely to realize they aren't the real thing.
+		<div class="weblogReadMore">
+			<a href="/home/headlines/news/-new-malware-imitates-browser-warning-pages#idNjPcYX-wjo3G5pEt5RgtrA">Read More</a>
+		</div>
+	</fieldset>
+	<p>
+
+	</p><div class="weblogTitleBar">
+		Another exploit permits remote control by the hackers
+	</div>
+	<fieldset class="weblogSynopsis">
+		<legend class="weblogLegend" align="left">
+			By
+            
+            aewhale
+            
+			-
+			9/1/2010
+			
+			
+				
+			
+		</legend>
+		
+		Remote control is again found in another exploit discovered with QuickTime version 7 software, and the user encountering a Malicious website.
+		<div class="weblogReadMore">
+			<a href="/home/headlines/news/another-exploit-permits-remote-control-by-the-hackers#idUc0yMJmYTQWQhFack67CwQ">Read More</a>
+		</div>
+	</fieldset>
+	<p>
+
+
+
+	</p><div class="pagination">
+		«Previous Page • 1 <span><a href="/home/headlines/news?pn=2">2</a></span> <span><a href="/home/headlines/news?pn=3">3</a></span> <span><a href="/home/headlines/news?pn=4">4</a></span> <span><a href="/home/headlines/news?pn=5">5</a></span> <span><a href="/home/headlines/news?pn=6">6</a></span> <span><a href="/home/headlines/news?pn=7">7</a></span> <span><a href="/home/headlines/news?pn=8">8</a></span> <span><a href="/home/headlines/news?pn=9">9</a></span> <span><a href="/home/headlines/news?pn=10">10</a></span>  • <span id="nextPageLink"><a href="/home/headlines/news?pn=2">Next Page»</a></span>
+	</div>
+
+
+
+
+
+            
+        
+
+        
+
+    <!-- end position 2 -->
+    </div>
+
+    <div class="wg-clear"></div>
+    
+    
+
+<!--/id="layoutebcb0ac0381ff5c187e7cfcd65c53896" class="layout rightcolumn-->
+</div>
+
+
+<!-- End Shell Content Area -->
+<!-- end #mainContent --></div>
+
+
+</td>
+        <td width="50" height="274">&nbsp;</td>
+        </tr>
+      </tbody></table></td></tr>
+
+</tbody></table>
+   </td>
+  </tr>
+  <tr>
+    <td height="66" colspan="2" valign="top" bgcolor="#000066"><div align="center"><br>
+  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif, Verdana">
+          <a href="http://www.ABS-CompTech.com/contact.htm" target="_blank">Contact Us</a> -
+  <a href="http://www.ABS-CompTech.com/" target="_blank">Home</a> -
+  <a href="http://www.ABS-CompTech.com/sitemap.htm" target="_blank">Site Map</a><br></font>
+  <br>
+          <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif, Verdana">© 2005-2010
+ABS Computer Technology, Inc. - All Rights Reserved<br>
+SpamZapper<sup>®</sup> is the registered trademark of ABS Computer Technology, Inc.<br>
+      <br>
+      <a href="http://www.marcdorsett.com" target="_blank" class="desctxt">Site Design - Marc Dorsett Graphic Artist
+      </a><br>
+      <br>
+
+        </font></div></td>
+  </tr>
+  <tr>
+    <td width="100%" height="29" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td width="170">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="15"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="1"></td>
+    <td><img src="/uploads/XJ/vt/XJvtzOhIOLLI0wtJRouuiA/spacer.gif" alt="" width="170" height="1"></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10167174-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>
