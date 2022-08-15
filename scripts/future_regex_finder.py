@@ -79,6 +79,6 @@ if __name__ == "__main__":
 
     regex = "|".join(interesting_snippets)
     regex = re.compile(regex, re.IGNORECASE)    # precompile regexes
-    out_dir = "data/regex_counter/out/"
+    out_dir = "data/future_regex_finder/out/"
     p = RegexCounterPipeline(regex, out_dir)
     p.run()
