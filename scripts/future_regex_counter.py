@@ -203,13 +203,14 @@ class RegexCounterPipeline(PassthroughModelPipeline, CandidatePipeline):
 
 if __name__ == "__main__":
     interesting_snippets = [
-        "(?:hope|think|believe|wish) someday",
-        "in the (?:upcoming times?|times? to come|times? [is|are]\s? coming|times? [is]\s?[lays?|laying]?\s?ahead|future)",
-        "the (?:upcoming times?|times? to come|times? [is|are]\s? coming|times? [is]\s?[lays?|laying]?\s?ahead|future) will (?:be|bring|get|support)",
-        "(?:good|better|best|bad|worse|worst|sad|sadder|saddest|funny|funnier|funniest|happy|happier|happiest|scary|scarier|scariest|hot|hotter|hottest|bright|horrible|terrible|crazy|cruel|cool|fantastic|fragile|glorious|messy|nice|perfect|strange|ugly|dirty|exciting|beautiful) (?:upcoming times?|times? to come|times? [is|are]\s? coming|times? [is]\s?[lays?|laying]?\s?ahead|future)",
-        "In (?:a|the next)\s?[few]*\s?(?:months?|years?)",
-        "in [the next][like|about|around|maybe|ca]\s?a?\s?(?:one|two|three|four|five|six|seven|eight|nine|ten|hundred|thousand|million|billion) (?:months?|years?)",
-        "in [the next]\s?[like|about|around|maybe|ca]\s?a?\s?[1-9][0-9]?[0-9]?[0-9]?[0-9]?[0-9]? (?:months?|years?)"
+        "someday",
+        "in the future",
+        "upcoming (?:times?|months?|years?|decades?)",
+        "(?:times?|months?|years?|decades?) [is|are|will]*\s?(?:comes?|coming)",
+        "(?:times?|months?|years?|decades?) [is|are|will]*\s?[lays?|laying]*\s?ahead",
+        "in (?:a|the next|several)\s?[few]*\s?(?:months?|years?|decades?)",
+        "in [the next]*\s?[like|about|around|maybe|ca]*\s?a?\s?(?:one|two|three|four|five|six|seven|eight|nine|ten|hundred|thousand|million|billion) (?:months?|years?|decades?)",
+        "in [the next]*\s?[like|about|around|maybe|ca]*\s?a?\s?[1-9][0-9]?[0-9]?[0-9]?[0-9]?[0-9]? (?:months?|years?|decades?)"
     ]
 
     regex = "|".join(interesting_snippets)
