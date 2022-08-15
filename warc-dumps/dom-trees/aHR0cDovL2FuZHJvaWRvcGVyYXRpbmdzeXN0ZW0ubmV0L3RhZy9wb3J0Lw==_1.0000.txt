@@ -1,0 +1,836 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+
+ <meta name="blogcatalog" content="9BC9539860"> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Port | ANDROID OPERATING SYSTEM</title>
+
+<meta name="generator" content="WordPress 2.8.5"> <!-- leave this for stats -->
+
+<meta name="description" content="Google Android Operating System, Android OS, Apps, Projects, Widgets &amp; Phones">
+
+<meta name="keywords" content="">
+
+
+
+<link rel="stylesheet" href="http://androidoperatingsystem.net/wp-content/themes/android/style.css" type="text/css" media="all">
+
+<link rel="alternate" type="application/rss+xml" title="ANDROID OPERATING SYSTEM RSS Feed" href="http://androidoperatingsystem.net/feed/">
+
+<link rel="pingback" href="http://androidoperatingsystem.net/xmlrpc.php">
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/jquery.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/fx.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/glide.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/jquery.easing.min.js"></script>
+
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/themes/android/js/jquery.lavalamp.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://androidoperatingsystem.net/wp-content/themes/android/glide.css" media="screen">	
+
+<link rel="stylesheet" type="text/css" href="http://androidoperatingsystem.net/wp-content/themes/android/banner.css" media="screen">	
+
+
+
+<!--[if lt IE 8]>
+
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+
+	<link rel="archives" title="September 2010" href="http://androidoperatingsystem.net/2010/09/">
+	<link rel="archives" title="August 2010" href="http://androidoperatingsystem.net/2010/08/">
+	<link rel="archives" title="July 2010" href="http://androidoperatingsystem.net/2010/07/">
+	<link rel="archives" title="June 2010" href="http://androidoperatingsystem.net/2010/06/">
+	<link rel="archives" title="May 2010" href="http://androidoperatingsystem.net/2010/05/">
+	<link rel="archives" title="April 2010" href="http://androidoperatingsystem.net/2010/04/">
+	<link rel="archives" title="March 2010" href="http://androidoperatingsystem.net/2010/03/">
+	<link rel="archives" title="February 2010" href="http://androidoperatingsystem.net/2010/02/">
+	<link rel="archives" title="January 2010" href="http://androidoperatingsystem.net/2010/01/">
+	<link rel="archives" title="December 2009" href="http://androidoperatingsystem.net/2009/12/">
+	<link rel="archives" title="November 2009" href="http://androidoperatingsystem.net/2009/11/">
+	<link rel="archives" title="October 2009" href="http://androidoperatingsystem.net/2009/10/">
+	<link rel="archives" title="September 2009" href="http://androidoperatingsystem.net/2009/09/">
+	<link rel="archives" title="August 2009" href="http://androidoperatingsystem.net/2009/08/">
+	<link rel="archives" title="July 2009" href="http://androidoperatingsystem.net/2009/07/">
+	<link rel="archives" title="June 2009" href="http://androidoperatingsystem.net/2009/06/">
+	<link rel="archives" title="May 2009" href="http://androidoperatingsystem.net/2009/05/">
+	<link rel="archives" title="April 2009" href="http://androidoperatingsystem.net/2009/04/">
+	<link rel="archives" title="March 2009" href="http://androidoperatingsystem.net/2009/03/">
+	<link rel="archives" title="February 2009" href="http://androidoperatingsystem.net/2009/02/">
+	<link rel="archives" title="January 2009" href="http://androidoperatingsystem.net/2009/01/">
+	<link rel="archives" title="December 2008" href="http://androidoperatingsystem.net/2008/12/">
+	<link rel="archives" title="November 2008" href="http://androidoperatingsystem.net/2008/11/">
+	<link rel="archives" title="October 2008" href="http://androidoperatingsystem.net/2008/10/">
+	<link rel="archives" title="September 2008" href="http://androidoperatingsystem.net/2008/09/">
+	<link rel="archives" title="August 2008" href="http://androidoperatingsystem.net/2008/08/">
+	<link rel="archives" title="July 2008" href="http://androidoperatingsystem.net/2008/07/">
+	<link rel="archives" title="June 2008" href="http://androidoperatingsystem.net/2008/06/">
+	<link rel="archives" title="May 2008" href="http://androidoperatingsystem.net/2008/05/">
+	<link rel="archives" title="April 2008" href="http://androidoperatingsystem.net/2008/04/">
+	<link rel="archives" title="March 2008" href="http://androidoperatingsystem.net/2008/03/">
+	<link rel="archives" title="February 2008" href="http://androidoperatingsystem.net/2008/02/">
+	<link rel="archives" title="January 2008" href="http://androidoperatingsystem.net/2008/01/">
+	<link rel="archives" title="December 2007" href="http://androidoperatingsystem.net/2007/12/">
+	<link rel="archives" title="November 2007" href="http://androidoperatingsystem.net/2007/11/">
+	<link rel="archives" title="October 2007" href="http://androidoperatingsystem.net/2007/10/">
+	<link rel="archives" title="March 2007" href="http://androidoperatingsystem.net/2007/03/">
+	<link rel="archives" title="December 2006" href="http://androidoperatingsystem.net/2006/12/">
+	<link rel="archives" title="November 2006" href="http://androidoperatingsystem.net/2006/11/">
+	<link rel="archives" title="August 2006" href="http://androidoperatingsystem.net/2006/08/">
+	<link rel="archives" title="October 2002" href="http://androidoperatingsystem.net/2002/10/">
+
+
+<link rel="alternate" type="application/rss+xml" title="ANDROID OPERATING SYSTEM » port Tag Feed" href="http://androidoperatingsystem.net/tag/port/feed/">
+<link rel="stylesheet" id="google-ajax-translation-css-css" href="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/google-ajax-translation.css?ver=20090828" type="text/css" media="screen">
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/prototype.js?ver=1.6"></script>
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.8.0"></script>
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-includes/js/scriptaculous/effects.js?ver=1.8.0"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://androidoperatingsystem.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://androidoperatingsystem.net/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="ANDROID OPERATING SYSTEM" href="http://androidoperatingsystem.net">
+<meta name="generator" content="WordPress 2.8.5">
+
+<!-- All in One SEO Pack 1.6.6 by Michael Torbert of Semper Fi Web Design[355,401] -->
+<link rel="canonical" href="http://androidoperatingsystem.net/tag/port/">
+<!-- /all in one seo pack -->
+<meta name="keywords" content="port, ANDROID OPERATING SYSTEM, ANDROID, OPERATING, SYSTEM"><meta name="description" content="">
+
+<!-- Start Of Code Generated By SexyBookmarks 2.5.5.1 -->
+<link rel="stylesheet" id="sexy-bookmarks-css" href="http://androidoperatingsystem.net/wp-content/plugins/sexybookmarks/css/style.css?ver=2.5.5.1" type="text/css" media="all">
+<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/plugins/sexybookmarks/js/sexy-bookmarks-public.js?ver=2.8.5"></script>
+<!-- End Of Code Generated By SexyBookmarks 2.5.5.1 -->
+
+<link href="http://androidoperatingsystem.net/wp-content/plugins/wp-followme/followme-style.css" rel="stylesheet" type="text/css">
+
+<!-- GBCF -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://androidoperatingsystem.net/wp-content/plugins/wp-gbcf/wp-gbcf_themes/default.css">
+<!--[if IE]><script src="http://androidoperatingsystem.net/wp-content/plugins/wp-gbcf/wp-gbcf_focus.js" type="text/javascript"></script><![endif]-->
+<!-- GBCF -->
+
+
+<!-- Start Of Script Generated By WP-PageNavi 2.40 -->
+<link rel="stylesheet" href="http://androidoperatingsystem.net/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="screen">
+<!-- End Of Script Generated By WP-PageNavi 2.40 -->
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+<div id="wrapper">
+
+
+
+<div id="top"> 
+
+<div class="blogname">
+
+	<h1><a href="http://androidoperatingsystem.net/" title="ANDROID OPERATING SYSTEM">ANDROID OPERATING SYSTEM</a></h1>
+
+	<h2>Google Android Operating System, Android OS, Apps, Projects, Widgets &amp; Phones</h2>
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div id="foxmenucontainer">
+
+	<div style="float:left; ">
+
+				<ul class="lavaLampBottomStyle" id="A">
+
+
+
+					<li><a href="http://androidoperatingsystem.net/">Home</a></li>
+
+
+					<li class="page_item page-item-2"><a href="http://androidoperatingsystem.net/about/">About</a></li>
+<li class="page_item page-item-1260"><a href="http://androidoperatingsystem.net/contact/">Contact</a></li>
+
+
+
+<li><a href="/category/android/">Android<font color="#1F2B3B"> 
+									<b>OS</b></font></a></li>
+                                   <li><a href="/category/android-apps/">Android<font color="#1F2B3B"> 
+									<b>Apps</b></font></a></li>
+<li><a href="/new-used-and-unlocked-google-android-phones-and-accesories-for-sale/">Android <b><font color="#1F2B3B">Phones: New, Used &amp; Unlocked</font></b></a><font color="#1F2B3B"><b> </b> 
+</font></li><li><font color="#1F2B3B"><a href="/category/development/">Android <b><font color="#1F2B3B">Development</font></b></a></font></li><font color="#1F2B3B">
+
+
+
+
+					
+
+				</font></ul><font color="#1F2B3B">
+
+</font></div><font color="#1F2B3B">				
+
+</font></div><font color="#1F2B3B">
+
+<div class="clear"></div>
+
+<div id="casing">		
+<div id="content"><a name="content"></a>
+
+		 
+		<div class="single" id="post-52204">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/03/17/google-loses-nexus-one-trademark-bid/" rel="bookmark" title="Permanent Link to Google loses Nexus One trademark bid">Google loses Nexus One trademark bid</a></h2>
+<div class="date"> <span class="author">Posted by leon</span> <span class="clock">   March - 17 - 2010 - Wednesday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/andriod/" title="View all posts in Andriod" rel="category tag">Andriod</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/03/17/google-loses-nexus-one-trademark-bid/#comments" title="Comment on Google loses Nexus One trademark bid">3 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-52204" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 52204);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-52204" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p></p>
+<p><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/03/bb39649453us_one.jpg.jpg"><img class="alignnone size-medium wp-image-1391" title="nexus_one" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/03/e8f01bfa4100x245.jpg.jpg" alt="" width="300" height="245"></a></p>
+<p>The U.S Patent and Trademark office have denied Google’s bid to trademark “Nexus One” for it’s superphone.&nbsp; The moniker was deemed too close to Portland-based business Integra Telecom’s NEXUS calling services.&nbsp; Whilst Integra have no plans on releasing a smartphone (or a superphone for that matter), the examining attorney, David Taylor cited a law which reads&nbsp; “The goods and/or services of the parties need not be identical or  directly competitive to find a likelihood of confusion.”.</p>
+<p>A spokesman for Integra released this statement on the verdict:</p>
+<blockquote><p><em>“We appreciate that the PTO is protecting our trademark rights.&nbsp; Integra  has over $60 Million in annual revenue associated with our Nexus brand  and it represents millions of new revenue for the company each year.&nbsp;  Google hasn’t contacted us since the PTO issued its objection but we  hope we can work together to achieve our respective business goals.”</em></p>
+</blockquote>
+<p>So there it is.&nbsp; Google can’t trademark “Nexus One”.&nbsp; The news is sure to please the estate of Philip K. Dick, who had <a href="http://www.guardian.co.uk/technology/2010/jan/07/google-nexus" target="_blank">threatened</a> to take Google to court over their use of Nexus in the first place, claiming it was a reference to Dick’s “Do Android’s Dream of Electric Sheep” (which would go on to become the movie, Blade Runner).&nbsp; It’ll be interesting to see if the Big G plan on changing the Nexus One’s name now?</p>
+<div><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/03/ac23526551.jpeg"><img class="size-medium wp-image-1392" title="Nexus-6" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/03/a9f6f2cd1f52x300.jpg.jpg" alt="" width="252" height="300"></a>
+<p>Nexus-6 replicant from Blade Runner</p>
+</div>
+<p><em><br>
+</em></p>
+<p>{via <a href="http://blog.oregonlive.com/siliconforest/2010/03/google_loses_nexus_one_tradema.html" target="_blank">OregonLive.com</a> and the <a href="http://www.guardian.co.uk/technology/2010/jan/07/google-nexus" target="_blank">Guardian</a>}</p>
+<p>See original here: </p>
+<p><a target="_blank" href="http://www.thisandroidlife.com/2010/03/google-loses-nexus-one-trademark-bid.html" title="Google loses Nexus One trademark bid">Google loses Nexus One trademark bid</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-48671">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/03/02/scam-alert-haleron-ilet-mini-hal-%e2%80%93-too-good-to-be-true-after-all/" rel="bookmark" title="Permanent Link to Scam alert -Haleron iLet Mini HAL – too good to be true after all?">Scam alert -Haleron iLet Mini HAL – too good to be true after all?</a></h2>
+<div class="date"> <span class="author">Posted by webnull</span> <span class="clock">   March - 2 - 2010 - Tuesday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/andriod/" title="View all posts in Andriod" rel="category tag">Andriod</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/03/02/scam-alert-haleron-ilet-mini-hal-%e2%80%93-too-good-to-be-true-after-all/#comments" title="Comment on Scam alert -Haleron iLet Mini HAL – too good to be true after all?">9 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-48671" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 48671);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-48671" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p></p>
+<p><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/03/c964acd866ni_hal.jpg.jpg"><img class="alignnone size-full wp-image-1123" title="haleron_ilet-Mini_hal" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/03/c964acd866ni_hal.jpg.jpg" alt="" width="495" height="351"></a></p>
+<p>A few days ago, we reported that a company called Haleron were going to be releasing an indifferently spec’ed, but temptingly cheap, 7″ Android tablet.  Well, the folks over at <a href="http://www.pocketables.net/2010/02/haleron-ilet-mini-hal-the-latest-device-to-join-the-7inch-tablet-army.html#comment-6a00d83451c9ec69e201310f40a3ce970c" target="_blank">Pocketables</a> have cast some doubt on the authenticity of the offer.&nbsp; A commenter called Brad had this to say:-</p>
+<div>
+<blockquote><p>In an attempt to verify Haleron a month or two ago, I tracked the iLet design back to a french company which has an active forum. They in fact do sell the design to be remanufactured abroad. I inquired if they had licensed to Haleron, and received a solid NO.</p>
+<p>If you look at the whois on the haleron domain, it is registered to a shipping district office in Miami Fl. Google the CEO’s name and you get several other failed companies, and a business bankruptcy filing in Colorado.</p>
+<p>Based on my research, I believe the company is a scam.</p>
+</blockquote>
+<p><a href="http://gizmodo.com/5481887/haleron-ilet-mini-hal-is-a-modest-tablet-with-a-modest-price" target="_blank">Gizmodo</a> have been investigating the claims too and, like Brad, they also seem unconvinced by Haleron’s authenticity.</p>
+<p>Doing a bit of digging, it is difficult to come up with any actual evidence of Haleron as a company, and although I’m seeing a lot of mentions of kit that the company have released over the past few months or are planning to release in the future, I’ve yet to find a review of any of their actual hardware, or even a post from a satisfied customer.&nbsp; However, it’s worth mentioning that this in itself isn’t conclusive proof that we are seeing is a scam.&nbsp; For now, I’d be wary of ordering until we’ve seen more.&nbsp; The company have stated that they expect the units to be available via Amazon at some point in mid-March.&nbsp; If you’re tempted by this unit, it might be advisable to hang fire until (and if) it appears on Amazon.&nbsp; In the meantime, I’m going to continue investigating and see if I can find out the truth.</p>
+<p><strong>UPDATE</strong>- I’m actively trying to find out more information on Grupo Haleron and I’ll continue to update my findings as I go along.</p>
+<p>The first thing that struck me, is the support <a href="http://www.haleron.com/index.php?option=com_agora&amp;Itemid=65" target="_blank">forums</a> on the Haleron website – they have only a handful of posts, and none of them seem to come from any user who actually owns a device.&nbsp; I did find a link inside one of the posts which gives information on where to get downloads for a Swordfish netbook that they sell.&nbsp; The link is apparently for the Swordfish community pages at <a href="http://www.sfmovil.com/" target="_blank">sfmovil.com</a>.&nbsp; If you check out sfmovil.com, you’ll see it’s little more than a mobile phone review blog and has been for months judging by the archives.&nbsp; In fact, some of the archive posts go back to before the site was linked on the Haleron support forums.&nbsp; Not only that, but if you search sfmovil.com for the term “swordfish” there are no articles found at all.&nbsp; Now, all of that seems more than a little fishy to my mind.</p>
+<p>I’m still waiting on someone from Haleron getting back to me on my questions.&nbsp; I’ve also tried to get in touch with someone from the office building that Haleron claim to operate from in Medellin, Colombia.</p>
+<p><strong>UPDATE 2</strong>- I’ve been checking around further and found a Spanish language <a href="http://www.laneros.com/archive/index.php/t-162109.html" target="_blank">site</a>, possibly from Colombia, where the authenticity of Haleron is discussed.&nbsp; Two translated quotes there from a poster called “soldfoxdx” are of particular note-</p>
+<blockquote><p>Gentlemen in the direction of HALERON monteria is located in a residential area, more exactly in the Gold Coast neighborhood CRA 16 # 28-08. I have not heard of any such company who is on there and my experience with things of this town, I can say that this seems more that the very Vaporware Phantom Console.</p>
+<p>I do not think that technology exists and the engineers needed in this town of farmers and paramilitaries to make such a feat. surely are importers of Chinese pods. I will take the task of going to visit them.</p>
+</blockquote>
+<p>And this second, also from solidfoxdx a couple of days later-</p>
+<blockquote><p>good CONFIRMED. Haleron is a ghost.</p>
+<p>There is no such company at the address: CRA 16 # 28-08 Monteria – Cordoba. what exists is a teaching of English for children LOL! tigo no answer to that published (I have not tried the Movistar)</p>
+</blockquote>
+<p>So folks, it looks very much like this is a hoax of quite impressive proportions.</p>
+<p>Thanks to Luiz Rodriguez for the heads up on this story.</p>
+</div>
+<p>See more here: </p>
+<p><a target="_blank" href="http://www.thisandroidlife.com/2010/03/scam-alert-haleron-ilet-mini-hal-too-good-to-be-true-after-all.html" title="Scam alert -Haleron iLet Mini HAL – too good to be true after all?">Scam alert -Haleron iLet Mini HAL – too good to be true after all?</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-47969">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/02/26/haleron-follow-ilet-mini-with-android-tablet/" rel="bookmark" title="Permanent Link to Haleron follow iLet Mini with Android tablet">Haleron follow iLet Mini with Android tablet</a></h2>
+<div class="date"> <span class="author">Posted by kevin ma</span> <span class="clock">   February - 26 - 2010 - Friday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/andriod/" title="View all posts in Andriod" rel="category tag">Andriod</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/02/26/haleron-follow-ilet-mini-with-android-tablet/#comments" title="Comment on Haleron follow iLet Mini with Android tablet">1 COMMENT</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-47969" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 47969);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-47969" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p></p>
+<p><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/02/4e94a38279ni_hal.jpg.jpg"><img class="alignleft size-medium wp-image-1082" title="haleron_ilet-Mini_hal" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/02/d1a540ba2600x212.jpg.jpg" alt="" width="300" height="212"></a>South American tech manufacturers Haleron are set to follow up the&nbsp; iLet Mini, a tablet running Windows CE, with the Android 1.6 powered iLet Mini HAL.&nbsp; The iLet Mini HAL will sport a 600MH processor, 128MB of RAM, a 7-inch 800 x 480 WVGA display, 2GB internal storage with an SD memory card slot for up to 32GB of additional storage and connectivity to external hard drives via two onboard USB ports.&nbsp; There are also the obligatory Ethernet and Wi-Fi connections.</p>
+<p>The device also has onboard stereo speakers, with additional audio ports if the onboard speakers don’t&nbsp; satisfy the audiophile in you.&nbsp; It’s apparently going to come in either black or white and features a custom version of Android, known as Ocean Android, which will be interesting to see in action.&nbsp; It also seems, unusually for a tablet, to use a portrait orientation.</p>
+<p>The Haleron iLet Mini HAL should be available direct from <a href="http://haleron.com/index.php?page=shop.product_details&amp;flypage=flypage.tpl&amp;product_id=20&amp;category_id=6&amp;option=com_virtuemart&amp;Itemid=63&amp;vmcchk=1&amp;Itemid=63" target="_blank">Haleron </a>for a temptingly low $199 from March 1<sup>st</sup>.</p>
+<p>Follow this link: </p>
+<p><a target="_blank" href="http://www.thisandroidlife.com/2010/02/haleron-follow-ilet-mini-with-android-tablet.html" title="Haleron follow iLet Mini with Android tablet">Haleron follow iLet Mini with Android tablet</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-42650">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/01/26/bendroid-the-team-behind-the-mystique-games-answer-a-few-of-our-questions/" rel="bookmark" title="Permanent Link to Bendroid, the team behind the Mystique games, answer a few of our questions">Bendroid, the team behind the Mystique games, answer a few of our questions</a></h2>
+<div class="date"> <span class="author">Posted by SrilankanKK</span> <span class="clock">   January - 26 - 2010 - Tuesday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/andriod/" title="View all posts in Andriod" rel="category tag">Andriod</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/01/26/bendroid-the-team-behind-the-mystique-games-answer-a-few-of-our-questions/#comments" title="Comment on Bendroid, the team behind the Mystique games, answer a few of our questions">5 COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-42650" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 42650);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-42650" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p></p>
+<p><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/a9c51ebcd5idlogo.jpg.jpg"><img class="alignleft size-thumbnail wp-image-595" title="Bendroidlogo" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/a7bbccd4cd50x150.jpg.jpg" alt="" width="150" height="150"></a>Bendroid are currently one of the leading Android games developers.&nbsp; With their own 3D engine, a number of popular games under their belt and more to come, the team look like consolidating their strong reputation.&nbsp; The guys at Bendroid kindly took time out from their busy schedule to answer a few of our questions.&nbsp; Here’s the interview in full-</p>
+<p></p>
+<p><strong>Can you tell us a little bit about your development background and any other projects you have been involved in?</strong></p>
+<p>“Our background is primarily in web development.&nbsp; Collectively, we have over 20 years experience and have developed all kinds of different projects across many industries, to include PC games.&nbsp; Mobile gaming was something we had always been interested in, and a natural progression for us.”</p>
+<p><strong>The games in the spooky Mystique series are </strong><strong><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/4b9da00f6dSplash.png.png"><img class="alignright size-medium wp-image-592" title="Mystique_Splash" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/6afb0f750d00x200.png.png" alt="" width="300" height="200"></a></strong>among the best loved games in the Android Market.&nbsp; What was the inspiration for Mystique?
+</p>
+<p>“We wanted to make something outstanding and rather thrilling to play. As our lead developer is a big fan of horror films (from “A Nightmare on Elm Street” to the popular horror movies of today), we decided to develop something in that genre.”</p>
+<div>
+<p><strong><br>
+How long did it take you to put together each chapter of Mystique, and were there any major headaches or stumbling blocks along the way?</strong></p>
+</div>
+<p>“Once the story was developed and storyboarded, <strong>Chapter 1: Foetus</strong> was developed in about a week.&nbsp; <strong>Chapter 2: The Child</strong>, which was more complex and contained more content, took about a month to develop after story development. The main headache in both efforts was to create a professional looking game on a device with certain software and hardware limits (not to mention having to account for the many different Android phones and versions on the market). Also, <strong>Chapter 1: Foetus</strong> was done on the emulator event without having a real phone.”</p>
+<div>
+<p><strong>Which Android devices do you use yourself?<br>
+</strong></p>
+</div>
+<p>“We currently have the HTC G1, HTC Tattoo, Motorola Droid,&nbsp; and Motorola Cliq.”<strong> </strong></p>
+<p><strong>Which is your favourite Android app (other than your own of course)?<br>
+</strong></p>
+<div></div>
+<p>“Taskiller, Astro, MapDroyd, Quick Settings.”</p>
+<div>
+<p><strong>How much potential do you personally feel the Google Android platform has?<br>
+</strong></p>
+</div>
+<p>“We believe that one day it will be the leading platform. We have done some development for the iPhone, but ultimately have decided to focus primarily on the Android OS.”</p>
+<div>
+<p><strong>What’s on your personal wish-list regarding Android apps or features?&nbsp; Is there something you feel the platform is sorely missing?<br>
+</strong></p>
+</div>
+<p>“Hmmm, it’s difficult to say. We have found all the necessary features for our development thus far, and really have no complaints.”</p>
+<div>
+<p><strong><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/320316e1c0stique.jpg.jpg"><img class="alignleft size-medium wp-image-591" title="mystique" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/26548eef3300x199.jpg.jpg" alt="" width="300" height="199"></a>What drew you to developing in Android, and do you feel it is a powerful enough platform for developers?<br>
+</strong></p>
+</div>
+<p>“We started developing in Android for fun. Having a collective Java development background, we decided to give a try and see what would happen.&nbsp; After developing some test games and then <strong>Mystique Ch1: Foetus</strong>, we were very happy with (and a bit surprised by) the power of the Android platform.&nbsp; More importantly, we see great potential that Android will continue to grow in sophistication over time.”</p>
+<div>
+<p><strong>The Android Market receives a lot of criticism from users and developers alike, how has your personal experience of publishing apps on the market been?<br>
+</strong></p>
+</div>
+<p>“We have two main feedback points: (1) the Android market needs an easier purchasing process,&nbsp; and (2) the market should be made available via computer (like iTunes). This may make the users’/developers’ experience less complicated.”<strong> </strong></p>
+<p><strong>Piracy is a major concern for developers of Android apps, have you been affected by piracy of your apps?&nbsp; Do you feel that more could or should be done to combat it?<br>
+</strong></p>
+<div></div>
+<p>“Yeah, we have found our games on file sharing websites and torrents.&nbsp; We understand that piracy cannot be avoided, but it still disappoints us, as we are spending a lot of time and resources making games that people can enjoy.&nbsp; It is the revenue gained from the market sales that enables us to continue forward with development of new games and chapters.”</p>
+<p><strong>Has the much-maligned fragmentation of the Android OS affected you in any way?&nbsp; If so, how have you been working around this?</strong></p>
+<p>“Having lots of devices and OS versions makes the user experience richer, but at the same time introduces a couple of challenges for the developers:</p>
+<ol>
+<li>we are not able to quickly integrate features that take advantage of new OS functionality without first considering an alternative for legacy OS devices, and</li>
+<li>as new devices are introduced, we must ensure that our legacy games are compatible with new interfaces, displays, etc.”</li>
+</ol>
+<p><strong>You have a couple of other apps on the market, a Tangram app and an app called Straight Scoop, which generates random answers to user created questions</strong>.&nbsp; <strong>What do you plan on working on next – further chapters of Mystique, updates to your other titles, or something entirely new?</strong></p>
+<p>“Right now we are working on the third chapter of Mystique: Obitus, which should be available on Android market in February. You can see the latest game trailer on our website at <a href="http://www.bendroid.com/" target="_blank">http://www.bendroid.com</a>.&nbsp; After this, we will focus on other 3D games that take advantage of our proprietary 3D engine.”</p>
+<p><strong>Any advice for aspiring Android devs?</strong></p>
+<p>“Be creative, focus on quality and pay attention to detail.&nbsp; The mobile gaming community is very viral, and positive user ratings and comments really help an app or game get noticed.”</p>
+<p>Bendroid games have a number of apps live on the Android market at the moment, with more to come, including, as mentioned in the interview, part 3 of the excellent and hugely popular Mystique series (see video teaser below).&nbsp; Check out their website at http://www.bendroid.com/ for more news.</p>
+<p></p>
+<p>Read more:</p>
+<p><a target="_blank" href="http://www.thisandroidlife.com/2010/01/bendroid-the-team-behind-the-mystique-games-answer-a-few-of-our-questions.html" title="Bendroid, the team behind the Mystique games, answer a few of our questions">Bendroid, the team behind the Mystique games, answer a few of our questions</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-39681">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/01/07/funkyandroid-ltd-decide-not-to-pursure-archos-through-courts/" rel="bookmark" title="Permanent Link to FunkyAndroid Ltd decide not to pursure Archos through courts">FunkyAndroid Ltd decide not to pursure Archos through courts</a></h2>
+<div class="date"> <span class="author">Posted by tomadroid</span> <span class="clock">   January - 7 - 2010 - Thursday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/andriod/" title="View all posts in Andriod" rel="category tag">Andriod</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/01/07/funkyandroid-ltd-decide-not-to-pursure-archos-through-courts/#respond" title="Comment on FunkyAndroid Ltd decide not to pursure Archos through courts">ADD COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-39681" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 39681);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-39681" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/3a36e727a8pStore.png.png" imageanchor="1"><img border="0" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/6215fb8a6apStore.png.png"></a>A few weeks back, I had the opportunity to <a href="http://www.thisandroidlife.com/2009/11/spotlight-on-andappstore.html">interview</a> AndAppStore developer and FunkyAndroid director, Al Sutton. At the time, as mentioned in the article, FunkyAndroid Ltd were involved in a dispute with Archos over allegations of redistribution of confidential information.</p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-39130">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2010/01/05/latest-admob-figures-released-2/" rel="bookmark" title="Permanent Link to Latest AdMob figures released">Latest AdMob figures released</a></h2>
+<div class="date"> <span class="author">Posted by plasticpals1</span> <span class="clock">   January - 5 - 2010 - Tuesday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/andriod/" title="View all posts in Andriod" rel="category tag">Andriod</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2010/01/05/latest-admob-figures-released-2/#comments" title="Comment on Latest AdMob figures released">1 COMMENT</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-39130" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 39130);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-39130" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p>
+</p><div></div>
+<div><a href="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/86479d2f08.gif" imageanchor="1"><img border="0" src="http://www.androidoperatingsystem.net/wp-content/uploads/2010/01/f29e969bec.gif"></a></div>
+<p>Mobile ad network, AdMob, have announced that ad impressions served to Android devices have doubled since their last report.</p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-9086">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2009/10/12/why-the-big-android-bandwagon-open-source-zdnet-com/" rel="bookmark" title="Permanent Link to Why the big Android bandwagon? | Open Source | ZDNet.com">Why the big Android bandwagon? | Open Source | ZDNet.com</a></h2>
+<div class="date"> <span class="author">Posted by tech0StickyAsGlue</span> <span class="clock">   October - 12 - 2009 - Monday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/am/" title="View all posts in AM" rel="category tag">AM</a>,  <a href="http://androidoperatingsystem.net/category/android-apps/" title="View all posts in Android Apps" rel="category tag">Android Apps</a>,  <a href="http://androidoperatingsystem.net/category/appl/" title="View all posts in Appl" rel="category tag">Appl</a>,  <a href="http://androidoperatingsystem.net/category/droid/" title="View all posts in Droid" rel="category tag">Droid</a>,  <a href="http://androidoperatingsystem.net/category/how/" title="View all posts in How" rel="category tag">How</a>,  <a href="http://androidoperatingsystem.net/category/id/" title="View all posts in Id" rel="category tag">Id</a>,  <a href="http://androidoperatingsystem.net/category/mid/" title="View all posts in MID" rel="category tag">MID</a>,  <a href="http://androidoperatingsystem.net/category/os/" title="View all posts in OS" rel="category tag">OS</a>,  <a href="http://androidoperatingsystem.net/category/one/" title="View all posts in One" rel="category tag">One</a>,  <a href="http://androidoperatingsystem.net/category/rc/" title="View all posts in RC" rel="category tag">RC</a>,  <a href="http://androidoperatingsystem.net/category/sam/" title="View all posts in Sam" rel="category tag">Sam</a>,  <a href="http://androidoperatingsystem.net/category/t/" title="View all posts in T" rel="category tag">T</a>,  <a href="http://androidoperatingsystem.net/category/to/" title="View all posts in To" rel="category tag">To</a>,  <a href="http://androidoperatingsystem.net/category/with/" title="View all posts in With" rel="category tag">With</a>,  <a href="http://androidoperatingsystem.net/category/and/" title="View all posts in and" rel="category tag">and</a>,  <a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a>,  <a href="http://androidoperatingsystem.net/category/ap/" title="View all posts in ap" rel="category tag">ap</a>,  <a href="http://androidoperatingsystem.net/category/app/" title="View all posts in app" rel="category tag">app</a>,  <a href="http://androidoperatingsystem.net/category/application/" title="View all posts in application" rel="category tag">application</a>,  <a href="http://androidoperatingsystem.net/category/applications/" title="View all posts in applications" rel="category tag">applications</a>,  <a href="http://androidoperatingsystem.net/category/apps/" title="View all posts in apps" rel="category tag">apps</a>,  <a href="http://androidoperatingsystem.net/category/at/" title="View all posts in at" rel="category tag">at</a>,  <a href="http://androidoperatingsystem.net/category/ban/" title="View all posts in ban" rel="category tag">ban</a>,  <a href="http://androidoperatingsystem.net/category/best/" title="View all posts in best" rel="category tag">best</a>,  <a href="http://androidoperatingsystem.net/category/better/" title="View all posts in better" rel="category tag">better</a>,  <a href="http://androidoperatingsystem.net/category/business/" title="View all posts in business" rel="category tag">business</a>,  <a href="http://androidoperatingsystem.net/category/do/" title="View all posts in do" rel="category tag">do</a>,  <a href="http://androidoperatingsystem.net/category/et/" title="View all posts in et" rel="category tag">et</a>,  <a href="http://androidoperatingsystem.net/category/gl/" title="View all posts in gl" rel="category tag">gl</a>,  <a href="http://androidoperatingsystem.net/category/go/" title="View all posts in go" rel="category tag">go</a>,  <a href="http://androidoperatingsystem.net/category/google/" title="View all posts in google" rel="category tag">google</a>,  <a href="http://androidoperatingsystem.net/category/in/" title="View all posts in in" rel="category tag">in</a>,  <a href="http://androidoperatingsystem.net/category/ion/" title="View all posts in ion" rel="category tag">ion</a>,  <a href="http://androidoperatingsystem.net/category/iphone/" title="View all posts in iphone" rel="category tag">iphone</a>,  <a href="http://androidoperatingsystem.net/category/is/" title="View all posts in is" rel="category tag">is</a>,  <a href="http://androidoperatingsystem.net/category/it/" title="View all posts in it" rel="category tag">it</a>,  <a href="http://androidoperatingsystem.net/category/linux/" title="View all posts in linux" rel="category tag">linux</a>,  <a href="http://androidoperatingsystem.net/category/live/" title="View all posts in live" rel="category tag">live</a>,  <a href="http://androidoperatingsystem.net/category/man/" title="View all posts in man" rel="category tag">man</a>,  <a href="http://androidoperatingsystem.net/category/me/" title="View all posts in me" rel="category tag">me</a>,  <a href="http://androidoperatingsystem.net/category/nes/" title="View all posts in nes" rel="category tag">nes</a>,  <a href="http://androidoperatingsystem.net/category/no/" title="View all posts in no" rel="category tag">no</a>,  <a href="http://androidoperatingsystem.net/category/of/" title="View all posts in of" rel="category tag">of</a>,  <a href="http://androidoperatingsystem.net/category/on/" title="View all posts in on" rel="category tag">on</a>,  <a href="http://androidoperatingsystem.net/category/own/" title="View all posts in own" rel="category tag">own</a>,  <a href="http://androidoperatingsystem.net/category/phone/" title="View all posts in phone" rel="category tag">phone</a>,  <a href="http://androidoperatingsystem.net/category/port/" title="View all posts in port" rel="category tag">port</a>,  <a href="http://androidoperatingsystem.net/category/pro/" title="View all posts in pro" rel="category tag">pro</a>,  <a href="http://androidoperatingsystem.net/category/support/" title="View all posts in support" rel="category tag">support</a>,  <a href="http://androidoperatingsystem.net/category/tech/" title="View all posts in tech" rel="category tag">tech</a>,  <a href="http://androidoperatingsystem.net/category/techn/" title="View all posts in techn" rel="category tag">techn</a>,  <a href="http://androidoperatingsystem.net/category/than/" title="View all posts in than" rel="category tag">than</a>,  <a href="http://androidoperatingsystem.net/category/the/" title="View all posts in the" rel="category tag">the</a>,  <a href="http://androidoperatingsystem.net/category/ui/" title="View all posts in ui" rel="category tag">ui</a>,  <a href="http://androidoperatingsystem.net/category/up/" title="View all posts in up" rel="category tag">up</a>,  <a href="http://androidoperatingsystem.net/category/vid/" title="View all posts in vid" rel="category tag">vid</a>,  <a href="http://androidoperatingsystem.net/category/w/" title="View all posts in w" rel="category tag">w</a>,  <a href="http://androidoperatingsystem.net/category/wi/" title="View all posts in wi" rel="category tag">wi</a>,  <a href="http://androidoperatingsystem.net/category/your/" title="View all posts in your" rel="category tag">your</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2009/10/12/why-the-big-android-bandwagon-open-source-zdnet-com/#respond" title="Comment on Why the big Android bandwagon? | Open Source | ZDNet.com">ADD COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-9086" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 9086);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-9086" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p>The Android bandwagon is built on this patience. To succeed, however, it will have to deliver products as good or better than the iPhone, at the same or less cost, with just as many apps . That risk to its reputation is all Google is laying on the line … The best support in the Linux business · If Linux is going to power your mission-critical applications , you’d better have the best support known to business. Novell was rated the top provider of Linux technical support. …</p>
+<p>Continued here:&nbsp;<br>
+<a target="_blank" href="http://blogs.zdnet.com/open-source/?p=4998" title="Why the big Android bandwagon? | Open Source | ZDNet.com">Why the big Android bandwagon? | Open Source | ZDNet.com</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		<div class="single" id="post-8960">
+<div class="title">
+
+<h2><a href="http://androidoperatingsystem.net/2009/10/12/sprint-htc-hero-now-available/" rel="bookmark" title="Permanent Link to Sprint HTC Hero Now Available">Sprint HTC Hero Now Available</a></h2>
+<div class="date"> <span class="author">Posted by admin</span> <span class="clock">   October - 12 - 2009 - Monday 
+					<div class="category"><a href="http://androidoperatingsystem.net/category/009/" title="View all posts in 009" rel="category tag">009</a>,  <a href="http://androidoperatingsystem.net/category/2/" title="View all posts in 2" rel="category tag">2</a>,  <a href="http://androidoperatingsystem.net/category/2009/" title="View all posts in 2009" rel="category tag">2009</a>,  <a href="http://androidoperatingsystem.net/category/alk/" title="View all posts in ALK" rel="category tag">ALK</a>,  <a href="http://androidoperatingsystem.net/category/am/" title="View all posts in AM" rel="category tag">AM</a>,  <a href="http://androidoperatingsystem.net/category/ar/" title="View all posts in AR" rel="category tag">AR</a>,  <a href="http://androidoperatingsystem.net/category/android-phones/" title="View all posts in Android Phones" rel="category tag">Android Phones</a>,  <a href="http://androidoperatingsystem.net/category/custom/" title="View all posts in Custom" rel="category tag">Custom</a>,  <a href="http://androidoperatingsystem.net/category/ds/" title="View all posts in DS" rel="category tag">DS</a>,  <a href="http://androidoperatingsystem.net/category/droid/" title="View all posts in Droid" rel="category tag">Droid</a>,  <a href="http://androidoperatingsystem.net/category/im/" title="View all posts in IM" rel="category tag">IM</a>,  <a href="http://androidoperatingsystem.net/category/id/" title="View all posts in Id" rel="category tag">Id</a>,  <a href="http://androidoperatingsystem.net/category/mail/" title="View all posts in Mail" rel="category tag">Mail</a>,  <a href="http://androidoperatingsystem.net/category/os/" title="View all posts in OS" rel="category tag">OS</a>,  <a href="http://androidoperatingsystem.net/category/oss/" title="View all posts in OSS" rel="category tag">OSS</a>,  <a href="http://androidoperatingsystem.net/category/one/" title="View all posts in One" rel="category tag">One</a>,  <a href="http://androidoperatingsystem.net/category/rc/" title="View all posts in RC" rel="category tag">RC</a>,  <a href="http://androidoperatingsystem.net/category/so/" title="View all posts in SO" rel="category tag">SO</a>,  <a href="http://androidoperatingsystem.net/category/t/" title="View all posts in T" rel="category tag">T</a>,  <a href="http://androidoperatingsystem.net/category/t-mo/" title="View all posts in T-Mo" rel="category tag">T-Mo</a>,  <a href="http://androidoperatingsystem.net/category/talk/" title="View all posts in Talk" rel="category tag">Talk</a>,  <a href="http://androidoperatingsystem.net/category/to/" title="View all posts in To" rel="category tag">To</a>,  <a href="http://androidoperatingsystem.net/category/tom/" title="View all posts in Tom" rel="category tag">Tom</a>,  <a href="http://androidoperatingsystem.net/category/tor/" title="View all posts in Tor" rel="category tag">Tor</a>,  <a href="http://androidoperatingsystem.net/category/with/" title="View all posts in With" rel="category tag">With</a>,  <a href="http://androidoperatingsystem.net/category/ad/" title="View all posts in ad" rel="category tag">ad</a>,  <a href="http://androidoperatingsystem.net/category/and/" title="View all posts in and" rel="category tag">and</a>,  <a href="http://androidoperatingsystem.net/category/android/" title="View all posts in android" rel="category tag">android</a>,  <a href="http://androidoperatingsystem.net/category/android-phone/" title="View all posts in android phone" rel="category tag">android phone</a>,  <a href="http://androidoperatingsystem.net/category/ap/" title="View all posts in ap" rel="category tag">ap</a>,  <a href="http://androidoperatingsystem.net/category/ass/" title="View all posts in ass" rel="category tag">ass</a>,  <a href="http://androidoperatingsystem.net/category/at/" title="View all posts in at" rel="category tag">at</a>,  <a href="http://androidoperatingsystem.net/category/camera/" title="View all posts in camera" rel="category tag">camera</a>,  <a href="http://androidoperatingsystem.net/category/com/" title="View all posts in com" rel="category tag">com</a>,  <a href="http://androidoperatingsystem.net/category/design/" title="View all posts in design" rel="category tag">design</a>,  <a href="http://androidoperatingsystem.net/category/dext/" title="View all posts in dext" rel="category tag">dext</a>,  <a href="http://androidoperatingsystem.net/category/display/" title="View all posts in display" rel="category tag">display</a>,  <a href="http://androidoperatingsystem.net/category/do/" title="View all posts in do" rel="category tag">do</a>,  <a href="http://androidoperatingsystem.net/category/eat/" title="View all posts in eat" rel="category tag">eat</a>,  <a href="http://androidoperatingsystem.net/category/et/" title="View all posts in et" rel="category tag">et</a>,  <a href="http://androidoperatingsystem.net/category/face/" title="View all posts in face" rel="category tag">face</a>,  <a href="http://androidoperatingsystem.net/category/features/" title="View all posts in features" rel="category tag">features</a>,  <a href="http://androidoperatingsystem.net/category/fi/" title="View all posts in fi" rel="category tag">fi</a>,  <a href="http://androidoperatingsystem.net/category/from/" title="View all posts in from" rel="category tag">from</a>,  <a href="http://androidoperatingsystem.net/category/full/" title="View all posts in full" rel="category tag">full</a>,  <a href="http://androidoperatingsystem.net/category/g2/" title="View all posts in g2" rel="category tag">g2</a>,  <a href="http://androidoperatingsystem.net/category/get/" title="View all posts in get" rel="category tag">get</a>,  <a href="http://androidoperatingsystem.net/category/hero/" title="View all posts in hero" rel="category tag">hero</a>,  <a href="http://androidoperatingsystem.net/category/htc/" title="View all posts in htc" rel="category tag">htc</a>,  <a href="http://androidoperatingsystem.net/category/htc-hero/" title="View all posts in htc hero" rel="category tag">htc hero</a>,  <a href="http://androidoperatingsystem.net/category/image/" title="View all posts in image" rel="category tag">image</a>,  <a href="http://androidoperatingsystem.net/category/in/" title="View all posts in in" rel="category tag">in</a>,  <a href="http://androidoperatingsystem.net/category/interface/" title="View all posts in interface" rel="category tag">interface</a>,  <a href="http://androidoperatingsystem.net/category/is/" title="View all posts in is" rel="category tag">is</a>,  <a href="http://androidoperatingsystem.net/category/it/" title="View all posts in it" rel="category tag">it</a>,  <a href="http://androidoperatingsystem.net/category/launch/" title="View all posts in launch" rel="category tag">launch</a>,  <a href="http://androidoperatingsystem.net/category/load/" title="View all posts in load" rel="category tag">load</a>,  <a href="http://androidoperatingsystem.net/category/me/" title="View all posts in me" rel="category tag">me</a>,  <a href="http://androidoperatingsystem.net/category/mob/" title="View all posts in mob" rel="category tag">mob</a>,  <a href="http://androidoperatingsystem.net/category/mobile/" title="View all posts in mobile" rel="category tag">mobile</a>,  <a href="http://androidoperatingsystem.net/category/moto/" title="View all posts in moto" rel="category tag">moto</a>,  <a href="http://androidoperatingsystem.net/category/motorola/" title="View all posts in motorola" rel="category tag">motorola</a>,  <a href="http://androidoperatingsystem.net/category/nes/" title="View all posts in nes" rel="category tag">nes</a>,  <a href="http://androidoperatingsystem.net/category/network/" title="View all posts in network" rel="category tag">network</a>,  <a href="http://androidoperatingsystem.net/category/no/" title="View all posts in no" rel="category tag">no</a>,  <a href="http://androidoperatingsystem.net/category/of/" title="View all posts in of" rel="category tag">of</a>,  <a href="http://androidoperatingsystem.net/category/off/" title="View all posts in off" rel="category tag">off</a>,  <a href="http://androidoperatingsystem.net/category/on/" title="View all posts in on" rel="category tag">on</a>,  <a href="http://androidoperatingsystem.net/category/opera/" title="View all posts in opera" rel="category tag">opera</a>,  <a href="http://androidoperatingsystem.net/category/operating/" title="View all posts in operating" rel="category tag">operating</a>,  <a href="http://androidoperatingsystem.net/category/own/" title="View all posts in own" rel="category tag">own</a>,  <a href="http://androidoperatingsystem.net/category/per/" title="View all posts in per" rel="category tag">per</a>,  <a href="http://androidoperatingsystem.net/category/phone/" title="View all posts in phone" rel="category tag">phone</a>,  <a href="http://androidoperatingsystem.net/category/phones/" title="View all posts in phones" rel="category tag">phones</a>,  <a href="http://androidoperatingsystem.net/category/port/" title="View all posts in port" rel="category tag">port</a>,  <a href="http://androidoperatingsystem.net/category/rom/" title="View all posts in rom" rel="category tag">rom</a>,  <a href="http://androidoperatingsystem.net/category/screen/" title="View all posts in screen" rel="category tag">screen</a>,  <a href="http://androidoperatingsystem.net/category/sense/" title="View all posts in sense" rel="category tag">sense</a>,  <a href="http://androidoperatingsystem.net/category/service/" title="View all posts in service" rel="category tag">service</a>,  <a href="http://androidoperatingsystem.net/category/sprint/" title="View all posts in sprint" rel="category tag">sprint</a>,  <a href="http://androidoperatingsystem.net/category/store/" title="View all posts in store" rel="category tag">store</a>,  <a href="http://androidoperatingsystem.net/category/system/" title="View all posts in system" rel="category tag">system</a>,  <a href="http://androidoperatingsystem.net/category/t-mobile/" title="View all posts in t-mobile" rel="category tag">t-mobile</a>,  <a href="http://androidoperatingsystem.net/category/target/" title="View all posts in target" rel="category tag">target</a>,  <a href="http://androidoperatingsystem.net/category/the/" title="View all posts in the" rel="category tag">the</a>,  <a href="http://androidoperatingsystem.net/category/touch/" title="View all posts in touch" rel="category tag">touch</a>,  <a href="http://androidoperatingsystem.net/category/touchscreen/" title="View all posts in touchscreen" rel="category tag">touchscreen</a>,  <a href="http://androidoperatingsystem.net/category/two/" title="View all posts in two" rel="category tag">two</a>,  <a href="http://androidoperatingsystem.net/category/uch/" title="View all posts in uch" rel="category tag">uch</a>,  <a href="http://androidoperatingsystem.net/category/uk/" title="View all posts in uk" rel="category tag">uk</a>,  <a href="http://androidoperatingsystem.net/category/up/" title="View all posts in up" rel="category tag">up</a>,  <a href="http://androidoperatingsystem.net/category/user/" title="View all posts in user" rel="category tag">user</a>,  <a href="http://androidoperatingsystem.net/category/w/" title="View all posts in w" rel="category tag">w</a>,  <a href="http://androidoperatingsystem.net/category/web/" title="View all posts in web" rel="category tag">web</a>,  <a href="http://androidoperatingsystem.net/category/wi/" title="View all posts in wi" rel="category tag">wi</a>,  <a href="http://androidoperatingsystem.net/category/work/" title="View all posts in work" rel="category tag">work</a> </div>
+
+
+</span> <span class="comm"><a href="http://androidoperatingsystem.net/2009/10/12/sprint-htc-hero-now-available/#respond" title="Comment on Sprint HTC Hero Now Available">ADD COMMENTS</a></span> </div>	
+</div>
+
+<div class="cover">
+<div class="entry">
+					<div class="translate_block" style="display: none;">
+							<a class="translate_translate" id="translate_button_post-8960" lang="en" xml:lang="en" href="javascript:show_translate_popup('en', 'post', 8960);">[Translate this post into any language - Click Here]<img src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" id="translate_loading_post-8960" class="translate_loading" style="display: none;" width="16" height="16" alt=""></a>
+							<hr class="translate_hr">
+						</div>
+						<p> The HTC Hero Android phone is now officially available across the United States on Sprint. Exclusive to the Sprint network, the HTC Hero is a reworking of the European HTC Hero (also known as the T-Mobile G2 Touch), with a more rounded and chinless design. The HTC Hero features a large capacitive touchscreen display, 5 mega-pixel camera, Bluetooth, 3.5mm stereo headphone port, trackball controller, and HTC’s custom Android user interface Sense. The Sprint HTC Hero is available from the Sprint website and their retail stores priced at US$179 after a $200 instant rebate and $100 mail-in rebate, when purchased as part of a two-year service agreement with Sprint. [via sprint.com ] Motorola DEXT Orange UK Android Phone: Motorola DEXT Sprint HTC Hero Now Available </p>
+<p><img src="http://www.androidoperatingsystem.net/wp-content/uploads/2009/10/0cd5430802C-Hero.jpg-450x188.jpg"></p>
+<p>Continued here:<br>
+<a target="_blank" href="http://www.talkandroid.com/1744-sprint-htc-hero-launch/" title="Sprint HTC Hero Now Available">Sprint HTC Hero Now Available</a></p>
+					<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="singleinfo">
+
+				
+</div>
+
+
+</div>
+		
+ <div id="navigation">
+		<div class="wp-pagenavi">
+<span class="pages"> Page 1 of 40 </span><span class="current"> 1 </span><a href="http://androidoperatingsystem.net/tag/port/page/2/" title="2"> 2 </a><a href="http://androidoperatingsystem.net/tag/port/page/3/" title="3"> 3 </a><a href="http://androidoperatingsystem.net/tag/port/page/4/" title="4"> 4 </a><a href="http://androidoperatingsystem.net/tag/port/page/5/" title="5"> 5 </a><a href="http://androidoperatingsystem.net/tag/port/page/6/" title="6"> 6 </a><a href="http://androidoperatingsystem.net/tag/port/page/7/" title="7"> 7 </a><a href="http://androidoperatingsystem.net/tag/port/page/8/" title="8"> 8 </a><a href="http://androidoperatingsystem.net/tag/port/page/2/">»</a><span class="extend"> ... </span><a href="http://androidoperatingsystem.net/tag/port/page/40/" title="Last »"> Last » </a></div>
+  
+</div>
+
+	
+</div>
+<div id="rightcol">
+
+<div class="vidbody">
+				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   <object width="310" height="250"><param name="movie" value="http://www.youtube.com/v/yAZYSVr2Bhc?fs=1&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/yAZYSVr2Bhc?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="310" height="250"></object></div>
+
+<div class="clear"></div>
+<div id="search">
+			<form method="get" id="searchform" action="http://androidoperatingsystem.net">
+					<input id="s" type="text" name="s" value="">
+					<input id="searchsubmit" type="submit" value="">
+			
+				</form>
+				
+</div>
+
+<div class="banner">
+
+<ul>
+
+<li>
+<a href="http://www.jdoqocy.com/click-3683963-10655222" rel="bookmark" title=""><img src="http://www.yceml.net/0502/10655222-1.gif" alt="" style="vertical-align:bottom;"></a>
+</li>	
+
+<li>
+<a href="http://www.kqzyfj.com/click-3683963-10680450" rel="bookmark" title=""><img src="http://www.yceml.net/0130/10680450-1.gif" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="http://www.dpbolvw.net/click-3683963-10305626" rel="bookmark" title=""><img src="http://www.yceml.net/0090/10305626-31.gif" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="http://www.dpbolvw.net/click-3683963-10664149" rel="bookmark" title=""><img src="http://www.yceml.net/0213/10664149-5.gif" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="/contact" rel="bookmark" title=""><img src="http://androidoperatingsystem.net/ad_here.png" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+<li>
+<a href="/contact" rel="bookmark" title=""><img src="http://androidoperatingsystem.net/ad_here.png" alt="" style="vertical-align:bottom;"></a>
+</li>
+
+
+</ul>
+</div>
+<div id="sidebar">
+
+<div class="sidebar2">
+<ul>
+<li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+		<ul>
+			<li><a href="http://androidoperatingsystem.net/2010/09/" title="September 2010">September 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/08/" title="August 2010">August 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/07/" title="July 2010">July 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/06/" title="June 2010">June 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/05/" title="May 2010">May 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/04/" title="April 2010">April 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/03/" title="March 2010">March 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/02/" title="February 2010">February 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2010/01/" title="January 2010">January 2010</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/12/" title="December 2009">December 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/11/" title="November 2009">November 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/10/" title="October 2009">October 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/09/" title="September 2009">September 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/08/" title="August 2009">August 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/07/" title="July 2009">July 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/06/" title="June 2009">June 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/05/" title="May 2009">May 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/04/" title="April 2009">April 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/03/" title="March 2009">March 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/02/" title="February 2009">February 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2009/01/" title="January 2009">January 2009</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/12/" title="December 2008">December 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/11/" title="November 2008">November 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/10/" title="October 2008">October 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/09/" title="September 2008">September 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/08/" title="August 2008">August 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/07/" title="July 2008">July 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/06/" title="June 2008">June 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/05/" title="May 2008">May 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/04/" title="April 2008">April 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/03/" title="March 2008">March 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/02/" title="February 2008">February 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2008/01/" title="January 2008">January 2008</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/12/" title="December 2007">December 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/11/" title="November 2007">November 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/10/" title="October 2007">October 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2007/03/" title="March 2007">March 2007</a></li>
+	<li><a href="http://androidoperatingsystem.net/2006/12/" title="December 2006">December 2006</a></li>
+	<li><a href="http://androidoperatingsystem.net/2006/11/" title="November 2006">November 2006</a></li>
+	<li><a href="http://androidoperatingsystem.net/2006/08/" title="August 2006">August 2006</a></li>
+	<li><a href="http://androidoperatingsystem.net/2002/10/" title="October 2002">October 2002</a></li>
+		</ul>
+</li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/ea-ready-for-solid-android-commitment/" title="EA ready for solid Android commitment">EA ready for solid Android commitment </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/verizon%e2%80%99s-10-reasons-you-should-get-the-galaxy-tab/" title="Verizon’s 10 Reasons You Should Get the Galaxy Tab">Verizon’s 10 Reasons You Should Get the Galaxy Tab </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/verizon-to-discontinue-motorola-droid-2-in-favor-or-droid-2-world/" title="Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World …">Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World … </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/verizon-to-discontinue-motorola-droid-2-in-favor-or-droid-2-world/" title="Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World …">Verizon to Discontinue Motorola Droid 2 in Favor or Droid 2 World … </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/motorola-flipout-coming-to-att-this-weekend-android-phone-fans/" title="Motorola FlipOut Coming to AT&amp;T this Weekend? | Android Phone Fans">Motorola FlipOut Coming to AT&amp;T this Weekend? | Android Phone Fans </a></li>
+				<li><a href="http://androidoperatingsystem.net/2010/09/17/android-police-giveaway-10-amzer-and-gizmo-dorks-cases-are-up-for-grabs-%e2%80%93-incredible-2-droid-x-2-droid-2-2-droid-2-and-evo-4g-2/" title="[Android Police Giveaway] 10 Amzer And Gizmo Dorks Cases Are Up For Grabs – Incredible (2), Droid X (2), Droid 2 (2), Droid (2), And EVO 4G (2)">[Android Police Giveaway] 10 Amzer And Gizmo Dorks Cases Are Up For Grabs – Incredible (2), Droid X (2), Droid 2 (2), Droid (2), And EVO 4G (2) </a></li>
+				</ul>
+		</li>
+</ul>
+
+</div>
+<div class="sidebar1">
+	
+	<ul>
+	<li id="feedburner-stats" class="widget widget_feedburner"><h2 class="widgettitle">FeedBurner </h2>
+
+<p><a href="http://feeds2.feedburner.com/Android-Operating-System"><img src="http://feeds2.feedburner.com/~fc/Android-Operating-System?bg=0012FF&amp;fg=FFFFFF&amp;anim=1" height="26" width="88" style="border:0" alt=""></a></p>
+</li>
+<li id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2>
+<div><a href="http://androidoperatingsystem.net/tag/2009/" class="tag-link-1606" title="315 topics" rel="tag" style="font-size: 8.0075976845152pt;">2009</a>
+<a href="http://androidoperatingsystem.net/tag/android/" class="tag-link-432" title="5,840 topics" rel="tag" style="font-size: 22pt;">android</a>
+<a href="http://androidoperatingsystem.net/tag/android-applications/" class="tag-link-349" title="1,338 topics" rel="tag" style="font-size: 10.598408104197pt;">android applications</a>
+<a href="http://androidoperatingsystem.net/tag/android-apps/" class="tag-link-331" title="2,690 topics" rel="tag" style="font-size: 14.022431259045pt;">Android Apps</a>
+<a href="http://androidoperatingsystem.net/tag/android-games/" class="tag-link-6956" title="409 topics" rel="tag" style="font-size: 8.2456584659913pt;">android games</a>
+<a href="http://androidoperatingsystem.net/tag/android-operating-system/" class="tag-link-3" title="1,622 topics" rel="tag" style="font-size: 11.317655571635pt;">Android Operating System</a>
+<a href="http://androidoperatingsystem.net/tag/android-os/" class="tag-link-100" title="4,124 topics" rel="tag" style="font-size: 17.654124457308pt;">android os</a>
+<a href="http://androidoperatingsystem.net/tag/android-phone/" class="tag-link-1767" title="458 topics" rel="tag" style="font-size: 8.3697539797395pt;">android phone</a>
+<a href="http://androidoperatingsystem.net/tag/android-phones/" class="tag-link-1400" title="970 topics" rel="tag" style="font-size: 9.6664254703329pt;">Android Phones</a>
+<a href="http://androidoperatingsystem.net/tag/androis-phone/" class="tag-link-4847" title="519 topics" rel="tag" style="font-size: 8.5242402315485pt;">androis phone</a>
+<a href="http://androidoperatingsystem.net/tag/app/" class="tag-link-260" title="1,306 topics" rel="tag" style="font-size: 10.517366136035pt;">app</a>
+<a href="http://androidoperatingsystem.net/tag/appl/" class="tag-link-602" title="677 topics" rel="tag" style="font-size: 8.9243849493488pt;">Appl</a>
+<a href="http://androidoperatingsystem.net/tag/apple/" class="tag-link-180" title="389 topics" rel="tag" style="font-size: 8.19500723589pt;">apple</a>
+<a href="http://androidoperatingsystem.net/tag/application/" class="tag-link-338" title="513 topics" rel="tag" style="font-size: 8.5090448625181pt;">application</a>
+<a href="http://androidoperatingsystem.net/tag/apps/" class="tag-link-497" title="491 topics" rel="tag" style="font-size: 8.4533285094067pt;">apps</a>
+<a href="http://androidoperatingsystem.net/tag/ces/" class="tag-link-2252" title="456 topics" rel="tag" style="font-size: 8.3646888567294pt;">ces</a>
+<a href="http://androidoperatingsystem.net/tag/device/" class="tag-link-26" title="351 topics" rel="tag" style="font-size: 8.0987698986975pt;">device</a>
+<a href="http://androidoperatingsystem.net/tag/droid/" class="tag-link-2742" title="1,575 topics" rel="tag" style="font-size: 11.198625180897pt;">Droid</a>
+<a href="http://androidoperatingsystem.net/tag/eat/" class="tag-link-577" title="442 topics" rel="tag" style="font-size: 8.3292329956585pt;">eat</a>
+<a href="http://androidoperatingsystem.net/tag/ebook-echo/" class="tag-link-26832" title="729 topics" rel="tag" style="font-size: 9.0560781476122pt;">ebook echo</a>
+<a href="http://androidoperatingsystem.net/tag/google/" class="tag-link-437" title="496 topics" rel="tag" style="font-size: 8.465991316932pt;">google</a>
+<a href="http://androidoperatingsystem.net/tag/google-android/" class="tag-link-15" title="3,767 topics" rel="tag" style="font-size: 16.75pt;">google-android</a>
+<a href="http://androidoperatingsystem.net/tag/google-apps/" class="tag-link-345" title="1,008 topics" rel="tag" style="font-size: 9.7626628075253pt;">google apps</a>
+<a href="http://androidoperatingsystem.net/tag/google-phone/" class="tag-link-587" title="730 topics" rel="tag" style="font-size: 9.0586107091172pt;">google phone</a>
+<a href="http://androidoperatingsystem.net/tag/google-phone-apps/" class="tag-link-427" title="320 topics" rel="tag" style="font-size: 8.0202604920405pt;">google phone apps</a>
+<a href="http://androidoperatingsystem.net/tag/google-phones/" class="tag-link-1460" title="1,056 topics" rel="tag" style="font-size: 9.8842257597685pt;">google phones</a>
+<a href="http://androidoperatingsystem.net/tag/htc/" class="tag-link-36" title="621 topics" rel="tag" style="font-size: 8.7825615050651pt;">htc</a>
+<a href="http://androidoperatingsystem.net/tag/ion/" class="tag-link-1653" title="1,267 topics" rel="tag" style="font-size: 10.418596237337pt;">ion</a>
+<a href="http://androidoperatingsystem.net/tag/iphone/" class="tag-link-52" title="574 topics" rel="tag" style="font-size: 8.6635311143271pt;">iphone</a>
+<a href="http://androidoperatingsystem.net/tag/market/" class="tag-link-77" title="455 topics" rel="tag" style="font-size: 8.3621562952243pt;">market</a>
+<a href="http://androidoperatingsystem.net/tag/mob/" class="tag-link-3022" title="810 topics" rel="tag" style="font-size: 9.2612156295224pt;">mob</a>
+<a href="http://androidoperatingsystem.net/tag/mobile/" class="tag-link-67" title="1,121 topics" rel="tag" style="font-size: 10.048842257598pt;">mobile</a>
+<a href="http://androidoperatingsystem.net/tag/motorola/" class="tag-link-12" title="445 topics" rel="tag" style="font-size: 8.3368306801737pt;">motorola</a>
+<a href="http://androidoperatingsystem.net/tag/nes/" class="tag-link-986" title="455 topics" rel="tag" style="font-size: 8.3621562952243pt;">nes</a>
+<a href="http://androidoperatingsystem.net/tag/operating/" class="tag-link-258" title="312 topics" rel="tag" style="font-size: 8pt;">operating</a>
+<a href="http://androidoperatingsystem.net/tag/phone/" class="tag-link-106" title="1,435 topics" rel="tag" style="font-size: 10.844066570188pt;">phone</a>
+<a href="http://androidoperatingsystem.net/tag/phones/" class="tag-link-572" title="362 topics" rel="tag" style="font-size: 8.1266280752533pt;">phones</a>
+<a href="http://androidoperatingsystem.net/tag/port/" class="tag-link-2246" title="316 topics" rel="tag" style="font-size: 8.0101302460203pt;">port</a>
+<a href="http://androidoperatingsystem.net/tag/pre/" class="tag-link-1552" title="387 topics" rel="tag" style="font-size: 8.1899421128799pt;">pre</a>
+<a href="http://androidoperatingsystem.net/tag/pro/" class="tag-link-1778" title="565 topics" rel="tag" style="font-size: 8.6407380607815pt;">pro</a>
+<a href="http://androidoperatingsystem.net/tag/rom/" class="tag-link-509" title="704 topics" rel="tag" style="font-size: 8.9927641099855pt;">rom</a>
+<a href="http://androidoperatingsystem.net/tag/tor/" class="tag-link-2741" title="438 topics" rel="tag" style="font-size: 8.3191027496382pt;">Tor</a>
+<a href="http://androidoperatingsystem.net/tag/touch/" class="tag-link-252" title="450 topics" rel="tag" style="font-size: 8.349493487699pt;">touch</a>
+<a href="http://androidoperatingsystem.net/tag/uch/" class="tag-link-2013" title="431 topics" rel="tag" style="font-size: 8.3013748191027pt;">uch</a>
+<a href="http://androidoperatingsystem.net/tag/windows/" class="tag-link-59" title="337 topics" rel="tag" style="font-size: 8.0633140376266pt;">windows</a></div>
+</li>
+	</ul>
+
+</div>
+	
+	
+</div>
+</div>
+
+   <div class="clear"></div>
+ <div id="footop"> </div>
+
+ <div id="footbar">
+  
+ <div class="barone">
+
+
+
+		
+		</div>
+
+  		
+ 
+		<div class="bartwo">
+
+
+<p></p>
+ 
+
+		<div class="feed">
+
+	
+<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=http://feeds.feedburner.com/Android-Operating-System', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<input type="text" class="input" value="Sign Up here for email feed..." onfocus="if (this.value == 'Sign Up here for email feed...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Sign Up here for email feed...';}" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=http://feeds.feedburner.com/Android-Operating-System" name="url">
+<input type="submit" class="sbutton" value="">
+
+</form>
+	
+		</div>
+		
+		</div>
+	
+		
+</div>			
+
+<div id="footer">
+
+
+	
+Copyright © 2010 ANDROID OPERATING SYSTEM – Google Android Operating System, Android OS, Apps, Projects, Widgets &amp; Phones.<br>
+Androida theme from <a href="http://www.everythinggphone.com/forum" title="Android forums" target="_blank">Android forums</a>
+
+	
+</div>
+</div>
+</font></div><font color="#1F2B3B">
+<div id="translate_popup" style="display: none;">
+			<table class="translate_links"><tbody><tr><td valign="top">
+			<a class="languagelink" lang="en" xml:lang="en" href="#" title="English"><img class="translate_flag en" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="English" width="16" height="11"> English</a>
+							<a class="languagelink" lang="ar" xml:lang="ar" href="#" title="Arabic"><img class="translate_flag ar" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="العربية" width="16" height="11"> العربية</a>
+							<a class="languagelink" lang="bg" xml:lang="bg" href="#" title="Bulgarian"><img class="translate_flag bg" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="български" width="16" height="11"> български</a>
+							<a class="languagelink" lang="ca" xml:lang="ca" href="#" title="Catalan"><img class="translate_flag ca" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="català" width="16" height="11"> català</a>
+							<a class="languagelink" lang="cs" xml:lang="cs" href="#" title="Czech"><img class="translate_flag cs" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="česky" width="16" height="11"> česky</a>
+							<a class="languagelink" lang="da" xml:lang="da" href="#" title="Danish"><img class="translate_flag da" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="dansk" width="16" height="11"> dansk</a>
+							<a class="languagelink" lang="de" xml:lang="de" href="#" title="German"><img class="translate_flag de" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Deutsch" width="16" height="11"> Deutsch</a>
+							<a class="languagelink" lang="el" xml:lang="el" href="#" title="Greek"><img class="translate_flag el" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ελληνική" width="16" height="11"> ελληνική</a>
+							<a class="languagelink" lang="es" xml:lang="es" href="#" title="Spanish"><img class="translate_flag es" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="español" width="16" height="11"> español</a>
+							<a class="languagelink" lang="et" xml:lang="et" href="#" title="Estonian"><img class="translate_flag et" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="eesti" width="16" height="11"> eesti</a>
+							<a class="languagelink" lang="fa" xml:lang="fa" href="#" title="Persian"><img class="translate_flag fa" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="فارسی" width="16" height="11"> فارسی</a>
+							<a class="languagelink" lang="fi" xml:lang="fi" href="#" title="Finnish"><img class="translate_flag fi" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="suomi" width="16" height="11"> suomi</a>
+							<a class="languagelink" lang="fr" xml:lang="fr" href="#" title="French"><img class="translate_flag fr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="français" width="16" height="11"> français</a>
+							<a class="languagelink" lang="gl" xml:lang="gl" href="#" title="Galician"><img class="translate_flag gl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="galego" width="16" height="11"> galego</a>
+							<a class="languagelink" lang="he" xml:lang="he" href="#" title="Hebrew"><img class="translate_flag he" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="עברית" width="16" height="11"> עברית</a>
+							</td>
+							<td valign="top">
+							<a class="languagelink" lang="hi" xml:lang="hi" href="#" title="Hindi"><img class="translate_flag hi" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="हिन्दी" width="16" height="11"> हिन्दी</a>
+							<a class="languagelink" lang="hr" xml:lang="hr" href="#" title="Croatian"><img class="translate_flag hr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="hrvatski" width="16" height="11"> hrvatski</a>
+							<a class="languagelink" lang="hu" xml:lang="hu" href="#" title="Hungarian"><img class="translate_flag hu" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="magyar" width="16" height="11"> magyar</a>
+							<a class="languagelink" lang="id" xml:lang="id" href="#" title="Indonesian"><img class="translate_flag id" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Indonesia" width="16" height="11"> Indonesia</a>
+							<a class="languagelink" lang="it" xml:lang="it" href="#" title="Italian"><img class="translate_flag it" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="italiano" width="16" height="11"> italiano</a>
+							<a class="languagelink" lang="ja" xml:lang="ja" href="#" title="Japanese"><img class="translate_flag ja" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="日本語" width="16" height="11"> 日本語</a>
+							<a class="languagelink" lang="ko" xml:lang="ko" href="#" title="Korean"><img class="translate_flag ko" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="한국어" width="16" height="11"> 한국어</a>
+							<a class="languagelink" lang="lt" xml:lang="lt" href="#" title="Lithuanian"><img class="translate_flag lt" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="lietuvių" width="16" height="11"> lietuvių</a>
+							<a class="languagelink" lang="lv" xml:lang="lv" href="#" title="Latvian"><img class="translate_flag lv" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="latviešu" width="16" height="11"> latviešu</a>
+							<a class="languagelink" lang="mt" xml:lang="mt" href="#" title="Maltese"><img class="translate_flag mt" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Malti" width="16" height="11"> Malti</a>
+							<a class="languagelink" lang="nl" xml:lang="nl" href="#" title="Dutch"><img class="translate_flag nl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Nederlands" width="16" height="11"> Nederlands</a>
+							<a class="languagelink" lang="no" xml:lang="no" href="#" title="Norwegian"><img class="translate_flag no" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="norsk" width="16" height="11"> norsk</a>
+							<a class="languagelink" lang="pl" xml:lang="pl" href="#" title="Polish"><img class="translate_flag pl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="polski" width="16" height="11"> polski</a>
+							<a class="languagelink" lang="pt" xml:lang="pt" href="#" title="Portuguese"><img class="translate_flag pt" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="português" width="16" height="11"> português</a>
+							<a class="languagelink" lang="ro" xml:lang="ro" href="#" title="Romanian"><img class="translate_flag ro" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="română" width="16" height="11"> română</a>
+							</td>
+							<td valign="top">
+							<a class="languagelink" lang="ru" xml:lang="ru" href="#" title="Russian"><img class="translate_flag ru" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="русский" width="16" height="11"> русский</a>
+							<a class="languagelink" lang="sk" xml:lang="sk" href="#" title="Slovak"><img class="translate_flag sk" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="slovenčina" width="16" height="11"> slovenčina</a>
+							<a class="languagelink" lang="sl" xml:lang="sl" href="#" title="Slovenian"><img class="translate_flag sl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="slovenščina" width="16" height="11"> slovenščina</a>
+							<a class="languagelink" lang="sq" xml:lang="sq" href="#" title="Albanian"><img class="translate_flag sq" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="shqipe" width="16" height="11"> shqipe</a>
+							<a class="languagelink" lang="sr" xml:lang="sr" href="#" title="Serbian"><img class="translate_flag sr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="српски" width="16" height="11"> српски</a>
+							<a class="languagelink" lang="sv" xml:lang="sv" href="#" title="Swedish"><img class="translate_flag sv" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="svenska" width="16" height="11"> svenska</a>
+							<a class="languagelink" lang="th" xml:lang="th" href="#" title="Thai"><img class="translate_flag th" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="ภาษาไทย" width="16" height="11"> ภาษาไทย</a>
+							<a class="languagelink" lang="tl" xml:lang="tl" href="#" title="Filipino"><img class="translate_flag tl" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Filipino" width="16" height="11"> Filipino</a>
+							<a class="languagelink" lang="tr" xml:lang="tr" href="#" title="Turkish"><img class="translate_flag tr" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="Türkçe" width="16" height="11"> Türkçe</a>
+							<a class="languagelink" lang="uk" xml:lang="uk" href="#" title="Ukrainian"><img class="translate_flag uk" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="українська" width="16" height="11"> українська</a>
+							<a class="languagelink" lang="vi" xml:lang="vi" href="#" title="Vietnamese"><img class="translate_flag vi" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="tiếng Việt" width="16" height="11"> tiếng Việt</a>
+							<a class="languagelink" lang="zh-cn" xml:lang="zh-cn" href="#" title="Chinese (Simplified)"><img class="translate_flag zh-cn" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="中文 (简体)" width="16" height="11"> 中文 (简体)</a>
+							<a class="languagelink" lang="zh-tw" xml:lang="zh-tw" href="#" title="Chinese (Traditional)"><img class="translate_flag zh-tw" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/transparent.gif" alt="中文 (繁體)" width="16" height="11"> 中文 (繁體)</a>
+							<a class="google_branding" href="http://translate.google.com/translate?sl=auto&amp;tl=en&amp;u=androidoperatingsystem.net/tag/port/" title="translate page">powered by<img src="http://www.google.com/uds/css/small-logo.png" alt="Google" title="" width="51" height="15"></a>
+				</td></tr></tbody></table>
+				</div>
+				<script type="text/javascript" src="http://androidoperatingsystem.net/wp-content/plugins/google-ajax-translation/jquery.translate-1.3.9.min.js?ver=1.3.9"></script>
+<div class="followus_r"><div class="followme" style="background-color:#2C9490; top:150px;" onclick="window.open('http://twitter.com/Android_os')"><noscript><center>JS<br>is<br>off</center></noscript></div><div class="ili_right" style="top:267px;" onclick="window.open('http://wpburn.com/wordpress-plugins/wp-followme-plugin')"><noscript><a href="http://wpburn.com/wordpress-plugins/wp-followme-plugin">Get it</a></noscript></div><div class="ili_left" style="top:267px;" onclick="window.open('http://wpburn.com/wordpress-plugins/wp-followme-plugin')"><noscript><a href="http://wpburn.com/wordpress-plugins/wp-followme-plugin">Get it</a></noscript></div></div><!-- AdSense Manager v3.3.3 (0.931 seconds.) --><script src="http://stats.wordpress.com/e-201037.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'9448428',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(9448428,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
+ 
+     </font></body></html>

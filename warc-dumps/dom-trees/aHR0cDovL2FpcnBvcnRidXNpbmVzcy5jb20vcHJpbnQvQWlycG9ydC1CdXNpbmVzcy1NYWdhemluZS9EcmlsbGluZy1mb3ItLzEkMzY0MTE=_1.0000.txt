@@ -1,0 +1,911 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<meta name="keywords" content="">
+
+
+    <meta name="description" content="For some airports, natural gas is offering new revenue opportunities">
+    <title>AirportBusiness.com » Airport Business Magazine Article » Drilling for $$$</title>
+    
+    <script type="text/javascript">
+// THIS METHOD IS USED BY HITBOX-WEB-REPORTING ...
+ function hbxStrip(a) {
+ a = a.split("|").join("");
+ a = a.split("&").join("_");
+ a = a.split("'").join("");
+ a = a.split("#").join("");
+ a = a.split("$").join("");
+ a = a.split("%").join("");
+ a = a.split("^").join("");
+ a = a.split("*").join("");
+ a = a.split(":").join("");
+ a = a.split("!").join("");
+ a = a.split(">").join("");
+ a = a.split("<").join("");
+ a = a.split("~").join("");
+ a = a.split(";").join("");
+ a = a.split(" ").join("+");
+ return a;
+ }
+</script>
+
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-cygnusbm.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM550328JPDN83EN3;DM55041044NB83EN3";//ACCOUNT NUMBER(S)
+
+hbx.pn=hbxStrip("Drilling for $$$");//PAGE NAME(S)
+hbx.mlc=hbxStrip("/Publication/Airport Business Magazine/Article");//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+
+hbx.hc2="2:50.00";//PAGE TOTAL:PAGE PERCENT
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" defer src="/global/hbx/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
+
+    
+    
+
+
+
+<!-- OAS SETUP begin -->
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+	<!--
+	/* <![CDATA[ */
+  var OAS_sitepage = 'www.airportbusiness.com';
+  //var OAS_sitepage = "www.airportbusiness.com/index.html";
+  //OAS_sitepage = "www.airportbusiness.com/index.html";
+  //var OAS_sitepage = "www.airportbusiness.com";
+  //var OAS_listpos = "LEADERBOARD,SW_TOP_468,SW_BOTTOM_468,SN_120x120A,SN_120x120B,MISC1";
+//  var OAS_listpos = 'LEADERBOARD,SW_120x60,SN_120x60A,SN_120x60B,SN_120x90A,SN_120x90B,SN_120x120A,SN_120x120B,SN_120x60C,SKY_120x600,POS_300x250,SW_468_BOTTOM,SW_BOTTOM_468,FT120x60_SLOT1,FT120x60_SLOT2,FT120x60_SLOT3,FT120x60_SLOT4,TEXT1,TEXT2,TEXT3,TEXT4,TEXT5';
+  var OAS_listpos = 'x01,x02,x03,Top,Right,Bottom,Middle,Position2';
+	
+  /* ]]> */
+	//-->
+</script>
+
+<script type="text/javascript" src="/global/standard/oas_ad_central.js"></script>
+<!-- OAS SETUP end -->
+
+
+	
+	
+		<link href="/design/styles/style.css" rel="stylesheet" type="text/css" media="screen">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" src="/global/js/jquery.pack.js"></script>
+	<script src="/design/js/scripts.js" type="text/javascript"></script>
+
+	
+	<!-- Cygnus Drop Down Begin -->
+	<script type="text/javascript" src="/global/standard/cygnus.js"></script>
+	<script type="text/javascript" src="/global/js/jquery.js"></script>
+		<!-- Cygnus Drop Down end -->
+	
+	<link href="/global/standard/cygnus.css" rel="stylesheet" type="text/css" media="screen">
+	<!--[if gte IE 5]>
+		<style type="text/css">
+			.p7submenus A {
+				height: 1em
+			}
+		</style>
+	<![endif]-->
+	<style type="text/css">
+	/* <![CDATA[ */
+		li#n_home { display:none; }
+	/* ]]> */
+	</style>
+	<script src="/global/standard/dw_sizerdx.js" type="text/javascript"></script>
+	<script src="/global/standard/dw_cookies.js" type="text/javascript"></script>
+
+
+	<script type="text/javascript">
+	<!--
+	/* <![CDATA[ */
+		// set elements to be controlled 
+		// Arguments: selector text, default size,  minimum, maximum 
+		dw_fontSizerDX.set('.body', 1, 0.5, 2);
+		dw_fontSizerDX.init();
+	/* ]]> */
+	//-->
+	</script>
+	
+			<script>
+var popUpWin=0;
+function popUpWindow(URLStr, left, top, width, height)
+{
+  if(popUpWin)
+    {
+      if(!popUpWin.closed) popUpWin.close();
+    }
+  popUpWin = open(URLStr, 'popUpWin', 'toolbar=no,location=no,directories=no,status=no,menub ar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width='+width+',height='+height+',left='+left+', top='+top+',screenX='+left+',screenY='+top+'');
+}
+
+	</script> 
+	
+ 
+
+
+
+<script type="text/javascript">
+
+
+
+
+
+var welcomeClosed = false;
+
+
+
+
+function createCookie(name,value,seconds) {
+	if (seconds) {
+		var date = new Date();
+		date.setTime(date.getTime()+(seconds*1000));
+		var expires = "; expires="+date.toGMTString();
+	} else {
+		 var expires = "";
+	}
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+
+function detectMacXFF2() {
+  var userAgent = navigator.userAgent.toLowerCase();
+  if (/firefox[\/\s](\d+\.\d+)/.test(userAgent)) {
+    var ffversion = new Number(RegExp.$1);
+    if (ffversion < 3 && userAgent.indexOf('mac') != -1) {
+      return true;
+    }
+  }
+}
+
+
+function waitForDiv(id, callback) {
+	var div = document.getElementById(id);
+	if (div != null) {
+		eval(callback);
+	}
+}
+	
+function startModal() {
+	
+	welcomeTimer = setInterval('waitForDiv("allPageContent", "showModal()")', 5);
+}
+
+function showModal() {
+	clearInterval(welcomeTimer);
+
+	
+	if (readCookie('WELCOME_AD') != null) {
+		// remove it AGAIN for firefox
+		document.body.removeChild(document.getElementById("welcomeAdContent"));
+		return;
+	}
+
+	createCookie("WELCOME_AD", "SEEN", 72*60*60);
+
+	if (welcomeClosed) {
+		return;
+	}
+
+	try {
+		fadeEffect();
+	} catch (err) {}
+
+	autoclose = setInterval("closeModal()", 25*1000);
+}
+
+function fadeEffect() {
+	if (detectMacXFF2()) {
+	} else {
+		document.getElementById("allPageContent").style.opacity=".33";
+		document.getElementById("allPageContent").style.width="100%";
+		document.getElementById("allPageContent").style.filter="alpha(opacity=33)";
+
+	}
+
+}
+
+function unfade() {
+	document.getElementById("allPageContent").style.opacity="1.0";
+	document.getElementById("allPageContent").style.filter="alpha(opacity=100)";
+        if (document.getElementById("allPageContent").style.removeAttribute) {
+          document.getElementById("allPageContent").style.removeAttribute("filter");
+        }
+
+}
+
+function closeModal() {
+	welcomeClosed = true;
+	try {
+		// this is in a try/catch as autoclose is not defined if
+		// the close link was clicked before the interval was created
+		clearInterval(autoclose);
+	} catch (err) {}
+
+	unfade();
+	document.body.removeChild(document.getElementById("welcomeAdContent"));
+}
+
+
+</script>
+
+<style>
+#welcomeAdContent {
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+	z-index: 3000;
+}
+
+</style>
+
+
+
+<!--[if  IE ]>
+<style>
+/* #allPageContent {position:absolute; ;top:0; left:0;z-index:-1} */
+#welcomeAdContent {
+	position: fixed; 
+	top:0; left:0;
+	z-index:3000; width:100%; height:100%; 
+}
+</style>
+<![endif]-->
+
+
+
+  </head>
+  <body>
+ 
+
+
+<iframe id="welcomeAdContent" frameborder="0" scrolling="auto" allowtransparency="true" src="/global/welcomeModal/welcome_ad2.jsp"></iframe>
+
+
+<script type="text/javascript">
+	startModal();
+</script>
+
+
+
+<div id="allPageContent">
+        <center>
+  <div class="homepage">
+  <div id="leaderboard">
+<div>
+<script type="text/javascript">
+  /*<![CDATA[*/
+     OAS_AD('Top');
+ //LEADERBOARD');
+  /*]]>*/
+</script>
+</div>
+
+</div>
+
+   	 
+  
+   <div id="xref">
+ <div id="cygnusmenu">A <a href="http://www.cygnusb2b.com/" target="_blank" id="cygnuslink">Cygnus Business Media</a> Site</div>
+
+ 
+</div>
+ <div id="branding">
+ 
+ <h1><a href="/">AirportBusiness</a></h1>
+ <a id="cygb2b" href="http://www.cygnusb2b.com/">Cygnus Business Media</a>
+
+
+<!--
+  <div id="searchbar"> 
+
+   <div>
+
+   </div>
+
+
+ </div> -->
+</div>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("navigation").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]>
+</script>
+ <!-- Begin Nav bar -->
+ <style> .added{background-image: url(/design/images/arroww.gif);background-repeat: no-repeat;background-position: right;}</style>
+ <div id="nav">
+  <ul id="navigation">
+
+  <li><a href="/" id="nhome">Home</a></li>
+  <li><a href="/online/news.jsp" id="nnews">News</a>
+  <ul class="subnav">
+			    <li><a href="/online/section.jsp?siteSection=1">Top of the News</a></li>
+				<li><a href="/online/section.jsp?siteSection=4">Airport News</a></li>
+				<li><a href="/online/section.jsp?siteSection=3">Airline News</a></li>
+				<li><a href="/online/section.jsp?siteSection=18">General Aviation</a></li>
+				<li><a href="/online/section.jsp?siteSection=36">Aviation Legal News </a></li>
+				<li><a href="/online/section.jsp?siteSection=20">International News</a></li>
+				<li><a href="/videonetwork/">Video news clips</a></li>
+				</ul>
+  </li>
+
+  <li><a href="/publication/archives.jsp?pubId=1" id="nmaga">Archives</a></li>
+  <li><a href="/publication/index.jsp?pubId=1" id="nmaga">Magazines</a>
+  <ul class="subnav">
+  <li><a href="https://cygweb4.cygnuspub.com/Secure/Subscriptions/Sub_form.cfm?iPub_Code=250">Subscribe</a></li>
+	    <li><a href="http://www.airportbusiness.com">AirportBusiness</a></li>
+		<li><a href="http://www.amtonline.com">AMT</a></li>
+		<li><a href="http://www.groundsupportmagazine.com">Ground Support Worldwide</a></li>
+	<!--	<li><a href="http://www.masstransitmag.com/">Mass Transit</a></li> -->
+  </ul>
+  </li>
+ <li><a href="/online/opinions.jsp">Opinions</a>
+ <ul class="subnav">
+		<li><a href="/interactive/" id="nprod">Blogs</a></li>
+		<li><a href="/online/functions.jsp?d=1" id="fnews" class="added">Management Advice columns</a>
+		<ul class="subnav2">
+			    <li><a href="/online/section.jsp?siteSection=22">Airport Retailing</a></li>
+				<li><a href="/online/section.jsp?siteSection=23">Spotlight on Customer Service</a></li>
+				<li><a href="/online/section.jsp?siteSection=37">General Aviation Notes</a></li>
+				<li><a href="/online/section.jsp?siteSection=17">Inside Airport Security</a></li>
+				<li><a href="/online/section.jsp?siteSection=51">Managing Tomorrow's Airports</a></li>
+				<li><a href="/online/section.jsp?siteSection=26">The Airport Management Paradigm</a></li>
+				<li><a href="/online/section.jsp?siteSection=50">Travel Trends</a></li>
+				</ul>
+		</li>
+	<!--	<li><a href="/forums">Forums</a></li> -->
+  </ul>
+ </li>
+
+  <li><a href="/online/calendar/" id="nindu" class="last">Events</a>
+  <!--ul class="subnav">
+	    <li><a href="/online/calendar/">Calendar</a></li>
+		<li><a href="/online/section.jsp?siteSection=38">Convention Coverage</a></li>
+  </ul-->
+  
+  </li> 
+  <li style="background-color:#045FA8; height:20px"><a href="http://directory.airportbusiness.com/buyersguide/" id="nbuye">Buyer's Guide</a>
+ <!--   <ul class="subnav">
+		<li><a href="http://directory.airportbusiness.com/productguide/">Search by Product</a></li>
+		<li><a href="http://directory.airportbusiness.com/buyersguide/">Search by Company</a></li>
+		<li><a href="/online/library.jsp">The Index</a></li> 
+      </ul>-->
+  </li>
+  <li><a href="/publication/staff.jsp" id="nindu" class="last">Contact Us</a></li>
+  <li><a href="/classifieds.jsp" id="nindu" class="last">Classifieds</a></li>
+  <li><a href="/career.jsp" id="nindu" class="last">Careers</a></li>
+
+  <li><a href="/arc/">Advertise</a>
+  <ul class="subnav">
+		<li><a href="/advertise/dlform.jsp">Media Kit</a></li>
+	
+  </ul>
+  </li>
+  <li class="last"><a href="http://www.airportbusiness.com/video/" id="nbuye">Video Network</a></li>
+ 
+
+
+  
+
+  </ul>
+ </div>
+<div id="date">
+  <div class="datestamp">
+  
+  <span class="update">
+                
+
+
+
+                        <b>Friday, September 17, 2010</b>
+        </span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/AirportBusiness" target="_blank"><img src="/images/facebook_sm.gif" width="15" height="15" hspace="5" border="0"></a><a href="http://www.facebook.com/AirportBusiness" target="_blank">Facebook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ABToday" target="_blank"><img src="/images/twitter_sm.jpg" width="11" height="16" hspace="5" border="0"></a><a href="https://twitter.com/ABToday" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.linkedin.com/groups?gid=1466267&amp;trk=hb_side_g" target="_blank"><img src="/images/linkedin_sm.gif" width="15" height="14" hspace="5" border="0"></a><a href="http://www.linkedin.com/groups?gid=1466267&amp;trk=hb_side_g" target="_blank">LinkedIn</a></div>
+
+
+<div id="searchbar">
+
+			<div style="float:right">
+<form method="get" action="http://www.google.com/custom" target="_top" id="searchform">
+  
+  <input type="hidden" name="client" value="pub-6572673426716164">
+  <input type="hidden" name="forid" value="1">
+  <input type="hidden" name="channel" value="7023291707">
+  <input type="hidden" name="ie" value="UTF-8">
+  <input type="hidden" name="oe" value="UTF-8">
+  <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:96A8CF;ALC:000000;LC:000000;T:0000FF;GFNT:0000FF;GIMP:0000FF;LH:50;LW:430;L:http://www.airportbusiness.com/images/publication/1137128941052_RVTD2.jpg;S:http://www.airportbusiness.com;FORID:1;">
+	<input type="hidden" name="hl" value="en">
+
+
+<!-- <img src="/design/images/google.gif" alt="powered by: Google" />
+		<img src="/design/images/search.gif" alt="Search" /> -->
+
+	<input type="hidden" name="sitesearch" value="airportbusiness.com"> 
+	<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top" style="padding-top:0px;padding-right:3px">		
+		 <span>Search: </span>
+	<!--			
+		<input type="radio" checked="checked"  class="searchradio" name="sitesearch" value="airportbusiness.com" /> <span>Site</span>
+		
+		<input type="radio" class="searchradio" name="sitesearch" value=""  /> <span>Web</span>
+		-->
+		<input type="text" id="searchtxt" name="q" value="Search" size="19" onclick="javascript:this.value=''">
+		</td>
+	<td valign="top">
+		<input type="image" src="/design/images/searchicon.gif" name="sa" value="Go" id="searchbutton">
+		</td></tr></tbody></table>	
+		<input type="hidden" name="domains" value="airportbusiness.com">
+	</form>
+</div></div>
+
+
+  </div>
+
+        <!-- End Nav bar -->
+
+  
+	
+	<!-- Begin right side ADs -->
+	<div class="ads" id="adsright">
+     <!--  <div class="adlinks">
+<ul>
+
+<li><a href="/publication/staff.jsp">Contact Us</a></li>
+<li><a href="https://cygweb4.cygnuspub.com/Secure/Subscriptions/Sub_form.cfm?iPub_Code=250" target="_new">Subscribe</a></li>
+<li><a href="/classifieds.jsp">Classifieds</a></li>
+<li><a href="/career.jsp">Careers</a></li>
+</ul>
+</div> -->
+<div>
+<script type="text/javascript">
+   <!--
+     OAS_AD('x01');
+ //SN_120x60A');
+   //-->
+</script>
+</div>
+<div>
+<script type="text/javascript">
+   <!--
+     OAS_AD('x02');
+ //SN_120x90A');
+   //-->
+</script>
+</div>
+<div>
+<script type="text/javascript">
+   <!--
+      //SN_120x60C');
+   //-->
+</script>
+</div>
+
+<div>
+<script type="text/javascript">
+   <!--
+     //OAS_AD('SN_120x60B');
+   //-->
+</script>
+</div>
+
+<div>
+<script type="text/javascript">
+   <!--
+     OAS_AD('x03');
+ //SN_120x90B');
+   //-->
+</script>
+</div>
+
+<div>
+<script type="text/javascript">
+   <!--
+     OAS_AD('x04');
+ //SN_120x120A');
+   //-->
+</script>
+</div>
+<div>
+<script type="text/javascript">
+   <!--
+     //OAS_AD('SN_120x120B');
+   //-->
+</script>
+</div>
+
+		
+<div>
+<script type="text/javascript">
+     //SW_120x60');
+</script>
+</div>
+
+		<div>
+<script type="text/javascript">
+     OAS_AD('Right');
+ //SKY_120x600');
+</script>
+</div>
+		
+
+
+	</div>
+	<!-- End Right side ADs -->
+
+    	<!-- BEGIN CONTENT -->
+		<div id="content">
+<div id="accessibility">
+	<h1>AirportBusiness.com | </h1>
+	<h2>Magazine Article</h2>
+
+	<p><a href="#navigation" title="skip to navigation">&nbsp;</a><a href="#content" title="skip to page content">&nbsp;</a></p>
+</div> 
+<!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b4787bf7e72665b"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b4787bf7e72665b"></script>
+<!-- AddThis Button END -->
+<!-- GENERAL SITE INFO ABOUT THE ARTICLE -->
+<!-- div class="sectionLink">
+  <a href="/online/archives.jsp?siteSection=1">View more Top News Headlines articles &raquo;</a>
+</div> 
+<div class="sectionName">
+  Top News Headlines
+</div --> 
+<table width="815" border="0"><tbody><tr><td width="100%">
+<!-- PUBLICATION INFORMATION BLOCK START -->
+  <!-- This will only actually show up if this is a publication article -->
+
+
+<div class="publicationLink">
+  <a href="/publication/archives.jsp?pubId=1">More News From Airport Business Magazine</a>
+</div>
+<!--div class="publicationName">
+  Airport Business Magazine
+</div-->
+<div class="issueLink">
+  <a href="/publication/index.jsp?issueId=120">More From The May 2010 Issue</a>
+</div>
+<!--div class="issueVolume">
+  May 2010
+</div-->
+
+
+
+
+<div class="pubContributorLink">
+  <a href="/publication/bio.jsp?contribId=87">More News From Richard L. Holes, P.E.</a>
+
+</div>
+<!--div class="pubContributorName">
+  Richard L. Holes, P.E.
+</div-->
+
+
+
+
+  </td></tr></tbody></table>
+<!-- PUBLICATION INFO BLOCK END -->
+<!-- END GENERAL SITE INFO ABOUT THE ARTICLE -->
+		<div class="artfunctions" style="width:75%;"> 
+		
+	<script type="text/javascript">
+		var icx_publication_id = 7532;
+		var icx_content_id = 36411;
+	</script>
+	<script type="text/javascript" src="http://license.icopyright.net/publisher/js/pageview.js"></script>
+	<a href="/online/mostPopular.jsp?type=1"><img src="/design/images/icon_most_read.gif" alt="Most Read Stories Today">Most Read</a>
+ 	<a href="/online/mostPopular.jsp?type=3"><img src="/design/images/icon_most_emailed.gif" alt="Most E-mailed Stories Today">Most E-mailed</a>
+	<!-- iCopyright Tag -------------------------------------------------------------->
+		<a onclick="popup=window.open(this.href, 'contentservices', 'width=508,height=550,scrollbars=yes,resizable=yes'); popup.focus(); return false;" href="/includes/emailWrapper.jsp?ipd=3.7532&amp;id=36411" target="_blank" class="popup"><img src="/design/images/icon_mail.gif" alt="Email This Story" style="margin-right:4px;margin-left:3px;">E-mail Article</a>
+		<a onclick="popup=window.open(this.href, 'contentservices', 'width=508,height=550,scrollbars=yes,resizable=yes'); popup.focus(); return false;" href="http://license.icopyright.net/s11/3.7532?icx_id=36411" target="_blank" class="popup"><img src="/design/images/icon_print.gif" alt="Print This Story" style="margin-right:3px;">Print Article</a>
+		 | 
+		<a onclick="popup=window.open(this.href, 'contentservices', 'width=508,height=550,scrollbars=yes,resizable=yes'); popup.focus(); return false;" href="http://license.icopyright.net/s13/3.7532?icx_id=36411" target="_blank" class="popup">Save Article</a>
+		
+			 | 
+			<a onclick="popup=window.open(this.href, 'contentservices', 'width=508,height=550,scrollbars=yes,resizable=yes'); popup.focus(); return false;" href="http://license.icopyright.net/3.7532?icx_id=36411" target="_blank" class="popup">License Article</a>
+			
+		<a onclick="popup=window.open(this.href, 'contentservices', 'width=508,height=550,scrollbars=yes,resizable=yes'); popup.focus(); return false;" href="http://license.icopyright.net/3.7532?icx_id=36411" target="_blank" class="popup"><img height="25" width="27" border="0" alt="[Get Copyright Permissions]" src="http://license.icopyright.net/images/icopy-w.gif"></a>
+	<!-- iCopyright Tag -------------------------------------------------------------->
+	
+
+<!--
+		<img src="/design/images/icon_most_read.gif" alt="Most Read Stories Today" style="margin-right:4px;margin-left:3px;" /> <a href="/online/mostPopular.jsp?type=1">Most Read</a> 
+		<img src="/design/images/icon_most_emailed.gif" alt="Most Emailed Stories Today" style="margin-right:4px;margin-left:3px;" /> <a href="/online/mostPopular.jsp?type=3">Most Emailed</a> 
+		<img src="/design/images/icon_mail.gif" alt="E-mail This Story" style="margin-right:4px;" /> <a href="/online/email.jsp?id=36411&siteSection=1&pubId=1" class="popup">E-mail Article</a> 
+		<img src="/design/images/icon_print.gif" alt="Print This Story" style="margin-left:4px; margin-right:4px;" /> <a href="javascript:popUpWindow('/online/printer.jsp', '100', '100', '800', '600')">Print Article</a>
+
+		<img src="/design/images/plus.gif" width="22" height="16" alt="Increase font size" style="margin-left:4px;" /> <a href="" onclick="dw_fontSizerDX.adjust(0.1); return false" accesskey="i" title="Increase font-size">Enlarge Text</a>
+		<img src="/design/images/minus.gif" width="22" height="16" alt="Decrease font size" style="margin-left:4px;" /> <a href="" onclick="dw_fontSizerDX.adjust(-0.1); return false" accesskey="r" title="Decrease font-size">Reduce Text</a>
+-->
+	</div>
+
+<!-- ARTICLE INFO FIELDS -->
+
+<div class="title">
+  Drilling for $$$
+</div>
+
+<div class="subTitle">
+  For some airports, natural gas is offering new revenue opportunities
+</div>
+
+<div class="byline">
+  By <a href="/publication/bio.jsp?contribId=87"> Richard L. Holes, P.E.</a>
+</div>
+
+<div class="byline">
+  
+</div>
+
+<div class="source">
+  
+</div>
+
+
+<!-- BEGIN PHOTO BLOCK (regular site articles) -->
+<div style="float:right;width:300px;padding:5px;padding-left:9px">
+<div id="blockADs">
+<script type="text/javascript">
+   <!--
+     OAS_AD('Middle');
+ //POS_300x250');
+   //-->
+</script>
+</div><br><br>
+
+ <!-- site photo -->
+		
+
+
+ 
+
+
+
+</div>
+<!-- END PHOTO BLOCK -->
+
+
+
+<div class="body">
+  <br>
+	<div id="intelliTXT">
+    <p>Progress being made on uncovering valuable resources deep underground is helping some airports capture new revenue opportunities. Beneath much of the state of Pennsylvania, as well as parts of neighboring states, a rock formation called Marcellus Shale is believed to hold massive amounts of natural gas. Geoscientists recently estimated that the Marcellus Shale region may hold as much as 50 trillion cubic feet of recoverable natural gas, enough to fuel the entire U.S. for two years.  Here, a consultant involved with airports for such drilling operations considers the benefits and challenges.</p>
+<p>Until recently, these resources, lying at a depth of 5,000 to 8,000 feet, have been too expensive to tap.  Advanced drilling technology and a shift in fuel pricing, however, are encouraging oil and gas companies to find safe and effective ways to penetrate the formation and recover the gas within it.</p>
+<p>Communities in the Marcellus Shale region are anticipating an economic boom related to the drilling activity, which could create as many as 175,000 jobs by 2020. Among the first to potentially benefit from this economic opportunity are local and regional airports in the Eastern states where the drilling will occur. </p>
+<p><strong>Plan to plan</strong><br>
+  As the owners of very large tracts of land, airports are now working with their consultants to evaluate their property to determine if it may offer appropriate drilling sites, or if property is available for development by businesses related to the Marcellus Shale industry. By opening portions of unused airport land to Marcellus Shale drilling or development, airports may generate new sources of revenue that do not interfere with aviation operations. </p>
+<p>Of course, if an airport expects to dedicate portions of its property to drilling or development while also seeking to expand its own operations, it will be crucial to develop a master plan. While FAA’s master planning recommendations focus on the airfield, it’s equally important for airports to create master plans for their business operations. Such a business plan helps an airport realize the added value and potential that resides in its tenants. </p>
+<p>Business plans are especially important for airports in the area around the Marcellus Shale formation. A thoroughly prepared business plan will incorporate three principal activities:</p>
+<ul>
+  <li> A map for future growth. Many government-owned facilities have no clear plan for long-term growth based on business goals. The aviation consultant should work with clients to identify their vision, their purpose, and their aspirations and then help in planning the steps for reaching their goals.</li>
+  <li> Rigorous financial evaluation. The consultant will collect financial data, review and summarize the data, project revenue and expenses up to 20 years in the future, and explore funding opportunities as necessary. It’s vital that the airport’s business plan be self-financing, and investments should yield immediate results.</li>
+  <li> Operational and business-development planning. The airport should expect its aviation consulting team to provide advice on the daily administration and operations of a successful airport, with an emphasis on tenant retention and attraction services, lease negotiations, land lease RFP development, accounting and work-order systems, and coordination with governmental agencies.</li>
+</ul>
+<p>When creating a business plan, airports should consider that, in almost all cases, their land has been purchased with federal funds; and, in receiving federal grants for development, airport sponsors must meet various grant assurances regarding the development of their facilities.  One such assurance requires that the National Environmental Policy Act of 1969 (NEPA) be met for all airport developments, including drilling or development associated with Marcellus Shale. Therefore, an environmental finding must be completed. Airport sponsors can work with their consultants and FAA to identify the type of environmental document that will be required for the proposed development and to complete that work prior to allowing the drilling or development to take place.</p>
+	</div>
+    <div class="paginationNav"><span class="pageXofY"> 1  <a href="http://www.airportbusiness.com/publication/article.jsp?pubId=1&amp;id=36411&amp;pageNum=2">2</a> </span><span class="nextPageLink"><a href="http://www.airportbusiness.com/publication/article.jsp?pubId=1&amp;id=36411&amp;pageNum=2">next</a></span></div>
+  <br>
+</div>
+
+<!-- BEGIN PHOTO BLOCK (product showcase articles) -->
+ <div id="body_products" style="float:left; width: 100%; ">
+  <br>
+  <br>
+
+
+
+
+</div>
+<!-- END PHOTO BLOCK -->
+
+<div class="relatedLinks">
+  
+</div>
+<!-- END ARTICLE INFO FIELDS -->
+
+<div class="artfunctions" style="width:75%;"> 
+
+		
+	<!-- iCopyright Tag -------------------------------------------------------------->
+	<a onmouseover="javascript:this.style.color='#E8B900'; this.getElementsByTagName('img')[0].src='http://license.icopyright.net/images/icopy-g.gif';" onmouseout="javascript:this.style.color='#0000FF'; this.getElementsByTagName('img')[0].src='http://license.icopyright.net/images/icopy-w.gif';" onclick="popup=window.open(this.href, 'contentservices', 'width=508,height=550,scrollbars=yes,resizable=yes'); popup.focus(); return false;" style="color: #0000FF; font-family: arial, sans-serif; font-size: 7pt;" href="http://license.icopyright.net/3.7532?icx_id=36411" target="_blank">
+		<img height="25" width="27" border="0" align="left" alt="[Get Copyright Permissions]" src="http://license.icopyright.net/images/icopy-w.gif">
+		Click here for copyright permissions!
+	</a>
+	<br>
+	Copyright 2010 Cygnus Business Media
+	<br>
+	<!-- iCopyright Tag -------------------------------------------------------------->
+	
+
+<!--		
+		<img src="/design/images/icon_mail.gif" alt="E-mail This Story" style="margin-right:4px;" /> <a href="/online/email.jsp?id=36411&siteSection=1&pubId=1" class="popup">E-mail Article</a> 
+		<img src="/design/images/icon_print.gif" alt="Print This Story" style="margin-left:4px; margin-right:4px;" /> <a href="javascript:popUpWindow('/online/printer.jsp', '100', '100', '800', '600')">Print Article</a>
+-->	
+	</div>
+
+		<br><br>
+	
+	</div>
+	<!-- END CONTENT -->
+	<center>
+    
+   
+	</center>
+	<div id="footer">
+<center> 
+<div>
+<script type="text/javascript">
+   <!--
+     OAS_AD('Bottom');
+ //SW_468_BOTTOM');
+   //-->
+</script>
+</div>
+</center><br><br>
+	<a href="mailto:uce@cygnusb2b.com"> </a>
+	<a href="mailto:uce@cygnuspub.com"> </a>
+		<ul>
+		<li><a href="/arc/">Advertise With Us</a></li>
+		<li><a href="http://www.omeda.com/cgi-win/airb.cgi?login>" target="_new">Subscribe</a></li>
+		 <li><a href="/publication/staff.jsp">Contact Us</a></li>
+		 <li><a href="/publication/linktous.jsp"> Link to Us </a></li>
+		 <li><a href="/publication/bookmark.jsp"> Bookmark Us </a></li><br>
+         <li><a href="http://airportbusiness.mail.everyone.net/email/scripts/loginuser.pl"> Free e-Mail Service Login</a></li>
+		 <!--li><a href="/contact/"> User Agreement </a></li -->
+		 <li style="border:none;"><a href="/publication/privacy.jsp"> Privacy Statement</a></li>
+			
+		</ul>
+		
+		Copyright © 
+		<script>
+					// For Text Display of the current year
+					var today = new Date;
+					var year  = today.getYear();
+						if (year < 2000) year = year + 1900;
+					document.write(year);
+			</script> All rights reserved. Cygnus Interactive, a Division of Cygnus Business Media. <br>
+	&nbsp;<br>
+	<a href="/rss/"><img src="/global/images/rss.gif">&nbsp;RSS Feeds</a>&nbsp;&nbsp;
+	<a href="http://add.my.yahoo.com/content?url=http://www.airportbusiness.com/rss/top_news_headlines.xml&amp;lg=en" target="_blank"><img src="/global/images/rss-yahoo.gif" alt="add to my yahoo!"></a>&nbsp;&nbsp;
+	<a href="http://fusion.google.com/add?feedurl=http://www.airportbusiness.com/rss/top_news_headlines.xml" target="_blank"><img src="/global/images/rss-google.gif" alt="add to google"></a>
+	
+		</div>
+
+<!-- Begin Adify tag for "AudiencePixel" Ad Space (1x1) ID #1000002491307 --> 
+ <script type="text/javascript"> 
+ sr_adspace_id = 1000002491307; 
+ sr_adspace_width = 1; 
+ sr_adspace_height = 1; 
+ sr_ad_new_window = true; 
+ sr_adspace_type = "graphic"; 
+ </script> 
+ <script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000002491307"> 
+ </script> 
+ <img height="1" width="1" border="0" src="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=3272765660196&amp;PageID=376&amp;EventType=view"> <!-- End Adify tag for "AudiencePixel" Ad Space (1x1) ID #1000002491307 -->
+
+		</div>
+	 <!-- end div class="homepage" -->
+	</center>
+	    
+	<!-- BEGIN Cygnus Menu Divs -->
+<div id="cygnus_menu">
+	<ul>
+		<li><a href="http://www.cygnusb2b.com/divPublishing.cfm" target="_blank" class="p7submenus" onmouseover="P7_autoLayers(1,'cygnus_menu','cygnus_pub');P7_Snap('cygnus_menu','cygnus_pub',137,0)" onmouseout="P7_autoLayers(1,'cygnus_menu')">Publishing</a></li>
+		<li><a href="http://www.cygnusb2b.com/divExpos.cfm" target="_blank" class="p7submenus" onmouseover="P7_autoLayers(1,'cygnus_menu','cygnus_exp');P7_Snap('cygnus_menu','cygnus_exp',137,21)" onmouseout="P7_autoLayers(1,'cygnus_menu')">Expositions</a></li>
+		<li><a href="http://www.cygnusb2b.com/divInteractive.cfm" target="_blank" class="p7submenus" onmouseover="P7_autoLayers(1,'cygnus_menu','cygnus_int');P7_Snap('cygnus_menu','cygnus_int',137,42)" onmouseout="P7_autoLayers(1,'cygnus_menu')">Interactive</a></li>
+		<li><a href="http://www.cygnuscustomsolutions.com/" target="_blank" class="p7submenus">Custom Solutions</a></li>
+
+	</ul>
+</div>
+<div id="cygnus_pub" class="cygnus_submenu" onmouseover="P7_autoLayers(1,'cygnus_menu','cygnus_pub')" onmouseout="P7_autoLayers(1)">
+	<ul>
+		<li><a href="http://www.cygnusb2b.com/pubFind.cfm" target="_blank" class="p7submenus">Find Your Market</a></li>
+		<li><a href="http://www.cygnusb2b.com/srds.cfm" target="_blank" class="p7submenus">SRDS Classifications</a></li>
+		<li><a href="http://www.cygnusb2b.com/divcontentlicensingpub.cfm" target="_blank" class="p7submenus">Content Licensing</a></li>
+	</ul>
+
+</div>
+<div id="cygnus_exp" class="cygnus_submenu" onmouseover="P7_autoLayers(1,'cygnus_menu','cygnus_exp')" onmouseout="P7_autoLayers(1)">
+	<ul>
+		<li><a href="http://www.cygnusb2b.com/EventCalendar.cfm" target="_blank" class="p7submenus">Event Calendar</a></li>
+	</ul>
+</div>
+<div id="cygnus_int" class="cygnus_submenu" onmouseover="P7_autoLayers(1,'cygnus_menu','cygnus_int')" onmouseout="P7_autoLayers(1)">
+	<ul>
+		<li><a href="http://www.cygnusb2b.com/jobs" target="_blank">Career Opportunities</a></li>
+		<li><a href="http://www.cygnusb2b.com/interFind.cfm" target="_blank" class="p7submenus">Find Your Market</a></li>
+
+		<li><a href="http://www.cygnusb2b.com/interTrend.cfm" target="_blank" class="p7submenus">Internet Trends</a></li>
+		<li><a href="http://www.cygnusb2b.com/interStart.htm" target="_blank" class="p7submenus">Get Started Now</a></li>
+		<li><a href="http://www.cygnusb2b.com/divcontentlicensing.cfm" target="_blank" class="p7submenus">Content Licensing</a></li>
+	</ul>
+</div>
+<!-- END Cygnus Menu Divs -->
+
+
+</div>
+    
+
+</body></html>

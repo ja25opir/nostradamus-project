@@ -1,0 +1,370 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+  <base href="http://622208.com/component/content/article/65-makgadikgadi-pans-diary--updates/287-makgadikgadi-pans-day-2">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="keywords" content="billy,joe, van graan, travel, adventure, expedition, cycle, bicycle touring, mountain">
+  <meta name="title" content="Makgadikgadi Pans: Day 2">
+  <meta name="author" content="Billy van Graan">
+  <meta name="description" content="Billy-Joe van Graan's personal, travel and adventure blog.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Makgadikgadi Pans: Day 2</title>
+  <link href="/templates/yoo_waybeyond/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://622208.com/plugins/content/yoo_gallery/gallery.css.php" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/plugins/content/yoo_gallery/lib/slideshow/slideshow.css" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/media/myjosctemplates/mydefault-emotop/css/css.css" type="text/css">
+  <link rel="stylesheet" href="http://622208.com/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://622208.com/plugins/content/yoo_gallery/lib/slideshow/slideshow_packed.js"></script>
+  <style type="text/css">@import url(http://622208.com/plugins/system/blueflame/bfCombine.php?type=css/tag/bffront_css,front_css);</style>
+  <script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://622208.com//index.php";
+xajax.config.statusMessages = true;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://622208.com//plugins/system/blueflame/xajax/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: http://622208.com//plugins/system/blueflame/xajax/xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+xajax_bf_com_bftag_Handler = function() { return xajax.request( { xjxfun: 'bf_com_bftag_Handler' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+  <script src="http://622208.com/plugins/system/blueflame/bfCombine.php?type=js&amp;amp;c=tag&amp;amp;f=jquery,bffront_js,front_js" type="text/javascript"></script>
+  <script type="text/javascript">
+ var _JOOMLACOMMENT_MSG_DELETE 	= "Are you sure you want to delete this comment?"; var _JOOMLACOMMENT_MSG_DELETEALL = "Are you sure you want to delete all comments?"; var _JOOMLACOMMENT_WRITECOMMENT 	= "Write comment"; var _JOOMLACOMMENT_SENDFORM 		= "Send"; var _JOOMLACOMMENT_EDITCOMMENT 	= "Edit comment"; var _JOOMLACOMMENT_EDIT 			= "Edit"; var _JOOMLACOMMENT_FORMVALIDATE 	= "Please insert at least a comment."; var _JOOMLACOMMENT_FORMVALIDATE_CAPTCHA = "Please input the anti-spam code that you can read in the image."; var _JOOMLACOMMENT_FORMVALIDATE_CAPTCHA_FAILED = "Anti-spam code is not correct. Please input the code that you can read in the image."; var _JOOMLACOMMENT_FORMVALIDATE_EMAIL = "To be notified, please enter your email"; var _JOOMLACOMMENT_ANONYMOUS 	= "Anonymous"; var _JOOMLACOMMENT_BEFORE_APPROVAL = "Your comment has been queued for moderation by site administrators and will be published after approval."; var _JOOMLACOMMENT_REQUEST_ERROR = "Request failed"; var _JOOMLACOMMENT_MSG_NEEDREFRESH = "";
+</script>
+  <script type="text/javascript" src="http://622208.com/components/com_comment/joscomment/jscripts/client.js"></script>
+  <script type="text/javascript">var YOOeffects = { url: 'http://622208.com/plugins/system/yoo_effects/lightbox/' };</script>
+<script type="text/javascript" src="http://622208.com/plugins/system/yoo_effects/yoo_effects.js.php?lb=1&amp;re=1&amp;sl=1"></script>
+
+<link rel="stylesheet" href="/templates/yoo_waybeyond/css/popups.css" type="text/css">
+</head>
+<body class="contentpane">
+	
+	
+<div class="joomla ">
+	
+	<div class="article">
+	
+				
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/expeditions/makgadikgadi-pan/diary-updates/287-makgadikgadi-pans-day-2">Makgadikgadi Pans: Day 2</a>
+							</h1>
+						
+						
+				<span class="icon printscreen">
+					<a href="#" onclick="window.print();return false;"><img src="/templates/yoo_waybeyond/images/printButton.png" alt="Print"></a>				</span>
+				
+						
+		</div>
+			
+				
+			
+			
+				<p class="articleinfo">
+		
+						<span class="created">
+				Tuesday, 17 August 2010 00:00			</span>
+					
+						<span class="modified">
+				Last Updated on Monday, 23 August 2010 15:46			</span>
+					
+						<span class="author">
+				Written by Billy van Graan			</span>
+						
+					
+		</p>
+				
+				
+				<p><strong>Distance Walked: 20km</strong></p><p><br>Set my alarm to wake up at 5am so I could start my walk for the day by 6am but when I woke the wind was howling and it was very cold. I knew I had to get up because I wanted to try and get out of this wet and muddy business I found myself in and if I could make the daily 20km all in the morning I would have a tree to sit under at Khubu Island during lunch time, but I just couldn’t get myself to move so I just lay there for another half a hour before getting out of my sleeping bag.</p><p></p><div class="slideshow cut">
+	<div id="yoo-gallery-1" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-1-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/1._track_through_the_salty_slush.jpg" title="1. Track Through The Salty Slush" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/thumbs/thumb_1._track_through_the_salty_slush.jpg" alt="1. Track Through The Salty Slush" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/2._on_more_solid_ground_again.jpg" title="2. On More Solid Ground Again" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/thumbs/thumb_2._on_more_solid_ground_again.jpg" alt="2. On More Solid Ground Again" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/3._trailer_on_the_sua_pan.jpg" title="3. Trailer On The Sua Pan" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/thumbs/thumb_3._trailer_on_the_sua_pan.jpg" alt="3. Trailer On The Sua Pan" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/4._cool_textures_on_sua_pan.jpg" title="4. Cool Textures On Sua Pan" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/thumbs/thumb_4._cool_textures_on_sua_pan.jpg" alt="4. Cool Textures On Sua Pan" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/5._flamingo_egg_on_sua_pan.jpg" title="5. Flamingo Egg On Sua Pan" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/thumbs/thumb_5._flamingo_egg_on_sua_pan.jpg" alt="5. Flamingo Egg On Sua Pan" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/6._mouse_hitching_a_ride.jpg" title="6. Mouse Hitching A Ride" class="yoo-gallery-1-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_1/thumbs/thumb_6._mouse_hitching_a_ride.jpg" alt="6. Mouse Hitching A Ride" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-1-con', 'yoo-gallery-1-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script>&nbsp; <p></p><p>I quickly made breakfast and tea then packed all my things. When I picked up the groundsheet a saw a small white mouse was sleeping under it. The mouse quickly ran and jumped onto the groundsheet again and disappeared into the folds. It is a massive groundsheet so I didn’t want to unfold it completely to look for the mouse so I just shook it very well.</p><p>The first 10km of the day was again a struggle in the wet and salty clay and took a lot of energy to get through, but after that the pan surface gradually improved and got harder and dryer. I could see Khubu on the horizon to I had something to aim for and I put my head down and walked as hard as I could.&nbsp; In the last 10km I saw hundreds of eggs. These are flamingo eggs and at one stage I could count over 50 big eggs without moving. <br>I only managed to get to the island at 11:35 and by that time I was baking in the sun. I headed straight for the first big tree and took only the food bag and water with me and left my trailer at the edge of the island.&nbsp; As I grabbed the food bag I saw that the mouse from earlier the morning was still in between my things. Shame the little guy was hitching a ride and was now 20km away from home.</p><p>Only at 3:30pm did I dare go back into the sun to look for a nice spot somewhere around the island to camp. On the one side of the island there is a campsite but I didn’t want to camp between all the other tourists and get asked about the trailer all the time. When people see the trailer they want to know what the hell I’m up to and I just wanted to be left alone. One of the locals that help to run the campsite came past me later that evening on his bicycle when I was busy eating and I called him to stop. I wanted to get some information from him about the route I was planning to follow and about these dangerous wild animals I was stressing about.</p><p></p><div class="slideshow cut">
+	<div id="yoo-gallery-2" class="yoo-gallery slideshow">
+	
+		<div id="yoo-gallery-2-con" class="slideshow-bg" style="width:640px;height:480px;"></div>
+		<div class="thumbnails">
+		<div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_2/1._big_baobab_khubu_island.jpg" title="1. Big Baobab Khubu Island" class="yoo-gallery-2-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_2/thumbs/thumb_1._big_baobab_khubu_island.jpg" alt="1. Big Baobab Khubu Island" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_2/2._the_way_I_came_from_viewed_from_khubu.jpg" title="2. The Way I Came From Viewed From Khubu" class="yoo-gallery-2-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_2/thumbs/thumb_2._the_way_I_came_from_viewed_from_khubu.jpg" alt="2. The Way I Came From Viewed From Khubu" width="170" height="127">
+		</a>
+
+	</div>
+</div><div class="thumbnail">
+	<div class="thumbnail-bg">
+		<div class="corner-tl"></div>
+		<div class="corner-tr"></div>
+		<div class="corner-bl"></div>
+		<div class="corner-br"></div>
+				
+		<a href="http://622208.com/images/stories/makgadikgadi/gallery/day_2_2/3._camp_spot_on_the_edge_of_khubu_islan.jpg" title="3. Camp Spot On The Edge Of Khubu Islan" class="yoo-gallery-2-thumb">
+			<img src="http://622208.com/images/stories/makgadikgadi/gallery/day_2_2/thumbs/thumb_3._camp_spot_on_the_edge_of_khubu_islan.jpg" alt="3. Camp Spot On The Edge Of Khubu Islan" width="170" height="127">
+		</a>
+
+	</div>
+</div>		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+  	window.addEvent('domready', function(){
+				var show = new SlideShow('yoo-gallery-2-con', 'yoo-gallery-2-thumb', { wait: 5000, effect: 'fade', duration: 1000, loop: true, thumbnails: true });
+		show.play();
+	});
+</script>&nbsp;&nbsp; <p></p><p>According to him I could take a track that connects the two pans rather that walk straight north on the Sua pan then directly west through the bush onto Ntwetwe pan. In my initial planning I wanted to use this track but all the pictures that I could find that had this track on looked to me as if the sand would be too soft which makes pulling the trailer very difficult. He said the track is only soft in very few sections and would recommend I take it. He also said that I should not worry about wild animals unless I go very close to the Makgadikgadi Nature Reserve which is on the west edge of the Ntwetwe Pan.&nbsp; The section of bush where I will walk tomorrow is all used for cattle farming and there would be no dangerous wild animals. Yipee.</p><p>Khubu Island is a magical place. There are some of the biggest Baobab trees I’ve ever seen in my live and you can climb on some huge rocks to get a great view of the pans. I would definitely go back there again in the future.</p><p>&nbsp;</p><p><a href="/images/stories/makgadikgadi/panos/khubu_pano_big.jpg" title="View South from Khubu Island" rel="lightbox"><img src="/images/stories/makgadikgadi/panos/khubu_pano_small.jpg" border="0" alt="View South from Khubu Island" title="View South from Khubu Island" width="640"></a></p><p><strong>View south (where I came from) from Khubu Island - Click to Enlarge</strong></p>
+
+	
+	
+	<a name="tags"></a>
+	<br><br>
+	<strong>
+		<img border="0" align="absmiddle" alt="" src="/plugins/system/blueflame/view/images/bullet-tag_green.gif"> Tags
+	</strong>
+		<br>
+<a name="tags"></a>
+<span id="tagsfor287" class="fs16">
+		<a class="tagslink" href="http://622208.com/component/tag/botswana" rel="tag category" title="Botswana">Botswana</a>&nbsp;
+		<a class="tagslink" href="http://622208.com/component/tag/makgadikgadi_pans" rel="tag category" title="Makgadikgadi Pans">Makgadikgadi Pans</a>&nbsp;
+		<a class="tagslink" href="http://622208.com/component/tag/walking" rel="tag category" title="Walking">Walking</a>&nbsp;
+	
+</span>
+<span class="clearer"></span>	<br>
+	<div class="clearer"> </div>
+	<div class="clearer"> </div>	
+	<br>
+
+
+
+ <!-- START of joscomment --><div id="comment">
+<a name="JOSC_TOP"></a>
+
+<table align="center" class="sectiontableheader" id="CommentMenu" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td align="left" class="label">Comments</td>
+	<td align="right" class="buttons">
+	  <table cellpadding="0" cellspacing="0" border="0">
+	    <tbody><tr>
+		
+		<td class="button"><a id="_JOOMLACOMMENT_ADDNEW" href="javascript:JOSC_addNew()">Add New</a></td>
+		
+		
+		
+		<td class="button"><a id="_JOOMLACOMMENT_SEARCH" href="javascript:JOSC_searchForm()">Search</a></td>
+		
+		
+		<td class="button"><a id="_JOOMLACOMMENT_RSS" href="index2.php?option=com_comment&amp;no_html=1&amp;josctask=rss&amp;contentid=287">RSS</a></td>
+		
+	    </tr>
+	  </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+
+
+<table align="center" id="CommentPageNav" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td>
+<div id="joscPageNav"></div>
+</td><td id="JOSC_busypage"></td></tr>
+</tbody></table>
+
+<div id="Comments">
+<script type="text/javascript"> var JOSC_postCSS=1;</script></div>
+
+<div id="JOSC_formpos">
+
+<form name="joomlacommentform" method="post" action="index.php">
+  <a name="CommentForm"></a>
+  <input type="hidden" name="content_id" value="287"><input type="hidden" name="component" value=""><input type="hidden" name="joscsectionid" value="6">
+  <table align="center" cellpadding="0" cellspacing="0" class="form">
+    <tbody><tr><td colspan="2" class="sectiontableheader" align="center">Write comment</td></tr>
+    <tr><td colspan="2"><table cellspacing="5">
+    <tbody><tr class="sectiontableentry1">
+      <td>Name:</td>
+      <td><input name="tname" type="text" class="inputbox" size="40" value=""></td>
+    </tr>
+    
+    <tr class="sectiontableentry1">
+      <td>Email:</td>
+      <td><input name="temail" type="text" class="inputbox" size="30" value="">&nbsp;<select name="tnotify" class="inputbox"><option value="0" selected="selected">do not notify</option><option value="1">notify</option></select></td>
+    </tr>
+    
+    
+    <tr class="sectiontableentry1" style="display:none;">
+      <td>Title:</td>
+      <td><input name="ttitle" type="text" class="inputbox" size="40"></td>
+    </tr>
+    
+    
+    <tr class="sectiontableentry1">
+      <td>&nbsp;</td>
+      <td valign="middle"><div><div class="emoticoncontainer"><div class="emoticonseparator"></div><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:angry:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/angry.png" border="0" alt=":angry:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:0&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/blink.png" border="0" alt=":0"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:confused:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/blush.png" border="0" alt=":confused:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:cheer:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/cheerful.png" border="0" alt=":cheer:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;B)&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/cool.png" border="0" alt="B)"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:evil:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/devil.png" border="0" alt=":evil:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:silly:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/silly.png" border="0" alt=":silly:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:dry:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/ermm.png" border="0" alt=":dry:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:lol:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/grin.png" border="0" alt=":lol:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:kiss:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/kissing.png" border="0" alt=":kiss:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:D&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/laughing.png" border="0" alt=":D"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:pinch:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/pinch.png" border="0" alt=":pinch:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:(&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/sad.png" border="0" alt=":("></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:shock:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/shocked.png" border="0" alt=":shock:"></a></span></span><div class="emoticonseparator"></div><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:X&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/sick.png" border="0" alt=":X"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:side:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/sideways.png" border="0" alt=":side:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:)&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/smile.png" border="0" alt=":)"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:P&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/tongue.png" border="0" alt=":P"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:unsure:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/unsure.png" border="0" alt=":unsure:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:woohoo:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/w00t.png" border="0" alt=":woohoo:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:huh:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/wassat.png" border="0" alt=":huh:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:whistle:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/whistling.png" border="0" alt=":whistle:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;;)&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/wink.png" border="0" alt=";)"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:s&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/dizzy.png" border="0" alt=":s"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:!:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/icon_exclaim.gif" border="0" alt=":!:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:?:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/icon_question.gif" border="0" alt=":?:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:idea:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/icon_idea.gif" border="0" alt=":idea:"></a></span></span><span class="emoticonseparator"><span class="emoticon"><a href="javascript:JOSC_emoticon(&quot;:arrow:&quot;)"><img src="http://622208.com/components/com_comment/joscomment/emoticons/funny/images/icon_arrow.gif" border="0" alt=":arrow:"></a></span></span><div class="emoticonseparator"></div></div></div></td>
+    </tr>
+    
+    <tr class="sectiontableentry1">
+      <td>&nbsp;</td>
+      <td><textarea name="tcomment" class="inputbox" cols="60" rows="10"></textarea></td>
+    </tr>
+    <tr>
+      <td class="sectiontableentry2">
+	<table class="buttoncontainer" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><input type="button" class="button" name="bsend" value="Send" onclick="JOSC_editPost(-1,-1)"></td>
+          <td id="JOSC_busy"></td>
+        </tr>
+      </tbody></table>
+      </td>
+      <td class="sectiontableentry2">
+      
+	<table class="captchacontainer" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><input type="text" name="security_try" id="security_try" size="15" maxlength="10" class="captchainput"></td>
+          <td><div id="captcha"><a title="clic to reload a new image" href="javascript:JOSC_reloadCaptcha()"><img src="http://622208.com/components/com_comment/joscomment/captcha.php?refid=c9b5949cad6f525a8913e8bbee95688b" alt="Security Image">
+<input type="hidden" name="security_refid" value="c9b5949cad6f525a8913e8bbee95688b"></a></div></td>
+        </tr>
+        <tr><td class="itemsmall" colspan="2">Please input the anti-spam code that you can read in the image.</td></tr>
+      	</tbody></table>
+      
+      </td>
+    </tr>
+    </tbody></table></td></tr>
+  </tbody></table>
+</form>
+
+</div>
+
+<div id="poweredby" align="center" class="small">Powered by <a target="_blank" href="http://compojoom.com/">!JoomlaComment 3.26</a></div>
+<h4 style="display:none;">3.26 Copyright (C) 2008 Compojoom.com / Copyright (C) 2007 Alain Georgette / Copyright (C) 2006 Frantisek Hliva. All rights reserved."</h4></div>
+<script type="text/javascript">
+var JOSC_ajaxEnabled=1;if (!JOSC_http) JOSC_ajaxEnabled=false;var JOSC_sortDownward='0';var JOSC_captchaEnabled=true;var JOSC_template='http://622208.com/media/myjosctemplates/mydefault-emotop';var JOSC_liveSite='http://622208.com/components/com_comment/joscomment';var JOSC_ConfigLiveSite='http://622208.com';var JOSC_linkToContent='http://622208.com/expeditions/makgadikgadi-pan/diary-updates/287-makgadikgadi-pans-day-2';var JOSC_autopublish='1';
+</script>
+<!-- END of joscomment -->		
+		
+	</div>
+	
+</div>
+
+
+</body></html>

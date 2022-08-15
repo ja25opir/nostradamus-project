@@ -1,0 +1,669 @@
+<!DOCTYPE html><html dir="ltr"><head>
+<script src="http://www.anxietyforum.net/html/topbanner.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="Anxiety Forum Forum Index">
+<link rel="search" href="./search.php" title="Search">
+<link rel="help" href="./faq.php" title="FAQ">
+<link rel="author" href="./memberlist.php" title="Memberlist">
+<link rel="prev" href="ptopic6948.html" title="View previous topic">
+<link rel="next" href="ntopic6948.html" title="View next topic">
+<link rel="up" href="forum-9.html" title="Depression Forum">
+<link rel="chapter forum" href="forum-1.html" title="Welcome">
+<link rel="chapter forum" href="forum-4.html" title="News">
+<link rel="chapter forum" href="forum-13.html" title="Announcements">
+<link rel="chapter forum" href="forum-14.html" title="Suggestions &amp; Concerns">
+<link rel="chapter forum" href="forum-6.html" title="General Discussion">
+<link rel="chapter forum" href="forum-7.html" title="Agoraphobia Forum">
+<link rel="chapter forum" href="forum-8.html" title="Social Phobia Forum">
+<link rel="chapter forum" href="forum-15.html" title="Medication">
+<link rel="chapter forum" href="forum-9.html" title="Depression Forum">
+<link rel="chapter forum" href="forum-11.html" title="Resources &amp; Articles">
+<link rel="chapter forum" href="forum-10.html" title="Off Topic Discussion">
+
+<title>Anxiety Forum :: View topic - I need your opinion. I am desperate!!!!!</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+	background-color: #E5E5E5;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+hr	{ height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #EFEFEF; }
+td.row2	{ background-color: #DEE3E7; }
+td.row3	{ background-color: #D1D7DC; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/subSilver/images/cellpic2.jpg);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #FFA34F; font-size: 11px; font-weight : bold;
+	background-color: #006699; height: 25px;
+	background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/subSilver/images/cellpic1.gif);
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+td.inlineadtitle {
+	background-color: #DEE3E7; border: #FFFFFF; border-style: solid; border-width: 1px;
+}
+td.inlinead {
+	background-color: #DEE3E7; border: #FFFFFF; border-style: solid; border-width: 1px; text-align: center;
+}
+
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+<body bgcolor="#E5E5E5" text="#000000" link="#006699" vlink="#5493B4"><center><script language="JavaScript" type="text/javascript">
+<!--
+topbanner();
+// -->
+</script></center>
+
+
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tbody><tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td><a href="http://www.anxietyforum.net/"><img src="http://www.anxietyforum.net/title.gif" border="0" alt="Anxiety Forum Forum Index" vspace="1"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Anxiety Forum</span><br><span class="gen">A self-help community just for anxiety sufferers.<br>&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tbody><tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3">FAQ</a>&nbsp;
+
+						&nbsp;<a rel="nofollow" href="search.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Search" hspace="3">Search</a>&nbsp; &nbsp;<a rel="nofollow" href="memberlist.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Memberlist" hspace="3">Memberlist</a>&nbsp;
+
+						&nbsp;<a href="groupcp.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Usergroups" hspace="3">Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=join_us" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Register" hspace="3">Register</a>&nbsp;
+						</span></td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" width="12" height="13" border="0" alt="Profile" hspace="3">Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" width="12" height="13" border="0" alt="Log in to check your private messages" hspace="3">Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Log in" hspace="3">Log in</a>&nbsp;</span></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table>
+
+		<br>
+
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tbody><tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="about6948.html">I need your opinion. I am desperate!!!!!</a><br>
+	  <span class="gensmall"><b></b><br>
+	  &nbsp; </span></td>
+  </tr>
+</tbody></table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tbody><tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle"></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=6948"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle"></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">Anxiety Forum Forum Index</a>
+	  -&gt; <a href="forum-9.html" class="nav">Depression Forum</a></span></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%">
+	<tbody><tr>
+		<td valign="top">
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tbody><tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="ptopic6948.html" class="nav">View previous topic</a> :: <a href="ntopic6948.html" class="nav">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="25838"></a><b>erin051026</b></span><br><span class="postdetails"><br><br><br>Joined: 07 May 2010<br>Posts: 3<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="post-25838.html#25838"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon May 17, 2010 5:58 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: I need your opinion. I am desperate!!!!!</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25838"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Hello,
+<br>
+My name is Erin. I am a 25 year old female who has been very healthy and active my entire life up until the last 6 months where I have encountered some difficult health issues. Let me tell you a brief back-story which will lead up to where I am now.
+<br>
+
+<br>
+In August of '09 I got engaged and thought I finally had all my ducks in a row. However, in early October I was sent an e-mail from my best-friend since 3rd grade explaining to me that my engagement was too hard for her and she couldn't be there for me as she needed to take care of herself. This of course was devastating too me, and this is the beginning of some very difficult months to follow. About 3 weeks after this my fiance was laid off from a very good job. About a month following that, I was rushed into the ER after collapsing at work and was diagnosed with an ectopic pregnancy. I had to have emergency surgery, one of my fallopian tubes had to be removed and I lost a lot of blood. I was then told that conceiving naturally someday may be difficult. Obviously this was devastating but I didn't think I needed therapy over it. Within the following 3 months I began spring semester taking 15 units while working 2 jobs because my fiance was having a hard time finding work. In march, I then had a severe reaction to an antibiotic. This is when things get very weird.
+<br>
+
+<br>
+Although my reaction was severe, I didn't have to go to the hospital it just made me very ill until I got the meds out of my system. However, after the reaction I never felt the same. It felt as though my adrenaline never stopped pumping or like my fight or flight switch never shut off. The first week after I was miserable. I couldn't leave the couch. I had heart palpitations, insomnia, trembles, etc. I went to an urgent care facility not too long after because it dibilitated me completely. She prescribed me a small prescription of xanax which eased the severity of symptoms but never got rid of what I was feeling completely. Now almost 3 months later, I still have constant brain fog, i feel light-headed, have clammy hands, cold extremities, and a constant fear and sensation like "something is gonna happen" or "i have cancer" or "i am dying". The thoughts WONT stop and although the thoughts are more common then not, they aren't constant. However, the physical symptoms are constant. I finally went to the Dr. again last week and was prescribed Zoloft and diagnosed with depression and anxiety. I have only taken it for a few days and no symptoms have been relieved although I was warned they wouldn't. 
+<br>
+
+<br>
+I guess what I want to know is, I have been so healthy all my life. Is it possible, that I am having a nervous breakdown of some kind due to my life being so stressful the past few months? Can this be temporary or is this permanent? My fiance got a new great job and I am taking the summer off from school. Is it possible that if i slow my life down that I may see some beneficial changes in my health? Also, what I have noticed after reading about anxiety and panic disorders, along with depression is that there can be triggers. Could the ectopic pregnancy have been more or less the straw that broke the camels back? Could I have some subconscious trauma caused by the surgery? 
+<br>
+
+<br>
+This condition I have been diagnosed with is very frustrating and I guess I am looking for some hope. I feel like I am going crazy and it is starting to effect my relationship because I have basically been a mess since Jan.
+<br>
+
+<br>
+PLEASE HELP!!!!!!!!!!!!!!!!!!!!!!!!!!!!![/b]</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=56294"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=56294"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="25839"></a><b>mamascrazy1985</b></span><br><span class="postdetails">mucho contributor<br><img src="images/avatars/gallery/disney/Dis131.gif" alt="" border="0"><br><br>Joined: 14 Aug 2009<br>Posts: 145<br>Location: somewhere</span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="post-25839.html#25839"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon May 17, 2010 7:15 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: hey</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25839"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">WOW. no wonder your stressed i am so sorry to hear about all your troubles... but no anxiety is not perm. the best thing that you can to is not hold anything in. talk about it. and also learn as much as you can about anxietys dirty little tricks so you will know what to expect.
+<br>
+
+<br>
+taking a break from school is the best thing you did so far to releave some of your anxiety. and i am sorry to hear about your pregnancy but glad to hear that your bf got a new job too which is also less anxiety... 
+<br>
+
+<br>
+i know what you mean when you say brain fog... i HATE that its almost like your not in your body but you can control your body.. like movements ect. now my fogginess only comes when i drive which sucks because i have two kids and you cant really sit around all day... 
+<br>
+
+<br>
+i dont understand why your friend would do that to you. she should have been happy for you unless she was secretly in love with your bf or you for that matter... i think thats really messed up and i think that you are better off without her... 
+<br>
+
+<br>
+i am 25 too and i often think to myself why do i have anxiety this is not the person that i wanted to be.. at one point in time i wanted to join the force but then i had my first daughter who is now 6 and for some reason if your not married you cannot have kids. that retarded.. but anyway i have yet to finesh college and still cannot figure out what i want to do with the rest of my life.. i keep changing my major back and forth... my other daughter is 2 so i am terrified of putting her in day care because i used to work in a day care and i seen how some of those teachers treated those kids. so i am stressed from all that plus my bf and i have been together for 5 yrs and he hasnt popped the question yet but he tells me that he want to be with me till we are old and wrinkly.. blah blah blah
+<br>
+
+<br>
+ so yea anxiety sux but the less stress you have the better off you are and i hear that yoga and pilates works wonders... have yet to try
+<br>
+
+<br>
+
+<br>
+best of luck <img src="images/smiles/smile0163.gif" alt="smile" border="0"></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=40349"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=40349"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="25847"></a><b>happyattempt</b></span><br><span class="postdetails"><br><br><br>Joined: 17 May 2010<br>Posts: 4<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="post-25847.html#25847"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon May 17, 2010 9:52 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25847"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I know this may seem redundant, however, what has helped me the most is reading the posts on these discussions. You are NOT going crazy, you are simply suffering from anxiety like we all are. My anxiety started the same way, after I lost my job and my best friend about 5 months ago. It is almost like the trauma left a scar on my brain, giving me anxiety about anything and everything. Things that have helped me are omega-3 fish oils, exercise, painting, and talking about my anxiety to my family. So take care of the number 1 person in your life - you. Know that you are not alone and take comfort in the fact that you will not be like this forever. I will be sending positive energy your way.</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=57730"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=57730"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="25850"></a><b>erin051026</b></span><br><span class="postdetails"><br><br><br>Joined: 07 May 2010<br>Posts: 3<br></span><br></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="post-25850.html#25850"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon May 17, 2010 10:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25850"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Thanks to the both of you. It is good to know that this is something that will more than likely be temporary. I understand that a situation such as a friend flaking out through an e-mail can sound a bit juvenile, but it still hurt nonetheless. I suppose I am frustrated with the persistent symptoms because I have lived a social lifestyle and always loved being out and about. This has managed to come to a complete stop as I never feel like going anywhere in fear that I will have an attack or end up freaking out while I am out anyway. My doctor just prescribed me 25mg of zoloft daily, I do not know when she will raise my dose. I obviously am not feeling any changes as it was only a couple of days ago, but now I fear that I will never be able to get off of them because I heard that getting off was very hard.
+<br>
+It does help to know that the physical symptoms are common. Have either of you endured these symptoms as well? If so, how long did they last?</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=56294"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=56294"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="25851"></a><b>lawandorder</b></span><br><span class="postdetails">master poster<br><br><br>Joined: 13 May 2010<br>Posts: 56<br></span><br></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="100%"><a href="post-25851.html#25851"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0"></a><span class="postdetails">Posted: Mon May 17, 2010 11:18 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25851"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">hey erin,
+<br>
+I think it would be good for you to see a psychologist, not because you have any major issues, but because i think you really need to vent...
+<br>
+It sounded like a very stressful time leading up to the aintbiotic event, and i don't know if you really addressed your feelings when it came to your friend and the surgery... topped off with a bad reaction to anti biotic. You also probably had some stress about getting married (who doesn't), financial stress etc etc. You had a lot of stress going on, and hey none of it was your fault. It just is the way it is.
+<br>
+However now you kind of 'snapped' you could say, and your dealing with the anxiety all of us here are all too familiar with, not the every day anxiety about stuff like needing to finish homework or whatever. 
+<br>
+You've probably put pressure on yourself - to maintain the relationship with your fiance, even though you arn't doing so well, to financially support him and many other things.
+<br>
+If you don't address these, and draw the line at which it's too much work, your brain will start fighting back (and hence these physiological and psychological responses)
+<br>
+The medication should help you deal with the symptoms, but it won't unpack what got you there in the first place. It is ONLY anxiety, and the invasive and persistent thoughts are truly awful, but just thoughts that you will have to start practicing to challenge them.
+<br>
+And you can't expect to heal over night. It takes time, despite how bad the symptoms are, the more you fight and fight, the worse these symptoms get.
+<br>
+So give yourself a break... talk to someone about it (not ur fiance), and talk to him about how hard you are finding everything, that you need his help etc etc
+<br>
+Things will get better hang in there</span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=57065"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=57065"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1"></td>
+	</tr>
+
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr><form method="post" action="about6948-0.html"></form>
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+</td>
+		<td width="250" valign="top" class="gensmall">
+<!-- Start if Sponsor Table -->
+<table width="100%" cellpadding="2" cellspacing="1" border="0" class="forumline">
+  <tbody><tr><th colspan="2" class="thCornerL" height="25" nowrap="nowrap">Sponsors</th></tr>
+  <tr><td class="gensmall" valign="top"><br>
+<center>
+<!-- Begin: AdBrite, Generated: 2008-11-28 2:02:46  -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '0000FF';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = 'CC0000';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=941068&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+<div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=941068&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
+<!-- End: AdBrite -->
+<br>
+<!-- Begin: AdBrite, Generated: 2008-11-28 2:02:46  -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '0000FF';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = 'CC0000';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=941068&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+<div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=941068&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
+<!-- End: AdBrite -->
+<br>
+</center>
+</td></tr>
+</tbody></table>
+
+
+<!-- End of Sponsor Table -->
+</td>
+	</tr>
+</tbody></table>
+<br>
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tbody><tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle"></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=6948"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle"></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">Anxiety Forum Forum Index</a>
+	  -&gt; <a href="forum-9.html" class="nav">Depression Forum</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 5 Hours</span><br><span class="nav"></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+  </tr>
+</tbody></table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tbody><tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br>
+	  &nbsp;<br>
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Community Board</option><option value="-1">----------------</option><option value="1">Welcome</option><option value="4">News</option><option value="13">Announcements</option><option value="14">Suggestions &amp; Concerns</option><option value="-1">&nbsp;</option><option value="-1">Anxiety Disorders</option><option value="-1">----------------</option><option value="6">General Discussion</option><option value="7">Agoraphobia Forum</option><option value="8">Social Phobia Forum</option><option value="15">Medication</option><option value="-1">&nbsp;</option><option value="-1">Mood Disorders</option><option value="-1">----------------</option><option value="9" selected="selected">Depression Forum</option><option value="-1">&nbsp;</option><option value="-1">Misc</option><option value="-1">----------------</option><option value="11">Resources &amp; Articles</option><option value="10">Off Topic Discussion</option></select><input type="hidden" name="sid" value="56af11310d858719483b84dd25388e49">&nbsp;<input type="submit" value="Go" class="liteoption"></span></td>
+	</tr>
+</tbody></table></form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br>You <b>cannot</b> reply to topics in this forum<br>You <b>cannot</b> edit your posts in this forum<br>You <b>cannot</b> delete your posts in this forum<br>You <b>cannot</b> vote in polls in this forum<br></span></td>
+  </tr>
+</tbody></table>
+
+
+<div align="center"><span class="copyright"><br><br>
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2005 phpBB Group<br></span><br>
+
+
+<table width="100%" cellpadding="3" cellspacing="1" border="0" class="forumline">
+  <tbody><tr>
+	<td class="catHead" height="28"><span class="cattitle">FRIENDS</span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle">
+<font face="Times New Roman" size="2">
+    <b>
+<a href="http://www.anxietyinsight.com">Agoraphobia Insight</a> ~
+<a href="http://www.socialanxietydisorder.net/">Social Anxiety Disorder</a> ~
+<a href="http://www.troubled-minds.co.uk/">Troubled Minds</a>
+
+<center><b><a>Want To Advertise On AnxietyForum.Net?? Please contact me on webmaster@anxietyforum.net</a></b></center>
+
+</b> </font></td>
+  </tr>
+  </tbody></table>
+<br>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2161573-1";
+urchinTracker();
+</script>
+<center><font face="Arial" size="1">
+
+
+<a href="http://anxietyforum.net/forum/sitemap.xml">Site Map</a> </font></center>
+</div></td></tr></tbody></table></body></html>
