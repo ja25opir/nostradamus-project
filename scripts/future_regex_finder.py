@@ -42,8 +42,8 @@ class RegexCounterPipeline(PassthroughModelPipeline, TextPipeline):
 
     def tokenizer(self, text):
         reg_matches = self.regex.findall(text)
-        sentences = re.split('[.!?\n]', text)   # split text up into sentences
-        matches = " ###".join([s for s in sentences if any(r in s for r in reg_matches)])   # search for regex matches
+        sentences = re.findall('.*?[.!\?]', text)   # split text up into sentences and preserve delimiters
+        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)])   # search for regex matches
         return matches
 
     def export(self, prediction, export_text, url):
