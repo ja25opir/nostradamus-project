@@ -2,14 +2,14 @@ import abc
 import base64
 import os
 from collections import Counter
-
 import numpy as np
 import tensorflow as tf
+
+from bs4 import BeautifulSoup
 from fastwarc.warc import ArchiveIterator
 from resiliparse.extract.html2text import extract_plain_text
 from resiliparse.parse import detect_encoding
 from resiliparse.parse.html import HTMLTree
-
 from helpers import create_s3_client, get_file_stream
 from pipelines.pipeline import Pipeline
 
@@ -108,10 +108,10 @@ class CandidatePipeline(Pipeline, abc.ABC):
                                                                  alt_texts=False, links=False,
                                                                  form_fields=False, noscript=False)
 
-                            # TODO
-                            export_text = extract_plain_text(tree, preserve_formatting=True, main_content=True,
-                                                             list_bullets=False, alt_texts=False, links=False,
-                                                             form_fields=False, noscript=False)
+                            soup = BeautifulSoup(str(tree), 'html.parser')
+                            for a in soup('a'):
+                                a.decompose()
+                            export_text = soup.get_text(strip=True, separator="\n")
 
                             if not distributed_filter(prediction_text):
                                 acc_counter.add(Counter({"n_distributed_filter_not_passed": 1}))
