@@ -2,8 +2,19 @@
 
 Can be taken from the project exposé (/documentation/expose.pdf). Deviations will be documented.
 
+# Definition of a "Statement"
+
+Statements are sentences that express a fact, idea or opinion. Statements do not ask questions, make requests or give
+commands. They are also not exclamations.
+
+Statement sentences can be simple, compound or complex sentences; a sentence always consists of at least one clause
+containing a subject and a verb and nearly always ends in a full stop. 
+https://www.theschoolrun.com/what-statement
+
 # How to use the web-archive-pipeline
+
 ## create config.ini
+
 ```
 [s3]
 BUCKET_NAMES = ["corpus-iwo-internet-archive-wide00001"]
@@ -25,6 +36,7 @@ logging_duration_s = 60
 ```
 
 ## execute python scripts
+
 ```
 HADOOP_USER_NAME=$USER 
 srun --export=ALL --pty --mem=50g --container-name=web-archive-keras \
