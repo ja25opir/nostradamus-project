@@ -1,6 +1,6 @@
 # Research Plan
 
-Can be taken from the project exposé. Deviations are listed here later.
+Can be taken from the project exposé (/documentation/expose.pdf). Deviations will be documented.
 
 # How to use the web-archive-pipeline
 ## create config.ini
