@@ -41,7 +41,6 @@ def label_data(data):
         data.at[index, 'label'] = label
         print('------')
     data.to_pickle('../data/candidates_labeled.pkl')
-    print(data)
 
 
 if __name__ == '__main__':
@@ -51,6 +50,7 @@ if __name__ == '__main__':
     parser.add_argument('--start_labeling', nargs=1, action='store',
                         help='Slice a set of a given size out of the original dataset and present every sentence for '
                              'a manual labeling process.')
+    parser.add_argument('--show_data', nargs=1, action='store', help='Prints the head of a selected DataFrame.')
     args = parser.parse_args()
 
     if args.import_data:
@@ -65,3 +65,10 @@ if __name__ == '__main__':
     if args.start_labeling:
         candidates_split = split_data(int(args.start_labeling[0]), candidates)
         label_data(candidates_split)
+
+    if args.show_data:
+        try:
+            print(pd.read_pickle(args.show_data[0]).head)
+        except FileNotFoundError:
+            print("File not found.")
+            sys.exit(1)
