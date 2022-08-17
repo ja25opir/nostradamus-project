@@ -34,12 +34,12 @@ def split_data(size, data):
 
 def label_data(data):
     for index, row in data.iterrows():
+        print('---Candidate {}---'.format(index))
         print(row['candidate'])
         label = ''
         while not label.isnumeric():
             label = input('label: ')
         data.at[index, 'label'] = label
-        print('------')
     data.to_pickle('../data/candidates_labeled.pkl')
 
 
