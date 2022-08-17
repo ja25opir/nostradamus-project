@@ -50,7 +50,9 @@ if __name__ == '__main__':
     parser.add_argument('--start_labeling', nargs=1, action='store',
                         help='Slice a set of a given size out of the original dataset and present every sentence for '
                              'a manual labeling process.')
-    parser.add_argument('--show_data', nargs=1, action='store', help='Prints the head of a selected DataFrame.')
+    parser.add_argument('--show_data', nargs=1, action='store', help='Prints the head of a given DataFrame.')
+    parser.add_argument('--count_classes', nargs=1, action='store',
+                        help='Counts all candidates belonging to the classes 1 and 0 of a given DataFrame.')
     args = parser.parse_args()
 
     if args.import_data:
@@ -72,3 +74,8 @@ if __name__ == '__main__':
         except FileNotFoundError:
             print("File not found.")
             sys.exit(1)
+
+    if args.count_classes:
+        count_data = pd.read_pickle(args.count_classes[0])
+        print(count_data['label'].value_counts())
+
