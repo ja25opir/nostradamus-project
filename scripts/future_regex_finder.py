@@ -42,9 +42,9 @@ class RegexCounterPipeline(PassthroughModelPipeline, TextPipeline):
 
     def tokenizer(self, text):
         reg_matches = self.regex.findall(text)
-        text_no_urls = re.sub("\((?P<url>https?://[^\s]+)\)", "\b", text) # remove remaining urls from text
+        text_no_urls = re.sub("\((?P<url>https?://[^\s]+)\)", "", text) # remove remaining urls from text
         sentences = re.findall('.*?[.!?]', text_no_urls)   # split text up into sentences and preserve delimiters
-        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)]) + "\n"  # search for regex matches
+        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)])  # search for regex matches
         return matches
 
     def export(self, prediction, export_text, url):
