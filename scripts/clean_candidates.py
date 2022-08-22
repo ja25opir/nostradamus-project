@@ -1,41 +1,40 @@
 import re
-
-special_chars = ["\)|\*|\+|\||,|/|;|:|@|]|}|<|>|_|%|$|~"]    # find all non ascii characters + special chars
-non_ascii = [r"[^\x00-\x7F]+"]
-other = "com |epl |htm |jpg |org |php "
-html = "<[^<]+?>"
-nbsp = " "
-
-regex = "|".join(special_chars+non_ascii)
-
-with open("../data/all2.txt", "r", encoding='utf-8') as input_text:
-    input = set(input_text.readlines())
+import os
 
 
-output = []
-append = True
+def read_sentence(file):
+    with open(file, "r", encoding="utf-8") as uncleaned_sentence:
+        sentence = uncleaned_sentence.read()
+    return sentence
 
-for line in input:
-    if nbsp in line:
-        output.append(line.replace(nbsp, ""))
-        append = False
 
-    if re.match(regex, line[:1]):
-        output.append(line[1:])
-        append = False
+def clean_sentence(sentence, filter):
+    sentence = sentence.replace(" ", " ")
+    for regex in filter:
+        sentence = re.sub(regex, "", sentence)
+    return sentence
 
-    if re.match(html, line):
-        output.append(re.sub(html, "", line))
-        append = False
 
-    if re.match(other, line[:3]):
-        output.append(line[3:])
-        append = False
+def write_data(sentence_set, path):
+    cleaned_sentences = open(path+"output.txt", "w", encoding="utf-8")
+    for sentence in sentence_set:
+        cleaned_sentences.writelines(sentence+"\n")
+    cleaned_sentences.close()
 
-    if append:
-        output.append(line)
 
-    append = True
+if __name__ == "__main__":
+    input_dir = "../warc-dumps/test_dir/"
+    output_dir = "../warc-dumps/test_dir/"
 
-with open("../data/candidates.txt", "w", encoding='utf-8') as output_text:
-    output_text.writelines(output)
+    leading_chars = r"^[^[a-zA-Z1-9(“'\"]*"
+    # urls = r"\((?P<url>https?://[^\s]+)\)"
+    html = r"<[^<]+?>"
+
+    regex_filter = [leading_chars, html]
+    sentences = []
+
+    for input_file in os.listdir(input_dir):
+        input_sentence = read_sentence(input_dir + input_file)
+        sentences.append(clean_sentence(input_sentence, regex_filter))
+
+    write_data(set(sentences), output_dir)
