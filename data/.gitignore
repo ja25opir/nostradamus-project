@@ -1,4 +1,5 @@
 *
 !.gitignore
 !candidates.txt
+!unfiltered.txt
 !all*.txt
