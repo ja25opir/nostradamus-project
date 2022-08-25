@@ -1,8 +1,8 @@
 *
 !.gitignore
-!all.txt
-!all2.txt
 !candidates.txt
 !candidates.pkl
 !candidates_labeled.pkl
 !candidates_unlabeled.pkl
+!unfiltered.txt
+!all*.txt
