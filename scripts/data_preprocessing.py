@@ -1,5 +1,5 @@
 import sys
-
+import numpy as np
 import pandas as pd
 import argparse
 
@@ -17,10 +17,10 @@ def import_data(path):
         if len(line) > 1:
             data['candidate'].append(line.strip())
             data['label'].append(0)
-    df = pd.DataFrame(data=data, columns=['candidate', 'label'])
+    df = pd.DataFrame(data=data, columns=['candidate', 'label']).astype({'candidate': str, 'label': np.dtype('int16')})
 
     print('saving df as pickle...')
-    df.to_pickle('../data/candidates.pkl')
+    df.to_pickle('data/candidates.pkl')
     return df
 
 
@@ -28,7 +28,7 @@ def split_data(size, data):
     shuffled = data.sample(frac=1).reset_index(drop=True)
     data_slice = shuffled.loc[:size - 1, :]
     data_slice_unlabeled = shuffled.loc[size:, :]
-    data_slice_unlabeled.to_pickle('../data/candidates_unlabeled.pkl')
+    data_slice_unlabeled.to_pickle('data/candidates_unlabeled.pkl')
     return data_slice
 
 
@@ -40,7 +40,7 @@ def label_data(data):
         while not label.isnumeric():
             label = input('label: ')
         data.at[index, 'label'] = label
-    data.to_pickle('../data/candidates_labeled.pkl')
+    data.to_pickle('data/candidates_labeled.pkl')
 
 
 if __name__ == '__main__':
@@ -59,7 +59,7 @@ if __name__ == '__main__':
         candidates = import_data(args.import_data[0])
     else:
         try:
-            candidates = pd.read_pickle('../data/candidates.pkl')
+            candidates = pd.read_pickle('data/candidates.pkl')
         except FileNotFoundError:
             print("No pickled data available. Use --import argument.")
             sys.exit(1)
@@ -78,4 +78,3 @@ if __name__ == '__main__':
     if args.count_classes:
         count_data = pd.read_pickle(args.count_classes[0])
         print(count_data['label'].value_counts())
-
