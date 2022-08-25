@@ -8,3 +8,4 @@ resiliparse
 transformers
 torch
 beautifulsoup4
+pandas
