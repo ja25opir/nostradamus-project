@@ -1,41 +1,65 @@
+import argparse
 import re
-
-special_chars = ["\)|\*|\+|\||,|/|;|:|@|]|}|<|>|_|%|$|~"]    # find all non ascii characters + special chars
-non_ascii = [r"[^\x00-\x7F]+"]
-other = "com |epl |htm |jpg |org |php "
-html = "<[^<]+?>"
-nbsp = " "
-
-regex = "|".join(special_chars+non_ascii)
-
-with open("../data/all2.txt", "r", encoding='utf-8') as input_text:
-    input = set(input_text.readlines())
+import os
 
 
-output = []
-append = True
+def clean_sentence(sentence):
+    leading_chars = r"^[^[a-zA-Z1-9(“'\"]*"
+    # urls = r"\((?P<url>https?://[^\s]+)\)"
+    html = r"<[^<]+?>"
+    regex_filter = [leading_chars, html]
 
-for line in input:
-    if nbsp in line:
-        output.append(line.replace(nbsp, ""))
-        append = False
+    sentence = sentence.replace(" ", " ")
+    for regex in regex_filter:
+        sentence = re.sub(regex, "", sentence)
+    return sentence
 
-    if re.match(regex, line[:1]):
-        output.append(line[1:])
-        append = False
 
-    if re.match(html, line):
-        output.append(re.sub(html, "", line))
-        append = False
+def read_sentence(file):
+    try:
+        cleaned_sentences = []
+        with open(file, "r", encoding="utf-8") as uncleaned_text:
+            text = uncleaned_text.readlines()
+            for sentence in text:
+                cleaned_sentences.append(clean_sentence(sentence))
+        return cleaned_sentences
+    except IOError as e:
+        print(f"An error occurred while opening {file}: {e}")
 
-    if re.match(other, line[:3]):
-        output.append(line[3:])
-        append = False
 
-    if append:
-        output.append(line)
+def write_data(sentence_set, path):
+    try:
+        cleaned_sentences = open(path+"output.txt", "w", encoding="utf-8")
+        for sentence in sentence_set:
+            cleaned_sentences.writelines(sentence)
+        cleaned_sentences.close()
+    except IOError as e:
+        print(f"An error occurred while writing \"output.txt\": {e}")
 
-    append = True
 
-with open("../data/candidates.txt", "w", encoding='utf-8') as output_text:
-    output_text.writelines(output)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Clean candidate sentences for further processing.")
+
+    parser.add_argument("--input_dir", nargs=1, default="/",
+                        help="Specify input directory containing .txt files with uncleaned sentences."
+                             " Default is current directory.")
+    parser.add_argument("--output_dir", nargs=1, default="/",
+                        help="Specify output directory, where the cleaned and combined output.txt is saved to. "
+                             "Default is current directory")
+    args = parser.parse_args()
+
+    input_dir = args.input_dir[0]
+    output_dir = args.output_dir[0]
+
+    sentences = []
+    for input_file in os.listdir(input_dir):
+        if input_file.endswith(".txt"):
+            sentences = [*sentences, *read_sentence(input_dir+input_file)]
+            # sentences.append(read_sentence(input_dir + input_file))
+            # uncleaned_sentence = read_sentence(input_dir + input_file)
+            # sentences.append(clean_sentence(input_sentence, regex_filter))
+
+    # cleaned_sentences = clean_sentence(sentences, regex_filter)
+
+    if sentences:
+        write_data(set(sentences), output_dir)
