@@ -2,4 +2,5 @@
 !.gitignore
 !candidates.txt
 !unfiltered.txt
+!classification_set.txt
 !all*.txt
