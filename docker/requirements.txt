@@ -7,7 +7,6 @@ fastwarc
 resiliparse
 transformers
 #torch - installed via pip within the Dockerfile
-beautifulsoup4
 pandas
 scikit_learn
 small_text
