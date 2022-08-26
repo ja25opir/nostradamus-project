@@ -8,3 +8,6 @@ resiliparse
 transformers
 torch
 beautifulsoup4
+pandas
+scikit_learn
+small_text
