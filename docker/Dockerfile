@@ -1,5 +1,5 @@
 # create container for the WARC-DL-pipeline and Nostradamus-Project
-FROM nvidia/cuda:11.2.2-cudnn8-devel-ubuntu18.04
+FROM nvidia/cuda:11.3.1-cudnn8-devel-ubuntu18.04
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
 	software-properties-common default-jre curl
