@@ -153,3 +153,7 @@ python3 scripts/data_preprocessing.py --start_labeling 200
 ## Information options
 ``scripts/data_preprocessing.py --show_data``: Prints the head of a given DataFrame. \
 ``scripts/data_preprocessing.py --count_classes``: Counts all candidates belonging to the classes 1 and 0 of a given DataFrame.
+
+# 7) Active learning script
+TODO
+use ``--gres=gpu:ampere`` for torch with cuda-support!
