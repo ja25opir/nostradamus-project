@@ -6,7 +6,7 @@ imageio
 fastwarc
 resiliparse
 transformers
-torch
+#torch - installed via pip within the Dockerfile
 beautifulsoup4
 pandas
 scikit_learn
