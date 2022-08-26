@@ -53,6 +53,55 @@ logging_delay_s = 120
 logging_duration_s = 60
 ```
 
+## create hadoop/yarn-site.xml
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+    <property>
+        <name>yarn.resourcemanager.hostname</name>
+        <value>rm.yarn.webis.de</value>
+    </property>
+    <property>
+        <name>yarn.nodemanager.remote-app-log-dir</name>
+        <value>/app-logs</value>
+    </property>
+    <property>
+        <name>yarn.nodemanager.remote-app-log-dir-suffix</name>
+        <value>logs</value>
+    </property>
+    <property>
+        <name>yarn.nodemanager.resource.memory-mb</name>
+        <value>4096</value>
+    </property>
+    <property>
+        <name>yarn.nodemanager.resource.cpu-vcores</name>
+        <value>2</value>
+    </property>
+    <property>
+        <name>yarn.scheduler.maximum-allocation-mb</name>
+        <value>4096</value>
+    </property>
+    <property>
+        <name>yarn.scheduler.maximum-allocation-vcores</name>
+        <value>2</value>
+    </property>
+
+</configuration>
+```
+
+## add parameters to pipelines/pipeline.py
+
+```
+conf_list.append(("spark.driver.memory","4g"))
+conf_list.append(("spark.yarn.executor.memoryOverhead","4g"))
+conf_list.append(("spark.executor.memory","4g"))
+conf_list.append(("spark.driver.cores","2"))
+conf_list.append(("spark.executor.cores","2"))
+```
+
 # 5) Setup the docker container
 
 ## Set your enroot credentials
