@@ -6,7 +6,8 @@ imageio
 fastwarc
 resiliparse
 transformers
-#torch - installed via pip within the Dockerfile
 pandas
 scikit_learn
 small_text
+-i https://download.pytorch.org/whl/cu113
+torch
