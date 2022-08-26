@@ -66,10 +66,12 @@ echo "machine ghcr.io login USERNAME password ACCESS_TOKEN" >> $HOME/.config/enr
 ## Import the container from the registry
 
 ```
-srun --mem=32g enroot import --output pipelineimg.sqsh docker://ghcr.io#USERNAME/nostradamus-project:main
+srun --mem=32g enroot import --output pipelineimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
 ```
 
-## Example usage of regex_finder with WARC-DL-pipeline
+# 6) Usage of data preprocessing scripts
+
+## Extract candidates from WARC-Files with regular expressions
 
 ``` 
 HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=pipeline1 
@@ -77,3 +79,23 @@ HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=pipeli
 --gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/ja25opir/WARC-DL && 
 PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 ../nostradamus-project/scripts/future_regex_finder.py"
 ```
+
+## Clean and merge candidates into one text-file
+
+TODO
+
+## Create .pkl from .txt file
+
+```
+python3 scripts/data_preprocessing.py --import_data data/NAME.txt OUTPUTNAME
+```
+
+## Shuffle candidates set and split into a labeled und unlabeled set + start manual labeling process
+
+```
+python3 scripts/data_preprocessing.py --start_labeling 200
+```
+
+## Information options
+``scripts/data_preprocessing.py --show_data``: Prints the head of a given DataFrame. \
+``scripts/data_preprocessing.py --count_classes``: Counts all candidates belonging to the classes 1 and 0 of a given DataFrame.
