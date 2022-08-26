@@ -18,9 +18,10 @@ source: https://www.theschoolrun.com/what-statement
 A sentence must match the previous described definition of a statement. Furthermore it must be related to the future,
 e.g. what will happen at some point in the future.
 
-An example statement from the candidate dataset created from our regex pre-filtering that wouldn't be classified as "about the Future" is:
-"USGPRU officials said this was the first fatality in the series in nine years.".
-This sentence refers to a period of time in the past.
+An example statement from the candidate dataset created from our regex pre-filtering that wouldn't be classified as "
+about the Future" is:
+"USGPRU officials said this was the first fatality in the series in nine years.". This sentence refers to a period of
+time in the past.
 
 # 3) Data used for the future statements extraction model
 
@@ -28,7 +29,7 @@ This sentence refers to a period of time in the past.
 requirements described in 2). \
 ``data/candidates_unlabeled.pkl`` contains 7590 unlabeled candidate sentences.
 
-# 4) How to use the web-archive-pipeline
+# 4) WARC-DL configurations
 
 ## create config.ini
 
@@ -52,13 +53,27 @@ logging_delay_s = 120
 logging_duration_s = 60
 ```
 
-## execute python scripts
+# 5) Setup the docker container
+
+## Set your enroot credentials
 
 ```
-HADOOP_USER_NAME=$USER 
-srun --export=ALL --pty --mem=50g --container-name=web-archive-keras \
---container-image=ghcr.io#niklasdeckers/web-archive-keras:master \
---container-mounts=/mnt/ceph:/mnt/ceph --container-writable \
---gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/$USER/web-archive-keras \
-&& PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 examples/meme_classifier/meme_classifier_pipeline.py"
+touch $HOME/.config/enroot/.credentials
+chmod 600 $HOME/.config/enroot/.credentials
+echo "machine ghcr.io login USERNAME password ACCESS_TOKEN" >> $HOME/.config/enroot/.credentials
+```
+
+## Import the container from the registry
+
+```
+srun --mem=32g enroot import --output pipelineimg.sqsh docker://ghcr.io#USERNAME/nostradamus-project:main
+```
+
+## Example usage of regex_finder with WARC-DL-pipeline
+
+``` 
+HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=pipeline1 
+--container-image=./pipelineimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
+--gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/ja25opir/WARC-DL && 
+PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 ../nostradamus-project/scripts/future_regex_finder.py"
 ```
