@@ -24,10 +24,13 @@ about the Future" is:
 time in the past.
 
 # 3) Data used for the future statements extraction model
-
+## Training data
 ``data/candidates_labeled.pkl`` contains 88 Statements about the Future and 112 sentences that don't match the
 requirements described in 2). \
 ``data/candidates_unlabeled.pkl`` contains 7590 unlabeled candidate sentences.
+## Data labeled by the trained model
+``data/classification_set.pkl`` contains 20488 sentences. \
+TODO: labeling results
 
 # 4) WARC-DL configurations
 
@@ -115,7 +118,7 @@ echo "machine ghcr.io login USERNAME password ACCESS_TOKEN" >> $HOME/.config/enr
 ## Import the container from the registry
 
 ```
-srun --mem=32g enroot import --output pipelineimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
+srun --mem=32g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
 ```
 
 # 6) Usage of data preprocessing scripts
@@ -123,8 +126,8 @@ srun --mem=32g enroot import --output pipelineimg.sqsh docker://ghcr.io#ja25opir
 ## Extract candidates from WARC-Files with regular expressions
 
 ``` 
-HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=pipeline1 
---container-image=./pipelineimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
+HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=nos1 
+--container-image=./nosimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
 --gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/ja25opir/WARC-DL && 
 PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 ../nostradamus-project/scripts/future_regex_finder.py"
 ```
