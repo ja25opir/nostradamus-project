@@ -5,4 +5,5 @@
 !candidates_labeled.pkl
 !candidates_unlabeled.pkl
 !unfiltered.txt
+!classification_set.txt
 !all*.txt
