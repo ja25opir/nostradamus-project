@@ -16,7 +16,7 @@ def import_data(path):
     for index, line in enumerate(lines):
         if len(line) > 1:
             data['candidate'].append(line.strip())
-            data['label'].append(0)
+            data['label'].append(1)
     df = pd.DataFrame(data=data, columns=['candidate', 'label']).astype({'candidate': str, 'label': np.dtype('int16')})
 
     print('saving df as pickle...')
