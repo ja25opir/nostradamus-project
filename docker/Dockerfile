@@ -36,6 +36,7 @@ RUN apt-get install python3.8-venv \
 RUN python3 -m venv /opt/venv \
     && bash -c "source /opt/venv/bin/activate \
     && python3 -m pip install -r requirements.txt --no-cache-dir \
+    && python3 -m pip install torch --extra-index-url https://download.pytorch.org/whl/cu113 --no-cache-dir \
     && venv-pack -o pyspark_venv.tar.gz \
     && deactivate" \
     && rm -r /opt/venv
