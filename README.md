@@ -82,12 +82,14 @@ PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 ../nostradamus-project/scripts/
 
 ## Clean and merge candidates into one text-file
 
-TODO
+```
+python3 scripts/data_cleaning.py --clean_data INPUT_PATH OUTPUT_NAME
+```
 
 ## Create .pkl from .txt file
 
 ```
-python3 scripts/data_preprocessing.py --import_data data/NAME.txt OUTPUTNAME
+python3 scripts/data_preprocessing.py --import_data data/NAME.txt OUTPUT_NAME
 ```
 
 ## Shuffle candidates set and split into a labeled und unlabeled set + start manual labeling process
