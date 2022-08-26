@@ -6,8 +6,8 @@ imageio
 fastwarc
 resiliparse
 transformers
-torch
-beautifulsoup4
 pandas
 scikit_learn
 small_text
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch
