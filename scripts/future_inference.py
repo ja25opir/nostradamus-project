@@ -24,13 +24,18 @@ def preprocess_data(tokenizer, data, max_length=500):
 if __name__ == "__main__":
 
     model = PoolBasedActiveLearner.load("models/20220824_76futacc.pkl").classifier 
-    ds_path = "data/candidates_labeled.pkl"
+    ds_path = "data/classification_set.pkl"
 
     tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 
     input_data = pd.read_pickle(ds_path)
-    input_data = input_data["candidate"].values
-    encoded_inputs = preprocess_data(tokenizer, input_data)
+    #input_data = input_data.head(100)
+    print(input_data)
+    input_data_str = input_data["candidate"].values
+    encoded_inputs = preprocess_data(tokenizer, input_data_str)
 
     targets = model.predict(encoded_inputs)
-    print(targets)
+    input_data["future_statement"] = targets
+    print("label_result")
+    print(input_data)
+    input_data.to_pickle("data/classification_future.pkl")
