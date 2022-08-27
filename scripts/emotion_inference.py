@@ -15,7 +15,8 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     
     input_data = pd.read_pickle(ds_path)
-    #input_data = input_data.head(1_000)
+    #input_data = input_data.head(200)
+    input_data = input_data.loc[input_data["future_statement"] == 0] # we only want to label future statements 
     batched_targets = []
     for i in range(input_data.shape[0]//inference_batch_size + 1):
         if i*inference_batch_size == input_data.shape[0]:
