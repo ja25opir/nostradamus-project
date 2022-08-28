@@ -14,7 +14,7 @@ from pipelines.tools.passthrough_model import PassthroughModelPipeline
 class FutureRegexFinderPipeline(PassthroughModelPipeline, TextPipeline):
     """
     This pipeline allows to search for regex occurrences within the texts from the text pipeline.
-    The texts are discarded; only the count is reported.
+    The texts which are passed to the export method will be split into sentences and saved when matched with a regex.
     No GPU functionality is used.
     """
 
@@ -24,16 +24,20 @@ class FutureRegexFinderPipeline(PassthroughModelPipeline, TextPipeline):
         super().__init__(out_dir=out_dir, max_content_length=max_content_length)
 
     def get_distributed_filter(self):
+        """
+        Method taken from RegexCounterPipeline.
+        Replaced re.findall(text) with regex.findall(text) for use of precompiled regexes.
+        """
         regex = self.regex
         acc_counter = self.acc_counter
 
         def distributed_filter(text):
-            if len(text) < 1000:  # only extract long texts
+            if len(text) < 1000:
                 return False
             n_matches = len(regex.findall(text))
             if n_matches == 0:
                 return False
-            if not resiliparse.parse.lang.detect_fast(text)[0] == "en":  # only extract english texts
+            if not resiliparse.parse.lang.detect_fast(text)[0] == "en":
                 return False
             acc_counter.add(collections.Counter({"n_regex_matches": n_matches}))
             return True
@@ -41,6 +45,15 @@ class FutureRegexFinderPipeline(PassthroughModelPipeline, TextPipeline):
         return distributed_filter
 
     def tokenizer(self, text):
+        """
+        Tokenizes website texts into sentences and returns them when matched with a regex.
+        Cleans website texts before tokenization from urls to avoid interferences with regex to match sentences, caused
+        by punctuations in urls.
+        :param text: str
+            text of matched website
+        :return: str
+            all sentences that got a match in one website
+        """
         reg_matches = self.regex.findall(text)
         text_no_urls = re.sub(r"\((?P<url>https?://\S+)\)", "", text) # remove remaining urls from text
         sentences = re.findall('.*?[.!?]', text_no_urls)   # split text up into sentences and preserve delimiters
@@ -48,6 +61,10 @@ class FutureRegexFinderPipeline(PassthroughModelPipeline, TextPipeline):
         return matches
 
     def export(self, prediction, export_text, url):
+        """
+        Method overwritten from TextPipeline.
+        Added tokenizer call when writing text to output file.
+        """
         prediction = np.reshape(prediction, ())
         print(url.decode("utf-8"), prediction)
         with open(f"{self.out_dir}/{base64.urlsafe_b64encode(url[:128]).decode('utf-8')}_{prediction:1.4f}.txt",
@@ -79,7 +96,7 @@ if __name__ == "__main__":
     ]
 
     regex = "|".join(interesting_snippets)
-    regex = re.compile(regex, re.IGNORECASE)    # precompile regexes
+    regex = re.compile(regex, re.IGNORECASE)
     out_dir = "data/future_regex_finder/out/"
     p = FutureRegexFinderPipeline(regex, out_dir)
     p.run()
