@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 def plot_emotions_distribution(plt_data, drop_neutral=False):
     """
-    Method that creates a horizontal barplot displaying the distribution of assigned emotion classes.
+    Method that creates a horizontal bar plot displaying the distribution of assigned emotion classes.
     Can be done with or without the "neutral"-class.
     :param plt_data: pd.Series
         with classes and distributions
@@ -18,7 +18,7 @@ def plot_emotions_distribution(plt_data, drop_neutral=False):
     labels = emotions_count.index.tolist()
     y_pos = np.arange(len(labels))
     plt.style.use('bmh')
-    plt.title('Distribution after emotion detection exluding "neutral"') if drop_neutral else plt.title(
+    plt.title('Distribution after emotion detection excluding "neutral"') if drop_neutral else plt.title(
         'Distribution after emotion detection')
     plt.barh(y_pos, emotions_count)
     plt.yticks(y_pos, labels)

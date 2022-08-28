@@ -85,7 +85,7 @@ if __name__ == '__main__':
         try:
             candidates = pd.read_pickle('data/candidates.pkl')
         except FileNotFoundError:
-            print("No pickled data available. Use --import argument.")
+            print('No pickled data available. Use --import argument.')
             sys.exit(1)
 
     if args.start_labeling:
@@ -96,7 +96,7 @@ if __name__ == '__main__':
         try:
             print(pd.read_pickle(args.show_data[0]).head)
         except FileNotFoundError:
-            print("File not found.")
+            print('File not found.')
             sys.exit(1)
 
     if args.count_classes:
