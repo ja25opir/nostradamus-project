@@ -24,13 +24,22 @@ about the Future" is:
 time in the past.
 
 # 3) Data used for the future statements extraction model
+
+We use the WARC-DL pipeline and pre-filtering methods from ``future_regex_finder.py`` to extract candidate sentences
+that could include statements about the future.
+
 ## Training data
+
+With a small manually labeled dataset and active learning we train a model for the classification of Statements about
+the Future. \
 ``data/candidates_labeled.pkl`` contains 88 Statements about the Future and 112 sentences that don't match the
 requirements described in 2). \
 ``data/candidates_unlabeled.pkl`` contains 7590 unlabeled candidate sentences.
+
 ## Data labeled by the trained model
-``data/classification_set.pkl`` contains 20488 sentences. \
-TODO: labeling results
+
+``data/classification_set.pkl`` contains 20488 candidate sentences. Our model classified 9802 of these as Statements
+about the Future (``data/future_classification.pkl``).
 
 # 4) WARC-DL configurations
 
@@ -151,9 +160,14 @@ python3 scripts/data_preprocessing.py --start_labeling 200
 ```
 
 ## Information options
+
 ``scripts/data_preprocessing.py --show_data``: Prints the head of a given DataFrame. \
-``scripts/data_preprocessing.py --count_classes``: Counts all candidates belonging to the classes 1 and 0 of a given DataFrame.
+``scripts/data_preprocessing.py --count_classes``: Counts all candidates belonging to the classes 1 and 0 of a given
+DataFrame.
 
 # 7) Active learning script
-TODO
+
+TODO \
 use ``--gres=gpu:ampere`` for torch with cuda-support!
+
+# 8) Emotion detection

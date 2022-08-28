@@ -8,12 +8,14 @@ if __name__ == "__main__":
     ds_path = "data/classification_future.pkl"
     target_names = ["anger", "disgust", "fear", "joy", "neutral", "sadness", "surprise"]
 
-    inference_batch_size = 4  # because classifying everything at once takes too long
+    # batch the data because classifying everything at once takes too long
+    inference_batch_size = 4
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     input_data = pd.read_pickle(ds_path)
-    input_data = input_data.loc[input_data["future_statement"] == 0]  # we only want to label future statements
+    # we only want to label future statements
+    input_data = input_data.loc[input_data["future_statement"] == 0].reset_index(drop=True)
     batched_targets = []
     for i in range(input_data.shape[0] // inference_batch_size + 1):
         if i * inference_batch_size == input_data.shape[0]:
