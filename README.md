@@ -24,13 +24,22 @@ about the Future" is:
 time in the past.
 
 # 3) Data used for the future statements extraction model
+
+We use the WARC-DL pipeline and pre-filtering methods from ``future_regex_finder.py`` to extract candidate sentences
+that could include statements about the future.
+
 ## Training data
+
+With a small manually labeled dataset and active learning we train a model for the classification of Statements about
+the Future. \
 ``data/candidates_labeled.pkl`` contains 88 Statements about the Future and 112 sentences that don't match the
 requirements described in 2). \
 ``data/candidates_unlabeled.pkl`` contains 7590 unlabeled candidate sentences.
+
 ## Data labeled by the trained model
-``data/classification_set.pkl`` contains 20488 sentences. \
-TODO: labeling results
+
+``data/classification_set.pkl`` contains 20488 candidate sentences. Our model classified 9802 of these as Statements
+about the Future (``data/future_classification.pkl``).
 
 # 4) WARC-DL configurations
 
@@ -39,9 +48,9 @@ TODO: labeling results
 ```
 [s3]
 BUCKET_NAMES = ["corpus-iwo-internet-archive-wide00001"]
-AWS_ACCESS_KEY_ID = RVVS0V6VXYYSXS7PFJ25
-AWS_SECRET = XoqNg1RdrTsRxEoKQWs7vjao7S9b745uUcmte4ab
-ENDPOINT_URL = http://s3.dw.webis.de:7480/
+AWS_ACCESS_KEY_ID = INSERT_ACCESS_KEY
+AWS_SECRET = INSERT_SECRET_KEY
+ENDPOINT_URL = WEBIS_URL
 
 [pyspark]
 SPARK_INSTANCES = 5
@@ -118,7 +127,7 @@ echo "machine ghcr.io login USERNAME password ACCESS_TOKEN" >> $HOME/.config/enr
 ## Import the container from the registry
 
 ```
-srun --mem=32g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
+srun --mem=50g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
 ```
 
 # 6) Usage of data preprocessing scripts
@@ -128,7 +137,7 @@ srun --mem=32g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nost
 ``` 
 HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=nos1 
 --container-image=./nosimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
---gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/ja25opir/WARC-DL && 
+--gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/USERNAME/WARC-DL && 
 PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 ../nostradamus-project/scripts/future_regex_finder.py"
 ```
 
@@ -151,9 +160,15 @@ python3 scripts/data_preprocessing.py --start_labeling 200
 ```
 
 ## Information options
-``scripts/data_preprocessing.py --show_data``: Prints the head of a given DataFrame. \
-``scripts/data_preprocessing.py --count_classes``: Counts all candidates belonging to the classes 1 and 0 of a given DataFrame.
 
-# 7) Active learning script
-TODO
+``scripts/data_preprocessing.py --show_data``: Prints the head of a given DataFrame. \
+``scripts/data_preprocessing.py --count_classes``: Counts all candidates belonging to the classes 1 and 0 of a given
+DataFrame.
+
+# 7) Usage of active learning script
+
+TODO \
 use ``--gres=gpu:ampere`` for torch with cuda-support!
+
+# 8) Usage of Future Statements and Emotion classification models
+TODO

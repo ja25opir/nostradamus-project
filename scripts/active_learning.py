@@ -36,6 +36,9 @@ BEST_MODEL = None
 f1_score_curve = []
 
 def main():
+    """
+    main function
+    """
     # Active learning parameters
     clf_factory = TransformerBasedClassificationFactory(TRANSFORMER_MODEL,
                                                         len(LABELS),
@@ -43,7 +46,8 @@ def main():
 
 
     # Prepare some data
-    train_labeled, train, test = load_dataset()
+    train_labeled, train, test = load_dataset("data/candidates_labeled.pkl",
+                                              "data/candidates_unlabeled.pkl")
     
     tokenizer = AutoTokenizer.from_pretrained(TRANSFORMER_MODEL.model, cache_dir='.cache/')
     x_train = preprocess_data(tokenizer, train["candidate"].values, train["label"].values)
@@ -69,17 +73,28 @@ def main():
 
 
 
-def load_dataset():
-
+def load_dataset(labeled_ds_path, unlabeled_ds_path):
+    """
+    :param labeled_ds_path: str
+        file path to the labeled dataset
+    :param unlabeled_ds_path:
+        file path to the unlabeled dataset
+    :return DataFrame
+        DataFrame of the labeled data
+    :return DataFrame
+        DataFrame of labeled+unlabeled data
+    :return DataFrame
+        DataFrame of test (evaluation) data
+    """
     labeled_data = {class_name.lower(): value for class_name, value in zip(LABELS, range(len(LABELS)))}
 
     # load labeled dataset
-    df_labeled = pd.read_pickle("data/candidates_labeled.pkl")
+    df_labeled = pd.read_pickle(labeled_ds_path)
     df_labeled["label"] = df_labeled["label"].astype("int64")
     train_labeled, test_labeled = train_test_split(df_labeled, test_size=0.4, stratify=df_labeled["label"], random_state=42)
 
     # load unlabeled
-    train_unlabeled = pd.read_pickle("data/candidates_unlabeled.pkl")
+    train_unlabeled = pd.read_pickle(unlabeled_ds_path)
     train_unlabeled["label"] = LABEL_UNLABELED
     train_unlabeled["label"] = train_unlabeled["label"].astype("int64")
 
@@ -88,13 +103,23 @@ def load_dataset():
     return train_labeled, pd.concat([train_labeled, train_unlabeled], axis=0, ignore_index=True), test_labeled 
 
 def save_sample(oracle, sentence):
-    files = {"c":"commissives.txt", "d":"directives.txt", "n": "nones.txt"}
+    files = {"fs":"future_statements.txt", "n":"nones.txt"}
     with open(files[oracle], mode="a") as f:
         f.write(sentence + "\n")
 
 
 def preprocess_data(tokenizer, data, labels, max_length=500):
-
+    """
+    Converts a list of string sentence into an TransformersDataset as model input
+    :param tokenizer: AutoTokenizer
+        containing the tokenizer of the model
+    :param data: List[str]
+        the text data
+    :param max_len: int
+        Maximum sequence length to encode 
+    :return TransformerDataset
+        the dataset to input into the model
+    """
     data_out = []
 
     for i, doc in enumerate(data):
@@ -112,6 +137,20 @@ def preprocess_data(tokenizer, data, labels, max_length=500):
     return TransformersDataset(data_out)
 
 def perform_active_learning(active_learner, train, labeled_indices, test, text):
+    """
+    Central function that performs the active learning iterations
+    :param active_learner: PoolBasedActiveLearner
+        small-text's main active learning object
+    :param train: TransformerDataset
+        the train data
+    :param labeled_indices: numpy.ndarray[int]
+        vector of indices of labeled samples
+    :return test: TransformerDataset
+        test (evaluation) set used to assess performance
+    :return text: List[str]
+        List of not encoded samples to keep samples human readable
+    """
+
     # Perform [NUM_ITERATIONS] iterations of active learning...
     for i in range(NUM_ITERATIONS):
         # ...where each iteration consists of labelling [QUERY_SAMPLES] samples
@@ -150,6 +189,16 @@ def perform_active_learning(active_learner, train, labeled_indices, test, text):
 
 
 def initialize_active_learner(active_learner, y_train):
+    """
+    Initializes the initial labeled pool of the active learner 
+    :param active_learner: PoolBasedActiveLearner
+        small-text's main active learning object
+    :param y_train: np.ndarray 
+        labels of the labeled train set
+    :return np.ndarray
+        indices of samples in the initially labeled train set
+    """
+
     x_indices_initial = random_initialization_balanced(y_train, n_samples=len(y_train))
     y_initial = np.array([y_train[i] for i in x_indices_initial])
     print(x_indices_initial)
@@ -159,6 +208,19 @@ def initialize_active_learner(active_learner, y_train):
     return x_indices_initial
 
 def evaluate(active_learner, train, test):
+    """
+    Evaluates the performance of the active_learner against the train and test (evualation) set
+    Prints classification_report against evluation set 
+    :param active_learner: PoolBasedActiveLearner
+        small-text's main active learning object
+    :param train: TransformerDataset
+        the train data 
+    :return test: TransformerDataset
+        test (evaluation) set used to assess performance
+    :return np.ndarray
+        indices of samples in the initially labeled train set
+    """
+
     y_pred = active_learner.classifier.predict(train)
     y_pred_test = active_learner.classifier.predict(test)
     f1_score_test = f1_score(test.y, y_pred_test, average='macro')
@@ -188,6 +250,11 @@ def evaluate(active_learner, train, test):
 
 
 def save_model(model):
+    """
+    save the model
+    :param model: PoolBasedActiveLearner
+        the active learner object to be serialized 
+    """
     date = dt.today().strftime("%Y%m%d")
     name = input("Name of to be saved model[Enter to skip, no save]: ")
     if name != "":
