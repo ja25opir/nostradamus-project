@@ -11,7 +11,7 @@ from pipelines.text_pipeline import TextPipeline
 from pipelines.tools.passthrough_model import PassthroughModelPipeline
 
 
-class RegexCounterPipeline(PassthroughModelPipeline, TextPipeline):
+class FutureRegexFinderPipeline(PassthroughModelPipeline, TextPipeline):
     """
     This pipeline allows to search for regex occurrences within the texts from the text pipeline.
     The texts are discarded; only the count is reported.
@@ -81,5 +81,5 @@ if __name__ == "__main__":
     regex = "|".join(interesting_snippets)
     regex = re.compile(regex, re.IGNORECASE)    # precompile regexes
     out_dir = "data/future_regex_finder/out/"
-    p = RegexCounterPipeline(regex, out_dir)
+    p = FutureRegexFinderPipeline(regex, out_dir)
     p.run()
