@@ -1,1 +1,0 @@
- This means that user can render smoke, fire, temperature, velocity, or any other channel that might become available in the future, using customizable color gradients

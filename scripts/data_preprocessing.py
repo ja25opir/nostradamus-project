@@ -4,7 +4,7 @@ import pandas as pd
 import argparse
 
 
-def import_data(path):
+def import_data(path, output_name):
     print('importing text file...')
     f = open(path, 'r', encoding='utf8')
     lines = f.readlines()
@@ -16,11 +16,11 @@ def import_data(path):
     for index, line in enumerate(lines):
         if len(line) > 1:
             data['candidate'].append(line.strip())
-            data['label'].append(0)
+            data['label'].append(1)
     df = pd.DataFrame(data=data, columns=['candidate', 'label']).astype({'candidate': str, 'label': np.dtype('int16')})
 
     print('saving df as pickle...')
-    df.to_pickle('data/candidates.pkl')
+    df.to_pickle('data/{}.pkl'.format(output_name))
     return df
 
 
@@ -45,7 +45,7 @@ def label_data(data):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--import_data', nargs=1, action='store',
+    parser.add_argument('--import_data', nargs=2, action='store',
                         help='Import data from a given path. Tries to use an existing dataset if not provided.')
     parser.add_argument('--start_labeling', nargs=1, action='store',
                         help='Slice a set of a given size out of the original dataset and present every sentence for '
@@ -56,7 +56,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.import_data:
-        candidates = import_data(args.import_data[0])
+        candidates = import_data(args.import_data[0], args.import_data[1])
     else:
         try:
             candidates = pd.read_pickle('data/candidates.pkl')
