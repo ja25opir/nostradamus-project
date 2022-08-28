@@ -127,7 +127,7 @@ echo "machine ghcr.io login USERNAME password ACCESS_TOKEN" >> $HOME/.config/enr
 ## Import the container from the registry
 
 ```
-srun --mem=32g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
+srun --mem=50g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nostradamus-project:main
 ```
 
 # 6) Usage of data preprocessing scripts
