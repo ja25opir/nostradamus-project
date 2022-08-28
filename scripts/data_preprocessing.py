@@ -5,6 +5,14 @@ import argparse
 
 
 def import_data(path, output_name):
+    """
+    Reads sentences seperated with a newline from a given textfile and writes them into a DataFrame which is saved as
+    data/candidates.pkl.
+    :param path: str
+        path to textfile with sentences
+    :return: DataFrame
+        with columns "candidates" (str) containing the sentences and "labels" (int16) containing 0s.
+    """
     print('importing text file...')
     f = open(path, 'r', encoding='utf8')
     lines = f.readlines()
@@ -25,6 +33,16 @@ def import_data(path, output_name):
 
 
 def split_data(size, data):
+    """
+    Shuffles a given DataFrame and splits it into two sets. The first one gets returned for the labeling process and
+    the second one saved as data/candidates_unlabeled.pkl.
+    :param size: int
+        size of the first set
+    :param data: DataFrame
+        data to be split
+    :return: DataFrame
+        first DF resulting of the split
+    """
     shuffled = data.sample(frac=1).reset_index(drop=True)
     data_slice = shuffled.loc[:size - 1, :]
     data_slice_unlabeled = shuffled.loc[size:, :]
@@ -33,6 +51,11 @@ def split_data(size, data):
 
 
 def label_data(data):
+    """
+    Prints each sentence of a given DataFrame to the CLI and saves the user input as associated label.
+    :param data: DataFrame
+        containing candidates
+    """
     for index, row in data.iterrows():
         print('---Candidate {}---'.format(index))
         print(row['candidate'])
