@@ -50,7 +50,7 @@ about the Future (``data/future_classification.pkl``).
 BUCKET_NAMES = ["corpus-iwo-internet-archive-wide00001"]
 AWS_ACCESS_KEY_ID = INSERT_ACCESS_KEY
 AWS_SECRET = INSERT_SECRET_KEY
-ENDPOINT_URL = http://s3.dw.webis.de:7480/
+ENDPOINT_URL = WEBIS_URL
 
 [pyspark]
 SPARK_INSTANCES = 5
