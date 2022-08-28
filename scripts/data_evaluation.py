@@ -5,6 +5,12 @@ import matplotlib.pyplot as plt
 
 
 def plot_emotions_distribution(plt_data, drop_neutral=False):
+    """
+    Method that creates a horizontal barplot displaying the distribution of assigned emotion classes.
+    Can be done with or without the "neutral"-class.
+    :param plt_data: pd.Series with classes and distributions
+    :param drop_neutral: Boolean whether to drop the "neutral"-class or not
+    """
     emotions_count = plt_data.value_counts(normalize=True, ascending=True).drop(
         'neutral') if drop_neutral else plt_data.value_counts(normalize=True, ascending=True)
     labels = emotions_count.index.tolist()
@@ -27,7 +33,8 @@ if __name__ == '__main__':
 
     data = pd.read_pickle(args.input_file[0])
     emotions = data.iloc[:, 2:]
-    sentences = data.iloc[:, 0]
+
+    # calculate distribution of classes
     assigned_emotions = pd.Series(emotions.idxmax(axis='columns'), name='emotion class')
     max_vals = emotions.max(axis=1)
     low_confidence_idx = max_vals.index[max_vals <= 0.5].tolist()
