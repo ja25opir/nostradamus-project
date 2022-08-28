@@ -8,8 +8,10 @@ def plot_emotions_distribution(plt_data, drop_neutral=False):
     """
     Method that creates a horizontal barplot displaying the distribution of assigned emotion classes.
     Can be done with or without the "neutral"-class.
-    :param plt_data: pd.Series with classes and distributions
-    :param drop_neutral: Boolean whether to drop the "neutral"-class or not
+    :param plt_data: pd.Series
+        with classes and distributions
+    :param drop_neutral: Boolean
+        whether to drop the "neutral"-class or not
     """
     emotions_count = plt_data.value_counts(normalize=True, ascending=True).drop(
         'neutral') if drop_neutral else plt_data.value_counts(normalize=True, ascending=True)

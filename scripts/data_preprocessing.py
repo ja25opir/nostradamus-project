@@ -6,10 +6,11 @@ import argparse
 
 def import_data(path, output_name):
     """
-    Reads sentences seperated with a newline from a given textfile and writes them into a DataFrame which is saved as
-    data/candidates.pkl.
+    Reads sentences seperated with a newline from a given textfile and writes them into a DataFrame that gets saved.
     :param path: str
         path to textfile with sentences
+    :param output_name: str
+        filename of output DataFrame
     :return: DataFrame
         with columns "candidates" (str) containing the sentences and "labels" (int16) containing 0s.
     """
