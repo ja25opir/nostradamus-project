@@ -1,6 +1,7 @@
 *
 !.gitignore
 !candidates*
+!classification*
 !unfiltered.txt
-!classification_set.txt
-!classification_set.pkl
+!emotion_classification.pkl
+!future_classification.pkl
