@@ -54,10 +54,13 @@ class FutureRegexFinderPipeline(PassthroughModelPipeline, TextPipeline):
         :return: str
             all sentences that got a match in one website
         """
+        urls = r"\((?P<url>https?://\S+)\)"
+        sentences = ".*?[.!?]"
+
         reg_matches = self.regex.findall(text)
-        text_no_urls = re.sub(r"\((?P<url>https?://\S+)\)", "", text) # remove remaining urls from text
-        sentences = re.findall('.*?[.!?]', text_no_urls)   # split text up into sentences and preserve delimiters
-        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)])  # search for regex matches
+        text_no_urls = re.sub(urls, "", text)
+        sentences = re.findall(sentences, text_no_urls)
+        matches = "\n".join([s for s in sentences if any(r in s for r in reg_matches)])
         return matches
 
     def export(self, prediction, export_text, url):
