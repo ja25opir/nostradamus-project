@@ -1,11 +1,24 @@
+import argparse
+from tabnanny import verbose
+
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import pandas as pd
 import torch
 import torch.nn.functional as F
 
 if __name__ == "__main__":
+    args_parser = argparse.ArgumentParser()
+    args_parser.add_argument('--import_data', nargs="?", default="data/classification_future.pkl", action='store',
+                            help='Import data from a given path. Tries to use an existing dataset if not provided.')
+    args_parser.add_argument('--save_data', nargs="?", default="data/emotion_classification.pkl", action='store',
+                            help='save data to a given path. Tries to use an existing name if not provided.')                    
+    args_parser.add_argument("-v", "--verbose", action="store_true", 
+                            help="Print additional information on the console.")
+    args = args_parser.parse_args()
+
+
     model_name = "j-hartmann/emotion-english-distilroberta-base"
-    ds_path = "data/classification_future.pkl"
+    ds_path = args.import_data
     target_names = ["anger", "disgust", "fear", "joy", "neutral", "sadness", "surprise"]
 
     # batch the data because classifying everything at once takes too long
@@ -20,7 +33,8 @@ if __name__ == "__main__":
     for i in range(input_data.shape[0] // inference_batch_size + 1):
         if i * inference_batch_size == input_data.shape[0]:
             break
-        print("inference on batch", i + 1)
+        if verbose:
+            print("inference on batch", i + 1)
         input_data_str = input_data["candidate"].values.tolist()[
                          i * inference_batch_size:min(i * inference_batch_size + inference_batch_size,
                                                       input_data.shape[0])]
@@ -33,5 +47,6 @@ if __name__ == "__main__":
     targets = torch.cat(batched_targets, dim=0).numpy()
     for i, target_name in enumerate(target_names):
         input_data[target_name] = targets[:, i]
-    print(input_data)
-    input_data.to_pickle("data/emotion_classification.pkl")
+    if verbose:
+        print(input_data)
+    input_data.to_pickle(args.save_data)

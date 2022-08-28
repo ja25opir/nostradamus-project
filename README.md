@@ -167,8 +167,40 @@ DataFrame.
 
 # 7) Usage of active learning script
 
-TODO \
-use ``--gres=gpu:ampere`` for torch with cuda-support!
+All following commands assume that your shell is located in the root of the git repository
+
+## Execute Active Learning script
+
+``` 
+srun --pty --mem=50g --container-name=nos1 
+--container-image=./nosimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
+--gres=gpu:ampere python3 ./scripts/active_learning.py"
+```
+
 
 # 8) Usage of Future Statements and Emotion classification models
-TODO
+
+## Execute script for labeling future statements
+
+```
+srun --pty --mem=50g --container-name=nos1 
+--container-image=./nosimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
+--gres=gpu:ampere python3 ./scripts/future_inference.py"
+```
+
+## Execute script for labeling statements according to emotion
+
+```
+srun --pty --mem=50g --container-name=nos1 
+--container-image=./nosimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
+--gres=gpu:ampere python3 ./scripts/emotion_inference.py"
+```
+
+## Options
+
+Both above mentioned scripts support following (optional) command line arguments
+
+``--import_data``: Custom path to data. Use default value if not provided. \
+``--save_data``: Custom path to save processed data. Use default value if not provided. \
+``-v, --verbose``: Print extra information . \
+
