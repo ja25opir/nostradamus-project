@@ -137,7 +137,7 @@ srun --mem=32g enroot import --output nosimg.sqsh docker://ghcr.io#ja25opir/nost
 ``` 
 HADOOP_USER_NAME=$USER srun --export=ALL --pty --mem=50g --container-name=nos1 
 --container-image=./nosimg.sqsh --container-mounts=/mnt/ceph:/mnt/ceph --container-writable 
---gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/ja25opir/WARC-DL && 
+--gres=gpu:1g.5gb bash -c " cd /mnt/ceph/storage/data-tmp/teaching-current/USERNAME/WARC-DL && 
 PYTHONPATH=. HADOOP_CONF_DIR="./hadoop/" python3 ../nostradamus-project/scripts/future_regex_finder.py"
 ```
 
