@@ -1,7 +1,8 @@
 - ``candidates.pkl``: contains 7790 sentences that are possibly statements about the future \
 -> **train-test-data for active learning:** \
 ``candidates_labeled.pkl``: contains 200 manually labeled sentences\
-``candidates_unlabeled.pkl``: contains 7590 unlabeled sentences
+``candidates_unlabeled.pkl``: contains 7590 unlabeled sentences\
+-> see Datasheet.pdf for a detailed overview
 
 
 - **input data for trained model** \
