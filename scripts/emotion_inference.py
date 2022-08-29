@@ -32,7 +32,7 @@ def perform_emotion_analysis(model_name, ds_path, save_data, target_names, verbo
     input_data = input_data.loc[input_data["future_statement"] == 0].reset_index(drop=True)
     batched_targets = []
     for i in range(input_data.shape[0] // inference_batch_size + 1):
-        #break if we already at the end of the data
+        # break if we already at the end of the data
         if i * inference_batch_size == input_data.shape[0]:
             break
         if verbose:
@@ -43,10 +43,10 @@ def perform_emotion_analysis(model_name, ds_path, save_data, target_names, verbo
                                                       input_data.shape[0])]
         encoded_inputs = tokenizer(input_data_str, padding=True, truncation="longest_first", return_tensors="pt")
         targets = model(**encoded_inputs)
-        #target contains logits, softmax to get probabilty distribution over all classes
+        # target contains logits, softmax to get probabilty distribution over all classes
         batched_targets.append(F.softmax(targets[0].detach(), dim=1))
-    
-    #concatinate the batches and add the labels to the DataFrame 
+
+    # concatinate the batches and add the labels to the DataFrame
     targets = torch.cat(batched_targets, dim=0).numpy()
     for i, target_name in enumerate(target_names):
         input_data[target_name] = targets[:, i]
@@ -54,16 +54,16 @@ def perform_emotion_analysis(model_name, ds_path, save_data, target_names, verbo
         print(input_data)
     input_data.to_pickle(save_data)
 
+
 if __name__ == "__main__":
     args_parser = argparse.ArgumentParser()
-    args_parser.add_argument('--import_data', nargs="?", default="data/classification_future.pkl", action='store',
-                            help='Import data from a given path. Tries to use an existing dataset if not provided.')
+    args_parser.add_argument('--import_data', nargs="?", default="data/future_classification.pkl", action='store',
+                             help='Import data from a given path. Tries to use an existing dataset if not provided.')
     args_parser.add_argument('--save_data', nargs="?", default="data/emotion_classification.pkl", action='store',
-                            help='save data to a given path. Tries to use an existing name if not provided.')                    
-    args_parser.add_argument("-v", "--verbose", action="store_true", 
-                            help="Print additional information on the console.")
+                             help='save data to a given path. Tries to use an existing name if not provided.')
+    args_parser.add_argument("-v", "--verbose", action="store_true",
+                             help="Print additional information on the console.")
     args = args_parser.parse_args()
-
 
     model_name = "j-hartmann/emotion-english-distilroberta-base"
     ds_path = args.import_data
@@ -72,5 +72,3 @@ if __name__ == "__main__":
     verbose = args.verbose
 
     perform_emotion_analysis(model_name, ds_path, save_data, target_names, verbose)
-
-
