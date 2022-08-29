@@ -50,14 +50,14 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 
     input_data = pd.read_pickle(ds_path)
-    if verbose:
+    if args.verbose:
         print(input_data)
     input_data_str = input_data["candidate"].values
     encoded_inputs = preprocess_data(tokenizer, input_data_str)
 
     targets = model.predict(encoded_inputs)
     input_data["future_statement"] = targets
-    if verbose:
+    if args.verbose:
         print("label_result")
         print(input_data)
     input_data.to_pickle(args.save_data)
