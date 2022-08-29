@@ -1,6 +1,6 @@
-# 1) Research Plan
+# 1) Project Report
 
-Can be taken from the project exposé (/documentation/expose.pdf). Deviations will be documented.
+The research report for this project can be taken from ``documentation/final_report.pdf``.
 
 # 2) Definition of a "Statement about the Future"
 
