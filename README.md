@@ -202,5 +202,5 @@ Both above mentioned scripts support following (optional) command line arguments
 
 ``--import_data``: Custom path to data. Use default value if not provided. \
 ``--save_data``: Custom path to save processed data. Use default value if not provided. \
-``-v, --verbose``: Print extra information . \
+``-v, --verbose``: Print extra information .
 
