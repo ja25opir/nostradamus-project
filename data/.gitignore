@@ -1,5 +1,6 @@
 *
 !.gitignore
+!README.md
 !candidates*
 !classification*
 !emotion_classification.pkl
