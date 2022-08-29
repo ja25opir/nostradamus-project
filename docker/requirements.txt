@@ -9,9 +9,6 @@ transformers
 pandas
 scikit_learn
 small_text
-<<<<<<< HEAD
-=======
 matplotlib
->>>>>>> 6e23f5828277cef0b3ad57c62ee5b11982b08fb1
 --extra-index-url https://download.pytorch.org/whl/cu113
 torch
