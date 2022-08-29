@@ -7,15 +7,14 @@ Can be taken from the project exposé (/documentation/expose.pdf). Deviations wi
 ## Definition of a Statement
 
 "Statements are sentences that express a fact, idea or opinion. Statements do not ask questions, make requests or give
-commands. They are also not exclamations.
-
+commands. They are also not exclamations. \
 Statement sentences can be simple, compound or complex sentences; a sentence always consists of at least one clause
 containing a subject and a verb and nearly always ends in a full stop." \
 source: https://www.theschoolrun.com/what-statement
 
 ## When do we classify a Statement as "about the Future"?
 
-A sentence must match the previous described definition of a statement. Furthermore it must be related to the future,
+A sentence must match the previous described definition of a statement. Furthermore, it must be related to the future,
 e.g. what will happen at some point in the future.
 
 An example statement from the candidate dataset created from our regex pre-filtering that wouldn't be classified as "
@@ -34,7 +33,8 @@ With a small manually labeled dataset and active learning we train a model for t
 the Future. \
 ``data/candidates_labeled.pkl`` contains 88 Statements about the Future and 112 sentences that don't match the
 requirements described in 2). \
-``data/candidates_unlabeled.pkl`` contains 7590 unlabeled candidate sentences.
+``data/candidates_unlabeled.pkl`` contains 7590 unlabeled candidate sentences and 5000 sentences that were extracted
+without the pre-filtering for Statements about the Future.
 
 ## Data labeled by the trained model
 
